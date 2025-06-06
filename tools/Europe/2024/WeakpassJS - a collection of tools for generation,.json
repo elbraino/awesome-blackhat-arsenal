@@ -1,0 +1,15 @@
+{
+  "Tool Name": "WeakpassJS - a collection of tools for generation, bruteforce and hashcracking",
+  "Speakers": [
+    "Ivan Iushkevich"
+  ],
+  "Tracks": [
+    "Cryptography",
+    "Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": null,
+  "Year": "2024",
+  "Location": "Europe"
+}

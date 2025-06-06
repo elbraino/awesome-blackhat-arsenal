@@ -1,0 +1,16 @@
+{
+  "Tool Name": "ByteCodeLLM - Framework for Converting Executable to Source using Open-source Tools and a Fine-tuned LLM Model",
+  "Speakers": [
+    "Amir Landau",
+    "David El"
+  ],
+  "Tracks": [
+    "Reverse Engineering",
+    "Malware Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": null,
+  "Year": "2024",
+  "Location": "Europe"
+}

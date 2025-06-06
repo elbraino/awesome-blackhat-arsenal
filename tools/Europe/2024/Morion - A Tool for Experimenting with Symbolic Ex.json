@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Morion - A Tool for Experimenting with Symbolic Execution on Real-World Binaries",
+  "Speakers": [
+    "Damian Pfammatter"
+  ],
+  "Tracks": [
+    "Exploitation and Ethical Hacking",
+    "Reverse Engineering"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/cyber-defence-campus/morion",
+  "Description": "Morion (https://github.com/cyber-defence-campus/morion) is a proof-of-concept (PoC) tool to experiment with symbolic execution and to investigate the current limitations of this technique when applied to real-world binaries. Morion utilizes Triton (https://github.com/JonathanSalwan/Triton) as its underlying symbolic execution engine and operates in two distinct execution modes: (1) Tracing: Record concrete execution traces (concrete initial register/memory values, as well as a sequence of assembly instructions) of a target binary (optionally in a cross-platform remote setup). (2) Symbolic Execution: Analyze collected program traces by executing them symbolically.\n\nMorion's modular design facilitates the seamless integration of custom symbolic analysis passes. It currently includes passes for detecting and analyzing control-flow and memory hijacking conditions, reasoning about code coverage, as well as assisting with the generation of ROP chains. Currently, Morion's implementation is restricted to ARMv7 binaries. However, the tool can be easily extended to support other architectures compatible with its underlying symbolic execution engine Triton.\n\nTo highlight some of Morion's capabilities, a detailed write-up (https://github.com/cyber-defence-campus/netgear_r6700v3_circled) has been created that demonstrates how the tool can assist in the process of exploit generation. The targeted vulnerability corresponds to CVE-2022-27646, a known stack buffer overflow affecting NETGEAR R6700v3 routers (in version 10.04.120_10.0.91). Along with demonstrating Morion's main functionalities, the write-up provides a comprehensive explanation - including setup, emulation, tracing, symbolic execution, vulnerability description and exploit generation - allowing the interested reader to follow along.",
+  "Year": "2024",
+  "Location": "Europe"
+}

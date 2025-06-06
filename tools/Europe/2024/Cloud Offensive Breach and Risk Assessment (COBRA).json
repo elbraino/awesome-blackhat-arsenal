@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Cloud Offensive Breach and Risk Assessment (COBRA)",
+  "Speakers": [
+    "Harsha Koushik",
+    "Anand Tiwari"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/PaloAltoNetworks/cobra-tool",
+  "Description": "Cloud Offensive Breach and Risk Assessment (COBRA) is an open-source tool designed to empower users to simulate attacks within multi-cloud environments, offering a comprehensive evaluation of security controls. By automating the testing of various threat vectors including external and insider threats, lateral movement, and data exfiltration, COBRA enables organizations to gain insights into their security posture vulnerabilities. COBRA is designed to conduct simulated attacks to assess an organization's ability to detect and respond to security threats effectively.",
+  "Year": "2024",
+  "Location": "Europe"
+}

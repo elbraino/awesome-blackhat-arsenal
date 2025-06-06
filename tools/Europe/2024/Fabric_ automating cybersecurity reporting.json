@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Fabric: automating cybersecurity reporting",
+  "Speakers": [
+    "Sergey Polzunov"
+  ],
+  "Tracks": [
+    "Track: Human Factors"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/traut",
+  "Description": "Fabric is an open-source CLI tool and a configuration language for automating cybersecurity reporting. Taking inspiration from Terraform, we built a reporting-as-code DevSecOps tool that automates data collation and content rendering. By automating operational reporting, Fabric saves security teams time, formalizes communications, and improves stakeholder management.",
+  "Year": "2024",
+  "Location": "Europe"
+}

@@ -1,0 +1,17 @@
+{
+  "Tool Name": "Android BugBazaar: Your mobile appsec playground to Explore, Exploit, Excel",
+  "Speakers": [
+    "Amit kumar",
+    "Vedant Wayal"
+  ],
+  "Tracks": [
+    "Android",
+    "iOS and Mobile Hacking",
+    "Code Assessment"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/payatu/BugBazaar",
+  "Description": "Ever felt frustrated of installing multiple apps to learn and practice Android pentesting? BugBazaar is all in one mobile application designed to serve as a hands-on learning platform for mobile application security enthusiasts. Created intentionally with over 30 vulnerabilities and 10+ features, BugBazaar provides a real-world environment for users to explore, practice, and enhance their mobile app security and penetration testing skills.\nWhether you're a security enthusiast, a developer looking to understand vulnerabilities, a beginner entering the mobile app security arena, or a professional seeking skill refinement, BugBazaar has something for everyone. With a diverse range of vulnerabilities, from \"Remote Code Execution through insecure Dynamic Code Loading\" to \"One Click Account Takeover via deeplink,\" BugBazaar covers an array of scenarios and vulnerabilities commonly found in mobile applications.\nCherry on the top is BugBazaar gets frequent updates with latest vulnerabilities to keep up with current mobile applications security landscape.",
+  "Year": "2024",
+  "Location": "Europe"
+}
