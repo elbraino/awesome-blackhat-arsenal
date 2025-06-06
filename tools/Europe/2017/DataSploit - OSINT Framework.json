@@ -1,0 +1,14 @@
+{
+  "Tool Name": "DataSploit - OSINT Framework",
+  "Speakers": [
+    "Shubham Mittal"
+  ],
+  "Tracks": [
+    "Track: OSINT - Open Source Intelligence"
+  ],
+  "Event": "BH-EU-17",
+  "Github URL": "https://github.com/DataSploit/datasploit",
+  "Description": "DataSploit is an OSINT framework that performs various recon techniques, aggregates all the raw data, and gives data in multiple formats. DataSploit:Performs automated OSINT on a domain/email / username / IP and find out relevant information from different sources.Easy to contribute OSINT Framework.Code for Banner, Main, and Output function. DataSploit automagically does rest of the things for you.Templates to easify your life while contributing.Useful for Pen-testers, Bug Bounty Hunters, Cyber Investigators, Product companies, Security Engineers, etc.Collaborate the results, show them in a consolidated manner.Tries to find out credentials, API-keys, tokens, subdomains, domain history, legacy portals, usernames, dumped accounts, etc. related to the target.Can be used as a library, automated script or standalone scripts.Can generate lists which can be fed to other active scan tools.Generates HTML, along with text files.",
+  "Year": "2017",
+  "Location": "Europe"
+}

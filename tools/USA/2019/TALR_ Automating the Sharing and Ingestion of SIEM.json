@@ -1,0 +1,15 @@
+{
+  "Tool Name": "TALR: Automating the Sharing and Ingestion of SIEM Rules",
+  "Speakers": [
+    "Nick Ascoli",
+    "Kevin Foster"
+  ],
+  "Tracks": [
+    "Track: OSINT - Open Source Intelligence"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/SecurityRiskAdvisors/TALR",
+  "Description": "Keeping up with the evolving landscape of attacker techniques can feel like an uphill battle. Many organizations use a SIEM to perform log correlation and analysis and can attest that keeping rules current is a challenge. To combat the burden of keeping pace with the offensive community, this presentation will detail a new initiative to develop, share, and assess the latest and greatest in alerting logic\u2014the Threat Alert Logic Repository (TALR). TALR is a repository of curated SIEM rules, designed for quick and easy ingestion in to the SIEM tool of your choice. The TALR repository is a publicly available TAXII server intended to keep SIEM engineers and analysts up-to-date on the latest and greatest detection logic. The TALR agent will provide a means to submit new rules to the repository, and to download updates for the latest detection rules (using our repository, or any TAXII server hosting TALR formatted SIEM content).\n\nAttendees will gain a comprehensive overview of TALR and understand how to incorporate it into their environments as a way to remain on the cutting edge of alerting logic, and as a means of enacting more contextualized and informed response.",
+  "Year": "2019",
+  "Location": "USA"
+}

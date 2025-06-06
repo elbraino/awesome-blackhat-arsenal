@@ -1,0 +1,14 @@
+{
+  "Tool Name": "DSInternals PowerShell Module",
+  "Speakers": [
+    "Michael Grafnetter"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/MichaelGrafnetter/DSInternals",
+  "Description": "The DSInternals PowerShell Module exposes many internal and undocumented security-related features of Active Directory. It is included in FireEye's Commando VM and its cmdlets can be used in the following scenarios:\n\n- Active Directory password auditing that discovers accounts sharing the same passwords or having passwords in a public database like HaveIBeenPwned.\n- Offline ntds.dit file manipulation, password resets, group membership changes, SID History injection and enabling/disabling accounts.\n- Bare-metal recovery of domain controllers from just IFM backups (ntds.dit + SYSVOL).\n- Online password hash dumping through the Directory Replication Service Remote Protocol (MS-DRSR).\n- Domain or local account password hash injection, either through the Security Account Manager Remote Protocol (MS-SAMR) or by directly modifying the database.\n- LSA Policy modification through the Local Security Authority Remote Protocol (MS-LSAD / LSARPC).\n- Extracting credential roaming data and DPAPI domain backup keys, either online through directory replication and LSARPC, or offline from ntds.dit files.",
+  "Year": "2019",
+  "Location": "Europe"
+}

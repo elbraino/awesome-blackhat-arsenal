@@ -1,0 +1,12 @@
+{
+  "Tool Name": "ProxyMe",
+  "Speakers": null,
+  "Tracks": [
+    "Track: Web AppSec"
+  ],
+  "Event": "BH-US-14",
+  "Github URL": "https://github.com/jayluxferro/ProxyMe",
+  "Description": "ProxyMe is a modular HTTP/S proxy based on plugins. It's designed and oriented for pen-testing or research purposes. It also has support for analyzing and modifying the traffic, SSL included. It can be used as a regular proxy or as a reverse proxy, supporting also transparent connections, making it perfect for combined attacks of Man In The Middle (or even as a load balancer if you want!).",
+  "Year": "2014",
+  "Location": "USA"
+}

@@ -1,0 +1,16 @@
+{
+  "Tool Name": "SCYTHE: The Yara Signature Crafter that Fingerprints Honeypot Traffic",
+  "Speakers": [
+    "Shashank Gangaraju",
+    "Yu Zeng",
+    "George Chen"
+  ],
+  "Tracks": [
+    "Track: Network Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": null,
+  "Year": "2022",
+  "Location": "Asia"
+}

@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Nishang - Tracking A Windows User",
+  "Speakers": [
+    "Nikhil Mittal"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-EU-15",
+  "Github URL": "https://github.com/samratashok/nishang",
+  "Description": "In this demonstration, we will see how scripts based on built-in Windows tools Windows PowerShell PowerShell, VB Script, .Net Framework, native commands, Registry etc. could be used to keep track of a Windows user.  In addition to having backdoor access, these tools and scripts provide capabilities like taking pics from user webcam, recording MIC, screen-shot/live-streaming of user screen, logging keys, internet history, location tracking and much more.All the scripts in the demo would be a part of Nishang framework.",
+  "Year": "2015",
+  "Location": "Europe"
+}

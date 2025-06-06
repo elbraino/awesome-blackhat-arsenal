@@ -1,0 +1,16 @@
+{
+  "Tool Name": "BloodHound 5.0",
+  "Speakers": [
+    "Andy Robbins",
+    "Rohan Vazarkar"
+  ],
+  "Tracks": [
+    "Exploitation and Ethical Hacking",
+    "Network Attacks"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/ly4k/BloodHound",
+  "Description": "BloodHound 5.0 is faster, more powerful, and easier to deploy and use than any previous version. With this major update, we are completely overhauling BloodHound's code and bringing many features from the commercial versions of BloodHound to the free and open source version. That convergence means we can release features much faster, and that the application is much faster than it ever has been. It also means the deployment model is fundamentally changing.\n\n\nCome see our Arsenal presentation to see how to set up and use BloodHound 5.0, including attack path analysis and execution demonstrations covering on-prem Active Directory and Azure.",
+  "Year": "2023",
+  "Location": "USA"
+}

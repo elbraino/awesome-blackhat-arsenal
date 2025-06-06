@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Cotopaxi - M2M Protocols Assessment Toolkit",
+  "Speakers": [
+    "Jakub Botwicz"
+  ],
+  "Tracks": [
+    "Network Attacks",
+    "Internet of Things"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/Samsung/cotopaxi",
+  "Description": "Cotopaxi is a set of tools for security testing of endpoints using state-of-the-art Machine-To-Machine network protocols (like AMQP, CoAP, gRPC, HTTP/2, HTCPCP, MQTT, DTLS, KNX, mDNS, QUIC, RTSP, SSDP).",
+  "Year": "2022",
+  "Location": "USA"
+}

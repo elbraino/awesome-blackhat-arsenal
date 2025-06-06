@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Automating Fuzzable Target Discovery with Static Analysis",
+  "Speakers": [
+    "Alan Cao"
+  ],
+  "Tracks": [
+    "Vulnerability Assessment",
+    "Reverse Engineering"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": "Vulnerability researchers conducting security assessments on software will often harness the capabilities of coverage-guided fuzzing through powerful tools like AFL++ and libFuzzer. This is important as it automates the bughunting process and reveals exploitable conditions in targets quickly. However, when encountering large and complex codebases or closed-source binaries, researchers have to painstakingly dedicate time to manually audit and reverse engineer them to identify functions where fuzzing-based exploration can be useful.\n\nFuzzable is a framework that integrates both with C/C++ source code and binaries to assist vulnerability researchers in identifying function targets that are viable for fuzzing. This is done by applying several static analysis-based heuristics to pinpoint risky behaviors in the software and the functions that executes them. Researchers can then utilize the framework to generate basic harness templates, which can then be used to hunt for vulnerabilities, or to be integrated as part of a continuous fuzzing pipeline, such as Google's oss-fuzz.\n\nIn addition to running as a standalone tool, Fuzzable is also integrated as a plugin for Binary Ninja, with support for other disassembly backends being developed.",
+  "Year": "2022",
+  "Location": "USA"
+}

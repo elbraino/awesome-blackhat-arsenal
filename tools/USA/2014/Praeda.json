@@ -1,0 +1,12 @@
+{
+  "Tool Name": "Praeda",
+  "Speakers": null,
+  "Tracks": [
+    "Track: Hardware / Embedded"
+  ],
+  "Event": "BH-US-14",
+  "Github URL": "https://github.com/percx/Praeda/blob/master/jobs/MP0020.pl",
+  "Description": "Praeda - Latin for \"plunder, spoils of war, booty\". Praeda is an automated data/information harvesting tool designed to gather critical information from various embedded devices.",
+  "Year": "2014",
+  "Location": "USA"
+}

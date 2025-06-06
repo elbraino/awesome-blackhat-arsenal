@@ -1,0 +1,14 @@
+{
+  "Tool Name": "DSP: Docker Security Playground",
+  "Speakers": [
+    "Simon Pietro Romano"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/DockerSecurityPlayground/DSP",
+  "Description": "This presentation covers the design and implementation of the Docker Security Playground (DSP), an architecture leveraging a microservices-based approach in order to build complex network infrastructures specifically tailored to the study of network security. DSP has been conceived at the outset as a tool for learning network security with a hands-on approach. A number of security labs have been already realized and made available in a public repository. The talk discusses how such labs can be fruitfully exploited by students, as well as presents the Application Programming Interface offered to programmers interested in the implementation of new labs.",
+  "Year": "2018",
+  "Location": "USA"
+}

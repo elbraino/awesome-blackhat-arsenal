@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Armitage - A Scriptable Red Team Collaboration Tool",
+  "Speakers": [
+    "Raphael Mudge"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-US-13",
+  "Github URL": "https://github.com/xxgrunge/armitage",
+  "Description": "Armitage is a scriptable red team collaboration tool built on top of the Metasploit Framework. Through its programming language, Cortana, it's possible to integrate outside tools into Armitage's workflow and make them available in a team friendly way. This demonstration will introduce Armitage's collaboration features and highlight Cortana's improved abilities to integrate tools into Armitage's collaboration architecture.",
+  "Year": "2013",
+  "Location": "USA"
+}

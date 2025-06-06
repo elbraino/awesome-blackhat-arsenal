@@ -1,0 +1,16 @@
+{
+  "Tool Name": "Prowler, Open Source for Multi-Cloud Security Assessments and Pentesting",
+  "Speakers": [
+    "Toni de la Fuente",
+    "Pepe Fagoaga"
+  ],
+  "Tracks": [
+    "Vulnerability Assessment",
+    "Network Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": "Whether you use AWS, Azure or Google Cloud, Prowler helps to assess, audit, pentest and harden your cloud infrastructure configuration and resources.",
+  "Year": "2023",
+  "Location": "USA"
+}

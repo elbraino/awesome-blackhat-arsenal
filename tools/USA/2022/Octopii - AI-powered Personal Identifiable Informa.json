@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Octopii - AI-powered Personal Identifiable Information (PII) scanner",
+  "Speakers": [
+    "Owais Shaikh"
+  ],
+  "Tracks": [
+    "Track: OSINT - Open Source Intelligence"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/redhuntlabs/Octopii",
+  "Description": "Octopii is an open-source AI-powered Personal Identifiable Information (PII) scanner that can look for image assets such as Government IDs, passports, photos and signatures in a directory.",
+  "Year": "2022",
+  "Location": "USA"
+}

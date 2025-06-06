@@ -1,0 +1,14 @@
+{
+  "Tool Name": "MUD-Visualizer",
+  "Speakers": [
+    "Vafa Andalibi"
+  ],
+  "Tracks": [
+    "Track: Internet of Things"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/iot-onboarding/mud-visualizer",
+  "Description": "Manufacturer Usage Description (MUD) is a recently introduced IETF standard designed to protect IoT devices and networks by isolating IoT device based on the information that define the behavior of that device. The standard defines a straight-forward method to implement a defensive mechanism based on the rules that are introduced by manufacturer of the device. MUD-Files are the core component of the MUD standard and contain the access control information of IoT devices. However, MUD-Files may contain possibly hundreds of access control rules. As a result, reading and validating these files is a challenge; and determining how multiple IoT devices interact is difficult for the developer and infeasible for the consumer. MUD-Visualizer is a tool that provides a visualization of any number of MUD-Files and is designed to enable developers to produce correct MUD-Files by providing format corrections, integrating them with other MUD-Files, and identifying conflicts through visualization. MUD-Visualizer is scalable and its core task is to merge and illustrate ACEs for multiple devices; both within and beyond the local area network.",
+  "Year": "2020",
+  "Location": "USA"
+}

@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Sqlchop",
+  "Speakers": [
+    "Yusen Chen"
+  ],
+  "Tracks": [
+    "Track: Web AppSec"
+  ],
+  "Event": "BH-US-15",
+  "Github URL": "https://github.com/chaitin/sqlchop",
+  "Description": "This awesome new tool, sqlchop, is a new SQL injection detection engine, using a pipeline of smart recursive decoding, lexical analysis and semantic analysis. It can detect SQL injection query with extremely high accuracy and high recall with 0day SQLi detection ability, far better than nowadays' SQL injection detection tools, most of which based on regex rules. We proposed a novel algorithm to achieve both blazing fast speed and accurate detection ability using SQL syntax analysis.I will provide a web interface to demonstrate our new engine. And some CTF-like SQL injection challenge. Hackers are welcomed to have a try.We will prepare gifts and bonus for those who bypass our engine successfully.",
+  "Year": "2015",
+  "Location": "USA"
+}

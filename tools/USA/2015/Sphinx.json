@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Sphinx",
+  "Speakers": [
+    "Takehiro Takahashi"
+  ],
+  "Tracks": [
+    "Track: Data Forensics/Incident Response"
+  ],
+  "Event": "BH-US-15",
+  "Github URL": "https://github.com/hiro4848/sphinx",
+  "Description": "Sphinx is a highly scalable open source security monitoring tool that offers real-time auditing and analysis of host activities. It works by having clients forward various types of event logs including process execution with cryptographic signature (MD5 hash), network activity, dll/driver loading, as well as miscellaneous system events to a Sphinx server where each event is recorded and analyzed.With Sphinx, you can quickly find an answer to questions like:- Can we get a list of every event that happened on machine X between date Y and date Z?- Can we graphically trace what happened on my computer in the last 10 minutes because I feel there's something weird going on?- Who has run a piece of malware whose existence cannot be detected by our existing Anti-Virus product on our network?Give me a list of program executions as well as dll loads whose reputation is questionable or bad:- Is there Office application making outbound connection to China?- Are there any dlls injected into explorer.exe whose digital signature does not belong to Microsoft?You can build both simple and complex queries to search for threats. These queries can be run recurrently, and send alerts whenever there's a hit.",
+  "Year": "2015",
+  "Location": "USA"
+}

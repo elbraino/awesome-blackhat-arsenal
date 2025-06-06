@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Social Mapper: Social Media Correlation Through Facial Recognition",
+  "Speakers": [
+    "Jacob Wilkin"
+  ],
+  "Tracks": [
+    "Track: OSINT - Open Source Intelligence"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/Greenwolf/social_mapper",
+  "Description": "Social Mapper is a Open Source Intelligence Tool that uses facial recognition to correlate social media profiles across different sites on a mass scale. It takes an automated approach to searching popular social media sites for targets names and pictures to accurately detect and group a person's presence, outputting the results into report that a human operator can quickly review. Social Mapper has a variety of uses in the security industry, for example the automated gathering of large amounts of social media profiles for use on targeted phishing campaigns. Facial recognition aids this process by removing false positives in the search results, so that reviewing this data is quicker for a human operator.\n\nSocial Mapper supports the following social media platforms:\n\nLinkedIn\nFacebook\nTwitter\nGooglePlus\nInstagram\nVKontakte\nWeibo\nDouban\n\nSocial Mapper takes a variety of input types such as:\n\nAn organization's name\nA folder full of named images\nA CSV file with names and url's to images online",
+  "Year": "2018",
+  "Location": "USA"
+}

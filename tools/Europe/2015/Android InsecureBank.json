@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Android InsecureBank",
+  "Speakers": [
+    "Dinesh Shetty"
+  ],
+  "Tracks": [
+    "Track: Android, iOS and Mobile Hacking"
+  ],
+  "Event": "BH-EU-15",
+  "Github URL": "https://github.com/dineshshetty/Android-InsecureBankv2",
+  "Description": "Ever wondered how different attacking and exploiting a Mobile application would be, from a traditional web application? Gone are the days when knowledge of just SQL Injection or XSS could help you land a lucrative high-paying infoSec job.Watch as Dinesh walks you through his new and shiny updated custom application - \"Android-InsecureBank\" and some other source code review tools, to help you understand some known and some not so known Android Security bugs and ways to exploit them.This presentation will cover Mobile Application Security attacks that will get n00bs as well as 31337 attendees started on the path of Mobile Application Penetration testing.Some of the vulnerabilities in the Android InsecureBank application that will be discussed (but not limited to) are:- Flawed Broadcast Receivers- Root Detection and Bypass- Local Encryption issues- Vulnerable Activity Components- Insecure Content Provider access- Insecure Webview implementation- Weak Cryptography implementation- Application Patching- Sensitive Information in MemoryExpect to see a lot of demos, tools, hacking and have lots of fun.",
+  "Year": "2015",
+  "Location": "Europe"
+}

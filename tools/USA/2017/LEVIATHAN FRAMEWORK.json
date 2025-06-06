@@ -1,0 +1,15 @@
+{
+  "Tool Name": "LEVIATHAN FRAMEWORK",
+  "Speakers": [
+    "Ozge Barbaros",
+    "Utku Sen"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/utkusen/leviathan",
+  "Description": "Leviathan is a mass audit toolkit which has wide range service discovery, brute force, SQL injection detection and running custom exploit capabilities. It consists open source tools such masscan, ncrack, dsss and gives you the flexibility of using them with a combination. The main goal of this project is auditing as many system as possible in country-wide or in a wide IP range.\n\nMain Features:\n\nDiscovery: Discover FTP, SSH, Telnet, RDP, MYSQL services running inside a specific country or in an IP range via Shodan, Censys. It's also possible to manually discover running services on a IP range by integrated \"masscan\" tool.\nBrute Force: You can brute force the discovered services with integrated \"ncrack\" tool. It has wordlists which includes most popular combinations and default passwords for specific services.\nRemote Command Execution: You can run system commands remotely on compromised devices.\nSQL Injection Scanner: Discover SQL injection vulnerabilities on websites with specific country extension or with your custom Google Dork.\nExploit Specific Vulnerabilities: Discover vulnerable targets with Shodan, Censys or masscan and mass exploit them by providing your own exploit or using pre-included exploits.",
+  "Year": "2017",
+  "Location": "USA"
+}

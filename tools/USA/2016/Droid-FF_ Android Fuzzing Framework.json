@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Droid-FF: Android Fuzzing Framework",
+  "Speakers": [
+    "Anto Joseph"
+  ],
+  "Tracks": [
+    "Track: Android, iOS and Mobile Hacking"
+  ],
+  "Event": "BH-US-16",
+  "Github URL": "https://github.com/antojoseph/droid-ff",
+  "Description": "Droid-FF is the very first Android fuzzing framework which helps researchers find memory corruption bugs written in c /c ++ \u00e2\u0080\u0093 It comes as a VM which is ready to go and easy to work with. Why Droid-FF ? Native code is preferred over JIT languages due to their memory efficiency and speed, but security bugs within native code can result in exploits that can take over the Android system . The goal of the fuzzer is help researchers find security bugs by fuzzing Android.What does it do?Data Generation Currently includes Peach, with some pre-populated pit files, which helps in generating data be it \"dex,ttf,png,avi,mp4\" etcApproaches a . Dumb fuzzing: From a large input section of valid data , the fuzzer generates new data with mutations in place. b. Intelligent Fuzzing: We create a file format representation of the target data and let the fuzzer generate data which is structurally valid, but has invalid data in sections.Fuzzing System The fuzzing system is an automated program which runs the dataset against the target program and deals with any error conditions that can possibly happen. It also maintains state so that we could resume the fuzzing from the right place in an event of a crash.Advanced Triage System In the event of a valid crash, the triage system collects the tombstone files which contains the dump of the registers and system state with detailed information. It also collects valid logs and the file responsible for the crash and moves it to the triage database. The triage database runs scripts on the data derived from crashes, like the type pf the crash, for eg : SIGSEGV, the PC address at this crash and checks for any duplicate, if found, the duplicate entry is removed and is moved to crashes for investigation.What we're using during this lab? The android system which we are going to fuzz is an Engineering build from AOSP which has symbols, thus in an event of a crash, it will be much easier to triage the crash. The system supports fuzzing real devices, emulators , and images running on virtual box. How Efficient is this Framework? We ran the fuzzer in Intelligent fuzzing mode with mp4 structure fed in for 14 hours on the stagefright binary and it was able to reproduce 3 crashes which were exploitable ( CVE's) and lots of un-interesting crashes mostly dude to out of memory, duplicates or null pointers.Goals of the FrameworkMake Fuzzing Easy and available for allCompletely open source and extensibleMake android eco-system more secure",
+  "Year": "2016",
+  "Location": "USA"
+}

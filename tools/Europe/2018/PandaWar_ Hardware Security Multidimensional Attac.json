@@ -1,0 +1,16 @@
+{
+  "Tool Name": "PandaWar: Hardware Security Multidimensional Attack and Defense Toolset",
+  "Speakers": [
+    "JIE FU",
+    "Mingchuang Qin",
+    "Kunzhe Chai"
+  ],
+  "Tracks": [
+    "Track: Hardware/Embedded"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": "This is a hardware attack and defense tool platform. It will help you quickly master and implement a variety of hardware attack methods.\n\nIt includes ultrasonic attacks, RFID attacks, power side channel attacks, and radio defense etc.\n\nAll open source, design idea, design concept, design method, code, schematic, PCB.",
+  "Year": "2018",
+  "Location": "Europe"
+}

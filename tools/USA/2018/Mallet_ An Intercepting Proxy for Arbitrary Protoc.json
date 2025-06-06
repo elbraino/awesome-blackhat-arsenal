@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Mallet: An Intercepting Proxy for Arbitrary Protocols",
+  "Speakers": [
+    "Rogan Dawes"
+  ],
+  "Tracks": [
+    "Track: Network Attacks"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/sensepost/mallet",
+  "Description": "This prsentation will focus on a new open-source intercepting proxy named Mallet, based on the mature and high-performance Netty framework, that wraps it with a drag and drop graph-based graphical user interface and a datastore. In doing so, we gain access to an existing library of protocol implementations, including TLS (and SNI), various compression algorithms, HTTP, HTTP/2, MQTT, REDIS, and many others, and most important, an existing community of developers creating new protocol decoders and encoders, and the associated body of knowledge in this area.\n\nThe Mallet user interface closely follows the Netty model, making it simple to construct a pipeline of encoders and decoders by dragging existing codecs, or adding your own codecs or script blocks to a palette, taking the researcher from a simple TCP intercept-and-forward proxy, to a full-blown protocol stack with scriptable processing, with every change being recorded for review and replay in a subsequent connection. As Netty supports a variety of transports, from the common TCP and UDP to SCTP, Serial Port and File, as well as native kqueue and epoll transports, Mallet can be used to intercept all sorts of data, however you may find it.\n\nSource Code: https://github.com/SensePost/Mallet",
+  "Year": "2018",
+  "Location": "USA"
+}

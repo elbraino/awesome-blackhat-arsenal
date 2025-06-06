@@ -1,0 +1,15 @@
+{
+  "Tool Name": "JVMXRay",
+  "Speakers": [
+    "Milton Smith"
+  ],
+  "Tracks": [
+    "Data Forensics/Incident Response",
+    "AppSec"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/spoofzu/jvmxray",
+  "Description": "JVMXRay is technology for monitoring access to system resources within the Java Virtual Machine at runtime. Since JVMXRay integrates with virtual machine, no code changes to the application are required for operation. An ancillary benefit of no code required is that the technology provides insight into 3rd party libraries used by your application and commercial software where no source code is available. JVMXRay is designed with application security emphasis but it's beneficial for other areas like software quality processes and diagnostics. JVMXRay may be extended to work with many technologies like OWASP Dependency Check and other tools.",
+  "Year": "2020",
+  "Location": "USA"
+}

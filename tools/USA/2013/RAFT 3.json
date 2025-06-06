@@ -1,0 +1,15 @@
+{
+  "Tool Name": "RAFT 3",
+  "Speakers": [
+    "Gregory Fleischer",
+    "Nathan Hamiel"
+  ],
+  "Tracks": [
+    "Track: Web AppSec"
+  ],
+  "Event": "BH-US-13",
+  "Github URL": "https://github.com/Averroes/raft",
+  "Description": "RAFT (Response Analysis and Further Testing) is an open source Python tool designed to assist with web application assessments.",
+  "Year": "2013",
+  "Location": "USA"
+}

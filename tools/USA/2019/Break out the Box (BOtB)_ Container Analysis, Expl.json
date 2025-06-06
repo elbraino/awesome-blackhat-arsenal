@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Break out the Box (BOtB): Container Analysis, Exploitation and CICD Tool",
+  "Speakers": [
+    "Chris Le Roy"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/brompwnie/botb",
+  "Description": "BOtB is the first tool aimed at hackers and developers to automate Container exploitation. BOtB is a tool that can be used to analyze and identify vulnerabilities for Containers such as LXC and Docker. Not only does BOtB provide the user with a detailed analysis of identified vulnerabilities of the container, BOtB provides an autopwn feature which allows for the user to automagically exploit the vulnerabilities identified and break out onto the host. BOtB is able to identify multiple container vulnerabilities and contains a vast collection of exploits to break out of the container. BOtB is also developer friendly and has a Continuous Integration Continuous Development (CICD) mode which when enabled, BOtB will attempt to autopwn identified vulnerabilities but instead of dropping to host shells, it will return exit codes greater than 0 which is used by CICD technologies to indicate failed tests. When used in an Agile SDLC process implementing DevSecOps principles, this can assist developers with identifying Container issues prior to production deployments. BOtB is written in Golang and is distributed as a binary for multiple platforms.",
+  "Year": "2019",
+  "Location": "USA"
+}

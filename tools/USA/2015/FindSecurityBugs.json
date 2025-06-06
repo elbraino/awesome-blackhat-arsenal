@@ -1,0 +1,14 @@
+{
+  "Tool Name": "FindSecurityBugs",
+  "Speakers": [
+    "Philippe Arteau"
+  ],
+  "Tracks": [
+    "Track: Code Assessment"
+  ],
+  "Event": "BH-US-15",
+  "Github URL": "https://github.com/find-sec-bugs/find-sec-bugs",
+  "Description": "FindSecurityBugs is a plugin for the Java static analysis tool FindBugs. This plugin consists of set rules that focus only on security weaknesses. It can be use by developers or security analysts to find vulnerabilities in their code.The plugin can identify weaknesses in Java web applications, Scala web applications and Android mobile applications. The assessment can be done in an IDE, such as Eclipse, or IntelliJ. It can also be configured in continuous integration environment, such as SonarQube.The demonstrations at BH Arsenal will focus on the integration in IntelliJ and SonarQube. Example of vulnerable applications will be scanned and basic code review methodology will be presented.FindSecurityBugs has already received some attention from the security community. It is integrated in the SWAMP code review service funded by the DHS. The OWASP Top 10 describe the tool as \"the most promising\" from the open source alternatives. It is used in the academia for security laboratories and the commercial sector. Finally, it was used with success in the code review of the Norwegian Voting System in 2013.The tool is released under LGPL and it is available for download at http://h3xstream.github.io/find-sec-bugs/",
+  "Year": "2015",
+  "Location": "USA"
+}

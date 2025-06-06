@@ -1,0 +1,14 @@
+{
+  "Tool Name": "EGRESSION",
+  "Speakers": [
+    "Daniel Miessler"
+  ],
+  "Tracks": [
+    "Track: Malware Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/danielmiessler/egression",
+  "Description": "Egression is an enterprise traffic egress control testing and ranking system. It is a command-line tool that checks an organization's ability to restrict outbound uploads of sensitive data (a file containing fake CC numbers, SSNs, National ID numbers, addresses, names, and other PII) using increasingly difficult levels (which use increasingly evasive techniques), and then provides the rating for the given organization based on how difficult it was to egress the data from the network.",
+  "Year": "2017",
+  "Location": "USA"
+}

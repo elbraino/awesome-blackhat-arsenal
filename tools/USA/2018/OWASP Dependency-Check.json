@@ -1,0 +1,14 @@
+{
+  "Tool Name": "OWASP Dependency-Check",
+  "Speakers": [
+    "Jeremy Long"
+  ],
+  "Tracks": [
+    "Track: Code Assessment"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/jeremylong/DependencyCheck",
+  "Description": "With the number of critical vulnerabilities in FOSS libraries that have affected so many applications over the last few years - Software Composition Analysis is a critical component to maintaining the security of your custom application. From Struts to Spring to jackson-databind, etc. the list of libraries that have had vulnerabilities that lead to remote code execution in the applications using the libraries goes on and on. As does the list of sites that have been compromised by these vulnerabilities. OWASP dependency-check is an open source Software Composition Analysis tool that provides a solution the `OWASP Top 10 2017: A9 - Using Components with Known Vulnerabilities`.",
+  "Year": "2018",
+  "Location": "USA"
+}

@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Sigma Hunting App for Splunk",
+  "Speakers": [
+    "Patrick Barei\u00df"
+  ],
+  "Tracks": [
+    "Track: Malware Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/P4T12ICK/Sigma-Hunting-App",
+  "Description": "The Sigma Hunting App for Splunk addresses two main challenges: missing collaboration in detection rule development and automated deployment of detection rules. By using Sigma as an generic signature description language, security analysts and security researcher from all over the world can work together independent from their SIEM tool. The joint detection rule development improves the general detection capabilities of the Security Operations Centers. The manual deployment of a detection rule in Splunk was a time-consuming task in order to complete all the needed fields for a scheduled search. The Sigma Hunting App solves that problem by providing a dedicated Splunk App, which can be used to dynamically update Sigma detection rules from a Git repository.\n\nFurthermore, the Sigma Hunting App supports the analyst in their investigations of triggered detection rules. The triggered detection rules are stored as events in a separate threat-hunting index enriched with data of the Mitre ATT&CK Matrix.\n\nThe audience should learn the following aspects:\n\nA modern approach of detection rule development\nContinuous Delivery in detection rule development through the Sigma Hunting App\nInstalling and configuring the Sigma Hunting App\nAutomated deployment of detection rules into Splunk\nFeatures of the Sigma Hunting App\nUsing Sigma Hunting App to find suspicious behavior",
+  "Year": "2019",
+  "Location": "Europe"
+}

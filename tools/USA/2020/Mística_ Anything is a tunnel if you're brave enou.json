@@ -1,0 +1,15 @@
+{
+  "Tool Name": "M\u00edstica: Anything is a tunnel if you're brave enough - Covert channels for everyone!",
+  "Speakers": [
+    "Carlos Fern\u00e1ndez",
+    "Ra\u00fal Caro Teixid\u00f3"
+  ],
+  "Tracks": [
+    "Track: Network Attacks"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": "From exposing internal network ports in restricted environments to the internet to controlling a meterpreter implant via DNS, everything is possible with protocol encapsulation.\n\nTo prove this, we have developed M\u00edstica, a tool that allows us to finely tune how we want to create a tunnel over protocols like HTTP, DNS and more, and combine this encapsulation with custom applicatrions like io, shell or port redirection.\n\nM\u00edstica allows to embed data into other protocol fields, with the goal of establishing a bi-directional channel for arbitrary communications. M\u00edstica has a modular design, built around a custom transport protocol, called SOTP (Simple Overlay Transport Protocol). Data is encrypted, chunked and put into SOTP packets. SOTP packets are encoded and embedded into the desired field of the application protocol, and sent to the other end.\n\nDuring this talk, we will talk about how to quickly design and create covert channels over different protocols and for different purposes. This is both useful for red teams that need new ways to hide their traffic and blue teams that want to easily test their monitoring capabilities.\n\nWe will do several demos, where we showcase how encapsulation works and how we can end up tunneling a RAT (meterpreter, in this case) connection over DNS. We will also showcase how to expose any port over the desired covert channel to combine it with tools like Evil-WinRM, for instance.\n\nM\u00edstica is available at https://github.com/IncideDigital/Mistica under the GPLv3 license",
+  "Year": "2020",
+  "Location": "USA"
+}

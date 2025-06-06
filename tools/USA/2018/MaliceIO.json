@@ -1,0 +1,14 @@
+{
+  "Tool Name": "MaliceIO",
+  "Speakers": [
+    "Josh Maine"
+  ],
+  "Tracks": [
+    "Track: Malware Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/gunguy831/malice-1",
+  "Description": "Malice's mission is to be a free open source version of VirusTotal that anyone can use at any scale from an independent researcher to a fortune 500 company.\n\nSource Code: https://github.com/maliceio/malice",
+  "Year": "2018",
+  "Location": "USA"
+}

@@ -1,0 +1,14 @@
+{
+  "Tool Name": "FruityC2",
+  "Speakers": [
+    "xtr4nge xtr4nge"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-EU-17",
+  "Github URL": "https://github.com/xtr4nge/FruityC2",
+  "Description": "FruityC2 is a post-exploitation (and open source) framework based on the deployment of agents on compromised machines. Agents are managed from a web interface under the control of an operator. It works as a command-and-control model and is language and system agnostic. New agents are being developed to expand the capabilities and options for FruityC2.A web client is used to interact with the FruityC2 API in a client/server mode. The client is a single web page divided into 5 sections: Interact, Listener, Payload, Delivery, Config. These options provide full control and access to the functions included in FruityC2 to create, deliver and interact with a functioning C2 capability.",
+  "Year": "2017",
+  "Location": "Europe"
+}

@@ -1,0 +1,12 @@
+{
+  "Tool Name": "PowerSploit",
+  "Speakers": null,
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-US-14",
+  "Github URL": "https://github.com/PowerShellMafia/PowerSploit",
+  "Description": "PowerSploit is a popular collection of Microsoft PowerShell modules that can be used to aid reverse engineers, forensic analysts, and penetration testers during all phases of an assessment. Come see how PowerShell can be leveraged to accomplish things that would otherwise be impossible such as, loading binaries directly into memory. Joseph Bialek and Chris Campbell will demonstrate how to utilize PowerSploit to bypass security products through all phases of a mock penetration test which includes enumeration, exploitation, privilege-escalation, credential theft, and pivoting to other hosts. They will share tips and tricks to leverage PowerShell in your own tools and highlight the new privilege escalation module being introduced at ToolsWatch.",
+  "Year": "2014",
+  "Location": "USA"
+}

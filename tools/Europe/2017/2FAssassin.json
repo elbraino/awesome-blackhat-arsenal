@@ -1,0 +1,14 @@
+{
+  "Tool Name": "2FAssassin",
+  "Speakers": [
+    "Maxwell Koh"
+  ],
+  "Tracks": [
+    "Track: Malware Offense"
+  ],
+  "Event": "BH-EU-17",
+  "Github URL": "https://github.com/dothanthitiendiettiende/2FAssassin",
+  "Description": "There are many ways to steal someone's private keys without performing social engineering attacks. This talk is dedicated to discussing and demonstrating the newly discovered techniques to bypass the two-factor authentication by stealing and cracking OTP, private keys, and client certificates. By that means, an attacker must compromise the voice or text message accounts, software token, infecting memory agents, cracking passphrase, stealing hardware token, etc. 2FAssassin could turn these looted keys for more fun and profits. The demonstration will include the scenario where the private keys are compromised and then show how an attacker could leverage the situation to gain more access into the corporate networks, as well as making profits. These are not limited to systems that used single sign-on (with 2FA enabled), public key authentication (e.g., password-less authentication, authorized_keys abuse), free software token (e.g., Google Authenticator), website owner (e.g., phishing sites created using stolen private key), and even software vendors (e.g., stolen private key can be used to sign the malicious malware). 2FAssassin will automate the exploitations against the common vulnerabilities that lead to the private key leakage. It can be used to compromise individual system, or the entire network using looted private keys. It also capable to analyze and identify potential private keys from a pool of gathered files, critical key information extraction in order to identify and validate the target domain, cracking and removing the passphrase, injecting arbitrary key-based backdoors to all accessible machines, building multi-chained covert tunnels by leveraging on the loopholes found in vulnerable public key authentication, sign the malware with looted private key followed by automatic bulk distribution, generate phishing site, ... etc, and many many more exciting functionalities.",
+  "Year": "2017",
+  "Location": "Europe"
+}

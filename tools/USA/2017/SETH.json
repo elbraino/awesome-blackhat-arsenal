@@ -1,0 +1,14 @@
+{
+  "Tool Name": "SETH",
+  "Speakers": [
+    "Adrian Vollmer"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/SySS-Research/Seth",
+  "Description": "Seth is a tool written in Python and Bash to MitM RDP connections. It attempts to downgrade the connection and extract clear text credentials - even with Network Level Authentication enabled.\n\nThe default configuration in a Windows landscape is to use self-signed certificates to secure SSL connections to RDP hosts. Since self-signed certificates provide almost no security at all, it is obvious that an attacker in a \"Man in the Middle\" position can simply present their own certificate and eavesdrop on the connection. However, so far there were no freely available open source tools that can do this. In order to raise awareness of how important it is to use properly signed certificates, Seth was developed.\n\nIt performs a man in the middle attack, downgrades any additional security if possible and extracts interesting information, such as password hashes, clear text credentials or key stroke events.",
+  "Year": "2017",
+  "Location": "USA"
+}

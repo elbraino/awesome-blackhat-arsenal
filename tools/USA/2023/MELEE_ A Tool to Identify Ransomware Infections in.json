@@ -1,0 +1,15 @@
+{
+  "Tool Name": "MELEE: A Tool to Identify Ransomware Infections in MySQL Deployments",
+  "Speakers": [
+    "Aditya K Sood"
+  ],
+  "Tracks": [
+    "Malware Defense",
+    "Network Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/adityaks/melee",
+  "Description": "Attackers are abusing MySQL instances for conducting nefarious operations on the Internet. The cybercriminals are targeting exposed MySQL instances and triggering infections at scale to exfiltrate data, destruct data, and extort money via ransom. For example one of the significant threats MySQL deployments face is ransomware. We have authored a tool named \"MELEE\" to detect potential infections in MySQL instances. The tool allows security researchers, penetration testers, and threat intelligence experts to detect compromised and infected MySQL instances running malicious code. The tool also enables you to conduct efficient research in the field of malware targeting cloud databases.",
+  "Year": "2023",
+  "Location": "USA"
+}

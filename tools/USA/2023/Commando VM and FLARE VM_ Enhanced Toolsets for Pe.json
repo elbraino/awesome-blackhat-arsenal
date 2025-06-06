@@ -1,0 +1,19 @@
+{
+  "Tool Name": "Commando VM and FLARE VM: Enhanced Toolsets for Penetration Testing and Windows-Based Malware Analysis",
+  "Speakers": [
+    "George Litvinov",
+    "Alex Tselevich",
+    "Jake Barteaux",
+    "Dennis Tran",
+    "Joseph Clay"
+  ],
+  "Tracks": [
+    "Exploitation and Ethical Hacking",
+    "Reverse Engineering"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/mandiant/commando-vm",
+  "Description": "We are excited to release the latest version of Commando VM and showcase recent advancements of FLARE VM at the Black Hat Arsenal. Commando VM is a virtual machine distribution focused on penetration testing and red teaming. FLARE VM is tailored for malware analysis and reverse engineering. Both Windows-based tools have undergone significant enhancements to improve their usability, functionality, and efficiency. The projects now open source all packages, allowing the community to add and improve tools. Additionally, we have implemented a new GUI installation process to streamline the setup and configuration experience for both new and experienced users.\n\nThe latest iteration boasts new profiles for Commando VM, enabling users to tailor their environment to specific penetration testing and red teaming scenarios. Whether the user focuses on Cloud, Web App, or Internal testing, Commando VM has a ready-to-use profile for them with all relevant configurations and toolkit. In addition to that, the user can also create and save their own custom profile, allowing them to easily automate future VM deployments.\n\nFurthermore, we have made substantial quality of life improvements, including debloating and performance optimization, resulting in faster, leaner, and more efficient virtual machines. Users will benefit from these enhancements as they navigate through the intricacies of malware analysis, reverse engineering, and penetration testing with the updated Commando VM and FLARE VM toolsets.\n\nJoin us at the Black Hat Arsenal to discover the power and flexibility of the next generation of Commando VM and FLARE VM. We will share how the updated tools can support your workflows in malware analysis, reverse engineering, and penetration testing. Additionally, you will learn how to contribute new tool and code updates benefiting thousands of analysts around the world.",
+  "Year": "2023",
+  "Location": "USA"
+}

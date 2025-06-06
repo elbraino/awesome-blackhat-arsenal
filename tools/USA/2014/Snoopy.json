@@ -1,0 +1,12 @@
+{
+  "Tool Name": "Snoopy",
+  "Speakers": null,
+  "Tracks": [
+    "Track: OSINT - Open Source Intelligence"
+  ],
+  "Event": "BH-US-14",
+  "Github URL": "https://github.com/duantianyu/Snoopy",
+  "Description": "Snoopy is a distributed tracking, data interception, and profiling framework. The software can run on small, cost-effective hardware (BeagleBone, RaspberryPi) and be deployed over a large area (we call these 'drones'). Each Snoopy drone passively or actively collects information on people who walk past from the array of wireless (Wi-Fi, Bluetooth, etc.) devices that they carry on their person. This information is synchronized to a central server where we can visually explore it with tools like Maltego.",
+  "Year": "2014",
+  "Location": "USA"
+}

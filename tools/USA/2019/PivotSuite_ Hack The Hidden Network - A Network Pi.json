@@ -1,0 +1,14 @@
+{
+  "Tool Name": "PivotSuite: Hack The Hidden Network - A Network Pivoting Toolkit",
+  "Speakers": [
+    "Manish Gupta"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/RedTeamOperations/PivotSuite",
+  "Description": "PivotSuite is a portable, platform independent and powerful network pivoting toolkit, which helps Red Teamers/Penetration Testers to use a compromised system to move around inside a network. It is a Standalone Utility, which can be uses as a Server or as a Client.\n\nPivotSuite as a Server: If the Compromised host is directly accessible (Forward Connection) from our pentest machine, then we can run pivotsuite as a server on a compromised machine and access the different subnet hosts from our pentest machine, which was only accessible from a compromised machine.\n\nPivotSuite as a Client: If the Compromised host is behind a Firewall/NAT and isn't directly accessible from our pentest machine, then we can run pivotsuite as a server on pentest machine and pivotsuite as a client on compromised machine for creating a reverse tunnel. Using this, we can reach different subnet hosts from our pentest machine, which was only accessible from a compromised machine.\n\nKey Features:\n\nSupported Forward & Reverse TCP Tunneling\nSupported Forward & Reverse Socks5 Proxy Server\nUDP over TCP and TCP over TCP Protocol Supported\nCorporate Proxy Authentication (NTLM) Supported\nInbuilt Network Enumeration Functionality, Eg. Host Discovery, Port Scanning, OS Command Execution\nPivotSuite allows to get access to different Compromised host and their network, simultaneously (Act as C&C Server)\nSingle Pivoting, Double Pivoting and Multi-level pivoting can perform with help of PivotSuite\nPivotSuite also works as SSH Dynamic Port Forwarding but in the Reverse Direction\n\nAdvantage Over Other tools:\n\nDoesn't required admin/root access on Compromised host\nPivotSuite also works when Compromised host is behind a Firewall / NAT, When Only Reverse Connection is allowed\nNo dependency other than python standard libraries\nNo Installation Required\nUDP Port is accessible over TCP",
+  "Year": "2019",
+  "Location": "USA"
+}

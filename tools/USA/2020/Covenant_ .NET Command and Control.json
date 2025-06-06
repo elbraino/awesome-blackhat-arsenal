@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Covenant: .NET Command and Control",
+  "Speakers": [
+    "Ryan Cobb"
+  ],
+  "Tracks": [
+    "Track: Malware Offense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/cobbr/Covenant",
+  "Description": "Covenant is a .NET command and control platform and web application that aims to highlight the attack surface of the .NET Framework and .NET Core, make the use of offensive .NET tradecraft easier, and serve as a collaborative platform for red teamers.\n\nCovenant is multi-platform, multi-user, provides an intuitive web application interface, and is extendible through an API.\n\nCovenant includes multiple built-in implants that utilize the traditional .NET Framework and .NET Core, which gives Covenant multi-platform implants that run on Windows, Linux, and MacOS. Additionally, Covenant allows operators to edit and add additional custom implants.\n\nCovenant includes built-in support for custom and complex command and control routing. The platform includes built-in outbound listeners, including an HTTP and TCP listener, and peer-to-peer SMB communications over named pipes, which allows for complex implant networking. The platform also includes a protocol for adding new, custom communication protocols that gives the operator complete control over how the command and control traffic appears on the wire.\n\nCovenant includes tons of built-in tasks based on libraries such as SharpSploit and GhostPack, and uses dynamic C# compilation and ConfuserEx obfuscation on tasks and payloads.\n\nCovenant also has an emphasis on implant and network communication security to protect the data accessed by implants. Covenant implements an Encrypted Key Exchange protocol between implants and listeners to achieve forward secrecy for new implants and enforces SSL certificate pinning for implants.\n\nIn the age of EDR and threat hunting, red teamers need flexible, robust, and intuitive command and control platforms. Red teamers need the ability to collaborate with teammates, customize implant behavior and command and control traffic, track artifacts, and quickly adapt for defensive technologies. In this demo, you'll be shown how to accomplish this with Covenant.",
+  "Year": "2020",
+  "Location": "USA"
+}

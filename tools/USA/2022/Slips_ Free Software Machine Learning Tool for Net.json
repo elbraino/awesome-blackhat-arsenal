@@ -1,0 +1,17 @@
+{
+  "Tool Name": "Slips: Free Software Machine Learning Tool for Network Intrusion Prevention System",
+  "Speakers": [
+    "Alya Gomaa",
+    "Sebastian Garcia",
+    "Kamila Babayeva"
+  ],
+  "Tracks": [
+    "Network Defense",
+    "Malware Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/stratosphereips/StratosphereLinuxIPS",
+  "Description": "Slips is a behavioral-based intrusion prevention system, and the first free software to use machine learning to detect attacks in the network. It is a modular system that profiles the behavior of IP addresses and performs detections in time windows.\nSlips' modules detect a range of attacks both to and from the protected devices.\nSlips connects to other Slips using P2P, and exports alerts to other systems.\n\nSlips works in several directionality modes. The user can choose to detect attacks coming *to* or going *from* these profiles. This makes it easy to protect your network but also to focus on infected computers inside your network.\n\nSlips includes the download/management of external Threat Intelligence feeds (now working with 44 external feeds, including our own), whois/asn/geocountry/mac vendor enrichment, a LSTM neural net for malicious behavior detection, port scans, ICMP scans, long connection detection, data upload, malicious JA3/SSL certificate matching, leak detection and many more.\nEnsembling algorithms are used for blocking decisions.\nThe P2P module connects to other Slips to share alerts.\n\nSlips can read packets from an interface, PCAPs, Suricata, Zeek, Argus and Nfdump, and can output alerts files. Having Zeek as a base tool, Slips can correctly build a sorted timeline of flows combining all Zeek logs. Slips can send alerts using the STIX/TAXII protocol, to CESNET servers using IDEA0 format or to Slack.\n\nThe Kalipso Node.js interface allows the analysts to see the profiles' behaviors and detections performed by Slips modules directly in the console. Kalipso displays the flows of each profile and time window and compares those connections in charts/bars. It also summarizes the whois/asn/geocountry information for each IP in your traffic. Kalipso is being migrated to a web console.",
+  "Year": "2022",
+  "Location": "USA"
+}

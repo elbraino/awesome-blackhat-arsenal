@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Automatic API Attack Tool",
+  "Speakers": [
+    "Boris Serebro"
+  ],
+  "Tracks": [
+    "Track: Vulnerability Assessment"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/imperva/automatic-api-attack-tool",
+  "Description": "Imperva's customizable API attack tool takes an API specification as an input, creates and runs attacks which are based on it as an output.\n\nAfter researching the web, we didn't find an automatic tool which takes an API specification and checks the server offering the service against it. But we saw a high demand for such a tool from the community. So we decided to build it.\n\nThe tool is able to parse the API specification and create fuzzing attack scenarios based on what it defines, and outside of its definition. Each endpoint is injected with cleverly generated values within the boundaries defined by the specification, and outside of it, the appropriate requests are sent and their success or failure are reported in a detailed manner. It is also able to run various security attack vectors targeted at the existing endpoints, or even non-existing ones (such as illegal resource access, XSS, SQLi and RFI).\nNo human intervention needed, simply run the tool and get the results.\n\nThe tool can be easily extended to adapt to the various needs; whether it is a developer who wants to test the API she wrote or an organization which wants to run regular vulnerability or positive security scans on its public API, you name it. It is built with CI/CD in mind.\n\nWe are using this tool, among other tools, to check our security products internally.",
+  "Year": "2019",
+  "Location": "Europe"
+}

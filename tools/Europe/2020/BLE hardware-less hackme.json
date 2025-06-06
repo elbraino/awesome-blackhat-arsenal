@@ -1,0 +1,14 @@
+{
+  "Tool Name": "BLE hardware-less hackme",
+  "Speakers": [
+    "Slawomir Jasek"
+  ],
+  "Tracks": [
+    "Track: Internet of Things"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/smartlockpicking/BLE_HackMe",
+  "Description": "The new, free tool aims to help getting familiar with the very basics of ubiquitous Bluetooth Low Energy technology and its (in)security - without the need of any dedicated hardware. It is based on a specially designed software (running on a typical Windows 10 laptop) - which simulates a BLE device, on the radio layer working exactly the same as a real one. The simulated device contains several \"hackme\" challenges of increasing level: starting with simple communication protocol introduction up to unlocking smart locks. Most of these challenges can be solved using nothing more than just a free mobile application, which connects via Bluetooth to the laptop running simulated device. This unique approach makes the fun available for everyone who would like to start the journey into fascinating vulnerabilities of BLE devices, but is afraid of gearing up with special hardware or steep learning curve for advanced tools. The basics possible to grasp using the introduced hackme can however be easily applicable to take control of surprisingly lot of real devices surrounding us.",
+  "Year": "2020",
+  "Location": "Europe"
+}

@@ -1,0 +1,16 @@
+{
+  "Tool Name": "Art of Dancing with Shackles: Best Practice of App Store Malware Automatic Hunting System",
+  "Speakers": [
+    "Ju Zhu",
+    "Lilang Wu",
+    "Moony Li"
+  ],
+  "Tracks": [
+    "Track: Malware Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/lilang-wu/iOS-AppStore-Malware-Automatic-Hunting-System",
+  "Description": "We all know the iOS system from Apple to be one of the most secure among all popular operating systems. From a technical view, the protection feature of sandbox gardened application, runtime code signing check, hardware level application code packing protection and so forth, and Apple Store security check policy is extremely strict - before any application is released on Apple Store.\n\nHowever, this is bad news for security vendors, for the defense protection solution has no chance being granted sufficient privilege to detect and defeat attacks in deep level, when end user suffered real APT attack such as PEGASUS. Our tools is aimed at introducing the tricks and lessons of Apple Store apps automatic crawling and security sandbox automatic analysis systems for security researchers and security vendors in the world.\n\nSource Code: https://github.com/dongyangwu/iOS-AppStore-Malware-Automatic-Hunting-System",
+  "Year": "2018",
+  "Location": "USA"
+}

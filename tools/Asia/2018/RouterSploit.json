@@ -1,0 +1,15 @@
+{
+  "Tool Name": "RouterSploit",
+  "Speakers": [
+    "Marcin Bury",
+    "Blane Cordes"
+  ],
+  "Tracks": [
+    "Track: Hardware / Embedded"
+  ],
+  "Event": "BH-ASIA-18",
+  "Github URL": null,
+  "Description": "RouterSploit is an exploitation framework for embedded devices written in python.",
+  "Year": "2018",
+  "Location": "Asia"
+}

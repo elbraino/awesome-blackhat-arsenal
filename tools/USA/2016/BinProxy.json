@@ -1,0 +1,14 @@
+{
+  "Tool Name": "BinProxy",
+  "Speakers": [
+    "Ryan Koppenhaver"
+  ],
+  "Tracks": [
+    "Track: Network Attacks"
+  ],
+  "Event": "BH-US-16",
+  "Github URL": "https://github.com/nccgroup/BinProxy",
+  "Description": "BinProxy is a tool for understanding and manipulating binary network traffic; it's designed to provide straightforward and useful out-of-the box functionality, with a convenient, powerful environment for developers and penetration testers to build protocol-specific extensions.The core functionality of BinProxy is an intercepting TCP proxy. With no coding, users can view and edit intercepted traffic as text or a hex dump, but the real power of the tool comes from protocol-specific parser classes (built with Ruby and the BinData gem) that present higher-level representations of a protocol. BinProxy comes with a few sample parsers, and a number of utility methods that allow users to easily create their own.The tool also supports pluggable filters to unwrap TLS, act as a SOCKS proxy, or perform other pre- or post-processing of messages. The demo will also include a simple \"BinProxy in a box\" setup with a dedicated wireless router.",
+  "Year": "2016",
+  "Location": "USA"
+}

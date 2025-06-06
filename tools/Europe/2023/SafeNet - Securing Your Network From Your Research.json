@@ -1,0 +1,15 @@
+{
+  "Tool Name": "SafeNet - Securing Your Network From Your Research",
+  "Speakers": [
+    "David El"
+  ],
+  "Tracks": [
+    "Reverse Engineering",
+    "Network Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/cyberark/SafeNet",
+  "Description": "In the world of Cyber Security and especially malware research and reverse engineering, we often put ourselves and our PCs at constant risk, and a common method to mitigate this is by using a Virtual Machine and while this method is great for keeping our PCs safe, it does not address a larger issue - our network.\n\nThis is true especially now, with the rise in popularity of remote and hybrid work where we have to research on networks that lack corporate-level protection solutions like our homes!\n\nSafeNet is a solution to keep our research labs and dirty virtual machines connected to the internet, all while segregating them from our local network and keeping it safe, ensuring that we can continue researching while staying as safe as possible.",
+  "Year": "2023",
+  "Location": "Europe"
+}

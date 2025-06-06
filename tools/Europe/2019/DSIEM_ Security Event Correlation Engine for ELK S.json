@@ -1,0 +1,15 @@
+{
+  "Tool Name": "DSIEM: Security Event Correlation Engine for ELK Stack",
+  "Speakers": [
+    "Toto A Atmojo",
+    "Memet Anwar"
+  ],
+  "Tracks": [
+    "Track: Data Forensics and Incident Response"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": "DSIEM is a security event correlation engine for ELK stack, allowing the platform to be used as a dedicated and full-featured SIEM system.\n\nDSIEM provides OSSIM-style correlation for normalized logs/events, perform lookup/query to threat intelligence and vulnerability information sources, and produces risk-adjusted alarms.",
+  "Year": "2019",
+  "Location": "Europe"
+}

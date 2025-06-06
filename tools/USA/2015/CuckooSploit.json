@@ -1,0 +1,14 @@
+{
+  "Tool Name": "CuckooSploit",
+  "Speakers": [
+    "David Oren"
+  ],
+  "Tracks": [
+    "Track: Web AppSec"
+  ],
+  "Event": "BH-US-15",
+  "Github URL": "https://github.com/davidoren/CuckooSploit",
+  "Description": "CuckooSploit is an environment for comprehensive, automated analysis of web-based exploits, based on Cuckoo sandbox.The framework accepts URL or a PCAP file, and works at three levels:Exploitation Process - Detecting the core components of the exploitation process (ROP chains, shellcodes, and heap sprays) for when exploitation takes place but fails to launch payload for several reasons, along with immediate successful post-exploitation phenomena (example, process creation).Full Flow Emulation - Implementing the approach of full web emulation, rather than emulation of a single file at a time, since many exploits served by Exploit Kits do not work out of the web-page context (require configurations and/or arguments).Web Flow Detection  Redirection sequence chains, JavaScript obfuscations, evasion techniques.By using full web emulation on different combinations of OS/browser/plugin version, CuckooSploit increases the rate of malicious URL detection and presents a reliable verdict and, in some cases, CVE identification.",
+  "Year": "2015",
+  "Location": "USA"
+}

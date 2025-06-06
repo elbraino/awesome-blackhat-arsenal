@@ -1,0 +1,14 @@
+{
+  "Tool Name": "ROADtools and ROADrecon",
+  "Speakers": [
+    "Dirk-jan Mollema"
+  ],
+  "Tracks": [
+    "Track: Network Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/dirkjanm/ROADtools",
+  "Description": "ROADtools is a framework to interact with Azure AD. It currently consists of a library (roadlib) and the ROADrecon Azure AD exploration tool.\n\nROADlib is a library that can be used to authenticate with Azure AD or to build tools that integrate with a database containing ROADrecon data. The database model in ROADlib is automatically generated based on the metadata definition of the Azure AD internal API.\n\nROADrecon is a tool for exploring information in Azure AD from both a Red Team and Blue Team perspective. In short, this is what it does:\n\n- Uses an automatically generated metadata model to create an SQLAlchemy backed database on disk.\n- Use asynchronous HTTP calls in Python to dump all available information in the Azure AD graph to this database.\n- Provide plugins to query this database and output it to a useful format.\n- Provide an extensive interface built in Angular that queries the offline database directly for its analysis.\n\nROADrecon also provides a built-in plugin to export it's data to a custom version of BloodHound with Azure AD capabilities.\n\nBoth ROADtools and ROADrecon are completely free and open source software.",
+  "Year": "2020",
+  "Location": "USA"
+}

@@ -1,0 +1,15 @@
+{
+  "Tool Name": "PowerUpSQL: A PowerShell Toolkit for Attacking SQL Serversin Enterprise Environments",
+  "Speakers": [
+    "Antti Rantasaari",
+    "Scott Sutherland"
+  ],
+  "Tracks": [
+    "Track: Network Attacks"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/NetSPI/PowerUpSQL",
+  "Description": "PowerUpSQL includes functions that support SQL Server discovery, weak configuration auditing, privilege escalation on scale, and post exploitation actions such as OS command execution. It is intended to be used during internal penetration tests and red team engagements. However, PowerUpSQL also includes many functions that can be used by administrators to quickly inventory the SQL Servers in their ADS domain and perform common threat hunting tasks related to SQL Server. This should be interesting to red, blue, and purple teams interested in automating day to day tasks involving SQL Server.\n\nSource Code: https://github.com/netspi/powerupsql\nSlides: https://bit.ly/2OxbGYy\ufeff\nVideo: https://youtu.be/UX_tBJQtqW0",
+  "Year": "2018",
+  "Location": "USA"
+}

@@ -1,0 +1,14 @@
+{
+  "Tool Name": "AutoRDPwn: The Shadow Attack Framework",
+  "Speakers": [
+    "Joel G\u00e1mez"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/JoelGMSec/AutoRDPwn",
+  "Description": "AutoRDPwn is a post-exploitation framework created in Powershell, designed primarily to automate the Shadow attack on Microsoft Windows computers. This vulnerability (catalogued as a feature by Microsoft) allows a remote attacker to view the desktop of his victim without his consent, and even control it on demand, using native tools of the operating system itself.\n\nThanks to the additional modules, it is possible to obtain a remote shell through Netcat, dump system hashes with Mimikatz, load a remote keylogger and much more. All this, through a totally intiutive menu in seven different languages.\n\nIn this talk, we will briefly review the most common remote desktop attacks and the big difference the Shadow attack makes to them. Afterwards, we will make different live demonstrations, in which all the functionalities of the tool will be put into practice. Some of them are the following:\n\n- UAC, AMSI and Windows Defender Bypass\n- Remote Shell using native system and third party tools\n- Obtaining hashes and pass the hash\n- Remote execution without credentials via SMB, WMI and WinRM\n- Shadow attack on different operating systems (both desktop and server versions)\n- Miscellaneous (remote keylogger, one-line execution, pivoting and more)",
+  "Year": "2020",
+  "Location": "USA"
+}

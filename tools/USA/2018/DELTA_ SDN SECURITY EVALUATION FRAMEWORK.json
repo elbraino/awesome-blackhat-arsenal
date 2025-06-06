@@ -1,0 +1,17 @@
+{
+  "Tool Name": "DELTA: SDN Security Evaluation Framework",
+  "Speakers": [
+    "Jinwoo Kim",
+    "Seungsoo Lee",
+    "Seungwon Shin",
+    "Seungwon Woo"
+  ],
+  "Tracks": [
+    "Track: Network Attacks"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/seungsoo-lee/DELTA",
+  "Description": "Software-Defined Networking (SDN) allows network operators to manage the entire network in a centralized manner by separating the vendor specific control plane from legacy routers/switches. Thus, this concept provides an intelligent way to design novel network functions. However, although SDN offers significant advantages over the traditional networking, the security of SDN has not been sufficiently verified. So, here, we introduce an open source tool for systematically assessing the security of SDN called DELTA.\n\nDELTA is a first SDN security evaluation framework, which has two primary functions; (1) It can automatically instantiate known attack cases against SDN elements across diverse environments, and (2) it can assist in uncovering unknown security problems within an SDN deployment. For replaying attack cases, our framework has a number of test cases against open source SDN controllers and all SDN-enabled switch devices (software and hardware). Also, our framework provides a protocol-aware fuzzer for OpenFlow, which is a de-facto standard protocol of SDN, in order to find new vulnerabilities.\n\nDELTA has following main features:\n\nFully automatically reproduce 40 published exploits against all SDN components composed of SDN controllers, a control channel, and OpenFlow-enabled switches.\nProvide a blackbox fuzzing module that randomizes OpenFlow messages.\nSupport for both VM-based all-in-one single machine and hardware-based environments.\nFully compatible with promising SDN controllers (ONOS, OpenDaylight, Floodlight, and Ryu).\n[NEW] Support additional 7 new attacks against SDN switches (i.e., OVS, HP, and Pica8), which are discovered from DELTA fuzzing module.\n[NEW] Support DISTRIBUTED controller testing and related attack cases.\n[NEW] Provide a new fuzzing module that discovers security problems of REST-API implementations in SDN controllers and related attack cases.",
+  "Year": "2018",
+  "Location": "USA"
+}

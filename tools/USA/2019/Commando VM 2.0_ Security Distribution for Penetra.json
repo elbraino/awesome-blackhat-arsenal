@@ -1,0 +1,16 @@
+{
+  "Tool Name": "Commando VM 2.0: Security Distribution for Penetration Testers and Red Teamers",
+  "Speakers": [
+    "Jacob Barteaux",
+    "Blaine Stancill",
+    "Nhan Huynh"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/mandiant/commando-vm",
+  "Description": "Commando VM is an open-source Windows-based security distribution designed for Penetration Testers and Red Teamers. It is an add-on from FireEye's very successful Reverse Engineering distribution: FLARE VM. Much like Kali Linux, Commando VM is designed with an arsenal of open-source offensive tools that will help operators achieve assessment objectives.\n\nBeing built on Windows, Commando VM comes with all the native support for accessing Active Directory environments. Additionally, Commando VM includes Web Application assessment tools, scripting languages (such as Python and Go), Information Gathering tools (such as Nmap, WireShark, and PowerView), Exploitation Tools (such as PowerSploit, GhostPack and Mimikatz), Persistence tools, Lateral Movement tools, Evasion tools, Post-Exploitation tools (such as FireEye's SessionGopher), Remote Access tools, Command-Line tools, and all the might of FLARE VM's reversing tools.\n\nCommando VM 1.0 was greeted with tremendous enthusiasm and praise when it debuted at Black Hat Asia in Singapore this year; afterwards, it generated lots of media buzz. Less than two weeks after release our GitHub repository had over 2000 followers and over 400 forks. For Black Hat USA, we are debuting Commando VM 2.0, with full support for Kali on the Windows Subsystem for Linux, as well as giving users the ability to customize what tools get installed on their system.",
+  "Year": "2019",
+  "Location": "USA"
+}

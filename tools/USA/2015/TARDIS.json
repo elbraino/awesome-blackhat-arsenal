@@ -1,0 +1,14 @@
+{
+  "Tool Name": "TARDIS",
+  "Speakers": [
+    "Travis Smith"
+  ],
+  "Tracks": [
+    "Track: Data Forensics/Incident Response"
+  ],
+  "Event": "BH-US-15",
+  "Github URL": "https://github.com/Tripwire/TARDIS",
+  "Description": "Tripwire Automated Reconnaissance and Deep Inspection System (TARDIS) is a framework which ties together threat feed data such as STIX and vulnerability scan data and references log repositories for indicators of compromise(IoC).  Threat feeds and log repositories contain mountains of data that can be difficult to manage.  TARDIS pulls relevant data from each and outputs the filtered data which matters to information security operation teams.  During Arsenal, we'll show live attacks, exploits and detection mechanisms with TARDIS.  Learn how to integrate the tool into your existing infrastructure and how to add value through additional threat feed data.",
+  "Year": "2015",
+  "Location": "USA"
+}

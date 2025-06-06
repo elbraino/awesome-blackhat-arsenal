@@ -1,0 +1,14 @@
+{
+  "Tool Name": "ioc2rpz: Where Threat Intelligence Meets DNS",
+  "Speakers": [
+    "Vadim Pavlov"
+  ],
+  "Tracks": [
+    "Track: Malware Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/Homas/ioc2rpz",
+  "Description": "DNS is the control plane of the Internet with unprecedented detailed views on applications, devices and even transferred data going in and out of a network. 80% of malware uses DNS to communicate with Command & Control for DNS data exfiltration/infiltration and phishing attacks using lookalike domains. Response Policy Zones or DNS Firewall is a feature which allows us to apply security policies on DNS. Commercial DNS Firewall feeds providers usually do not allow users to generate their own feeds. Cloud only DNS service providers do not provide feeds for on-prem DNS.\n\nioc2rpz is a DNS server which automatically creates, maintains and distributes DNS Firewall feeds from various local (files, DB) and remote (http, ftp, rpz) sources. This enables easy integrations with Threat Intel providers and Threat Intelligence Platforms. The feeds can be distributed to any open source and commercial DNS servers which support RPZ, e.g. ISC BIND, PowerDNS, Infoblox, BlueCat, Efficient IP etc. With ioc2rpz you can create your own feeds, actions and prevent undesired communications before they happen.\n\nhttps://ioc2rpz.net is a community portal which is powered by ioc2rpz where you can try several free DNS Firewall feeds.\n\nRpiDNS is a new feature integrated into ioc2rpz.gui which includes an installation script and a web interface to monitor and manage local secure DNS services.",
+  "Year": "2020",
+  "Location": "USA"
+}

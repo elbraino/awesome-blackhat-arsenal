@@ -1,0 +1,14 @@
+{
+  "Tool Name": "SCoDA: Smart COntract Defender and Analyzer",
+  "Speakers": [
+    "AJIT HATTI"
+  ],
+  "Tracks": [
+    "Track: Code Assessment"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": "SCoDA (Smart Contract Defender and Analyzer) module in LAMMA tool, written in python for solidity based smart contract scanning. The tools is a unified and python ported version of various other scanners and vulnerabilities reported on Ethereum Platform.",
+  "Year": "2018",
+  "Location": "USA"
+}

@@ -1,0 +1,15 @@
+{
+  "Tool Name": "KWETZA",
+  "Speakers": [
+    "Chris Le Roy"
+  ],
+  "Tracks": [
+    "Track: Android",
+    "iOS and Mobile Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/sensepost/kwetza",
+  "Description": "Kwetza infects an existing Android application with either custom or default payload templates (Smali). Backdooring APK's has often been a manual process involving multiple steps and procedures. Kwetza automates the entire process and allows the target application to be infected in such a way that the application will behave and function as it normally does. Kwetza also allows you to infect Android applications using the target application's default permissions or inject additional permissions to gain additional functionality.",
+  "Year": "2017",
+  "Location": "USA"
+}

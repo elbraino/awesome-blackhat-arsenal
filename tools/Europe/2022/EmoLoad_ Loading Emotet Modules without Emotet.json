@@ -1,0 +1,16 @@
+{
+  "Tool Name": "EmoLoad: Loading Emotet Modules without Emotet",
+  "Speakers": [
+    "Oleg Boyarchuk",
+    "Stefano Ortolani"
+  ],
+  "Tracks": [
+    "Malware Offense",
+    "Reverse Engineering"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": null,
+  "Year": "2022",
+  "Location": "Europe"
+}

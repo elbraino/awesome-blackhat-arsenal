@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Binfuzz.js",
+  "Speakers": [
+    "Artem Dinaburg"
+  ],
+  "Tracks": [
+    "Track: Reverse Engineering"
+  ],
+  "Event": "BH-US-13",
+  "Github URL": "https://github.com/artemdinaburg/binfuzz",
+  "Description": "Binfuzz.js is a library for fuzzing structured binary data in JavaScript. Structured binary data is data that can be easily represented by one or more C structures: it is composed of fixed size fields and any variable length fields are counted by another structure member. Numerous network and file formats are structured binary data, including SSL, DNS, and most image formats. Things that aren't structured binary data include languages (such as HTML or JavaScript) or text-based protocols (such as HTTP) or text-based file formats (such as PDF). A live example will be shown using Binfuzz.js to generate Windows ICO files to stress a browser's icon parsing and display code. ICO is a complex format that contains images of different sizes for optimal display based on context. Binfuzz.js will try generating edge cases such as an icon with 0xFFFF images of size 0xFFFFFFFF by 0xFFFFFFF, and cases such as saying that there are 128 images but only supplying data for one, among many other permutations. It is the author's hope that others will extend binfuzz.js for other use cases.",
+  "Year": "2013",
+  "Location": "USA"
+}

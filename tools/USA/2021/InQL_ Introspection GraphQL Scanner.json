@@ -1,0 +1,14 @@
+{
+  "Tool Name": "InQL: Introspection GraphQL Scanner",
+  "Speakers": [
+    "Andrea Brancaleoni"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/doyensec/inql",
+  "Description": "InQL is an open-source toolbox for GraphQL. In addition to introspection and enumeration, our tool allows probing for GraphQL specific vulnerabilities. Over the course of the last few years, InQL became the go-to tool for GraphQL penetration testing thanks to its flexibility.\n\nInQL is suited specifically for security audits and manual penetration testing with its tight integration with Burp Suite. In addition to that, InQL also provides an easily accessible API and command-line interface that can be integrated with other \u201cshift-left\u201d security engineering practices.\n\nDuring the session, we will showcase InQL superpowers: black-box queries generation, cycles detection, CSRF helpers, and the newly integrated SQLi exploiter.\n\nResources:\n- https://github.com/doyensec/inql\n- https://blog.doyensec.com/2018/05/17/graphql-security-overview.html\n- https://blog.doyensec.com/2020/03/26/graphql-scanner.html\n- https://blog.doyensec.com/2021/05/20/graphql-csrf.html\n- https://blog.doyensec.com/2020/11/19/inql-scanner-v3.html\n- https://blog.doyensec.com/2020/06/11/inql-scanner-v2.html",
+  "Year": "2021",
+  "Location": "USA"
+}

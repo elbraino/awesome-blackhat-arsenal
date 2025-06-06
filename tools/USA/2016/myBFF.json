@@ -1,0 +1,14 @@
+{
+  "Tool Name": "myBFF",
+  "Speakers": [
+    "Kirk Hayes"
+  ],
+  "Tracks": [
+    "Track: Web AppSec"
+  ],
+  "Event": "BH-US-16",
+  "Github URL": "https://github.com/rapid7/myBFF",
+  "Description": "myBFF is a new open source tool which combines fingerprinting and brute forcing against some common web applications, including Citrix, HP, Juniper, and MobileIron, to add intelligence to password guessing. Better yet, this tool is modular, allowing the easy expansion of the tool to include not only other web applications, but also other services. The best part is that the tool will do more than just tell you if a credential pair is valid! You don't want to miss this tool!",
+  "Year": "2016",
+  "Location": "USA"
+}

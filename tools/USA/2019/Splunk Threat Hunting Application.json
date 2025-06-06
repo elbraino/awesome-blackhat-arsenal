@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Splunk Threat Hunting Application",
+  "Speakers": [
+    "Olaf Hartong"
+  ],
+  "Tracks": [
+    "Track: Network Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/olafhartong/ThreatHunting",
+  "Description": "This is a Splunk application containing several dashboards and over 120 reports that will facilitate initial hunting indicators to investigate. One of the reasons this app was created is because the endpoint is an often used entry way into a network. There are quite some Endpoint Detection & Remediation (EDR) solutions out there and most of them are quite good; however, they can be costly and not everyone is able to afford that (yet).\n\nThe goal was to create an alternative approach to the detection aspect, using the MITRE ATT&CK framework and work with the existing environment. It allows you to leverage your existing data platform, in this case Splunk.",
+  "Year": "2019",
+  "Location": "USA"
+}

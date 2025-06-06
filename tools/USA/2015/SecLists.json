@@ -1,0 +1,15 @@
+{
+  "Tool Name": "SecLists",
+  "Speakers": [
+    "Jason Haddix",
+    "Daniel Miessler"
+  ],
+  "Tracks": [
+    "Track: Web AppSec"
+  ],
+  "Event": "BH-US-15",
+  "Github URL": "https://github.com/danielmiessler/SecLists",
+  "Description": "If you have been in the industry a little while you start to realize that tools are only as good as their fuzz lists. Great lists are the secret sauce behind mapping, bruteforcing, web exploitation, etc.The SecLists project is a collection of multiple types of lists used during security assessments. List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads, mapping/discovery, and many more. Our goals are to enable a security tester to pull this repo onto a new testing box and have access to every type of list that may be needed. This makes security testers less reliant on one tool and more empowered to write their own (or use the one of their choice).Come check out this project and we will walk you through several usages for the seclists project using your favorite proxies (Burp + ZAP, ++) and show how you can use it to enhance your current testing methodology!",
+  "Year": "2015",
+  "Location": "USA"
+}

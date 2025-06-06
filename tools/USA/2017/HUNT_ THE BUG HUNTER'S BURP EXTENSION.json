@@ -1,0 +1,18 @@
+{
+  "Tool Name": "HUNT: THE BUG HUNTER'S BURP EXTENSION",
+  "Speakers": [
+    "Fatih Egbatan",
+    "JP Villanueva",
+    "Jason Haddix",
+    "Ryan Black",
+    "Vishal Shah"
+  ],
+  "Tracks": [
+    "Track: Web AppSec"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/bugcrowd/HUNT",
+  "Description": "What if you could super-charge your bug hunting? Not through automation (since it can miss so much) but through powerful alerts created from real threat intelligence? What if you had a Burp plugin that did this for you? What if that plugin not only told you where to look for vulns but also gave you curated resources for additional exploitation and methodology? Well, now you do! HUNT is a new Burp Suite extension that aims to arm bug hunters and web testers with parameter level suggestions on where to look for certain classes of vulnerabilities (SQLi, CMDi, LFI/RFI, and more!).",
+  "Year": "2017",
+  "Location": "USA"
+}

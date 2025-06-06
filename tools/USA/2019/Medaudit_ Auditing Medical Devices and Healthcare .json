@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Medaudit: Auditing Medical Devices and Healthcare Infrastructure",
+  "Speakers": [
+    "Anirudh Duggal"
+  ],
+  "Tracks": [
+    "Track: Internet of Things"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/anirudhduggal/medaudit",
+  "Description": "Medaudit is a healthcare/ medical device auditing tool that would help anyone auditing a healthcare networks and medical devices. At the time of writing, there are no tools - commercial or free - that can help security pentest healthcare infrastructure. This tool aims to close that gap and help security analysts use their web app skill set to analyze medical devices. The tool support HL7 protocol right now and will have support for FHIR and DICOM in near future.\n\nThe tool does the following things:\n\nCreate a visual map of HL7 traffic flow on a network (Passive analysis), extract HL7 traffic on the network.\nScan and verify for open HL7 ports on a host\nPerform DOS attacks against HL7 streams on HL7 reciever\nSend HL7 messages (malformed attacks)\nFuzzer\nMalicious HL7 Server\n\nThe tool also acts a proxy using web API so you can reuse web application tests on medical devices.",
+  "Year": "2019",
+  "Location": "USA"
+}

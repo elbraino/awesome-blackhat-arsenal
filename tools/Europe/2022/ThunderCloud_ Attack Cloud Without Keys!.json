@@ -1,0 +1,15 @@
+{
+  "Tool Name": "ThunderCloud: Attack Cloud Without Keys!",
+  "Speakers": [
+    "Shivankar Shivankar"
+  ],
+  "Tracks": [
+    "Exploitation and Ethical Hacking",
+    "Vulnerability Assessment"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/Rnalter/ThunderCloud",
+  "Description": "\"You can't audit a cloud environment without access keys!!\".\n\nWell. That's not completely true.\n\nThere is a good number of tools that help security teams find cloud misconfiguration issues. They work inside-out way where you give read-only access tokens to the tool and the tool gives you misconfigurations.\n\nThere's no single tool that helps Red Teamers and Bug Hunters find cloud misconfiguration issues the outside-in way.\n\nThis outside-in approach can find issues like:\n\n1. S3 directory listing due to misconfigured Cloudfront settings\n2. Amazon Cognito misconfiguration to generate AWS temporary credentials\n3. Public snapshots\n4. Generate Account takeover Phishing links for AWS SSO\n5. Leaked Keys permission enumeration\n6. IAM role privilege escalation\na) From leaked keys\nb) Lambda Function\n\nThis exploitation framework also helps teams within organizations to do red teaming activities or run it across the accounts to learn more about misconfigurations from AWS and how badly they can be exploited.\n\nThunderCloud version 2 will now support GCP and Azure exploitation. Additionally will be releasing an open source \"CLOUD OFFENSIVE\" gitbook along with the same",
+  "Year": "2022",
+  "Location": "Europe"
+}

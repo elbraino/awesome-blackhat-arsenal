@@ -1,0 +1,16 @@
+{
+  "Tool Name": "CrowdSec: The Open-Source and Participative IPS",
+  "Speakers": [
+    "Jean Devaux",
+    "Sebastien Blot",
+    "Philippe Humeau"
+  ],
+  "Tracks": [
+    "Track: Data Forensics/Incident Response"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": null,
+  "Year": "2022",
+  "Location": "Asia"
+}

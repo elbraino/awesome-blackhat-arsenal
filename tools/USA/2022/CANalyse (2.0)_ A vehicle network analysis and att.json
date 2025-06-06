@@ -1,0 +1,15 @@
+{
+  "Tool Name": "CANalyse (2.0): A vehicle network analysis and attack tool.",
+  "Speakers": [
+    "Kartheek Lade",
+    "Rahul J"
+  ],
+  "Tracks": [
+    "Track: Internet of Things"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/canalyse/CANalyse-2.0",
+  "Description": "A prerequisite to using telegram option of this tool is that the Hardware implant is already installed in the car and capable of communicating with the Network inside the vehicle. Also, the library requiremnt are satisfied.\n\nLet's assume we have a car in which we have connected with USBtin(or user choice) which is connected to Raspberry pi (or any linux machine of userchoice) and the pi can communicate on the internet.\nLInk to USBtin - https://www.fischl.de/usbtin/\n\nWhat is CANalyse?\n\nCanalyse uses python-can library to sniff vehicle network packets and analyze the gathered information and uses the analyzed information to command & control certain functions of the car.\n\nCANalyse is a software tool built to analyze the log files in a creative powerful way to find out unique data sets automatically and able to connect to simple interfaces such as Telegram. Basically, while using this tool you can provide your bot-ID and be able to use the tool over the internet through telegram.\n\ncanalyse can be installed inside a raspberry-PI, it is made to analyse log files in a creative way and also made to exploit the vehicle through a telegram bot by recording and analyzing the data logs.",
+  "Year": "2022",
+  "Location": "USA"
+}

@@ -1,0 +1,14 @@
+{
+  "Tool Name": "King Phisher",
+  "Speakers": [
+    "Spencer McIntyre"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-US-16",
+  "Github URL": "https://github.com/rsmusllp/king-phisher",
+  "Description": "What differentiates King Phisher from other phishing tools is the focus it has on the requirements of consultants needing a tool for penetration testing. It was built from the ground up with a heavy emphasis on flexibility to allow pentesters to tailor their attack for their current assessment. It also includes unique features not included in other phishing tools such as the ability to craft calendar invite messages.King Phisher is an open source tool for testing and promoting user awareness by simulating real world phishing attacks. It features an easy to use, yet very flexible architecture allowing full control over both emails and server content. King Phisher can be used to run campaigns ranging from simple awareness training to more complicated scenarios in which user aware content is served for harvesting credentials and drive by attacks.",
+  "Year": "2016",
+  "Location": "USA"
+}

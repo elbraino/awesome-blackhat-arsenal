@@ -1,0 +1,14 @@
+{
+  "Tool Name": "BLE CTF Project",
+  "Speakers": [
+    "Ryan Holeman"
+  ],
+  "Tracks": [
+    "Track: Internet of Things"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/hackgnar/ble_ctf",
+  "Description": "The purpose of BLE CTF is to teach the core concepts of Bluetooth low energy client and server interactions. While it has also been built to be fun, it was built with the intent to teach and reinforce core concepts that are needed to plunge into the world of Bluetooth hacking. After completing this CTF, you should have everything you need to start fiddling with any BLE GATT device you can find. Built to run on the esp32 microcontroller, the BLE CTF is a fully functional BLE GATT server which challenges users to utilize fundamental bluetooth communication methods. Focusing on fun and education, the CTF is the first of its kind to help teach hackers how to dive into the world of Bluetooth.\n\nSource Code: https://github.com/hackgnar/ble_ctf",
+  "Year": "2018",
+  "Location": "USA"
+}

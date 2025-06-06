@@ -1,0 +1,14 @@
+{
+  "Tool Name": "peepdf",
+  "Speakers": [
+    "Jose Miguel Esparza"
+  ],
+  "Tracks": [
+    "Track: Malware Defense"
+  ],
+  "Event": "BH-US-15",
+  "Github URL": "https://github.com/jesparza/peepdf",
+  "Description": "peepdf is a Python tool to explore PDF files in order to find out if the file can be harmful or not. The aim of this tool is to provide all the necessary components that a security researcher could need in a PDF analysis without using 3 or 4 tools to make all the tasks. With Peepdf it's possible to see all the objects in the document showing the suspicious elements, supports all the most used filters and encodings, it can parse different versions of a file, object streams and encrypted files. With the installation of PyV8 and Pylibemu it provides Javascript and shellcode analysis wrappers too. Apart of this it's able to create new PDF files and to modify/obfuscate existent ones.",
+  "Year": "2015",
+  "Location": "USA"
+}

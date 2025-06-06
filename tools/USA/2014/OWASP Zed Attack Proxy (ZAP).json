@@ -1,0 +1,12 @@
+{
+  "Tool Name": "OWASP Zed Attack Proxy (ZAP)",
+  "Speakers": null,
+  "Tracks": [
+    "Track: Web AppSec"
+  ],
+  "Event": "BH-US-14",
+  "Github URL": "https://github.com/pdsoftplan/zap-maven-plugin",
+  "Description": "The Zed Attack Proxy (ZAP) is currently the most active open source web application security tool and competes effectively with commercial tools.",
+  "Year": "2014",
+  "Location": "USA"
+}

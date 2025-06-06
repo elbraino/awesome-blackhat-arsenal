@@ -1,0 +1,14 @@
+{
+  "Tool Name": "CertPivot: Infra-Chaining + Cert-Check",
+  "Speakers": [
+    "Ajit Hatti"
+  ],
+  "Tracks": [
+    "Track: OSINT - Open Source Intelligence"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": "CertPivot is a newest module of LAMMA specifically focuses on 2 features. One is Infra-Chaining using TLS certificates and second Cert-Check which looks for non-trusted TLS certificates in the trust store of a given machine.\n\nInfra-Chaining feature of CertPivot module is useful specially for threat hunters and incident respondents, where as Certi-Check feature can be additionally used by admins and crypto-auditors",
+  "Year": "2019",
+  "Location": "USA"
+}

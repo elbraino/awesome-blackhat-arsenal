@@ -1,0 +1,16 @@
+{
+  "Tool Name": "AWSGoat : A Damn Vulnerable AWS Infrastructure",
+  "Speakers": [
+    "Nishant Sharma",
+    "Jeswin Mathai",
+    "Sanjeev Mahunta"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/ine-labs/AWSGoat",
+  "Description": "Compromising an organization's cloud infrastructure is like sitting on a gold mine for attackers. And sometimes, a simple misconfiguration or a vulnerability in web applications, is all an attacker needs to compromise the entire infrastructure. Since the cloud is relatively new, many developers are not fully aware of the threatscape and they end up deploying a vulnerable cloud infrastructure. When it comes to web application pentesting on traditional infrastructure, deliberately vulnerable applications such as DVWA and bWAPP have helped the infosec community in understanding the popular web attack vectors. However, at this point in time, we do not have a similar framework for the cloud environment.\n\nIn this talk, we will be introducing AWSGoat, a vulnerable by design infrastructure on AWS featuring the latest released OWASP Top 10 web application security risks (2021) and other misconfiguration based on services such as IAM, S3, API Gateway, Lambda, EC2, and ECS. AWSGoat mimics real-world infrastructure but with added vulnerabilities. The idea behind AWSGoat is to provide security enthusiasts and pen-testers with an easy to deploy/destroy vulnerable infrastructure where they can learn how to enumerate cloud applications, identify vulnerabilities, and chain various attacks to compromise the AWS account. The deployment scripts will be open-source and made available after the talk.",
+  "Year": "2022",
+  "Location": "USA"
+}

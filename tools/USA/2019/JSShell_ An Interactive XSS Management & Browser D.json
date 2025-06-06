@@ -1,0 +1,14 @@
+{
+  "Tool Name": "JSShell: An Interactive XSS Management & Browser Debugging Tool",
+  "Speakers": [
+    "Daniel Abeles"
+  ],
+  "Tracks": [
+    "Track: Web AppSec"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/Den1al/JSShell",
+  "Description": "JSShell is an interactive multi-user web based javascript shell that enables the user to debug esoteric browsers and manage XSS (cross site scripting) campaigns. It was originally created during research to have the ability to debug remote esoteric browsers that did not have a simple debugging console. This tool can be also used to easily attach to a XSS (Cross Site Scripting) payload to achieve browser remote code execution (similar to the BeeF framework) and manage the vulnerability.\n\nVersion 2.0 is created entirely from scratch, introducing new exciting features, stability and maintainability.",
+  "Year": "2019",
+  "Location": "USA"
+}

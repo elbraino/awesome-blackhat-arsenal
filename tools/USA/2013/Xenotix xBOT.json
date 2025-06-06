@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Xenotix xBOT",
+  "Speakers": [
+    "Ajin Abraham"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-US-13",
+  "Github URL": "https://github.com/ajinabraham/Xenotix-xBOT",
+  "Description": "Xenotix xBOT is a powerful cross platform (Linux,Windows,Mac) bot written in Python that uses certain Google Services as Command & Control Center for the botnet. The bot works flawlessly with a single requirement of a decent internet connection. The xBOT's communication is encrypted as it uses Google's own SSL connection and is nowhere affected by any firewalls or your ISP's tricky network configurations.",
+  "Year": "2013",
+  "Location": "USA"
+}

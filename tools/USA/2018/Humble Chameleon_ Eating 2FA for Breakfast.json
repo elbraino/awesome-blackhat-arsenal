@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Humble Chameleon: Eating 2FA for Breakfast",
+  "Speakers": [
+    "Forrest Kasler"
+  ],
+  "Tracks": [
+    "Track: Network Attacks"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/claissg/humble_chameleon",
+  "Description": "By creating a simple tool that performs a man-in-the-middle attack against the HTTP protocol, we can eliminate the need to manually create phishing sites. In addition, this same tool can be used to harvest session cookies from applications that require 2FA, disallow victims from logging out and killing our stolen cookies, hide phishing domains behind legitimate content, categorize phishing domains, serve malware alongside legitimate content, only serve payloads in response to whitelisted requests, and target multiple services at the same time, all without SSL warnings. *Note: This is not just a tool, but a release of a new attack methodology.",
+  "Year": "2018",
+  "Location": "USA"
+}

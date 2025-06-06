@@ -1,0 +1,16 @@
+{
+  "Tool Name": "HosTaGe: mobile honeypots for rapid deployment",
+  "Speakers": [
+    "Emmanouil Vasilomanolakis",
+    "Shreyas Srinivasa",
+    "Eirini Lygerou"
+  ],
+  "Tracks": [
+    "Track: Network Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/aau-network-security/HosTaGe",
+  "Description": "HosTaGe is a lightweight, low-interaction, and portable honeypot for mobile devices that aims on the detection of malicious network environments. As most malware propagate over the network via specific protocols, a low-interaction honeypot located at a mobile device can check wireless networks for actively propagating malware. HosTaGe supports many commonly used protocols (e.g. HTTP, TELNET, SSH) along with many IoT/ICS specific ones (e.g. MQTT, S7COMM, MODBUS). We envision such honeypots running on all kinds of mobile devices to provide a quick assessment on the potential security state of a network.",
+  "Year": "2020",
+  "Location": "Europe"
+}

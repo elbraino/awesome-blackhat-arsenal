@@ -1,0 +1,14 @@
+{
+  "Tool Name": "spispy: Open source SPI flash emulation",
+  "Speakers": [
+    "Trammell Hudson"
+  ],
+  "Tracks": [
+    "Track: Hardware/Embedded"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/osresearch",
+  "Description": "spispy is an open source hardware tool for emulating SPI flash chips that makes firmware development and boot security research easier by avoiding the slow flash chip erase and programming cycles. It also logs flash accesses, providing insight into the early boot process and enables TOCTOU attacks against the running firmware.",
+  "Year": "2019",
+  "Location": "Europe"
+}

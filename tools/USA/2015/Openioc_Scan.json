@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Openioc_Scan",
+  "Speakers": [
+    "Takahiro Haruyama"
+  ],
+  "Tracks": [
+    "Track: Data Forensics/Incident Response"
+  ],
+  "Event": "BH-US-15",
+  "Github URL": "https://github.com/TakahiroHaruyama/openioc_scan",
+  "Description": "Indicator of Compromise (IOC) is a piece of information that can be used to search for or identify potentially compromised systems. Forensic investigators can define and share IOC files according to some standards or rules such as OpenIOC and YARA. Currently, many IOCs are available on the Internet, but most of the IOCs cannot be used for memory forensics because they are composed of indicators dependent on disk or live response data.Two years ago, I introduced \"volatile IOCs\" based on RAM evidence only at SANS DFIR Summit 2013. We can detect malware in memory images using them faster than using disk-based traditional IOCs. Besides, we can define indicators based on not only metadata like file paths but also malware functions such as code injection sign, imported functions, unpacked codes, and so on. However, in order to scan threats using volatile IOCs, we needed to use a closed-source tool based on OpenIOC standard. I could not improve it even if there were some limitations in the tool.That's why I implemented \"openioc_scan\" as a plugin for Volatility Framework which is an open-source memory forensic tool. In this demonstration, I explain how to use it and details of the implementation. Furthermore, I also show the results of considerations about IOCs to detect unknown malware in RAM by focusing on generic traits of malware.",
+  "Year": "2015",
+  "Location": "USA"
+}

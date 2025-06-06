@@ -1,0 +1,14 @@
+{
+  "Tool Name": "DumpTheGit",
+  "Speakers": [
+    "Malkit Singh"
+  ],
+  "Tracks": [
+    "Track: Code Assessment"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/shubhamshubhankar/DumpTheGit",
+  "Description": "DumpTheGit searches through public repositories to find sensitive information uploaded to the Github repositories.",
+  "Year": "2019",
+  "Location": "Europe"
+}

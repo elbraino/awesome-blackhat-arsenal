@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Kubernetes Goat: Interactive Kubernetes Security Learning Playground",
+  "Speakers": [
+    "Madhu Akula"
+  ],
+  "Tracks": [
+    "Track: Vulnerability Assessment"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/madhuakula/kubernetes-goat",
+  "Description": "Kubernetes Goat is a \"vulnerable by design\" Kubernetes Cluster environment to practice and learn about Kubernetes Security. It has step by step detailed guide and digital book on how to get started with Kubernetes Goat by exploring different vulnerabilities in Kubernetes Cluster and Containerized environments. Also, it has scenarios taken from the real-world vulnerabilities and maps the Kubernetes Goat scenarios. The complete documentation and instruction to practice Kubernetes Security for performing security assessments, pentesting, and in general Kubernetes Security. As a defender you will see how we can learn these attacks, misconfigurations to understand and improve your cloud-native infrastructure security posture.\n\nSome of the high-level scenarios include, but are not limited to\n\n1. Sensitive keys in code-bases\n2. DIND (docker-in-docker) exploitation\n3. SSRF in K8S world\n4. Container escape to access host system\n5. Docker CIS Benchmarks analysis\n6. Kubernetes CIS Benchmarks analysis\n7. Attacking private registry\n8. NodePort exposed services\n9. Helm v2 tiller to PwN the cluster\n10. Analysing crypto miner container\n11. Kubernetes Namespaces bypass\n12. Gaining environment information\n13. DoS the memory/CPU resources\n14. Hacker Container preview\n15. Hidden in layers\n16. RBAC Least Privileges Misconfiguration\n17. KubeAudit - Audit Kubernetes Clusters\n18. Sysdig Falco - Runtime Security Monitoring & Detection\n19. Popeye - A Kubernetes Cluster Sanitizer\n20. Secure network boundaries using NSP",
+  "Year": "2021",
+  "Location": "Europe"
+}

@@ -1,0 +1,15 @@
+{
+  "Tool Name": "The Big zBang Theory: Active Directory Risk Assessment",
+  "Speakers": [
+    "Asaf Hecht",
+    "Nimrod Stoler"
+  ],
+  "Tracks": [
+    "Track: Network Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/cyberark/zBang",
+  "Description": "zBang is an Active Directory Risk Assessment tool that alerts against five different Active Directory attack vectors: ACLight, Skeleton Key, SID History, Risky SPN, and Mystique.\n\nOrganizations and red-teamers should utilize zBang to identify potential attack vectors and improve the security posture of the network. The results can be analyzed with a graphic interface specifically designed for the tool.\n\nThe new zBang tool discovers critical findings like:\n\nThe most privileged accounts that must be protected, including suspicious Shadow Admins.\nPossible infected DCs with the \"Skeleton Key\" malware.\nSuspicious SID history with hidden privileges.\nRisky configurations of SPNs that might lead to credential theft of domain admins.\nRisky Kerberos delegation configurations in the network.\n\nThe scans do not require any extra privileges; the tool performs read-only LDAP queries to the DC and can be run using any domain user.",
+  "Year": "2019",
+  "Location": "Europe"
+}

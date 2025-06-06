@@ -1,0 +1,14 @@
+{
+  "Tool Name": "SWEET SECURITY",
+  "Speakers": [
+    "Travis Smith"
+  ],
+  "Tracks": [
+    "Track: Network Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/TravisFSmith/SweetSecurity",
+  "Description": "Sweet Security is a network security monitoring and defensive tool which can be deployed on hardware as small as a Raspberry Pi. Using the power of Bro IDS and threat intelligence feeds, malicious network traffic can be exposed. This data is gathered and visualized with the ELK stack (Elasticsearch, Logstash, and Kiban). Going beyond detection, the device can implement blocking for specific devices on a granular level. Sweet Security can monitor all network traffic with no infrastructure change and block unwanted traffic. It ships with Kibana dashboards, as well as a new web administration UI. Even better, the installation can be separated between web administration and sensor. Want to deploy the web administration to AWS and install a dozen sensors? No problem!\n\nAll of these tools and methodologies run on inexpensive hardware, such as the Raspberry Pi. If you're looking for a more scalable solution, these tactics and tools can be adapted to enterprise scale deployments, as well. Attendees can expect to take away methodologies they can put to use right away, from dorm-room to datacenter.",
+  "Year": "2017",
+  "Location": "USA"
+}

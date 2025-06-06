@@ -1,0 +1,14 @@
+{
+  "Tool Name": "IOC Explorer: Correlate IOC in Automatic Way",
+  "Speakers": [
+    "Lion Gu"
+  ],
+  "Tracks": [
+    "Track: Data Forensics/Incident Response"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/lion-gu/ioc-explorer",
+  "Description": "IOC correlation is usually a manual or semi-automatic work. It takes a lot of time to search multiple data sources and process different IOC types. IOC Explorer aims to introduce an automatic way to search data across major OSINT sources, like VirusTotal. Moreover, recursive searching feature will explore more possible IOCs based on previous IOCs, then build IOC relations automatically.\n\nSource Code: https://github.com/lion-gu/ioc-explorer",
+  "Year": "2019",
+  "Location": "USA"
+}

@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Lucky CAT: A Distributed Fuzzing Management Framework",
+  "Speakers": [
+    "Thomas Barabosch"
+  ],
+  "Tracks": [
+    "Track: Vulnerability Assessment"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/fkie-cad/LuckyCAT",
+  "Description": "Lucky CAT (Crash All the Things!) is a distributed fuzzing framework with an easy to use web interface. It allows management of fuzzing jobs on several remote machines concurrently. Lucky CAT aims to be easily usable, scaleable, extensible, and fun. To achieve this, it is built using several micro services and it relies on many open source projects. Furthermore, it offers a RESTful API to automate it or to integrate it with other tools.\n\nLucky CAT comes with several plugins for mutation engines (e.g. /dev/urandom, radamsa), fuzzers (afl, qemu_fuzzer, a minimalistic file fuzzer) and verifiers (local gdb exploitable, remote gdb exploitable). There are templates (in Python and C) that allow to quickly integrate, for example, new fuzzers and verifiers. Fuzzers can rely on their own mutation engine (e.g. afl) but Lucky CAT can also generate test cases for a fuzzer. This is handy when writing a fuzzer for an embedded device with limited computational resources or a small one-shot fuzzer for a custom protocol.\n\nIts origin is the Nightmare Fuzzing Project. However, Lucky CAT goes beyond its ancestor. It is more 2018-ish using latest technologies such as RabbitMQ, Flask, MongoDB, and Python3. Lucky CAT's main objective is to automate the fuzzing process as far as possible so as to security researchers can focus on what they can best: identifying attack surfaces or writing custom fuzzers.\nTherefore, future releases will focus on, amongst others, automatic deployment of fuzzers, crash notification and job summaries via email and instant messaging, and kernel core dump analysis.\n\nPresentation: https://net.cs.uni-bonn.de/fileadmin/ag/martini/Staff/thomas_barabosch/blackhat-eu18-arsenal.pdf\nSource Code: https://github.com/fkie-cad/LuckyCAT",
+  "Year": "2018",
+  "Location": "Europe"
+}

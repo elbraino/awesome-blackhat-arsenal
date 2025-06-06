@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Cuckoodroid 2.0",
+  "Speakers": [
+    "Idan Revivo"
+  ],
+  "Tracks": [
+    "Track: Malware Defense"
+  ],
+  "Event": "BH-US-16",
+  "Github URL": "https://github.com/idanr1986/cuckoodroid-2.0",
+  "Description": "To combat the growing problem of Android malware, we present a new solution based on the popular open source framework Cuckoo Sandbox to automate the malware investigation process. Our extension enables the use of Cuckoo's features to analyze Android malware and provides new functionality for dynamic and static analysis. Our framework is an all in one solution for malware analysis on Android. It is extensible and modular, allowing the use of new, as well as existing, tools for custom analysis.The main capabilities of our CuckooDroid include:Dynamic Analysis - based on Dalvik API hookingStatic Analysis - Integration with AndroguardEmulator Detection PreventionVirtualization Managers that support the popular virtualization solutions (VMware,Virtualbox, Esxi, Xen, and Kvm) and now also android emulator.Traffic AnalysisIntelligence Gathering - Collecting information from Virustotal, Google Play etc.Behavioral Signatures in cuckoodroid 2.0New capabilities that will be presented in Black Hat for the first time:Integration with cuckoo 2.0New user interfaceAndroid x86 supportAutomatic unpackingintegration with MaltegoNew Behavioral SignaturesDropped filesMalware Configuration ExtractionsExamples of well-known malware will be used to demonstrate the framework capabilities and its usefulness in malware analysis.",
+  "Year": "2016",
+  "Location": "USA"
+}

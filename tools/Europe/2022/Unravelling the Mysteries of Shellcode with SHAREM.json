@@ -1,0 +1,16 @@
+{
+  "Tool Name": "Unravelling the Mysteries of Shellcode with SHAREM: A Novel Emulator and Disassembler for Shellcode",
+  "Speakers": [
+    "Bramwell Brizendine",
+    "Jake Hince",
+    "Shelby VandenHoek"
+  ],
+  "Tracks": [
+    "Track: Reverse Engineering"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": null,
+  "Year": "2022",
+  "Location": "Europe"
+}

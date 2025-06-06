@@ -1,0 +1,12 @@
+{
+  "Tool Name": "Automated Memory Analysis",
+  "Speakers": null,
+  "Tracks": [
+    "Track: Reverse Engineering"
+  ],
+  "Event": "BH-US-14",
+  "Github URL": "https://github.com/digitalisx/awesome-memory-forensics",
+  "Description": "Automated Memory Analysis is a set of new innovative Cuckoo Sandbox plugins that adds new dynamic and memory analysis abilities such as:",
+  "Year": "2014",
+  "Location": "USA"
+}

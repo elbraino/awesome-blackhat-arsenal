@@ -1,0 +1,16 @@
+{
+  "Tool Name": "HazProne : Cloud Hacking",
+  "Speakers": [
+    "Staford Titus S",
+    "Devansh Patel"
+  ],
+  "Tracks": [
+    "Vulnerability Assessment",
+    "Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": "HazProne is a Cloud Pentesting Framework that emulates close to Real-World Scenarios by deploying Vulnerable-By-Demand aws resources enabling you to pentest Vulnerabilities within, and hence, gain a better understanding of what could go wrong and why!!",
+  "Year": "2022",
+  "Location": "USA"
+}

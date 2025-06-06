@@ -1,0 +1,14 @@
+{
+  "Tool Name": "King Phisher: A Phishing Campaign Toolkit",
+  "Speakers": [
+    "Spencer McIntyre"
+  ],
+  "Tracks": [
+    "Track: Human Factors"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/rsmusllp/king-phisher",
+  "Description": "King Phisher is a phishing toolkit created to meet the highly customized and flexible needs that offensively-focused security testers require. It boasts a wide range of features to facilitate it's use both on offensive, breaching-centric engagements as well as for user awareness training.\n\nThis arsenal demonstration will show the newer features that have been added to King Phisher in recent years. Viewers will see the latest campaign improvements including from the template selection process to gathering MFA tokens, validating submitted credentials and the Let's Encrypt integration. By integrating with Let's Encrypt through certbot, users are able to quickly and easily issue certificates for, and enable HTTPS for their phishing sites. Finally, viewers will see a demonstration of the newest plugins for campaign data management, the usage of various alerting services and finally SPAM evasion.\n\nSource code: https://github.com/securestate/king-phisher",
+  "Year": "2019",
+  "Location": "USA"
+}

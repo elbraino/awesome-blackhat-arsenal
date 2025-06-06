@@ -1,0 +1,14 @@
+{
+  "Tool Name": "PurpleSharp: Adversary Simulation for the Blue Team",
+  "Speakers": [
+    "Mauricio Velazco"
+  ],
+  "Tracks": [
+    "Track: Network Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/mvelazc0/PurpleSharp",
+  "Description": "Defending enterprise networks against attackers continues to present a difficult challenge for blue teams. Prevention has fallen short; improving detection & response capabilities has proven to be a step in the right direction. However, without the telemetry produced by adversary behavior, building and testing detection capabilities will be a challenging task. Executing adversary simulations in monitored environments produces the telemetry that allows security teams to identify gaps in visibility as well as build, test and enhance detection analytics\n\nPurpleSharp is an open source adversary simulation tool written in C# that executes adversary techniques against Windows Active Directory environments. The resulting telemetry can be leveraged to measure and improve the efficacy of a detection engineering program. PurpleSharp executes different behavior across the attack lifecycle following the MITRE ATT&CK Framework's tactics: execution, persistence, privilege escalation, credential access, lateral movement, etc.\n\nPurpleSharp executes simulations on remote hosts by leveraging administrative credentials and native Windows services/features such as Server Message Block (SMB), Windows Management Instrumentation (WMI), Remote Procedure Call (RPC) and Named Pipes.\n\nPurpleSharp can assist blue teams in the following use cases:\n\n- Verify prevention controls ( are Lsass dumps being blocked ? )\n- Build new detection controls ( build a detection rule for T1117)\n- Test/verify existing detection controls (are we really detecting process injection ?)\n- dentify gaps with existing detection analytics ( broken logic, lack of coverage, etc. )\n- Identify gaps in visibility ( broken agents, broken event pipelines, etc. )\n- Train the SOC with credible simulations",
+  "Year": "2020",
+  "Location": "USA"
+}

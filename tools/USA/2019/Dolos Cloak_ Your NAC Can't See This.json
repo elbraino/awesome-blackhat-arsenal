@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Dolos Cloak: Your NAC Can't See This",
+  "Speakers": [
+    "Forrest Kasler"
+  ],
+  "Tracks": [
+    "Track: Network Attacks"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/fkasler/dolos_cloak",
+  "Description": "Dolos Cloak is a new tool designed to give penetration testers and red team members the ability to easily bypass 802.1x network access controls. The tool performs an advanced man-in-the-middle attack against nearly any authorized network device, automatically configures a NAT to blend in, and pass legitimate traffic unaltered. Simply plug a Dolos Cloak device in between a network jack and an available workstation, IP phone, printer, or other device and walk away. Dolos Cloak can be configured to call home using TPC/UDP reverse shells, SSH, VPN, Empire, or other custom methods to maintain a stealthy foothold on the network. The creation of Dolos Cloak was inspired by sysadmins that thought they could rely solely on 802.1x to keep attackers off their networks.",
+  "Year": "2019",
+  "Location": "USA"
+}

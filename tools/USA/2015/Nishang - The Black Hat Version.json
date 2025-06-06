@@ -1,0 +1,12 @@
+{
+  "Tool Name": "Nishang - The Black Hat Version",
+  "Speakers": null,
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-US-15",
+  "Github URL": "https://github.com/samratashok/nishang",
+  "Description": "Nishang is a framework which enables using PowerShell for Penetration Testing and Offensive Security. In the Black Hat edition, many interesting scripts and payloads will be released, as well as live demos of some work in progress will be done. Techniques like running shellcode in memory, using Gmail for code execution, SSID names for command execution, network relays, and more will be discussed.Come to see how PowerShell and Nishang could be used to enhance your Penetration Test.",
+  "Year": "2015",
+  "Location": "USA"
+}

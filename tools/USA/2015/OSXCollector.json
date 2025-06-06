@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Osxcollector",
+  "Speakers": [
+    "Ivan Leichtling"
+  ],
+  "Tracks": [
+    "Track: Data Forensics/Incident Response"
+  ],
+  "Event": "BH-US-15",
+  "Github URL": "https://github.com/Yelp/osxcollector",
+  "Description": "We use Macs a lot at Yelp, which means that we see our fair share of Mac-specific security alerts. Host based detectors will tell us about known malware infestations or weird new startup items. Network based detectors see potential C2 callouts or DNS requests to resolve suspicious domains. Sometimes our awesome employees just let us know, \"I think I have like Stuxnet or conficker or something on my laptop.\" When alerts fire, our incident response team's first goal is to \"stop the bleeding\"  to contain and then eradicate the threat. Next, we move to \"root cause the alert\"  figuring out exactly what happened and how we'll prevent it in the future. One of our primary tools for root causing OS X alerts is OSXCollector. OSXCollector is an open source forensic evidence collection and analysis toolkit for OS X. It was developed in-house at Yelp to automate the digital forensics and incident response (DFIR) our crack team of responders had been doing manually.",
+  "Year": "2015",
+  "Location": "USA"
+}

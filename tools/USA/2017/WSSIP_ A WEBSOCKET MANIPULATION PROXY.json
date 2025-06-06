@@ -1,0 +1,14 @@
+{
+  "Tool Name": "WSSIP: A WEBSOCKET MANIPULATION PROXY",
+  "Speakers": [
+    "Samantha Chalker"
+  ],
+  "Tracks": [
+    "Track: Web AppSec"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/nccgroup/wssip",
+  "Description": "WSSiP is a tool for viewing, interacting with, and manipulating WebSocket messages between a browser and web server, with an outward bridge for debugging and fuzzing all WebSocket communications.",
+  "Year": "2017",
+  "Location": "USA"
+}

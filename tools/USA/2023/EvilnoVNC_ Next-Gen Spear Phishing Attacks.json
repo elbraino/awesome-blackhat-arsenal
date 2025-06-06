@@ -1,0 +1,15 @@
+{
+  "Tool Name": "EvilnoVNC: Next-Gen Spear Phishing Attacks",
+  "Speakers": [
+    "Joel G\u00e1mez Molina"
+  ],
+  "Tracks": [
+    "Exploitation and Ethical Hacking",
+    "Human Factors"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/JoelGMSec/EvilnoVNC",
+  "Description": "One of the main attack vectors in Red Team exercises, and possible entry points for an attacker, are phishing campaigns.\n\nCurrently, there are all kinds of tools and countermeasures to perform or defend against them, with a very high level of maturity and fully consolidated by the industry for many years.\n\nOn the other hand, there are hardly any tools oriented to Spear Phishing or any other type of more sophisticated attack, regardless of whether you are part of the Red Team or the Blue Team.\n\nIn this presentation, and from a totally offensive approach, we will explain how it has been possible to develop a new tool aimed at Spear Phishing, which will use techniques never seen before for this purpose, allowing us to see what the victim is doing in real time, intercept keystrokes with a keylogger, obtain and decrypt cookies, among many other things.",
+  "Year": "2023",
+  "Location": "USA"
+}

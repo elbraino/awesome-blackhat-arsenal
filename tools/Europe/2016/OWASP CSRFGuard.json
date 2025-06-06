@@ -1,0 +1,14 @@
+{
+  "Tool Name": "OWASP CSRFGuard",
+  "Speakers": [
+    "Azzeddine RAMRAMI"
+  ],
+  "Tracks": [
+    "Track: Web AppSec"
+  ],
+  "Event": "BH-EU-16",
+  "Github URL": "https://github.com/aramrami/OWASP-CSRFGuard",
+  "Description": "OWASP CSRFGuard implements a variant of the synchronizer token pattern to mitigate the risk of CSRF attacks. In order to implement this pattern, CSRFGuard must offer the capability to place the CSRF prevention token within the HTML produced by the protected web application. CSRFGuard 3 provides developers more fine grain control over the injection of the token. Developers can inject the token in their HTML using either dynamic JavaScript DOM manipulation or a JSP tag library. CSRFGuard no longer intercepts and modifies the HttpServletResponse object as was done in previous releases. The currently available token injection strategies are designed to make the integration of CSRFGuard more feasible and scalable within current enterprise web applications. Developers are encouraged to make use of both the JavaScript DOM Manipulation and the JSP tag library strategies for a complete token injection strategy.CSRFGuard WikiPage: https://www.owasp.org/index.php/Category:OWASP_CSRFGuard_Project",
+  "Year": "2016",
+  "Location": "Europe"
+}

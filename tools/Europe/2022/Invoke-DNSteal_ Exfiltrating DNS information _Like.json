@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Invoke-DNSteal: Exfiltrating DNS information \"Like a Boss\"",
+  "Speakers": [
+    "Joel G\u00e1mez"
+  ],
+  "Tracks": [
+    "Exploitation and Ethical Hacking",
+    "Network Attacks"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": null,
+  "Year": "2022",
+  "Location": "Europe"
+}

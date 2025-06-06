@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Strafer: A Tool to Detect Infections in Elasticsearch Instances",
+  "Speakers": [
+    "Aditya K Sood",
+    "Rohit Bansal"
+  ],
+  "Tracks": [
+    "Track: Malware Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/adityaks/strafer",
+  "Description": "Elasticsearch infections are rising exponentially. The adversaries are exploiting open and exposed Elasticsearch interfaces to trigger infections in the cloud and non-cloud deployments. During this talk, we will release a tool named \"STRAFER\" to detect potential infections in the Elasticsearch instances. The tool allows security researchers, penetration testers, and threat intelligence experts to detect compromised and infected Elasticsearch instances running malicious code. The tool also enables you to conduct efficient research in the field of malware targeting cloud databases.\n\n\n\n\nIn this version of the tool, the following modules are supported:\n\nElasticsearch instance information gathering and reconnaissance\nElasticsearch instance exposure on the Internet\nDetecting potential ransomware infections in the Elasticsearch instances\nDetecting potential botnet infections such as meow botnet.\nDetecting infected indices in the Elasticsearch instances\n\nNote: This is the first release of the tool and we expect to add more modules in the nearby future.",
+  "Year": "2020",
+  "Location": "Europe"
+}

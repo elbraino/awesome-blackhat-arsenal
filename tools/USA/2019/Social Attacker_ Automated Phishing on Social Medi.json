@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Social Attacker: Automated Phishing on Social Media Platforms",
+  "Speakers": [
+    "Jacob Wilkin"
+  ],
+  "Tracks": [
+    "Track: Human Factors"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/Greenwolf/social_attacker",
+  "Description": "Social Attacker is the first Open Source, Multi-Site, automated Social Media Phishing Framework. It allows you to automate the phishing of Social Media users on a mass scale by handling the connecting to, and messaging of targets.\n\nYou provide Social Attacker with a phishing message and a list of target profiles (collected either by hand or with Social Mapper). Then over a timeframe you set, it attempts to connect to the targets and, if they accept, sends them phishing message. It can even scrape a targets public profile history and use rudimentary message generation to craft a personal message specific to that person, as an alternative to sending the same phish to all targets.\n\nSocial Attacker provides Red Teamers, Penetration Testers & Social Engineers an efficient way to exploit and pivot through an alternative attack route.\n\nSocial Attacker supports the following Social Media platforms:\n\nLinkedIn\nFacebook\nTwitter\nVKontakte\n\nAdditional Features Include:\n\nReport Generation\nTracking Connections & Clicks\nCustomized Phishing Message Generation",
+  "Year": "2019",
+  "Location": "USA"
+}

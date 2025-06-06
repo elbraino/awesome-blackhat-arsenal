@@ -1,0 +1,15 @@
+{
+  "Tool Name": "C2 Matrix",
+  "Speakers": [
+    "Jorge Orchilles",
+    "Bryson Bort"
+  ],
+  "Tracks": [
+    "Track: Malware Offense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/CyberSecurityUP/C2Matrix-Automation",
+  "Description": "Command and Control is one of the most important tactics in the MITRE ATT&CK matrix as it allows the attacker to interact with the target system and realize their objectives. Organizations leverage Cyber Threat Intelligence to understand their threat model and adversaries that have the intent, opportunity, and capability to attack. Red Team, Blue Team, and virtual Purple Teams work together to understand the adversary Tactics, \ufeffTechniques, and Procedures to perform adversary emulations and improve detective and preventive controls.\n\nThe C2 Matrix was created to aggregate all the Command and Control frameworks publicly available (open-source and commercial) in a single resource to assist teams in testing their own controls through adversary emulations (Red Team or Purple Team Exercises). Phase 1 lists all the Command and Control features such as the coding language used, channels (HTTP, TCP, \ufeffDNS, SMB, etc.), agents, key exchange, and other operational security features and capabilities.\ufeff\ufeff This allows more efficient decisions making when called upon to emulate and adversary TTPs.\n\nIt is the golden age of Command and Control (C2) frameworks. Learn how these C2 frameworks work and start testing against your organization to improve detective and preventive controls.",
+  "Year": "2020",
+  "Location": "Europe"
+}

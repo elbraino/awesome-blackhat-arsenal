@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Wiretapping Tool to Sniff Packets Directly from LAN Cables",
+  "Speakers": [
+    "Michihiro Imaoka"
+  ],
+  "Tracks": [
+    "Hardware / Embedded",
+    "Network Attacks"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": "Wiretapping tool to sniff packets directly from LAN cables",
+  "Year": "2022",
+  "Location": "USA"
+}

@@ -1,0 +1,12 @@
+{
+  "Tool Name": "Volatility Framework 2.4",
+  "Speakers": null,
+  "Tracks": [
+    "Track: Data Forensics/Incident Response"
+  ],
+  "Event": "BH-US-14",
+  "Github URL": "https://github.com/volatilityfoundation/volatility",
+  "Description": "The Volatility Framework is a completely open collection of tools, implemented in Python under the GNU General Public License, for the extraction of digital artifacts from volatile memory (RAM) samples of Windows, Linux, Mac OS X, and Android systems. Our last release received over 40,000 downloads and we're equally as excited to get 2.4 into the hands of forensic investigators and malware analysts. Some of the key features of the 2.4 release that we'll be demoing are:",
+  "Year": "2014",
+  "Location": "USA"
+}

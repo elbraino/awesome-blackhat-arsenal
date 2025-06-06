@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Prowler: Cloud Security Assessment, Auditing, Hardening, Compliance and Forensics Readiness Tool",
+  "Speakers": [
+    "Toni de la Fuente"
+  ],
+  "Tracks": [
+    "Track: Vulnerability Assessment"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/prowler-cloud/prowler",
+  "Description": "Prowler helps to assess, audit and harden your AWS account configuration and resources. It also helps to check your configuration with CIS recommendations, and check if your cloud infrastructure is GDPR compliance or if you are ready for a proper forensic investigation. It is a command line tool that provides direct and clear information about configuration status related to security of a given AWS account, it performs more than 80 checks.",
+  "Year": "2018",
+  "Location": "Europe"
+}

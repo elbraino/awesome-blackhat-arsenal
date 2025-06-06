@@ -1,0 +1,14 @@
+{
+  "Tool Name": "AADInternals: PowerShell Module for Administering Azure AD and Office 365",
+  "Speakers": [
+    "Nestori Syynimaa"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/Gerenios/AADInternals",
+  "Description": "AADInternals is a PowerShell module for administering Azure AD and Office 365. It is a result of hours of reverse-engineering and debugging of Microsoft tools related to Azure AD, such as PowerShell modules, directory synchronisation, and admin portals.\n\nAADInternals contains tools for retrieving detailed information about Azure AD/Office 365 tenant not available otherwise, tools for manipulating Azure AD objects (e.g., users and passwords), and tools for creating backdoors to Azure AD/Office 365. The backdoor tools are based on the discovery and research of a vulnerability in Azure AD identity federation.",
+  "Year": "2019",
+  "Location": "USA"
+}

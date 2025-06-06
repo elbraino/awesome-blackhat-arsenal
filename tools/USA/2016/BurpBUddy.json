@@ -1,0 +1,14 @@
+{
+  "Tool Name": "BurpBUddy",
+  "Speakers": [
+    "Tom Steele"
+  ],
+  "Tracks": [
+    "Track: Web AppSec"
+  ],
+  "Event": "BH-US-16",
+  "Github URL": "https://github.com/tomsteele/burpbuddy",
+  "Description": "BurpBuddy is a tool originally released in 2014. Arsenal will mark the release of version 3, which will be complete rewrite and will provide Sm\u00c3\u00b6rg\u00c3\u00a5sbord of new functionality. Including the ability to quickly share your entire Burp state, request/response, issues etc with your team.BurpBuddy is a plugin for BurpSuite Pro that exposed the Extender API over a HTTP and WebSocket Interface. Allowing you to use call endpoints using plain-old JSON as well as develop your own event-driven plugins. By operating in this manner, you can now write your own plugins for Burp in any language you want! Go, Node (aka JavaScript), Erlang, Haskell, whatever is popular on Hacker News this week, or even plain old shell scripts with curl, if it has an HTTP library you're in business. We will discuss the functionality of the API, and have plenty client demonstrations written in various languages. Some practical and some that are just awesome for the sake of being awesome.",
+  "Year": "2016",
+  "Location": "USA"
+}

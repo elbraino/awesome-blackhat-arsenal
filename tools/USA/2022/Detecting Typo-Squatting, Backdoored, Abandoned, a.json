@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Detecting Typo-Squatting, Backdoored, Abandoned, and Other \"Risky\" Open-Source Packages Using Packj",
+  "Speakers": [
+    "Ashish Bijlani"
+  ],
+  "Tracks": [
+    "Track: Malware Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/ossillate-inc/packj",
+  "Description": "Software supply chain attacks on open-source software ecosystems, particularly on popular package managers such as NPM, PyPI have increased tremendously in the last few years. Today, developers must thoroughly analyze packages, and avoid risky packages that may expose them to high levels of supply chain risks.\n\nBut, there exists no tool to measure supply chain risks lurking in open-source packages. Current practices include sourcing only mature, stable, popular, and reputable packages, where such attributes are inferred from publicly available metrics, such as GitHub stars, package downloads, and software development activity. However, such vanity metrics do not reveal true information about the security posture of packages. More importantly, an attacker-controlled bot can easily manipulate such metrics. Manually vetting hundreds of dependencies is infeasible.\n\nIn this talk, we will present our open-source command line vetting tool, called Packj that allows developers to easily analyze dependencies for \"risky\" code/attributes and provide actionable insights into their security posture. In this presentation, we will cover the technical details of our tool and discuss its usage. Packj tool powers also our large-scale security vetting infrastructure that continuously analyzes millions of published packages, and provides detailed risk assessment reports. We have already detected a number of abandoned, typo-squatting, and malicious packages. We will present our findings, highlight different types of attack techniques adopted by bad actors, and discuss measures that developers can take to thwart such attacks. With our work, we hope to enhance productivity of the developer community by exposing undesired behavior in untrusted third-party code, maintaining developer trust and reputation, and enforcing security of package managers.",
+  "Year": "2022",
+  "Location": "USA"
+}

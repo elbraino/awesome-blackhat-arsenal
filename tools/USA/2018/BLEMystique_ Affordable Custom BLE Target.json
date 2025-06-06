@@ -1,0 +1,15 @@
+{
+  "Tool Name": "BLEMystique: Affordable Custom BLE Target",
+  "Speakers": [
+    "Jeswin Mathai",
+    "Nishant Sharma"
+  ],
+  "Tracks": [
+    "Track: Internet of Things"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/pentesteracademy/blemystique",
+  "Description": "BLEMystique is an ESP32 based custom BLE target which can be configured by the user to behave like one of the multiple BLE devices i.e. Heart rate monitor, Smart Lock, Smart Bottle, Smart band, Smartwatch etc. BLEMystique allows a pentester to play with BLE side of different Smart devices with a single piece of affordable ESP32 chip.",
+  "Year": "2018",
+  "Location": "USA"
+}

@@ -1,0 +1,16 @@
+{
+  "Tool Name": "IotSecFuzz: Security Framework",
+  "Speakers": [
+    "Ilya Shaposhnikov",
+    "Sofia Marakhovich",
+    "Sergey Bliznyuk"
+  ],
+  "Tracks": [
+    "Track: Internet of Things"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/securestep9/iotsecfuzz",
+  "Description": "IoTSecFuzz is Open Source framework which was created with the aim of combining the maximum number of utilities for comprehensive testing of IoT device security at all levels of implementation. It has a convenient console in order to use it as a stand-alone application, as well as the ability to import it as a library.",
+  "Year": "2019",
+  "Location": "Europe"
+}

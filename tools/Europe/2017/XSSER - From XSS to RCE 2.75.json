@@ -1,0 +1,14 @@
+{
+  "Tool Name": "XSSER - From XSS to RCE 2.75",
+  "Speakers": [
+    "Hans-Michael Varbaek"
+  ],
+  "Tracks": [
+    "Track: Web AppSec"
+  ],
+  "Event": "BH-EU-17",
+  "Github URL": "https://github.com/Varbaek/xsser",
+  "Description": "This presentation demonstrates how an attacker can utilise XSS to execute arbitrary code on the web server when an administrative user inadvertently triggers a hidden XSS payload. Custom tools and payloads integrated with Metasploit's Meterpreter in a highly automated approach will be demonstrated live, including post-exploitation scenarios and interesting data that can be obtained from compromised web applications. This version includes new payloads for common web apps and other improvements!",
+  "Year": "2017",
+  "Location": "Europe"
+}

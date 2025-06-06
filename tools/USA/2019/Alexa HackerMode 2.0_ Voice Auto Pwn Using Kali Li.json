@@ -1,0 +1,16 @@
+{
+  "Tool Name": "Alexa HackerMode 2.0: Voice Auto Pwn Using Kali Linux and Alexa Skill Combo",
+  "Speakers": [
+    "David Cross",
+    "Cate Jennison",
+    "James Blackburn"
+  ],
+  "Tracks": [
+    "Track: Internet of Things"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/xssninja/HackerMode2.0",
+  "Description": "HackerMode 2.0 code-named: \"Death Star\" is an Alexa driven auto-sploit tool designed for the cloud. Not only will it help with syntax and encodings, but it will go full hacker mode and exploit systems automatically for you.\n\n\"Alexa, ask HackerMode to hack IP address 192.168.1.135\" will instruct Alexa to begin and manage the process of port scanning, fingerprinting, exploit selection, and smart brute forcing exploits through Metasploit 4 or 5.\n\nAlexa will entertain you with mood music or various other activities while it roots and dumps users and passwords from your target. If the exploit is taking a while you can check in on the progress by asking \"How's the hack going?\"",
+  "Year": "2019",
+  "Location": "USA"
+}

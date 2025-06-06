@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Rudra - The Destroyer of Evil",
+  "Speakers": [
+    "Ankur Tyagi"
+  ],
+  "Tracks": [
+    "Track: Data Forensics/Incident Response"
+  ],
+  "Event": "BH-US-15",
+  "Github URL": "https://github.com/7h3rAm/rudra",
+  "Description": "Rudra provides a framework for automated inspection of network capture files. It extends upon another tool called flow inspect and adds subsequent file-format aware analytics to its feature set. It consumes network capture files as input and passes them through a file type-specific analysis chain. In this chain, the file is operated upon by individual modules like:- FileID - Populates metadata like file entropy, compression ratio, hashes, bitrate, average packet rate, duration, etc.- Libnids - Handles IP defragmentation and TCP reassembly- ProtoID - Custom-made, minimal, regex-based protocol identification module (currently supports HTTP/SMTP/FTP/IMAP/POP3 identification)- Heuristics Engine - Uses a stochastic model based flow scanning engine to detect network traffic abnormalities- Yara Scan - Uses Yara's file scanning features to identify malicious network streams- Shellcode Scan - Uses Libemu to emulate and identify x86 shellcode- Regex Scan - Helps to identify and extract useful pieces of information (hashes, email addresses, private API keys, password DBs, etc.) from network traffic flows- Entropy visualization wih graphing support- DNS/Whois/GeoIP (with Google Maps API v3 integration) modulesEach of these modules sends a report JSON that is then collated to provide a highly verbose summary of the capture file. The analyst has an option of requesting the report in any one of the supported formats (JSON, HTML, PDF).The framework provides command-line based interactive interface that exposes a file analysis object. This object can be used to scan files and generate reports. This architecture also allows quick embedding within third-party tools and applications. Most of the analysis modules accept configuration options and as such provide a faster alternative to directly tweaking codebase.With the above listed modules and features in place, the project is still under development. There are plan to extend its functionality beyond capture files to include binary and document formats with the first public release.",
+  "Year": "2015",
+  "Location": "USA"
+}

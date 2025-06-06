@@ -1,0 +1,15 @@
+{
+  "Tool Name": "ArcherySec - Manage and Automate your Vulnerability Assessment",
+  "Speakers": [
+    "Anand Tiwari"
+  ],
+  "Tracks": [
+    "Vulnerability Assessment",
+    "Web AppSec"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/archerysec/archerysec",
+  "Description": "ArcherySec is an open-source vulnerability assessment and automation tool which helps developers and pentesters to perform scans and manage vulnerabilities. ArcherySec uses popular open-source tools to perform comprehensive scanning for web applications and networks. It also performs web application dynamic authenticated scanning and covers the whole application by using selenium. The developers can also utilize the tool for the implementation of their DevOps CI/CD environment.\n\nOverview of the tool\n- Perform web and network vulnerability scanning using open-source tools.\n- Correlates and collaborates all raw scans data, shows them in a consolidated manner.\n- Multi-user role-based accounts admin, analyst & viewer\n- Policy-based CI/CD integration\n- Perform authenticated web scanning.\n- Perform web application scanning using selenium.\n- Vulnerability management.\n- Enable REST APIs for developers to perform scanning and vulnerability management.\n- JIRA Ticketing System.\n- Periodic scans.\n- Useful for DevOps teams for vulnerability management.",
+  "Year": "2022",
+  "Location": "USA"
+}

@@ -1,0 +1,15 @@
+{
+  "Tool Name": "LUDA: Large URLs Dataset Analyzer for Security",
+  "Speakers": [
+    "Jordan Garzon",
+    "Asaf Nadler"
+  ],
+  "Tracks": [
+    "Track: Network Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/akamai/luda",
+  "Description": "What interesting stuff can we find by looking only at URLs without the actual HTTP traffic ?\n\nWell, quite a lot. Hackers often do not reinvent the wheel. They buy existing malwares or phishing that use the same scheme for HTTP communication. Techniques to randomize URLs , like DGA, often apply on the domain part\". But what about the rest?\n\nIn this talk, we present LUDA - Large URLs Dataset Analyzer for security. It works in two modes: Malware or Phishing.\nThe first will detect similarities between C2 communication and cluster them by families. The last will apply the same clustering with an additional layer of \" brand \" detection.\nBoth of them can automatically extract regexes, using Genetic algorithm, and can be deployed for inline detections.\nThis powerful tool already supports integration with various public malicious repositories like PhishTank, URLHaus , Virus Total as well as dozens more.\nAs opposed to similar projects , this tool is focused only on security. It includes specific options like automatic false positive cleaning.\nWe will demo how we can run LUDA on public datasets with the two modes and show how it succeeds to get quality insights from large datasets. Finally we will show what are the current threat families found on real traffic data taken from Akamai Secure Web Gateway.",
+  "Year": "2021",
+  "Location": "USA"
+}

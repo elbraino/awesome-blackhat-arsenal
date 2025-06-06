@@ -1,0 +1,14 @@
+{
+  "Tool Name": "MetaHub: Automating Ownership, Context and Impact Assessments in Security Findings",
+  "Speakers": [
+    "Gabriel Alejandro Soltz"
+  ],
+  "Tracks": [
+    "Track: Vulnerability Assessment"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/gabrielsoltz/metahub",
+  "Description": "Security findings from automated sources such as CSPMs, software vulnerability scanners, or compliance scanners often overwhelm security teams with excessive, generic, context-less information. You may have heard countless times that context in security is key, so why don't these tools provide you with more of it? Simply put, they were not designed to do so.\n\nThis shortcoming means that determining ownership and impact can be time-consuming, leading to critical vulnerabilities going unnoticed, and causing unnecessary noise or friction between security teams and other departments.\n\nMy proposed demo introduces MetaHub, a tool designed to address these issues by automating the three essential stages of security finding assessment: owner determination, contextualization, and impact definition. Leveraging metadata through MetaChecks, MetaTags, MetaTrails, and MetaAccount, MetaHub provides a detailed, context-aware assessment of each finding.\n\nBy integrating MetaHub, teams can significantly reduce false positives, streamline the detection and resolution of security findings, and strategically tailor their scanner selection to minimize unnecessary noise. The ability to concentrate on meaningful, high-impact issues will be the primary focus of the demo.\n\nMetaHub relies on the ASFF format for ingesting security findings and can consume data from AWS Security Hub or any ASFF-supported scanner like Prowler, ElectricEye, or Inspector. This compatibility means you can continue using the scanners you already rely on but add what's missing to those findings: Ownership, Context, and Impact.\n\nMetaHub also generates powerful visual reports and is designed for use as a CLI tool or within automated workflows, such as AWS Security Hub custom actions or AWS Lambda functions.\n\nThe automation of context, ownership, and impact is not commonly addressed by open-source tools; MetaHub introduces a solution to this problem that aims to be agnostic to the source scanner.",
+  "Year": "2023",
+  "Location": "Europe"
+}

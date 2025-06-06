@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Lair",
+  "Speakers": [
+    "Tom Steele"
+  ],
+  "Tracks": [
+    "Track: Web AppSec"
+  ],
+  "Event": "BH-US-13",
+  "Github URL": "https://github.com/lair-framework/lair",
+  "Description": "Lair is an open-source project developed for and by pentesters. Built on Meteor and Node.js with a dash of Python, Lair is a web application that normalizes, centralizes, and manages diverse test data from a number of common tools including Nmap, Nessus, Nexpose, and Burp. Unlike existing alternatives, Lair encourages team-based collaboration by automatically pushing updates to team members in real time. Paired with it\u00e2\u0080\u0099s workflow and documentation management, Lair offers a single solution for performing a detailed, thorough penetration test individually or as a team in a manner that has not been done before.",
+  "Year": "2013",
+  "Location": "USA"
+}

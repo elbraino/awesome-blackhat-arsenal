@@ -1,0 +1,14 @@
+{
+  "Tool Name": "A Black Path Toward The Sun",
+  "Speakers": [
+    "Ben Lincoln"
+  ],
+  "Tracks": [
+    "Track: Web AppSec"
+  ],
+  "Event": "BH-US-16",
+  "Github URL": "https://github.com/nccgroup/ABPTTS",
+  "Description": "Web application servers and appliances are often one of the most highly-visible entry points into an organization or high-security network. If the server is misconfigured or hosting vulnerable code, existing tools can frequently be used by attackers to convert it into a gateway to the internal network. However, taking full advantage of such a system typically requires a network-level connection between the attacker and the web application server. For example, an internet-facing Linux web application server may have network-level connectivity to an internal Windows domain controller, but appropriate client tools may not function correctly when used via a web shell or similar interface. An interactive session (SSH, RDP, et cetera) on the vulnerable system, or port-forwarding to allow direct connectivity to internal services from the attacker's system becomes necessary. If the organization responsible for the server has done everything else correctly (including blocking tunneling via ICMP/DNS), then there may be no additional network-level connectivity possible in either direction between the attacker and the web application server. This closes off SSH, RDP, and similar interactive remote access, and prevents the use of port-forwarding agents such as Meterpreter.This presentation provides a solution to this problem - A Black Path Toward The Sun, a tool (released as open source in conjunction with the presentation) which tunnels TCP traffic through the web application server using the server's existing HTTP/HTTPS interface. That is, a JSP/WAR/ASPX file is deployed on the server (just as a web shell would be), and a Python script is executed on the attacker's system which performs TCP port-forwarding through that deployed server-side component. The tool also incorporates novel measures to make the network communication challenging to detect using traditional IDS/IPS/WAF-type systems. Java/JSP and ASP.NET editions of the server-side component will be included in the initial open source release, but porting the component to other web application servers should be straightforward.",
+  "Year": "2016",
+  "Location": "USA"
+}

@@ -1,0 +1,14 @@
+{
+  "Tool Name": "CoffeeShot: Avoid Detection with Memory Injection",
+  "Speakers": [
+    "Asaf Aprozper"
+  ],
+  "Tracks": [
+    "Track: Malware Offense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/MinervaLabsResearch/CoffeeShot",
+  "Description": "For the first time ever, we are introducing a framework that utilizes the usage of Java Native Access with Java. How did we take advantage of that? Well, we used this to call to interesting Windows API's directly from Java. CoffeeShot is a framework that was designed for creating Java-based malware which bypasses most of the anti-virus vendors. CoffeeShot utilizes the features of JNA to look for a victim process, once it finds it - a shellcode will be injected directly from the Java Archive file (JAR).\n\nJava malware like \"Jrat\" and \"Adwind\" are used by malicious adversaries day by day, more and more. Their main reason for writing malware in Java is to be evasive and avoid security products \u2013 including those that use advanced features like machine learning. To overcome the above, blue-teamers can use this framework and thereby understand their status of anti-malware weakness against Java-based malware.\n\nOn the other hand, CoffeeShot can be applied by penetration testers as well. The framework provides red-teamers a friendly toolset by allowing them to embed any shellcode in a JAR file, assisting them to avoid detection with memory injection and to PWN the target!",
+  "Year": "2018",
+  "Location": "USA"
+}

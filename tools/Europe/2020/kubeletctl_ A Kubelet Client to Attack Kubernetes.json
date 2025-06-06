@@ -1,0 +1,14 @@
+{
+  "Tool Name": "kubeletctl: A Kubelet Client to Attack Kubernetes",
+  "Speakers": [
+    "Eviatar Gerzi"
+  ],
+  "Tracks": [
+    "Track: OSINT - Open Source Intelligence"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/cyberark/kubeletctl",
+  "Description": "kubeletctl is a CLI client for kubelet - the remote agent of Kubernetes on the nodes. It implements all the documented and undocumented API of kubelet but it also includes offensive capabilities:\n- Scan for vulnerable nodes\n- Scan for containers with RCE\n- Run command on multiple containers",
+  "Year": "2020",
+  "Location": "Europe"
+}

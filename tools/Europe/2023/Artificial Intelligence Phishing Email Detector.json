@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Artificial Intelligence Phishing Email Detector",
+  "Speakers": [
+    "Waqar Ahmed"
+  ],
+  "Tracks": [
+    "Vulnerability Assessment",
+    "Human Factors"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/ChanChiChoi/awesome-Federated-Learning",
+  "Description": "An artificial intelligence-based phishing email detector that analyses emails and its content, vocabulary, sender, subject etc and detects if it's a phishing email even if it was not flagged as one by an email gateway based on the analysis of collection of phishing emails.",
+  "Year": "2023",
+  "Location": "Europe"
+}

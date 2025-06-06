@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Scapy: Python-Based Interactive Packet Manipulation Program + Library",
+  "Speakers": [
+    "Guillaume Valadon"
+  ],
+  "Tracks": [
+    "Track: Network Attacks"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/secdev/scapy",
+  "Description": "Scapy (https://github.com/secdev/scapy) is a renowned packet manipulation tool written in Python that supports a wide number of protocols on many different platforms (Linux, macOS, *BSD, and Windows). Initially developed by Philippe Biondi since 2003, it is now maintained by Guillaume Valadon, Pierre Lalet and Gabriel Potter. While the existence of this tool is well-known, its grip is much less, to the community's detriment. This presentation aims at filling this gap using practical and detailed examples.",
+  "Year": "2019",
+  "Location": "USA"
+}

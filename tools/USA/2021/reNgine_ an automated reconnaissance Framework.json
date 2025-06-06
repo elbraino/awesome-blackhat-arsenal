@@ -1,0 +1,14 @@
+{
+  "Tool Name": "reNgine: An Automated Reconnaissance Framework",
+  "Speakers": [
+    "Yogesh Ojha"
+  ],
+  "Tracks": [
+    "Track: Web AppSec"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/yogeshojha/rengine",
+  "Description": "reNgine is an automated reconnaissance engine(framework) that is capable of performing end-to-end reconnaissance with the help of highly configurable scan engines on web application targets. reNgine makes use of various open-source tools and makes a highly configurable pipeline of reconnaissance to gather the recon result.\n\nreNgine also makes it possible for users to choose the tools they desire while following the same reconnaissance pipeline, example - with reNgine you aren't limited to using sublist3r for subdomains discovery, rather reNgine allows you to combine multiple tools like sublist3r, subfinder, assetfinder, and easily integrate them into your reconnaissance pipeline. The reconnaissance results are then displayed in a beautiful and structured UI after performing the co-relation in the results produced by these various tools. The developers behind reNgine understand that recon result most often is overwhelming due to the humongous data, so that's why reNgine also comes with advanced query lookup using natural language operators like and, or and not. Imagine, doing recon on facebook.com and filtering the results like\n\nhttp_status!404&page_title=admin|page_title=dashboard&content_length>0&tech=php\n\nor\n\nseverity=critical|severity=high&vulnerability_title=xss|vulerability_title=cve-1234-xxxx\n\nreNgine's flexibility to easily incorporate any existing open-source tools and with advanced features like configurable scan engines, parallel scans, advanced query lookup on recon results, instant notification about the scan, scheduled scans, etc, separates reNgine from any other recon frameworks.\n\nreNgine can be used for both reconnaissance and actively monitoring the targets.\n\nDuring the Arsenal, the developers behind reNgine will demonstrate the capabilities and new features announcements.\n\nWhat has changed since BHEU 2019?\n1. Integration of Vulnerability Scanner\n2. More powerful query lookup with recon data\n3. OSINT Capabilities (Major update)\n4. Scan Comparision - ability to identify the changes in subdomains, newly discovered subdomains or subdomains that disappeared in last scan etc\n5. Interesting Lookup: reNgine will automatically identify the interesting subdomains and interesting URLs from recon data using the keywords match.\nAnd many more..",
+  "Year": "2021",
+  "Location": "USA"
+}

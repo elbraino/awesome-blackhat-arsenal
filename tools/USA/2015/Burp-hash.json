@@ -1,0 +1,16 @@
+{
+  "Tool Name": "Burp-hash",
+  "Speakers": [
+    "Scott Johnson",
+    "Tim MalcomVetter",
+    "Matt South"
+  ],
+  "Tracks": [
+    "Track: Web AppSec"
+  ],
+  "Event": "BH-US-15",
+  "Github URL": "https://github.com/burp-hash/burp-hash",
+  "Description": "Burp-hash is a Burp Suite plugin. Many applications will hash parameters, such as ID numbers and email addresses for use in secure tokens, like session cookies. The plugin will passively scan requests looking for hashed values. Once a hashed value is found, it is compared to a table of parameters already observed in the application to find a match. The plugin keeps a lookout for parameters, such as usernames, email addresses, and ID numbers. It also keeps a lookout for hashes (SHA, MD5, etc). It hashes new data and compares to observed hashes. The user receives a notification if any hashes match. This automates the process of trying to guess common parameters used in the generation of hashes observed in an application.",
+  "Year": "2015",
+  "Location": "USA"
+}

@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Breachego",
+  "Speakers": [
+    "Christian Heinrich"
+  ],
+  "Tracks": [
+    "Track: OSINT - Open Source Intelligence"
+  ],
+  "Event": "BH-US-15",
+  "Github URL": null,
+  "Description": "Maltego Remote Transforms for Abusix, haveibeenpwned and BreachAlarm to perform link analysis and intrusion detection of compromised aliases, e-mail addresses, domains, plaintext and hashed passwords posted to Pastebin, Slexy, QuickLeak, Pastie, and Ghostbin.",
+  "Year": "2015",
+  "Location": "USA"
+}

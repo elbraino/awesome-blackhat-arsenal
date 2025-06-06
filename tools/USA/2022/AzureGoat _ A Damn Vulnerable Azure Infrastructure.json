@@ -1,0 +1,16 @@
+{
+  "Tool Name": "AzureGoat : A Damn Vulnerable Azure Infrastructure",
+  "Speakers": [
+    "Nishant Sharma",
+    "Jeswin Mathai",
+    "Rachna Umaraniya"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/ine-labs/AzureGoat",
+  "Description": "Microsoft Azure cloud has become the second-largest vendor by market share in the cloud infrastructure providers (as per multiple reports), just behind AWS. There are numerous tools and vulnerable applications available for AWS for the security professional to perform attack/defense practices, but it is not the case with Azure. There are far fewer options available to the community. AzureGoat is our attempt to shorten this gap.\n\nIn this talk, we will be introducing AzureGoat, a vulnerable by design infrastructure on the Azure cloud environment. AzureGoat will allow a user to do the following:\n\n- Explore a vulnerable infrastructure hosted on an Azure account\n- Exploring different ways to get a foothold into the environment, e.g., vulnerable web app, exposed endpoint, attached MSI\n- Learn and practice different attacks by leveraging misconfigured Azure components like Virtual Machines, Storage Accounts, App Services, Databases, etc.\n- Abusing Azure AD roles and permissions\n- Auditing and fixing misconfiguration in IaC\n- Redeploying the fixed/patched infrastructure\n\nThe user will be able to deploy AzureGoat on their Azure account using a pre-created Docker image and scripts. Once deployed, the AzureGoat can be used for target practice and be conveniently deleted later.\n\nAll the code and deployment scripts will be made open-source after the talk.",
+  "Year": "2022",
+  "Location": "USA"
+}

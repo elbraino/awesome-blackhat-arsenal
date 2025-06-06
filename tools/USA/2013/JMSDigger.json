@@ -1,0 +1,14 @@
+{
+  "Tool Name": "JMSDigger",
+  "Speakers": [
+    "Gursev Singh Kalra"
+  ],
+  "Tracks": [
+    "Track: Code Assessment"
+  ],
+  "Event": "BH-US-13",
+  "Github URL": "https://github.com/OpenSecurityResearch/jmsdigger",
+  "Description": "JMSDigger is a new tool that can be leveraged to engage and assess enterprise messaging applications with the current release focuses on ActiveMQ. JMSDigger has following features:",
+  "Year": "2013",
+  "Location": "USA"
+}

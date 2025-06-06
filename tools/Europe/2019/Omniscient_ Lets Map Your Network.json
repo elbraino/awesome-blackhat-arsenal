@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Omniscient: Lets Map Your Network",
+  "Speakers": [
+    "Pramod Rana"
+  ],
+  "Tracks": [
+    "Track: Network Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/varchashva/LetsMapYourNetwork",
+  "Description": "Omniscient: Lets Map Your Network aims to provide an easy-to-use and point-in-time interface to security engineers and network administrators to represent their network in graphical form with zero manual error, where a node represents a system and relationship between nodes represents a direct connection. It also monitors the 'identified' network with user-defined periodicity and provides the analytics on rogue systems/devices present in network.\n\nIt is utmost important for any security engineer to understand their network first before securing it and it becomes a daunting task to have a 'true' understanding of a widespread network. In a mid to large level organisation's network having a network architecture diagram doesn't provide the complete understanding of network and manual verification is a nightmare. Hence in order to secure entire network it is important to have a complete picture of all the systems which are connected to your network, irrespective of their type, function, technology etc.\n\nBOTTOM LINE - YOU CAN'T SECURE WHAT YOU ARE NOT AWARE OF.\n\nOmniscient does it in two phases:\n1. Learning: In this phase, Omniscient 'learns' the network by utilising passive network enumeration, active scans and upload of existing CMDB for on-premises network; and by querying the APIs for cloud networks. Then it builds graph database leveraging the responses of all learning activities. User can perform any of the learning activities at any point of time and Omniscient will incorporate the results in existing database.\n\n2. Monitoring: This is a continuous and automatic process, where Omniscient monitors the 'identified' network (with user-defined periodicity) for any changes, compare it with existing information and update the graph database accordingly.",
+  "Year": "2019",
+  "Location": "Europe"
+}

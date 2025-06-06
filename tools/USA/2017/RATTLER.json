@@ -1,0 +1,14 @@
+{
+  "Tool Name": "RATTLER",
+  "Speakers": [
+    "Chris Le Roy"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/sensepost/rattler",
+  "Description": "Rattler is a tool that automates the identification of DLL's which can be used for DLL preloading attacks on Windows 7/8.1/10. The automation of such a process significantly decreases the amount of time required to identify vulnerable and exploitable DLL's.\n\nFor example, if an application were to have ~100 DLL's and if it took ~2 minutes to test each DLL, that is ~2 hours for a single application to be tested using a manual process. Additionally, the process for testing an application for DLL preloading vulnerabilities is rather simple and can be automated trivially using some C++, Windows API calls and fresh beard oil , hence Rattler.\n\nThe identification of vulnerable DLL's can assist in an attacker in achieving code execution or escalation of privileges.",
+  "Year": "2017",
+  "Location": "USA"
+}

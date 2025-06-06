@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Octopus: Pre-operation C2 Server",
+  "Speakers": [
+    "Mohammad Askar"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/mhaskar/Octopus",
+  "Description": "Octopus is an open source, pre-operation C2 server based on python which can control an Octopus powershell agent through HTTP/S.\n\nThe main purpose of creating Octopus is for use before any red team operation, where rather than starting the engagement with your full operational arsenal and infrastructure, you can use Octopus first to attack the target and gather information before you start your actual red team operation.\n\nOctopus works in a very simple way to execute commands and exchange information with the C2 over a well encrypted channel, which makes it inconspicuous and undetectable from almost every AV, endpoint protection, and network monitoring solution.\n\nOne cool feature in Octopus is called ESA, which stands for \"Endpoint Situational Awareness\", which will gather some important information about the target that will help you to gain better understanding of the target network endpoints that you will face during your operation, thus giving you a shot to customize your real operation arsenal based on this information.\n\nOctopus is designed to be stealthy and covert while communicating with the C2, as it uses AES-256 by default for its encrypted channel between the powershell agent and the C2 server. You can also opt for using SSL/TLS by providing a valid certficate for your domain and configuring the Octopus C2 server to use it.",
+  "Year": "2019",
+  "Location": "Europe"
+}

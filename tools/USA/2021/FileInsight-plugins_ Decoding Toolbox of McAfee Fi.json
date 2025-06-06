@@ -1,0 +1,14 @@
+{
+  "Tool Name": "FileInsight-plugins: Decoding Toolbox of McAfee FileInsight Hex Editor for Malware Analysis",
+  "Speakers": [
+    "Nobutaka Mantani"
+  ],
+  "Tracks": [
+    "Track: Reverse Engineering"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/nmantani/FileInsight-plugins",
+  "Description": "FileInsight-plugins is a large set of plugins for McAfee FileInsight hex editor. It adds many capabilities such as decode, decryption, decompression, searching XOR-ed text strings, scanning with a YARA rule, code emulation, disassembly, and more! It is useful for various kinds of decoding tasks in malware analysis (such as extracting malware executable files from malicious document files, deobfuscation of malicious scripts).\n\nCurrently, FileInsight-plugins has 110 plugins. The plugins provide the following functions and many other functions.\n\n- Calculation of hash values (CRC32, MD5, SHA1, SHA256, ssdeep, imphash, impfuzzy)\n- Search for XORed, bit-rotated text strings and byte arrays\n- XOR while incrementing / decrementing XOR key (rolling XOR)\n- Encode and decode of BASE16, BASE32, BASE58, BASE64, BASE85 with custom tables\n- Encryption and decryption (AES, ARC2, ARC4, Blowfish, ChaCha20, DES, Salsa20, TEA, Triple DES, XTEA)\n- Compression and decompression (aPLib, Bzip2, Deflate, Gzip, LZ4, LZMA, LZNT1, LZO, PPMd, QuickLZ, XZ, Zstandard)\n- Detection of embedded files in a file\n- Extraction of text strings of ASCII and UTF-16 with auto decode of hex string and BASE64 strings\n- Scanning with YARA and highlighting regions that match YARA rules\n- Showing file metadata\n- Parsing file structure (Gzip, RAR, ZIP, ELF, PE, MBR partition table, BMP, GIF, JPEG, PNG, Windows shortcut)\n- Code emulation of shellcodes and executable files (Windows (x64, x86) and Linux (x64, x86, ARM, ARM64, MIPS)) with API call tracing and capturing memory dumps\n- Disassembly (x64, x86, ARM, ARM64, MIPS, PowerPC, PowerPC64, SPARC)\n- Opening data with other tools such as CyberChef, IDA, and VSCode (customizable with JSON config file).\n- Visualization (Bitmap, Byte histogram, Entropy graph)\n\nFileInsight-plugins is a tool that I develop privately, not professionally developed by the organization I belong to.\n\nLinks:\n- GitHub repository: https://github.com/nmantani/FileInsight-plugins/\n- Documents of use cases: https://github.com/nmantani/FileInsight-plugins/wiki",
+  "Year": "2021",
+  "Location": "USA"
+}

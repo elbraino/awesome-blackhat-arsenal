@@ -1,0 +1,15 @@
+{
+  "Tool Name": "RWDD: Remote Web Deface Detection Tool",
+  "Speakers": [
+    "Ade Yoseman Putra",
+    "Prashant KV"
+  ],
+  "Tracks": [
+    "Track: Web AppSec"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": "RWDD (Remote Web Deface Detection) tool is an application designed to help secure a web with IoT (Internet Of Things) and notify users (via various communication mechanisms), whenever source code of website changed (by programmer or attacker).",
+  "Year": "2019",
+  "Location": "USA"
+}

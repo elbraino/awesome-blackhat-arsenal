@@ -1,0 +1,14 @@
+{
+  "Tool Name": "KubiScan: Searching for Risky Pods and Permissions in Kubernetes Cluster",
+  "Speakers": [
+    "Eviatar Gerzi"
+  ],
+  "Tracks": [
+    "Track: OSINT - Open Source Intelligence"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/cyberark/KubiScan",
+  "Description": "KubiScan is a tool that was created to search for risky Pods which contain a privileged service account tokens that can be used for privilege escalation or even compromising the cluster. It can also show you all the risky roles, rolebindings, users and privileged pods in the Kubernetes Cluster and other cool stuff.",
+  "Year": "2020",
+  "Location": "USA"
+}

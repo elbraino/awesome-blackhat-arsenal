@@ -1,0 +1,16 @@
+{
+  "Tool Name": "Nekuda: IDN-Squatting Detector",
+  "Speakers": [
+    "Gal Bitensky",
+    "Adi Pick"
+  ],
+  "Tracks": [
+    "Web AppSec",
+    "Human Factors"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/G4LB1T/Nekuda",
+  "Description": "Put yourself in the shoes of a fraudster, you are trying to create a phishing website. Why inserting detectable unicode characters into a mostly-ASCII domain when you can register an entire domain in unicode? This is available when one uses a lesser-known feature called Internationalized Domain Name Top Level Domains (IDN TLD). Consider registering domains like google.com's lookalike in Hebrew - \u05d2\u05d5\u05d2\u05dc.\u05e7\u05d5\u05dd, \u30a2\u30de\u30be\u30f3.\u30b3\u30e0 in Japanese instead of amazon.com or \u5fae\u8f6f.\u516c\u53f8 which is the Chinese equivalent of microsoft.com.\n\nNekuda (dot in Hebrew) assists blue teamers to detect such domains. Its input is a string (e.g. the blue teamer's employer Brand name) and it emits over 150 potential IDN TLD domains and its registration status. It covers a potential gap in proactive phishing detection and prevention strategies and can be easily integrated into existing open-source tools like dnstwist.",
+  "Year": "2023",
+  "Location": "USA"
+}

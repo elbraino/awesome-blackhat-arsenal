@@ -1,0 +1,14 @@
+{
+  "Tool Name": "YARASAFE: Automatic Binary Function Similarity Checks with Yara",
+  "Speakers": [
+    "Luca Massarelli"
+  ],
+  "Tracks": [
+    "Track: Reverse Engineering"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/lucamassarelli/yarasafe",
+  "Description": "YARASAFE is a new Yara module that automates the generation of rules containing binary similarity checks. Given a binary function, YARASAFE computes automatically its signature and includes it into a rule that will match any similar function.\n\nThis module rely on SAFE, a tool developed to create embedding vectors to represent binary functions. SAFE generates similarity-preserving embeddings: given two similar functions, their SAFE embeddings will be similar.\n\nTo create the embedding of a desired function YARASAFE includes an IDA Pro plugin: it sufficient to select the function in IDA and run the plugin to obtain its embedding.\n\nYARASAFE can be used to create automatically yara rules for different purposes:\n\n- Malware hunting\n- Library function recognition\n- Vulnerable function detection",
+  "Year": "2019",
+  "Location": "USA"
+}

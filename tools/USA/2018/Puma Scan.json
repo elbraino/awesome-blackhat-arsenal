@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Puma Scan",
+  "Speakers": [
+    "Eric Johnson",
+    "Eric Mead"
+  ],
+  "Tracks": [
+    "Track: Code Assessment"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/pumasecurity/puma-scan",
+  "Description": "Puma Scan provides real-time, continuous source code analysis for .NET applications with over 50 security-focused rules targeting insecure deserialization, injection, weak cryptography, cross-site request forgery, misconfiguration, and many more insecure coding patterns. Puma Scan displays vulnerabilities in Visual Studio as spell check errors and compiler warnings to prevent engineers from committing vulnerabilities into code repositories.\n\nDevSecOps teams can use Puma Scan's command line interface to enable security scanning in continuous integration pipelines (e.g. Jenkins, TFS), monitor code for security issues, and verify security thresholds are met during each build.\nCome see live demonstrations of the Puma hunting source code for vulnerabilities and walk away with an open-source (MPL v2.0) static analysis engine to help secure your .NET applications.",
+  "Year": "2018",
+  "Location": "USA"
+}

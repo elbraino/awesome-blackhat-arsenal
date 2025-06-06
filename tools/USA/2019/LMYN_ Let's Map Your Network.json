@@ -1,0 +1,14 @@
+{
+  "Tool Name": "LMYN: Let's Map Your Network",
+  "Speakers": [
+    "Pramod Rana"
+  ],
+  "Tracks": [
+    "Track: Network Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/varchashva/LetsMapYourNetwork",
+  "Description": "It is of utmost importance for any security engineer and network administrator to understand their network before securing and managing it, and it becomes a daunting task to have a 'true' understanding of a widespread network. In a mid to large-size organisation's network, having a network architecture diagram doesn't provide a complete understanding, and manual verification is a nightmare. Hence, in order to secure and manage entire network, it is important to have a complete picture of all the systems connected to your network.\n\nBOTTOM LINE - YOU CAN'T SECURE WHAT YOU ARE NOT AWARE OF.\n\nLetsMapYourNetwork (LMYN) aims to provide an easy-to-use interface to visualise any network in graphical-form with zero manual error at any point-of-time, where a node represents a system and relationship between nodes represents the connection.\n\nKey Features\n\nProject management\nBulk load of existing CMDB\nAbility to perform on-demand network activities\nCloud (AWS) support\nEnumeration\nAbility to analyse 'interesting' network only\nContinuous monitoring\nSegregation of backend activities and UI\nDocker support",
+  "Year": "2019",
+  "Location": "USA"
+}

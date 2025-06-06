@@ -1,0 +1,15 @@
+{
+  "Tool Name": "DIFFDROID",
+  "Speakers": [
+    "Anto Joseph"
+  ],
+  "Tracks": [
+    "Track: Android",
+    "iOS and Mobile Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/antojoseph/diff-droid",
+  "Description": "DiffDroid is a Framework which makes dynamic security assessments in android much easier with its modules for profiling, logging and modifying application logic. It's extremely user friendly, uses javascript, makes no changes to the Operating system and is ready to go. You can use it for malware analysis, security assessments or a few points in your favorite game.",
+  "Year": "2017",
+  "Location": "USA"
+}

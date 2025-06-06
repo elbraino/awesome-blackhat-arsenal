@@ -1,0 +1,14 @@
+{
+  "Tool Name": "WHID Injector - How to Bring HID Attacks to the Next Level",
+  "Speakers": [
+    "Luca Bongiorni"
+  ],
+  "Tracks": [
+    "Track: Hardware / Embedded"
+  ],
+  "Event": "BH-EU-17",
+  "Github URL": "https://github.com/whid-injector/WHID",
+  "Description": "WHID was born from the need for cheap and dedicated hardware that could be remotely controlled in order to conduct HID attacks (i.e. over WiFi or BLE). WHID stands for WiFi HID injector. It is a cheap but reliable piece of hardware designed to fulfill Pentesters needs related to HID Attacks, during their engagements. The core of WHID is mainly an Atmega 32u4 (commonly used in many Arduino boards) and an ESP-12s (which provides the WiFi capabilities and is commonly used in IoT projects). During the talk we will see in depth how WHID Injector was designed and its functionalities.",
+  "Year": "2017",
+  "Location": "Europe"
+}

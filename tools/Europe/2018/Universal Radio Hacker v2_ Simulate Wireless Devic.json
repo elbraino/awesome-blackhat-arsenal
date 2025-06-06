@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Universal Radio Hacker v2: Simulate Wireless Devices with Software Defined Radio",
+  "Speakers": [
+    "Johannes Pohl"
+  ],
+  "Tracks": [
+    "Track: Internet of Things"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/jopohl/urh",
+  "Description": "Wireless communication between Internet of Things (IoT) devices is, in many cases, built upon proprietary protocols designed under size and energy constraints. Vulnerabilties in such protocols are critical, e.g. an attacker breaks into a house by hacking a wireless door lock. Software Defined Radios (SDR) offer a generic way to investigate such protocols, but require software support when it comes to demodulating and decoding messages. The Universal Radio Hacker (URH) is an open source tool to support researchers when operating with SDRs by abstracting most of the required HF basics needed for demodulation. Furthermore, it assists reverse engineering the protocol format. While this works well for stateless and undirectional protocols, there are more sophisticated protocols on the market that can not be handled without state machine.\n\nVersion 2.0 of the Universal Radio Hacker introduces a Simulation tab that allows to specify a complete HF protocol with several states and participants. It is called Simulation because URH has the ability to play the protocol from the perspective of one or more participants, i.e. URH evaluates all messages towards the simulated participant and dynamically crafts responses depending on the state and previous information. The simulation advancement complies to the easy-to-use philosophy that we also use for the basic URH. Users can see all messages of the analyzed protocol in a graphical flow graph and add new messages, edit or move them around at convenience. Message field values are dynamically derived with access to all previously sent and received information or even by using external programs, e.g. for AES encryption. Conditions, jump and pause elements in the graphical user interface allow generating complex state machines. In our presentation, we demonstrate a practical attack that shows how the simulation component of URH opens a sophisticated wireless door lock (AES encryption) with SDRs.",
+  "Year": "2018",
+  "Location": "Europe"
+}
