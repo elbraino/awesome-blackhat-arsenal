@@ -1,0 +1,15 @@
+{
+  "Tool Name": "TCP/IP Communication without Network Attack Surfaces. (No Open Ports on External Interfaces)",
+  "Speakers": [
+    "Colin Constable",
+    "Xavier Chathavong"
+  ],
+  "Tracks": [
+    "Track: Network Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": null,
+  "Year": "2024",
+  "Location": "Canada"
+}

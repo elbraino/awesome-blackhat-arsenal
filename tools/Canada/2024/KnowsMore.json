@@ -1,0 +1,14 @@
+{
+  "Tool Name": "KnowsMore",
+  "Speakers": [
+    "Helvio Junior"
+  ],
+  "Tracks": [
+    "Track:"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/helviojunior/knowsmore",
+  "Description": "KnowsMore is a swiss army knife tool for pentesting Microsoft Active Directory (NTLM Hashes, BloodHound, NTDS and DCSync)",
+  "Year": "2024",
+  "Location": "Canada"
+}

@@ -1,0 +1,17 @@
+{
+  "Tool Name": "Automatically Map & Enrich ALL Alerts, Events & Logs with MITRE Attack Techniques",
+  "Speakers": [
+    "Ezzeldin Tahoun",
+    "Lynn Hamida",
+    "Nidheesh Panchal",
+    "Kevin Shi"
+  ],
+  "Tracks": [
+    "Track:"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": "Using Natural Language Processing models, enrich any alert with its relevant attack techniques.\nThe model detects the techniques using contextual, and situational awareness as well as its linguistic cyber expertise.\nIn real time this model can save your operations endless hours of tagging incidents with their mitre techniques.",
+  "Year": "2024",
+  "Location": "Canada"
+}

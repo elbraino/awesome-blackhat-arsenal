@@ -1,0 +1,14 @@
+{
+  "Tool Name": "DarkWidow: Customizable Dropper Tool Targeting Windows",
+  "Speakers": [
+    "Soumyanil Biswas"
+  ],
+  "Tracks": [
+    "Track: Malware Offense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/reveng007/DarkWidow",
+  "Description": "This is a Customizable Dropper Tool targeting Windows machine.",
+  "Year": "2024",
+  "Location": "Canada"
+}

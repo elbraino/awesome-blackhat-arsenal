@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Malicious Executions: Unmasking Container Drifts and Fileless Malware with Falco",
+  "Speakers": [
+    "Lorenzo Susini",
+    "Stefano Chierici"
+  ],
+  "Tracks": [
+    "Track: Malware Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": null,
+  "Year": "2023",
+  "Location": "Canada"
+}

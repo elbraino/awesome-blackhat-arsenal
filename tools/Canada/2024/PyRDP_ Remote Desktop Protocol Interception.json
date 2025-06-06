@@ -1,0 +1,15 @@
+{
+  "Tool Name": "PyRDP: Remote Desktop Protocol Interception",
+  "Speakers": [
+    "Olivier Bilodeau",
+    "Andr\u00e9anne Bergeron"
+  ],
+  "Tracks": [
+    "Track: Malware Offense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": null,
+  "Year": "2024",
+  "Location": "Canada"
+}

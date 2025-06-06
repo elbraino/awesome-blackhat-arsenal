@@ -20,6 +20,9 @@ Whether you're in red teaming, blue teaming, appsec, or OSINT — this list help
 - [2022](tools/Asia/2022/README.md)
 - [2023](tools/Asia/2023/README.md)
 - [2024](tools/Asia/2024/README.md)
+### Canada
+- [2023](tools/Canada/2023/README.md)
+- [2024](tools/Canada/2024/README.md)
 ### Europe
 - [2014](tools/Europe/2014/README.md)
 - [2015](tools/Europe/2015/README.md)

@@ -1,0 +1,17 @@
+{
+  "Tool Name": "Continuously Correlate & Contextualize ALL Alerts, Events & Logs",
+  "Speakers": [
+    "Ezzeldin Tahoun",
+    "Lynn Hamida",
+    "Nidheesh Panchal",
+    "Kevin Shi"
+  ],
+  "Tracks": [
+    "Track:"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": "Using correlation and clustering models, turn tons of alerts into mitre attack flows.\nThe model finds the attack flows, using its ability to evaluate alerts temporal proximity, kill chain sequentiality, shared entities and similar attributes to other alerts of interest, among others.\nIn real time this model can save your operations endless hours of correlating incidents and finding noteworthy attack flows, that if not detected in time would lead to breaches.",
+  "Year": "2024",
+  "Location": "Canada"
+}
