@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Cloud Offensive Breach and Risk Assessment (COBRA)",
+  "Speakers": [
+    "Anand Tiwari",
+    "Harsha Koushik"
+  ],
+  "Tracks": [
+    "Track: Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/PaloAltoNetworks/cobra-tool",
+  "Description": "Cloud Offensive Breach and Risk Assessment (COBRA) is an open-source tool designed to empower users to simulate attacks within multi-cloud environments, offering a comprehensive evaluation of security controls. By automating the testing of various threat vectors including external and insider threats, lateral movement, and data exfiltration, COBRA enables organizations to gain insights into their security posture vulnerabilities. COBRA is designed to conduct simulated attacks to assess an organization's ability to detect and respond to security threats effectively.\n\n# COBRA Features\n\n1. Seamless Integration for POC and Tool Evaluation: COBRA provides seamless integration for Proof of Concept (POC) and tool evaluation purposes. Whether you're exploring new cloud-native applications or evaluating existing solutions, COBRA offers a user-friendly interface and flexible deployment options to facilitate effortless testing and assessment.\n\n2. Comprehensive Assessment of Cloud-Native Security Posture: Gain unparalleled insights into your organization's existing cloud-native security posture with COBRA. Our advanced assessment capabilities enable you to identify vulnerabilities, assess security controls, and pinpoint areas for improvement. By understanding your current security posture, you can proactively address gaps and strengthen your defenses against emerging threats.\n\n3. Benchmarking Against Industry Standards and Best Practices: COBRA enables you to benchmark your cloud security controls against industry standards and best practices. With our comprehensive benchmarking framework, you can compare your security posture against established benchmarks, identify areas of strength and weakness, and prioritize remediation efforts accordingly.\n\n4. Actionable Insights and Recommendations: COBRA goes beyond providing insights by providing a report delivering actionable recommendations tailored to your organization's specific needs.\n\n5. Continuous Threat Simulation: COBRA offers a modular and templatized approach for users to easily integrate additional modules, allowing for continuous threat simulation and adaptability, by providing a flexible framework for adding modules, COBRA ensures that users can tailor their threat simulation capabilities according to evolving security needs.",
+  "Year": "2024",
+  "Location": "USA"
+}

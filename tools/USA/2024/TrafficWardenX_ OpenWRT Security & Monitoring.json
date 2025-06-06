@@ -1,0 +1,16 @@
+{
+  "Tool Name": "TrafficWardenX: OpenWRT Security & Monitoring",
+  "Speakers": [
+    "Sampad Adhikary",
+    "Tripti Sharma"
+  ],
+  "Tracks": [
+    "Network Defense",
+    "Data Forensics/Incident Response"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": "TrafficWardenX is a comprehensive open-source tool tailored for enhancing the security and monitoring capabilities of OpenWRT-enabled networks. With a focus on intuitive analytics and user engagement, TrafficWardenX delivers essential insights and control for maintaining robust network health.",
+  "Year": "2024",
+  "Location": "USA"
+}

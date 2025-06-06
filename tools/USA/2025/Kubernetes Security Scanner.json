@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Kubernetes Security Scanner",
+  "Speakers": [
+    "Krishna Priya"
+  ],
+  "Tracks": [
+    "Track: Cloud Security"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/isLinXu/paper-list",
+  "Description": "This is a comprehensive security scanning tool for Kubernetes clusters that identifies security issues, misconfigurations, and potential vulnerabilities. I built this tool while i was studying for CKS and i have found it really useful for real world workloads. It has the following features.\n\n1\u202f.\u202fCluster\u202fSetup\u202fand\u202fHardening\nLocks down the foundation: CIS\u2011aligned configs, safe admission plugs, tight RBAC, and restrictive network policies.\n\nCIS\u202fBenchmark\u202fChecker \u2013 drift & remediation\n\nAdmission\u202fController\u202fChecker \u2013 PSP/PSA, webhooks\n\nRBAC\u202fChecker \u2013 wild\u2011card verbs, risky bindings\n\nNetwork\u202fPolicy\u202fChecker \u2013 open namespaces, default\u2011allow rules\n\n2\u202f.\u202fSystem\u202fHardening\nFortifies nodes and runtimes\u2014kernel params, kubelet flags, containerd/Docker, and gVisor isolation.\n\nNode\u202fSecurity\u202fChecker \u2013 OS & kubelet hygiene\n\nRuntime\u202fSecurity\u202fChecker \u2013 seccomp, AppArmor, privilege creep\n\ngVisor\u202fChecker \u2013 runtime\u2011class wiring, sandbox health\n\n3\u202f.\u202fMinimize\u202fMicroservice\u202fVulnerabilities\nApplies least\u2011privilege to pods: security contexts, resource limits, PDBs, and secrets hygiene.\n\nContainer\u202fSecurity\u202fChecker \u2013 capabilities, limits, image trust\n\nPod\u202fSecurity\u202fChecker \u2013 priority/QoS, disruption budgets\n\nSecrets\u202fManagement\u202fChecker \u2013 encryption, rotation, exposure\n\n4\u202f.\u202fSupply\u202fChain\u202fSecurity\nAdmits only trusted code via image signatures, SBOM validation, and CVE detection.\n\nImage\u202fSecurity\u202fChecker \u2013 signatures, vuln scan, registry posture\n\nSBOM\u202fChecker \u2013 dependency CVEs, license red flags\n\n5\u202f.\u202fRuntime\u202fSecurity\nMaintains live visibility with audit pipelines and Falco rules for instant threat detection.\n\nAudit\u202fChecker \u2013 policy coverage, backend integrity\n\nFalco\u202fChecker \u2013 rule quality, alert wiring, violation monitoring",
+  "Year": "2025",
+  "Location": "USA"
+}

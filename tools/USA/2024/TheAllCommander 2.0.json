@@ -1,0 +1,15 @@
+{
+  "Tool Name": "TheAllCommander 2.0",
+  "Speakers": [
+    "Matthew Handy"
+  ],
+  "Tracks": [
+    "Vulnerability Assessment",
+    "Network Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/matt-handy/TheAllCommander",
+  "Description": "TheAllCommander was developed originally to provide rapid modelling and testing for novel Command and Control (C2) communications techniques for both Red team development and Blue team defensive modelling. Since inception and since the tool's original launch at Defcon 2022, the tool has evolved to include a flexible framework for modelling client and network Indicators of Compromise (IOC) based on user requests and feedback. By default, the tool is bundled with several emulations of common techniques used by real world threat actors. For every IOC simulation it provides, there is a corresponding set of recommendations for detection and mitigation as part of the tool's Blue Team Guide, which may be implemented by defenders and then directly tested for efficacy with the tool.\n\nTheAllCommander has also been expanded with additional interoperability with modern tradecraft. For example, the tool has been augmented to provide threat emulation of Powershell reverse shells.",
+  "Year": "2024",
+  "Location": "USA"
+}

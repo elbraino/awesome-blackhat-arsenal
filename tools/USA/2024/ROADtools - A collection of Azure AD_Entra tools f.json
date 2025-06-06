@@ -1,0 +1,15 @@
+{
+  "Tool Name": "ROADtools - A collection of Azure AD/Entra tools for offensive and defensive security purposes",
+  "Speakers": [
+    "Dirk-jan Mollema"
+  ],
+  "Tracks": [
+    "Web AppSec",
+    "Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/dirkjanm/ROADtools",
+  "Description": "ROADtools is a collection of tools for assessing and defending the security of Microsoft Entra (formerly Azure AD) security. The most notable tools in the framework are ROADrecon and roadtx (ROADtools Token eXchange). ROADrecon is a versatile reconnaissance tool that gives both attackers and defenders deep insights into Azure AD internals. Utilizing undocumented internal API's, it provides insights that are hard to find using official tooling, can bypass security restrictions set by admins, and provides offline access to tenant information through its offline database. Defenders can use ROADrecon to create easy overviews of risky permissions in the tenant, identify hidden permissions on applications and other objects. Roadtx is a new tool in the ROADtools family. Its goal is to support all official and non-official authentication flows and methods of the Microsoft Identity platform, ranging from standard OAuth flows to undocumented and legacy token flows for user and device authentication. The strength of roadtx is its versatility in customizing and modifying the authentication flow, to obtain a variety of authentication tokens that can bypass weakly protected security measures, or to create identity based persistence in the form of devices, Primary Refresh Tokens and Windows Hello keys. Roadtx also supports many different ways of authenticating for automation purposes, making it a tool that cannot be missed for identity security researchers. In the demonstration, we will also demonstrate its lesser-known extension, ROADtools hybrid, which provides protocol implementations for hybrid AD and Entra environments. With ROADtools hybrid, we can perform lateral movement from on-premises AD to Entra, using Sync accounts and Kerberos with Seamless SSO.",
+  "Year": "2024",
+  "Location": "USA"
+}

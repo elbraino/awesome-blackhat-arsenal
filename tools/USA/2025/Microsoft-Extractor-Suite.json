@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Microsoft-Extractor-Suite",
+  "Speakers": [
+    "Joey Rentenaar"
+  ],
+  "Tracks": [
+    "Track: Incident Response"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/invictus-ir/Microsoft-Extractor-Suite",
+  "Description": "A PowerShell module for acquisition of data from Microsoft 365 and Azure for Incident Response and Cyber Security purposes.",
+  "Year": "2025",
+  "Location": "USA"
+}

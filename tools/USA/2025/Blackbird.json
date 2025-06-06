@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Blackbird",
+  "Speakers": [
+    "Lucas Antoniaci"
+  ],
+  "Tracks": [
+    "Track: OSINT - Open Source Intelligence"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/p1ngul1n0/blackbird",
+  "Description": "An OSINT tool to search for accounts by username and email in social networks.",
+  "Year": "2025",
+  "Location": "USA"
+}

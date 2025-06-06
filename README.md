@@ -42,6 +42,8 @@ Whether you're in red teaming, blue teaming, appsec, or OSINT — this list help
 - [2021](tools/USA/2021/README.md)
 - [2022](tools/USA/2022/README.md)
 - [2023](tools/USA/2023/README.md)
+- [2024](tools/USA/2024/README.md)
+- [2025](tools/USA/2025/README.md)
 ---
 ## 🧩 Contributing
 We welcome community contributions to make this list better!

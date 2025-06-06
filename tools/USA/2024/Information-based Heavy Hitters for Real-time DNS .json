@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Information-based Heavy Hitters for Real-time DNS Exfiltration Detection",
+  "Speakers": [
+    "Yarin Ozery"
+  ],
+  "Tracks": [
+    "Track: Network Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/akamai/Information-based-Heavy-Hitters-for-Real-Time-DNS-Exfiltration-Detection",
+  "Description": "DNS exfiltration is a method used by attackers to covertly steal sensitive data from a target network, such as credit card details from point-of-sale machines or passwords and credentials from compromised hosts, by abusing the DNS protocol. In a typical DNS exfiltration attack, a host within the target network is first compromised by a threat actor's malware. Once inside, the malware manipulates the system to send DNS queries containing the stolen data to a DNS authoritative nameserver controlled by the attacker. This is done by encoding the data within the DNS queries. Moreover, bidirectional communication channels can be established by utilizing the DNS response to send instructions to the infected host, which can be used for command-and-control (C&C) purposes.\n\nThe Information-based Heavy Hitter (ibHH) method is a novel approach developed to facilitate real-time detection of DNS exfiltration attacks, enabling swift mitigation before substantial data exfiltration occurs. ibHH has been designed to run directly on recursive DNS resolvers, performing inline detection of DNS exfiltration domains without impacting the resolver's DNS resolution performance. To achieve this, ibHH leverages sketching algorithms such as HyperLogLog and weighted sampling techniques commonly utilized in the realm of big data analysis. ibHH estimates the amount of information potentially transmitted to registered domains and raise alerts for domains suspected of being used for data exfiltration, allowing for prompt blocking of malicious domains. A comprehensive evaluation of the method on large-scale real-world data, consisting of over 250 billion DNS queries from real enterprise networks, shows that it can successfully detect DNS exfiltration domains while experiencing a small number of false positive alerts.\n\nThis tool demonstrates the ibHH algorithm's capabilities to detect realistic DNS exfiltration attacks in real-time",
+  "Year": "2024",
+  "Location": "USA"
+}

@@ -1,0 +1,15 @@
+{
+  "Tool Name": "APIDetector: Advanced Swagger Endpoint Detection and Vulnerability Analysis",
+  "Speakers": [
+    "Rafael Brinhosa"
+  ],
+  "Tracks": [
+    "Web AppSec",
+    "Vulnerability Assessment"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/brinhosa/apidetector",
+  "Description": "APIDetector is a specialized tool crafted to identify and analyze exposed Swagger documentation endpoints across a multitude of web domains and subdomains efficiently. It stands out for its capability to scan over both HTTP and HTTPS protocols while leveraging multi-threading to enhance the speed of security assessments. Designed with a user-friendly interface, it supports various input and output configurations, making it versatile for different security testing scenarios. APIDetector is particularly adept at minimizing false positives, a common challenge in automated scanning tools, thanks to its intelligent detection algorithms. This tool is indispensable for security professionals and developers focused on API security and vulnerability management. It simplifies the process of identifying potentially risky Swagger endpoints that could expose sensitive API details to unauthorized users, thereby bolstering an organization's cybersecurity posture. The tool's effectiveness in real-world scenarios has been validated by its growing user base and positive feedback within the cybersecurity community.",
+  "Year": "2024",
+  "Location": "USA"
+}

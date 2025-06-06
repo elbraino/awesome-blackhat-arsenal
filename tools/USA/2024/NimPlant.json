@@ -1,0 +1,15 @@
+{
+  "Tool Name": "NimPlant",
+  "Speakers": [
+    "Cas van Cooten"
+  ],
+  "Tracks": [
+    "Malware Offense",
+    "Exploitation and Ethical Hacking"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/chvancooten/NimPlant",
+  "Description": "NimPlant is a light-weight first-stage command and control (C2) implant written in the Nim programming language. Since its release in 2023, it has been favored for its usability, slim implant profile, and evasive capabilities. The functionality is primarily aimed at early-access operations, but it packs powerhouse features such as Beacon Object File (BOF) support and inline execution of .NET assemblies. This allows operators to execute advanced tradecraft with a focus on operational security.\n\nNew for Black Hat 2024 is the addition of a Rust implant. This new implant matches the feature set of the original Nim-based implant, but has an increased focus on operational security and memory management. Furthermore, Rust has the performance advantage and has been adopted much more than Nim, which makes it easier to \"blend in\" with legitimate applications. And no, the tool will not be renamed for this new addition ;)\n\nAt Black Hat Arsenal 2024, the design and architecture of NimPlant and the new Rust implant will be discussed. Offensive specialists will be provided with guidance and \"pro tips\" from the author on how to use the tool in offensive operations, while defensive specialists will be provided with guidance on how to identify and block this tool (and similar) in their network.",
+  "Year": "2024",
+  "Location": "USA"
+}

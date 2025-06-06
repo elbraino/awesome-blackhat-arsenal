@@ -1,0 +1,14 @@
+{
+  "Tool Name": "DefectDojo OWASP Edition",
+  "Speakers": [
+    "Matt Tesauro"
+  ],
+  "Tracks": [
+    "Track: Web AppSec"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/DefectDojo/django-DefectDojo",
+  "Description": "The DefectDojo platform for scalable and flexible unified vulnerability management, ASPM, and DevSecOps is the culmination of a decade-plus of open-source work. Currently in v2.44 as of this writing, DefectDojo was designed by cybersecurity professionals frustrated with ever-ballooning amounts of data and difficulty streamlining workflows for cybersecurity professionals frustrated with ever-ballooning amounts of data and difficulty streamlining workflows.\n\nDefectDojo addresses a number of key pain points, particularly with tool integration to streamline workflows, deduplication and consolidation of findings to avoid alert fatigue, and data organization features that adapt to a team's needs rather than the other way around. For example, the OWASP Edition supports integrations with 200+ commonly-used tools and integration with Jira.\n\nRecognized on the Open Source Security Index as one of the most-popular and fastest-growing open-source software solutions, DefectDojo is also an OWASP Flagship Project. It continues to receive regular updates from both the company and community \u2013 capitalizing on the collective wisdom of the cybersecurity community around the world to help all professionals. To date, DefectDojo has over 38 million downloads on the OWASP Edition alone.",
+  "Year": "2025",
+  "Location": "USA"
+}

@@ -1,0 +1,16 @@
+{
+  "Tool Name": "ROP ROCKET: Advanced Framework for Return-Oriented Programming",
+  "Speakers": [
+    "Bramwell Brizendine",
+    "Shiva Shashank Kusuma"
+  ],
+  "Tracks": [
+    "Exploitation and Ethical Hacking",
+    "Reverse Engineering"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/Bw3ll/ROP_ROCKET",
+  "Description": "ROP ROCKET is a groundbreaking, next-generation tool for return-oriented programming, boasting unparalleled capabilities. This tool introduces several innovative techniques, including generating Heaven's Gate ROP gadgets, facilitating the transition from x86 to x64 architecture, and a unique approach to invoking Windows syscalls to evade Data Execution Prevention (DEP), eliminating the need for less stealthy Windows API functions.\n\nThe focal point of this tool is in automatic ROP chain generation \u2013 building complete ROP exploits. Additionally, with this tool, we pioneer several new ROP techniques techniques, including both x86 and x64 Heaven's Gate and using Windows syscalls to bypass DEP. To overcome DEP, we automate chain generation for Windows syscalls NtAllocateVirtualMemory and NtProtectVirtualMemory. Additionally, ROP ROCKET can avoid the need to bypass DEP and have multiple API's chained together, to achieve shellcode-like functionality.\n\nOne of the features of ROP ROCKET is the sheer diversity of possibilities in creating these chains, allowing unique and unusual combinations that traditionally might not be achievable by emulation. The tool uses extensive emulation to evaluate the fitness of individual ROP gadgets, allowing unusual or longer ROP gadgets to be used. Additionally, ROP ROCKET builds, emulates, and debugs parts of some ROP chains internally to solve certain problems, allowing for ROP chains to be build with the \"mov dereference\" or \"sniper\" approach, rather than relying simply on the \"pushad\" approach. Distances to certain function parameters can also be dynamically calculated and readjusted with emulation.\n\nSometimes a ROP chain could be possible if only some ROP gadget did not have bad bytes contained in its address. With ROCKET, we provide a way to \"obfuscate\" gadgets, allowing the gadget address to be decoded and executed at runtime.\n\nROP ROCKET is built for performance, as it utilizes multiprocessing, allowing a dozen or more cores to be used. Additionally, the tool provides persistence for binaries already examined, so it will store the gadgets already found. With all possible ROP gadgets, our raw ingredients having been found, ROP chains can be formed in seconds.\n\nFor Black Hat Arsenal, we will be releasing new patterns for automatic ROP chain generation. While ROP can be a complex topic, ROP ROCKET provides powerful capabilities to users.",
+  "Year": "2024",
+  "Location": "USA"
+}

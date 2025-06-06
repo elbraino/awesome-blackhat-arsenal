@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Octopii v2",
+  "Speakers": [
+    "Owais Shaikh"
+  ],
+  "Tracks": [
+    "OSINT - Open Source Intelligence",
+    "Human Factors"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/redhuntlabs/Octopii",
+  "Description": "Octopii is a Personally Identifiable Information (PII) scanner that uses Optical Character Recognition (OCR), regular expression lists and Natural Language Processing (NLP) to search public-facing locations for Government ID, addresses, emails etc in images, PDFs and documents.",
+  "Year": "2024",
+  "Location": "USA"
+}

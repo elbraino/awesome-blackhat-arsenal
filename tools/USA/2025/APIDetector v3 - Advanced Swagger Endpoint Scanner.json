@@ -1,0 +1,15 @@
+{
+  "Tool Name": "APIDetector v3 - Advanced Swagger Endpoint Scanner with Real-time Web Interface",
+  "Speakers": [
+    "Filipi Pires",
+    "Rafael Brinhosa"
+  ],
+  "Tracks": [
+    "Track: Web AppSec"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/brinhosa/apidetector",
+  "Description": "APIDetector v3 is an advanced, high-performance tool built for identifying and validating exposed Swagger/OpenAPI endpoints across domains and subdomains. Designed specifically for security professionals and developers, APIDetector v3 provides a modern web interface offering real-time results, interactive dashboards, automated screenshot captures, and intelligent false-positive detection.\n\nHaving been successfully presented at BlackHat Arsenal 2024, this new iteration introduces significant enhancements, including real-time result visualization, flexible bulk domain scanning via file uploads, and substantial user experience improvements using Tailwind CSS and Alpine.js. APIDetector v3 greatly simplifies API endpoint vulnerability assessment, speeding up penetration tests and vulnerability scanning processes.",
+  "Year": "2025",
+  "Location": "USA"
+}

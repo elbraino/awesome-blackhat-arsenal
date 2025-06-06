@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Akheron Proxy - Interchip communication serial proxy",
+  "Speakers": [
+    "Deral Heiland",
+    "Matthew Kienow"
+  ],
+  "Tracks": [
+    "Track: Hardware/Embedded"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": "Akheron proxy is a serial communication proxy application tool designed to connect and proxy serial communication between microprocessors on a hardware circuit board. Allowing an embedded device testers to capture, decode, replay, and fuzz serial communications flowing between microprocessor on an embedded device circuit board in real time.",
+  "Year": "2025",
+  "Location": "USA"
+}

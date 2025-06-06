@@ -1,0 +1,17 @@
+{
+  "Tool Name": "CodeHawk Binary Patcher: High Assurance Binary Patching Without a Reverse Engineer",
+  "Speakers": [
+    "Michael Gordon",
+    "Henny Sipma",
+    "Ben Karel"
+  ],
+  "Tracks": [
+    "Reverse Engineering",
+    "Vulnerability Assessment"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": null,
+  "Year": "2024",
+  "Location": "USA"
+}

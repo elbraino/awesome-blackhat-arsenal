@@ -1,0 +1,15 @@
+{
+  "Tool Name": "ADOKit: Azure DevOps Services Attack Toolkit",
+  "Speakers": [
+    "Brett Hawkins"
+  ],
+  "Tracks": [
+    "Exploitation and Ethical Hacking",
+    "Network Attacks"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/xforcered/ADOKit",
+  "Description": "Development Operations (DevOps) platforms continue to be high-value systems that attackers target through software supply chain attacks and source code theft attacks. Azure DevOps Services has become one of the popular DevOps platforms due to organizations adopting cloud solutions more heavily. Logging and detecting attacker activity in cloud-based services has become more important than ever, as shown in the attacks conducted by the Storm-0558 threat actor group against Microsoft cloud-based services.\n\nThis presentation will show ADOKit, a toolkit that can be used to attack Azure DevOps Services. ADOKit allows the user to specify an attack module, along with specifying valid credentials (API key or stolen authentication cookie) for the respective Azure DevOps Services instance. The attack modules supported include reconnaissance, privilege escalation and persistence. ADOKit was built in a modular approach, so that new modules can be added in the future by the information security community. As part of this presentation, new modules will be publicly released.",
+  "Year": "2024",
+  "Location": "USA"
+}

@@ -1,0 +1,14 @@
+{
+  "Tool Name": "ARC \u2013 Artifact Reuse Comparator",
+  "Speakers": [
+    "Rushikesh D. Nandedkar"
+  ],
+  "Tracks": [
+    "Track: Reverse Engineering"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": null,
+  "Description": "ARC (Artifact Reuse Comparator) is a state-of-the-art static analysis tool that disassembles Windows PE files (executables and DLLs), extracts various code artefacts (functions, basic blocks, API calls, sliding-window fingerprints), and compares them across binaries to detect reuse\u2014even in obfuscated samples. ARC stores these artefacts in an SQLite database and generates detailed TXT and HTML reports. Additionally, ARC features control flow graph (CFG) visualization, providing analysts with both high-level and granular views of code similarity. Its modular design and extensibility make it an essential tool for malware analysis and reverse engineering.",
+  "Year": "2025",
+  "Location": "USA"
+}
