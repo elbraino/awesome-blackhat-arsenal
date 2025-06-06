@@ -67,6 +67,6 @@ We welcome community contributions to make this list better!
 > ⚠️ Keep content concise and correctly categorized. Badges and README entries are auto-generated.
 ---
 ## 📄 License
-[MIT](LICENSE)
+[CC0 1.0 Universal](LICENSE)
 ---
 > Inspired by [Awesome Lists](https://awesome.re) and powered by the Black Hat Arsenal community.
