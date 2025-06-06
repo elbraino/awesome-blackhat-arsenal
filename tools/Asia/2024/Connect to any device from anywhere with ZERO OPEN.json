@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Connect to any device from anywhere with ZERO OPEN NETWORK PORTS",
+  "Speakers": [
+    "Colin Constable"
+  ],
+  "Tracks": [
+    "Track: Network Defense"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/HazyResearch/smoothie/blob/main/tutorials/tutorial.ipynb",
+  "Description": "Imagine connecting to a device remotely from anywhere on the planet without having to open any network ports on either end - that translates to having ZERO NETWORK ATTACK SURFACES.\n\nThis is made possible with Atsign's open source No Ports Product suite which is build on the patented Networking 2.0 technology.",
+  "Year": "2024",
+  "Location": "Asia"
+}

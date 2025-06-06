@@ -1,0 +1,14 @@
+{
+  "Tool Name": "vet: Policy Driven vetting of Open Source Software Components",
+  "Speakers": [
+    "Abhisek Datta"
+  ],
+  "Tracks": [
+    "Track: Vulnerability Assessment"
+  ],
+  "Event": "BH-ARSENAL",
+  "Github URL": "https://github.com/Liriax/AI-Talents/blob/main/linkedin.csv",
+  "Description": "vet is a tool for identifying risks in open source software supply chain. It helps engineering and security teams to identify potential issues in their open source dependencies and evaluate them against codified organisational policies.",
+  "Year": "2024",
+  "Location": "Asia"
+}
