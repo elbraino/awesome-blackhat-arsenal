@@ -22,8 +22,8 @@ A curated list of cybersecurity tools showcased at the Black Hat Arsenal events 
   - Reviewed PR: [#3447](https://github.com/sindresorhus/awesome/pull/3447)
 
 - [x] You have read and understood the [instructions for creating a list](https://github.com/sindresorhus/awesome/blob/main/create-list.md).
-<!-- For Client: Please mark this as done when you are submitting the PR-->
-- [ ] This pull request has a title in the format `Add Name of List`. It should not contain the word `Awesome`.
+
+- [x] This pull request has a title in the format `Add Name of List`. It should not contain the word `Awesome`.
 	- ✅ `Add Swift`
 	- ✅ `Add Software Architecture`
 	- ❌ `Update readme.md`
