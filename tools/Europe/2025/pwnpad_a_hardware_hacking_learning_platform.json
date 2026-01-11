@@ -1,0 +1,11 @@
+{
+  "Tool Name": "PwnPad: A Hardware Hacking Learning Platform",
+  "Description": "Tool presented at Black Hat Europe 2025 - Hardware/Embedded",
+  "GitHub URL": "",
+  "Tracks": [
+    "Hardware/Embedded"
+  ],
+  "Speakers": [
+    "Georgios Roumeliotis"
+  ]
+}

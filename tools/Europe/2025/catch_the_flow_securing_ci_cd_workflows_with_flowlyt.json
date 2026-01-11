@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Catch the Flow: Securing CI/CD Workflows with Flowlyt",
+  "Description": "Tool presented at Black Hat Europe 2025 - Code Assessment",
+  "GitHub URL": "",
+  "Tracks": [
+    "Code Assessment"
+  ],
+  "Speakers": [
+    "Chanchal Kalnarayan",
+    "Hare Krishna Rai",
+    "Gaurav Joshi"
+  ]
+}

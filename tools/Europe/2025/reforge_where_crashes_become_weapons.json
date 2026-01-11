@@ -1,0 +1,14 @@
+{
+  "Tool Name": "ReForge: Where Crashes Become Weapons",
+  "Description": "Tool presented at Black Hat Europe 2025 - Exploitation and Ethical Hacking",
+  "GitHub URL": "https://github.com/danindu/ReForge",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Sohan Simha Prabhakar",
+    "Samarth Bhaskar Bhat",
+    "Abinav Harsha",
+    "Danindu Gammanpilage"
+  ]
+}

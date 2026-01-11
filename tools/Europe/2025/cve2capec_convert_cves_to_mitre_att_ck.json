@@ -1,0 +1,12 @@
+{
+  "Tool Name": "CVE2CAPEC - Convert CVEs to MITRE ATT&CK",
+  "Description": "Tool presented at Black Hat Europe 2025 - Vulnerability Assessment",
+  "GitHub URL": "",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Maxime Alay-Eddine",
+    "Romain Loisel"
+  ]
+}

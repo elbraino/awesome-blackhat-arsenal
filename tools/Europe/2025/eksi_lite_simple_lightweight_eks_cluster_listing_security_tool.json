@@ -1,0 +1,12 @@
+{
+  "Tool Name": "EKSi Lite: Simple lightweight EKS Cluster Listing & Security Tool",
+  "Description": "Tool presented at Black Hat Europe 2025 - Vulnerability Assessment",
+  "GitHub URL": "https://github.com/peachycloudsecurity/EKSi-lite",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Anjali Shukla",
+    "Divyanshu Shukla"
+  ]
+}

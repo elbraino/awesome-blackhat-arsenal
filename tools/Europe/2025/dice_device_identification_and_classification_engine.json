@@ -1,0 +1,12 @@
+{
+  "Tool Name": "DICE: Device Identification and Classification Engine",
+  "Description": "Tool presented at Black Hat Europe 2025 - Vulnerability Assessment",
+  "GitHub URL": "https://github.com/RicYaben/dice",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Ricardo Yaben",
+    "Emmanouil Vasilomanolakis"
+  ]
+}
