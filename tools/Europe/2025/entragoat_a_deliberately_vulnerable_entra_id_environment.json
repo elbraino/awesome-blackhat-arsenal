@@ -1,0 +1,12 @@
+{
+  "Tool Name": "EntraGoat - A Deliberately Vulnerable Entra ID Environment",
+  "Description": "Tool presented at Black Hat Europe 2025 - Exploitation and Ethical Hacking",
+  "GitHub URL": "",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Tomer Nahum",
+    "Jonathan Elkabas"
+  ]
+}

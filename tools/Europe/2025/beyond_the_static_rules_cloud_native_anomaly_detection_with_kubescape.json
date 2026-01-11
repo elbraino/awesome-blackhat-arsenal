@@ -1,0 +1,12 @@
+{
+  "Tool Name": "Beyond the Static rules: Cloud-Native Anomaly Detection with Kubescape",
+  "Description": "Tool presented at Black Hat Europe 2025 - Cloud Security",
+  "GitHub URL": "",
+  "Tracks": [
+    "Cloud Security"
+  ],
+  "Speakers": [
+    "Ben Hirschberg",
+    "Amit Schendel"
+  ]
+}

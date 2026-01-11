@@ -1,0 +1,12 @@
+{
+  "Tool Name": "MIPSEval: Multi-turn LLM Evaluation of LLM Safety",
+  "Description": "Tool presented at Black Hat Europe 2025 - AI, ML & Data Science",
+  "GitHub URL": "",
+  "Tracks": [
+    "AI, ML & Data Science"
+  ],
+  "Speakers": [
+    "Muris Sladić",
+    "Sebastian Garcia"
+  ]
+}

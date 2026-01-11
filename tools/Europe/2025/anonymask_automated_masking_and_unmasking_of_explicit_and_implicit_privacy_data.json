@@ -1,0 +1,14 @@
+{
+  "Tool Name": "AnonyMask: Automated Masking and Unmasking of Explicit and Implicit Privacy Data",
+  "Description": "Tool presented at Black Hat Europe 2025 - Privacy",
+  "GitHub URL": "https://github.com/Caudrey/AnonyMask",
+  "Tracks": [
+    "Privacy"
+  ],
+  "Speakers": [
+    "Yohan Muliono",
+    "Cecilia Audrey Herli",
+    "Vincent Kartamulya Santoso",
+    "Nadya Clarine Purba"
+  ]
+}

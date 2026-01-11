@@ -1,0 +1,12 @@
+{
+  "Tool Name": "OWASP EKS Goat: Hands-On AWS EKS Security",
+  "Description": "Tool presented at Black Hat Europe 2025 - Vulnerability Assessment",
+  "GitHub URL": "",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Anjali Shukla",
+    "Divyanshu Shukla"
+  ]
+}
