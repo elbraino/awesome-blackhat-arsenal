@@ -1,6 +1,7 @@
 {
   "Tool Name": "SupplyShield: Protecting Your Software Supply Chain",
-  "Description": "Tool presented at Black Hat Europe 2025 - Vulnerability Assessment",
+  "Description": "SupplyShield is a robust security framework designed to protect against complex software supply chain attacks. It helps organizations seamlessly integrate supply chain security into their Software Development Lifecycle (SDLC), addressing the challenges of managing hundreds of microservices and thousands of daily builds.
+SupplyShield focuses on generating a Software Bill of Materials (SBOM) and performing Software Composition Analysis (SCA) for microservices.",
   "GitHub URL": "",
   "Tracks": [
     "Vulnerability Assessment"
@@ -10,5 +11,7 @@
     "Yadhu Krishna",
     "Hritik Vijay",
     "Sourav Kumar"
-  ]
+  ],
+  "Region": "Europe",
+  "Year": "2025"
 }

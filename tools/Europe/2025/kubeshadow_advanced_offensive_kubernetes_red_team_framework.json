@@ -1,6 +1,6 @@
 {
   "Tool Name": "KubeShadow - Advanced Offensive Kubernetes Red-Team Framework",
-  "Description": "Tool presented at Black Hat Europe 2025 - Cloud Security",
+  "Description": "KubeShadow is an advanced red team and adversary simulation framework purpose-built to exploit, persist, and operate within Kubernetes clusters in stealth. Far beyond traditional misconfiguration scanners, KubeShadow delivers real-world offensive capabilities designed to emulate high-caliber threat actors operating across AWS EKS, GCP GKE, and Azure AKS managed clusters.",
   "GitHub URL": "",
   "Tracks": [
     "Cloud Security"
@@ -8,5 +8,7 @@
   "Speakers": [
     "Aashita Pandey",
     "Binayak Choudhury"
-  ]
+  ],
+  "Region": "Europe",
+  "Year": "2025"
 }

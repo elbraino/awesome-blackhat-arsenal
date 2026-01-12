@@ -1,6 +1,6 @@
 {
   "Tool Name": "Blackdagger: Cyber Workflow Automation Framework",
-  "Description": "Tool presented at Black Hat Europe 2025 - Web AppSec",
+  "Description": "Blackdagger is an innovative workflow automation framework specifically designed to simplify and accelerate cybersecurity operations across DevOps, DevSecOps, MLOps, MLSecOps, and Continuous Automated Red Teaming (CART). At its core, Blackdagger reduces complexity and manual overhead by leveraging a novel declarative YAML-based Directed Acyclic Graph (DAG) approach, enabling users to intuitively define automation pipelines, clearly visualize task dependencies, and minimize extensive scripting or coding typically required by traditional cronbased schedulers and orchestration platforms. A user-friendly built-in Web UI further empowers users by providing easy, real-time management, monitoring, and execution of workflows.",
   "GitHub URL": "",
   "Tracks": [
     "Web AppSec"
@@ -10,5 +10,7 @@
     "Ata Seren",
     "Elif Başar Özgen",
     "Ömer Kutay Atilla"
-  ]
+  ],
+  "Region": "Europe",
+  "Year": "2025"
 }

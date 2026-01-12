@@ -1,6 +1,6 @@
 {
   "Tool Name": "DICE: Device Identification and Classification Engine",
-  "Description": "Tool presented at Black Hat Europe 2025 - Vulnerability Assessment",
+  "Description": "In recent years, the Internet has experienced a significant surge in connected devices, with an ever-growing number of sensors and monitoring systems—spanning industries and domestic networks—now exposed to the Internet and reliant on our ability to keep them secure (e.g., in healthcare, home automation, and manufacturing). However, securing Internet-facing devices is no trivial task. Applying patches, firewall rules, and strong credentials are only small steps during their security life-cycle. Since these steps work in tandem, failing even a few can significantly increase the risk of compromise. The cybersecurity community continues to build on its efforts to mitigate this issue from many fronts, all while investigating society's new challenges with technology and their security implications.",
   "GitHub URL": "https://github.com/RicYaben/dice",
   "Tracks": [
     "Vulnerability Assessment"
@@ -8,5 +8,7 @@
   "Speakers": [
     "Ricardo Yaben",
     "Emmanouil Vasilomanolakis"
-  ]
+  ],
+  "Region": "Europe",
+  "Year": "2025"
 }

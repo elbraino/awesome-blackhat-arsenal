@@ -1,6 +1,6 @@
 {
   "Tool Name": "Red AI Range (RAR)",
-  "Description": "Tool presented at Black Hat Europe 2025 - AI, ML & Data Science",
+  "Description": "Red AI Range (RAR) is a comprehensive security platform designed specifically for AI red teaming and vulnerability assessment. It creates realistic environments where security professionals can systematically discover, analyze, and mitigate AI vulnerabilities through controlled testing scenarios.",
   "GitHub URL": "",
   "Tracks": [
     "AI, ML & Data Science"
@@ -10,5 +10,7 @@
     "Ata Seren",
     "Elif Başar Özgen",
     "Ömer Kutay Atilla"
-  ]
+  ],
+  "Region": "Europe",
+  "Year": "2025"
 }

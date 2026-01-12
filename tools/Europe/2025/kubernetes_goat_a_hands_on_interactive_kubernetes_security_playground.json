@@ -1,11 +1,13 @@
 {
   "Tool Name": "Kubernetes Goat - A Hands-on Interactive Kubernetes Security Playground",
-  "Description": "Tool presented at Black Hat Europe 2025 - Risks",
+  "Description": "Containers are everywhere, and Kubernetes has become the de facto standard for deploying, managing, and scaling containerized workloads. Yet security issues continue to emerge in the wild daily, ranging from simple misconfigurations to sophisticated attacks. In this session, I'll introduce Kubernetes Goat, an interactive security playground designed to help you master the skills needed to hack and secure your Kubernetes clusters and container workloads.",
   "GitHub URL": "",
   "Tracks": [
     "Risks"
   ],
   "Speakers": [
     "Madhu Akula"
-  ]
+  ],
+  "Region": "Europe",
+  "Year": "2025"
 }
