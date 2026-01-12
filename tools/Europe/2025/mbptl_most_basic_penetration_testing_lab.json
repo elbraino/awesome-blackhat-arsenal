@@ -1,0 +1,13 @@
+{
+  "Tool Name": "MBPTL - Most Basic Penetration Testing Lab",
+  "Description": "The increasing threats to digital systems and online services demand more effective learning approaches in the field of cybersecurity, particularly in mastering penetration testing techniques. The Damn Vulnerable Web Application (DVWA) has long been used by beginners as a training platform but is limited to the application security domain, lacking coverage of key stages in the penetration testing process. This study proposes and evaluates the Most Basic Penetration Testing Lab (MBPTL), an open-source platform designed as a comprehensive learning environment for beginners to understand five essential phases of penetration testing: Reconnaissance, Vulnerability Analysis, Exploiting Vulnerable Apps, Password Cracking, and Post-Exploitation.",
+  "GitHub URL": "",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Bayu Fedra Abdullah"
+  ],
+  "Region": "Europe",
+  "Year": "2025"
+}

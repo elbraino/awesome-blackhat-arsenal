@@ -1,0 +1,16 @@
+{
+  "Tool Name": "DepConfuse: Shielding Your Packages from Dependency Confusion Attacks",
+  "Description": "DepConfuse is a command-line tool that proactively detects dependency confusion vulnerabilities, a growing threat in modern software supply chains. By scanning SBOMs or PURLs, it identifies internal package names that are vulnerable to takeover in the public registry, allowing teams to remediate issues early in the development lifecycle.",
+  "GitHub URL": "",
+  "Tracks": [
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Akhil Mahendra",
+    "Harsh Varagiya",
+    "Sourav Kumar",
+    "Akshansh Jaiswal"
+  ],
+  "Region": "Europe",
+  "Year": "2025"
+}

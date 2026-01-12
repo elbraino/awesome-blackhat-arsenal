@@ -1,0 +1,13 @@
+{
+  "Tool Name": "PwnPad: A Hardware Hacking Learning Platform",
+  "Description": "PwnPad is an open-source hardware training platform designed to teach embedded security through hands-on experimentation. Built to be affordable and fully reproducible, PwnPad enables users to learn real-world exploitation techniques using common protocols like UART, I2C, and SPI, along with fault injection and side-channel attacks.",
+  "GitHub URL": "https://github.com/twelvesec/PwnPad",
+  "Tracks": [
+    "Hardware/Embedded"
+  ],
+  "Speakers": [
+    "Georgios Roumeliotis"
+  ],
+  "Region": "Europe",
+  "Year": "2025"
+}

@@ -1,0 +1,17 @@
+{
+  "Tool Name": "SQL Data Guard: Enforcing Safe LLM-to-Database Interactions via Inline or MCP Deployment",
+  "Description": "
+SQL Data Guard, introduced at Black Hat Asia 2025, protects against insecure SQL by validating and rewriting queries to enforce access restrictions and block injection payloads. As LLMs increasingly generate SQL dynamically, we extend sql-data-guard with a containerized application that secures MCP-based systems. It intercepts queries, applies schema-aware policies, and ensures only safe, compliant SQL reaches internal database services—adding a crucial protection layer for AI-driven environments.
+",
+  "GitHub URL": "",
+  "Tracks": [
+    "AI, ML & Data Science"
+  ],
+  "Speakers": [
+    "Ori Nakar",
+    "Sofia Naer",
+    "Muly Levy"
+  ],
+  "Region": "Europe",
+  "Year": "2025"
+}

@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Virga: Local LLM Embedded C2 Framework",
+  "Description": "Virga is a new cross-platform command & control (C2) framework powered by a local large language model (LLM). This framework can generate a beacon implant with an embedded LLM, and perform autonomous post-exploitation actions on a target system. In other words, the embedded LLM model autonomously generates and executes the appropriate command based on the situation. Additionally, each beacon has an in-memory database (MemDB) in which the command results are saved in order to improve subsequent actions.",
+  "GitHub URL": "",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Jun Miura",
+    "SHUNRI Kudo"
+  ],
+  "Region": "Europe",
+  "Year": "2025"
+}

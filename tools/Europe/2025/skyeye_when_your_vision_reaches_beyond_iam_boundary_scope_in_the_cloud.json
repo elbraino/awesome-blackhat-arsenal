@@ -1,0 +1,15 @@
+{
+  "Tool Name": "SkyEye: When Your Vision Reaches Beyond IAM Boundary Scope in the Cloud",
+  "Description": "Modern cloud environments demand a comprehensive understanding of IAM configurations across users, roles, groups, and the intricate web of inline and managed policies. Yet, as organizations scale their use of cloud technologies, the act of enumerating effective permissions and resource authorizations remains fraught with blind spots, especially when relying on traditional principal-specific enumeration tools and frameworks. When a single set of credentials lacks the necessary permissions, or when multiple principals operate in isolation, cloud penetration testers are left with an incomplete and fragmented IAM landscape, resulting in hidden privilege escalation vectors, undetected misconfigurations, and weakened compliance postures.",
+  "GitHub URL": "",
+  "Tracks": [
+    "Cloud Security"
+  ],
+  "Speakers": [
+    "Minh Hoang Nguyen",
+    "Anh Minh Ho",
+    "Bao Son To"
+  ],
+  "Region": "Europe",
+  "Year": "2025"
+}
