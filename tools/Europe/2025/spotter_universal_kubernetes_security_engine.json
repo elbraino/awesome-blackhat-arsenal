@@ -1,7 +1,7 @@
 {
   "Tool Name": "Spotter – Universal Kubernetes Security Engine",
   "Description": "Spotter is a groundbreaking open-source tool or solution designed to secure Kubernetes clusters throughout their lifecycle. Built on the native tooling of Kubernetes by leveraging CEL (Common Expression Language) for policy definitions, we can define unified security scanning across development, CLI, CI/CD, Admission Controllers, deployments, runtime, and continuous monitoring. Its unique approach enables both enforcement and monitoring modes, ensuring that policies can be applied consistently and mapped directly to industry standards such as CIS, MITRE ATT&CK, etc.",
-  "GitHub URL": "",
+  "GitHub URL": "https://github.com/madhuakula/spotter",
   "Tracks": [
     "Cloud Security"
   ],
