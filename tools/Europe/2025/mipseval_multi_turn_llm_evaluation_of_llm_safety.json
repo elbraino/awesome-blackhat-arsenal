@@ -4,7 +4,7 @@
 
 For this reason, it is important to constantly improve the safety of LLMs, both base models and applications using them. And in order to achieve better safety, we need to be able to evaluate LLMs thoroughly and constantly. The safety evaluation of LLMs should be easily runnable and automated as much as possible so that every change in the model or the LLM's system prompt can be evaluated quickly and precisely.",
 
-"GitHub URL": "",
+"GitHub URL": "https://github.com/stratosphereips/MIPSEval",
   "Tracks": [
     "AI, ML & Data Science"
   ],
