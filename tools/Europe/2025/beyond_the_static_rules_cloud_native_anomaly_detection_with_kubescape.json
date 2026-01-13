@@ -5,6 +5,7 @@ Kubescape, a CNCF Incubating project with over 10k GitHub stars, brings a new ap
   "Tracks": [
     "Cloud Security"
   ],
+  "GitHub URL": "https://github.com/kubescape/kubescape",
   "Speakers": [
     "Ben Hirschberg",
     "Amit Schendel"
