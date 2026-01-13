@@ -6,7 +6,7 @@ Through a series of case studies, this talk will demonstrate EMFIF2's effectiven
 Whether you are a security researcher, embedded developer, or hardware enthusiast, EMFIF2 provides a powerful toolset for advancing your understanding of fault injection attacks and fortifying your hardware against them.
 Keywords: Hardware Security, Embedded Security, Fault Injection, Electro Magnetic Fault Injection, Fuzzing, Secure Hardware Development Lifecycle
 ",
-"GitHub URL": "",
+"GitHub URL": "https://github.com/ZTE-Cybersecurity-Lab/EMFIF2",
   "Tracks": [
     "Hardware/Embedded"
   ],
