@@ -1,11 +1,13 @@
 {
   "Tool Name": "Keep COM and Hijack On: Redefining Windows Session Hijacking",
-  "Description": "Tool presented at Black Hat Europe 2025 - Exploitation and Ethical Hacking",
+  "Description": "While COM (Component Object Model) is a widely used and deeply integrated technology, its inherent complexity has left many intriguing areas largely underexplored for offensive security purposes. In this talk, I introduce a novel red team approach to abusing Windows COM objects for credential theft and session hijacking attacks.",
   "GitHub URL": "",
   "Tracks": [
     "Exploitation and Ethical Hacking"
   ],
   "Speakers": [
     "Andrew Oliveau"
-  ]
+  ],
+  "Region": "Europe",
+  "Year": "2025"
 }

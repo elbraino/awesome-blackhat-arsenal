@@ -1,6 +1,6 @@
 {
   "Tool Name": "Minino: Multiband Hacking Now with GPS",
-  "Description": "Tool presented at Black Hat Europe 2025 - Arsenal Labs",
+  "Description": "Minino is a Swiss Army knife for IoT hacking, designed to empower security professionals with a versatile, all-in-one toolkit for assessing and attacking IoT devices. Minino integrates WiFi, Bluetooth Low Energy (BLE), Zigbee, Thread, Matter, and a GPS module into a compact, open-source hardware solution",
   "GitHub URL": "",
   "Tracks": [
     "Arsenal Labs"
@@ -8,5 +8,7 @@
   "Speakers": [
     "Paulino Calderon",
     "Eduardo Contreras"
-  ]
+  ],
+  "Region": "Europe",
+  "Year": "2025"
 }

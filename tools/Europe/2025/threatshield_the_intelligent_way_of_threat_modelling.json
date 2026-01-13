@@ -1,6 +1,8 @@
 {
   "Tool Name": "ThreatShield – The Intelligent Way of Threat Modelling",
-  "Description": "Tool presented at Black Hat Europe 2025 - Arsenal Labs",
+  "Description": "ThreatShield is an AI-powered threat modeling and security analysis tool designed to automate and elevate threat modeling using OpenAI's enterprise API. It processes raw documents like PRDs, architecture diagrams, confluence docs, slack threads and meeting transcripts to generate structured STRIDE-based threat models, attack trees, DREAD scoring, and mitigstions.",
+
+
   "GitHub URL": "",
   "Tracks": [
     "Arsenal Labs"
@@ -9,5 +11,7 @@
     "Satyam Nagpal",
     "Sayooj Nagpal",
     "Ashwin Shenoi"
-  ]
+  ],
+  "Region": "Europe",
+  "Year": "2025"
 }

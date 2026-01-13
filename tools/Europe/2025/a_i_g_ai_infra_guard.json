@@ -1,6 +1,6 @@
 {
   "Tool Name": "A.I.G（AI-Infra-Guard）",
-  "Description": "Tool presented at Black Hat Europe 2025 - AI, ML & Data Science",
+  "Description": "A.I.G（AI-Infra-Guard） is an open-source security assessment tool designed to identify and mitigate vulnerabilities in AI infrastructure. It provides comprehensive scanning capabilities for AI models, data pipelines, and deployment environments, ensuring robust security measures are in place to protect against potential threats.",
   "GitHub URL": "https://github.com/Tencent/AI-Infra-Guard",
   "Tracks": [
     "AI, ML & Data Science"
@@ -9,5 +9,7 @@
     "Wu Huiyu",
     "Cheng Huangsheng",
     "Zheng Xing"
-  ]
+  ],
+  "Region": "Europe",
+  "Year": "2025"
 }
