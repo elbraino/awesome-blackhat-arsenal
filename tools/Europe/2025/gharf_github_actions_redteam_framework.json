@@ -2,7 +2,7 @@
   "Tool Name": "GHARF: GitHub Actions RedTeam Framework",
   "Description": "In recent years, Red Team exercises have become increasingly important. However, the processes involved - such as developing attack scenarios, preparing tools, and building execution environments - require significant time and effort. These burdens have become major obstacles that limit both the frequency and quality of such exercises.
 To address these challenges, we have developed a groundbreaking framework called GHARF, which applies the principles of Continuous Integration / Continuous Delivery (CI/CD) to Red Team operations, enabling more efficient execution of exercises.",
-  "GitHub URL": "",
+  "GitHub URL": "https://github.com/nttcom/gharf",
   "Tracks": [
     "Exploitation and Ethical Hacking"
   ],
