@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Penelope Shell Handler",
+  "Description": "Penelope is a shell handler designed to be easy to use and intended to replace netcat when exploiting RCE vulnerabilities. It is compatible with Linux and macOS and requires Python 3.6 or higher. It is a standalone script that does not require any installation or external dependencies, and it is intended to remain this way.",
+  "GitHub URL": "https://github.com/brightio/penelope",
+  "Tracks": [
+    "Arsenal"
+  ],
+  "Speakers": [
+    "Christodoulos Lamprinos"
+  ],
+  "Region": "MEA",
+  "Year": "2025"
+}

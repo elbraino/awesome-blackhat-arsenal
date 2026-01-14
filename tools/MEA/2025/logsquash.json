@@ -1,0 +1,13 @@
+{
+  "Tool Name": "LogSquash",
+  "Description": "LogSquash condenses and consolidates logs before SIEM ingestion to significantly reduce costs while retaining security value.",
+  "GitHub URL": "",
+  "Tracks": [
+    "Arsenal"
+  ],
+  "Speakers": [
+    "ezzeldin tahoun"
+  ],
+  "Region": "MEA",
+  "Year": "2025"
+}

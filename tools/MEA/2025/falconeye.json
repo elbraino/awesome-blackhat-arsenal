@@ -1,0 +1,13 @@
+{
+  "Tool Name": "FalconEye",
+  "Description": "FalconEye represents a new era in AI-driven security analysis, blending the power of locally hosted Large Language Models (LLMs) with advanced audit methodologies. Unlike traditional static analysis tools that rely on predefined patterns and generic scanning, FalconEye is designed to think and operate like an expert security auditor. At its core, FalconEye employs a system of intelligent AI agents that collaborate much like human audit teams—building dynamic knowledge graphs, forming hypotheses, and conducting targeted investigations. This approach allows it to not only identify vulnerabilities but also to understand their broader context within the system architecture.One of FalconEye’s defining strengths is its privacy-first design. Through seamless integration with Ollama, all analysis is conducted locally, ensuring sensitive codebases and data remain under the user’s control. The system also emphasizes performance optimization, leveraging task-specific models—ranging from lightweight quick scans to heavyweight reasoning models for deep analysis. Over time, FalconEye accumulates knowledge across sessions, enabling richer, more insightful analysis that evolves with the project.This session will provide a deep dive into FalconEye’s architecture and capabilities, showcasing how dynamic knowledge graphs, hypothesis-driven analysis, and multi-agent collaboration come together to deliver professional-grade security audits. Attendees will see firsthand how FalconEye transforms code reviews into a living, evolving process, and how it generates detailed, actionable security reports tailored for real-world use. Whether you are a security researcher, developer, or engineering leader, this session will demonstrate how FalconEye bridges the gap between automated tools and human expertise.",
+  "GitHub URL": "",
+  "Tracks": [
+    "Arsenal"
+  ],
+  "Speakers": [
+    "Rajanish Pathak"
+  ],
+  "Region": "MEA",
+  "Year": "2025"
+}
