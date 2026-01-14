@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Smithy the AppSec SOAR",
+  "Description": "Smithy is an open-source framework designed to supercharge your AppSec automation using AI-driven orchestration. In this Arsenal session, we’ll showcase how Smithy helps security teams build and scale intelligent workflows that unify tools, triage results, and automate actions—all without writing brittle glue code.",
+  "GitHub URL": "https://github.com/smithy-security/smithy",
+  "Tracks": [
+    "Arsenal"
+  ],
+  "Speakers": [
+    "Spyros Gasteratos"
+  ],
+  "Region": "MEA",
+  "Year": "2025"
+}

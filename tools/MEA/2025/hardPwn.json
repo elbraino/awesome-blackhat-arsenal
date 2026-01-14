@@ -1,0 +1,13 @@
+{
+  "Tool Name": "HardPwn",
+  "Description": "HardPwn is a purpose-built hardware exploitation platform crafted for intermediate and advanced hardware hackers who want to push embedded devices, PCBs, and IoT gadgets to their limits. The toolkit elevates low-level hardware reconnaissance by automatically probing SPI, UART, I2C, and JTAG interfaces, performing chip-level reconnaissance where possible, executing NAND glitching on non-BGA chips, and dumping firmware—all with minimal setup. By automating over 90% of typical test cases, HardPwn transforms what traditionally takes months of manual exploration into a matter of hours.",
+  "GitHub URL": "",
+  "Tracks": [
+    "Arsenal"
+  ],
+  "Speakers": [
+    "Jinto Antony"
+  ],
+  "Region": "MEA",
+  "Year": "2025"
+}
