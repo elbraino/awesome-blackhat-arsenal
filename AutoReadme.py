@@ -110,11 +110,7 @@ for location in sorted(os.listdir(ROOT_DIR)):
             if not file.endswith(".json"):
                 continue
             with open(os.path.join(year_path, file), "r", encoding="utf-8") as f:
-                try:
-                    data = json.load(f)
-                except:
-                    print(f"Error while loading JSON file '{os.path.join(year_path, file)}'")
-                    exit(1) 
+                data = json.load(f)
             if not isinstance(data, list):
                 data = [data]
 
