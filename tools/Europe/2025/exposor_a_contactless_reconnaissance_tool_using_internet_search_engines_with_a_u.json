@@ -1,6 +1,7 @@
 {
   "Tool Name": "Exposor - A Contactless Reconnaissance Tool Using Internet Search Engines with a Unified Syntax",
-  "Description": "The attack surface of organizations is constantly evolving, making real-time discovery of exposed technologies and vulnerabilities critical for proactive security. However, conducting searches across multiple Search Engine requires understanding different query syntaxes, which can be time-consuming and inefficient.",
+  "Description": "The attack surface of organizations is constantly evolving, making real-time discovery of exposed technologies and vulnerabilities critical for proactive security. However, conducting searches across multiple Search Engine requires understanding different query syntaxes, which can be time-consuming and inefficient.
+",
   "GitHub URL": "https://github.com/abuyv/exposor",
   "Tracks": [
     "OSINT - Open Source Intelligence"

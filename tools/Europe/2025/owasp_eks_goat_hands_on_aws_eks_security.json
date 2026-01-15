@@ -1,6 +1,7 @@
 {
   "Tool Name": "OWASP EKS Goat: Hands-On AWS EKS Security",
-  "Description": "OWASP EKS Goat is an open source, intentionally vulnerable AWS EKS cluster designed for hands on security testing and learning. It provides a realistic vulnerable environment to explore supply chain vulnerabilities that can lead to the compromise of AWS Cloud resources, including EKS and ECR, through cloud & RBAC misconfigurations.",
+  "Description": "OWASP EKS Goat is an open source, intentionally vulnerable AWS EKS cluster designed for hands on security testing and learning. It provides a realistic vulnerable environment to explore supply chain vulnerabilities that can lead to the compromise of AWS Cloud resources, including EKS and ECR, through cloud & RBAC misconfigurations.
+",
   "GitHub URL": "https://github.com/OWASP/www-project-eks-goat",
   "Tracks": [
     "Vulnerability Assessment"
