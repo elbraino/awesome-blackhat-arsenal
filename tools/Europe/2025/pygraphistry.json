@@ -1,7 +1,6 @@
 {
   "Tool Name": "Pygraphistry",
-  "Description": "PyGraphistry is a GPU-accelerated Python library that makes it easy to analyze and visualize large-scale graphs—ideal for uncovering complex patterns in cybersecurity, threat hunting, and fraud detection. It combines rich interactive visualizations with dataframe-native graph querying, ML workflows, and seamless integration into existing Python, web, and notebook environments. With support for tools like Pandas, cuDF, and NetworkX, PyGraphistry helps security professionals go from raw data to insight faster—without needing deep expertise in graph theory or infrastructure.
-",
+  "Description": "PyGraphistry is a GPU-accelerated Python library that makes it easy to analyze and visualize large-scale graphs—ideal for uncovering complex patterns in cybersecurity, threat hunting, and fraud detection. It combines rich interactive visualizations with dataframe-native graph querying, ML workflows, and seamless integration into existing Python, web, and notebook environments. With support for tools like Pandas, cuDF, and NetworkX, PyGraphistry helps security professionals go from raw data to insight faster—without needing deep expertise in graph theory or infrastructure.",
   "GitHub URL": "https://github.com/graphistry/pygraphistry",
   "Tracks": [
     "Threat Hunting"
