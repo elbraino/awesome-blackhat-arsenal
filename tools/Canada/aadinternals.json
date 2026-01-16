@@ -1,9 +1,1 @@
-{
-  "Tool Name": "AADInternals",
-  "Description": "AADInternals is a popular attacking and administration toolkit for Entra ID (Azure Active Directory) and Microsoft 365, used by red and blue teamers worldwide. The toolkit is written in PowerShell, making it easy to install and use by anyone familiar with the Microsoft ecosystem.",
-  "GitHub URL": "",
-  "Tracks": ["Cloud Security"],
-  "Speakers": ["Nestori Syynimaa"],
-  "Region": "Canada",
-  "Year": "2025"
-}
+
