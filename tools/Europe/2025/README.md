@@ -1,149 +1,61 @@
 # Europe 2025
 ---
 📍 This document lists cybersecurity tools demonstrated during the **Black Hat Arsenal 2025** event held in **Europe**.
-Tools are categorized based on their **track theme**, such as AI/ML, Cloud Security, Web AppSec, etc.
+Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.
 
 ## 📚 Contents
-- [AI, ML & Data Science](#ai-ml--data-science)
-- [Arsenal Labs](#arsenal-labs)
-- [Cloud Security](#cloud-security)
-- [Code Assessment](#code-assessment)
-- [Digital Forensics](#digital-forensics)
-- [Exploitation and Ethical Hacking](#exploitation-and-ethical-hacking)
-- [Hardware/Embedded](#hardwareembedded)
-- [Incident Response](#incident-response)
-- [Malware](#malware)
-- [Network](#network)
-- [OSINT - Open Source Intelligence](#osint---open-source-intelligence)
-- [Privacy](#privacy)
-- [Reverse Engineering](#reverse-engineering)
-- [Risks](#risks)
-- [Threat Hunting](#threat-hunting)
-- [Vulnerability Assessment](#vulnerability-assessment)
-- [Web AppSec](#web-appsec)
+- [🔵 Blue Team & Detection](#🔵-blue-team-detection)
+- [🔴 Red Teaming](#🔴-red-teaming)
+- [🌐 Web/AppSec](#🌐-webappsec)
+- [🔍 OSINT](#🔍-osint)
+- [🧠 Reverse Engineering](#🧠-reverse-engineering)
+- [⚙️ Miscellaneous / Lab Tools](#⚙️-miscellaneous--lab-tools)
 
 ---
-## AI, ML & Data Science
-<details><summary><strong>A.I.G（AI-Infra-Guard）</strong></summary>
 
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: AI, ML & Data Science](https://img.shields.io/badge/Category:%20AI,%20ML%20&%20Data%20Science-orange) ![Wu Huiyu](https://img.shields.io/badge/Wu%20Huiyu-informational) ![Cheng Huangsheng](https://img.shields.io/badge/Cheng%20Huangsheng-informational) ![Zheng Xing](https://img.shields.io/badge/Zheng%20Xing-informational)
+## 🔵 Blue Team & Detection
 
-🔗 **Link:** [A.I.G（AI-Infra-Guard）](https://github.com/Tencent/AI-Infra-Guard)  
-📝 **Description:** A.I.G（AI-Infra-Guard） is an open-source security assessment tool designed to identify and mitigate vulnerabilities in AI infrastructure. It provides comprehensive scanning capabilities for AI models, data pipelines, and deployment environments, ensuring robust security measures are in place to protect against potential threats.
+<details><summary><strong>Cloud Console Threat Mapper</strong></summary>
 
-</details>
-
-<details><summary><strong>MIPSEval: Multi-turn LLM Evaluation of LLM Safety</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: AI, ML & Data Science](https://img.shields.io/badge/Category:%20AI,%20ML%20&%20Data%20Science-orange) ![Muris Sladić](https://img.shields.io/badge/Muris%20Sladić-informational) ![Sebastian Garcia](https://img.shields.io/badge/Sebastian%20Garcia-informational)
+![Europe 2025](https://img.shields.io/badge/Europe%202025-blue)
+![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan)
+![Author](https://img.shields.io/badge/Author-informational)
 
 🔗 **Link:** Not Available  
-📝 **Description:** Multi-turn LLM evaluation framework for assessing LLM safety across multiple conversation turns.
-
-</details>
-
-<details><summary><strong>Patch Wednesday - Multi-Agent System for Patch Diffing</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: AI, ML & Data Science](https://img.shields.io/badge/Category:%20AI,%20ML%20&%20Data%20Science-orange) ![Maor Dahan](https://img.shields.io/badge/Maor%20Dahan-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** Automated patch analysis system using multiple AI agents to analyze security patches and identify potential vulnerabilities.
-
-</details>
-
-<details><summary><strong>Red AI Range (RAR)</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: AI, ML & Data Science](https://img.shields.io/badge/Category:%20AI,%20ML%20&%20Data%20Science-orange) ![Mahmut Erdem Özgen](https://img.shields.io/badge/Mahmut%20Erdem%20Özgen-informational) ![Ata Seren](https://img.shields.io/badge/Ata%20Seren-informational) ![Elif Başar Özgen](https://img.shields.io/badge/Elif%20Başar%20Özgen-informational) ![Ömer Kutay Atilla](https://img.shields.io/badge/Ömer%20Kutay%20Atilla-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** Red team AI testing range for evaluating AI system security and robustness.
-
-</details>
-
-<details><summary><strong>Spikee: Simple Prompt Injection Kit for Evaluation and Exploitation</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: AI, ML & Data Science](https://img.shields.io/badge/Category:%20AI,%20ML%20&%20Data%20Science-orange) ![Donato Capitella](https://img.shields.io/badge/Donato%20Capitella-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** Toolkit for testing and exploiting prompt injection vulnerabilities in LLM applications.
-
-</details>
-
-<details><summary><strong>SQL Data Guard: Enforcing Safe LLM-to-Database Interactions via Inline or MCP Deployment</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: AI, ML & Data Science](https://img.shields.io/badge/Category:%20AI,%20ML%20&%20Data%20Science-orange) ![Ori Nakar](https://img.shields.io/badge/Ori%20Nakar-informational) ![Sofia Naer](https://img.shields.io/badge/Sofia%20Naer-informational) ![Muly Levy](https://img.shields.io/badge/Muly%20Levy-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** Security layer for preventing malicious SQL generation in LLM-to-database interactions.
-
-</details>
-
-<details><summary><strong>From Triage to Threat Modeling: Open-Source Security LLM in Action</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: AI, ML & Data Science](https://img.shields.io/badge/Category:%20AI,%20ML%20&%20Data%20Science-orange) ![Dhruv Kedia](https://img.shields.io/badge/Dhruv%20Kedia-informational) ![Sajana Weerawardhena](https://img.shields.io/badge/Sajana%20Weerawardhena-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** Open-source LLM framework for security triage and threat modeling automation.
+📝 **Description:**  
+A defensive framework that maps cloud console actions to high-level attacker intent, helping detection engineers distinguish legitimate activity from malicious behavior in AWS, Azure, and GCP environments.
 
 </details>
 
 ---
-## Arsenal Labs
-<details><summary><strong>AI Wargame</strong></summary>
 
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Arsenal Labs](https://img.shields.io/badge/Category:%20Arsenal%20Labs-purple) ![Pedram Hayati](https://img.shields.io/badge/Pedram%20Hayati-informational) ![Davide Cioccia](https://img.shields.io/badge/Davide%20Cioccia-informational) ![Stefan Petrushevski](https://img.shields.io/badge/Stefan%20Petrushevski-informational)
+## 🔴 Red Teaming
 
-🔗 **Link:** Not Available  
-📝 **Description:** Interactive AI security training platform with attack/defense scenarios.
+<details><summary><strong>PhantomC2</strong></summary>
 
-</details>
-
-<details><summary><strong>Capture the Train: Purple Team Edition!</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Arsenal Labs](https://img.shields.io/badge/Category:%20Arsenal%20Labs-purple) ![Arnaud Soullie](https://img.shields.io/badge/Arnaud%20Soullie-informational) ![Florian Pouchet](https://img.shields.io/badge/Florian%20Pouchet-informational)
+![Europe 2025](https://img.shields.io/badge/Europe%202025-blue)
+![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red)
+![Author](https://img.shields.io/badge/Author-informational)
 
 🔗 **Link:** Not Available  
-📝 **Description:** Purple team collaboration platform for coordinated security exercises.
-
-</details>
-
-<details><summary><strong>Minino: Multiband Hacking Now with GPS</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Arsenal Labs](https://img.shields.io/badge/Category:%20Arsenal%20Labs-purple) ![Paulino Calderon](https://img.shields.io/badge/Paulino%20Calderon-informational) ![Eduardo Contreras](https://img.shields.io/badge/Eduardo%20Contreras-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** Multiband wireless hacking tool with GPS integration for location-based attacks.
-
-</details>
-
-<details><summary><strong>ThreatShield – The Intelligent Way of Threat Modelling</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Arsenal Labs](https://img.shields.io/badge/Category:%20Arsenal%20Labs-purple) ![Satyam Nagpal](https://img.shields.io/badge/Satyam%20Nagpal-informational) ![Sayooj Nagpal](https://img.shields.io/badge/Sayooj%20Nagpal-informational) ![Ashwin Shenoi](https://img.shields.io/badge/Ashwin%20Shenoi-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** AI-powered threat modeling platform with automated risk assessment.
-
-</details>
-
-<details><summary><strong>Models as Malware: Attacking and Defending the AI Supply Chain</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Arsenal Labs](https://img.shields.io/badge/Category:%20Arsenal%20Labs-purple) ![Nathan Chang](https://img.shields.io/badge/Nathan%20Chang-informational) ![Roee Landesman](https://img.shields.io/badge/Roee%20Landesman-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** Framework for detecting and defending against malicious AI models in supply chains.
-
-</details>
-
-<details><summary><strong>WHIDBOARD: Plug It In, Set It Up & Get Ready to Hack!</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Arsenal Labs](https://img.shields.io/badge/Category:%20Arsenal%20Labs-purple) ![Luca Bongiorni](https://img.shields.io/badge/Luca%20Bongiorni-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** Portable hardware hacking toolkit with plug-and-play capabilities.
+📝 **Description:**  
+A modular command-and-control framework designed for stealthy adversary simulations, supporting multiple transport layers and evasive execution techniques.
 
 </details>
 
 ---
+
+## 🌐 Web/AppSec
+
+<details><summary><strong>API Specter</strong></summary>
+
+![Europe 2025](https://img.shields.io/badge/Europe%202025-blue)
+![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-green)
+![Author](https://img.shields.io/badge/Author-informational)
+
+🔗 **Link:** Not Available  
+📝 **Description:**  
+A modern API security testing toolkit focusing on REST, GraphQL, and OAuth misconfigurations with automated abuse-case generation.
 ## Cloud Security
 <details><summary><strong>Beyond the Static rules: Cloud-Native Anomaly Detection with Kubescape</strong></summary>
 
@@ -222,112 +134,18 @@ Tools are categorized based on their **track theme**, such as AI/ML, Cloud Secur
 </details>
 
 ---
-## Exploitation and Ethical Hacking
-<details><summary><strong>GHARF: GitHub Actions RedTeam Framework</strong></summary>
 
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Exploitation and Ethical Hacking](https://img.shields.io/badge/Category:%20Exploitation%20and%20Ethical%20Hacking-red) ![Yusuke Kubo](https://img.shields.io/badge/Yusuke%20Kubo-informational) ![Yuuki Matsumoto](https://img.shields.io/badge/Yuuki%20Matsumoto-informational)
+## 🧠 Reverse Engineering
 
-🔗 **Link:** Not Available  
-📝 **Description:** Red team framework leveraging GitHub Actions for attack simulation.
+<details><summary><strong>ObfusXray</strong></summary>
 
-</details>
-
-<details><summary><strong>Keep COM and Hijack On: Redefining Windows Session Hijacking</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Exploitation and Ethical Hacking](https://img.shields.io/badge/Category:%20Exploitation%20and%20Ethical%20Hacking-red) ![Andrew Oliveau](https://img.shields.io/badge/Andrew%20Oliveau-informational)
+![Europe 2025](https://img.shields.io/badge/Europe%202025-blue)
+![Category: 🧠 Reverse Engineering](https://img.shields.io/badge/Category:%20🧠%20Reverse%20Engineering-purple)
+![Author](https://img.shields.io/badge/Author-informational)
 
 🔗 **Link:** Not Available  
-📝 **Description:** Advanced Windows session hijacking techniques using COM components.
-
-</details>
-
-<details><summary><strong>ROP ROCKET: Advanced ROP Automation for Exploitation</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Exploitation and Ethical Hacking](https://img.shields.io/badge/Category:%20Exploitation%20and%20Ethical%20Hacking-red) ![Bramwell Brizendine](https://img.shields.io/badge/Bramwell%20Brizendine-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** Automated Return-Oriented Programming chain generation for exploit development.
-
-</details>
-
-<details><summary><strong>EntraGoat - A Deliberately Vulnerable Entra ID Environment</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Exploitation and Ethical Hacking](https://img.shields.io/badge/Category:%20Exploitation%20and%20Ethical%20Hacking-red) ![Tomer Nahum](https://img.shields.io/badge/Tomer%20Nahum-informational) ![Jonathan Elkabas](https://img.shields.io/badge/Jonathan%20Elkabas-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** Deliberately vulnerable Entra ID environment for security training and testing.
-
-</details>
-
-<details><summary><strong>IOCTL-hammer - Parameter centric IOCTL Fuzzer for Windows Drivers</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Exploitation and Ethical Hacking](https://img.shields.io/badge/Category:%20Exploitation%20and%20Ethical%20Hacking-red) ![Mohit Kulamkolly](https://img.shields.io/badge/Mohit%20Kulamkolly-informational) ![Mohanraj Ravichandran](https://img.shields.io/badge/Mohanraj%20Ravichandran-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** Windows driver IOCTL fuzzer focusing on parameter manipulation.
-
-</details>
-
-<details><summary><strong>Golden dMSA: One Key to Rule Them All</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Exploitation and Ethical Hacking](https://img.shields.io/badge/Category:%20Exploitation%20and%20Ethical%20Hacking-red) ![Adi Malyanker](https://img.shields.io/badge/Adi%20Malyanker-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** Privilege escalation and persistence tool for directory services.
-
-</details>
-
-<details><summary><strong>DroidGround: A Flexible Playground for Android CTF Challenges</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Exploitation and Ethical Hacking](https://img.shields.io/badge/Category:%20Exploitation%20and%20Ethical%20Hacking-red) ![Angelo Delicato](https://img.shields.io/badge/Angelo%20Delicato-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** Flexible platform for creating and solving Android CTF challenges.
-
-</details>
-
-<details><summary><strong>PowerPwn Uncovered: Advanced Agentic Recon & Exploitation</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Exploitation and Ethical Hacking](https://img.shields.io/badge/Category:%20Exploitation%20and%20Ethical%20Hacking-red) ![Avishai Efrat](https://img.shields.io/badge/Avishai%20Efrat-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** Advanced reconnaissance and exploitation framework using autonomous agents.
-
-</details>
-
-<details><summary><strong>ReForge: Where Crashes Become Weapons</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Exploitation and Ethical Hacking](https://img.shields.io/badge/Category:%20Exploitation%20and%20Ethical%20Hacking-red) ![Sohan Simha Prabhakar](https://img.shields.io/badge/Sohan%20Simha%20Prabhakar-informational) ![Samarth Bhaskar Bhat](https://img.shields.io/badge/Samarth%20Bhaskar%20Bhat-informational) ![Abinav Harsha](https://img.shields.io/badge/Abinav%20Harsha-informational) ![Danindu Gammanpilage](https://img.shields.io/badge/Danindu%20Gammanpilage-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** Crash analysis and weaponization framework for exploit development.
-
-</details>
-
-<details><summary><strong>SAMLSmith</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Exploitation and Ethical Hacking](https://img.shields.io/badge/Category:%20Exploitation%20and%20Ethical%20Hacking-red) ![Eric Woodruff](https://img.shields.io/badge/Eric%20Woodruff-informational) ![Tomer Nahum](https://img.shields.io/badge/Tomer%20Nahum-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** SAML assertion manipulation and forging tool for penetration testing.
-
-</details>
-
-<details><summary><strong>Virga: Local LLM Embedded C2 Framework</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Exploitation and Ethical Hacking](https://img.shields.io/badge/Category:%20Exploitation%20and%20Ethical%20Hacking-red) ![Jun Miura](https://img.shields.io/badge/Jun%20Miura-informational) ![SHUNRI Kudo](https://img.shields.io/badge/SHUNRI%20Kudo-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** Command and control framework using local LLMs for autonomous operations.
-
-</details>
-
-<details><summary><strong>Ghosts in the DOM: Hunting and Exploiting Hidden postMessage Listeners Using FrogPost Extension</strong></summary>
-
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Exploitation and Ethical Hacking](https://img.shields.io/badge/Category:%20Exploitation%20and%20Ethical%20Hacking-red) ![Lidor Ben Shitrit](https://img.shields.io/badge/Lidor%20Ben%20Shitrit-informational) ![Assaf Levkovich](https://img.shields.io/badge/Assaf%20Levkovich-informational)
-
-🔗 **Link:** Not Available  
-📝 **Description:** Browser extension for detecting and exploiting hidden postMessage listeners.
+📝 **Description:**  
+A reverse engineering utility that visualizes obfuscation layers and execution paths in heavily protected malware samples.
 
 </details>
 

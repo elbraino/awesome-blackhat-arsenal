@@ -1,0 +1,9 @@
+{
+  "Tool Name": "KubeShadow",
+  "Description": "kubeShadow is an advanced red team and adversary simulation framework purpose-built to exploit, persist, and operate within Kubernetes clusters in stealth. Far beyond traditional misconfiguration scanners, KubeShadow delivers real-world offensive capabilities designed to emulate high-caliber threat actors operating across AWS EKS, GCP GKE, and Azure AKS managed clusters.",
+  "GitHub URL": "",
+  "Tracks": ["Cloud Security"],
+  "Speakers": ["Aashita Pandey", "Binayak Choudhury"],
+  "Region": "Canada",
+  "Year": "2025"
+}
