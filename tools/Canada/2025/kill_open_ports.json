@@ -1,0 +1,9 @@
+{
+  "Tool Name": "Kill Open Ports",
+  "Description": "NoPorts (NoPorts.com) is an open-source tool designed to create secure connections between people, entities, and things by eliminating the need for open ports and centralized infrastructure, fundamentally changing how devices and applications connect. This talk highlights the latest major release, which introduces a powerful desktop version and a sophisticated policy engine. NoPorts enables secure, direct, peer-to-peer communication, mitigating common attack vectors associated with traditional networking, such as port scanning, man-in-the-middle attacks, and reliance on vulnerable central servers. This technology empowers developers and security professionals to build and deploy applications with enhanced security, reduced complexity, and increased resilience. The new desktop version extends NoPorts' capabilities to a broader range of applications, while the policy engine provides granular control over connection permissions.",
+  "GitHub URL": "",
+  "Tracks": ["Network"],
+  "Speakers": ["Xavier Chanthavong", "Jeremy Tubongbanua", "Daria Margarit"],
+  "Region": "Canada",
+  "Year": "2025"
+}

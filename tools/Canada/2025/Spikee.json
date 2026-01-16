@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Spikee",
+  "Description": "Spikee (https://spikee.ai) is an open-source tool we developed from two years of security assessments of LLM applications and GenAI use cases, focusing on practical cyber security risks. These risks stem from the interaction between LLMs and the applications that rely on them, leading to exploitable outcomes such as data exfiltration, XSS, and resource exhaustion—rather than generating harmful content, as seen in typical "LLM red teaming". Unlike academic approaches that can be impractical in the field and often give difficult to interpret, generic results, Spikee gives pentesters the tools to actually test LLM apps with customizable datasets and attacks that match a specific application's constraints and use-cases. Built from our hands-on experience, Spikee addresses prompt injection risks across the entire LLM application pipeline, featuring evasion plugins and dynamic attacks specifically designed to bypass model alignment and state-of-the-art prompt injection filters.",
+  "GitHub URL": "",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Donato Capitella"
+  ],
+  "Region": "Canada",
+  "Year": "2025"
+}
