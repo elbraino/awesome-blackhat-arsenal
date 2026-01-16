@@ -589,9 +589,9 @@ Tools are categorized based on their **track theme**, such as AI/ML, Cloud Secur
 
 ---
 ## 🎯 Summary
-- **Total Tools:** 54
-- **Tools with GitHub Links:** 2 (A.I.G, Kubernetes Goat)
-- **Tools Pending Links:** 52
+- **Total Tools:** 59
+- **Tools with GitHub Links:** 58
+- **Tools Pending Links:** 1 (Capture the Train: Purple Team Edition!)
 - **Event:** Black Hat Europe 2025
 - **Location:** Excel London, United Kingdom
 - **Date:** December 8-11, 2025
