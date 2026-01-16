@@ -1,7 +1,7 @@
 {
   "Tool Name": "IOCTL-hammer - Parameter centric IOCTL Fuzzer for Windows Drivers",
   "Description": "IOCTL-hammer is a lightweight, Python-based fuzzing harness designed for efficient and targeted security auditing of Windows driver IOCTL interfaces. This tool addresses the high barrier to entry for kernel driver testing by providing a simple, accessible framework that focuses on the most common vulnerability patterns: buffer mismanagement. Rather than relying on complex, coverage-guided instrumentation, ioctl-hammer adopts a parameter-centric methodology, systematically manipulating the four core user-mode buffer descriptors sent via DeviceIoControl.",
-  "GitHub URL": "https://github.com/netskopeoss/ioctlhammer",
+  "Github URL": "https://github.com/netskopeoss/ioctlhammer",
   "Tracks": [
     "Exploitation and Ethical Hacking"
   ],

@@ -1,7 +1,7 @@
 {
   "Tool Name": "SAMLSmith",
   "Description": "SAMLSmith is the go-to tool for penetrating SAML applications with response forging. An evolution of the original tooling developed for proof-of-concept of SAML response forging in Entra ID, SAMLSmith takes further research around SAML response forging and combines it into a tool crafted for offensive scenarios.",
-  "GitHub URL": "https://github.com/Semperis/SAMLSmith",
+  "Github URL": "https://github.com/Semperis/SAMLSmith",
   "Tracks": [
     "Exploitation and Ethical Hacking"
   ],

@@ -1,7 +1,7 @@
 {
   "Tool Name": "VSXPLOIT",
   "Description": "VSXPloit is a framework for weaponizing VS Code Remote Dev Tunnels, automating tunnel exploitation, payload generation, and covert exfiltration via GitHub.",
-  "GitHub URL": "",
+  "Github URL": "",
   "Tracks": [
     "Arsenal"
   ],

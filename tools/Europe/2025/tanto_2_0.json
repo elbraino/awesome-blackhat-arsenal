@@ -1,7 +1,7 @@
 {
   "Tool Name": "Tanto 2.0",
   "Description": "Tanto 2.0: an open-source, binary analysis, slicing framework and plugin for Binary Ninja designed to help discover and verify bugs and vulnerabilities faster than ever before. As government-funded programs and private-sector research continue to encounter increasingly complex problems that require more data and context to solve, slicing aims to cut those problems back down to size.",
-  "GitHub URL": "https://github.com/Vector35/tanto",
+  "Github URL": "https://github.com/Vector35/tanto",
   "Tracks": [
     "Reverse Engineering"
   ],

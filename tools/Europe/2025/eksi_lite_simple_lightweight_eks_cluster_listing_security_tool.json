@@ -1,7 +1,7 @@
 {
   "Tool Name": "EKSi Lite: Simple lightweight EKS Cluster Listing & Security Tool",
   "Description": "EKSi is a lightweight command line python tool designed for quick enumeration and listing of Kubernetes resources within Amazon EKS context, showing the relationships between AWS services and Kubernetes components during internal security audits. During internal security reviews and operational assessments, security professionals often need to quickly gather information about EKS cluster components without navigating through the AWS console or multiple kubectl commands. EKSi solves this problem by providing a cli for extracting and listing components within EKS and Kubernetes context.",
-  "GitHub URL": "https://github.com/peachycloudsecurity/EKSi-lite",
+  "Github URL": "https://github.com/peachycloudsecurity/EKSi-lite",
   "Tracks": [
     "Vulnerability Assessment"
   ],

@@ -1,7 +1,7 @@
 {
   "Tool Name": "SBoM Play",
   "Description": "SBOMPlay is a browser-first, privacy-aware SBOM visualization and enrichment tool designed to showcase the real potential of SBOMs beyond just vulnerability tracking.",
-  "GitHub URL": "https://cyfinoid.github.io/sbomplay",
+  "Github URL": "https://cyfinoid.github.io/sbomplay",
   "Tracks": [
     "Vulnerability Assessment"
   ],
