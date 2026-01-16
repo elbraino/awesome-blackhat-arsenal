@@ -132,9 +132,6 @@ if not os.path.isdir(ROOT_DIR):
 locations = sorted(os.listdir(ROOT_DIR))
 locations_to_edit = [event_filter] if event_filter else locations
 
-print(locations)
-print(locations_to_edit)
-
 # -------------------------------
 # 📁 Traverse All Locations & Years (optionally filtered)
 # -------------------------------
