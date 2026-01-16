@@ -1,7 +1,7 @@
 {
   "Tool Name": "QuantumLint",
   "Description": "QuantumLint is an open source enhancement toolkit that extends existing Java static analysis utilities to assess quantum-vulnerability exposure in source code. It focuses on identifying the use of classical cryptographic algorithms such as RSA, ECC, and ECDH within Java projects. By leveraging standard parsing libraries, QuantumLint highlights code regions where quantum susceptible cryptography is referenced and categorizes findings by severity to inform migration planning.",
-  "GitHub URL": "",
+  "Github URL": "",
   "Tracks": [
     "Arsenal"
   ],
