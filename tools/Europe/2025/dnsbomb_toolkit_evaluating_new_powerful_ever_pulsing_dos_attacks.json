@@ -1,8 +1,7 @@
 {
   "Tool Name": "DNSBomb Toolkit: Evaluating New Powerful-Ever Pulsing DoS Attacks",
-  "Description": "DNSBomb Toolkit is the first public toolset for evaluating, reproducing, and defending against a new class of pulsing DoS attacks that exploit widely deployed DNS mechanisms. Based on our IEEE S&P 2024 paper, the toolkit enables controlled experiments of DNS query accumulation, amplification, and pulsing via timeout abuse, query aggregation, and fast-returning mechanisms. We provide both attack simulation and detection modules to empower researchers, vendors, and defenders to test and patch vulnerable DNS software or configurations. DNSBomb Toolkit has already contributed to over 10 CVE disclosures and security patches across major DNS vendors, including BIND, Unbound, PowerDNS, and Knot.
-",
-  "GitHub URL": "",
+  "Description": "DNSBomb Toolkit is the first public toolset for evaluating, reproducing, and defending against a new class of pulsing DoS attacks that exploit widely deployed DNS mechanisms. Based on our IEEE S&P 2024 paper, the toolkit enables controlled experiments of DNS query accumulation, amplification, and pulsing via timeout abuse, query aggregation, and fast-returning mechanisms. We provide both attack simulation and detection modules to empower researchers, vendors, and defenders to test and patch vulnerable DNS software or configurations. DNSBomb Toolkit has already contributed to over 10 CVE disclosures and security patches across major DNS vendors, including BIND, Unbound, PowerDNS, and Knot.",
+  "GitHub URL": "https://dnsbomb.net/",
   "Tracks": [
     "Network"
   ],

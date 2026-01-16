@@ -1,7 +1,7 @@
 {
   "Tool Name": "Red AI Range (RAR)",
   "Description": "Red AI Range (RAR) is a comprehensive security platform designed specifically for AI red teaming and vulnerability assessment. It creates realistic environments where security professionals can systematically discover, analyze, and mitigate AI vulnerabilities through controlled testing scenarios.",
-  "GitHub URL": "",
+  "GitHub URL": "https://github.com/ErdemOzgen/RedAiRange",
   "Tracks": [
     "AI, ML & Data Science"
   ],

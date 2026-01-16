@@ -1,10 +1,10 @@
 {
   "Tool Name": "Beyond the Static rules: Cloud-Native Anomaly Detection with Kubescape",
-  "Description": "As cloud-native environments scale to hundreds or even thousands of microservices, maintaining effective runtime detection becomes one of the hardest problems in security engineering. Traditional rule-based tools like Falco and Tetragon require constant configuration and tuning. Static detection rules often fire on legitimate application behavior, leading to alert fatigue and ongoing investment in security tools. Any application update or deployment introduces new behaviors, forcing teams into an endless loop of manual exclusions.
-Kubescape, a CNCF Incubating project with over 10k GitHub stars, brings a new approach. After four years of helping DevOps and DevSecOps teams with Kubernetes configuration scanning and vulnerability monitoring, Kubescape now introduces a powerful new capability: eBPF-based runtime anomaly detection.","GitHub URL": "https://github.com/Jack43011/Janus-Kairos",
+  "Description": "As cloud-native environments scale to hundreds or even thousands of microservices, maintaining effective runtime detection becomes one of the hardest problems in security engineering. Traditional rule-based tools like Falco and Tetragon require constant configuration and tuning. Static detection rules often fire on legitimate application behavior, leading to alert fatigue and ongoing investment in security tools. Any application update or deployment introduces new behaviors, forcing teams into an endless loop of manual exclusions.\nKubescape, a CNCF Incubating project with over 10k GitHub stars, brings a new approach. After four years of helping DevOps and DevSecOps teams with Kubernetes configuration scanning and vulnerability monitoring, Kubescape now introduces a powerful new capability: eBPF-based runtime anomaly detection.","GitHub URL": "https://github.com/Jack43011/Janus-Kairos",
   "Tracks": [
     "Cloud Security"
   ],
+  "GitHub URL": "https://github.com/kubescape/kubescape",
   "Speakers": [
     "Ben Hirschberg",
     "Amit Schendel"

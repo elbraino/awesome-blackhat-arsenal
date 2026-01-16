@@ -1,7 +1,7 @@
 {
   "Tool Name": "Breaking the Tunnel: Real-Time API Interception in MDM-Locked Mobile Apps with KnoxSpy",
   "Description": "Mobile Device Management (MDM) applications, while crucial for organizational control, present a significant challenge for security professionals seeking to conduct thorough API testing. The enforced routing of all application traffic through centrally managed VPNs renders conventional interception proxies and system-level techniques ineffective. This limitation creates a critical gap in the security assessment of these privileged applications.",
-  "GitHub URL": "",
+  "GitHub URL": "https://github.com/appknox/knoxspy",
   "Tracks": [
     "Vulnerability Assessment"
   ],
