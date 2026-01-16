@@ -191,7 +191,7 @@ for location in locations:
                 loc_year_badge = badge(f"{location} {year}", badge_color)
 
                 name = tool.get("Tool Name", "Unnamed Tool")
-                url = (tool.get("GitHub URL") or "").strip()
+                url = (tool.get("Github URL") or "").strip()
                 description = tool.get("Description", "No description provided.")
                 tracks = tool.get("Tracks", [])
                 speakers_raw = tool.get("Speakers", [])
