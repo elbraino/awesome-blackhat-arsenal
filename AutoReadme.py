@@ -1,11 +1,13 @@
 import os
 import json
+import argparse
 from collections import defaultdict
+from datetime import datetime
 
 # -------------------------------
 # 🔧 Configuration & Constants
 # -------------------------------
-ROOT_DIR = "tools"                # Root directory containing location/year folders
+ROOT_DIR = "tools"                # Root directory containing event/year folders
 MAIN_README = "README.md"         # Path for the main README
 
 # Category → (Label, Badge Color)
@@ -36,7 +38,8 @@ CATEGORY_MAP = {
 
 def extract_track_label(track_entry):
     """Cleans up track entry text."""
-    if not isinstance(track_entry, str): return ""
+    if not isinstance(track_entry, str):
+        return ""
     return track_entry.replace("Track:", "").strip()
 
 def determine_category(track_list):
@@ -57,25 +60,62 @@ def sanitize_anchor(text):
     """Converts text to a GitHub anchor-safe format."""
     return text.lower().replace(" ", "-").replace("/", "").replace("&", "").replace("--", "-")
 
+def die(msg, code=1):
+    print(msg)
+    raise SystemExit(code)
+
+# -------------------------------
+# 🧰 CLI Args
+# -------------------------------
+parser = argparse.ArgumentParser(description="Generate Awesome Black Hat Arsenal READMEs.")
+parser.add_argument(
+    "--event",
+    help="Only process the subfolders inside tools/<event> (e.g., tools/USA, tools/Europe).",
+)
+parser.add_argument(
+    "--year",
+    help="Only process tools/<event>/<year>. Requires --event.",
+)
+args = parser.parse_args()
+
+if args.year and not args.event:
+    die("Error: --year requires --event (expected tools/<event>/<year>).")
+
+# Validate paths based on options
+event_filter = args.event
+year_filter = args.year
+
+if event_filter:
+    event_path = os.path.join(ROOT_DIR, event_filter)
+    if not os.path.isdir(event_path):
+        die(f"Error: event folder does not exist: {event_path}")
+
+    if year_filter:
+        year_path = os.path.join(event_path, year_filter)
+        if not os.path.isdir(year_path):
+            die(f"Error: year folder does not exist: {year_path}")
+
 # -------------------------------
 # 🏠 Generate Main README Header
 # -------------------------------
+now = datetime.now()
+last_update = now.strftime("%B %Y").replace(" ", "%20")
 main_readme = [
-    "# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Last Update](https://img.shields.io/badge/Updated-June%202025-blue)](https://github.com/elbraino/awesome-blackhat-arsenal)",
+    f"# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Last Update](https://img.shields.io/badge/Updated-{last_update}-blue)](https://github.com/elbraino/awesome-blackhat-arsenal)",
     "[![Project Logo](logo.png)](https://www.blackhat.com/html/arsenal.html)",
     "> 🚀 A curated list of cutting-edge cybersecurity tools showcased at the Black Hat Arsenal events — covering offensive, defensive, and research-focused security utilities.",
     "",
     "Whether you're in red teaming, blue teaming, appsec, or OSINT — this list helps you explore and leverage the best tools demonstrated live by security professionals across the world.",
     "",
     "## Contents",
-    "1. [How This List Is Organized](#how-this-list-is-organized)", 
+    "1. [How This List Is Organized](#how-this-list-is-organized)",
     "2. [Locations](#locations)",
     "   - [Asia](#asia)",
     "   - [Canada](#canada)",
     "   - [Europe](#europe)",
     "   - [MEA](#mea)",
     "   - [USA](#usa)",
-    "## How This List Is Organized", 
+    "## How This List Is Organized",
     "- The tools are grouped by the **location** of the Black Hat event (e.g., USA, Europe, Asia).",
     "- Under each location, tools are further organized by **year**.",
     "- Inside the section of every year, you will find the tools organized **by track category**, each with descriptions, authors, and GitHub links (where available).",
@@ -84,15 +124,31 @@ main_readme = [
 ]
 
 # -------------------------------
-# 📁 Traverse All Locations & Years
+# 📁 Decide what to edit
 # -------------------------------
-for location in sorted(os.listdir(ROOT_DIR)):
+if not os.path.isdir(ROOT_DIR):
+    die(f"Error: ROOT_DIR does not exist or is not a directory: {ROOT_DIR}")
+
+locations = sorted(os.listdir(ROOT_DIR))
+locations_to_edit = [event_filter] if event_filter else locations
+
+print(locations)
+print(locations_to_edit)
+
+# -------------------------------
+# 📁 Traverse All Locations & Years (optionally filtered)
+# -------------------------------
+for location in locations:
     loc_path = os.path.join(ROOT_DIR, location)
     if not os.path.isdir(loc_path):
         continue
 
     main_readme.append(f"### {location}")
-    for year in sorted(os.listdir(loc_path)):
+
+    years = sorted(os.listdir(loc_path))
+    years_to_edit = [year_filter] if year_filter and event_filter else years
+
+    for year in years:
         year_path = os.path.join(loc_path, year)
         if not os.path.isdir(year_path):
             continue
@@ -100,6 +156,10 @@ for location in sorted(os.listdir(ROOT_DIR)):
         # Use full-length links
         rel_readme = f"https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/{ROOT_DIR}/{location}/{year}/README.md"
         main_readme.append(f"- [{year}]({rel_readme})")
+
+        # Skip README edit/creation if not in 'locations_to_edit'
+        if location not in locations_to_edit or year not in years_to_edit:
+            continue
 
         tools_by_category = defaultdict(list)
 
@@ -109,12 +169,15 @@ for location in sorted(os.listdir(ROOT_DIR)):
         for file in os.listdir(year_path):
             if not file.endswith(".json"):
                 continue
-            with open(os.path.join(year_path, file), "r", encoding="utf-8") as f:
+
+            json_path = os.path.join(year_path, file)
+            with open(json_path, "r", encoding="utf-8") as f:
                 try:
                     data = json.load(f)
-                except:
-                    print(f"Error while loading JSON file '{os.path.join(year_path, file)}'")
-                    exit(1) 
+                except Exception:
+                    print(f"Error while loading JSON file '{json_path}'")
+                    raise SystemExit(1)
+
             if not isinstance(data, list):
                 data = [data]
 
@@ -131,7 +194,7 @@ for location in sorted(os.listdir(ROOT_DIR)):
                 loc_year_badge = badge(f"{location} {year}", badge_color)
 
                 name = tool.get("Tool Name", "Unnamed Tool")
-                url = (tool.get("Github URL") or "").strip()
+                url = (tool.get("GitHub URL") or "").strip()
                 description = tool.get("Description", "No description provided.")
                 tracks = tool.get("Tracks", [])
                 speakers_raw = tool.get("Speakers", [])
@@ -144,7 +207,13 @@ for location in sorted(os.listdir(ROOT_DIR)):
                 link_line = f"🔗 **Link:** [{name}]({url})" if url else "🔗 **Link:** Not Available"
 
                 # Final tool block
-                entry = f"""<details><summary><strong>{name}</strong></summary>\n\n{loc_year_badge} {category_tag} {speaker_tags}\n\n{link_line}  \n📝 **Description:** {description}\n\n</details>\n"""
+                entry = (
+                    f"<details><summary><strong>{name}</strong></summary>\n\n"
+                    f"{loc_year_badge} {category_tag} {speaker_tags}\n\n"
+                    f"{link_line}  \n"
+                    f"📝 **Description:** {description}\n\n"
+                    f"</details>\n"
+                )
                 tools_by_category[category].append(entry)
 
         # -------------------------------
