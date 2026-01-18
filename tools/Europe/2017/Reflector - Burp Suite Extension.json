@@ -8,7 +8,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-EU-17",
-  "Github URL": null,
+  "Github URL": "https://github.com/elkokc/reflector",
   "Description": "Generally, searching reflected xss in a web-application penetration test is truly a challenge, especially if it consists of a huge number of parameters. Manual fuzzing is too labor-intensive, and moreover, it's easy to miss some details. Reflector is a new Burp Suite extension able to find reflected xss on a page in real-time - while browsing a website. You should not run any active scanning each parameters or test it manually. Every time reflection is found, reflector defines severity and the generated burp issue. Furthermore, it has the below features:Highlighting of reflection in the response tabTest which symbols is allowed in this reflectionReflection context analyzeContent-Types filter by whitelistPRESENTATION MATERIALS:https://github.com/elkokc/reflector/blob/master/BHUAReflector.pptx",
   "Year": "2017",
   "Location": "Europe"

@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/AbstractClass/CloudPrivs",
   "Description": "CloudPrivs is a tool to help you determine exactly what privileges are associated with a given set of cloud credentials. What makes CloudPrivs different that other similar tools is that it directly interrogates the cloud provider SDK to generate test cases, ensuring maximal coverage even when new cloud services are added. CloudPrivs also supports a robust plugin system making it simple to dynamically modify the generated test cases or insert custom tests.",
   "Year": "2024",
   "Location": "Canada"

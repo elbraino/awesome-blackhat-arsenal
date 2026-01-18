@@ -8,7 +8,7 @@
     "iOS and Mobile Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/devknox/devknox.github.io",
   "Description": "Devknox works like autocorrect by highlighting issues in the code and suggests quick one-click fixes to ensure security is taken care of on the go. To perform this autocorrect and suggestions, it does a multiple traversal over the AST - Abstract Syntax Tree and performs Taint Analysis over the source-code on the client-side inside the IDE in a matter of few seconds to come up with one click suggested fixes which fixes the root cause issue.\n\nThis tool is free and will be open sourced exclusively at Black Hat, so that the security community can help Devknox to have more test-cases and make developers understand and write better and securely. Devknox can be downloaded at https://devknox.io",
   "Year": "2017",
   "Location": "USA"

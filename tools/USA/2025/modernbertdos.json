@@ -9,7 +9,7 @@
     "ML & Data Science"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/oscarGLira/modernbertdos",
   "Description": "The modernbertdos Classification Tool fine-tunes a transformer-based model, ModernBERT, for multi-class classification of network traffic. It detects and classifies various traffic types, including DDoS attacks and normal traffic, using labeled datasets such as CIC-DDoS2019 and a dataset specifically crafted for SSL. The tool employs Hugging Face's Transformers library for model fine-tuning, supports early stopping, tracks key metrics (Accuracy, F1 Score, Precision, Recall), and uploads the fine-tuned model to Hugging Face for easy sharing.",
   "Year": "2025",
   "Location": "USA"

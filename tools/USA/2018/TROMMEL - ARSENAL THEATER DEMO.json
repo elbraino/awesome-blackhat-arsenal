@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/CERTCC/trommel",
   "Description": "TROMMEL is a custom, open-source tool using Python to assist researchers during embedded device vulnerability analysis. TROMMEL sifts through embedded device files to identify potential vulnerable indicators. TROMMEL has also integrated vFeed Community Database which allows for further in-depth vulnerability analysis of identified indicators.\n\nSource Code: https://github.com/CERTCC/trommel",
   "Year": "2018",
   "Location": "USA"

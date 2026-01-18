@@ -8,7 +8,7 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-EU-16",
-  "Github URL": null,
+  "Github URL": "https://github.com/OWASP/ZSC",
   "Description": "OWASP ZSC is an open source software in python language which lets you generate customized shellcodes and convert scripts to an obfuscated script. This software can be run on Windows/Linux/OSX under python. According to other shellcode generators same as metasploit tools and etc, OWASP ZSC using new encodes and methods which antiviruses won't detect. OWASP ZSC encoderes are able to generate shell codes with random encodes and that allows you to generate thousands of new dynamic shellcodes with same job in just a second,that means, you will not get a same code if you use random encodes with same commands, And that make OWASP ZSC one of the best! During the Google Summer of Code we are working on to generate Windows Shellcode and new obfuscation methods. We are working on the next version that will allow you to generate OSX.",
   "Year": "2016",
   "Location": "Europe"
