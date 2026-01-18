@@ -1,7 +1,7 @@
 {
   "Tool Name": "Cloud Sec AI BOT",
   "Description": "One interface. All your clouds: Ask any question to the BOT regarding any security misconfiguration and receive consolidated results from AWS, Azure, and Google Cloud without mastering different CLI syntaxes. Cloud Sec AI Bot helps security engineers of multiple flavors validating any cloud misconfiguration such as exposed public storage, missing MFA configurations, excessive role permissions, and least-privilege policy violations across your entire cloud infrastructure.",
-  "GitHub URL": "https://github.com/nandangupta-security/CloudSecAIBot",
+  "Github URL": "https://github.com/nandangupta-security/CloudSecAIBot",
   "Tracks": [
     "Cloud Security"
   ],

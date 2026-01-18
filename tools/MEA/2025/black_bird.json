@@ -1,7 +1,7 @@
 {
   "Tool Name": "Black Bird",
   "Description": "Blackbird is an open-source OSINT tool for reverse account lookup by username and email across a wide range of online platforms. Integrated with the WhatsMyName project, it covers more than 600 sites and delivers verifiable evidence for digital investigations and online footprint mapping. Alongside its robust search and export features, Blackbird includes a *built-in AI analysis tool with a free daily quota*, allowing investigators to quickly interpret results and uncover patterns with zero extra setup.",
-  "GitHub URL": "https://github.com/p1ngul1n0/blackbird",
+  "Github URL": "https://github.com/p1ngul1n0/blackbird",
   "Tracks": [
     "Arsenal"
   ],

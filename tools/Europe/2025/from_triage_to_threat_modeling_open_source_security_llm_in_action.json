@@ -1,7 +1,7 @@
 {
   "Tool Name": "From Triage to Threat Modeling: Open-Source Security LLM in Action",
   "Description": "Security teams are drowning in alert noise, manual triage, and time-consuming reviews, while attackers are moving with speed and precision. This demo introduces an open-source, instruction-tuned Large Language Model (LLM), purpose-built to assist security practitioners across both SOC and Offensive Security workflows.",
-  "GitHub URL": "https://github.com/RobustIntelligence/foundation-ai-cookbook/tree/main",
+  "Github URL": "https://github.com/RobustIntelligence/foundation-ai-cookbook/tree/main",
   "Tracks": [
     "AI, ML & Data Science"
   ],

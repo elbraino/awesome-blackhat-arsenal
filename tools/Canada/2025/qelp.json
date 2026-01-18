@@ -1,0 +1,9 @@
+{
+  "Tool Name": "QELP",
+  "Description": "Threat actors frequently target ESXi servers to disrupt business environments and deploy ransomware to encrypt datastores. We have identified common tactics and techniques that threat actors have used to disrupt services on ESXi servers. Some of these TTPs include enabling SSH to access ESXi servers remotely, changing root user passwords to disrupt access to ESXi servers, and deploying ransomware binaries to encrypt ESXi servers and datastores. Detecting this malicious activity can be time consuming and challenging, especially when dealing with a significant number of logs from multiple ESXi servers or partial encryption of the logs during ransomware incidents.",
+  "GitHub URL": "",
+  "Tracks": ["Incident Response"],
+  "Speakers": ["Phalgun Kulkarni"],
+  "Region": "Canada",
+  "Year": "2025"
+}

@@ -1,7 +1,7 @@
 {
   "Tool Name": "AI-augmented incident response",
   "Description": "Security teams drown in signals while attacks move across cloud infrastructure. This hands-onArsenal Lab turns that reality into a capture-the-flag challenge on a live AWS environmentrunning Amazon EKS. Participants will use an AI investigation agent - backed by Multiple MCP(Model Context Protocol) tool servers to triage Falco runtime detections, correlate Kubernetesaudit events, map AWS-side activity, and reconstruct the attack path. The CTF simulates arealistic intrusion (Ports scanning -> vulnerability/misconfiguration exploit -> lateral movement ->data exfil), and the agent guides each step by orchestrating queries against the tool stack,explaining reasoning, and generating next-best actions. The top 3 scorers win prizes.",
-  "GitHub URL": "",
+  "Github URL": "",
   "Tracks": [
     "Arsenal"
   ],

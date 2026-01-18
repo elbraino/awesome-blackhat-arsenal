@@ -2,6 +2,7 @@
   "Tool Name": "Angry Magpie",
   "Description": "Angry Magpie is a DLP bypass simulator demonstrating data splicing techniques that evade enterprise DLP solutions.",
   "GitHub URL": "https://github.com/SquareX-Labs/angry-magpie",
+
   "Tracks": [
     "Arsenal"
   ],

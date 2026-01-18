@@ -1,0 +1,17 @@
+{
+  "Tool Name": "Promptfoo",
+  "Description": "Promptfoo is an offensive security tool designed to test applications built on large language models (LLMs). Leveraging the latest adversarial ML research, Promptfoo uses fine-tuned models to generate unique, application-specific payloads to exploit 60+ Gen AI vulnerability types. More than 80,000 developers use Promptfoo, including at major companies like Shopify, OpenAI, Anthropic, and Twilio.",
+  "GitHub URL": "",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Michael D'Angelo",
+    "Vanessa Sauter",
+    "Lily Liu",
+    "Guangshuo Zang",
+    "Will"
+  ],
+  "Region": "Canada",
+  "Year": "2025"
+}
