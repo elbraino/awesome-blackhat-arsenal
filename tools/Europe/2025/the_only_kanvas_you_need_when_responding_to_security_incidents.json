@@ -1,7 +1,7 @@
 {
   "Tool Name": "The Only 'Kanvas' You Need When Responding to Security Incidents",
   "Description": "KANVAS is an open-source IR (Incident Response) case management tool with an intuitive desktop interface, built using Python. It provides a unified workspace for investigators working with SOD (Spreadsheet of Doom) or similar spreadsheets, enabling key workflows to be completed without switching between multiple applications. Kanvas supports many external lookups, making it easier to add context during investigations.",
-  "GitHub URL": "https://github.com/WithSecureLabs/Kanvas",
+  "Github URL": "https://github.com/WithSecureLabs/Kanvas",
   "Tracks": [
     "Incident Response"
   ],
