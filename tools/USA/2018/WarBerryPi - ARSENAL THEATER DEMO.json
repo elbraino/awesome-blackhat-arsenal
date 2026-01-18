@@ -8,7 +8,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/secgroundzero/warberry",
+  "Github URL": null,
   "Description": "WarBerryPi was built to be used as a hardware implant during red teaming scenarios where we want to obtain as much information as possible in a short period of time while being as stealthy as possible. The WarBerryPi also includes an intuitive interactive reporting module for viewing the results of each red teaming engagement.",
   "Year": "2018",
   "Location": "USA"

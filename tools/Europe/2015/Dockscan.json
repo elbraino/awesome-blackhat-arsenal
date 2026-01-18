@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-EU-15",
-  "Github URL": "https://github.com/kost/dockscan",
+  "Github URL": null,
   "Description": "Dockscan is a vulnerability assessment and audit tool for Docker and container installations. It will report on docker installation security issues as well as docker container configurations. The tool helps both system administrator administering Docker to help them secure Docker, as well as security auditors and penetration testers who need to audit Docker installation.",
   "Year": "2015",
   "Location": "Europe"

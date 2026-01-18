@@ -7,7 +7,7 @@
     "Track: Human Factors"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/ManhNho/Faceless",
+  "Github URL": null,
   "Description": "Faceless is a deepfake detection system.\n\nThe proposed deepfake detection model is based on the EfficientNet structure with some customizations. It is hoped that an approachable solution could remind Internet users to stay secure against fake contents and counter the emergence of deepfakes.\nThe deepfake dataset were used in the final model is Celeb-DF",
   "Year": "2022",
   "Location": "USA"

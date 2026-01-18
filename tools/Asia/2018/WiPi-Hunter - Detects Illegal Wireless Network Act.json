@@ -8,7 +8,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ASIA-18",
-  "Github URL": "https://github.com/xcod3/WiPi-Hunter-ToolKit",
+  "Github URL": null,
   "Description": "WipiHunter is developed for detecting illegal wireless network activities; howver, it shouldn't be seen only as a piece of code. Instead, actually it is a philosophy. You can infer from this project new wireless network illegal activity detection methods. New methods, new ideas and different point of views can be obtained from this project.Example: WiFi Pineapple attacks, Fruitywifi, mana-toolkit, karma attack. WiPi-Hunter Modules:PiSavar: Detects activities of PineAP module and starts deauthentication attack (for fake access points - WiFi Pineapple Activities Detection)PiFinger: Searches for illegal wireless activities in networks you are connected and calculate wireless network security score (detect wifi pineapple and other fakeAPs)PiDense: Monitor illegal wireless network activities. (Fake Access Points)PiKarma: Detects wireless network attacks performed by KARMA module (fake AP). Starts deauthentication attack (for fake access points)PiNokyo: If threats like wifi pineapple attacks or karma attacks are active around, users will be informed about these threats.",
   "Year": "2018",
   "Location": "Asia"

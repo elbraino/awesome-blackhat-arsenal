@@ -10,7 +10,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/SpecterOps/ghost_scout",
+  "Github URL": null,
   "Description": "Custom phishing emails consistently outperform generic pretexts on click-through metrics. In the past crafting custom emails to targets involved a lot of tedious OSINT to identify good targets, understand their interests and motivations, and write a customized message that would speak to them on a personal level. This method is simple, but highly effective. The only drawback is the time it takes; until now. We've written some simple OSINT tools so that an AI agent can do the OSINT grunt work for us, collect detailed profiles on our targets, and even write phishing emails for us.",
   "Year": "2025",
   "Location": "USA"

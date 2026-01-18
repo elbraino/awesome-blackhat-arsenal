@@ -1,7 +1,7 @@
 {
   "Tool Name": "MeetC2",
   "Description": "A serverless command & control (C2) framework that leverages Google Calendar APIs, as a covert communication channel between operators and a compromised system.",
-  "GitHub URL": "https://github.com/iammaguire/MeetC2",
+  "GitHub URL": "",
   "Tracks": [
     "Arsenal"
   ],

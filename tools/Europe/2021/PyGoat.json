@@ -8,7 +8,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/adeyosemanputra/pygoat",
+  "Github URL": null,
   "Description": "PyGoat -\nIntentionally vuln web Application Security in django. our roadmap build intentionally vuln web Application in django. The Vulnerability can based on OWASP top ten\n\u2022 A1:2017-Injection\n\u2022 A2:2017-Broken Authentication\n\u2022 A3:2017-Sensitive Data Exposure\n\u2022 A4:2017-XML External Entities (XXE)\n\u2022 A5:2017-Broken Access Control\n\u2022 A6:2017-Security Misconfiguration\n\u2022 A7:2017-Cross-Site Scripting (XSS)\n\u2022 A8:2017-Insecure Deserialization\n\u2022 A9:2017-Using Components with Known Vulnerabilities\n\u2022 A10:2017-Insufficient Logging & Monitoring",
   "Year": "2021",
   "Location": "Europe"

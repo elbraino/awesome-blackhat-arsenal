@@ -8,7 +8,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ASIA-16",
-  "Github URL": "https://github.com/13o-bbr-bbq/SAIVS",
+  "Github URL": null,
   "Description": "SAIVS is an artificial intelligence to find vulnerabilities in Web applications. The goal of SAIVS is to find vulnerabilities like a human security engineer. In January 2016, We developed the beta SAIVS. Beta SAIVS has the following capabilities:It can crawl simple Web applications. SAIVS can crawl Web applications that include dynamic pages such as \"login,\" \"create account\" and \"information search\".It can find for vulnerabilities. SAIVS can find vulnerabilities such as \"Cross Site Scripting\" and \"SQL Injection\".It can output a scanning report. SAIVS can output a scanning report. The report includes target URLs and location of the found vulnerabilities.SAIVS can also perform the following human-like actions: \"SAIVS recognizes the type of the page. If it crawls the login page without having a login credential, it creates login credential in the create account page. After it log in with the created login credentials, it crawls the rest of the pages and scans for vulnerabilities. When it finishes all pages, it outputs a scanning report.\" SAIVS uses machine learning algorithms such as Naive Bayes, Q-Learning, Multi-layer Perceptron in order to achieve one of the aforementioned capabilities: It can crawl simple Web applications. Our session will explain how this ability was made possible by the machine learning algorithms.",
   "Year": "2016",
   "Location": "Asia"

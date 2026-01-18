@@ -7,7 +7,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ASIA-17",
-  "Github URL": "https://github.com/perunworks/zenected",
+  "Github URL": null,
   "Description": "Zenected is a cloud-based security threat protection service. It's delivered through a set of pre-configured services. Once a user connects to Zenected, that user's network traffic is filtered to keep the bad things out (e.g. phishing sites, malware). The only thing this a user has to configure on the endpoint device (be it a mobile device, a desktop or laptop or IoT device) is your VPN connection. Oh, btw - because you are using VPN, your network traffic is kept secret even if you connect using your favorite coffee store WFi.All mentioned services are updated every hour with a new set of threat indicators. The feeds are delivered by Perun Works.Zenected is easy to manage. It uses a web front-end for administrators to manage your instance. An administrator user can:Manage Zenected users including adding more admin usersBlacklist URLs or domain names that you don't want your users to accessWhitelist URLs or domain names, that were identified as malicious but you still want your users to be able to get to themReview exception requests from usersIf you are a Zenected end-user what you will like about it, is:No need to install additional software on your mobile phone, tablet or laptop \u00e2\u0080\u0093 Zenected uses standard OS features build-in into all modern systemsIf you encounter a certain resource blocked by the system, you can request an exception. Each exception is then reviewed by an administrator.More details available on the webpage: https://zenected.com",
   "Year": "2017",
   "Location": "Asia"

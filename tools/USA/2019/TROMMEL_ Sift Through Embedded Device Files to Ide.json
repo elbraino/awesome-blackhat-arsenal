@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/CERTCC/trommel",
+  "Github URL": null,
   "Description": "TROMMEL sifts through embedded device files to identify potential vulnerable indicators. TROMMEL significantly lessens the manual analysis time of the researcher by automating much of the vulnerability discovery and analysis process.",
   "Year": "2019",
   "Location": "USA"

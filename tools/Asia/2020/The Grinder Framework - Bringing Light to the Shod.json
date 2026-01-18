@@ -8,7 +8,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/sdnewhop/grinder",
+  "Github URL": null,
   "Description": "The security-related search engines like Shodan, Censys or ZoomEye are daily cybersecurity research tools. They can be used to gather information within threat Intelligence, discover vulnerable hosts, craft fingerprints for vulnerability scanners. At the same time, such search engines have some fundamental limitations and constraints leading to blind spots, false negatives and wrong results. It is very disappointing, especially when new research has been started and the cost of a mistake could be days or even weeks spent in the wrong direction.\n\nThe Grinder Framework is an open-source security research toolkit adopted to Internet-wide surveys and allows you to use the full power of tools like Nmap, Shodan, Censys, Vulners, TLS-attacker and bringing the light through tailored scanning and threat intelligence approach. The Grinder was born in the SD-WAN New Hope project when we explored SD-WAN security on the Internet.\n\nIn this talk, we will describe the essence of the Grinder framework and show how you can employ it in your security researches. We will consider the blind spots of the modern search engines, describe non-trivial use cases we worked out during our Internet-scale surveys and illustrate new features by examples from the SD-WAN New Hope, AIsec and DICOMSec projects.",
   "Year": "2020",
   "Location": "Asia"

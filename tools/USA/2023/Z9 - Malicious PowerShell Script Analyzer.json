@@ -8,7 +8,7 @@
     "Malware Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/Sh1n0g1/z9",
+  "Github URL": null,
   "Description": "Reversing a malicious PowerShell script can be a very tedious and time-consuming process, especially when the script is obfuscated. Z9 provides an efficient solution to this problem. It is a PowerShell script analyzer that can quickly deobfuscate the script and determine whether it is malicious or not. Z9 leverages several detection engines to make an informed decision.\n\n* Obfuscation Detection\n* Randomized String Detection\n* URL Extractor\n* Blacklist\n* AI (Logistic Regression)\n* Sandbox",
   "Year": "2023",
   "Location": "USA"

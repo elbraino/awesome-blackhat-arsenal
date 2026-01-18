@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/tombstoneghost/cyber-arsenal47",
+  "Github URL": null,
   "Description": "Our project presents an innovative security suite engineered to revolutionize the landscape of security assessments. Developed primarily in GoLang, our toolkit boasts a comprehensive suite of modules crafted for various security assessment scenarios. Python serves as the orchestrator, seamlessly interfacing with the GoLang modules, thereby establishing a robust bridge between the user interface and the underlying functionality.\nThis tool empowers users with automated scanning capabilities, streamlining the process of identifying vulnerabilities across systems and networks.Through the combination of Python's versatility and GoLang's performance, our solution provides an efficient and effective means of conducting security assessments, catering to the evolving demands of cybersecurity professionals.\nIn summary, our Synergetic Security Suite represents a paradigm shift in security assessment methodologies, offering unparalleled efficiency and effectiveness through its fusion of Python and GoLang technologies.",
   "Year": "2024",
   "Location": "Canada"

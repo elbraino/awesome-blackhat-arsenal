@@ -7,7 +7,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-EU-17",
-  "Github URL": "https://github.com/Yelp/logfeeder",
+  "Github URL": null,
   "Description": "LogFeeder enables the injection of SaaS (Software-as-a-Service) application logs from Google Apps, Duo, Salesforce, Workday and many more into an ELK (Elasticsearch-Logstash-Kibana) cluster for monitoring and alerting. It is also possible to get the logs through AWS SQS Queue integration, which allows more flexibility to manipulate where the logs eventually end up. The automated approach saves security teams a lot of time by collating all the information vis-a-vis individually combing through separate data sources for each service. In addition to this, LogFeeder makes it possible to utilize awesome alerting tools, like ElastAlert (presented at Black Hat USA Arsenal in 2015), for robust alerting in response to suspicious actions. At Yelp, we use LogFeeder as a tool to ingest most of our 3rd party service providers' audit logs into a central SIEM (Security Information and Event Monitoring) system. Paired up with ElastAlert, it is the core of our monitoring and alerting pipeline.",
   "Year": "2017",
   "Location": "Europe"

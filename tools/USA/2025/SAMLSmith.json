@@ -8,7 +8,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/Semperis/SAMLSmith",
+  "Github URL": null,
   "Description": "SAMLSmith is the go-to tool for penetrating SAML applications with response forging. An evolution of the original tooling developed for proof-of-concept of SAML response forging in Entra ID, SAMLSmith takes further research around SAML response forging and combines it into a tool crafted for offensive scenarios.\n\nWhile far from new, enterprises continue to not prioritize the security of how SaaS applications integrate or understand best practices for securing them. With many factors at play, SAML response forging can range from extremely difficult to near impossible for a SOC to detect.\n\nSAMLSmith has a lot of tricks up its sleeve, including:\n- Multiple identity provider response forging\n- AD FS specific response forging mode\n- SAML request processing\n- InResponseTo support\n\nSAMLSmith can be used in several response forging scenarios where the private key material can be obtained. In demonstration of use, we'll explore using SAMLSmith for performing a Golden SAML attack against AD FS. Further, we'll demonstrate the use of SAMLSmith that ties into new research around response forging, penetrating certain types of SaaS applications with even more stealth.\n\nUsing SAMLSmith requires a certain level of knowledge about the target environment, much of which can be gained with other commonly known and used tools that perform reconnaissance against the targeted identity provider.",
   "Year": "2025",
   "Location": "USA"

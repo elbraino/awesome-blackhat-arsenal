@@ -8,7 +8,7 @@
     "Malware Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/cado-security/cloudgrep",
+  "Github URL": null,
   "Description": "cloudgrep searches cloud storage.\n\nIt currently supports searching log files, optionally compressed with gzip (.gz) or zip (.zip), in AWS S3, Azure Storage or Google Cloud Storage.\n\nWhy build this?\nDirectly searching cloud storage, without indexing logs into a SIEM or Log Analysis tool, can be faster and cheaper.\nThere is no need to wait for logs to be ingested, indexed, and made available for searching.\nIt searches files in parallel for speed.\nThis may be of use when debugging applications, or investigating a security incident.",
   "Year": "2024",
   "Location": "USA"

@@ -7,7 +7,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-EU-17",
-  "Github URL": "https://github.com/Opt-OSS/NG-NetMS",
+  "Github URL": null,
   "Description": "Why pay tens of thousands $$$ for your network management cybersecurity monitoring software? Get visibility into your networks and complex processes with NG-NetMS. NG-NetMS is an end-to-end network data collection and monitoring platform for your Linux servers, Cisco, Juniper, HP and Extreme routers, switches and firewalls. NG-NetMS is precise, quick and efficient. It collects most complete information about the network inventory, topology, map of IPv4 addresses and provides up-to-date maps. It does this quickly and with minimum hassle. Most importantly, you will be able to collect, process and analyse syslog events, SNMP alarms, NetFlow records both in near-real-time and from the historical archives in a new way. We successfully used NG-NetMS for delivery of network assessment services for our customers worldwide for many years. And now, we want to share this unique and fully functional tool with the community. NG-NetMS is an open source platform available on SourceForge and GitHub and published under GPL3 license. It is not capped in terms of performance or number of nodes. The only limit is the hardware you deploy it on and one's skills.",
   "Year": "2017",
   "Location": "Europe"

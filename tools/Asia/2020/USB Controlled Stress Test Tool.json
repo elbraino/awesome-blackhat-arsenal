@@ -8,7 +8,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/ncw/stressdisk",
+  "Github URL": null,
   "Description": "Windows anti-forensics USB monitoring tool for stress test.",
   "Year": "2020",
   "Location": "Asia"

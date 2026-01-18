@@ -8,7 +8,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "http://github.com/VirusTotal/vt-graph-api",
+  "Github URL": null,
   "Description": "VirusTotal Graph is a free visualization tool built on top of the VirusTotal data set. It understands the relationship between files, urls, domains and ip addresses and it provides an easy interface to pivot and navigate over them. The tool is available for individual researchers and security professionals.\n\nBy exploring and expanding each of the nodes in your graph, you can build the network and see the connections across the samples you are studying. By clicking on the nodes, you can see at a glance the most relevant information for each item. You can also add labels and see an in-depth report by going to VirusTotal Public or VirusTotal Intelligence report.\n\nThe tool can also save a snapshot -as you see in your screen- of the graph, so that you can go back to your investigation any time and share your findings with other users. All saved graphs are public and linked in VirusTotal public report when the file, URL, IP address or domain appear in the graph. This intelligence benefits the entire community.\n\nLearn more here: http://blog.virustotal.com/2018/01/virustotal-graph.html\n\nDemo video: https://www.youtube.com/watch?v=QEqHXU04IkI&feature=youtu.be",
   "Year": "2018",
   "Location": "Europe"

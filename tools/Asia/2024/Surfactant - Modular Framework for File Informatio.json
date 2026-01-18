@@ -7,7 +7,7 @@
     "Track: Code Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/llnl/Surfactant",
+  "Github URL": null,
   "Description": "Surfactant is a modular framework for extracting information from filesystems, primarily for generating an SBOM (Software Bill of Materials). The information extracted can then be used to identify the various vendors or libraries associated with a file, and establish relationships between files. The resulting SBOM can be used for system level impact analysis (such as for IoT, Smart Grid, or ICS devices) of vulnerabilities, and the information gathered can be used to help inform what files to focus on for manual analysis.",
   "Year": "2024",
   "Location": "Asia"

@@ -8,7 +8,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/Telefonica/HomePWN",
+  "Github URL": null,
   "Description": "The hyperconnected world is a reality nowadays. Today, we should consider that companies have a considerable number of these devices within their workplaces or offices. With the famous BYOD (Bring Your Own Device) companies are opening an attack vector that can be exposed or increased by the different devices that employees can carry to the office, either on their body, on a keyring, in their backpack or even on their clothes. The many different technologies that can be used are a vector attack for assailants and Red Team members.\n\nThe emergence of millions of devices, from different nature, have caused changes in the security applied for each of them. Using several technologies between these devices makes security heterogeneous. Bluetooth Low-Energy, WiFi, NFC are just some examples of the technologies being used by millions of devices around our society. Most of them can be found at home or in our offices. Companies are suffering many attacks that can come through a wrong configuration and can be used by an attacker to gain access to other resources within the company itself. HomePwn is a framework that provides several features for auditing and pentesting on devices connected to the Internet using different technologies such: WiFi, Bluetooth Low-Energy, or NFC, among others.\n\nHomePwn is a framework that provides features to audit and pentesting devices that company employees can use in their day-to-day work and inside the same working environment.",
   "Year": "2019",
   "Location": "Europe"

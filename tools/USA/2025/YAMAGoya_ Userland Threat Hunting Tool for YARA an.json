@@ -8,7 +8,7 @@
     "Track: Threat Hunting"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/JPCERTCC/YAMAGoya",
+  "Github URL": null,
   "Description": "Traditional endpoint security solutions often rely on proprietary detection engines and kernel-level drivers, posing two major challenges: (1) inability to utilize community-driven YARA and SIGMA signatures directly, and (2) potential OS instability or vulnerabilities introduced by complex kernel drivers. As a result, analysts struggle to utilize YARA/SIGMA rules for memory scanning and behavior-based threat hunting.\nYAMAGoya addresses these challenges by providing a userland-centric approach that fully supports YARA and SIGMA, including YARA-based memory scanning, without requiring kernel drivers. It enables detection and correlation over multiple events involving files, processes, registry changes, network connections and PowerShell scripts. Once anomalous behavior is detected, YAMAGoya can terminate offending processes or block suspicious communication, enabling rapid incident containment.\nYAMAGoya offers a safer, flexible, and more transparent alternative to traditional kernel-dependent endpoint solutions. This tool can be easily implemented while seamlessly leveraging YARA and SIGMA. This session invites security engineers to experience a userland-only model for hunting evolving threats.",
   "Year": "2025",
   "Location": "USA"

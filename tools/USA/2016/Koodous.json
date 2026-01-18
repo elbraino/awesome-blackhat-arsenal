@@ -8,7 +8,7 @@
     "Track: Android, iOS and Mobile Hacking"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://github.com/HuntDownProject/KoodousFinder",
+  "Github URL": null,
   "Description": "Koodous is a collaborative web platform for Android malware research that combines the power of online analysis tools with social interactions between the analysts over a vast APK repository (at this time, more than 10 million). It also features an Android antivirus app and a public API.Some of the features included in the tool:Navigate the repository using advanced search expressions (developer's certificate and name, hash, package name, etc.) to locate samples of interest.For each sample we provide a set of information: metadata, strings, static and dynamic analysis, etc. This set grows with new features. Also, you can download, tag, comment and vote any sample.As an analyst, you will be able to create Yara rulesets. This rules will be run automatically against any new sample that enter the system (or any other sample on-demand) and you will be notified if a new match occurs. The rules can be set as private, public or social.The Android app detects any threat detected by the community installed in an Android device. Also, it is possible to link the app with your analyst account to create a personal antivirus.There is a free-to-use API and open source Python modules in case you want to interact with the system programmatically.And it is totally free! The presenter will make a live demo of all this features. More information at: https://koodous.com/",
   "Year": "2016",
   "Location": "USA"

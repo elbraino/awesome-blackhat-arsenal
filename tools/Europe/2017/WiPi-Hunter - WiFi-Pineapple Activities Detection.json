@@ -8,7 +8,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-EU-17",
-  "Github URL": "https://github.com/WiPi-Hunter/PiSavar",
+  "Github URL": null,
   "Description": "WiPi-Hunter is WiFi Pineapple Activities Detection Kit. The WiPi kit can detect WiFi-Pineapple using the following techniques.* PineAP Module activities* OPN network density* Default values",
   "Year": "2017",
   "Location": "Europe"

@@ -8,7 +8,7 @@
     "Track: Internet of Things"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/IOActive/laf",
+  "Github URL": null,
   "Description": "IoT deployments continue to grow, and one part of that significant growth is composed of millions of LPWAN (low-power wide-area network) sensors deployed in hundreds of cities (Smart Cities) around the world, also in industries and homes. One of the most used LPWAN technologies is LoRa for which LoRaWAN is the network standard (MAC layer). LoRaWAN is a secure protocol with built in encryption, but implementation issues and weaknesses affect the security of most current deployments.\n\nThis project intends to provide a series of tools to craft, parse, send, analyze and crack a set of LoRaWAN packets in order to audit or pentest the security of a LoraWAN infrastructure.",
   "Year": "2019",
   "Location": "USA"

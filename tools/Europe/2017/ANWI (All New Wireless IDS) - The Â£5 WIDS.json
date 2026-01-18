@@ -7,7 +7,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-EU-17",
-  "Github URL": "https://github.com/anwi-wips/anwi",
+  "Github URL": null,
   "Description": "ANWI is a new type of Wireless Intrusion Detection System which is based on a low cost Wi-Fi module (ESP8266) and can be deployed at the physical perimeter of the coverage area. It allows organizations that cannot afford expensive WIDS solutions to protect their networks at a fraction of the cost.The physical size of the sensors is very small and they can be deployed around the perimeter without drawing attention to themselves. ANWI sensors can detect the most commonly used Wi-Fi attacks including Evil Twin, Jamming using de-authentication frames and send alerts to a central console. The central console can be configured to send email to the administrator upon receiving alerts from any of the configured sensors.ANWI aims to fulfill the need of WIDS which is inexpensive yet can protect against most of the possible attacks. It is easy to setup and deploy and works on \"fire and forget principle.\" Once the sensors have been configured, they can be deployed across the perimeter. The central console keeps monitoring the sensors and in case any of the sensors goes offline an alert is generated as well.In case there is need for physical security alerts along with wireless IDS , Passive InfraRed sensor (PIR) can be used to provide alerts on motion detection at perimeter. ANWI is under active development and new features will be added on regular basis. The current production version includes all the above features.PRESENTATION MATERIALS:https://github.com/SanketKarpe/anwi",
   "Year": "2017",
   "Location": "Europe"

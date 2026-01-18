@@ -8,7 +8,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/Semperis/EntraGoat",
+  "Github URL": null,
   "Description": "EntraGoat is a deliberately vulnerable environment designed to simulate real-world security misconfigurations and attack scenarios in Microsoft Entra ID (formerly Azure Active Directory). Security professionals, researchers, and red teamers can leverage EntraGoat to gain hands-on experience identifying and exploiting identity and access management (IAM) vulnerabilities, privilege escalation paths, and other security flaws specific to cloud-based Entra ID environments.\nEntraGoat is tailored specifically to help security practitioners understand and mitigate the risks associated with cloud identity infrastructures. The project provides a CTF-style learning experience, covering a range of misconfigurations, insecure policies, token abuses, and attack paths commonly exploited in real-world Entra ID breaches.\nBy using EntraGoat, security teams can enhance their skills in Entra ID security, validate detection and response capabilities, and develop effective hardening strategies.",
   "Year": "2025",
   "Location": "USA"

@@ -8,7 +8,7 @@
     "Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/atlas0fd00m/VivisectION",
+  "Github URL": null,
   "Description": "Reverse Engineering and Binary Vulnerability Research can be difficult, daunting, exhausting task, making your eyes bleed.\n\nVivisectION leverages the power of the Vivisect Binary Analysis framework to provide Easy-Buttons for numerous Reversing difficulties, empowering reverse-engineers to achieve greater results, and reducing brain-drain in the process.\n\nVivisectION's core value is based on interactive partial-emulation. Imagine reversing a particularly annoying set of functions deep in the belly of an annoying compiled binary. You may find yourself thinking \"Man, I wish I had this thing in a debugger.\" VivisectION's Partial-Emulation capabilities make your wish come true.\n\nWant to strap in an analysis modules and emulate through code? Easy.\n\nReconstitute Structures and C++ Classes? let's not get crazy!\n\nCome and see....",
   "Year": "2024",
   "Location": "USA"

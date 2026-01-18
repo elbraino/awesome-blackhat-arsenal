@@ -7,7 +7,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-US-13",
-  "Github URL": "https://github.com/d4rkcat/g0tbeef",
+  "Github URL": null,
   "Description": "Multi-threaded Python based ARP Poisoning with an Asynchronous Queue using IPTables and QUEUE deigned to capture HTTP traffic and inject a BeEF hook.",
   "Year": "2013",
   "Location": "USA"

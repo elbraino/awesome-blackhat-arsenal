@@ -7,7 +7,7 @@
     "Track: Code Assessment"
   ],
   "Event": "BH-ASIA-16",
-  "Github URL": "https://github.com/s4n7h0/Halcyon-IDE",
+  "Github URL": null,
   "Description": "Halcyon is the first unofficial IDE for Nmap script development. The existing challenge in developing Nmap Scripts (NSE) is the lack of an IDE that gives easiness in building custom scripts for real world scanning. Halcyon is free to use, java based application that has code intelligence, code builder, auto-completion, debugging and error correction and a bunch of other features similar like other development IDE(s) for traditional programming languages. This research was started to give better development interface/environment to researchers and thus enhance the number of NSE writers in the community. Halcyon IDE can understand Nmap library and traditional LUA syntax as well. At the same time it also comes with an offline Nmap wiki that helps Nmap script writers an easy way to access development library references. Possible repetitive codes such as web crawling, bruteforcing etc., is pre-built in the IDE and this makes easy for script writers to save their time while development majority of test scenarios. The IDE gives options to debug the code, make code error free, export the code to the library and several other pre/post development tasks from within the same interface itself.",
   "Year": "2016",
   "Location": "Asia"

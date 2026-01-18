@@ -9,7 +9,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/J4FSec/In0ri",
+  "Github URL": null,
   "Description": "Have you ever wondered how many ways there are to detect a defacement attack?\n\n- Based on hash\n- Based on signature\n- Differential comparison\n- Machine learning\n\nWell, quite a lot. Nowadays, machine learning have really developed, with increasing agility and accuracy, this is\na new approach in Cyber Security in general which can adapt to new attack techniques.\n\nIn this talk, we will be presenting In0ri - a defacement detection system utilizing image-classification convolutional neural network.\nThere's two ways to deploy and use In0ri:\n- Running off crontab by periodically visiting the URL.\n- Internal agent running off the web server\n\nWith the first method, we can directly check if a path has been defaced or not.\nAs a system administrator, we can use the second method to check a local website with an internal Agent.\n\nIn0ri the first source machine learning project to detect defacement attacks, we will show the process of installing, training and running In0ri. After that, we will show how it succeeds to get high quality of detecting the deface attacks by using deep learning.",
   "Year": "2021",
   "Location": "Europe"
