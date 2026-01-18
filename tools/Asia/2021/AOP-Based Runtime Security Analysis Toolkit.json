@@ -9,7 +9,7 @@
     "iOS and Mobile Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/alipay/AOP-Based-Runtime-Security-Analysis-Toolkit",
   "Description": "We will release an open source runtime security analysis toolkit, aosanalyzer, for Android application. This tool is mainly used to find application security vulnerabilities and privacy leaks that are difficult to find by static APK analysis. The aosanalyzer uses aspect-oriented programming in security technology to insert code into critical paths of the application to record the runtime information (e.g., the stack trace, parameters, UI events, etc.), and then produces a report with security issues highlights. These critical paths are configurable and the aosanalyzer tool includes a default configuration. Developers and security researchers can observe the detailed runtime information of the application to find vulnerability and privacy leak issues without requiring any modification of the APK. Relying on this tool, we have discovered dozens of security vulnerabilities due to lack of parameter validation and privacy leaks issues.",
   "Year": "2021",
   "Location": "Asia"

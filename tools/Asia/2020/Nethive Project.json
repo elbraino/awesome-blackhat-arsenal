@@ -10,7 +10,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/chrisandoryan/Nethive-Project",
   "Description": "The Nethive Project provides a Security Information and Event Management (SIEM) infrastructure empowered by CVSS measurements.\n\nNethive Architecture consists of four main components:\n\n- Nethive Engine monitors every request coming through HTTP protocol to detect and identify any attempt of SQL Injection attacks. It also anonymously monitors every SQL query response to provide a wide range of XSS protection for your server, with both Stored and Reflected XSS attacks fully covered.\n\n- Nethive Auditing watch everything that happens inside your valuable system, with your permission of course. This would detects any strange and suspicious activity inside the system, whether it is a post-exploitation attempt of an attacks, or simply someone you trust is making mistake inside your system.\n\n- Nethive Dashboard provides you with resourceful, sleek user inferface that gives you the advantage of knowing everything. From resource consumption to the recent read-write action, it gives you full detail of what's happening, in near real-time.\n\n- Nethive CVSS analyze the unfortunately already happening attacks and measure its vulnerability metrics, making sure you are ready to put your reports done in no time.",
   "Year": "2020",
   "Location": "Asia"

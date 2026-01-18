@@ -7,7 +7,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-US-15",
-  "Github URL": null,
+  "Github URL": "https://github.com/jtibaquira/nsearch",
   "Description": "Nsearch is a tool that helps you find scripts that are used nmap (nse) it can be searched using the name, category author or combining the parameters. It is also possible to see the documentation of the scripts found, the principal programing is python. You can save your favorites scripts into a db table and set a rank. The tool has an auto installer script for debian (ubuntu, mint, kali linux), Red Hat (Fedora, CentOS), and MacOX. Nsearch is still under developing, the next features for adding are:- Launch nmap from the application using your own list of scripts favorites as a parameters- Release a version for windows- Release a GUI",
   "Year": "2015",
   "Location": "USA"

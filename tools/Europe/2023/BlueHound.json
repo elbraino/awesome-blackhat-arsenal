@@ -9,7 +9,7 @@
     "Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/zeronetworks/BlueHound",
   "Description": "BlueHound helps blue teams pinpoint the security issues that actually matter. By combining information about user permissions, network access and unpatched vulnerabilities, BlueHound reveals the paths attackers would take if they were inside your network",
   "Year": "2023",
   "Location": "Europe"

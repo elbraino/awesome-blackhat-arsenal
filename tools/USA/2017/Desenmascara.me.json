@@ -9,7 +9,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/ecasbas/web-metadata",
   "Description": "DESENMASCARA.ME IS A Super simple web service to analyze websites. In this edition, an open source feed of \"Fake websites\" related with the online counterfeiting fraud will be published. The tool was integrated with VirusTotal, and a SANS research paper about the new feature to detect \"Online counterfeiters\" has been recently published: https://www.sans.org/reading-room/whitepapers/detection/tracking-online-counterfeiters-37697.",
   "Year": "2017",
   "Location": "USA"

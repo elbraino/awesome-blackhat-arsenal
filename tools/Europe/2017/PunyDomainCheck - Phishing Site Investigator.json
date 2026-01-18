@@ -8,7 +8,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-EU-17",
-  "Github URL": null,
+  "Github URL": "https://github.com/anilyuk/punydomaincheck",
   "Description": "This tool was developed to identify Punycode alternatives for legitimate domain names and to check whether if an ongoing phishing campaign is in process. By using its list that is composed from the confusable characters in different charsets, the tool generates possible domain name alternatives with the user-specified settings. After checking if the domain name is linked to a server, the tool then visits the site to perform similarity test with the original site on both HTTP and HTTPS ports. Results are presented to the user with additional information of whois lookups and VirusTotal queries. A live demo of the tool will be presented during the Arsenal session.",
   "Year": "2017",
   "Location": "Europe"

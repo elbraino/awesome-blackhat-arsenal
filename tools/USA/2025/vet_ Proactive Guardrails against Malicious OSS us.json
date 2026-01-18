@@ -7,7 +7,7 @@
     "Track: Malware"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/safedep/vet",
   "Description": "vet is a tool for identifying risks in open source software supply chain. It helps security teams setup policy driven guardrails against vulnerable & malicious code from open sources. Using an in-built code analysis engine, vet is able to identify contextual risks arising due to OSS dependencies specific to an application's code base including protection against malicious \"code\" coming from open source ecosystems.",
   "Year": "2025",
   "Location": "USA"

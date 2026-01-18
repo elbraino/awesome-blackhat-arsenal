@@ -8,7 +8,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-EU-17",
-  "Github URL": null,
+  "Github URL": "https://github.com/CERT-W/certitude",
   "Description": "CERTitude is a Python-based tool which aims at assessing the compromised perimeter during incident response assignments. It allows analysts to perform large scale scans of Windows-based information systems by searching for behavioural patterns described in IOC (Indicator of Compromise) files.Notable features include:Ability to scan hosts in a way that prevents the target workstation from knowing what the investigator is searching forAbility to retrieve some pieces of data from the hostsMultiple scanner instances (for IOCs and/or hash scans) can be run at the same time for parallel scanningBuilt with security considerations in mind (protected database, secure communications with hosts using IPSec)",
   "Year": "2017",
   "Location": "Europe"

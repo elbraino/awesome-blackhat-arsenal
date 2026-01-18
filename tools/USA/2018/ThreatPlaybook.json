@@ -8,7 +8,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/we45/ThreatPlaybook",
   "Description": "Threat Modeling is currently performed as a 'static' exercise, where the security team creates threat models as documents. These documents tend to be largely unused by anyone after the threat model and ends up being a static document. ThreatPlaybook is a \"Threat Modeling as Code\" framework, where you can capture Threat Models in a \"playbook style\" manner. Once you do, you can automatically generate diagrams, use the Threat Models to run application security automation like Vulnerability Scanning, etc.\n\nThe key benefits of ThreatPlaybook is that you can:\n* Codify Threat Models for Iterative Threat Modeling\n* Use Threat Models and Security Test Cases to launch targeted application security automation that can be used in a CI/CD environment or by pen testers who want to automate several tasks in their \"Pentest Pipeline\"\n* Auto-generate Process Flow Diagrams from Codified Threat Models\n* Capture Security Test Cases linked to Threat Modeling\n* Generate reports correlating Threat Models to Vulnerabilities, Security Test Cases and so on.",
   "Year": "2018",
   "Location": "USA"

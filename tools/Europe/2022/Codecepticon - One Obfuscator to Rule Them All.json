@@ -8,7 +8,7 @@
     "Malware Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/sadreck/Codecepticon",
   "Description": "Codecepticon is an obfuscator that works with C#, PowerShell, and VBA (macros), and has been battle-tested for the last 1.5yr against modern ERD and AV technologies with great success. It supports a variety of obfuscation techniques such as renaming classes, and functions, rewriting strings and the tool's command line arguments, and even generating \"English sounding\" variable names using Markov chains. Instead of targeting compiled executables/assemblies, it focuses on the source code and utilizes Roslyn for C#, PS Automation for PowerShell, and ANTLR for VBA, in order to achieve the best possible result.",
   "Year": "2022",
   "Location": "Europe"

@@ -8,7 +8,7 @@
     "Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/IOActive/PinguCrew",
   "Description": "PinguCrew is a web-based fuzzer platform that allows security researchers to test their software for vulnerabilities in a scalable and efficient manner.\n\nPinguCrew runs the tests on the user's own machines, giving them full control over the fuzzing process. This allows for more customization and flexibility, as users can set up their own testing environments with their desired configurations and testing parameters.",
   "Year": "2024",
   "Location": "USA"

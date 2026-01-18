@@ -7,7 +7,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/noddos/noddos",
   "Description": "What if we could stop DDOS attacks before they even make it to the Internet? Noddos can block DDOS traffic in the gateway, router or firewall connecting the home- or enterprise network to the Internet. That's the truly scalable way to stop the botnets. Noddos enables that with open source client software, a big-data platform in the cloud and building a community that can sustain identifying botnets and defining the ACLs that can restrict their traffic flows.",
   "Year": "2017",
   "Location": "USA"

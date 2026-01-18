@@ -9,7 +9,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-EU-17",
-  "Github URL": null,
+  "Github URL": "https://github.com/SecurityFTW/cs-suite",
   "Description": "Nowadays, cloud infrastructure is pretty much the de-facto service used by large/small companies. Most of the major organizations have entirely moved to cloud. With more and more companies moving to cloud, the security of cloud becomes a major concern.While AWS provides you protection with traditional security methodologies and has a neat structure for authorization/configuration, its security is as robust as the person in charge of creating/assigning these configuration policies. As we all know, human error is inevitable and any such human mistake could lead to catastrophic damage to the environment.Few vulnerable scenarios:Your security groups, password policy or IAM policies are not configured properlyS3 buckets are world-readableWeb servers supporting vulnerable ssl ciphersPorts exposed to public with vulnerable services running on themIf root credentials are usedLogging or MFA is disabledAnd many more such scenarios...Knowing all this, audit of AWS infrastructure becomes a hectic task! There are few open source tools that help AWS auditing, but none of them have an exhaustive checklist. Also, collecting, setting up all the tools, and looking at different result sets is a painful task. Moreover, while maintaining big infrastructures, system audit of server instances is a major task as well. CS Suite is a one stop tool for auditing the security posture of the AWS infrastructure and does OS audits as well. CS Suite leverages current open-source tools capabilities and has other missing checks added into one tool to rule them all.",
   "Year": "2017",
   "Location": "Europe"

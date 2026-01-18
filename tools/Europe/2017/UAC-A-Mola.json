@@ -8,7 +8,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-EU-17",
-  "Github URL": null,
+  "Github URL": "https://github.com/Telefonica/uac-a-mola",
   "Description": "UAC-A-Mola is a Framework designed for researching, detecting, exploiting and solving UAC bypass weaknesses. These shortcomings are settled in Microsoft Operating Systems. UAC-A-Mola allows automatizing the detection of a UAC bypass in a computer with Windows 7/8/8.1/10. UAC-A-Mola can run customizable modules that allow automatizing researching looking for UAC bypasses mainly based in Fileless and DLL Hijacking. The framework allows to include modules focused on researching and detection of other types of bypasses. Therefore, UAC-A-Mola has a defensive role to mitigate any possible UAC bypasses in Windows. UAC-A-Mola is written in Python and is a framework that can extend its functionality through a simple interface and its module creation.",
   "Year": "2017",
   "Location": "Europe"

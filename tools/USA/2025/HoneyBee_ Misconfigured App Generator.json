@@ -8,7 +8,7 @@
     "Track: Cloud Security"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/yaaras/honeybee",
   "Description": "Ever felt stuck reinventing Dockerfiles or wondering how to secure your cloud-based applications? HoneyBee fixes that by using LLMs to generate misconfigured-by-design Dockerfiles and Docker Compose manifests for popular cloud apps. Think of it as a handy catalog of pitfalls, drawn from real-world cloud scenarios, ready for you to deploy and learn from. HoneyBee makes spinning up realistic honeypots or testing detection rules (like Nuclei) simple and fast, no matter which cloud provider you're on.\n\nAt the same time, it's remarkably flexible. Want to add your own misconfigurations or support a lesser-known cloud service? Just drop in a few details, and HoneyBee's prompts will guide you through creating a custom setup. By automating the nitty-gritty of container builds, you can focus on exploring the actual vulnerabilities, fine-tuning your detection logic, and educating your team on cloud security best practices. No more wrestling with complex syntax or half-baked containers - HoneyBee gives you fully working examples tailored to your needs, so you can deepen your security insights without the usual Docker hassle.",
   "Year": "2025",
   "Location": "USA"

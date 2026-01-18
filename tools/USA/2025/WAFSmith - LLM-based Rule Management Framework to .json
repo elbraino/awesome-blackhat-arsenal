@@ -8,7 +8,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/tankeehock/wafsmith",
   "Description": "Rule management has been a challenging issue that enterprises face to maintain a highly effective WAF. Poor maintenance of WAF rulesets results in productivity loss and reduced WAF effectiveness which ultimately translates to an enlarged attack surface. WAFSmith was developed to reduce the friction of rule management by leveraging the capabilities of intelligent AI agents to perform tasks to reduce the cognitive burden placed upon human operators. It is a highly advanced LLM-based agent that can perform payload extraction, rule writing, testing, and deployment. Evaluation performed with proven rulesets such as ModSecurity's CRS, shows significant security improvements introduced by WAFSmith, demonstrating real-world impact. The methodology adopted by WAFSmith proved to be robust and reliable which can be easily retrofitted to suit other rule-management use cases such as IDPS Rules. WAFSmith is designed to enhance Blue Team's cyber defense investments through a high degree of intelligent operations in the domain of rule management. The by-products in the development of WAFSmith such as the Prompts and ModSecurity rules serve as valuable contributions to the Open-Source community.",
   "Year": "2025",
   "Location": "USA"

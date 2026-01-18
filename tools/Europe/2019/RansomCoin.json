@@ -8,7 +8,7 @@
     "Track: Data Forensics and Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/Concinnity-Risks/RansomCoinPublic",
   "Description": "Most ransomware analysis is focused on the malware, but what if you are *just* chasing the money? You want those cryptocurrency addresses and thos other IoCs fast, and you don't particularly care about what exploit is being used this time around.\n\nThis is the tool for you! RansomCoin is a suite of tools designed to scrape IoCs and multiple crytpocurrencies from a large corpus of malware. It can also do ransomnotes, or entire VMs after your dynamic analysis. It can process one file in seconds or 100K files in a few hours. After that, you can use the other tools in the suite, to examine transactions, or pump the dat into MISP instances.",
   "Year": "2019",
   "Location": "Europe"

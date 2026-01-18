@@ -7,7 +7,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/Lifars/gargamel",
   "Description": "Gargamel is a Windows tool for acquiring the forensic evidence from remote Windows or Linux machines using several different methods.\n\nThe program is able to download the following content from remote Windows machine:\n- Windows Event Logs in evt and evtx format,\n- dump of memory,\n- specified files described with the support of expansions (*,?),\n- output of commands specified in a text file,\n- registry,\n- state of firewall,\n- state of network interfaces,\n- logged on users,\n- running processes,\n- active network connections,\n\nWhen targeting the remote Linux machine, the program will download:\n- content of /var/log/directory\n- specified files described with the support of expansions (*,?),\n- output of commands specified in a text file,\n- state of firewall,\n- state of network interfaces,\n- logged on users,\n- running processes,\n- active network connections,\n\n\nGargamel supports 5 connection methods, naming PowerShell remoting, WMI, PsExec, RDP and SSH (with SCP).",
   "Year": "2020",
   "Location": "USA"
