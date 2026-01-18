@@ -9,7 +9,7 @@
     "ML & Data Science"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/mandiant/harbinger",
   "Description": "Tired of juggling multiple tools and struggling with data overload during red teaming engagements? Harbinger is an AI-powered platform that streamlines your workflow by integrating essential components, automating tasks, and providing intelligent insights. It consolidates data from various sources, automates playbook execution, and uses AI to suggest your next moves, making red teaming more efficient and effective. With Harbinger, you can focus on what matters most \u2013 achieving your objectives and maximizing the impact of your assessments.",
   "Year": "2025",
   "Location": "USA"

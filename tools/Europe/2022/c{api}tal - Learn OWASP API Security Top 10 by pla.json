@@ -9,7 +9,7 @@
     "Code Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/Checkmarx/capital",
   "Description": "APIs are a critical part of modern mobile, SaaS, and web applications and can be found in customer-facing, partner-facing, and internal applications.\n\nBy nature, APIs expose application logic and sensitive data, potentially leading to data breaches, account takeovers, and much more.\n\nBecause of this, APIs have increasingly become a target for attackers. Without secure APIs, organizations would face many security risks and rapid innovation would be impossible.\n\nIt is extremely important to be aware of the OWASP API top 10 risks and enforce proper API security mitigations for your APIs. Therefore, we developed c{api}tal - an Open Source API training and learning platform by Checkmarx.\n\nc{api}tal is a built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.\n\nIn DefCon30, 2022, we first introduced c{api}tal to the world by conducting an API security CTF event to allow users to learn about the API security top 10 risks and exploit them in an isolated, vulnerable platform. Now we're open sourcing it.\n\nIn this session, you will learn about:\n- The OWASP API top 10 risks\n- c{api}tal overview\n- Demo of exploiting one of the OWASP API top 10 risks\n- How to mitigate API risks to keep your APIs safe",
   "Year": "2022",
   "Location": "Europe"

@@ -9,7 +9,7 @@
     "Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/Telefonica/OMLASP",
   "Description": "Generally, when deploying applications that use Machine Learning or Deep Learning algorithms, only security audits check for common vulnerabilities. However, these algorithms are also exposed to other vulnerabilities or weaknesses that attackers could exploit. A framework, called OMLASP - Open Machine Learning Application Security Project, is being developed to gather a list of attack and mitigation techniques for these algorithms. This Framework aims to become a standard for auditing Machine Learning algorithms and has been divided into the following two sections:\n\n\u2022 Security: the attack surface and attack scenarios will be defined and the capabilities and goals of the attackers. The different attack and defense techniques will be described in-depth to define a methodology to perform an audit of these algorithms.\n\n\u2022 Biases: the reasons, types, and solutions will be explained in detail to define a methodology to minimize them. This part is still under development.",
   "Year": "2022",
   "Location": "Europe"

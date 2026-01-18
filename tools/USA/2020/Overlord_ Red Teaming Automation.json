@@ -8,7 +8,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/qsecure-labs/overlord",
   "Description": "Overlord provides a python-based console CLI which is used to build Red Teaming infrastructure in an automated way. The user has to provide inputs by using the tool\u2019s modules (e.g. C2, Email Server, HTTP web delivery server, Phishing server etc.) and the full infra / modules and scripts will be generated automatically on a cloud provider of choice. Currently supports AWS and Digital Ocean.\n\nLinks:\n- GitHub repository - https://github.com/qsecure-labs/overlord\n- A demo infrastructure - https://blog.qsecure.com.cy/posts/overlord/\n- Full documentation of the tool - https://github.com/qsecure-labs/overlord/wiki\n\nAcknowledgments:\nThis project could not be created without the awesome work for Marcello Salvati @byt3bl33d3r with the RedBaron Project. That is the reason why we are referencing the name of RedBaron on our project as well.\nAs Marcello stated on his acknowledgments, further thanks to:\n1. @_RastaMouse's two serie's blogpost on 'Automated Red Team Infrastructure Deployment with Terraform' Part 1 and 2\n2. @bluscreenofjeff's with his amazing Wiki on Read Team Infrastucture\n3. @spotheplanet's blog post on Red team infrastructure",
   "Year": "2020",
   "Location": "USA"
