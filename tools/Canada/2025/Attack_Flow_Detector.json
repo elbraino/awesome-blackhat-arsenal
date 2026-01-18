@@ -1,0 +1,9 @@
+{
+  "Tool Name": "Attack Flow Detector",
+  "Description": "Attack Flow Detector is an open-source tool designed to help SOC teams detect coordinated, multi-stage attacks hiding in a sea of false positives and disjointed alerts. It maps logs and alerts to MITRE ATT&CK Techniques using explainable NLP models, clusters them into contextualized \"attack steps\" with temporal and spatial logic, and then sequences them into full attack chains using Markovian and graph-based models. It outputs human-readable tickets: FP (false positive), Incident, and full Attack Stories. No black-box AI or LLMs—just explainable, scalable logic designed for real-world SOC pipelines.",
+  "GitHub URL": "",
+  "Tracks": ["AI, ML & Data Science"],
+  "Speakers": ["Ezzeldin Tahoun"],
+  "Region": "Canada",
+  "Year": "2025"
+}

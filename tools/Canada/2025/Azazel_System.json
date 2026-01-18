@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Azazel System",
+  "Description": "Azazel System is a portable cybersecurity gateway designed to implement tactical delaying actions by leveraging cyber-scapegoat deception. Unlike traditional honeypots that passively observe attacks or decoy servers that mislead adversaries, Azazel actively absorbs, controls, and delays attacks, providing defenders with critical response time.",
+  "GitHub URL": "",
+  "Tracks": [
+    "Network"
+  ],
+  "Speakers": [
+    "Makoto SUGITA"
+  ],
+  "Region": "Canada",
+  "Year": "2025"
+}

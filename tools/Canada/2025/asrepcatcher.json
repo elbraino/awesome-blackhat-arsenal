@@ -1,0 +1,10 @@
+{
+  "Tool Name": "ASRepCatcher",
+  "Description": "The approach here involves leveraging the fact that Kerberos traffic is unencrypted, eavesdropping on the network for Kerberos authentication attempts, forcing RC4 downgrade by manipulating the negotiation process, and finally cracking AS-REP messages. Although simple in nature, the technique is remarkably effective.
+",
+  "GitHub URL": "",
+  "Tracks": ["Exploitation and Ethical Hacking"],
+  "Speakers": ["Yassine Oukessou"],
+  "Region": "Canada",
+  "Year": "2025"
+}

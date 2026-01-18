@@ -1,0 +1,9 @@
+{
+  "Tool Name": "Pomerium",
+  "Description": "Pomerium is an open source context-aware access proxy that applies real-time Zero Trust policies to infrastructure access across multiple protocols. This minor update introduces **native** SSH support via ephemeral, certificate-based authentication bringing the same policy-driven access controls used for web apps to secure shell access without relying on static SSH keys or bastion hosts.",
+  "GitHub URL": "",
+  "Tracks": ["Cloud Security"],
+  "Speakers": ["Denis Mishin"],
+  "Region": "Canada",
+  "Year": "2025"
+}

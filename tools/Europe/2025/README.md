@@ -1,35 +1,21 @@
 # Europe 2025
 ---
 📍 This document lists cybersecurity tools demonstrated during the **Black Hat Arsenal 2025** event held in **Europe**.
-Tools are categorized based on their **track theme**, such as AI/ML, Cloud Security, Web AppSec, etc.
+Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.
 
 ## 📚 Contents
-- [AI, ML & Data Science](#ai-ml--data-science)
-- [Arsenal Labs](#arsenal-labs)
-- [Cloud Security](#cloud-security)
-- [Code Assessment](#code-assessment)
-- [Digital Forensics](#digital-forensics)
-- [Exploitation and Ethical Hacking](#exploitation-and-ethical-hacking)
-- [Hardware/Embedded](#hardwareembedded)
-- [Incident Response](#incident-response)
-- [Malware](#malware)
-- [Network](#network)
-- [OSINT - Open Source Intelligence](#osint---open-source-intelligence)
-- [Privacy](#privacy)
-- [Reverse Engineering](#reverse-engineering)
-- [Risks](#risks)
-- [Threat Hunting](#threat-hunting)
-- [Vulnerability Assessment](#vulnerability-assessment)
-- [Web AppSec](#web-appsec)
+- [🔵 Blue Team & Detection](#🔵-blue-team-detection)
+- [🔴 Red Teaming](#🔴-red-teaming)
+- [🌐 Web/AppSec](#🌐-webappsec)
+- [🔍 OSINT](#🔍-osint)
+- [🧠 Reverse Engineering](#🧠-reverse-engineering)
+- [⚙️ Miscellaneous / Lab Tools](#⚙️-miscellaneous--lab-tools)
 
 ---
-## AI, ML & Data Science
-<details><summary><strong>A.I.G（AI-Infra-Guard）</strong></summary>
 
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: AI, ML & Data Science](https://img.shields.io/badge/Category:%20AI,%20ML%20&%20Data%20Science-orange) ![Wu Huiyu](https://img.shields.io/badge/Wu%20Huiyu-informational) ![Cheng Huangsheng](https://img.shields.io/badge/Cheng%20Huangsheng-informational) ![Zheng Xing](https://img.shields.io/badge/Zheng%20Xing-informational)
+## 🔵 Blue Team & Detection
 
-🔗 **Link:** [A.I.G（AI-Infra-Guard）](https://github.com/Tencent/AI-Infra-Guard)  
-📝 **Description:** A.I.G（AI-Infra-Guard） is an open-source security assessment tool designed to identify and mitigate vulnerabilities in AI infrastructure. It provides comprehensive scanning capabilities for AI models, data pipelines, and deployment environments, ensuring robust security measures are in place to protect against potential threats.
+<details><summary><strong>Cloud Console Threat Mapper</strong></summary>
 
 </details>
 
@@ -116,9 +102,11 @@ Tools are categorized based on their **track theme**, such as AI/ML, Cloud Secur
 
 </details>
 
-<details><summary><strong>ThreatShield – The Intelligent Way of Threat Modelling</strong></summary>
+<details><summary><strong>PhantomC2</strong></summary>
 
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Arsenal Labs](https://img.shields.io/badge/Category:%20Arsenal%20Labs-purple) ![Satyam Nagpal](https://img.shields.io/badge/Satyam%20Nagpal-informational) ![Sayooj Nagpal](https://img.shields.io/badge/Sayooj%20Nagpal-informational) ![Ashwin Shenoi](https://img.shields.io/badge/Ashwin%20Shenoi-informational)
+![Europe 2025](https://img.shields.io/badge/Europe%202025-blue)
+![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red)
+![Author](https://img.shields.io/badge/Author-informational)
 
 🔗 **Link:** [ThreatShield – The Intelligent Way of Threat Modelling](https://drive.google.com/file/d/1mv9U3_AA2lqANvcbmAG1c11hVQ7gfKz8/view)
 📝 **Description:** AI-powered threat modeling platform with automated risk assessment.
@@ -132,11 +120,13 @@ Tools are categorized based on their **track theme**, such as AI/ML, Cloud Secur
 🔗 **Link:** [Models as Malware: Attacking and Defending the AI Supply Chain](https://gitfront.io/r/nathchan/T2X8o9arc4tX/blackhat-europe-arsenal-2025/) 
 📝 **Description:** Framework for detecting and defending against malicious AI models in supply chains.
 
-</details>
+## 🌐 Web/AppSec
 
-<details><summary><strong>WHIDBOARD: Plug It In, Set It Up & Get Ready to Hack!</strong></summary>
+<details><summary><strong>API Specter</strong></summary>
 
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Arsenal Labs](https://img.shields.io/badge/Category:%20Arsenal%20Labs-purple) ![Luca Bongiorni](https://img.shields.io/badge/Luca%20Bongiorni-informational)
+![Europe 2025](https://img.shields.io/badge/Europe%202025-blue)
+![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-green)
+![Author](https://img.shields.io/badge/Author-informational)
 
 🔗 **Link:** [WHIDBOARD: Plug It In, Set It Up & Get Ready to Hack!](https://github.com/whid-injector/WHIDBOARD)
 📝 **Description:** Portable hardware hacking toolkit with plug-and-play capabilities.
@@ -322,9 +312,11 @@ Tools are categorized based on their **track theme**, such as AI/ML, Cloud Secur
 
 </details>
 
-<details><summary><strong>Ghosts in the DOM: Hunting and Exploiting Hidden postMessage Listeners Using FrogPost Extension</strong></summary>
+<details><summary><strong>ObfusXray</strong></summary>
 
-![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: Exploitation and Ethical Hacking](https://img.shields.io/badge/Category:%20Exploitation%20and%20Ethical%20Hacking-red) ![Lidor Ben Shitrit](https://img.shields.io/badge/Lidor%20Ben%20Shitrit-informational) ![Assaf Levkovich](https://img.shields.io/badge/Assaf%20Levkovich-informational)
+![Europe 2025](https://img.shields.io/badge/Europe%202025-blue)
+![Category: 🧠 Reverse Engineering](https://img.shields.io/badge/Category:%20🧠%20Reverse%20Engineering-purple)
+![Author](https://img.shields.io/badge/Author-informational)
 
 🔗 **Link:** [Ghosts in the DOM: Hunting and Exploiting Hidden postMessage Listeners Using FrogPost Extension](https://github.com/thisis0xczar/FrogPost)  
 📝 **Description:** Browser extension for detecting and exploiting hidden postMessage listeners.
