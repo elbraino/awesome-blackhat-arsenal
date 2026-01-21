@@ -29,6 +29,7 @@ Whether you're in red teaming, blue teaming, appsec, or OSINT — this list help
 - [2022](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Asia/2022/README.md)
 - [2023](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Asia/2023/README.md)
 - [2024](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Asia/2024/README.md)
+- [2025](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Asia/2025/README.md)
 ### Canada
 - [2023](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Canada/2023/README.md)
 - [2024](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Canada/2024/README.md)
