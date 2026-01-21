@@ -1,0 +1,9 @@
+{
+  "Tool Name": "JARY",
+  "Description": "JARY is a runtime for creating .jary rules to search and correlate log data from external sources. It allows users to define structured rules that filter, match, and analyze log entries to support data analysis and automation.",
+  "GitHub URL": "",
+  "Tracks": ["Network Defense"],
+  "Speakers": ["Muhammad Raznan", "Budiman Budiman", "Nadia Nadia"],
+  "Region": "",
+  "Year": "2025"
+}

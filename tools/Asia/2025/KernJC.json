@@ -1,0 +1,9 @@
+{
+  "Tool Name": "KernJC",
+  "Description": "Linux kernel vulnerability reproduction is a critical task in system security. To reproduce a kernel vulnerability, the vulnerable environment and the Proof of Concept (PoC) program are needed. Most existing research focuses on the generation of PoC, while the construction of environment is overlooked. However, establishing an effective vulnerable environment to trigger a vulnerability is challenging.",
+  "GitHub URL": "",
+  "Tracks": ["Vulnerability Assessment"],
+  "Speakers": ["Bonan Ruan", "Jiahao Liu", "Chuqi Zhang", "Zhenkai Liang"],
+  "Region": "",
+  "Year": "2025"
+}

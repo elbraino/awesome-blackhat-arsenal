@@ -1,0 +1,9 @@
+{
+  "Tool Name": "GitArmor",
+  "Description": "GitArmor is a policy as code tool, that helps companies,teams and open-source creators, evaluate and enforce their GitHub (only for now) security posture at repository or organization level. Using policies defined using yml, GitArmor can run as CLI, GitHub action or GitHub App, to unify visibility into DevOps security posture and strengthen resource configurations as part of the development cycle.",
+  "GitHub URL": "",
+  "Tracks": ["Code Assessment"],
+  "Speakers": ["Davide Cioccia", "Stefan Petrushevski"],
+  "Region": "",
+  "Year": "2025"
+}
