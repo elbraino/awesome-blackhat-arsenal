@@ -1,0 +1,9 @@
+{
+  "Tool Name": "CompatrIoT",
+  "Description": "CompartIoT is an open-source hardware security training platform that serves as a dedicated target for learning real-world hardware security techniques. Built around dual microcontrollers (STM32 and ESP32) design, this training board enables security researchers, hobbyists, and students to practice protocol analysis, firmware exploitation, and hardware security assessment through comprehensive hands-on labs.",
+  "GitHub URL": "",
+  "Tracks": ["Arsenal Lab", "Hardware/Embedded"],
+  "Speakers": ["Sreesankar S", "Season Cherian"],
+  "Region": "",
+  "Year": "2025"
+}

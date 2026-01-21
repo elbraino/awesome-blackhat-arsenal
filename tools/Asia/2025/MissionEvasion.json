@@ -1,0 +1,9 @@
+{
+  "Tool Name": "MissionEvasion",
+  "Description": "MissionEvasion is a proof-of-concept tool designed for malware evasion on Windows systems. It leverages advanced techniques like process hollowing and injection to bypass detection mechanisms by executing malicious binaries from the Windows registry. The tool stores the malicious payload in the Windows registry as bytecode, retrieving it directly into memory, and executes it within the context of a legitimate process. This stealthy method is aimed at evading signature-based detection systems and can be used to study potential evasion techniques for red teaming exercises.",
+  "GitHub URL": "",
+  "Tracks": ["Malware Offense"],
+  "Speakers": ["Zeus Chan"],
+  "Region": "",
+  "Year": "2025"
+}
