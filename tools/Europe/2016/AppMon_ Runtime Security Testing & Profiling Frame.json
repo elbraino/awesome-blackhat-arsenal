@@ -4,10 +4,10 @@
     "Nishant Das Patnaik"
   ],
   "Tracks": [
-    "Track: Android, iOS and Mobile Hacking"
+    "Android, iOS and Mobile Hacking"
   ],
   "Event": "BH-EU-16",
-  "Github URL": null,
+  "Github URL": "https://github.com/dpnishant/appmon",
   "Description": "AppMon is a runtime security testing & profiling framework for macOS, iOS and android apps. It is useful for mobile app penetration testers to validate the security issues report by a source code scanner by validating them by inspecting the API calls at runtime. You may use it for monitoring the app's overall activity during its runtime and focus on things that seem suspicious e.g. information leaks, insecure storage of credentials/secret tokens etc. or insecure implementation of crypto operations or just sniff app's network activity from HTTP to Bluetooth. You may either use one or many of the pre-written user-scripts or quickly learn to write your own scripts modify the app's functionality/logic in the runtime e.g. spoofing the DeviceID, spoofing the GPS co-ordinates, bypassing Apple's TouchID, bypassing root detection etc.We shall demo the features of existing 4 core components: Sniffer, Intruder, Android Tracer & IPA Installer. If there any any additional development to the project we shall include its demo as well.",
   "Year": "2016",
   "Location": "Europe"
