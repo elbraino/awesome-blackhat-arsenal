@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Hardware/Embedded"
   ],
+  "Github URL": "https://github.com/eshard/scared",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/Hsword/Awesome-Machine-Learning-System-Papers/blob/main/README.md",
   "Description": "Side-channel attacks regularly get under the spotlight with large scale exploits such as Spectre, Meltdown or very recently the side-channel exploit on the Google Titan security key.\n\nIn the background, side-channel attacks have been studied and evaluated in embedded products for more than 20 years. Today, the state-the-art includes multiple attack techniques and countermeasures. Still, open resources on side-channel attacks are limited and it is sometimes challenging to get started with this topic which involves a mix of cryptography, security and data science.\n\nWith Scared, our objective is to provide an intuitive Python framework implementing the state-of-the-art side-channel attacks and optimized for analysis of large datasets.\n\nIn addition, the project includes a growing set of Python notebooks which provide an easy entry point to the project with examples of how to use the library and apply it on CTF challenges.\n\nWhether you want to learn more about side-channel attacks, do research, or solve some CTF challenges, Scared provides the right framework for you.",
   "Year": "2021",
   "Location": "Asia"

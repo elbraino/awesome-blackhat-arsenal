@@ -8,8 +8,8 @@
   "Tracks": [
     "Track: Vulnerability Assessment"
   ],
-  "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/ine-labs/AWSDefenderGPT",
+  "Event": "BH-ARSENAL",
   "Description": "AWSDefenderGPT is an AI tool designed to identify and rectify cloud misconfigurations by using Open AI GPT models. AWSDefenderGPT can understand complex queries to detect misconfigurations in cloud environments and provide fixes for them.\n\nThis tool merges the capabilities of automated deployment and configuration modification using AI, along with cloud SDK tools. As a result, it transforms into an AI-powered cloud manager that helps you ensure the security of the cloud environment by preventing misconfigurations. By centralizing the process, users can effortlessly address misconfigurations and excessively permissive policies in a single stage, simplifying handling of potential future threats.",
   "Year": "2024",
   "Location": "Asia"

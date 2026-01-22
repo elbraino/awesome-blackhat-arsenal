@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Vulnerability Assessment"
   ],
+  "Github URL": "https://github.com/redhuntlabs/BucketLoot",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/redhuntlabs/BucketLoot/blob/master/docs/documentation.md",
   "Description": "Thousands of S3 buckets are left exposed over the internet, making it a prime target for malicious actors who may extract sensitive information from the files in these buckets that can be associated with an individual or an organisation. There is limited research or tooling available that leverages such S3 buckets for looking up secret exposures and searching specific keywords or regular expression patterns within textual files.\n\nBucketLoot is an automated S3 Bucket Inspector that can simultaneously scan all the textual files present within an exposed S3 bucket from platforms such as AWS, DigitalOcean etc.\n\nIt scans the exposed textual files for:\n- Secret Exposures\n- Assets (URLs, Domains, Subdomains)\n- Specific keywords | Regex Patterns (provided by the user)\n\nThe end user can even search for string based keywords or provide custom regular expression patterns that can be matched with the contents of these exposed textual files.\n\nAll of this makes BucketLoot a great recon tool for bug hunters as well as professional pentesters.\n\nThe tool allows users to save the output in a JSON format which makes it easier to pass the results as an input to some third-party product or platform.",
   "Year": "2024",
   "Location": "Asia"

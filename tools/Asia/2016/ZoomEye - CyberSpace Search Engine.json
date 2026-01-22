@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: OSINT - Open Source Intelligence"
   ],
+  "Github URL": "https://github.com/RevoltSecurities/ZoomeyeSearch",
   "Event": "BH-ASIA-16",
-  "Github URL": "https://github.com/knownsec/ZoomEye-python",
   "Description": "ZoomEye is a cyberspace search engine released in 2013. Unlike Shodan which only crawls the port fingerprints of Internet-connected devices and does less work on fingerprint parsing, ZoomEye crawls on not only Internet-connected devices, but also websites to get the fingerprints. All of these fingerprints are powered by our two major engines Xmap and Wmap. Xmap is specialized to port scanning, and Wmap focuses on Web Application fingerprint crawling and parsing.We distribute the crawlers running 7/24 across the world, providing both host device and web application searches to the public by crawling and indexing. Users can also achieve integration and automation with our platform API.This talk covers a basic introduction on our crawling and analyzing architecture, some thoughts on scanning crawling strategies, and the major process on parsing and analyzing devices and website fingerprints.To better understand the complexity of the cyberspace, we work hard on fingerprint parsing and analysis to get more detailed and complete metadata. We think that more accurate and formatted data will do great help to our research. Besides, some cases will be demonstrated in comparison with Shodan and Censys.io to prove our strengths.The ZoomEye 101 section introduces how ZoomEye helps to enhance our research or do some hacking stuff. The audience will learn not only the revolution history of ZoomEye, but also some helpful Internet research methodologies.",
   "Year": "2016",
   "Location": "Asia"

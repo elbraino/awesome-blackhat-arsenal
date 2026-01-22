@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Network Defense"
   ],
+  "Github URL": "https://github.com/cconstab?tab=repositories",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/HazyResearch/smoothie/blob/main/tutorials/tutorial.ipynb",
   "Description": "Imagine connecting to a device remotely from anywhere on the planet without having to open any network ports on either end - that translates to having ZERO NETWORK ATTACK SURFACES.\n\nThis is made possible with Atsign's open source No Ports Product suite which is build on the patented Networking 2.0 technology.",
   "Year": "2024",
   "Location": "Asia"

@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Reverse Engineering"
   ],
+  "Github URL": "https://github.com/fkie-cad/FACT_core",
   "Event": "BH-ASIA-18",
-  "Github URL": "https://github.com/fkie-cad/FACT_core/wiki",
   "Description": "The Firmware Analysis and Comparison Tool (FACT) is intended to automate Firmware Security analysis. Thereby, it shall be easy to use (web GUI), extend (plug-in system) and integrate (REST API). When analyzing Firmware, you face several challenges: unpacking, initial analysis, identifying changes towards other versions, find other firmware images that might share vulnerabilities you just found. FACT is able to automate many aspects of these challenges leading to a massive speedup in the firmware analysis process. This means you can focus on the fun part of finding new vulnerabilities, whereas FACT does all the boring stuff for you.Source code: https://protect-eu.mimecast.com/s/FefbCNL66FZqmPNsmynnm?domain=github.comAdditional information: https://protect-eu.mimecast.com/s/siORCOM00sNLmZACv-Iml?domain=fkie-cad.github.io",
   "Year": "2018",
   "Location": "Asia"

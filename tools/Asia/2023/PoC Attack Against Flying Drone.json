@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Hardware/Embedded"
   ],
+  "Github URL": "https://github.com/SSHad0w/drone-pwn",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/lidq92/arxiv-daily",
   "Description": "Advancements in UAV technology are opening new opportunities and applications in various fields of life. However, these advancements are also causing new challenges in terms of security, adaptability, and consistency. Especially the small drones are even suffering from architectural issues and the definition of security and safety issues.\n\n\nMost of the UAS system are using 2.4 or 5.8Ghz for remote connection and video transmission. Counter UAS units always purchase very expensive anti-drone or detection system, eg drone gun. To review the applicability, our team developed an open-source hand crafted device to achieve the task. During the demonstration, DJI smart drone and some custom-made FPV drone will be the target of the attack",
   "Year": "2023",
   "Location": "Asia"

@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: OSINT - Open Source Intelligence"
   ],
+  "Github URL": "https://github.com/cmlh/Maltego-Host.io",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/gitter-badger/Maltego-IPInfo/blob/master/Transform_Hub.xml",
   "Description": "Maltego is a link analysis application of technical infrastructure and social media and enriches disparate sources of Open Source INTelligence (OSINT). Maltego is listed on the Top 10 Security Tools for Kali Linux by Network World and Top 125 Network Security Tools by the Nmap Project. Host.io provides a list of outbound links, backlinks, etc for a given domain name. The integration of Host.io with Maltego displays technical infrastructure in an easy to understand graph format.",
   "Year": "2020",
   "Location": "Asia"

@@ -8,8 +8,8 @@
   "Tracks": [
     "Track: Data Forensics and Incident Response"
   ],
+  "Github URL": "https://github.com/mikepound/enigma",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/amysen/BR_Algothon/blob/master/auth_index.csv",
   "Description": "The team has developed an integrated solution to aid DFIR investigators by swiftly and effectively determining indicators of compromise (IOC) when responding to cyber security incidents, to steer and guide follow up investigations in the right direction. The solution consists of a hardware Bash Bunny for data triage and our software with a trilogy of modules - a security event log analyzer, a PE static analyzer, and an IOC detector. This integrated solution aims to provide automation whenever possible, reducing manual labor and associated errors that may come with it.",
   "Year": "2021",
   "Location": "Asia"

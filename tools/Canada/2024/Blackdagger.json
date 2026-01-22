@@ -8,8 +8,8 @@
   "Tracks": [
     "Track: Vulnerability Assessment"
   ],
+  "Github URL": "https://github.com/ErdemOzgen/blackdagger",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/ErdemOzgen",
   "Description": "Blackdagger is a cutting-edge automation tool designed for orchestrating complex workflows across DevOps, DevSecOps, MLOps, MLSecOps, and Continuous Automated Red Teaming (CART) environments. Utilizing a declarative YAML format, it allows for the definition of automation pipelines using a Directed Acyclic Graph (DAG), simplifying the management and execution of intricate workflows. With a focus on ease of use and versatility, Blackdagger features a built-in Web UI for managing, rerunning, and monitoring automation pipelines, alongside native Docker support for seamless integration within containerized environments.\nhttps://github.com/ErdemOzgen/blackdagger\nhttps://blackdagger.readthedocs.io/en/latest/",
   "Year": "2024",
   "Location": "Canada"

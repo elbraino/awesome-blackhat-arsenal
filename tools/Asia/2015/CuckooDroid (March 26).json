@@ -7,8 +7,8 @@
   "Tracks": [
     "Track: Malware Defense"
   ],
-  "Event": "BH-ASIA-15",
   "Github URL": "https://github.com/idanr1986/cuckoo-droid",
+  "Event": "BH-ASIA-15",
   "Description": "To combat the growing problem of Android malware, we present a new solution based on the popular open source framework Cuckoo Sandbox to automate the malware investigation process. Our extension enables the use of Cuckoo's features to analyze Android malware and provides new functionality for dynamic and static analysis.Our framework is extensible and modular, allowing the use of new, as well as existing, tools for custom analysis.The main capabilities of our Cuckoo Android Extension include:Dynamic Analysis - based on Dalvik API hookingStatic Analysis - Integration with AndroguardEmulator Detection PreventionInfrastructure options:Nested VMs for ARM Emulation and VMISupports Android Emulator or Physical DevicesExamples of well-known malware will be used to demonstrate the framework capabilities and its usefulness in malware analysis.",
   "Year": "2015",
   "Location": "Asia"

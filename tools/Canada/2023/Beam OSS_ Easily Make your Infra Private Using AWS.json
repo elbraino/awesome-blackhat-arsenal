@@ -6,8 +6,8 @@
   "Tracks": [
     "Track:"
   ],
+  "Github URL": "https://github.com/entitleio/beam",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://gist.github.com/GrahamcOfBorg/cc1bbf961b65e106514cb3f2032d718c",
   "Description": "Beam is an OSS project that simplifies secure access to private infrastructure within non-public VPC environments. It replaces the traditional bastion host approach with AWS Systems Manager (SSM) for access, ensuring better security and user-friendliness, especially in dynamic environments with changing resources and multi-tenancy requirements. Beam eliminates the complexities of configuring SSM access, making it an accessible solution for various applications and environments while maintaining security best practices. Today Beam is available for AWS (SSM) and will expand to Google's Identity-Aware Proxy (IAP).",
   "Year": "2023",
   "Location": "Canada"

@@ -1,13 +1,13 @@
 {
   "Tool Name": "CF-Hero",
   "Speakers": [
-    "Musa \u015eana"
+    "Musa Şana"
   ],
   "Tracks": [
     "Track: Web AppSec"
   ],
+  "Github URL": "https://github.com/musana/CF-Hero",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/RayBB/random-stock-picker/blob/master/stocks.json",
   "Description": "All systems, apps, or tools that are internet-facing have to be deployed behind CloudFlare to increase security and stability. As a security engineer, it's experienced that some systems were/are not deployed properly behind CloudFlare. Any attacker, who discovers the system or app in this way, can hack an organisation's applications.\n\nThis tool(CF-Hero) highlights the security risks associated with domains that are not properly configured behind Cloudflare, a content delivery network (CDN) and distributed DNS service provider. The absence of Cloudflare protection exposes these domains to various attacks, increasing the vulnerability of a company's assets.",
   "Year": "2024",
   "Location": "Asia"

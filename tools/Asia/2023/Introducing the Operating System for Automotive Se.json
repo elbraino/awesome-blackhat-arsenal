@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Hardware/Embedded"
   ],
+  "Github URL": "https://github.com/frustratedresearcher/LSTM-Automotive-Security-PoC",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning/blob/master/FULL_LIST.md",
   "Description": "Automotive security is a critical concern as vehicles become more connected and autonomous. To ensure the security of these systems, specialized operating systems are needed for testing and evaluating their vulnerabilities.\n\nOur presentation introduces a new operating system for automotive security testing, designed specifically for this purpose. This operating system includes a range of tools and features that are essential for testing the security of automotive systems, such as support for different communication protocols and hardware interfaces. In particular, it includes tools for testing BLE, WiFi, and automotive ethernet, as well as a CAN testing setup.\n\nIn addition to these features, the operating system includes automation tools and a test lab to allow attendees to practice and apply their knowledge. This makes it an ideal platform for hands-on learning and experimentation.\n\nBy using this operating system, attendees will be able to test the security of their automotive systems and identify potential vulnerabilities. They will also gain practical experience in using the tools and techniques needed to secure these systems and prevent attacks.\n\nOverall, our presentation provides a valuable resource for anyone interested in securing the increasingly complex and connected systems found in modern vehicles. By understanding the capabilities and limitations of this operating system, attendees will be better equipped to secure their own automotive systems and prevent vulnerabilities.",
   "Year": "2023",
   "Location": "Asia"

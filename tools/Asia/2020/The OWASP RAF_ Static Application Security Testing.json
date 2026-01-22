@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Code Assessment"
   ],
+  "Github URL": "https://github.com/OWASP/RiskAssessmentFramework/tree/master/api",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/OWASP/RiskAssessmentFramework",
   "Description": "The OWASP Risk Assessment Framework consist of Static Application Security Testing and Risk Assessment tools. Even though there are many SAST tools available for testers, the compatibility and the environment setup process is complex. By using OWASP Risk Assessment Framework's Static Application Security Testing tool, testers will be able to analyze and review their code quality and vulnerabilities without any additional setup. OWASP Risk Assessment Framework can be integrated in the DevSecOps toolchain to help developers to write and produce secure code.\n\nUser Guide https://github.com/OWASP/RiskAssessmentFramework/blob/master/user-guide.md",
   "Year": "2020",
   "Location": "Asia"

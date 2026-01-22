@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Exploitation and Ethical Hacking"
   ],
-  "Event": "BH-ASIA-18",
   "Github URL": "https://github.com/NytroRST/NetRipper",
+  "Event": "BH-ASIA-18",
   "Description": "NetRipper is a post-exploitation tool targeting Windows systems which uses API hooking in order to intercept network traffic. It also uses encryption-related functions from a low privileged user, making it able to capture both plain-text traffic and encrypted traffic before encryption/after decryption.",
   "Year": "2018",
   "Location": "Asia"

@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Malware Defense"
   ],
+  "Github URL": "https://github.com/xPrinny/QrSafetyScanner",
   "Event": "BH-ASIA-18",
-  "Github URL": "https://github.com/trevp/keyname/blob/master/diceware_words.py",
   "Description": "A QR scanner that checks if the QR code contains malicious links. Recently QR codes are being use everywhere, for advertisements, payments, name cards, etc. However, if someone would to exploit these QR codes by hiding malicious links, devices will be infected with malware.",
   "Year": "2018",
   "Location": "Asia"

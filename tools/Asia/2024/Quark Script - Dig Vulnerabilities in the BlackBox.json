@@ -8,8 +8,8 @@
   "Tracks": [
     "Track: Exploitation and Ethical Hacking"
   ],
-  "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/ev-flow/quark-script",
+  "Event": "BH-ARSENAL",
   "Description": "*Innovative & Interactive*\nThe goal of Quark Script aims to provide an innovative way for mobile security researchers to analyze or pentest the targets (YES, the binaries).\n\nBased on Quark, we integrate decent tools as Quark Script APIs and make them exchange valuable intelligence with each other. This enables security researchers to interact with staged results and perform creative analysis with Quark Script.\n\n*Dynamic & Static Analysis*\nIn Quark script, we integrate not only static analysis tools (e.g. Quark itself) but also dynamic analysis tools (e.g. objection).\n\n*Re-Usable & Sharable*\nOnce the user creates a Quark script for a specific analysis scenario. The script can be used for other targets. Also, the script can be shared with other security researchers. This enables the exchange of knowledge.",
   "Year": "2024",
   "Location": "Asia"

@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Vulnerability Assessment"
   ],
+  "Github URL": "https://github.com/Ubaidjaffery/theauditorv2",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/Ubaidjaffery",
   "Description": "This tool enhances the efficiency of auditing processes, providing a user-friendly interface for seamless operation. Its detailed reporting capabilities empower users with comprehensive insights into endpoint security, facilitating informed decision-making. With a commitment to ethical use, legal compliance, and regular updates, the Automated Audit Simulation tool is a valuable asset for organizations seeking robust cybersecurity assessments.\n\nIn addition to scrutinizing network connections for VPN and Tor usage, the tool searches for critical event IDs and investigates Outlook profiles for personal user accounts configured on official laptops/desktops. The flexibility to customize assessments allows users to adapt the tool to evolving security threats.",
   "Year": "2024",
   "Location": "Asia"

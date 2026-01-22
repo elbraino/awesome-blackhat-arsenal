@@ -8,8 +8,8 @@
   "Tracks": [
     "Track: Code Assessment"
   ],
+  "Github URL": "https://github.com/spaceraccoon/npm-scan",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/davidar/dblp.yaml/blob/master/journals/aes.bib",
   "Description": "An extensible, heuristic-based vulnerability scanning tool for installed npm packages.\n\nActive heuristics-based scanning: quick and easy for anyone to use\n\nImproves/enforces quality of open source coding",
   "Year": "2019",
   "Location": "Asia"

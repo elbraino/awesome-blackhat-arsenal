@@ -9,8 +9,8 @@
   "Tracks": [
     "Track:"
   ],
+  "Github URL": "https://github.com/Dan-Duran/mitre-attack-mapper",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/BreezeWhite/Music-Transcription-with-Semantic-Segmentation",
   "Description": "Using Natural Language Processing models, enrich any alert with its relevant attack techniques.\nThe model detects the techniques using contextual, and situational awareness as well as its linguistic cyber expertise.\nIn real time this model can save your operations endless hours of tagging incidents with their mitre techniques.",
   "Year": "2024",
   "Location": "Canada"

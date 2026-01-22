@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Hardware/Embedded"
   ],
+  "Github URL": "https://github.com/ekiojp/circo",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://gist.github.com/standardgalactic/7f03809c56f4b098b95a50ada32cd02c",
   "Description": "Designed under Raspberry Pi Zero and aimed for cover red-team Ops, we take advantage of SecNetDevOps tools to capture network credentials in a stealth mode.\n\nThe tool uses a low profile hardware/electronics and different methods for credentials exfiltration. It also uses a combination of honeypots and information gather to lure Automation Systems into reveling network credentials (ssh/telnet/snmp) to our implant.",
   "Year": "2019",
   "Location": "Asia"

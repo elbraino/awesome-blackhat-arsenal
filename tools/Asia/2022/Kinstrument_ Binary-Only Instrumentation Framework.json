@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Vulnerability Assessment"
   ],
+  "Github URL": "https://github.com/tektronix/keithley",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/hac425xxx/hac425xxx",
   "Description": "For regular Linux kernels, we can use qemu or vmware, and then use gdb to debug the kernel, but for some special embedded devices, such as Android phones, it is difficult to debug and instrument the kernel. In order to debug the kernel, it often needs to recompile the kernel and use additional hardware.\n\nThe characteristics of kinstrument are as follows:\n\n1. The kernel only needs to support the insertion of the ko module, the kernel does not need to be recompiled, and no additional hardware is required.\n2. Support instrumentation basic blocks, and get basic block coverage of kernel code\n3. Use the breakpoint mechanism to hook and debug arbitrary instructions.\n\n\nKinstrument can be used for kernel debugging and Fuzz.",
   "Year": "2022",
   "Location": "Asia"

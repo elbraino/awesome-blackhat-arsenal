@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Vulnerability Assessment"
   ],
+  "Github URL": "https://github.com/infobyte/faraday",
   "Event": "BH-ASIA-18",
-  "Github URL": "https://github.com/wannadie/mendeley-parser/blob/master/output/electrical-and-electronic-engineering/electrical-and-electronic-engineering-g.csv",
   "Description": "The idea behind Faraday is to help you to share all the information that is generated during a pentest, vulnerability assessment or scan without changing the way you work. You run a command, import a report, and Faraday will normalize the results and share them with the rest of the team in real-time. Faraday has more than 60 plugins available (and counting), including the most popular commercial and open-source tools. If you use a tool that Faraday doesn't have a plugin for, you can create your own! During this presentation we're going to release Faraday v3.0 with all the new features that we were working on for the last couple of months that include a huge back-end change. Come check it out!",
   "Year": "2018",
   "Location": "Asia"

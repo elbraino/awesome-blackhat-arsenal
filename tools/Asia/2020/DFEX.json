@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Network Attacks"
   ],
+  "Github URL": "https://github.com/ekiojp/dfex",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://gist.github.com/d-oliveros/3693a104a0dc82695324",
   "Description": "DFEX - [DNS File EXfiltration]\n\nData exfiltration is a common technique used for post-exploitation, DNS is one of the most common protocols through firewalls.\nWe take the opportunity to build a unique protocol for transferring files across the network.\n\nExisting tools have some limitations and NG Firewalls are getting a bit \"smarter\", we have been obliged to explore new combinations of tactics to bypass these. Using the good old fashion \"HIPS\" (Hidden In Plain Sigh) tricks to push files out.",
   "Year": "2020",
   "Location": "Asia"

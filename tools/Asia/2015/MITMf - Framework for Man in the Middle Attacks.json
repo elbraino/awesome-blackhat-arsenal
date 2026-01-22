@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Network Attacks"
   ],
-  "Event": "BH-ASIA-15",
   "Github URL": "https://github.com/byt3bl33d3r/MITMf",
+  "Event": "BH-ASIA-15",
   "Description": "MITMf combines old and new man-in-the-middle techniques into a framework! Have a cool attack that works in a MITM scenario? Just write a plugin!Currently, the available plugins are:Responder - LLMNR, NBT-NS, and MDNS poisonerSSLstrip+ - Partially bypass HSTSSpoof - Redirect traffic using ARP Spoofing, ICMP Redirects DHCP Spoofing, and modify DNS queriesBeEFAutorun - Autoruns BeEF modules based on clients OS or browser typeAppCachePoison - Perform app cache poison attacksSessionHijacking - Performs session hijacking attacks, and stores cookies in a Firefox profileBrowserProfiler - Attempts to enumerate all browser plugins of connected clientsCacheKill - Kills page caching by modifying headersFilePwn - Backdoor executables being sent over http using bdfactoryInject - Inject arbitrary content into HTML contentJavaPwn - Performs drive-by attacks on clients with out-of-date Java browser pluginsjskeylogger - Injects a JavaScript keylogger into clients webpagesReplace - Replace arbitary content in HTML contentSMBAuth - Evoke SMB challenge-response auth attemptsUpsidedownternet - Flips images 180 degrees",
   "Year": "2015",
   "Location": "Asia"

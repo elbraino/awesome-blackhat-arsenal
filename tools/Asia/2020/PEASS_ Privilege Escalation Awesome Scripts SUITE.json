@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Exploitation and Ethical Hacking"
   ],
-  "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/peass-ng/PEASS-ng",
+  "Event": "BH-ARSENAL",
   "Description": "PEASS - Privilege Escalation Awesome Scripts SUITE is as the name suggests a collection of privilege escalation scripts. We have a script for Linux, Windows and a Windows .net4 executable. We are launching macOSx version at Black Hat Asia 2020. These tools search for possible local privilege escalation paths that you could exploit and print them with nice colours so you can recognise misconfigurations easily.",
   "Year": "2020",
   "Location": "Asia"

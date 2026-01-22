@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Network Attacks"
   ],
-  "Event": "BH-ASIA-17",
   "Github URL": "https://github.com/akibsayyed/safeseven",
+  "Event": "BH-ASIA-17",
   "Description": "Telecom network was closed for years but recent advancement in open source telecom opens new doors for telecom hacking. SS7 is core network protocol in 2G and 3G. Many people have proved that these network is insecure, but to date no proper tool or vulnerable network is available in the information security community.This talk will present security loopholes in SS7 network and will cover the SS7 Protocol security and the real telecom security penetration testing on the lab. The demonstration is prepared from real SS7 Penetration testing experience. During this demo I'm going to publish my SS7 Penetration testing tool that I've built for SS7 Assessment. The Damn vulnerable SS7 Network will also be available for information security community. The talk will first present the basics of this vulnerability including: information leaks, denial of service, toll and billing fraud, privacy leaks and SMS fraud.Attendees will able to understand the basics of the SS7 network and tool usage and in additional; attendees will also understand the different type of attacks in the SS7 network.Here are some attacks supported by this tool:Subscriber privacy leaksBilling fraudsDenial of service attacksRevenue FraudsIdentity impersonation attacksIntercepting incoming servicesIllegal redirects",
   "Year": "2017",
   "Location": "Asia"

@@ -7,8 +7,8 @@
     "Malware Offense",
     "Malware Defense"
   ],
-  "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/reveng007/DarkWidow",
+  "Event": "BH-ARSENAL",
   "Description": "This is a customizable Dropper Tool targeting Windows machines.\n\nThe capabilities it possesses are:\n1. Indirect Dynamic Syscall\n2. SSN + Syscall address sorting via Modified TartarusGate approach\n3. Remote Process Injection via APC Early Bird (MITRE ATT&CK TTP: T1055.004) to cut off telemetry catching by EDR\n4. Spawns a sacrificial Process as the target process\n5. ACG(Arbitrary Code Guard)/BlockDll mitigation policy on spawned process\n6. PPID spoofing (MITRE ATT&CK TTP: T1134.004)\n7. Api resolving from TIB (Directly via offset (from TIB) -> TEB -> PEB -> resolve Nt Api) (MITRE ATT&CK TTP: T1106)\n8. Cursed Nt API/ Dll hashing\n9. If blessed with Admin privilege:\nDisables Event Log via killing all threads of svchost.exe, i.e. killing the whole process (responsible svchost.exe)\n10. Synthetic Frame Thread Stack Spoofing\n\nThis tool performed a successful Execution of payload and provided Crystal clear Event Log against Sophos XDR enabled Environment.",
   "Year": "2024",
   "Location": "Europe"

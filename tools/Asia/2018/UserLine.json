@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Data Forensics/Incident Response"
   ],
-  "Event": "BH-ASIA-18",
   "Github URL": "https://github.com/THIBER-ORG/userline",
+  "Event": "BH-ASIA-18",
   "Description": "This tool automates the process of creating logon relations from MS Windows Security Events by showing a graphical relation among users domains, source and destination logons, session duration as well as get information regarding logged on users at a given datetime (among other options), providing a starting point to begin the forensic analysis/incident triage.",
   "Year": "2018",
   "Location": "Asia"

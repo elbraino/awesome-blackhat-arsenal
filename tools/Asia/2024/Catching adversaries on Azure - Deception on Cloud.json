@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Data Forensics/Incident Response"
   ],
+  "Github URL": "https://github.com/pbssubhash/Deceptizure",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://gist.github.com/Lysak/a0ca30a3e6732d39199b27c170a8cd28",
   "Description": "Cloud is a widely adopted technology for organizations across the globe. It's very often a breeding ground for adversaries as the targets are now reachable to adversaries from anywhere in the world. More often than not, foothold into cloud is just a simple \"password-spray\" away. How to catch adversaries who are eyeing your crown jewels on cloud? Often adversaries are after your keys, secrets, data, emails, etc. A great way to protect is to put traps everywhere and wait for adversaries to fall into them. But deception on cloud is Hard to create, maintain, monitor, remove and most of all it's pricy. Cloud-Deception is a tool that intends to make it easier for individuals and organizations to deploy, monitor, maintain and remove deception with the most minimal price tag to it. This is done with the help of a CLI suite that creates real-like users (with known weak passwords), real-like resources (such as key vaults, storage accounts, etc.) and real-like identities (Managed identities). All these resources and identities have role assignments randomly assigned and the output is a glorious attack path that's very lucrative for an adversary to pursue. Cloud-deception enables logging automatically and creates alert rules so all you have to do relax and wait for adversaries. Cloud-deception currently supports Microsoft Azure. The talk will consist of a breath-taking tale of how to creation & monitoring of deception on cloud.",
   "Year": "2024",
   "Location": "Asia"

@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Vulnerability Assessment"
   ],
+  "Github URL": "https://github.com/seishinkouki/seebug_crawler",
   "Event": "BH-ASIA-16",
-  "Github URL": "https://github.com/echarts-maps/echarts-cities-js",
   "Description": "Seebug is an open vulnerability platform based on vulnerability and PoC/Exp sharing communities. So far, it already has 50,000+ vulnerabilities and 40,000+ PoC/Exps.On this platform, users can submit new vulnerabilities or update information of existing ones that are lacking of details such as summaries, PoC/Exps, solutions, CVE-ID and other basic fields. In exchange, we will reward you with KBs, which can be used to buy other submissions (such as PoCs) or converted into RMB directly (1 KB is equivalent to RMB 5 Yuan currently).Seebug provides an opportunity for vulnerability learning. We plan to open BBS and CFP columns in the near future so that users can submit their technical articles, ideas, and communicate with each other on vulnerability mining issues.Besides, each vulnerability is accompanied by a lifeline, recording all the relevant events during this process and offering a complete picture about the vulnerability development course.With the help of ZoomEye, the latest vulnerabilities across the world can be detected timely and displayed on the vulnerability detail page. Based on the result, we can effectively conduct emergency response activities and provide online detection tools, affected vendor lists and early warning upon necessary.",
   "Year": "2016",
   "Location": "Asia"

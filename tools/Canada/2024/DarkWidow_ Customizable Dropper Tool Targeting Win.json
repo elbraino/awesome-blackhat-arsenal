@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Malware Offense"
   ],
-  "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/reveng007/DarkWidow",
+  "Event": "BH-ARSENAL",
   "Description": "This is a Customizable Dropper Tool targeting Windows machine.",
   "Year": "2024",
   "Location": "Canada"

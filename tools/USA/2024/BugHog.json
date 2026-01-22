@@ -8,8 +8,8 @@
     "Vulnerability Assessment",
     "Web AppSec"
   ],
-  "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/DistriNet/BugHog",
+  "Event": "BH-ARSENAL",
   "Description": "BugHog is a comprehensive framework designed to identify the complete lifecycle of browser bugs, from the code change that introduced the bug to the code change that resolved the bug. For each bug's proof of concept (PoC) integrated in BugHog, the framework can perform automated and dynamic experiments using Chromium and Firefox revision binaries.\n\nEach experiment is performed within a dedicated Docker container, ensuring the installation of all necessary dependencies, in which BugHog downloads the appropriate browser revision binary, and instructs the browser binary to navigate to the locally hosted PoC web page. Through observation of HTTP traffic, the framework determines whether the bug is successfully reproduced. Based on experiment results, BugHog can automatically bisect the browser's revision history to identify the exact revision or narrowed revision range in which the bug was introduced or fixed.\n\nBugHog has already been proven to be a valuable asset in pinpointing the lifecycle of security bugs, such as Content Security Policy bugs.",
   "Year": "2024",
   "Location": "USA"

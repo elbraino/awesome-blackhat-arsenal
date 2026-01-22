@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Web AppSec"
   ],
+  "Github URL": "https://github.com/osmedeus/osmedeus-base",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/j3ssie/osmedeus",
   "Description": "Osmedeus is a is a workflow framework designed to perform reconnaissance, with a focus on identifying the attack surface and conducting security testing on the specified target, including vulnerability scanning, port scanning, and content discovery",
   "Year": "2023",
   "Location": "Asia"

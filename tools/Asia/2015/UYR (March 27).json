@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Malware Offense"
   ],
+  "Github URL": "https://github.com/mariam118/uyr",
   "Event": "BH-ASIA-15",
-  "Github URL": "https://github.com/TMH-Sec/wordlists/blob/master/ssh-users.txt",
   "Description": "Under Your Radar (UYR) is a new application layer covert channel. It applies multimedia steganographic techniques to hide a secret message. UYR could also be used for data exfiltration and go totally under the radar and bypass monitoring and detection systems due to its novelty way of communication.UYR in its current version could be used for:Secret CommunicationsExfiltrating Text Files (ASCII)Exfiltrating Other Small Binary FilesThe novelty behind UYR is that in reality you're not transferring any messages or text; you're only transferring a KEY!",
   "Year": "2015",
   "Location": "Asia"

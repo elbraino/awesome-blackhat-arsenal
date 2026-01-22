@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Network Attacks"
   ],
+  "Github URL": "https://github.com/pcabreracamara/cellanalysis",
   "Event": "BH-ASIA-17",
-  "Github URL": "https://github.com/pcabreracamara",
   "Description": "CellAnalysis is a tool every pentester should add to his/her arsenal. Nowadays there are other tools intended to find fake cells (fake stations, IMSI Catchers, etc.), most of them use active monitoring; that is, they monitor traffic coming to the SIM card on a smartphone, so that only cell attacks are scanned on the same network as the SIM card. CellAnalysis offers a different approach, it performs a passive traffic monitoring, so it doesn't require a SIM card or a mobile device, just an OsmocomBB phone or compatible device SDR (rtlsdr, usrp, hackrf or bladerf) to start monitoring all the frequencies of the GSM spectrum.Far from being an out-of-the-box tool, it has been developed using shell-scripting to make easier the code modification or the customization by the pentester, as well as the integration with other tools. SDR device or OsmocomBB phone connected to the computer running Linux will analyze the spectrum or a part of it, in search of cells and for each cell found, a quantitative and qualitative analysis of the information transmitted will be carried out. Alarms generation is not based on a scoring system, but each parameter chosen as a potential threat will generate an alarm if it is evaluated as such in the cell under study.",
   "Year": "2017",
   "Location": "Asia"

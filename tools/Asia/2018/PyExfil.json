@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Exploitation and Ethical Hacking"
   ],
+  "Github URL": "https://github.com/ytisf/PyExfil",
   "Event": "BH-ASIA-18",
-  "Github URL": "https://github.com/cjcase/beaconleak",
   "Description": "PyExfil is a data exfiltration package with various data exfiltration techniques for various scenarios.",
   "Year": "2018",
   "Location": "Asia"
