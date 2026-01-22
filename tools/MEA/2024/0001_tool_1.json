@@ -1,10 +1,10 @@
 {
   "Tool Name": "CloudGrappler: Grappling for Evil in the Cloud",
   "Speakers": "ANDI AHMETI",
-  "Tracks": null,
+  "Tracks": "Cloud Security",
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/Permiso-io-tools/CloudGrappler",
   "Description": null,
   "Year": "2024",
-  "Location": null
+  "Location": "MEA"
 }
