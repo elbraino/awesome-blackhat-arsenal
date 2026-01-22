@@ -4,7 +4,7 @@
     "Milton Smith"
   ],
   "Tracks": [
-    "Track: Web AppSec"
+    "Web AppSec"
   ],
   "Event": "BH-EU-16",
   "Github URL": "https://github.com/spoofzu/DeepViolet/blob/master/src/main/java/com/mps/deepviolet/api/CipherSuiteUtil.java",
