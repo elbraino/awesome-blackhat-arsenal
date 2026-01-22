@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: OSINT - Open Source Intelligence"
   ],
+  "Github URL": "https://github.com/PaloAltoNetworks/minemeld-core",
   "Event": "BH-ASIA-17",
-  "Github URL": "https://github.com/jtschichold",
   "Description": "Using threat intelligence to enforce security policy poses several challenges. Sources of threat indicators often place indicators in multiple formats or format them inconsistently. Using indicators from multiple sources and packaging them into different formats requires a large investment of time and effort, especially as you discover new sources of indicators. It is also difficult to keep track of updates to threat indicator sources, since they are updated at different times and not always on a regular basis. To automate many of these manual processes, we have released MineMeld.MineMeld is an open source Threat Intelligence framework you can use, among other things, to process indicators and automatically enforce policy on your firewall or augment logs in your SIEM. At the core of MineMeld is a flexible and extensible engine where the data flow is described via a graph of nodes exchanging indicators with a protocol inspired by BGP. By changing the nodes and how they are connected, you can easily define any kind of Threat Intelligence processing logic. And if you need support for a new format, a new protocol or a new logic, you can develop & add your own custom node to the graph.",
   "Year": "2017",
   "Location": "Asia"

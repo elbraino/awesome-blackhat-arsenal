@@ -7,8 +7,8 @@
   "Tracks": [
     "Track: Hardware / Embedded"
   ],
-  "Event": "BH-ASIA-18",
   "Github URL": "https://github.com/threat9/routersploit",
+  "Event": "BH-ASIA-18",
   "Description": "RouterSploit is an exploitation framework for embedded devices written in python.",
   "Year": "2018",
   "Location": "Asia"

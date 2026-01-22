@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Malware"
   ],
-  "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/nixpal/shellsilo",
+  "Event": "BH-ARSENAL",
   "Description": "While Windows System Calls have become a popular method for evading antivirus detection, they present considerable challenges beyond simple shellcode encryption/decryption. Unlike Linux, executing Windows System Calls often necessitates extensive setup, due to the need for specific C structures, which makes the code more complex and prone to errors compared to typical API calls. As a result, many developers turn to high-level languages like C to avoid the complexities of Assembly, particularly in malware development.\n\nSHELLSILO addresses these challenges by offering an innovative solution for System Call shellcode generation. By interpreting basic C syntax, it seamlessly converts code into x86 and x64 Assembly and, ultimately, shellcode. This process encompasses various constructs such as while loops, if statements, variables, structures, and System Call invocations. SHELLSILO significantly streamlines the shellcode creation process by automating tasks like parsing, formatting, and initialization.\n\nOne of SHELLSILO's standout features is its ability to simplify quick modifications. Users can easily adjust variables or individual lines in the original C code, making the process of generating System Call shellcode more accessible and efficient. With SHELLSILO, the intricacies of System Call shellcode generation are simplified, offering a powerful tool that enhances cybersecurity practices.",
   "Year": "2025",
   "Location": "USA"

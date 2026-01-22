@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Vulnerability Assessment"
   ],
+  "Github URL": "https://github.com/OpenSCAP/openscap",
   "Event": "BH-ASIA-17",
-  "Github URL": "https://github.com/mpreisler",
   "Description": "OpenSCAP is the only free and open source implementation of the NIST SCAP standard. It has two major use cases:Vulnerability assessment - enables users to automatically scan their machines for vulnerabilities using OVAL CVE feeds coming from the operating system vendors - Red Hat, Canonical, SUSE, ... OpenSCAP can load the CVE feed and examine the machine, virtual machine storage image or container. Any missing patches are reported.Security compliance - allows fully automated evaluation and remediation of machines using SCAP security policies. Instead of looking at vulnerabilities in this use-case we are looking for weaknesses in the configuration. A good source for SCAP security policies is the open source SCAP Security Guide project which we will demo with OpenSCAP. Check out the list of available products and profiles by visiting https://static.open-scap.org/One of the main improvements in the latest 1.2 branch is the ability to scan various resources using similar command-line interface. We will cover scanning bare-metal machines, remote machines over ssh, VMs, VM storage images, containers and container images.SCAP Workbench is a GUI front-end for OpenSCAP. It allows users to customize security policies for their organization by selecting/deselecting rules and choosing different values (e.g.: password min length) for evaluation. The result can be saved in a so-called tailoring file. To demonstrate we will make such a customized policy.",
   "Year": "2017",
   "Location": "Asia"

@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Network Defense"
   ],
-  "Event": "BH-ASIA-18",
   "Github URL": "https://github.com/DenizParlak/Zeus",
+  "Event": "BH-ASIA-18",
   "Description": "Zeus is a powerful tool for AWS EC2 /S3 / CloudTrail / CloudWatch / KMS best hardening practices. It checks security settings according to the profiles the user creates and changes them to recommended settings based on the CIS AWS Benchmark source at request of the user.",
   "Year": "2018",
   "Location": "Asia"

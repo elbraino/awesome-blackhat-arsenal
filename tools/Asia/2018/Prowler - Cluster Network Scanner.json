@@ -8,8 +8,8 @@
   "Tracks": [
     "Track: Vulnerability Assessment"
   ],
+  "Github URL": "https://github.com/tlkh/prowler",
   "Event": "BH-ASIA-18",
-  "Github URL": "https://github.com/nd7141/icml2020/blob/master/neurips_2019_accepted.txt",
   "Description": "Prowler is a Cluster Network Vulnerability Scanner, developed during Singapore Infosec Community Hackathon - HackSmith v1.0. It is implemented on a cluster of Raspberry Pi and it will scan a network for vulnerabilities, such as default/weak credentials, that can be easily exploited.",
   "Year": "2018",
   "Location": "Asia"

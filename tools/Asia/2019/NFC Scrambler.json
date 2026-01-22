@@ -7,8 +7,8 @@
   "Tracks": [
     "Track: Network Defense"
   ],
+  "Github URL": "https://github.com/nfc-tools",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://gist.github.com/duhaime/b2226d787214d7780f446b3e081cbf10",
   "Description": "NFC Scrambler is an android app that emulates a rfid card to prevent nfc skimming. Rfid cards are used nearly everywhere, either in the forms of identification cards or credit cards. RFID Skimming statistics reveal that every two seconds a new case of identity theft is reported in the United States; however, not everyone can afford a rfid blocker card or wallet. Thus this app will help them block rfid skimming for free.",
   "Year": "2019",
   "Location": "Asia"

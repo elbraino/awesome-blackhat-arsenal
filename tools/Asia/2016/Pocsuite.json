@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Vulnerability Assessment"
   ],
-  "Event": "BH-ASIA-16",
   "Github URL": "https://github.com/knownsec/pocsuite3",
+  "Event": "BH-ASIA-16",
   "Description": "Pocsuite is an open-source remote vulnerability testing framework developed by the Knownsec Security Team.Written in Python and supported both validation and exploitation two plugin-invoked modes, Pocsuite could import batch targets from files and test them against multiple exploit-plugins in advance.There are two ways to work with Pocsuite: configuring exploit-required arguments and running in console-based modes; and handling the output from steps in interactive modes. Besides, it could display output in a human-friendly graph providing more useful information for pentesters.Like Metasploit, it is a development kit for pentesters to develop their own exploits. Users could utilize some auxiliary modules packaged in Pocsuite to extend their exploit functions or integrate Pocsuite to develop other vulnerability assessment tools.At last, Pocsuite is also an extremely useful tool to integrate Seebug and ZoomEye APIs in a collaborative way. Vulnerability assessment can be done automatically and effectively by searching targets through ZoomEye and acquiring PoC scripts from Seebug or locally.",
   "Year": "2016",
   "Location": "Asia"

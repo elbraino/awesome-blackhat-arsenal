@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: OSINT - Open Source Intelligence"
   ],
-  "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/cmlh/Maltego-FullContact/blob/master/Transform_Hub.xml",
+  "Event": "BH-ARSENAL",
   "Description": "FullContact allows you to search on an e-mail address, Twitter username, location, name, company, and alias or verify an e-mail address.\n\nMaltego is a link analysis application of technical infrastructure and/or social media networks from disparate sources of Open Source INTelligence (OSINT). Maltego is listed on the Top 10 Security Tools for Kali Linux by Network World and Top 125 Network Security Tools by the Nmap Project.\n\nThe integration of FullContact with Maltego links the input to it's e-mail address, Twitter username, location, name, company and alias in an easy to understand graph format that can be enriched with other sources of data.",
   "Year": "2019",
   "Location": "Asia"

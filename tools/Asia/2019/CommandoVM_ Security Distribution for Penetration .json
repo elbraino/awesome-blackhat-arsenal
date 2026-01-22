@@ -8,8 +8,8 @@
   "Tracks": [
     "Track: Exploitation and Ethical Hacking"
   ],
-  "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/mandiant/commando-vm",
+  "Event": "BH-ARSENAL",
   "Description": "CommandoVM is an open-source Windows-based security distribution designed for Penetration Testers and Red Teamers. It is an add-on from FireEye's very successful Reverse Engineering distribution: FLARE VM. Much like Kali Linux, CommandoVM is designed with an arsenal of open-source offensive tools that will help operators achieve assessment objectives.\n\nBeing built on Windows, CommandoVM comes with all the native support for accessing Active Directory environments. CommandoVM includes Web Application assessment tools, scripting languages (such as Python and Go), Information Gathering tools (such as Nmap, WireShark, and PowerView), Exploitation Tools (such as PowerSploit, GhostPack and Mimikatz), Persistence tools, Lateral Movement tools, Evasion tools, Post-Exploitation tools (such as FireEye's SessionGopher), Android Hacking tools, Remote Access tools, Command-Line tools, and all the might of FLARE VM's reversing tools.\n\nQuality-of-Life changes to the OS include: disabling UAC, Windows Defender and Windows Firewall, disabling LLMNR and NetBIOS , having some pinned applications (CMD, PowerShell, Sublime Text, VS Code) run as administrator automatically, as well as added context menu options like \"Open With Sublime Text\" and \"Open Command Prompt Here\" to ease the frustration of working with a Windows pen-testing environment. CommandoVM strives to be your go-to Windows environment for penetration tests, red team engagements, and Capture-the-Flag events.",
   "Year": "2019",
   "Location": "Asia"

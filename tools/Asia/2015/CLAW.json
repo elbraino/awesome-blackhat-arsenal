@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Smart Grid/Industrial Security"
   ],
+  "Github URL": "https://github.com/clawdbot/clawdbot",
   "Event": "BH-ASIA-15",
-  "Github URL": "https://github.com/mudspringhiker/openstreetmap_datawrangling/blob/master/exploration_audit.ipynb",
   "Description": "Red Tiger Labs Control Layer Assessment Workstation is looking to redefine the way that ICS SCADA and other critical infrastructure utilities examine their cybersecurity posture.Developed in partnership with the Canadian Federal Government, under the direction of ICS experts, the toolset takes a passive approach to cybersecurity by learning to \"look, listen, and feel\" each network. Building into its suite of cutting-edge technologies developed with the brightest minds in Canadian InfoSec, CLAW combines visualization, mitigation, and remediation activities into one cohesive view of the entire network.The audience will learn not only how this toolset is effectively raising the bar from both an enterprise and control systems perspective, but also real world instances of incident response, vulnerability assessment, and early detection of gaps and overlaps within existing deployments.",
   "Year": "2015",
   "Location": "Asia"

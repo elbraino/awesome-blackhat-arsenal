@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Malware Offense"
   ],
-  "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/NVISOsecurity/codasm",
+  "Event": "BH-ARSENAL",
   "Description": "Sometimes we just can't afford the luxury of staging our C2 payloads but need to bring them along as part of the initial payload we deliver. This can become quite the challenge as modern AVs and EDRs feature some pretty sophisticated static and dynamic analysis strategies. One strategy, detection of high file entropy, proved to be an unexpected but annoying challenge we needed to overcome during an assessment. The specific EDR we faced just wouldn't let our binaries pass - so we went to find a solution.\nThis tool implements an approach to decrease a payload's entropy while increasing its size.",
   "Year": "2024",
   "Location": "Canada"

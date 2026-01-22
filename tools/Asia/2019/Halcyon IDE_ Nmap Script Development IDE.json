@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Vulnerability Assessment"
   ],
-  "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/s4n7h0/Halcyon-IDE",
+  "Event": "BH-ARSENAL",
   "Description": "Halcyon IDE lets you quickly and easily develop Nmap scripts for performing advanced scans on applications and infrastructures with a wide range capabilities from recon to exploitation. It is the first IDE released exclusively for Nmap script development. Halcyon IDE is a free and open-sourced project (always will be) released under MIT license to provide an easier development interface for rapidly growing information security community around the world. The project was initially started as an evening free-time \"coffee shop\" project and has taken a serious step for its developer/contributors to spend dedicated time for its improvements very actively.",
   "Year": "2019",
   "Location": "Asia"

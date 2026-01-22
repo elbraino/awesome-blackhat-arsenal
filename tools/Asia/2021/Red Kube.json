@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Exploitation and Ethical Hacking"
   ],
+  "Github URL": "https://github.com/lightspin-tech/red-kube",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/KaplanOpenSource/israeli-opensource-companies",
   "Description": "Red Kube is a red team cheat sheet based on kubectl commands to Asses the Kubernetes Cluster Security Posture.",
   "Year": "2021",
   "Location": "Asia"

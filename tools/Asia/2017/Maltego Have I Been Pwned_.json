@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: OSINT - Open Source Intelligence"
   ],
+  "Github URL": "https://github.com/cmlh/Maltego-haveibeenpwned",
   "Event": "BH-ASIA-17",
-  "Github URL": "https://github.com/cmlh/Maltego-haveibeenpwned/blob/master/Transform_Hub/Transform_Hub.xml",
   "Description": "\"Have I been pwned?\" allows you to search across multiple data breaches to see if your email addresses or aliases has been compromised by Duowan, Taobao, Tianya, etcMaltego is a link analysis application of technical infrastructure and/or social media networks from disparate sources of Open Source INTelligence (OSINT).  Maltego is listed on the Top 10 Security Tools for Kali Linux by Network World  and Top 125 Network Security Tools by the Nmap Project.The integration of \"Have I been pwned?\" with Maltego presents these breaches in an easy to understand graph format that can be enriched with other sources of data.",
   "Year": "2017",
   "Location": "Asia"

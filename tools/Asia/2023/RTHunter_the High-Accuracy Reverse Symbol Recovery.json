@@ -9,8 +9,8 @@
   "Tracks": [
     "Track: Hardware/Embedded"
   ],
+  "Github URL": "https://github.com/installation/rkhunter",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/MinghaoLin2000/MinghaoLin2000.github.io/blob/master/index.md",
   "Description": "RTOS (Real-Time Operating Systems) are widely used in critical fields such as aerospace, transportation, communication infrastructure, medical devices, oil industry, and industrial robots due to their reliability and stability. However, the real-time nature of RTOS makes the analysis threshold high, resulting in limited security research tools compared to time-sharing operating systems.\n\n\nRTHunter is an efficient RTOS reverse symbol recovery and vulnerability scanning tool. It collects a large number of RTOS projects and mainstream network framework projects in multiple versions, builds a firmware resource library covering dozens of mainstream RTOS systems, and builds thousands of function features and historical vulnerability function features through trace-based information methods. And by solving the slow recognition speed and accuracy problem of bindiff through trace-based fuzzy feature matching method. RTHunter can achieve more than 50% recognition accuracy on mainstream RTOS routers, and has found supply chain vulnerabilities affecting multiple brands and dozens of RTOS devices through recorded vulnerability features. RTHunter can also use personal reverse information to fill the entire database and form a custom efficient tool.",
   "Year": "2023",
   "Location": "Asia"

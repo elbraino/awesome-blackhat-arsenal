@@ -8,8 +8,8 @@
   "Tracks": [
     "Track: OSINT - Open Source Intelligence"
   ],
-  "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/rtan0/DefaceIntel-Visionary-LLM-Powered-Shield-with-OCR-Acuity",
+  "Event": "BH-ARSENAL",
   "Description": "The purpose of this project is to develop a robust Web Defacement Detection tool that monitors websites for signs of defacement, an attack where the visual appearance of a website is altered by unauthorized users.\n\nThe tool aims to promptly provide alert if a website content is manipulated, which is often a result of cyber attacks such as those carried out by hacktivists.\n\nThe system utilizes two primary detection methods: a) analyzing drastic changes in webpage size and b) scanning for keywords and phrases associated with hacktivism, including those within images, using generative AI such as GPT that has been trained on large data including OSINT.",
   "Year": "2024",
   "Location": "Asia"

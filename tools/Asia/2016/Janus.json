@@ -7,8 +7,8 @@
   "Tracks": [
     "Track: Android, iOS and Mobile Hacking"
   ],
-  "Event": "BH-ASIA-16",
   "Github URL": "https://github.com/deepseek-ai/Janus",
+  "Event": "BH-ASIA-16",
   "Description": "Janus is feedback-driven, interactive Android security analysis platform that facilitates a collection of advanced security analysis tools with the capabilities from vulnerability discovery to malicious application detection. Its main purpose is to enable large scale Android application security analysis by integrating automated, customizable analysis results and human interventions.Specifically, Janus works as follows. First, Janus leverages lightweight malware scanners, similarity detection tools, and vulnerability detection tools to help researchers diagnose whether a given Android application is malicious or vulnerable.Next, Janus provides a set of tools to perform more fine-grained and heavier analyses, including dynamic taint analysis, program slicing, and machine learning, etc. In particular, security researchers are involved in this phase. By integrating these automated analyses and human interventions, Janus will confirm the detection results, filter false positives, and also extract the features of the application. These features will be used to guide subsequent analyses to quickly find similar vulnerabilities or malicious applications.We will demonstrate Janus with a number of real world malicious and vulnerable applications.",
   "Year": "2016",
   "Location": "Asia"

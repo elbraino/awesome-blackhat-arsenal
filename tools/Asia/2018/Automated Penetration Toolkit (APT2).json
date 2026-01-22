@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Exploitation and Ethical Hacking"
   ],
+  "Github URL": "https://github.com/tatanus/apt2",
   "Event": "BH-ASIA-18",
-  "Github URL": "https://github.com/toolswatch/blackhat-arsenal-tools/blob/master/vulnerability_assessment/apt2.md",
   "Description": "Nearly every penetration test begins the same way - run a NMAP scan, review the results, choose interesting services to enumerate and attack/exploit, and perform post-exploitation activities. What was once a fairly time consuming manual process, is now automated! Automated Penetration Testing Toolkit (APT2) is an extendable modular framework designed to automate common tasks performed during penetration testing. APT2 can chain data gathered from different modules together to build dynamic attack paths. Starting with a NMAP scan of the target environment, discovered ports and services become triggers for the various modules which in turn can fire additional triggers. Have FTP, Telnet, or SSH? APT2 will attempt common authentication. Have SMB? APT2 determines what OS and looks for shares, null sessions, and other information. Modules include everything from enumeration, scanning, brute forcing, and even integration with Metasploit. Come check out how APT2 will save you time on every engagement.Have you seen APT2 before? Great, now come and check out some of the new and enhanced features which include stream lined operations, additional modules, and improvements to the overall ease of module creation and development.",
   "Year": "2018",
   "Location": "Asia"

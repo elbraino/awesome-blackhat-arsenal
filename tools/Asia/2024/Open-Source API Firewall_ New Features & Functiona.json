@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Web AppSec"
   ],
+  "Github URL": "https://github.com/wallarm/api-firewall",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/newrelic/node-newrelic/blob/main/NEWS.md?plain=1",
   "Description": "The open-source API Firewall by Wallarm is designed to protect REST and GraphQL API endpoints in cloud-native environments. API Firewall provides API hardening with the use of a positive security model allowing calls that match a predefined API specification for requests and responses while rejecting everything else.\n\nThe key features of API Firewall are:\n- Secure REST and GraphQL API endpoints by blocking non-compliant requests/responses\n- Stop API data breaches by blocking malformed API responses\n- Discover Shadow API endpoints\n- Block attempts to use request/response parameters not specified in an OpenAPI specification\n- Validate JWT access tokens\n- Validate other OAuth 2.0 tokens using introspection endpoints\n- Denylist compromised API tokens, keys, and Cookies",
   "Year": "2024",
   "Location": "Asia"

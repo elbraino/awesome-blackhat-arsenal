@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Web AppSec"
   ],
-  "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/TheBinitGhimire/NtHiM",
+  "Event": "BH-ARSENAL",
   "Description": "NtHiM, which stands for \"Now, the Host is Mine!\" is a Rust-based systems project, which enables security enthusiasts to discover subdomain takeover vulnerabilities in hostnames (domains and subdomains) from different organizations.\n\n\nIn this session, I will be discussing about the following things, apart from an introduction of myself as the project maintainer and your presenter for this session.\n\nProject Overview\nBrief Introduction (what this project actually is)\nInitiation Story (how I decided to start working on this project)\nBrief Logic Explanation (understanding the project workflow with a simple pseudocode)\nProject Features (getting to know about all of the things built into the project)\nUser-level Video Documentation (Demonstration; including guides for the end-users of this project)\nDeveloper-level Video Documentation (Demonstration; including guides on how you can get started with extending or contributing to this project)",
   "Year": "2022",
   "Location": "Asia"

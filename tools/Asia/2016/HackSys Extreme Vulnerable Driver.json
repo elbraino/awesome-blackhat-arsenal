@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Exploitation and Ethical Hacking"
   ],
-  "Event": "BH-ASIA-16",
   "Github URL": "https://github.com/hacksysteam/HackSysExtremeVulnerableDriver",
+  "Event": "BH-ASIA-16",
   "Description": "HackSys Extreme Vulnerable Driver is an intentionally vulnerable Windows Kernel driver developed for security enthusiasts to learn and polish their exploitation skills. HackSys Extreme Vulnerable Driver caters to a wide range of vulnerabilities ranging from simple Buffer Overflow to complex Use After Free, Pool Overflow, Type Confusion and Arbitrary Memory Overwrite. This allows researchers to explore different exploitation techniques for every implemented vulnerabilities. HackSys Extreme Vulnerable Driver also comes with the mitigation for each implemented vulnerability which helps kernel driver developers understand how these mitigations are applied.Source Code: https://github.com/hacksysteam/HackSysExtremeVulnerableDriver Blog: http://www.payatu.com/hacksys-extreme-vulnerable-driver/",
   "Year": "2016",
   "Location": "Asia"

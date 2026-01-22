@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Exploitation and Ethical Hacking"
   ],
-  "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/Rnalter/KernelGoat",
+  "Event": "BH-ARSENAL",
   "Description": "\"KernelGoat is a 'Vulnerable by Design' Linux kernel environment to learn and practice Kernel security issues\"",
   "Year": "2023",
   "Location": "Asia"

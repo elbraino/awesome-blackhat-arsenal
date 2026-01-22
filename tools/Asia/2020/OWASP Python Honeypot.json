@@ -7,8 +7,8 @@
   "Tracks": [
     "Track: Network Defense"
   ],
+  "Github URL": "https://github.com/OWASP/Python-Honeypot",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/OWASP/www-community/blob/master/pages/initiatives/gsoc/gsoc2020ideas.md",
   "Description": "OWASP Honeypot is an open-source software in Python language which is designed for creating honeypot and honeynet in an easy and secure way! This project is compatible with Python 2.x and 3.x and tested on Windows, Mac OS X, and Linux.",
   "Year": "2020",
   "Location": "Asia"

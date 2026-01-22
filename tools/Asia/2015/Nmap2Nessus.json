@@ -7,8 +7,8 @@
   "Tracks": [
     "Track: Vulnerability Assessment"
   ],
-  "Event": "BH-ASIA-15",
   "Github URL": "https://github.com/milo2012/nmap2nessus",
+  "Event": "BH-ASIA-15",
   "Description": "Nessus is an awesome tool for vulnerability assessment.For vulnerabilities assessments, sometimes it is useful to run Nmap along side with Nessus. Nmap output can be easily manipulated and the data can be used as input for other tools.Most of the time, we are often faced with tight deadlines. Running the same scan using Nmap and then with Nessus could take up a lot of time and generate a large amount of network traffic.What this tool does is parse a NMAP .xml file, extract ports and IP addresses from the file, and automatically launch a Nessus scan using this information (instead of having to scan the whole network and all the ports again). This results in a faster scan.The tool then queries Nessus for job status and automatically saves the report locally when done.The tool also parses the Nessus reports and extracts important findings from the report so that you don't have to read through the whole report (you can but you don't have to).If you are using VMware Fusion/Workstation, you can use the VMrun command to automatically spin up a VM containing Nessus in a headless mode, runs Nessus scan and shuts down the VM when done.",
   "Year": "2015",
   "Location": "Asia"

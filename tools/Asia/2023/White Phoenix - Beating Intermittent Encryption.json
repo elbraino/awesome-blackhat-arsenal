@@ -7,8 +7,8 @@
   "Tracks": [
     "Track: Malware Defense"
   ],
+  "Github URL": "https://github.com/cyberark/White-Phoenix",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/mittidesai/Stock-Market-Prediction/blob/master/120_clusters",
   "Description": "Intermittent Encryption (aka Partial Encryption) is a new trend in the world of ransomware. It's been adopted by many notorious groups such as BlackCat Ransomware, Play Ransomware and more. Altogether, the groups using intermittent encryption have successfully targeted hundreds of organizations in 2022 alone. However, even though intermittent encryption has its advantages, it leaves much of the content of targeted files unencrypted. In this talk, we will demonstrate a tool that uses this limitation to recover valuable data, such as text and images from documents encrypted by these groups, allowing the victims to recover some of their lost data.",
   "Year": "2023",
   "Location": "Asia"

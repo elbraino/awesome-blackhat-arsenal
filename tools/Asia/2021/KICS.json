@@ -7,8 +7,8 @@
   "Tracks": [
     "Track: Code Assessment"
   ],
+  "Github URL": "https://github.com/Checkmarx/kics",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/bashis/The-Federation-WWE-Roster-Viewer/blob/master/Resources%20(READ%20README!)/wrestlers/wrestlergen/last.txt",
   "Description": "KICS is an open-source solution for static code analysis of Infrastructure as Code. It finds security vulnerabilities, compliance issues, and infrastructure misconfigurations in the following Infrastructure as Code solutions: Terraform, Kubernetes, Docker, AWS CloudFormation, Ansible. And more to come. Over 1000 rules are already available.",
   "Year": "2021",
   "Location": "Asia"

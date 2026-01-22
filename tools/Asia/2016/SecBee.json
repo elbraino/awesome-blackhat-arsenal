@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Internet of Things"
   ],
+  "Github URL": "https://github.com/Cognosec/SecBee",
   "Event": "BH-ASIA-16",
-  "Github URL": "https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Wireless.md",
   "Description": "SecBee is a ZigBee security testing tool. It is basically a kind of ZigBee vulnerability scanner, which allows the mapping of ZigBee networks and enables security testers and developers to check the actual product implementation for ZigBee specific vulnerabilities.Currently it supports direct and indirect ZigBee communication and provides features for command injection, scan for enabled devices, sniff network keys in plaintext and encrypted with the ZigBee default key and an insecure rejoin request.The tool is still under development and additional features are added. The final goal is to test for the correct application and implementation of every ZigBee security service.",
   "Year": "2016",
   "Location": "Asia"

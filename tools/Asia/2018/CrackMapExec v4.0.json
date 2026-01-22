@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Exploitation and Ethical Hacking"
   ],
+  "Github URL": "https://github.com/byt3bl33d3r/CrackMapExec/tree/master",
   "Event": "BH-ASIA-18",
-  "Github URL": "https://github.com/byt3bl33d3r/CrackMapExec/blob/master/pyproject.toml",
   "Description": "Ever needed to pentest a network with 10 gazillion hosts with a very limited time frame? Ever wanted to Mimikatz entire subnets? How about shelling entire subnets? How about dumping SAM hashes? Share spidering? Keeping track of all the credentials you pillaged? (The list goes on)! All while doing this in the stealthiest way possible? Look no further than CrackMapExec! CrackMapExec (a.k.a CME) is a modular post-exploitation tool written in Python that helps automate assessing the security of *large* Active Directory networks. Built with stealth in mind, CME follows the concept of \"Living off the Land\": abusing built-in Active Directory features/protocols to achieve it's functionality and allowing it to evade most endpoint protection, IDS and IPS solutions. Although meant to be used primarily for offensive purposes, CME can be used by blue teams as well to assess account privileges, find misconfigurations and simulate attack scenarios. In this demo, the author will be showing off v4.0, a major update to the tool bringing more feature and capabilities than ever before! If you are interested in the latest and greatest Active Directory attacks/techniques, weaponizing them at scale and general cool AD stuff this is the demo for you!",
   "Year": "2018",
   "Location": "Asia"

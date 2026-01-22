@@ -6,8 +6,8 @@
   "Tracks": [
     "Track:"
   ],
+  "Github URL": "https://github.com/Purple-Knight",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/IBM/db2-jupyter/blob/master/Db2_11.1_Features/generate_json.ipynb",
   "Description": "Business applications on-premises and in the cloud rely on Active Directory (AD) and Azure Active Directory for authentication, making it a critical piece of IT infrastructure. But securing Active Directory is difficult given its constant flux, its sheer number of settings, and the increasingly sophisticated threat landscape. This creates potential exploitable Indicators of Exposure in AD, and if you have or had a bad actor in your AD you will want to understand the Indicators of Compromise (IOCs) which is the evidence an attacker is there. In this session, we will talk about the Purple Knight freeware tool by Semperis which helps organizations understand the security posture of their hybrid Active Directory as it pertains to IOEs and IOCs.",
   "Year": "2023",
   "Location": "Asia"

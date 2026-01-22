@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Web AppSec"
   ],
+  "Github URL": "https://github.com/owasp-modsecurity/ModSecurity",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/cranelab/webapp-tech",
   "Description": "ModSecurity is a toolkit for real-time web application monitoring, logging, and access control. I like to think about it as an enabler: there are no hard rules telling you what to do; instead, it is up to you to choose your own path through the available features.",
   "Year": "2020",
   "Location": "Asia"

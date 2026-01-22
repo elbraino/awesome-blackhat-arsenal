@@ -7,8 +7,8 @@
   "Tracks": [
     "Track: Exploitation and Ethical Hacking"
   ],
-  "Event": "BH-ASIA-15",
   "Github URL": "https://github.com/milo2012/metasploitHelper",
+  "Event": "BH-ASIA-15",
   "Description": "Metasploit is widely used by penetration-testers during pen-test. They contain a lot of useful exploits that can be used during penetration tests. However, it is a painful task to search for related exploits after running a Nmap scan. It is possible that we could forget to use a potential exploit that could get us a shell on the remote system. There are two main types of exploits in Metasploit that we need to consider: Metasploit modules that target URI and modules that target specific ports. I developed MetasploitHelper so that we can bridge Nmap and Metasploit modules. This tool is meant to save a lot of time looking up exploits during penetration tests.",
   "Year": "2015",
   "Location": "Asia"

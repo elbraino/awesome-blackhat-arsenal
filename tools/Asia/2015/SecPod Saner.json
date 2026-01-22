@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Vulnerability Assessment"
   ],
+  "Github URL": "https://github.com/IamPreethi-S",
   "Event": "BH-ASIA-15",
-  "Github URL": "https://github.com/UnicodeDecodeError/SecPodSaner",
   "Description": "A free vulnerability scanner and compliance scanner with remediation.Most malware makes use of loopholes in the system and targets desktops and end-user applications. The anti-malware products that are available in the market focus on cleaning an already infected system based on known malware signatures. It is reported that 67% of malware is unnoticed by anti-virus or anti-malware products because of their polymorphic nature.Hardening the security posture of the system, knowing the loopholes, and applying fixes is a very effective and proven defense system. Although prevalent in the enterprise segment, home and mobile users do not get the benefit of effective vulnerability and configuration management.SecPod Saner is a lightweight, easy to use, enterprise-grade security solution for proactively assessing and securing your personal computer. It identifies security loopholes, misconfiguration, and remediates to ensure systems remain secure.",
   "Year": "2015",
   "Location": "Asia"

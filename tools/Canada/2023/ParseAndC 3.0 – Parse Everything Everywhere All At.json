@@ -1,13 +1,13 @@
 {
-  "Tool Name": "ParseAndC 3.0 \u2013 Parse Everything Everywhere All At Once",
+  "Tool Name": "ParseAndC 3.0 – Parse Everything Everywhere All At Once",
   "Speakers": [
     "Parbati Manna"
   ],
   "Tracks": [
     "Track:"
   ],
-  "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/intel/ParseAndC",
+  "Event": "BH-ARSENAL",
   "Description": null,
   "Year": "2023",
   "Location": "Canada"

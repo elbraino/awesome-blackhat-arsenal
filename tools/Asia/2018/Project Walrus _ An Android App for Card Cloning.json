@@ -7,8 +7,8 @@
   "Tracks": [
     "Track: Android, iOS and Mobile Hacking"
   ],
-  "Event": "BH-ASIA-18",
   "Github URL": "https://github.com/TeamWalrus/Walrus",
+  "Event": "BH-ASIA-18",
   "Description": "Project Walrus is an Android app we're developing to let pentesters make better use of their contactless card devices, like the Proxmark and the Chameleon Mini. Come and see how Walrus can help you on your next red team, or just come so I can clone your access cards.",
   "Year": "2018",
   "Location": "Asia"

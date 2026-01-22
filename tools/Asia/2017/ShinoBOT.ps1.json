@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Malware Offense"
   ],
+  "Github URL": "https://github.com/Sh1n0g1/ShinoBOT",
   "Event": "BH-ASIA-17",
-  "Github URL": "https://github.com/toolswatch/blackhat-arsenal-tools/blob/master/red_team/shinobot.md",
   "Description": "ShinoBOT is a RAT simulator for the pentesters, researchers.The powershell based version is released and it allows you to test the detection performance of your security environment against the powershell based attacks, which increase recently.As the previous version you can use ShinoBOT Suite to perform the whole APT scenario, from exploit to data exfiltration.",
   "Year": "2017",
   "Location": "Asia"

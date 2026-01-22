@@ -8,8 +8,8 @@
   "Tracks": [
     "Track: Data Forensics and Incident Response"
   ],
-  "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/ine-labs/ThreatSeeker",
+  "Event": "BH-ARSENAL",
   "Description": "Threat hunting using Windows logs is essential for identifying and mitigating potential security threats within an organization's network. It can be a time-consuming and painstaking process due to a large amount of data that needs to be collected and analyzed. The threat-hunting process could be repetitive. However, this process can be improved through custom scripts and tools.\n\nIn this talk, we will introduce ThreatSeeker, a windows log analysis framework that allows a threat hunter to find the common threats on the machine quickly. This tool also helps a threat hunter to detect APT movements. ThreatSeeker will allow a user to detect the following attacks:\n\n- Suspicious account behavior\n- User Creation and Added/Removed User to Admin group\n- Brute Force Attack Detection on SMB, RDP, WinRM, etc.\n- Brute Force Attack Detection\n- Detection of malicious executable\n- Detection of PTH Attack\n- Suspicious service creation\n- Installed Service with the executable in Suspicious locations\n- Detection of Modifying, Starting, Disabling, and Stopping Service\n- Detection of special privileges assigned\n- Suspicious Command Auditing\n- Powershell with Suspicious Argument\n- PowerShell Downloads\n- Execution of Suspicious executable,, i.e., rundll32.exe, sc.exe, mshta.exe, wscript.exe, cscript.exe\n- Suspicious Windows Registry Modification, Addition\n- Many More...\n\nAll the code and deployment scripts will be made open-source after the talk.",
   "Year": "2023",
   "Location": "Asia"

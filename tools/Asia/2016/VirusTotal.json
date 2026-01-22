@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Malware Defense"
   ],
+  "Github URL": "https://github.com/virustotal",
   "Event": "BH-ASIA-16",
-  "Github URL": "https://github.com/orgs/VirusTotal/people",
   "Description": "VirusTotal is the free online file and URL scanner that everyone knows. However there are many free features that many users don't know about such as:A free public API for anyone to automate file or URL analysis.IP address and domain reputation. See malware files known to be associated with a particular IP address or domain, and history Passive DNS infoSearching on file hash, and related filesSysinternals, Carbon black, etc. integrationsStatic analysis of files, structural analysis of many file types (PE, ELF, APK, ZIP, RAR, MACHO, .NET, office, etc)Sandbox dynamic analysis of PE, APK, Apple Mach-O, and applications.ROMS, BIOS, and firmware filesSSDEEP, authentihash, imphash, and other similarity indexesCertificate checks on signed filesWhitelisting of trusted filesFree desktop scanning applications for Windows, MAC, and open source for compilation on linux.",
   "Year": "2016",
   "Location": "Asia"

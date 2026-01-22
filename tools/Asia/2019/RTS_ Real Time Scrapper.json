@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: OSINT - Open Source Intelligence"
   ],
+  "Github URL": "https://github.com/RTSPlus/rts-scraper",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/NaveenRudra/RTTM",
   "Description": "RTS (Realtime scrapper) is a tool developed to scrap all pasties, github, reddit, etc. in real time to identify occurrence of search terms configured. Upon match, an email will be triggered. Thus, allowing a company to react in case of leakage of code, any hacks tweeted, etc. and harden themselves against an attack before it goes viral.",
   "Year": "2019",
   "Location": "Asia"

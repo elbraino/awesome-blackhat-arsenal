@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Exploitation and Ethical Hacking"
   ],
+  "Github URL": "https://github.com/pentoo/pentoo-overlay",
   "Event": "BH-ASIA-15",
-  "Github URL": "https://github.com/pentoo/pentoo-overlay/blob/master/net-wireless/dsd/dsd-1.7.0_pre20211213.ebuild",
   "Description": "Pentoo is Linux distribution designed for penetration testing. Itincludes huge up-to-date and tested collection of tools for web, network, wireless, radio, voice, rce security assessments, and forensics investigations. It can run as a LiveUSB or installed on your permanent media. Based on Gentoo Linux, it is available as an overlay for an existing Gentoo installation and can be customized for your needs. In addition, binary profile with precompiled packages are also available. Pentoo comes hardened by default so both userspace applications and the kernel are protected against all types of memory corruption exploits including zero days.",
   "Year": "2015",
   "Location": "Asia"

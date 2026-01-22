@@ -7,8 +7,8 @@
     "Network Attacks",
     "Exploitation and Ethical Hacking"
   ],
+  "Github URL": "http://github.com/CyberDataLab/nebula",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://gist.github.com/kunalj101/ad1d9c58d338e20d09ff26bcc06c4235?permalink_comment_id=3484437",
   "Description": "Nebula is a Cloud Penetration Testing framework. It is build with modules for each provider and each functionality. It covers AWS, Azure (both Graph and Management API, which includes Entra, Azure Subscription based resources and Office365) and DigitalOcean.\nCurrently covers:\n- Public Reconnaissance\n- Phishing\n- Brute-force and Password Spray\n- Enumeration of internal resources after initial access\n- Lateral Movement and Privilege Escalation\n- Persistence",
   "Year": "2024",
   "Location": "Europe"

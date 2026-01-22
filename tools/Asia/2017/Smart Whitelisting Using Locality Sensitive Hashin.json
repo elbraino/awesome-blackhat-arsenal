@@ -7,8 +7,8 @@
   "Tracks": [
     "Track: Malware Defense"
   ],
+  "Github URL": "https://github.com/chanioxaris/locality-sensitive-hashing",
   "Event": "BH-ASIA-17",
-  "Github URL": "https://github.com/hrbrmstr/tlsh/blob/master/R/tlsh-package.R",
   "Description": "Using cryptographic hashes (such as SHA1 or MD5) for whitelisting results in some limitations. Machine Learning extensions of whitelisting may be used for execution control, verification, minimizing false positives from other detection methods or other purpose.Locality Sensitive Hashing is a state of the art method in machine learning for the scalable approximate-nearest-neighbor search.The identification of executable files which are very similar to known legitimate executable files fits very well within this paradigm.ToolsWe provide open source tools for the evaluation of TLSH (a locality sensitive hash) of executable programs.We also provide a backend query service which we will make available to researchers on an ongoing basis.In this talk, we show the effectiveness of applying locality sensitive hashing techniques to identify files similar to legitimate executable files. In the demo we will:Give a brief explanation of locality sensitive hashingDescribe typical modifications made to legitimate executable files (such as security updates, patches, functionality enhancements, and corrupted files)Given a program P, demonstrate how the tool can be used to query for similar executable filesDemonstrate how meta data (such as certificates) can be employed to confirm the legitimacy of program P",
   "Year": "2017",
   "Location": "Asia"

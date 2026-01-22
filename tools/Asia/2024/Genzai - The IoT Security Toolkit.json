@@ -6,8 +6,8 @@
   "Tracks": [
     "Track: Internet of Things"
   ],
+  "Github URL": "https://github.com/umair9747/Genzai/tree/main",
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/umair9747/Genzai/blob/main/docs/documentation.md",
   "Description": "With a widespread increase in the adoption of IoT or Internet of Things devices, their security has become the need of the hour. Cyberattacks against IoT devices have grown rapidly and with platforms like Shodan, it has become much easier to scroll through the entire internet and look for just the right target which an attacker wants. To combat such threats it has become necessary for individuals and organisations to secure their IoT devices but when it becomes harder to keep track of them, the chances of unpatched loopholes increase.\n\nTo address this concern and give the users a better visibility of their assets, introducing Genzai! Genzai helps users keep track of IoT device-related web interfaces, scan them for security flaws and scan against custom policies for vendor-specific or all cases.\nTool features:\n- Bruteforce panels for vendor-specific and generic/common password lists to look for default creds\n- Use pre-defined templates/payloads to look for vulnerabilities\n- Users can specify scan policies for scanning vendor-specific or all entries",
   "Year": "2024",
   "Location": "Asia"

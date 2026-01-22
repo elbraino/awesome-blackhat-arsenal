@@ -8,8 +8,8 @@
   "Tracks": [
     "Track: Network Defense"
   ],
-  "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/pentesteracademy/voipshark",
+  "Event": "BH-ARSENAL",
   "Description": "VoIP Wireshark Attack-Defense Toolkit is a collection of Wireshark plugins which enables a pentester to analyze VoIP traffic. The toolkit can provide summary of VoIP traffic, automatically decrypt VoIP calls wherever possible, export the call audio to popular formats, detect attacks/misconfigurations, and highlight the DTMF/SMS interactions. This eliminates the need for a separate software/framework to analyze VoIP traffic. The plugins are written in Lua and are easy to add to Wireshark. And, the toolkit, just like Wireshark, is platform independent.",
   "Year": "2019",
   "Location": "Asia"
