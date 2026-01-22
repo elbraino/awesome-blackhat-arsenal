@@ -1,7 +1,7 @@
 {
   "Tool Name": "Dradis Framework",
   "Description": "In 2025, managing the information flow during assessments is just as important as finding vulnerabilities. Dradis Framework is an open-source communication and reporting tool for penetration testing teams designed to optimize your workflow, speed up reporting, and get rid of redundancies. Dradis combines results from scanners like Nessus, Burp Suite, and Nikto with manual findings and thorough attack narratives, facilitating smooth team-wide communication and an automated reporting process by centralising findings, notes, and evidence in a single portal.",
-  "GitHub URL": "",
+  "GitHub URL": "https://github.com/dradis",
   "Tracks": ["OSINT - Open Source Intelligence"],
   "Speakers": ["Daniel Martin"],
   "Region": "",
