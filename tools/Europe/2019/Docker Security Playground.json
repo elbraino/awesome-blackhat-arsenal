@@ -9,7 +9,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/NS-unina/DSP_Repo",
+  "Github URL": "https://github.com/DockerSecurityPlayground/DSP",
   "Description": "Docker Security Playground is an architecture leveraging a microservices-based approach in order to build complex network infrastructures specifically tailored to the study of network security. The idea is to leverage latest fashion virtualization techniques in order to: (i) reproduce real-world networking scenarios; (ii) build ad-hoc network playgrounds involving vulnerable nodes/services and malicious users/tools; (iii) provide lab participants with low-cost, COTS-based, easily reproducible networking tools.",
   "Year": "2019",
   "Location": "Europe"

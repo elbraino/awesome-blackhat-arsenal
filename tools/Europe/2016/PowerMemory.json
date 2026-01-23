@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-EU-16",
-  "Github URL": "https://github.com/giMini/PowerMemory/blob/master/PowerMemory.ps1",
+  "Github URL": "https://github.com/giMini/PowerMemory",
   "Description": "PowerMemory is a PowerShell post-exploitation tool. It uses Microsoft binaries and therefore is able to execute on a machine, even after the Device Guard Policies have been set. In the same way, it will bypass antivirus detection. PowerMemory can retrieve credentials information and manipulate memory. It can execute shellcode and modify process in memory (in userland and kernel land as a rootkit). PowerMemory will access everywhere in user-land and kernel-land by using the trusted Microsoft debugger aka cdb.exe which is digitally signed.We will cover the following subjects:User-land proof-of-concept: attacking the digest Security Support Provider byte per byte with PowerShell and Microsoft debugger to retrieve passwords from memoryKernel-land proof-of-concept: Direct Kernel Object Manipulation with PowerShell and Microsoft debugger o Hiding/Un-hiding a process o Protecting a process o Injecting all privileges in a process with SYSTEM identity o Pass-The-Token attackUser-land proof-of-concept: Injecting and executing a shellcode in a remote process with PowerShell and a Microsoft debuggerIf we have time, we will hack the minesweeper too :-)",
   "Year": "2016",
   "Location": "Europe"

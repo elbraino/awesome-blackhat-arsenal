@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/cjcase/beaconleak",
+  "Github URL": "https://github.com/ytisf/PyExfil",
   "Description": "PyExfil is a python data exfiltration package for python containing servers and clients for enabling covert channels communication. The package started as a self exploratory code project and developed into a library that helps analyze various detection mechanisms.",
   "Year": "2019",
   "Location": "Europe"

@@ -8,7 +8,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-EU-17",
-  "Github URL": "https://github.com/SpiderLabs/owasp-modsecurity-crs/blob/v3.3/dev/CHANGES",
+  "Github URL": "https://github.com/owasp-modsecurity/ModSecurity",
   "Description": "libModSecurity is a major rewrite of ModSecurity. It preserves the rich syntax and feature set of ModSecurity while delivering improved performance, stability, and a new experience in easy integration on different. Effort has also been put to testing the code extensively with regression tests, unit tests, Valgrind integration and Fuzzing, individually testing operators and transformations. This is an exciting release for the whole open-source WAF community with over 900 commits ahead of ModSecurity v2 branch. Significant updates, improvements and features added to the bleeding edge version of the open source libModSecurity (aka v3), the compatibility of rulesets, demos and future roadmap will be demonstrated. More information:Small outline of the latest release:https://github.com/SpiderLabs/ModSecurity/wiki/ModSecurity-version-3-RC1Blogpost when 3.0 development went full speed:https://www.trustwave.com/Resources/SpiderLabs-Blog/An-Overview-of-the-Upcoming-libModSecurity/Release announcement:https://sourceforge.net/p/mod-security/mailman/message/36017726/\"",
   "Year": "2017",
   "Location": "Europe"

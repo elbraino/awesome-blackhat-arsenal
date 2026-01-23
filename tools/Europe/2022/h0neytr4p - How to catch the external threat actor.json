@@ -7,7 +7,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/BSidesSG/2021",
+  "Github URL": "https://github.com/pbssubhash/h0neytr4p",
   "Description": "Working for large clients, we realised that large enterprises don't have any mechanism to trap external threat actors primarily exploiting web vulnerabilities. They are still reliant on threat intel firms to block potential attacker IPs. Sure, there are honeypots but it's really hard and time taking to configure. The turnaround time for SOC teams to configure a honeypot for a recently disclosed vulnerability is very high, discouraging the use of the same. We aim to fix this by introducing a template based honeypot. Honeytrap is stateless, it understands patterns and it can be configured to catch complicated 0day or 1day vulnerability exploitation attempts within minutes. It empowers and encourages blue teams to put an active honeytrap network around the network which can be used to capture Indicators of compromise that can be used to block at the perimeter firewall. h0neytr4p comes in a light weight single binary deployment mode, takes either one or multiple templates as input and has csv output mode which can be easily piped onto custom tools. Currently, it supports HTTP and HTTPS only but the plan is to make it a unified platform that supports SSH, RDP or any other protocols spanning multiple scenarios.",
   "Year": "2022",
   "Location": "Europe"

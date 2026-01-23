@@ -7,7 +7,7 @@
     "Track: Hardware/Embedded"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/Trustworthy-AI-Group/Adversarial_Examples_Papers",
+  "Github URL": "https://github.com/sec-consult/SEC-Xtractor_Hardware",
   "Description": "The SEC Xtractor Assisted Hardware Analysis Tool was originally designed as internal hardware analysis tool. It was used as all-in-one solution to dump NAND / NOR / SPI and I\u00b2C flash memory chips. Because of different voltage levels of some chips, the SEC Xtractor provides the option to adjust the voltage from from 1.8V to 5.5V. Its program code is completely written in standard C which enables any programmer to modify the code without a lot of knowledge about hardware. Custom memory chips can also be added to the firmware in this way.\n\nBeside reading flash memory chips, the SEC Xtractor has integrated JTAG-bruteforce functionality with configurable pin count. UART transmit pins can be found with a passive UART identifier module.\n\nAnother capability of the SEC Xtractor is the directly available FT2232H module that enables the device to use OpenOCD and two serial ports out of the box, also with configurable voltage levels.",
   "Year": "2019",
   "Location": "Europe"

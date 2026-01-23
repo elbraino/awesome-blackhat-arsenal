@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-EU-15",
-  "Github URL": "https://github.com/lightos",
+  "Github URL": "https://github.com/CERES-Sorbonne/Panoptic",
   "Description": "Since it's debut 2 years ago, Panoptic has become the go-to open source penetration testing tool for automating the process of search and retrieval of common log and config files through path traversal vulnerabilities. For the brand new release, Panoptic will have new and enhanced capabilities, such as being able to automate the escalation of a Local File Inclusion (LFI) vulnerability to Remote Code Execution (RCE) and even spawn a meterpretrer session.",
   "Year": "2015",
   "Location": "Europe"

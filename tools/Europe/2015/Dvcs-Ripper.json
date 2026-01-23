@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-EU-15",
-  "Github URL": "https://github.com/justinsteven/advisories/blob/main/2022_git_buried_bare_repos_and_fsmonitor_various_abuses.md",
+  "Github URL": "https://github.com/kost/dvcs-ripper",
   "Description": "DVCS-Ripper will rip web accessible (distributed) version control systems ranging from Subversion and git to Mercurial and Bazaar. It can rip repositories even when directory browsing is turned off. The new release adds support for ripping packed refs in git and it speeds up git ripping drastically. Currently it is the fastest and most feature packed source code ripper tool.",
   "Year": "2015",
   "Location": "Europe"

@@ -7,7 +7,7 @@
     "Web AppSec"
   ],
   "Event": "BH-EU-16",
-  "Github URL": "https://github.com/spoofzu/DeepViolet/blob/master/src/main/java/com/mps/deepviolet/api/CipherSuiteUtil.java",
+  "Github URL": "https://github.com/spoofzu/DeepViolet",
   "Description": "DeepViolet TLS/SSL scanner is an information gathering tool for secure web servers. Written in Java, DeepViolet is be run from the command line, as a desktop application, or included as an API in other programs. Use DeepViolet to enumerate web server cipher suites, display X.509 certificate metadata, examine X.509 certificate trust chains, and more. DeepViolet is an open source project written to help educate the technical community around TLS/SSL and strengthen our knowledge of security protocols while we improve security of our web applications. DeepViolet project is always looking for volunteers.",
   "Year": "2016",
   "Location": "Europe"

@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/roottusk",
+  "Github URL": "https://github.com/roottusk/vapi",
   "Description": "vAPI is a Vulnerable Interface in a Lab like environment that mimics the scenarios from OWASP API Top 10 and helps the user understand and exploit the vulnerabilities according to OWASP API Top 10 2019. The lab is divided into 10 exercises that sequentially demonstrate the vulnerabilities and give a flag if exploited successfully.",
   "Year": "2021",
   "Location": "Europe"

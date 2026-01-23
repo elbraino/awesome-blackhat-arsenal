@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/jenaye",
+  "Github URL": "https://github.com/matro7sh/Smersh",
   "Description": "It's a collaborative open source tool to manage pentest campaigns.\nYou can install it via Docker ( it includes an Angular front end with a symfony API )\nThere is also a python client for the bearded ones.\nThe graphical interface allows you to add your scope and vulnerabilities and exchange information with your hacker partners in a Quick and easy way (also possible to generate report).",
   "Year": "2021",
   "Location": "Europe"

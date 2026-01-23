@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/zzzteph",
+  "Github URL": "https://github.com/zzzteph/appsec.study",
   "Description": "Because preventing vulnerability is less costly than redeveloping the complete application, infosec education and training become more and more actual. As a result, developers can greatly reduce the risk and expense from cyber attacks in the future by creating secure code. In addition, training the team based on the security assessment results to correct actual errors provides ongoing protection for existing and future products.\n\nSince studying is impossible without a practical part, providing hands-on lab training for developing teams is a necessary step.\nAppsecStudy - an open-source platform for seminars, training, and organizing courses for practical information security for developers and IT specialists. This tool has all the built-in basic requirements needed for organizing normal and productive training.",
   "Year": "2021",
   "Location": "Europe"

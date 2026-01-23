@@ -8,7 +8,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-EU-15",
-  "Github URL": "https://github.com/blabla1337/skf-flask",
+  "Github URL": "https://github.com/OWASP/www-project-security-knowledge-framework",
   "Description": "Over 10 years of experience in web application security bundled into a single application. The Security Knowledge Framework is a vital asset to the coding toolkit of you and your development team. Use SKF to learn and integrate security by design in your web application.In a nutshell:- Training developers in writing secure code- Security support pre-development (Security by design, early feedback of possible security issues- Security support post-development(Double check your code by means of the OWASP ASVS checklists)- Code examples for secure coding",
   "Year": "2015",
   "Location": "Europe"

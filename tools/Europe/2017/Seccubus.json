@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-EU-17",
-  "Github URL": "https://github.com/mrseccubus",
+  "Github URL": "https://github.com/seccubus/seccubus",
   "Description": "Seccubus is a tool that helps reduce the time required to perform repeated vulnerability assessments on the same infrastructure.It is a wrapper around the following tools:NessusOpenVASNmapNiktoMedusaQualys SSL labsSSLyzeSkipfishZAPtestssl.shBurpAll findings are translated to the Intermediary Vulnerability Information Language (IVIL) and imported into a database. After import findings are marked as either NEW, CHANGED, OPEN, NO ISSUE, GONE or MASKED to reduce the time required for subsequent analysis.",
   "Year": "2017",
   "Location": "Europe"

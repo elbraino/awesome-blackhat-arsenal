@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-EU-17",
-  "Github URL": "https://github.com/aaamini/hdpslicer/blob/master/HDP_data/ML.csv",
+  "Github URL": "https://github.com/intel/threatminer-for-sdl",
   "Description": "Although there are many readily available tools supporting Threat Intelligence for enterprise IT security, the lack of Threat Intelligence tools with a focus on Security Development Lifecycle (SDL) is a known gap in the security community. To address this shortcoming, we introduce \"Threat Miner SDL,\" a tool leveraging machine learning to automate mining publicly available threat intelligence sources such as security blogs, twitter feeds, NVD (National Vulnerabilities Database) and threat feeds to deliver product specific potential threat information while continuously monitoring for disclosures of relevant potential vulnerabilities during product development and beyond deployment. Threat Miner SDL also provides an integrated threat management console to enable tracking triage and disposition of potential threats.",
   "Year": "2017",
   "Location": "Europe"

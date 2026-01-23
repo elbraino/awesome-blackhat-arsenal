@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-EU-16",
-  "Github URL": "https://github.com/toolswatch/blackhat-arsenal-tools/blob/master/red_team/warberrypi.md",
+  "Github URL": "https://github.com/readloud/WarberryPi",
   "Description": "What if the only requirements for taking down a corporate network are 60 minutes and $35? Traditional hacking techniques and corporate espionage have evolved. Advanced attacks nowadays include a combination of social engineering, physical security penetration and logical security hacking. It is our job as security professionals to think outside the box and think about the different ways that hackers might use to infiltrate corporate networks.The WarBerry is a customized RaspBerryPi hacking dropbox which is used in Red Teaming engagements with the sole purpose of performing reconnaissance and mapping of an internal network and providing access to the remote hacking team while remaining covert and bypassing security mechanisms. The outcome of these red teaming exercises is the demonstration that if a low cost microcomputer loaded with python code can bypass security access controls and enumerate and gather such a significant amount of information about the infrastructure network which is located at, then what dedicated hackers with a large capital can do is beyond conception. The talk will be comprised of slides and a demonstration of the WarBerry's capabilities in a virtual network.",
   "Year": "2016",
   "Location": "Europe"

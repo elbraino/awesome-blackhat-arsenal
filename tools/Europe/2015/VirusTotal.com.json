@@ -7,7 +7,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-EU-15",
-  "Github URL": "https://github.com/orgs/VirusTotal/people",
+  "Github URL": "https://github.com/virustotal",
   "Description": "VirusTotal.com is the free online file and URL scanner that everyone knows. However there are many free features that many users don't know about such as:- IP address and domain reputation. See malware files known to be associated with a particular IP address or domain- Passive DNS info- Searching on file hash, and related files- Carbon black integration- Ctatic analysis of files, structural analysis of many file types (PE, ELF, APK, ZIP, RAR, MACHO, .NET, office, etc)- Sandbox dynamic analysis of PE, and APK files- ROMS, BIOS, and firmware files- SSDEEP, authentihash, imphash, and other similarity indexes- Certificate checks on signed files- Whitelisting of trusted files- Free desktop scanning applications for Windows, MAC, and open source for compilation on linux.",
   "Year": "2015",
   "Location": "Europe"

@@ -7,7 +7,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/L-SM-TH.md",
+  "Github URL": "https://github.com/olafhartong/sysmon-modular",
   "Description": "By using the ATT&CK framework as a basis for hunting the likelihood of catching at least part of the attackers trail is significantly increased. To make use of this rich data source I will demonstrate a Threat Hunting application which will guide your investigation along all covered ATT&CK techniques.\n\nI will release the (Mandatory Manual Learning) ThreatHunting Splunk app I've developed, which at the time of writing contains over 80 (multi)searches and over 10 dashboards leveraging summary indexes, custom visualisations and a rich set of workflow actions.\nThese dashboards contain overviews, threat indicators and facilitate consecutive drilldown workflows to help the analyst determine whether this is a threat or not and also provides a whitelisting option for false positives.\n\nKnowledge is power; the workflow has been intentionally built on generic searches to cover all attack variations, in the beginning this will generate quite some false positives. It might not appear so but this is a great thing, it will teach the hunters a great deal about their environment and therefore over time they'll be more efficient in detecting malicious behavior.",
   "Year": "2018",
   "Location": "Europe"

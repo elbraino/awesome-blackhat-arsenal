@@ -7,7 +7,7 @@
     "Track: Android, iOS and Mobile Hacking"
   ],
   "Event": "BH-EU-16",
-  "Github URL": "https://github.com/kost/NetworkMapper",
+  "Github URL": "https://github.com/ssoo2024/NmapOnAndroid",
   "Description": "Network Mapper is Android frontend for well known Nmap scanner. Frontend will help you to download, install and run Nmap on Android-based phone. It is also a collection of tools to build all known Android architectures: arm, mips and x86 in 32/64 bit architectures.Shiny new 2.0 release will be presented with easy interface and mobile specific scans.",
   "Year": "2016",
   "Location": "Europe"

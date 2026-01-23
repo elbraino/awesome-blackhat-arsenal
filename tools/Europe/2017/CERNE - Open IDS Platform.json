@@ -7,7 +7,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-EU-17",
-  "Github URL": "https://github.com/fuzihaofzh/distant_supervision_nlg/blob/master/output/preprocessed/wita50k/dev.src",
+  "Github URL": "null",
   "Description": "The CERNE is a powerful, open IDS platform with on demand capture, delivering IDS alerts using the widely supports Suricata and complete TCP or UDP session data, containing suspected threats for rapid incident response analysis.",
   "Year": "2017",
   "Location": "Europe"

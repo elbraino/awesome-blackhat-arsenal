@@ -7,7 +7,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-EU-14",
-  "Github URL": "https://github.com/shadawck/awesome-anti-forensic/blob/master/README.md?plain=1",
+  "Github URL": "https://github.com/digitalsleuth/naft",
   "Description": "Memory forensics is the next step the forensic community has taken. With NAFT Online, you can learn memory forensics for Cisco IOS. Learn how to use the Network Appliance Forensic Toolkit with a real Cisco IOS router.",
   "Year": "2014",
   "Location": "Europe"
