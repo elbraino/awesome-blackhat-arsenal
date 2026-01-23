@@ -8,7 +8,7 @@
     "Reverse Engineering"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/quarkslab/peetch/blob/master/README.md",
+  "Github URL": "https://github.com/quarkslab/peetch",
   "Description": "peetch is a collection of tools aimed at experimenting with different aspects of eBPF to bypass TLS protocol protections.",
   "Year": "2023",
   "Location": "Europe"

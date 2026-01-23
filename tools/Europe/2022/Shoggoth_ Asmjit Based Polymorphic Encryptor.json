@@ -7,7 +7,7 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/frkngksl",
+  "Github URL": "https://github.com/frkngksl/Shoggoth",
   "Description": "From past to present, signature-based detection has been one of the first and most basic methods used to detect malicious files. Even today, every file written to the file system is first scanned using the signatures found in the database of security products. Therefore, when creating variants of a tool or a technique, one of the most used methods to prevent them from being captured by a single signature is Polymorphism.\n\nWhile polymorphism was used for this purpose, it was embedded in the virus variant as an engine, especially in self-propagating viruses. Nowadays, polymorphism occurs in the obfuscation of a binary or a shellcode. New variants of these codes, which are produced with polymorphic encoders such as Shikata Ga Nai (SGN), make them difficult to detect with a general and single YARA rule. Shoggoth is yet another polymorphic encoder written using asmjit library.\n\nFor each encoding period of a binary, Shoggoth generates different encryption routines with different garbage instructions. After obtaining the encrypted form of the payload, the tool merges it with its decryptor stub which again contains different garbage instructions. Shoggoth uses asmjit library for assembling the process of randomly generated encryption and garbage instructions.",
   "Year": "2022",
   "Location": "Europe"

@@ -8,7 +8,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-EU-15",
-  "Github URL": "https://github.com/certtools/intelmq/blob/develop/AUTHORS",
+  "Github URL": "https://github.com/certtools/intelmq",
   "Description": "IntelMQ is a solution for collecting and processing security feeds, pastebins, and tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs.",
   "Year": "2015",
   "Location": "Europe"

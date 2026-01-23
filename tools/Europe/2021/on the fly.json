@@ -8,7 +8,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/erlang-punch/awesome-erlang?search=1",
+  "Github URL": "https://github.com/graphdeco-inria/on-the-fly-nvs",
   "Description": "The 'on-the-fly' tool intends to give the pentester an 'all-in-one' tool by deploying different functionalities applicable across the three domains of work: IoT, ICS & IT. The present work introduces a new framework in which enough functionalities will be provided to discover, evaluate, and audit technologies from the three mentioned domains.",
   "Year": "2021",
   "Location": "Europe"

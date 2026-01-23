@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-EU-15",
-  "Github URL": "https://github.com/Varbaek/xsser/blob/master/xsser.py",
+  "Github URL": "https://github.com/Varbaek/xsser",
   "Description": "This presentation demonstrates how an attacker can utilise XSS to execute arbitrary code on the web server when an administrative user inadvertently triggers a hidden XSS payload.Custom tools and payloads integrated with Metasploit's Meterpreter in a highly automated approach will be demonstrated live, including post-exploitation scenarios and interesting data that can be obtained from compromised web applications.",
   "Year": "2015",
   "Location": "Europe"

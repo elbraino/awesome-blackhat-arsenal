@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-EU-16",
-  "Github URL": "https://github.com/Varbaek/xsser",
+  "Github URL": "https://github.com/xapax/xss-to-rce",
   "Description": "This presentation demonstrates how an attacker can utilise XSS to execute arbitrary code on the web server when an administrative user inadvertently triggers a hidden XSS payload. Custom tools and payloads integrated with Metasploit's Meterpreter in a highly automated approach will be demonstrated live, including post-exploitation scenarios and interesting data that can be obtained from compromised web applications. This version includes cool notifications and new attack vectors!",
   "Year": "2016",
   "Location": "Europe"

@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/sadreck",
+  "Github URL": "https://github.com/ctxis/SnitchDNS",
   "Description": "\"It's always DNS\". SnitchDNS is database driven (basic) DNS server built using Twisted, with a fancy web interface to go with it. Ideal for Red Team infrastructure, bug bounties, ad-blocking, DNS tunnels, and more.\n\nAs it's database driven, any changes are reflected immediately, match wildcard subdomains, source IP restrictions, conditional responses (great for SSRF), Slack/Teams/Email/Push notifications, logging, Swagger 2.0 API, full CLI interface, and more!\n\nIdeal use cases are as a DNS Tunnel, DNS forwarding server, red teams, canary tokens, LetsEncrypt DNS challenge, and even ad-blocking.",
   "Year": "2020",
   "Location": "Europe"

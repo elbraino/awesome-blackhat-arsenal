@@ -7,7 +7,7 @@
     "Track: Hardware / Embedded"
   ],
   "Event": "BH-EU-17",
-  "Github URL": "https://github.com/mathew-fleisch/def-con-schedule/blob/master/docs/conference.json",
+  "Github URL": "https://github.com/Sterncat/opticspy",
   "Description": "Data exfiltration from a compromised device is usually achieved over the network, via hardware implant, or by manipulating the characteristics of an internal electronic component. Optical covert channels transmit data by modulating visible light in a way that is undetectable to the human eye. Even though hackers and academics have been exploring methods of optical data exfiltration for years, details on the techniques used to capture transmissions are not fully documented and/or require expensive equipment.OpticSpy consists of two open source hardware modules that provide a low-cost way to explore, evaluate, and experiment with optical covert channels. One is based on an easy-to-build digital receiver, while the other is an analog design that allows fine-tuning for a particular target signal.PRESENTATION MATERIALS:http://www.grandideastudio.com/optical-covert-channels/",
   "Year": "2017",
   "Location": "Europe"

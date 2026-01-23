@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/rafaveira3",
+  "Github URL": "https://github.com/globocom/huskyCI",
   "Description": "huskyCI is an open-source tool that performs security tests inside CI pipelines of multiple projects and centralizes all results into a database for further analysis and metrics.",
   "Year": "2019",
   "Location": "Europe"

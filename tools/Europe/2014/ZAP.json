@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-EU-14",
-  "Github URL": "https://github.com/zaproxy/zaproxy/wiki/ZapEvangelists/9e72f34d8bcb3b6940e6b28240a54063f6370e2d",
+  "Github URL": "https://github.com/uber-go/zap",
   "Description": "The Zed Attack Proxy (ZAP) is currently the most active open source web application security tool and competes effectively with commercial tools.While it is an ideal tool for people new to appsec, it also has many features specifically intended for advanced penetration testing.Zack will give a quick introduction to ZAP and then dive into the more advanced features, presenting some useful scripts as well as giving an overview of where its heading.",
   "Year": "2014",
   "Location": "Europe"

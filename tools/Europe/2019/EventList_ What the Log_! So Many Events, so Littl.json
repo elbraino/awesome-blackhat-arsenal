@@ -7,7 +7,7 @@
     "Track: Data Forensics and Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/OWASP/www-chapter-london/blob/master/tab_pastevents.md",
+  "Github URL": "https://github.com/miriamxyra/EventList",
   "Description": "Detecting adversaries is not always easy - especially when it comes to correlating Windows Event Logs to real-world attack patterns and techniques. EventList helps to match Windows Event Log IDs with the MITRE ATT&CK framework (and vice-versa) and offers methods to simplify the detection in corporate environments worldwide.",
   "Year": "2019",
   "Location": "Europe"

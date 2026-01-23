@@ -7,7 +7,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-EU-17",
-  "Github URL": "https://github.com/vaguileradiaz",
+  "Github URL": "https://github.com/vaguileradiaz/tinfoleak",
   "Description": "Tinfoleak is an open-source tool within the OSINT (Open Source Intelligence) and SOCMINT (Social Media Intelligence) disciplines, that automates the extraction of information on Twitter and facilitates subsequent analysis for the generation of intelligence. Taking a user identifier, geographic coordinates or keywords, Tinfoleak analyzes the Twitter timeline to extract great volumes of data and show useful and structured information to the intelligence analyst. Tinfoleak is included in several Linux Distros: CAINE, BlackArch, Buscador, and will be included in Kali Linux 2017.2 release. It is currently the most comprehensive open-source tool for intelligence analysis on Twitter.",
   "Year": "2017",
   "Location": "Europe"

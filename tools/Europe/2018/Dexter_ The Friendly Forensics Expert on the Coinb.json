@@ -7,7 +7,7 @@
     "Data Forensics and Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/coinbase/dexter/blob/master/doc/dexter.md",
+  "Github URL": "https://github.com/coinbase/dexter",
   "Description": "Sometimes you want to be able to pull forensic images off your production hosts, but you want to make sure you set that up correctly. If you don't, people might steal customer financial data or cryptocurrency private keys for hot wallets (or something else), and that would be a very bad day for you and for the cryptocurrency community. This talk introduces Dexter, a forensics tool for high security environments. Dexter makes sure that no single person can do scary forensics things, and that the scary results of the scary forensic things can only be read by people who aren't scary. I'll give an overview of the Coinbase production environment, data pipeline, and detection tooling to set the stage for when we might use Dexter. We will then walk through how Dexter works and do a demo that will totally work and not have any technical issues whatsoever.",
   "Year": "2018",
   "Location": "Europe"

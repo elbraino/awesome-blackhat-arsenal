@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-EU-15",
-  "Github URL": "https://github.com/brompwnie",
+  "Github URL": "https://github.com/jack-app",
   "Description": "Jack is a novel web based tool to assist in the identification and illustration of abusing web resources in terms of ClickJacking. Jack allows implementers to identify if certain online resources are vulnerable to ClickJacking and also allows implementers to generate a PoC to harvest submitted user credentials to illustrate the affect of the vulnerability. Jack also allows implementers to generate a local instance of the PoC site and deploy it a HTTP container such as Apache.",
   "Year": "2015",
   "Location": "Europe"

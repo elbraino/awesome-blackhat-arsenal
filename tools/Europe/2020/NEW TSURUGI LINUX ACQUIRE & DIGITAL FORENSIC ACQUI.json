@@ -8,7 +8,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/drego85/HackInBo",
+  "Github URL": "https://github.com/mesquidar/ForensicsTools",
   "Description": "Tsurugi ACQUIRE is a dedicated Linux OS to perform DIGITAL FORENSIC acquisition before to start post mortem DFIR investigations.",
   "Year": "2020",
   "Location": "Europe"

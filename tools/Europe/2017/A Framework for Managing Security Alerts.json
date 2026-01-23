@@ -8,7 +8,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-EU-17",
-  "Github URL": "https://github.com/djeebus/defcon24ical/blob/master/defcon24.ics",
+  "Github URL": "https://github.com/etsy/411",
   "Description": "Modern web applications are noisy systems that generate enormous amounts of logging information. This information is valuable for debugging and for forensic reasons. Yet, sifting through this information is a daunting task, to say nothing of collecting it in the first case. Many teams have turned to suites like ELK (Elasticsearch, Logstash, Kibana) to ingest and surface this treasure trove of information. It's a valuable resource for Security teams, provided they can surface this information in a timely manner. These were the constraints Etsy worked with in 2014. We needed a solution for generating alerts on top of ELK. This system should have the capability to inject additional context into alerts. There was no available solution at the time, so we built one.We named this open-source framework 411. We designed 411 as a solution for detecting noteworthy security events, but it's a general useful alerting tool. Nor is it just limited to Elasticsearch, as we've built additional modules for pull data from other sources! This presentation assumes you have an ELK stack set up already. We'll show you some recommendations on logs to index in Elasticsearch. Examples will be provided of alerts that you can build off these logs. We'll demo some of the ways 411 can add context to alerts and the ways you can receive these alerts. Whether you're a newbie looking to learn more or a security veteran with an established system, 411 will be a valuable addition your toolkit.",
   "Year": "2017",
   "Location": "Europe"

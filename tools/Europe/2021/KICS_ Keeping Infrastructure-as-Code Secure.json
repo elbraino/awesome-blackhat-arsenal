@@ -7,7 +7,7 @@
     "Track: Code Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/oribendetcx",
+  "Github URL": "https://github.com/Checkmarx/kics",
   "Description": "Infrastructure as Code (IaC)\u202fmakes deploying cloud or container configurations scalable and faster. If you are launching a microservice into a Kubernetes cluster, or even building an entire AWS virtual infrastructure, IaC can automate the deployment. By building repeatable templates you can also ensure that deployments happen exactly as you design, every time.\n\nHowever, errors in infrastructure configuration are now regarded as the second biggest cause of data breaches. There are many ways to give adversaries an advantage through security misconfigurations. Overly permissive storage volumes, unauthenticated database access, or ports left open to the internet have all been a cause of compromise. The solution? Treat your infrastructure code the same as your application code. During your build process, use tools to scan for infrastructure misconfigurations. When you find them raise alerts or even break the build.\u202f\n\nIn this session, we will discuss common types of IaC misconfigurations, and demonstrate a free, open source security tool that developers can build into their pipelines to help protect infrastructure from compromise.",
   "Year": "2021",
   "Location": "Europe"

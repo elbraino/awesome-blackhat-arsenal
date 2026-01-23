@@ -7,7 +7,7 @@
     "Track: Android, iOS and Mobile Hacking"
   ],
   "Event": "BH-EU-15",
-  "Github URL": "https://github.com/erlang-punch/awesome-erlang?search=1",
+  "Github URL": "https://github.com/dipjyotimetia/MobileTestFramework",
   "Description": "The Android Device Testing Framework (\"dtf\") project started back in 2014 as a collection of scripts and utilities that aimed to help individuals answer the question: \"Where are the vulnerabilities on this mobile device?\"  Since then, dtf has grown into a robust and extensive data collection and analysis framework with over 30 modules that allow testers to obtain information from their Android device, process this information into databases, and then start searching for vulnerabilities (all without requiring root privileges).  These modules help you focus on changes made to AOSP components such as applications, frameworks, system services, as well as lower-level components such as binaries, libraries, and device drivers.  In addition, you'll be able to analyze new functionality implemented by the OEMs and other parties to find vulnerabilities.",
   "Year": "2015",
   "Location": "Europe"

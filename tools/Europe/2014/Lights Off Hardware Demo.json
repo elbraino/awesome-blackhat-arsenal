@@ -7,7 +7,7 @@
     "Track: Hardware / Embedded"
   ],
   "Event": "BH-EU-14",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "https://github.com/hdf1996/lights-demo",
   "Description": "Are you interested in the \"Lights Off! The Darkness of the Smart Meters\" talk that will be presented at Black Hat Europe? Then you should check this out! Since Arsenal brings the invaluable opportunity of allowing the attendees to get a closer look at researchers work, we want to show you the real stuff. We want you to be able to see, feel and touch the process of reversing we experienced, and show you the tools we used.There will be IDA, Logic Analysers, GDB, Arduino, blown hardware (literally!) and a lot of wires!",
   "Year": "2014",
   "Location": "Europe"
