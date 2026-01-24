@@ -5,8 +5,8 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-US-14",
-  "Github URL": "https://github.com/psiinon/open-source-web-scanners",
-  "Description": "Tripwire SecureScan\u00e2\u0084\u00a2 is a free, cloud-based vulnerability management service for up to 100 Internet Protocol (IP) addresses on internal networks. This new tool makes vulnerability management easily accessible to small and medium-sized businesses that may not have the resources for enterprise-grade security technology \u00e2\u0080\u0093 and it detects the Heartbleed vulnerability among many others. Fast, free, and simple to use - no license required.",
+  "Github URL": "https://github.com/roshr22/SecureScan",
+  "Description": "Tripwire SecureScanâ¢ is a free, cloud-based vulnerability management service for up to 100 Internet Protocol (IP) addresses on internal networks. This new tool makes vulnerability management easily accessible to small and medium-sized businesses that may not have the resources for enterprise-grade security technology â and it detects the Heartbleed vulnerability among many others. Fast, free, and simple to use - no license required.",
   "Year": "2014",
   "Location": "USA"
 }

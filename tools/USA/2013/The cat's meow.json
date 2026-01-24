@@ -7,7 +7,7 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-US-13",
-  "Github URL": "https://github.com/nabeelvalley/link-book",
+  "Github URL": "null",
   "Description": "The Cat's Meow is a tool used during our penetration testing which analyzes the most common password scheme seen during our decoding and decryption stage of post exploitation. The tool reads in a password list of already obtained cleartext passwords and produces the most commonly seen Hashcat Masks which can then in turn be used to more quickly reverse other passwords.",
   "Year": "2013",
   "Location": "USA"

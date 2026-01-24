@@ -8,7 +8,7 @@
     "Track: Cryptography"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/CrackerCat/GitHubLinks",
+  "Github URL": "https://github.com/hashview/hashview-old",
   "Description": "Hashview is a web front-end to hashcat with many powerful features geared towards penetration testers. Leverage task automation and real-time analytics for increased results and fancy reports.\n\nHashview includes the following features:\n\nAutomate workflow methodologies\nCreate custom password cracking tasks\nUse data from previous jobs to increase cracking speeds\nFancy analytics useful for client reports\nDistributed cracking\nEmail/SMS Notifications\nRetroactively crack hashes from previous jobs\nAdvanced searching of hashes, usernames, and plains\nSmart wordlists\nOptional community integration for accelerated cracking",
   "Year": "2017",
   "Location": "USA"

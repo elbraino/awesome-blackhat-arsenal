@@ -8,7 +8,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "https://github.com/Goldenfreddy0703/Otaku",
   "Description": "We've developed a tool gathering attack vectors against web application such as XSS, SQLi, CSRF, etc. First, We prepared a web server as a decoy based on a famous CMS, WordPress, and built Mod Secrity to collect all logs regarding to HTTP requests including POST body data. Generally speaking, a decoy web server needs web access to some degree as to attract users and attackers. We deployed a system named OTAKU-BOT which automatically collects and posts random information about Japanese ANIME and MANGA(cartoon) into the decoy web server. Very characteristic point of this system is that we can find whether Japanese ANIME is likely to be targeted or not by attackers. (or No correlation between them).Furthermore, We developed another web application \"WP Portal\", which visualizes these attacks in a real-time. This application enable us to monitor attack trend. WP Portal also has a vulnerability scanner for WordPress. You can start the scanner and view vulnerability reports on WP Portal.Dictionary Files for the scanner is created from honeypots and are updating daily. We will demonstrate this bot and the visualization tool. Participants can got attack vectors via WP Portal! Furthermore, our demo will show honeypots, a website, and analysis of attacks against WordPress.",
   "Year": "2016",
   "Location": "USA"

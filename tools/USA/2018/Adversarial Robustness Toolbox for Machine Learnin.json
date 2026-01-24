@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://gist.github.com/standardgalactic/7f03809c56f4b098b95a50ada32cd02c",
+  "Github URL": "https://github.com/Trusted-AI/adversarial-robustness-toolbox",
   "Description": "Adversarial attacks of machine learning systems have become an undisputable threat. Attackers can compromise the training of machine learning models by injecting malicious data into the training set (so-called poisoning attacks), or by crafting adversarial samples that exploit the blind spots of machine learning models at test time (so-called evasion attacks). Adversarial attacks have been demonstrated in a number of different application domains, including malware detection, spam filtering, visual recognition, speech-to-text conversion, and natural language understanding. Devising comprehensive defences against poisoning and evasion attacks by adaptive adversaries is still an open challenge.\n\nWe will present the Adversarial Robustness Toolbox (ART), a library which allows rapid crafting and analysis of both attacks and defence methods for machine learning models. It provides an implementation for many state-of-the-art methods for attacking and defending machine learning. Through ART, the attendees will (re)discover how to attack and defend machine learning systems.",
   "Year": "2018",
   "Location": "USA"

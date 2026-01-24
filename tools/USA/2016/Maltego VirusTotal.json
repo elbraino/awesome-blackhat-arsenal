@@ -8,7 +8,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "https://github.com/padfoot999/Maltego-VirusTotal",
   "Description": "VirusTotal is a free service that analyzes suspicious files and URLs and facilitates the quick detection of all kinds of malware. Maltego is an open source intelligence and forensics application that offers gathering and mining of VirusTotal's Public API in a easy to understand format.",
   "Year": "2016",
   "Location": "USA"

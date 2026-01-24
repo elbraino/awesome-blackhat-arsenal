@@ -5,7 +5,7 @@
     "Track: Hardware / Embedded"
   ],
   "Event": "BH-US-14",
-  "Github URL": "https://github.com/ziglang/zig/blob/master/tools/zig_gdb_pretty_printers.py",
+  "Github URL": "https://github.com/NTBBloodbath/zig-tools.nvim",
   "Description": "ZigTools is a Python framework, which was developed to reduce the complexity in writing additional functionality in communicating with the Freakduino (Low cost arduino based 802.15.4 platform). Features such as initializing the radio, changing channels, sending data and processing that data can be written in just a few lines, allowing developers to focus on writing more complex applications without worrying about the low-level communications between the radio and computer.",
   "Year": "2014",
   "Location": "USA"

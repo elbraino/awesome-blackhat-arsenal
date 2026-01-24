@@ -8,7 +8,7 @@
     "Track: Data Forensics and Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/CrackerCat/GitHubLinks/blob/master/README.md",
+  "Github URL": "https://github.com/Netflix/security_monkey",
   "Description": "Cloud deployments can be highly secure if controls are applied properly. There are, however, common misconfigurations to be aware of. Overly permissive firewall rules, load balancers that permit deprecated versions of TLS or weak ciphers, and services that are open to the internet are a few examples of misconfigurations that can lower the overall security of your cloud environment.\n\nSecurity Monkey is a tool that can detect these issues and more. Security Monkey constantly gathers data about the configuration of a cloud deployment and watches for misconfigurations. Alerters can be configured to notify the security team or extended to automatically remediate the issue. Custom watchers make it easy to implement Security Monkey checks for deployment specific issues. All findings are presented in a dashboard that can be queried and filtered to show current issues and historical state of the environment.\n\nThe Security Monkey team is also pleased to announce the recent support of Google Cloud Platform watchers, making it easy to get a complete view of multi-cloud security status.",
   "Year": "2017",
   "Location": "USA"

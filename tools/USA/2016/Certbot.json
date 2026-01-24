@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://github.com/bmw",
+  "Github URL": "https://github.com/certbot/certbot",
   "Description": "The majority of the world's Web traffic is still unencrypted and sent using the insecure HTTP. Despite SSL/TLS having existed for decades, it has seen limited adoption on modern webservers. This is largely due to the plethora of obstacles one must over come to enable HTTPS. The process of obtaining a certificate can be expensive and convoluted. Additionally, creating a secure TLS configuration is difficult, especially when it must be constantly updated in response to new attacks against the protocol and implementations of it.To attempt to solve this problem, EFF, Mozilla Cisco, Akamai, IdenTrust, and a team from the University of Michigan have created Let's Encrypt, a free and automated certificate authority. Since the project entered beta in October of last year, the CA has issued millions of certificates making it one of the largest certificate authorities in the world today.Earlier this year, EFF unveiled Certbot, a free and open source tool which can be used to set up HTTPS on a webserver in the matter of seconds. Certbot communicates to the Let's Encrypt CA through a protocol called ACME allowing for automated domain validation and certificate issuance. In this session, I plan to show how easy it is to use Certbot to enable HTTPS with certificates from Let's Encrypt as well as answer any questions you may have about the project.",
   "Year": "2016",
   "Location": "USA"

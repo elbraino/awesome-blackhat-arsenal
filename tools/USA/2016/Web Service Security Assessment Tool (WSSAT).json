@@ -8,7 +8,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://github.com/toolswatch/blackhat-arsenal-tools/blob/master/webapp_security/wssat.md",
+  "Github URL": "https://github.com/YalcinYolalan/WSSAT",
   "Description": "WSSAT is an open source web service security scanning tool which provides a dynamic environment to add, update or delete vulnerabilities by just editing its configuration files. This tool accepts WSDL address list as input file and performs both static and dynamic tests against the security vulnerabilities. It also makes information disclosure controls.Objectives of WSSAT are to allow organizations:Perform their web services security analysis at onceSee overall security assessment with reportsHarden their web servicesWSSAT's main capabilities include:Dynamic Testing:Insecure Communication - SSL Not UsedUnauthenticated Service MethodError Based SQL InjectionCross Site ScriptingXML BombExternal Entity Attack - XXEXPATH Injection Verbose SOAP Fault MessageStatic Analysis:Weak XML Schema: Unbounded OccurrencesWeak XML Schema: Undefined NamespaceWeak WS-SecurityPolicy: Insecure TransportWeak WS-SecurityPolicy: Insufficient Supporting Token ProtectionWeak WS-SecurityPolicy: Tokens Not ProtectedInformation Leakage:Server or development platform oriented information disclosureWSSAT's main modules are:ParserVulnerabilities LoaderAnalyzer/AttackerLoggerReport GeneratorThe main difference of WSSAT is to create a dynamic vulnerability management environment instead of embedding the vulnerabilities into the code. More information can be found here: https://github.com/YalcinYolalan/WSSAT.",
   "Year": "2016",
   "Location": "USA"

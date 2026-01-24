@@ -7,7 +7,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "https://github.com/Phillipmartin/gopassivedns",
   "Description": "Passive DNS is an awesome data source. A growing number of companies out there will sell you access to huge repos of historical lookups across the internet. That data can be hugely helpful in detecting or responding to a security incident...but what about the DNS lookups that happen in your own backyard? gopassivedns is a network-capture based DNS logger, written in Go, designed to be run anywhere and everywhere you expect to see DNS lookups. It uses gopacket to deal with libpcap and packet processing. It outputs JSON logs to a number of log sinks (files, kafka, flumed, etc) and stats via statsd. Come, learn and never miss another DNS lookup again.",
   "Year": "2016",
   "Location": "USA"

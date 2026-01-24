@@ -8,7 +8,7 @@
     "Track: Hardware / Embedded"
   ],
   "Event": "BH-US-13",
-  "Github URL": "https://github.com/mossmann/hackrf/blob/master/firmware/hackrf-common.cmake",
+  "Github URL": "https://github.com/greatscottgadgets/hackrf",
   "Description": "The HackRF project is developing an open source hardware design for a low cost Software Defined Radio (SDR) transceiver platform.  SDR technology allows a single piece of equipment to implement virtually any wireless technology (Bluetooth, GSM, ZigBee, etc.), and we hope the availability of a low cost SDR platform will revolutionize wireless communication security research and development throughout the information security community.  Having distributed hundreds of beta units (HackRF Jawbreaker) and soliciting feedback, Black Hat Arsenal Tools USA 2013 is the first chance to see the next generation hardware design in person.",
   "Year": "2013",
   "Location": "USA"

@@ -5,7 +5,7 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-US-14",
-  "Github URL": "https://github.com/Veil-Framework/Veil/wiki",
+  "Github URL": "https://github.com/Veil-Framework/Veil",
   "Description": "The Veil-Framework is an open source project that aims to bridge the gap between pen-testing and red team toolsets. It began with Veil-Evasion, a tool to generate AV-evading payload executables, expanded into payload delivery with the release of Veil-Catapult, and branched into Powershell functionality with the release of Veil-PowerView for domain situational awareness. This Arsenal presentation will cover the inner workings of all of these tools, and demonstrate various use cases where the Veil-Framework can help facilitate engagements.",
   "Year": "2014",
   "Location": "USA"

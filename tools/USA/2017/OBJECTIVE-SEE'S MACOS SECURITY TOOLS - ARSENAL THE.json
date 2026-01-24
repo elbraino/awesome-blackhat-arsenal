@@ -7,7 +7,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://gist.github.com/jgamblin/18232aa92dc9408e306b07f339dfe057",
+  "Github URL": "https://github.com/objective-see",
   "Description": "Patrick drank the Apple juice; to say he loves his Mac is an understatement. However, he is bothered by the increasing prevalence of macOS malware and how both Apple & 3rd-party security tools can be easily bypassed. Instead of just complaining about this fact, he decided to do something about it. To help secure his personal computer, he's written various macOS security tools that he now shares online (always free!), via objective-see.com.\n\nSo come watch as OverSight detects malware that spies on users (via the webcam/mic, Ransomwhere?), generically detects macOS ransomware, and a new open-source macOS firewall is released! Our Macs will remain secure!",
   "Year": "2017",
   "Location": "USA"

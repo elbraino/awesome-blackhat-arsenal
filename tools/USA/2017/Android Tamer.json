@@ -8,7 +8,7 @@
     "iOS and Mobile Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/toolswatch/blackhat-arsenal-tools/blob/master/mobile_hacking/androidtamer.md",
+  "Github URL": "https://github.com/anantshri/androidtamer",
   "Description": "Android Tamer is a project to provide various resources for Android mobile application and device security reviews. Be it pentesting, malware analysis, reverse engineering or device assessment. We strive to solve some of the major pain points in setting up the testing environments by providing various ways and means to perform the task in most effortless manner.",
   "Year": "2017",
   "Location": "USA"

@@ -3,8 +3,8 @@
   "Speakers": null,
   "Tracks": null,
   "Event": "BH-US-14",
-  "Github URL": "https://github.com/ispysoftware/iSpy/blob/master/MainForm_Configuration.cs",
-  "Description": "Frustrated with the lack of mature tools for iOS security assessment?  Wouldn\u00e2\u0080\u0099t you like an integrated toolchain to pull together many of the existing tools, but also integrate new and interesting tools? Perhaps you\u00e2\u0080\u0099d like to use some more advanced iOS hacking/reversing/debugging but don\u00e2\u0080\u0099t have time on the job to learn gdb.  Maybe you just want to pick up iOS hacking fast and would like a mature toolchain to help you.",
+  "Github URL": "https://github.com/ispysoftware/iSpy",
+  "Description": "Frustrated with the lack of mature tools for iOS security assessment?  Wouldnât you like an integrated toolchain to pull together many of the existing tools, but also integrate new and interesting tools? Perhaps youâd like to use some more advanced iOS hacking/reversing/debugging but donât have time on the job to learn gdb.  Maybe you just want to pick up iOS hacking fast and would like a mature toolchain to help you.",
   "Year": "2014",
   "Location": "USA"
 }

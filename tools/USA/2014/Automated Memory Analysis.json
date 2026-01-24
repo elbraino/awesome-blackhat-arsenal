@@ -5,7 +5,7 @@
     "Track: Reverse Engineering"
   ],
   "Event": "BH-US-14",
-  "Github URL": "https://github.com/digitalisx/awesome-memory-forensics",
+  "Github URL": "https://github.com/djteller/MemoryAnalysis",
   "Description": "Automated Memory Analysis is a set of new innovative Cuckoo Sandbox plugins that adds new dynamic and memory analysis abilities such as:",
   "Year": "2014",
   "Location": "USA"

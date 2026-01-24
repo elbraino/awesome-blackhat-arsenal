@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://github.com/siberas/watobo/blob/master/watobo.gemspec",
+  "Github URL": "https://github.com/siberas/watobo",
   "Description": "WATOBO is a security tool for testing web applications. It is intended to enable security professionals to perform efficient (semi-automated) web application security audits. Most important features are:WATOBO has Session Management capabilities! You can define login scripts as well as logout signatures. So you don't have to login manually each time you get logged out.WATOB can act as a transparent proxy (requires nfqueue)WATOBO can perform vulnerability checks out of the boxWATOBO can perform checks on functions which are protected by Anti-CSRF-/One-Time-TokensWATOBO supports Inline De-/Encoding, so you don't have to copy strings to a transcoder and back again. Just do it inside the request/response window with a simple mouse click.WATOBO has smart filter functions, so you can find and navigate to the most interesting parts of the application easily.WATOBO is written in (FX)Ruby and enables you to easily define your own checksWATOBO runs on Windows, Linux, MacOS ... every OS supporting (FX)RubyWATOBO is free software ( licensed under the GNU General Public License Version 2WATOBO is written in (FX)Ruby and was initially released in May 2010 as an open source project on SourceForge (https://watobo.sourceforge.net).",
   "Year": "2016",
   "Location": "USA"

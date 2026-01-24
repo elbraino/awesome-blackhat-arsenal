@@ -5,7 +5,7 @@
     "Track: Hardware / Embedded"
   ],
   "Event": "BH-US-14",
-  "Github URL": "https://github.com/grandideastudio/jtagulator/blob/master/JTAGulator.spin",
+  "Github URL": "https://github.com/grandideastudio/jtagulator",
   "Description": "JTAGulatoris an open source hardware hacking tool that assists in identifying on-chip debug interfaces from test points, vias, or component pads on a circuit board. The tool can save a tremendous amount of time during reverse engineering, particularly for those who don't have the skill and/or equipment required for traditional processes. Released at Black Hat USA 2013, the tool supports detection of JTAG and asynchronous serial/UART interfaces. New features are being added as they're developed to expand the functionality and increase support for other protocols.",
   "Year": "2014",
   "Location": "USA"

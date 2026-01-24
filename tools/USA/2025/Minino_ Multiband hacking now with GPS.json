@@ -9,7 +9,7 @@
     "Arsenal Lab"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/ElectronicCats/Minino",
   "Description": "Minino is a Swiss Army knife for IoT hacking, designed to empower security professionals with a versatile, all-in-one toolkit for assessing and attacking IoT devices. Minino integrates WiFi, Bluetooth Low Energy (BLE), Zigbee, Thread, Matter, and a GPS module into a compact, open-source hardware solution.\n\nIoT security is often fragmented, requiring multiple tools to assess protocols and attack vectors. Minino simplifies this process by consolidating essential offensive security functions into a single device, making it an indispensable asset for penetration testers, red teamers, and hardware hackers.\n\nWith the latest update, Minino can upload your wardriving data straight into wiggle.net and wardrive for hours with its battery saving mode.\n\nThis session will introduce real-world attack scenarios enabled by Minino, demonstrate its capabilities through live demos, and highlight its potential for uncovering new vulnerabilities. As an open-source project, Minino is built to evolve, with contributions from the security community driving continuous improvements.",
   "Year": "2025",
   "Location": "USA"

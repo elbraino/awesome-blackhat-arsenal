@@ -7,7 +7,7 @@
     "Track: Android, iOS and Mobile Hacking"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://github.com/toolswatch/blackhat-arsenal-tools/blob/master/mobile_hacking/androidtamer.md",
+  "Github URL": "https://github.com/anantshri/androidtamer",
   "Description": "AndroidTamer started out as a VirtualMachine for Android (security) Professional, we are slowly making Android Tamer a single point of Reference for Android Professionals. We will be demoing multiple projects that we have created under AndroidTamer umbrella,AndroidTamer Debian based VM Customized to the core debian 8 based virtual machine environment with preloaded tools for usage in Android PentestingAndroid-emulator customised for pentesting (both x86 and arm version) Customized emulator to be used in place of a device in both x86 and arm version which can be coupled with Tamer VM.Most extensive Tools Documentation https://tools.androidTamer.com: hosts the most extensive single location documentation for largest array of tools needed for android security.DEB / YUM Repository for tools / software distribution. https://repo.androidtamer.com: Only repository which is actively maintained and support both debian and Redhat distributions.Knowledge Base https://kb.Androidtamer.com: contains various documentation around android which is useful to many people around the world. includes our very famous \"Android Security Enhancement\" sheet.All this will be part of the jam packed demo's that will be presented at Black Hat USA Arsenal.",
   "Year": "2016",
   "Location": "USA"

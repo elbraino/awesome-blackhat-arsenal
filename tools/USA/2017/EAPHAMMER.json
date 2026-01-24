@@ -7,7 +7,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/s0lst1c3/eaphammer/blob/master/Changelog",
+  "Github URL": "https://github.com/s0lst1c3/eaphammer",
   "Description": "EAPHammer is a toolkit for performing targeted evil twin attacks against WPA2-Enterprise networks. It is designed to be used in full scope wireless assessments and red team engagements. As such, focus is placed on providing an easy-to-use interface that can be leveraged to execute powerful wireless attacks with minimal manual configuration. To illustrate how fast this tool is, here's an example of how to setup and execute a credential stealing evil twin attack against a WPA2-TTLS network in just two commands:\n\n# generate certificates\n./eaphammer --cert-wizard\n\n# launch attack\n./eaphammer -i wlan0 --channel 4 --auth ttls --wpa 2 --essid CorpWifi --creds\n\nFeatures:\n\nSteal RADIUS credentials from WPA-EAP and WPA2-EAP networks.\nPerform hostile portal attacks to steal AD creds and perform indirect wireless pivots\nPerform captive portal attacks\nBuilt-in Responder integration\nSupport for Open networks and WPA-EAP/WPA2-EAP\nNo manual configuration necessary for most attacks.\nNo manual configuration necessary for installation and setup process",
   "Year": "2017",
   "Location": "USA"

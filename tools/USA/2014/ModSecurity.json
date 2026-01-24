@@ -5,7 +5,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-US-14",
-  "Github URL": "https://github.com/owasp-modsecurity/ModSecurity/wiki/Reference-Manual-(v2.x)",
+  "Github URL": "https://github.com/owasp-modsecurity/ModSecurity",
   "Description": "ModSecurity is an open source, cross-platform web application firewall (WAF) module. Known as the \"Swiss Army Knife\" of WAFs, it enables web application defenders to gain visibility into HTTP(S) traffic and provides a power rules language and API to implement advanced protections.  Come checkout the new advancements in ModSecurity and try some hands-on evasion challenges!",
   "Year": "2014",
   "Location": "USA"

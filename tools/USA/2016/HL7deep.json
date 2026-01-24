@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "https://github.com/hl7",
   "Description": "Health Level Seven International (HL7), ANSI-accredited standards developing organization dedicated to providing a comprehensive framework and related standards for the exchange, integration, sharing, and retrieval of electronic health information that supports clinical practice and the management, delivery and evaluation of health services.Target - HL7deep is a tool able to exploit different vulnerabilities in popular medical management platforms used in a host of services, obtaining remote access, assisting surgeries and electronic health records (EHR).",
   "Year": "2016",
   "Location": "USA"

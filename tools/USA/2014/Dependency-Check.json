@@ -6,7 +6,7 @@
   ],
   "Event": "BH-US-14",
   "Github URL": "https://github.com/jeremylong/DependencyCheck",
-  "Description": "Does your application have dependencies on third party libraries? Do you know if those same libraries have published CVEs? OWASP Dependency-Check can help by providing identification and monitoring of the libraries your application uses, notifying you that vulnerabilities (CVEs) have been published for third party code your application uses. Jeremy will be demonstrating the tool and the various ways enterprises can use the tool to perform continuous monitoring of their applications\u00e2\u0080\u0099 dependent libraries.",
+  "Description": "Does your application have dependencies on third party libraries? Do you know if those same libraries have published CVEs? OWASP Dependency-Check can help by providing identification and monitoring of the libraries your application uses, notifying you that vulnerabilities (CVEs) have been published for third party code your application uses. Jeremy will be demonstrating the tool and the various ways enterprises can use the tool to perform continuous monitoring of their applicationsâ dependent libraries.",
   "Year": "2014",
   "Location": "USA"
 }

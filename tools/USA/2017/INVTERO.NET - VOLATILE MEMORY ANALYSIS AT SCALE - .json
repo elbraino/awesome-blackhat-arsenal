@@ -7,7 +7,7 @@
     "Track: Data Forensics and Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/CrackerCat/GitHubLinks",
+  "Github URL": "https://github.com/ShaneK2/inVtero.net",
   "Description": "inVtero.net delivers \"at scale\" throughput (i.e. 10+Gbps) analytical capabilities for Windows x64. Designed for performance and comprehensive results derived from AMD/Intel ABI requirements (not built atop Logical OS structure detection), inVtero.net has the world record for performance for memory analysis.\n\nK2 will demonstrate new offensive forensic capabilities, as well as standard passive analysis. CloudLeech.py (similar to PCILeech), code injection and other techniques for not only attesting the integrity of and detecting evil code but for testing your own attack tools or techniques.\n\nI will additionally demonstrate with any memory dumps from XEN, VMWARE or physical (PAGEDUMP64/.DMP) from Windows x64 (ANY VERSION) to demonstrate the ease and simplicity (no profiles, no configuration, automatic physical memory reflection into python). If you have a memory dump that's defied analysis, it will be examined for effect.",
   "Year": "2017",
   "Location": "USA"

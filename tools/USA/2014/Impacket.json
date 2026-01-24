@@ -5,7 +5,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-US-14",
-  "Github URL": "https://github.com/fortra/impacket/blob/master/examples/lookupsid.py",
+  "Github URL": "https://github.com/fortra/impacket",
   "Description": "Impacket is a collection of Python classes focused on providing access to network packets. Impacket allows Python developers to craft and decode network packets in simple and consistent manner. It includes support for low-level protocols such as IP, UDP and TCP, as well as higher-level protocols such as NMB, SMB and MSRPC and DCOM. Impacket is highly effective when used in conjunction with a packet capture utility or package such as Pcapy. Packets can be constructed from scratch, as well as parsed from raw data. Furthermore, the object oriented API makes it simple to work with deep protocol hierarchies.",
   "Year": "2014",
   "Location": "USA"

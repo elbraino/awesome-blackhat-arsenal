@@ -5,8 +5,8 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-US-14",
-  "Github URL": "https://github.com/clairehopfensperger",
-  "Description": "Last year, we delivered the definitive guide for pen-testers on hacking low frequency (LF - 125KHz) RFID badge systems to gain unauthorized access to buildings and other secure areas.  In this second installment, we\u00e2\u0080\u0099re raising the stakes, peeling back the onion even further, and directly confronting the RFID elephant in the room \u00e2\u0080\u0093 hacking High Frequency (HF - 13.56 MHz) and Ultra-High Frequency (UHF \u00e2\u0080\u0093 840-960 MHz).",
+  "Github URL": "https://github.com/joaofbantunes/OOPsIDidItAgain",
+  "Description": "Last year, we delivered the definitive guide for pen-testers on hacking low frequency (LF - 125KHz) RFID badge systems to gain unauthorized access to buildings and other secure areas.  In this second installment, weâre raising the stakes, peeling back the onion even further, and directly confronting the RFID elephant in the room â hacking High Frequency (HF - 13.56 MHz) and Ultra-High Frequency (UHF â 840-960 MHz).",
   "Year": "2014",
   "Location": "USA"
 }

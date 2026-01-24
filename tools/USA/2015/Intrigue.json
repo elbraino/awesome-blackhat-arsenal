@@ -7,7 +7,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-US-15",
-  "Github URL": "https://gist.github.com/jcran?direction=asc&sort=created",
+  "Github URL": "https://github.com/shaunabanana/intrigue",
   "Description": "Whether you're a penetration tester hunting easy targets, a bug bounty hunter looking to find bugs faster, or in charge of security for an enterprise network ... you need OSINT baked into your security processes. Join us for the world-wide release of Intrigue, an API-first framework for intelligence gathering and vulnerability discovery. The author will demo Intrigue, detail its architecture, and present results from IG experiments. Attendees will walk away with a scalable open-source framework for OSINT.",
   "Year": "2015",
   "Location": "USA"

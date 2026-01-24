@@ -7,7 +7,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-US-13",
-  "Github URL": "https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/chile.md?plain=1",
+  "Github URL": "https://github.com/CSCSI/Triana",
   "Description": "I am going to be presenting a new tool for analysing malware or possible threats in certain scenarios where the malware is not accessible or, because legal requirements, it's not possible to provide access to the files to the researchers. This is also a good starting point for newcomers and well-established forensic and malware researchers who want to quickly analise possible threats.",
   "Year": "2013",
   "Location": "USA"

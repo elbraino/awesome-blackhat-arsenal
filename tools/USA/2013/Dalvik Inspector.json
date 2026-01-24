@@ -7,8 +7,8 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-US-13",
-  "Github URL": "https://github.com/volatilityfoundation/volatility/wiki/Volatility-Documentation-Project/422845b0a6e3df3a136cd2b1d18441d5b200bba1",
-  "Description": "Dalvik is the process Virtual Machine used by Android that powers all non-native applications used on Android devices. Through Dalvik memory analysis, a wealth of insight can be gained into the workings of a running application, including all instantiated objects (classes) and the variables, methods, and other per-instance class information. Analysis of structures at this level will allow investigators to see internal application-level state in its \u00e2\u0080\u009cnative\u00e2\u0080\u009d form. This is an important evolution in state of cutting edge memory forensics, which allows the investigator to move above the kernel level and see higher-level structures in readable form and with broad context.",
+  "Github URL": "https://github.com/pxb1988/dalvik",
+  "Description": "Dalvik is the process Virtual Machine used by Android that powers all non-native applications used on Android devices. Through Dalvik memory analysis, a wealth of insight can be gained into the workings of a running application, including all instantiated objects (classes) and the variables, methods, and other per-instance class information. Analysis of structures at this level will allow investigators to see internal application-level state in its ânativeâ form. This is an important evolution in state of cutting edge memory forensics, which allows the investigator to move above the kernel level and see higher-level structures in readable form and with broad context.",
   "Year": "2013",
   "Location": "USA"
 }

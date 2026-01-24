@@ -9,8 +9,8 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/Surya443/NIT-Hackathon2023/blob/main/Indian%20Startup.csv",
-  "Description": "REST API penetration testing is complex due to continuous changes in existing APIs and addition of new APIs. Astra (Sanskrit: \u0905\u0938\u094d\u0924\u094d\u0930) can be used by security engineers or developers as an integral part of their process, so they can detect and patch vulnerabilities in the initial phase of the development cycle. Astra can automatically detect and test login & logout (Authentication API), which makes it easy for anyone to integrate this into CICD pipeline. Astra can take API collection as an input so this can also be used for testing APIs in stand-alone mode.",
+  "Github URL": "https://github.com/flipkart-incubator/Astra",
+  "Description": "REST API penetration testing is complex due to continuous changes in existing APIs and addition of new APIs. Astra (Sanskrit: अस्त्र) can be used by security engineers or developers as an integral part of their process, so they can detect and patch vulnerabilities in the initial phase of the development cycle. Astra can automatically detect and test login & logout (Authentication API), which makes it easy for anyone to integrate this into CICD pipeline. Astra can take API collection as an input so this can also be used for testing APIs in stand-alone mode.",
   "Year": "2018",
   "Location": "USA"
 }

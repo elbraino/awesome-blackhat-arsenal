@@ -7,7 +7,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/maximelb",
+  "Github URL": "https://github.com/refractionPOINT/limacharlie",
   "Description": "LimaCharlie is a cross-platform, open-source, endpoint monitoring, detection and response stack. The open source agent can be deployed to macOS, windows and Linux, reporting flight-recorder type information. The backend provides an easy and scalable framework to build automated detections and responses. Those automations have realtime access to the model stores in the backend as well as the sensors. Finally, a web ui provides visibility in the events from the sensor and their relationships. Output to systems like Splunk and Slack is also supported.",
   "Year": "2017",
   "Location": "USA"

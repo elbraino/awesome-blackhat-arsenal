@@ -5,7 +5,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-US-14",
-  "Github URL": "https://github.com/immunant/c2rust",
+  "Github URL": "https://github.com/immunant",
   "Description": "With the widespread adoption of DEP, code-reuse techniques such as ROP are essential parts of current exploits. ASLR randomizes the code layout to make ROP harder; unfortunately, ASLR-bypasses abound.",
   "Year": "2014",
   "Location": "USA"

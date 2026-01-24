@@ -8,7 +8,7 @@
     "Track: Hardware / Embedded"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "https://github.com/nccgroup/BLESuite",
   "Description": "In order to optimize testing with Bluetooth Low Energy (BLE) peripherals, we have created user-friendly tools that enable BLE packet replay, fuzzing, and on-the-fly scripted communications. BLE-replay is a Python tool for recording, modifying, replaying, and fuzzing writes to Bluetooth Low Energy (BLE) peripherals. It can be used for testing or reversing application layer interactions between a mobile application and a BLE peripheral. This tool is useful if an application writes some characteristics on the BLE device in order to configure/unlock/disable some feature. You want to quickly capture the relevant information from a packet log into a human-readable format and mess around with it from a laptop. It is the first tool built upon our new BLESuite library.BLESuite is a Python library that enables application layer communication between a host machine and a BLE device. The library greatly simplifies the scripting of BLE activity. It provides a simple connection manager and supports scanning advertisements, service discovery, smart scanning of all services/characteristics/descriptors, and sync/async read/write. We will also demonstrate the BLESuiteCLI, which provides quick access to all of these features from the command line.",
   "Year": "2016",
   "Location": "USA"

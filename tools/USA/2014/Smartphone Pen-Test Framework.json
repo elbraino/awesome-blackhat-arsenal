@@ -5,7 +5,7 @@
     "Track: Android, iOS and Mobile Hacking"
   ],
   "Event": "BH-US-14",
-  "Github URL": "https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet",
+  "Github URL": "https://github.com/georgiaw/Smartphone-Pentest-Framework",
   "Description": "As smartphones enter the workplace, sharing the network and accessing sensitive data, it is crucial to be able to assess the security posture of these devices in much the same way we perform penetration tests on workstations and servers. However, smartphones have unique attack vectors that are not currently covered by available industry tools. The smartphone penetration testing framework, the result of a DARPA Cyber Fast Track project, aims to provide an open source toolkit that addresses the many facets of assessing the security posture of these devices. We will look at the functionality of the framework including information gathering, exploitation, social engineering, and post exploitation through both a traditional IP network and through the mobile modem, showing how this framework can be leveraged by security teams and penetration testers to gain an understanding of the security posture of the smartphones in an organization. SPF can be used as a pivot to gain access to an internal network, gaining access to additional vulnerabilities. SPF can be used to bypass filtering, using SMS to control an exploited internal system. Demonstrations of SPF functionality will be shown.",
   "Year": "2014",
   "Location": "USA"

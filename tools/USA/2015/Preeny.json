@@ -5,7 +5,7 @@
     "Track: Reverse Engineering"
   ],
   "Event": "BH-US-15",
-  "Github URL": "https://github.com/zardus/preeny/issues/30",
+  "Github URL": "https://github.com/zardus/preeny",
   "Description": "Preeny [1] helps you pwn noobs by making it easier to interact with binaries locally. It provides many different LD_PRELOAD binaries that implement a wide range of capabilities. Preeny can keep a binary from using ptrace, forking, or sending signals. It can override the random seed to disable randomness, suspend programs at startup (for debugging/analysis), patch binaries at load time, and can even convert network applications to be able to interact on the commandline. It's been used enable AFL to fuzz nginx [2], and has been used in a lot of reverse engineering, malware analysis, and exploitation work.The demo will go through Preeny's capabilities, discuss the addition of new functionality to Preeny, and detail scenarios where Preeny comes in handy.",
   "Year": "2015",
   "Location": "USA"

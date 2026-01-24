@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://github.com/optiv/netneedle/blob/master/cmdquit.c",
+  "Github URL": "https://github.com/optiv/netneedle",
   "Description": "We believe that hiding a needle in a haystack is easier if the needle looks like hay. NetNeedle provides encrypted control channels and chat sessions that are disguised to look like other common network activity. It only transmits \"decoy\" data in the  \"payload \" section of any packet, so forensic analysts will only see packets that look identical to ordinary ping or HTTP GET requests. The actual data is encoded in IP headers in fields that typically contain random values. This tool was originally written to demonstrate network based steganography principals. However, it is usable in real world circumstances, and can assist in penetration testing within restricted network environments.In addition to evasion features, penetration testers can use NetNeedle to maintain control over servers in environments with highly restrictive access lists. Because this tool subverts expectations surrounding network traffic, it enables users to set up back doors that use simple ICMP packets or TCP ports that are already in use. Administrators who believe that their systems are safe due to access control lists based on a \"principle of least privilege\" or who believe that ICMP ping is harmless will find themselves sadly mistaken.",
   "Year": "2016",
   "Location": "USA"

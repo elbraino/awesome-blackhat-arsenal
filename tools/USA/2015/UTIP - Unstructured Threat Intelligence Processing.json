@@ -7,7 +7,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-US-15",
-  "Github URL": "https://github.com/atktgs/BlackHat2015Arsenal",
+  "Github URL": "https://github.com/UnstructuredThreatIntel/UTIP",
   "Description": "UTIP is an open-source solution that automates phases of threat data extraction from unstructured sources, and maps extracted elements to the STIX standard. By utilizing UTIP, security analysts and practitioners can:- Focus on analysis, instead of spending time parsing text in a document- Apply customized contextualization and prioritization filters to the extraction process- Increase automated communication (M2M) by converting ingested data into structured format- Perform higher order analysis on data extracted from these documents, and determine trends otherwise unattainableThe solution utilizes Scrumblr and Sketchy (open-source provided by Netflix) to scrape advisories, the OpenNLP stack for natural language processing, and a few machine learning techniques. The underlying web platform runs on Django, with D3 (JS framework) utilized to visualize insights drawn.",
   "Year": "2015",
   "Location": "USA"

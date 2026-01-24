@@ -7,7 +7,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-US-13",
-  "Github URL": "https://github.com/yangjiheng/3DGS_and_Beyond_Docs/blob/main/README.md",
+  "Github URL": "https://github.com/sandflysecurity/sandfly-file-decloak",
   "Description": "De-Cloak is designed to extract HTTP user agents from PCAP files and store known user agents in a database. Hackers often hide wget or http requests by using known user agents. However, if we change our own user agents (perhaps via a GPO) we can start to investigate what starts to stand out. Simple but effective.",
   "Year": "2013",
   "Location": "USA"

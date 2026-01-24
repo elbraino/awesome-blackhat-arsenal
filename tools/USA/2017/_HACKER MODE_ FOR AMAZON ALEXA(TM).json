@@ -7,7 +7,7 @@
     "Track: Internet of Things"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/xssninja/Alexa-Hacker-Mode/blob/master/HackerMode/README.txt",
+  "Github URL": "https://github.com/xssninja/HackerMode2.0",
   "Description": "Have you ever been stuck at a command line, not quite remembering the syntax for a NetCat relay? Ever wish that buddy that has a photographic memory for man-pages was with you? Hacker Mode makes Amazon's Alexa(TM) be that epic hacker buddy for you!\n\nThe Hacker Mode skill designed for Alexa assists hackers and developers with:\n\nHTML, Hex, URL, ASCII encodings\nNetCat, NMap, and Metasploit command line interfaces\nWell-known TCP and UDP ports, HTTP headers, HTTP response codes and HTTP verbs\n\nSimply ask Alexa to enter \"Hacker Mode\" and then ask a question like: \"How can I send a file with NetCat?\" The app provides both voice feedback and Alexa App feedback to ensure you get the syntax just right.",
   "Year": "2017",
   "Location": "USA"

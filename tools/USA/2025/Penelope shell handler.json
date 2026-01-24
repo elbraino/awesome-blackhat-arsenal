@@ -8,7 +8,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://gist.github.com/FabioXimenes/17b544471ba4790fcdd289fc190b3467",
+  "Github URL": "https://github.com/brightio/penelope",
   "Description": "Penelope is a shell handler designed to be easy to use and intended to replace netcat when exploiting RCE vulnerabilities. It is compatible with Linux and macOS and requires Python 3.6 or higher. It is a standalone script that does not require any installation or external dependencies, and it is intended to remain this way.\n\nAmong the main features are:\n\n* Auto-upgrade shells to PTY (realtime resize included)\n* Logging interaction with the targets\n* Download files/folders from targets\n* Upload local/remote files/folders to targets\n* Run scripts on targets and get output on a local file in real time.\n* Port Forwarding\n* Spawn shells on multiple tabs and/or hosts\n* Maintain X amount of active shells per host no matter what\n* Multiple sessions\n* Multiple listeners\n* Can be imported by python3 exploits and get shell on the same terminal\n\nPenelope can work in conjunction with metasploit exploits by disabling the default handler with `set DisablePayloadHandler True`\n\nCurrently only Unix shells are fully supported. There is only basic support for Windows shells (netcat-like interaction + logging) and the rest of the features are under way.",
   "Year": "2025",
   "Location": "USA"

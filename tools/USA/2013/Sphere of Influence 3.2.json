@@ -7,7 +7,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-US-13",
-  "Github URL": "https://github.com/Beliavsky/Fortran-code-on-GitHub",
+  "Github URL": "https://github.com/sphere-of-influence/sphere-of-influence.github.io",
   "Description": "The purpose of sphere of influence was to address the shortcomings of visualizations with regards to a tactical awareness. The IP address-to-geographical location and organization was designed to aid in the removal of false positives.  It also provides details about location, latitude/longitude and organizational information.  It addressed the fact that the majority of attacks were coming from the United States and China or from countries with high levels of broadband access.",
   "Year": "2013",
   "Location": "USA"

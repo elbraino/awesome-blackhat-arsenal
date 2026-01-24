@@ -8,8 +8,8 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Wireless.md?plain=1",
-  "Description": "ShinySDR is an advanced spectrum monitoring and analysis tool that allows us to monitor wide frequency ranges at high speed, while also drilling down in to interesting signals for real time analysis. These features are supplemented by OSINT data from regulatory bodies around the world. This is the tool that we are releasing as part of our \"What's on the Wireless? Automating RF Signal Identification.\u201d",
+  "Github URL": "https://github.com/kpreid/shinysdr",
+  "Description": "ShinySDR is an advanced spectrum monitoring and analysis tool that allows us to monitor wide frequency ranges at high speed, while also drilling down in to interesting signals for real time analysis. These features are supplemented by OSINT data from regulatory bodies around the world. This is the tool that we are releasing as part of our \"What's on the Wireless? Automating RF Signal Identification.”",
   "Year": "2017",
   "Location": "USA"
 }

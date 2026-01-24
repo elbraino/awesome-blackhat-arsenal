@@ -8,7 +8,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/fastly/ftw/blob/master/setup.py",
+  "Github URL": "https://github.com/coreruleset/ftw",
   "Description": "FTW is designed to be a comprehensive test suite to help provide rigorous tests for WAF rules. It uses the OWASP Core Ruleset V3 as a baseline to test rules on for various WAFs. It is designed to:\n\nFind regressions in WAF deployments by using continuous integration and issuing repeatable attacks against a WAF\nProvide a testing framework for new rules into the Core Rule Set, if a rule is submitted it MUST have corresponding positive & negative tests\nEvaluate WAFs against a common, agreeable baseline ruleset (OWASP)\nTest and verify custom rules for WAFs that are not leveraging the core rule set",
   "Year": "2017",
   "Location": "USA"

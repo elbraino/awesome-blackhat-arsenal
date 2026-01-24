@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/jtpereyda",
+  "Github URL": "https://github.com/jtpereyda/boofuzz",
   "Description": "boofuzz is an open-source network protocol fuzzing framework, competing with closed source commercial products like Defensics and Peach. Inheriting from the open source tools Spike and Sulley, boofuzz improves on a long line of block-based fuzzing frameworks.\n\nThe fuzzing framework allows hackers to specify protocol formats, and boofuzz does the heavy lifting of generating mutations specific to the format. boofuzz makes developing protocol-specific \"smart\" fuzzers relatively easy. Make no mistake, designing a smart network protocol fuzzer is no trivial task, but boofuzz provides a solid foundation for producing quality fuzzers.\n\nWritten in Python, boofuzz builds on its predecessor, Sulley, with key features including:\n\nOnline documentation\nMore extensibility including support for arbitrary communications mediums\nBuilt-in support for serial fuzzing, ethernet- and IP-layer, UDP broadcast\nMuch easier install experience!\nFar fewer bugs\n\nSource Code: https://github.com/jtpereyda/boofuzz",
   "Year": "2018",
   "Location": "USA"

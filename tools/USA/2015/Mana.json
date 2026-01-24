@@ -7,7 +7,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-US-15",
-  "Github URL": "https://github.com/sensepost/hostapd-mana",
+  "Github URL": "https://github.com/sensepost/mana",
   "Description": "Mana Toolkit is a Wi-Fi rogue access point toolkit whose purpose is getting as many clients connected, and getting as many credentials from their connections. It was first presented at Defcon 22 last year (https://youtu.be/i2-jReLBSVk). It started as an attempt to get KARMA attacks working again, but ended up going much further. We will be extending it even further for Arsenal.It implements several patches to hostapd that:- Implement our improved KARMA attacks- Implement EAP credential interception (freeradius-wpe style, but built in)- Auto crack 'n add, where EAP credentials are cracked automatically to get the client to connect to a fake network with EAPAdditionally, it includes several configurations and scripts to gather credentials:- Firelamb - Our reimplementation of firesheep in python to grab cookies- Sslstrip-hsts - Leonardo NVE's HSTS bypass implementation- Certificate side loading - To attempt to load malicious certificates to better intercept SSL connections- Captive portal social engineering - Attempts to gather creds with fake captive portal, or google pages- Fake-internet - To fool various devices into thinking they are onlineFor Arsenal, we'll be improving the EAP functionality quite significantly, and adding the ability to target specific devices, as well as several bug fixes.More information can be found in the slides: http://www.slideshare.net/sensepost/improvement-in-rogue-access-points-sensepost-defcon-22",
   "Year": "2015",
   "Location": "USA"

@@ -7,7 +7,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/byt3bl33d3r/CrackMapExec/blob/master/pyproject.toml",
+  "Github URL": "https://github.com/byt3bl33d3r/CrackMapExec",
   "Description": "CrackMapExec (a.k.a CME) is a fully open-source, post-exploitation tool written in Python that helps automate assessing the security of *large* Active Directory networks. Built with stealth in mind, CME follows the concept of \"Living off the Land:\" abusing built-in Active Directory features/protocols to achieve it's functionality and allowing it to evade endpoint protection/IDS/IPS solutions. CME makes heavy use of the Impacket library and the PowerSploit Toolkit for working with network protocols and performing a variety of post-exploitation techniques. Although meant to be used primarily for offensive purposes (e.g. red teams), CME can be used by blue teams as well to assess account privileges, find possible misconfigurations and simulate attack scenarios. In this demo the author will be showing version 4.0: a major update to the tool bringing more modules, features and capabilities than ever before. If you're interested in the latest & greatest Active Directory attacks, techniques and general cool AD stuff this is the demo for you!",
   "Year": "2017",
   "Location": "USA"

@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://github.com/roglew/guppy-proxy",
+  "Github URL": "https://github.com/roglew/pappy-proxy",
   "Description": "The Pappy Proxy is an open source intercepting proxy that takes a slightly different approach to testing websites than existing proxies such as Burp Suite and ZAP due to its console-based interface. The console interface and powerful history search make it extremely easy to find interesting requests in history and to discover promising areas for further testing. Along with standard features such as an interceptor and a repeater, Pappy allows users to generate most of the boilerplate needed for a Python attack script for more complex attacks. Pappy also has numerous other features such as response streaming, automatically modifying requests and responses on the fly, and support for upstream proxies.",
   "Year": "2016",
   "Location": "USA"

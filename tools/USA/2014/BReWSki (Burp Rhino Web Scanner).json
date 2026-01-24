@@ -5,7 +5,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-US-14",
-  "Github URL": "https://github.com/snoopysecurity/awesome-burp-extensions",
+  "Github URL": "https://github.com/Burp-BReWSki/BReWSki",
   "Description": "BReWSki (Burp Rhino Web Scanner) is an extension to the Burp Suite scanning and reporting functionality. BReWSki provides Burp Suite users with a JavaScript interface to write custom scanner insertion points, passive, and active scan definitions for Burp quickly without having to understand the internals of the Burp API.  BReWSki comes with useful checks to help identify application vulnerabilities.",
   "Year": "2014",
   "Location": "USA"

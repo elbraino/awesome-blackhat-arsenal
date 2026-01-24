@@ -8,7 +8,7 @@
     "iOS and Mobile Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/toolswatch/blackhat-arsenal-tools/blob/master/mobile_hacking/badintent.md",
+  "Github URL": "https://github.com/1ultimat3/BadIntent",
   "Description": "BadIntent is the missing link between the Burp Suite and the core Android's IPC/Messaging-system. BadIntent consists of two parts, an Xposed-based module running on Android and a Burp-plugin. Based on this interplay, it is possible to use the Burp's common workflow and all involved tools and extensions, since the intercept and repeater functionality is provided. BadIntent hooks deeply into the Android system, performs various method redirections in Parcels and adds additional services to provide the described features. Most notably, BadIntent works system-wide and is not restricted to individual user apps.\n\nIn the demo, we will present various attacks against target apps; such as attacking encrypted containers, mobile XSS, SQLi, malicious GCM/FCM-payloads and more. Furthermore, we will show how to bypass obfuscation techniques by exploiting the app as a black box and implicitly attack backends.",
   "Year": "2017",
   "Location": "USA"

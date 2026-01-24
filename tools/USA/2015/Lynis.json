@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-US-15",
-  "Github URL": "https://github.com/mboelen",
+  "Github URL": "https://github.com/CISOfy/lynis",
   "Description": "Most of us have performed some level of system hardening, using checklists or custom scripts. The next level is to keep the security defenses of your systems compliant with your baselines. Lynis is an open source tool to help you with this goal. It is portable, flexible and specialized on Linux/Unix based systems. It performs an in-depth health check of your systems and tells you what additional steps you can take to lock them down. In this demo, we will see how easy it is to use, yet flexible enough to support much more than initially is visible.",
   "Year": "2015",
   "Location": "USA"

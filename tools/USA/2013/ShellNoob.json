@@ -7,7 +7,7 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-US-13",
-  "Github URL": "https://github.com/reyammer",
+  "Github URL": "https://github.com/reyammer/shellnoob",
   "Description": "Writing shellcode is usually really fun, but some parts are boring, error-prone, and insanely difficult to debug without the proper arsenal. ShellNoob is a tool that eases the writing and debugging of shellcode by taking care of all the parts that even a noob could do, and leaving only the fun part for the artist.",
   "Year": "2013",
   "Location": "USA"

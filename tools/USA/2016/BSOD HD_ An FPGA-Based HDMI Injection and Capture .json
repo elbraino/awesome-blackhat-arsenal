@@ -8,7 +8,7 @@
     "Track: Hardware / Embedded"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "null",
   "Description": "BSODomizer HD is an open source, FPGA-based, covert electronic device that injects and captures HDMI signals. Currently a proof-of-concept design, this much anticipated follow-up to the original BSODomizer released in 2008 (www.bsodomizer.com) improves on the graphics interception and triggering features, and can capture screenshots of any non-HDCP target up to 1080p resolution. Uses of the tool include penetration testing, video display calibration, mischievous acts, or as a reference design for exploration into the mystical world of FPGAs.Co-developed by Joe Grand (aka Kingpin) of Grand Idea Studio and Zoz of Cannytrophic Design.",
   "Year": "2016",
   "Location": "USA"
