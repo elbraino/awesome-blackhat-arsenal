@@ -8,7 +8,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://gist.github.com/d-oliveros/3693a104a0dc82695324",
+  "Github URL": "https://github.com/insecurityofthings/jackit",
   "Description": "JackIt is a wireless HID injection attack into NRF-based keyboard/mouse dongles based off the MouseJack vulnerability. It has a strong focus on providing system admins with the tools to demonstrate the attack to help promote and justify the need to move away from wireless keyboard and mice in a corporate environment.",
   "Year": "2017",
   "Location": "USA"

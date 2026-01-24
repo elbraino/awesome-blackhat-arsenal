@@ -7,7 +7,7 @@
     "Track: Cryptography"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/CrackerCat/GitHubLinks",
+  "Github URL": "https://github.com/smxlabs/gibbersense",
   "Description": "Found a Gibberish string or file in the wild and don't know what is it? Throw it to GibberSense - it might start to make some sense. GibberSense is a python-based tool and extension to LAMMA as a BCAF (Basic Crypt Analysis Framework) module.\n\nThe best use of Gibber Sense is to verify the robustness of encryption libraries if they are free from any backdoors or flaws. Itt can also be used to guess the type of encryption, hashing schemes, and type of encrypted session cookies. If you trying to develop your own secrete encryption scheme, try and see what GibberSense has to say about it.",
   "Year": "2017",
   "Location": "USA"

@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://github.com/dancornell",
+  "Github URL": "https://github.com/denimgroup/threadfix",
   "Description": "ThreadFix is an application vulnerability management platform that helps automate many common application security tasks and integrate security and development tools. It allows organizations to create a consolidated view of their applications and vulnerabilities, prioritize application risk decisions based on data, and translate vulnerabilities to developers in the tools they are already using.",
   "Year": "2016",
   "Location": "USA"

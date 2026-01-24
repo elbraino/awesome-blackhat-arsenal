@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-US-13",
-  "Github URL": "https://github.com/EmpireProject/Empire/blob/master/data/module_source/code_execution/Invoke-ReflectivePEInjection.ps1",
+  "Github URL": "https://github.com/clymb3r/PowerShell",
   "Description": "PowerShell is a powerful scripting language which has the capability to run scripts on remote systems without writing to disk.",
   "Year": "2013",
   "Location": "USA"

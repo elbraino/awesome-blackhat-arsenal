@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/h3xstream",
+  "Github URL": "https://github.com/GoSecure/csp-auditor",
   "Description": "CSP Auditor is a Burp and ZAP extension that helps build or improve the Content-Security-Policy header configurations. CSP can provide a solid defense against XSS. However, it is easy to add a directive by mistake that will make the policy completely ineffective against specially-crafted XSS. This plugin provided a readable view of CSP headers in the response tab. It will highlight the weakest configurations. It also includes passive scan rules to be notified of weak configurations. The most recent feature is the automatic generation of CSP configuration based on the resources intercepted.",
   "Year": "2017",
   "Location": "USA"

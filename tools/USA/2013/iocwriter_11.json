@@ -7,7 +7,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-US-13",
-  "Github URL": "https://github.com/TakahiroHaruyama/TakahiroHaruyama.github.io/blob/master/index.html",
+  "Github URL": "https://github.com/mandiant/ioc_writer",
   "Description": "With the impending release of the OpenIOC 1.1 format for sharing threat intelligence, Mandiant will be releasing a set of open source tools for creating and manipulating OpenIOC objects and moving data in and out of the OpenIOC format.",
   "Year": "2013",
   "Location": "USA"

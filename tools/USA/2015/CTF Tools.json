@@ -7,7 +7,7 @@
     "Track: Arsenal Lab"
   ],
   "Event": "BH-US-15",
-  "Github URL": "https://github.com/zardus",
+  "Github URL": "https://github.com/zardus/ctf-tools",
   "Description": "There are a lot of tools written for security research and CTFs, but fairly few gain enough traction to be packaged and distributed by the likes of Ubuntu, or even Kali. Worse, when they *are* packaged, the packaged versions are often hopelessly outdated. This is unfortunate, and causes most researchers to have to spend time tracking down, compiling, configuring, and installing these tools. Also, when a computer has to be reinstalled the process generally has to be done again.There is a need for a central repository of such tools to track them and allow security researchers to easily install them (without screwing up the whole host system!). This is the story of such a repository.I've gone through the list of tools I've used in CTFs and in my research I have found the ones that are not adequately packaged, and created a central place for install scripts. The build system works with simple shell scripts (for easier contribution of packages) and installs everything under ~/tools (or, really, any other directory), without any global system changes (except for apt-getting dependencies from official repositories).As far as I can tell, this is the first repository of obscure security research tools, and I think it'll be a useful thing for the community at large.",
   "Year": "2015",
   "Location": "USA"

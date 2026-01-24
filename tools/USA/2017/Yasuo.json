@@ -7,7 +7,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/0xsauby",
+  "Github URL": "https://github.com/0xsauby/yasuo",
   "Description": "Yasuo is a ruby framework that scans for vulnerable 3rd-party web applications. While working on a network security assessment (internal, external, redteam gigs etc.), we often come across vulnerable 3rd-party web applications or web front-ends that allow us to compromise the remote server by exploiting publicly known vulnerabilities. Some of the common & favorite applications are Apache Tomcat administrative interface, JBoss jmx-console, Hudson Jenkins and so on. Searching Exploit-db will reveal over 10,000 remotely exploitable vulnerabilities that exist in tons of web applications/front-ends and could allow an attacker to completely compromise the back-end server. These vulnerabilities range from RCE to malicious file uploads to SQL injection to RFI/LFI etc.\n\nYasuo is built to quickly scan the network for such vulnerable applications. Currently, it supports around 180 vulnerable applications. In addition to discovering the vulnerable applications through their unique signature, it also detects if the app requires authentication. If it does, Yasuo performs a brute-force attack against them. In the end, it outputs the IP, vulnerable app url, login status and credentials, if found. Currently, many new features are being added to Yasuo, like smart brute-forcing, internal network pentest mode, new signatures etc.",
   "Year": "2017",
   "Location": "USA"

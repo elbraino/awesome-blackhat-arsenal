@@ -8,7 +8,7 @@
     "Track: Android, iOS and Mobile Hacking"
   ],
   "Event": "BH-US-13",
-  "Github URL": "https://github.com/ad-si/RosettaGit/blob/master/content/drafts/textonyms_wordlist.md",
+  "Github URL": "https://github.com/ReversecLabs/drozer",
   "Description": "Drozer, previously known as Mercury, is the de facto tool for vulnerability-hunting on Android phones and in marketplace apps. In these demonstrations we are launching the new version of Drozer: one that has been extended to be a full-on, open-source exploitation framework for Android.",
   "Year": "2013",
   "Location": "USA"

@@ -7,8 +7,8 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Network_Attacks.md",
-  "Description": "Chiron is an IPv6 Security Assessment Framework, written in Python and employing Scapy. It is comprised of the following modules:\n\n\u2022 IPv6 Scanner\n\u2022 IPv6 Local Link\n\u2022 IPv4-to-IPv6 Proxy\n\u2022 IPv6 Attack Module\n\u2022 IPv6 Proxy\nAll the above modules are supported by a common library that allows the creation of completely arbitrary IPv6 header chains, fragmented or not. Suggested host OS: Linux (*BSD may also work).\n\nSource Code: https://github.com/aatlasis/Chiron\ufeff",
+  "Github URL": "https://github.com/aatlasis/Chiron",
+  "Description": "Chiron is an IPv6 Security Assessment Framework, written in Python and employing Scapy. It is comprised of the following modules:\n\n• IPv6 Scanner\n• IPv6 Local Link\n• IPv4-to-IPv6 Proxy\n• IPv6 Attack Module\n• IPv6 Proxy\nAll the above modules are supported by a common library that allows the creation of completely arbitrary IPv6 header chains, fragmented or not. Suggested host OS: Linux (*BSD may also work).\n\nSource Code: https://github.com/aatlasis/Chiron﻿",
   "Year": "2018",
   "Location": "USA"
 }

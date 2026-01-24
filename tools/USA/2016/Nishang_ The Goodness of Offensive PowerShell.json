@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "https://github.com/samratashok/nishang",
   "Description": "In this presentation, you will see live demonstrations of how PowerShell can be used to execute different attacks. Techniques like advanced client side attacks (UAC avoidance, bypassing firewalls etc), trust abuse of Active Directory and SQL Servers, webshells, white-listing bypass, retrieving system secrets in clear and more will be demonstrated.An updated Black Hat version of Nishang will be released! Come and learn a very interesting vector of attacks.",
   "Year": "2016",
   "Location": "USA"

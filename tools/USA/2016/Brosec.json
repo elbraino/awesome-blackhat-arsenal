@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://github.com/gabemarshall",
+  "Github URL": "https://github.com/gabemarshall/Brosec",
   "Description": "Brosec is a terminal based reference utility designed to help infosec bros and broettes with useful (yet sometimes complex) payloads and commands that are often used during work as infosec practitioners. Brosec's most popular use cases is the ability to generate one-liner reverse shells (python, perl, powershell, etc) payloads that get copied to are then copied to the clipboard.",
   "Year": "2016",
   "Location": "USA"

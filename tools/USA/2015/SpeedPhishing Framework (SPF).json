@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-US-15",
-  "Github URL": "https://github.com/toolswatch/blackhat-arsenal-tools/blob/master/phishing/spf.md",
+  "Github URL": "https://github.com/tatanus/SPF",
   "Description": "SPF is an open source simple email phishing tool/framework which can assist penetration testers in quickly deploying phishing exercises in minimal time. The tool, when provided minimal input (such as just a domain name), can automatically search for potential targets, deploy multiple phishing websites, craft and send phishing emails to the targets, record the results, generate a basic report, among other more advanced tasks.Features include:- Written in Python- Can be run fully Automated- Automated Target Identification- Profiling of Target Company- Hosting of Templated and Dynamical y Generated Phishing Websites- Sending of Emails- Collection of Phishing results- Verification of ResultsThe presenter will demo multiple use cases, cover framework internals, and new features.",
   "Year": "2015",
   "Location": "USA"

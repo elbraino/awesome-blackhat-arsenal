@@ -8,7 +8,7 @@
     "Track: Hardware / Embedded"
   ],
   "Event": "BH-US-15",
-  "Github URL": "https://github.com/eq-3/occu/blob/master/WebUI/www/rega/licenseinfo.htm",
+  "Github URL": "https://github.com/JamesHagerman/yard-stick-one-work",
   "Description": "YARD Stick One is a sub-1 GHz wireless transceiver controlled directly from your computer. It uses the same radio circuit as the popular IM-Me. The radio functions that are possible by customizing IM-Me firmware are now at your fingertips when you attach YARD Stick One to a computer via USB.YARD Stick One (Yet Another Radio Dongle) comes with RfCat firmware installed, courtesy of atlas. RfCat allows you to control the wireless transceiver from an interactive Python shell or your own program running on your computer. The device also has CC Bootloader installed, so you can upgrade RFCat or install your own firmware without any additional programming hardware.Featuring an external antenna connector, transmit and receive amplification, and plenty of expansion options, YARD Stick One is the most powerful CC1111 board available. Unlike previous devices based on the CC1111 transceiver, it operates effectively over the entire frequency range of the transceiver IC, and it is open source hardware.",
   "Year": "2015",
   "Location": "USA"

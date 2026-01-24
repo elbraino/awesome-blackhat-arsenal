@@ -5,7 +5,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-US-14",
-  "Github URL": "https://github.com/OWASP/www-community/blob/master/pages/initiatives/gsoc/gsoc2014ideas.md",
+  "Github URL": "https://github.com/owaspjocur/OwaspPciToolkit",
   "Description": "The PCI toolkit is based on a decision tree assessment methodology, which helps you identify if your web applications are part of the PCI-DSS scope and how to apply the PCI-DSS requirements. By decomposing, one by one, you will be able to create an assessment and a final report of your scope delimitation and which OWASP guidelines must be used",
   "Year": "2014",
   "Location": "USA"

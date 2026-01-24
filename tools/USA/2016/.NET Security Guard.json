@@ -7,7 +7,7 @@
     "Track: Code Assessment"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "https://github.com/dotnet-security-guard",
   "Description": ".NET Security Guard is a code analyzer using the brand new Roslyn API, a framework built to develop analyzers, refactorings tools and build tools. It allows developers to scan their C# and VB.net code for potential vulnerabilities directly from Visual Studio. The analyzers are able to find a wide range of vulnerabilities from injection flaws to cryptographic weaknesses. Example of vulnerable applications will be analyzed in a live demonstration.",
   "Year": "2016",
   "Location": "USA"

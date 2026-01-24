@@ -8,7 +8,7 @@
     "Track: Hardware / Embedded"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "https://github.com/badger",
   "Description": "The car hacking topic is really hot at the moment, and many vulnerabilities affecting entire fleets are found from time to time. But is this all that there is regarding this topic? We want to introduce the CAN Badger, a tool designed to ease the way a vehicle is reversed. It is a hardware tool, not just an interface connected to a PC.Like its predecessor, the ECU Tool, the CAN Badger is able to handle the Security in ECUs in an easy way, as well as provide verbose information on what's going on in the buses. Want to learn how to approach vehicle electronics security in a practical way? Come and visit us at Arsenal!",
   "Year": "2016",
   "Location": "USA"

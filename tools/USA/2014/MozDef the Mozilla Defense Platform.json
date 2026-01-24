@@ -5,7 +5,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-US-14",
-  "Github URL": "https://github.com/mozilla/MozDef/releases",
+  "Github URL": "https://github.com/mozilla/MozDef",
   "Description": "Attackers have all the fun. With slick, integrated, real-time, open suites like metasploit, armitage, SET, and lair they quickly seek out targets, share exploits, gain footholds, and usually win.",
   "Year": "2014",
   "Location": "USA"

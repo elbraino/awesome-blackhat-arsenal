@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/cranelab/webapp-tech",
+  "Github URL": "https://github.com/owasp-modsecurity/ModSecurity-nginx",
   "Description": "Today more and more websites are becoming subject to the constant and malevolent barrage coming from malicious hackers. A websites name can be tarnished quickly by a simple breach of their application stack. Web application security is becoming more and more a crucial part of the IT infrastructure, but what exactly does a WAF do and why do you need it? In this talk we will answer those questions.\n\nWe will first take a look at how the popular and highly adopted open source proxy server known as NGINX can be combined with the long respected open source web application firewall known as ModSecurity to achieve an effective and highly secure layer for your web application stack. We will explain the detailed benefits that NGINX and ModSecurity can provide, including protection from layer 7 attacks such as XSS, SQLi and LFI. We will showcase how the combination of these technologies can automatically block traffic from known malicious IP addresses. We will cover the visibility and auditing ModSecurity can provide from its detailed log files.\n\nLastly, we will walk through the setup process and configurations so that after attending this session you can easily and quickly setup NGINX and ModSecurity as a effective and highly secure web application firewall.",
   "Year": "2018",
   "Location": "USA"

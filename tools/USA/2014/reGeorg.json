@@ -5,7 +5,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-US-14",
-  "Github URL": "https://github.com/L-codes/Neo-reGeorg/blob/master/README-en.md",
+  "Github URL": "https://github.com/L-codes/Neo-reGeorg",
   "Description": "In 2008 we released reDuh (http://research.sensepost.com/tools/web/reduh), a network tunnelling tool that allowed port forwarding via a web-shell and HTTP/S to backend services. reDuh has since become part of any attackers standard toolkit, featuring in several books and notoriously described as \"insidious\" by HBGary in their leaked e-mails.",
   "Year": "2014",
   "Location": "USA"

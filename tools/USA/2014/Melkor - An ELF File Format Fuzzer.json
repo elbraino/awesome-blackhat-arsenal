@@ -5,7 +5,7 @@
     "Track: Reverse Engineering"
   ],
   "Event": "BH-US-14",
-  "Github URL": "https://github.com/IOActive/Melkor_ELF_Fuzzer/blob/master/BUGS.txt",
+  "Github URL": "https://github.com/IOActive/Melkor_ELF_Fuzzer",
   "Description": "Since its adoption as the standard binary file format for *nix systems, a variety of vulnerabilities in ELF parsers have been found and exploited in OS kernels, debuggers, libraries, etc. Most of these flaws have been found manually through code review and binary modification. Nowadays, 15 years later, common programming mistakes are still being implemented in many ELF parsers that are being released these days very often, either as debuggers, reverse engineering tools, AV analyzers, plugins or as malware (yes, malware has parsers too). Here's where ELF file format fuzzing comes into the game to help you to identify these bugs in an automated fashion.",
   "Year": "2014",
   "Location": "USA"

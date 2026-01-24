@@ -7,7 +7,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-US-15",
-  "Github URL": "https://github.com/Yelp/elastalert/blob/master/setup.py",
+  "Github URL": "https://github.com/Yelp/elastalert",
   "Description": "ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch. It works by combining Elasticsearch with two types of modular components, rule types and alerts. Elasticsearch is periodically queried and the data is passed to the rule type, which determines when a match is found. When a match occurs, it is given to one or more alerts, which take action based on the match.",
   "Year": "2015",
   "Location": "USA"

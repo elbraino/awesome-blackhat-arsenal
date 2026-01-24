@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/dafthack",
+  "Github URL": "https://github.com/dafthack/MailSniper",
   "Description": "Oftentimes, on penetration tests we find ourselves having elevated access (Domain Admin) within an organization. One of the best ways to demonstrate risk to an organization is to show the ability to gain access to sensitive data. Email is often the primary messaging system inside most organizations and is the go-to medium for simple chit-chat about daily business, password resets, or even corporate strategy.\n\nMailSniper is a PowerShell-based penetration testing tool whose primary purpose is to search through email in a Microsoft Exchange environment for specific terms (i.e. passwords, insider intel, network architecture information, etc.). It can be used as a non-administrative user to search their own email, or by an Exchange administrator to search the mailboxes of every user in a domain.\n\nMailSniper includes additional modules for attacking externally-facing Outlook Web Access (OWA) and Exchange Web Services (EWS) portals. With MailSniper, it is also possible to: perform password spraying attacks, enumerate internal domain names and usernames, locate inboxes with too broad permissions, and gather the Global Address List containing all email addresses of users at an organization from OWA and EWS.",
   "Year": "2017",
   "Location": "USA"

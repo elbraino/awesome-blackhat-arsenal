@@ -8,7 +8,7 @@
     "Track: Internet of Things"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "https://github.com/EarlRamirez/netdb",
   "Description": "NetDB is an Internet of things Search engine created in 2014 by Bertin Bervis and James Jara. Using agents(crawlers) distributed in several countries, Netdb is scanning all Internet searching randomly 24 hours a day, indexing and parsing data based on responses. For each device, we are storing all banners and fingerprints but we are focused mostly in SSL Information of the device.We will cover basic information about our architecture, query builder, API and enterprise access and finally about the future of NetDB with Machine learning plus IoT infosecurity.",
   "Year": "2016",
   "Location": "USA"

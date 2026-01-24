@@ -7,7 +7,7 @@
     "Track: Hardware / Embedded"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "https://github.com/christyler80/OpenPenTest",
   "Description": "What if the only requirements for taking down a corporate network are a bit of smooth talking, 60 minutes and $35? Traditional hacking techniques and corporate espionage have evolved. Advanced attacks nowadays include a combination of social engineering, physical security penetration and logical security hacking. It is our job as security professionals to think outside the box and think about the different ways that hackers might use to infiltrate corporate networks. The WarBerryPi is a customized RaspBerryPi hacking dropbox which is used in Red Teaming engagements with the sole purpose of performing reconnaissance and mapping of an internal network and providing access to the remote hacking team.The outcome of these red teaming exercises is the demonstration that if a low cost microcomputer loaded with python code can bypass security access controls and enumerate and gather such a significant amount of information about the infrastructure network which is located at; then what dedicated hackers with a large capital can do is beyond conception.",
   "Year": "2016",
   "Location": "USA"

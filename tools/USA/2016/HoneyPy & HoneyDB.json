@@ -7,7 +7,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "https://github.com/paralax/awesome-honeypots",
   "Description": "HoneyPy is a low interaction honeypot with the capability to be more of a medium interaction honeypot. HoneyPy is written in Python and is intended to be easy to: deploy, extend functionality with plugins, and apply custom configurations. The level of interaction is determined by the functionality of its plugins. Plugins can be created to emulate UDP or TCP based services. All activity is logged to a file by default, but posting honeypot activity to Twitter, a Slack channel, or a web service endpoint can be configured as well. HoneyPy is ideal as a production honeypot on an internal network or as a research honeypot on the Internet.HoneyDB is a web site dedicated to publishing honeypot data from HoneyPy sensors on the Internet. It also offers honeypot data for download via a REST API. Web site users can also log into HoneyDB and maintain a ThreatBin, which is custom list of honeypot session data bookmarked by the user. Future features include consolidated threat information from other honeypot Twitter accounts, and expanding the API.",
   "Year": "2016",
   "Location": "USA"

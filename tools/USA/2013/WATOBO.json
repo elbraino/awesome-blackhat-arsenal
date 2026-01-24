@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-US-13",
-  "Github URL": "https://github.com/siberas/watobo/blob/master/TODO.md",
+  "Github URL": "https://github.com/siberas/watobo",
   "Description": "WATOBO is a security tool for web applications. It is intended to enable security professionals to perform efficient (semi-automated) web application security audits.",
   "Year": "2013",
   "Location": "USA"

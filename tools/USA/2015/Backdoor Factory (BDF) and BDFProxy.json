@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-US-15",
-  "Github URL": "https://github.com/secretsquirrel/the-backdoor-factory",
+  "Github URL": "https://github.com/secretsquirrel/BDFProxy",
   "Description": "The Backdoor Factory (BDF), first released in 2013, is an open source framework for patching PE, ELF, and Mach-O binaries with payloads or shellcode.  Combine that with BDFProxy, a tool based on mitmProxy and BDF to MitM patch binaries during download over HTTP, pentesters can bring unique attack capabilities to red teaming engagements and other testing engagements. BDF/BDFProxy is included in multiple operating systems and frameworks including Kali-Linux, Veil-Evasion, BlackArch Linux, and MITMf.The presenter will demo multiple use cases, from red teaming, testing OS security, cover framework internals, writing custom scripts, and new features.",
   "Year": "2015",
   "Location": "USA"

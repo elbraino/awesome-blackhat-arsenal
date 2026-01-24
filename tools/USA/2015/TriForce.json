@@ -7,7 +7,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-US-15",
-  "Github URL": "https://github.com/Jpja/BTC-and-XCP-Passphrase-Tools/blob/master/bulk-register-assets.html",
+  "Github URL": "https://github.com/nccgroup/TriforceAFL",
   "Description": "Triforce is both a free and commercial product that allows an analyst to reconstruct past activity on a system down to the granular file change thanks to file system journaling forensics. New this year we've discovered even more data sources and can now go back up to 5 years in real world tests of individual granular file system changes.Learn how to:- Reverse Wipes- See what was uploaded and downloaded to dropbox- Discover the attackers toolkit- Discover the actual infection vector- Profile malware- See what attachments have been opened and when and more!",
   "Year": "2015",
   "Location": "USA"

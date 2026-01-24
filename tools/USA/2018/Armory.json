@@ -7,7 +7,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/depthsecurity/armory-docker/blob/master/launch_api.sh",
+  "Github URL": "https://github.com/armory3d/armory",
   "Description": "Armory is a tool designed to run various existing tools, collating all of the output into a local database, and using that information for further attacks. It is extremely modular, and it is pretty easy to create custom modules and reports. Armory's purpose is to streamline client discovery and external penetration tests.",
   "Year": "2018",
   "Location": "USA"

@@ -5,8 +5,8 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-US-14",
-  "Github URL": "https://github.com/psiinon/open-source-web-scanners",
-  "Description": "w3af is a Web Application Attack and Audit Framework. The project\u00e2\u0080\u0099s goal is to create a framework to help you secure your web applications by finding and exploiting all web application vulnerabilities.",
+  "Github URL": "https://github.com/andresriancho/w3af",
+  "Description": "w3af is a Web Application Attack and Audit Framework. The projectâs goal is to create a framework to help you secure your web applications by finding and exploiting all web application vulnerabilities.",
   "Year": "2014",
   "Location": "USA"
 }

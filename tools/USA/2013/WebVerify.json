@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-US-13",
-  "Github URL": "https://gist.github.com/1aN0rmus/b7c70706b4b2eaa0070c",
+  "Github URL": "https://github.com/jahed/webverify",
   "Description": "WebVerify is a tool that aims to help in the recognition, vulnerability scanning and search patterns based on its own database. Unlike other tools, WebVerify first recognizes whether the target is a CMS to run other exploits... among its other advantages, WebVerify also provides command scripts to perform common WAF bypass techniques.",
   "Year": "2013",
   "Location": "USA"

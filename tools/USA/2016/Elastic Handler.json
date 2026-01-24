@@ -7,7 +7,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://github.com/devgc/ElasticHandler/blob/master/scripts/ExternalDeviceExample.py",
+  "Github URL": "https://github.com/devgc/ElasticHandler",
   "Description": "Elastic Handler is a DFIR specific replacement for the LogstashElastic Handler allows you to take all the tools you currently run and make their output better by doing the following:It allows you to define a mapping from the CSV/TSV/Etc output you are getting now into JSON so that ES can ingest itIt allows you to normalize all of the data you are feeding in so that your column names are suddenly the same allowing cross reporting searching and correlation.It lets you harness the extreme speed of Elastic Search to do the heavy listing in your correlationIt lets you take a unified view of your data/report to automate that analysis and create spreadsheets/etc. that you would have spent a day on previouslyThe idea here is to let computers do what can be automated so you can spend more time using what makes humans special. What I mean by that is your analyst brains and experience to spot patterns, trends and meaning from the output of the reports. In the GitHub repository there are several mappings provided for the tools, we call out most like; Tzworks tools, Shellbag explorer, our link parser, Mandiant's Shimcache parser, etc. But the cool thing about this framework is that to bring in another report, all you have to do is generate two text files to define your mapping, there is no code involved.",
   "Year": "2016",
   "Location": "USA"

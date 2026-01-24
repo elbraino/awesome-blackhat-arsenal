@@ -7,7 +7,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "https://github.com/subgraph",
   "Description": "Subgraph OS is a desktop operating system with built-in privacy and security features that make it resistant to attacks against the endpoint, especially those that involve exploitation of software vulnerabilities. The kernel is hardened with grsecurity + PaX, and key applications run in sandbox environments implemented using Linux containers, seccomp bpf, and desktop isolation. Subgraph OS also includes an application firewall and integration with Tor.",
   "Year": "2016",
   "Location": "USA"

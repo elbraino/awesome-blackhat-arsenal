@@ -7,7 +7,7 @@
     "Track: Reverse Engineering"
   ],
   "Event": "BH-US-15",
-  "Github URL": "https://github.com/volatilityfoundation/volatility/wiki/Volatility-Documentation-Project/92de893f43450b49a2ed39ddb68415d0fb87e464",
+  "Github URL": "https://github.com/volatilityfoundation/volatility",
   "Description": "The Volatility Framework is a completely open collection of tools, implemented in Python under the GNU General Public License, for the extraction of digital artifacts from volatile memory (RAM) samples of Windows, Linux, Mac OS X, and Android systems. After last year's Arsenal, we're excited to come back and demo an entirely different set of features, such as:- Extracting injected code and defeating anti-reversing tricks. In particular, we'll repair a PE file whose header(s) have been erased from memory.- How to reverse engineer PlugX and determine what system memory it manipulates to hide its persistence mechanism. We'll use what we learn to design a new Volatility plugin that detects the rootkit trick.- Using the new unified output rendering engine to consume and process large sets of memory artifacts in JSON, SQL, and other formats. In short, you'll learn how to build analysis tools on top of the Volatility Framework.",
   "Year": "2015",
   "Location": "USA"

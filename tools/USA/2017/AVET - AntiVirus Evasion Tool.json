@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/govolution/avetosx",
+  "Github URL": "https://github.com/govolution/avet",
   "Description": "Avet is an antivirus evasion tool: (link: https://github.com/govolution/avet).\n\nWhat & Why:\n\nWhen running an exe file made with msfpayload & co, the exe file will often be recognized by the antivirus software\nAvet is a antivirus evasion tool targeting windows machines\nThe techniques used in avet evaded 9 antivirus suites (all of the tested), including MS Defender, McAfee, Sophos, Avira and more\nAvet includes two tools, avet.exe with different antivirus evasion techniques and make_avet for compiling a preconfigured binary file\nAvet.exe loads ASCII encoded shellcode from a textfile or from a webserver, further it is using an av evasion technique to avoid sandboxing and emulation\nFor encoding the shellcode the tools format.sh and sh_format are included\nAvet is tested with Kali 2 and tdm-gcc\nInteractive assistant for easier usage\nSupport for 64bit payloads\n\nNew:\n\nMore payloads\nSupport for metasploit psexec\n\nTool URLS:\n\n\nPaper: https://govolution.wordpress.com/2017/07/27/paper-avet-blackhat-usa-2017/\nGitHub: https://github.com/govolution/avet",
   "Year": "2017",
   "Location": "USA"

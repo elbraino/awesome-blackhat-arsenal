@@ -5,7 +5,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-US-15",
-  "Github URL": "https://github.com/snoopysecurity/awesome-burp-extensions",
+  "Github URL": "https://github.com/PortSwigger/reissue-request-scripter",
   "Description": "This Burp plugin has one focus built script to replay HTTP request with various scripting language. It supports Python, Ruby, Perl, PHP, Powershell, and JavaScript. It is the swiss knife of the custom HTTP web exploits.This plugin starts where other automated tools reach their limit. It integrates itself well with \"python-paddingoracle\" tool to create custom padding oracle attack. It can be used to build quickly malicious JavaScript request for XSS payload. It can be used along sqlmap to exploit second order SQL injection.The BH Arsenal demo will focus on the most common usage: Padding Oracle, SQLi and XSS payload.The Burp plugin is available for download on GitHub and on the Burp App Store:- https://github.com/h3xstream/http-script-generator- https://pro.portswigger.net/bappstore/ShowBappDetails.aspx?uuid=6e0b53d8c801471c9dc614a016d8a20d",
   "Year": "2015",
   "Location": "USA"

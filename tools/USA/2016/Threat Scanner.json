@@ -7,7 +7,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "https://github.com/0xMuhannad/ThreatScanner",
   "Description": "Threatscanner is an endpoint IOC scanner. It consumes OpenIOC and Yara rules and scans Windows machines, matching the rules. It produces a report for any matches detailing all the information about the matched items. In addition, it details the logic path used to arrive at the match - showing which predicates in the rule matched and which were missed. The system has many performance optimizations; such as aggregating rules so each potential item is only evaluated once regardless of the number of rules tested. This means that the running time for a single rule roughly matches the running time for 1000s of rules.",
   "Year": "2016",
   "Location": "USA"

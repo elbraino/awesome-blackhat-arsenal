@@ -8,7 +8,7 @@
     "Track: Hardware / Embedded"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "https://github.com/crescentvenus/WALB",
   "Description": "The purpose of the WALB (Wireless Attack Launch Box) is to test or demonstrate the security issue of wireless devices. It can be used to evaluate the impact of GPS spoofing, fake ADS-B and others. WALB is a Raspberry Pi and HackRF based lunch box size portable RF signal generator. It can include the real time signal generation module for GPS, ADS-B and others. Therefor it does not require huge storage space for longer duration of the simulation time. You can choose any predefined scenario of GPS spoofing, fake ADS-B and power level settings from menu on LCD screen. By preparing any 8 bit signed I/Q binary file, it is possible to generate arbitrary signal within the frequency range available on HackRF.",
   "Year": "2016",
   "Location": "USA"

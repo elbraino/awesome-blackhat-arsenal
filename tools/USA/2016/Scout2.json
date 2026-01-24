@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "https://github.com/nccgroup/Scout2",
   "Description": "Scout2 is an open source tool that helps when assessing the security posture of AWS environments. This tool uses the AWS API to fetch configuration data for various Amazon services, including IAM, EC2, S3, RDS and CloudTrail. The gathered configuration is analyzed for known configuration weaknesses, then made available via an offline HTML report. The report provides security-oriented views of the AWS resources that were analyzed, as well as a list of security risks that were identified.Since its initial launch over two years ago, Scout2 doubled the number of services in scope and built-in security checks. If you worry that access to your AWS account -- and the resources it holds -- may not be secure enough, stop by and learn how you can easily identify security gaps. The presenter will demo multiple use cases, including use and comparison of various rulesets, customization of a ruleset, and creation of a new rule.",
   "Year": "2016",
   "Location": "USA"

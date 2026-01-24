@@ -7,7 +7,7 @@
     "Track: Hardware/Embedded"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/colinoflynn",
+  "Github URL": "https://github.com/newaetech/chipwhisperer",
   "Description": "ChipWhisperer - the favorite open-source toolchain for including both hardware & software. Now upgraded to include a major API shift with Python-centric scripting, plus many new targets with hardware AES accelerators. The scripting capability means you are able to automatically build firmware images for different targets or with different compiler settings, and perform attacks on them. This opens up the potential for continuous-integration (C.I.) usage of ChipWhisperer, which will be pushed further with the release of ChipWhisperer-Lint.",
   "Year": "2018",
   "Location": "USA"

@@ -8,7 +8,7 @@
     "Track: Data Forensics and Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/CrackerCat/GitHubLinks",
+  "Github URL": "https://github.com/dirtbags/pcapdb",
   "Description": "PcapDB is a full network packet capture solution that is affordable, open-source, and comprehensive. This lowers the entry bar for a full packet capture solution with no licensing fees, no specific vendor hardware requirements, and scalability to meet individual needs. Built by incident responders, PcapDB allows for response and threat intelligence with a data source that provides a complete picture of your network traffic. PcapDB takes a new approach for collection, management, and searching. The integration of disk management, capture across multiple, geographically-distributed sites, and very fast search and pcap retrieval via a centralized search head make it unlike other commercial and open source tools. The multi-site capability provides a crucial new capability for monitoring distributed systems, such as geographically distributed control systems. User management, encrypted communications, and a reduced time to results increase its utility. It is available for download and code contributions at https://github.com/dirtbags/pcapdb.",
   "Year": "2017",
   "Location": "USA"

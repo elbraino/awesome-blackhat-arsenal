@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-US-15",
-  "Github URL": "https://github.com/leoliu0/name_matching/blob/master/surname.txt",
+  "Github URL": "https://github.com/bearded-web/bearded",
   "Description": "Bearded is an open source Security Automation platform. The platform allows Development, QA, and Security team members to perform automated web security scans with a set of tools (w3af, sslyze, nmap, arachni etc), and re-execute those scans as needed. All tools can be executed in the cloud in docker containers. Bearded has a default web interface which integrates all core options and makes it possible to manage large pentests easily.Similar to owtf or minion, but using docker containers and scalable for clouds.",
   "Year": "2015",
   "Location": "USA"

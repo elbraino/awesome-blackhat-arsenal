@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-US-15",
-  "Github URL": "https://github.com/salesforce/pixel-captcha-project/blob/master/demo-webapp/src/main/java/com/salesforce/pixelcaptcha/demo/unused/TestCaptchaGenerator.java",
+  "Github URL": "https://github.com/salesforce/pixel-captcha-project",
   "Description": "The demo will discuss a new visual CAPTCHA scheme that leverages the 64K Unicode code points from the Basic Multilingual Plane (plane 0) to construct the CAPTCHAs that can be solved with 2 to 4 mouse clicks. We will discuss the design principles, the security mechanisms and its various features.There will be demonstrations for the various CAPTCHA configurations and the use cases. The proposed PixelCAPTCHA scheme will be released as an open source Java library along with a demo website.",
   "Year": "2015",
   "Location": "USA"

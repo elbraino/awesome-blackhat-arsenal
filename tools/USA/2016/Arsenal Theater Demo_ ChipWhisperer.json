@@ -7,7 +7,7 @@
     "Track: Hardware / Embedded"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "https://github.com/newaetech/chipwhisperer",
   "Description": "ChipWhisperer is the world's first complete open-source (hardware+software+documentation) toolchain for advanced embedded hardware security analysis such as side-channel power analysis and glitching attacks. In 2016 the software has been completely overhauled to improve the modular design and make it easier than ever for researchers to develop their own plug-ins.We'll be demoing some of the previous open-source hardware (such as the ChipWhisperer-Lite which was a Kickstarter during 2015) along with brand-new hardware, and the release of overhauled software tools with improved API, performance, and features. Don't miss your chance to see ChipWhisperer in action!",
   "Year": "2016",
   "Location": "USA"

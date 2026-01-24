@@ -7,7 +7,7 @@
     "Track: Android, iOS and Mobile Hacking"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://github.com/voidism/Input_Method_auto-Modifier/blob/master/EnWordBase.json",
+  "Github URL": "https://github.com/snoopysecurity/awesome-burp-extensions",
   "Description": "The Burp Non-HTTP proxy is specifically designed to help in testing thick client and mobile applications. It adds to BurpSuite a DNS server to help test applications that are difficult to route through proxies and adds interceptors to manipulate/mangle binary and non-HTTP protocols.The tool stores traffic in a sqlite database that can be exported or imported to save and analyze later. It can intercept and modify traffic automatically based on rules you assign or it can be modified manually as the traffic hits the proxy server. The tool also support SSL/TLS and signs certificates based on Burps CA certificate. If your testing on a mobile device that already has Burp's CA cert then the traffic will be seamlessly decrypted without errors into the tool for you to mangle before sending it on to the outgoing server.This tool arouse out of the need to test applications that were switching to more realtime protocols in both mobile applications and some web based Silverlight applications I had been testing. I wrote this tool as an easy extension to add to burp that would also be platform/OS independent vs some other tools out there that did similar functions.",
   "Year": "2016",
   "Location": "USA"

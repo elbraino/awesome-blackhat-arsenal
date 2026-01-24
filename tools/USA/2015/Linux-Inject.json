@@ -7,7 +7,7 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-US-15",
-  "Github URL": "https://github.com/maxcompston/inject-hook-linux",
+  "Github URL": "https://github.com/gaffe23/linux-inject",
   "Description": "Have you ever wanted to inject code into a Linux process, but found yourself lacking an easy way to do it? Ever wished Linux had a system call, like CreateRemoteThread on Windows? Linux-Inject is the tool you were wishing for! It can load a shared object inside another process, in much the same way Windows lets you load DLLs in other processes. It does this by attaching to the target process with ptrace and overwriting part of its address space with a custom loader. Once the target process has executed the loader, Linux-Inject restores the target's overwritten memory and register state and sends it on its merry way. At that point, it's up to you to wreak whatever havoc you'd like within the target process via the newly loaded shared object. Linux-Inject supports x86, x86_64, and ARM.",
   "Year": "2015",
   "Location": "USA"

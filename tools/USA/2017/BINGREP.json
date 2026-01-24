@@ -7,7 +7,7 @@
     "Track: Reverse Engineering"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/CrackerCat/GitHubLinks",
+  "Github URL": "https://github.com/m4b/bingrep",
   "Description": "We created a new tool for static malware analysis. Incident response is important and analysts must analyze malware promptly, but the cost of static analysis is too expensive. For effective analysis we sometimes reuse malware that was analyzed before. \"BinDiff\" is the most famous tool created by H. Flake that outputs \"Diff\" of functions between two malware. This outputs good results, but it can output only one result per function. So, we created \"BinGrep\" that outputs functions in order of similarity by searching resemble malware functions. This \"Grep\" tool is useful in malware analysis because malware analysts are interested in specific functions.",
   "Year": "2017",
   "Location": "USA"

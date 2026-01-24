@@ -5,7 +5,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-US-14",
-  "Github URL": "https://github.com/downsmash/titles/blob/master/players.txt",
+  "Github URL": "https://github.com/Infini-AI-Lab/TriForce",
   "Description": "TriForce is a set of analysis tools made for those who want to go deeper. With a focus on file system journaling forensics, we make use of artifacts that allow us to turn them into a forensic time machine. With tools that cover NTFS, HFS+, and Ext3, we are pushing forward a new era of analysis based on file system journaling.",
   "Year": "2014",
   "Location": "USA"

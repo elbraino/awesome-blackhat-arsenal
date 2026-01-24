@@ -5,8 +5,8 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-US-14",
-  "Github URL": "https://github.com/drduh/macOS-Security-and-Privacy-Guide",
-  "Description": "Spotlight Inspector is a free application for computer forensic investigation of Mac OS X computers. Until now, there has never been an effective cross-platform forensics tool for accessing Spotlight internal data from Mac OS X systems \u00e2\u0080\u0093 which is where all of the information about files indexed on a computer can be accessed by forensic investigators. This information gathering is crucial to digital investigators.",
+  "Github URL": "https://github.com/a1l4m/Mac-Triage",
+  "Description": "Spotlight Inspector is a free application for computer forensic investigation of Mac OS X computers. Until now, there has never been an effective cross-platform forensics tool for accessing Spotlight internal data from Mac OS X systems â which is where all of the information about files indexed on a computer can be accessed by forensic investigators. This information gathering is crucial to digital investigators.",
   "Year": "2014",
   "Location": "USA"
 }

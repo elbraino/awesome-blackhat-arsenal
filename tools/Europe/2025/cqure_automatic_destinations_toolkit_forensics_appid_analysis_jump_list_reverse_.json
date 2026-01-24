@@ -1,7 +1,7 @@
 {
   "Tool Name": "CQURE Automatic Destinations Toolkit: Forensics, AppID Analysis & Jump List Reverse Engineering",
   "Description": "The CQURE Automatic Destinations Toolkit is a forensic and research-grade collection of tools designed to analyze and interpret Windows Automatic Destinations (*. automaticDestinations-ms) files — a rich but underutilized source of timeline and user activity data. These binary files, associated with Jump Lists, contain detailed historical evidence of user interaction with applications and files. The tools are used internally by the CQURE Team in advanced forensics and have been developed based on real-world investigations requiring deep binary parsing and timeline construction from partially overwritten storage devices.",
-  "Github URL": "https://github.com/CQURE/CQTools",
+  "Github URL": "https://github.com/CQURE",
   "Tracks": [
     "Incident Response"
   ],

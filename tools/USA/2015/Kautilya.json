@@ -7,7 +7,7 @@
     "Track: Hardware / Embedded"
   ],
   "Event": "BH-US-15",
-  "Github URL": "https://github.com/samratashok",
+  "Github URL": "https://github.com/samratashok/Kautilya",
   "Description": "Kautilya is a framework which enables using Human Interface Devices (HIDs) in Penetration Testing. Kautilya is capable of generating ready-to-use payloads for a HID. In the Black Hat edition, new payloads will be added and live demos will be shown.Come and learn techniques like dumping system secrets in plain, data, executing shellcode in memory, installing backdoors, dropping malicious files and much more using nothing but a HID capable of mimicking a keyboard.",
   "Year": "2015",
   "Location": "USA"

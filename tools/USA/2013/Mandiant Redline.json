@@ -7,8 +7,8 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-US-13",
-  "Github URL": "https://github.com/kbharathala/goldmanquantquest/blob/master/keywordTok.csv",
-  "Description": "Redline, Mandiant\u00e2\u0080\u0099s premier free tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis, and the development of a threat assessment profile.  With Redline, users can:",
+  "Github URL": "https://github.com/mandiant",
+  "Description": "Redline, Mandiantâs premier free tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis, and the development of a threat assessment profile.  With Redline, users can:",
   "Year": "2013",
   "Location": "USA"
 }

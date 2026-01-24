@@ -7,7 +7,7 @@
     "Track: Android, iOS and Mobile Hacking"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "https://github.com/basekkelenkamp/AVInsight",
   "Description": "AVLInsight Mobile Threat Intelligence Platform that aggregate multiple threat intelligence sources and several analysis tools to help mobile threat researchers easier to analyze mobile threat activities, find the relations between them. AVLInsight Mobile Threat Intelligence Platform will open multiple sources to researchers: mobile malware information source, mobile OSINT source, structured mobile TTP source. Mobile researchers can search keyword in each source which they expected, or can link to the other source for search the relations.AVL Insight also provides a set of threat analysis tools: Smaliviewer for malware sample static analysis and RMS for dynamic analysis, Spoof Apps Analysis Tool, and a graphic threat analysis tool supported TTP analysis. We will demonstrate AVLInsight with several mobile threats to show how to discover these kinds of threats and the relations between them.",
   "Year": "2016",
   "Location": "USA"

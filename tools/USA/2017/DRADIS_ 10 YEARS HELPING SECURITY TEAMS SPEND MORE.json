@@ -7,7 +7,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/CrackerCat/GitHubLinks",
+  "Github URL": "https://github.com/dradis/dradis-ce",
   "Description": "Dradis is an extensible, cross-platform, open source collaboration framework for InfoSec teams. It can import from over 19 popular tools, including Nessus, Qualys, Burp and AppScan. Started in 2007 (this is the 10th year anniversary!), Dradis Framework has been growing ever since (10,000+ in the last 12 months). Dradis is the best tool to combine the output of different scanners, add your manual findings and evidence and generate a report with one click.\n\nCome to see the latest Dradis release in action. It's loaded with updates including new tool connectors, a Burp extension to send your findings into Dradis directly, combining of multiple issues, additional REST API coverage, and a leaner, faster interface. Find out why Dradis is being downloaded over 400 times every week and is loved by students preparing different certifications. Be sure to check it out before we run out of the exclusive 10th anniversary stickers!",
   "Year": "2017",
   "Location": "USA"

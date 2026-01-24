@@ -7,7 +7,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "null",
   "Description": "SITCH uses inexpensive hardware and open-source software to create a network of sensors for detecting malicious activity in GSM wireless networks.\n\nSITCH sensors are based on the Raspberry Pi 3 platform and use inexpensive, easy-to-source software-defined, GPS, and GSM radios. One person can manage a large number of SITCH sensors, including on-the-fly configuration and firmware updates, from a web browser.",
   "Year": "2017",
   "Location": "USA"

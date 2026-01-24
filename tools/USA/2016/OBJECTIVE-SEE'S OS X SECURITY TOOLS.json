@@ -7,7 +7,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://github.com/objective-see/FileMonitor",
+  "Github URL": "https://github.com/objective-see",
   "Description": "Patrick drank the Apple juice; to say he loves his Mac is an understatement. However, he is bothered by the increasing prevalence of OS X malware and how both Apple & 3rd-party security tools can be easily bypassed. Instead of just complaining about this fact, he decided to do something about it. To help secure his personal computer he's written various OS X security tools that he now shares online (always free!), via his personal website objective-see.com. So come watch as RansomWhere? generically detects OS X ransomware, KnockKnock flags persistent OS X malware, BlockBlock provides runtime protection of persistence locations, and much more. Our Macs will remain secure!",
   "Year": "2016",
   "Location": "USA"

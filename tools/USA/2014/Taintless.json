@@ -5,7 +5,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-US-14",
-  "Github URL": "https://github.com/uswitch/nidhogg/issues/24",
+  "Github URL": "https://github.com/abiusx/taintless",
   "Description": "Research in taint tracking and taint inference is hot in the scientific community. We have studied all tools and ideas developed for automated SQL injection prevention using scientific methods, and in an attempt to evaluate them, broken them all down.",
   "Year": "2014",
   "Location": "USA"

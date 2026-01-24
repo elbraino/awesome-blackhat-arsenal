@@ -8,7 +8,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "https://github.com/Dhayalan96/enumall",
   "Description": "Enumall leverages the Kali Linux distribution and the wildly popular recon-ng framework to find hidden gems in application assessments, asset discovery work, and OSINT engagements. These gems are acquisitions and subdomains. This isn't just your standard DNS tool. Enumall pulls possible subdomains and acquisitions from Google, Yahoo, Bing, Baidu, Netcraft, Shodan, techcrunch and more! It gives a standard output that inter-operates with several tools (one of which we will be demo'ing is Eyewitness for further detailed discovery!). In addition, Enumall also has the largest and most curated DNS bruteforce list on the internet. Come by and let us show you how you can use Enumall to supercharge your bug hunting and find ripe subdomains and acquisitions!",
   "Year": "2016",
   "Location": "USA"

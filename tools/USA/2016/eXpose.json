@@ -7,7 +7,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://github.com/joshsaxe/eXposeDeepNeuralNetwork",
+  "Github URL": "https://github.com/exposedev/expose",
   "Description": "From hiding their tools in innocuous-looking file paths to creating registry keys that hide malicious commands to inviting users to visit deceptive URLs, attackers frequently use deception to penetrate and hide on our networks. Currently our community uses URL blacklists and rule-based detection mechanisms to detect such deception. The eXpose deep neural network, which we will be releasing as free software simultaneously with Blackhat USA 2016, goes beyond these simple methods to provide artificial intelligence driven detection of these objects, detecting upwards of 90% of previously unseen malicious URLs, malicious file paths, and malicious registry keys at low false positive rates.eXpose's approach is based on recent advances in deep learning research, and uses neural network primitives such as character-level embeddings, heterogenously-sized convolutional filters, dropout, and batch normalization to achieve a high detection rate. We compared eXpose to conventional machine learning methods and found that eXpose achieves a significant boost in detection accuracy. In our presentation we will explain how eXpose works, demonstrate how to use it both from the command line and as a Python module, demonstrate its ability to detect new malicious URLs, file paths, and registry keys, and challenge our audience to beat eXpose at guessing which previously-unseen objects are malicious or not.",
   "Year": "2016",
   "Location": "USA"

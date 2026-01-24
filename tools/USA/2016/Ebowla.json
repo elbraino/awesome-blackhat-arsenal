@@ -7,7 +7,7 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://github.com/Genetic-Malware/Ebowla/blob/master/LICENSE.md",
+  "Github URL": "https://github.com/Genetic-Malware/Ebowla",
   "Description": "Dropping a payload or malware onto a target is usually not an issue given the variety of vulnerable software in use. Your challenge is keeping the payload from working and spreading to unintended targets, eventually leading to reverse engineers, crowdsourced or professional, who pick apart your work, and start an industry to stop your success. Inspiration for the tool came from the effective use of environmental keying in Gauss malware (2012) that, to this day, has prevented the reverse engineering community around the world from determining the purpose and use of all operational modules used in various industry attacks [https://securelist.com/blog/incidents/33561/the-mystery-of-the-encrypted-gauss-payload-5/].Our framework, Ebowla [https://github.com/Genetic-Malware/Ebowla], implements techniques above and beyond those found in Gauss or Flashback to keep your payload from detection and analysis. Currently we support three protection mechanisms: AES file based keying, AES environmental based keying, and One Time Pad (closer to a digital book cipher) based off a known file on the target's system. The protected payloads are generated with either a stand-alone python or golang in-memory loader for the target system.",
   "Year": "2016",
   "Location": "USA"

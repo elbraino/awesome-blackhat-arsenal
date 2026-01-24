@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/CrackerCat/GitHubLinks",
+  "Github URL": "https://github.com/hackthelegacy/hack400tool",
   "Description": "In many industries the back-end systems still rely on \"heavy\" machines such as IBM i (aka AS/400) for core transactional systems. However, this area remained rather uncovered by security researchers. Back in 2015 I presented certain weaknesses of IBM i security at DefCon 23, providing a demo tool for assessment of IBM i systems and exploitation of some weaknesses, like privilege escalation. Since 2015, we improved the tool making it more useful for security personnel and auditors to assess certain important aspects of IBM i system security. These developments led to also adding new functionality in famous cracking tool, John the Ripper, for AS/400 password hashes. Based on users' feedback we try to make it best of class tooling for security assessments, keeping it open source (GPL) for the community.",
   "Year": "2017",
   "Location": "USA"

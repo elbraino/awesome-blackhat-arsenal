@@ -8,7 +8,7 @@
     "Track: Data Forensics and Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/CrackerCat/GitHubLinks",
+  "Github URL": "https://github.com/sandialabs/scot",
   "Description": "SCOT is a threat intelligence and incident response management system built for incident responders by incident responders. Focused on removing the friction between analysts and their tools, SCOT encourages the analysts to document and share their research and response efforts. Real time updates of team's work keep the team in flow and effortless coordination happens as a result. SCOT's automatic identification of indicators helps the analyst discover and respond to advanced threats. Integrating the data from multiple detection systems into a single place reduces the contextual shifts necessary to access each detection system. The integration of detection data with the built up team knowledge allows team to immediate recognize that a new alert might be part of a larger campaign. In addition, automating and simplifying common analyst tasks increase the analyst's effectiveness by freeing them to concentrate on cyber security and not tool mastery.",
   "Year": "2017",
   "Location": "USA"

@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/rajendrac3/Machine-Learning/blob/master/Apply%20Naive%20Bayes%20on%20Amazon%20reviews/Naive%20Bayes.ipynb",
+  "Github URL": "https://github.com/PortSwigger/replicator",
   "Description": "Developers often struggle to reproduce vulnerabilities discovered during pen tests. This is especially true for complex issues that need to bypass JavaScript validation, work with multi-step forms, handle dynamic CSRF tokens and more. This does not fit well with agile development where the ability to quickly reproduce problems enables efficient test driven development. Replicator solves this issue by allowing a pen tester to create a reproduction script that a developer can use on their system. Complex vulnerabilities can be confirmed with a single click, allowing the developer to stay in their productive coding flow. The tool is fully integrated with Burp Suite, making the script greatly easier to produce than a shell script, and keeping the tester in productive flow.",
   "Year": "2018",
   "Location": "USA"

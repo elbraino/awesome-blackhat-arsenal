@@ -7,7 +7,7 @@
     "Track: Data Forensics and Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/CrackerCat/GitHubLinks",
+  "Github URL": "null",
   "Description": "Yalda is an automated tool for data mining and scanning files. The tool analyzes and decodes the given files and categories them with a score from 1 to 5 (1 standing for clear and 5 standing for very malicious). It also extracts data such as malicious domains, malicious URLs and embedded objects from each file. Results of the scan would include detailed information on the file such as sha256, severity, file type, file size, embedded objects, severity, etc.\n\nFollowing are the proposed domains for using the tool:\n\nData mining tool for extracting malicious data such as URLs, Domains and embedded objects.\nFile Scanner for detecting if a file is malicious or suspicious and getting detailed information about the file.\nTool to obtain categorized data based on file format.\nBase tool in any research that requires categorized information on the given file.\nTesting tool to analyze detection ratio of malicious data in a product.\nPlease note that Yalda is not an AV engine.\n\nYalda is a free tool available for download at Fideliscyber github.",
   "Year": "2017",
   "Location": "USA"

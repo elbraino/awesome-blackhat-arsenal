@@ -8,7 +8,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/CrackerCat/GitHubLinks",
+  "Github URL": "https://github.com/Netflix/repokid",
   "Description": "Amazon AWS provides a tool called \"Access Advisor\" that shows unused permissions for a given IAM role. Access advisor data can be very valuable for security practitioners as it shows unused permissions that can be removed to harden the environment and promote least privilege best practices.\n\nIn the past retrieving Access Advisor information and reclaiming unused permissions has been a tedious and manual process involving logging in to the console and making changes by hand. Aardvark and Repokid are two complementary tools that make this process easy and automatable. Aardvark automatically retrieves access advisor for all roles in all accounts in your environment and exposes it as a queryable API. Repokid uses data presented by Aardvark to enable automatic role right-sizing.\n\nUsed together, Aardvark and Repokid can ensure roles retain only the necessary privileges, even in large dynamic AWS deployments.",
   "Year": "2017",
   "Location": "USA"

@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/CrackerCat/GitHubLinks",
+  "Github URL": "https://github.com/hugsy/gef",
   "Description": "GEF is a set of commands for GDB, to massively boost the exploit development process on X86, ARM, MIPS, PowerPC and SPARC. GEF aims to be used mostly by exploit development and reverse-engineers, to provide greatly enhanced features to GDB heavily relying on Python API to assist during the process of dynamic analysis and exploit development.",
   "Year": "2017",
   "Location": "USA"

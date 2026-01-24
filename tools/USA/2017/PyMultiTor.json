@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/realgam3",
+  "Github URL": "https://github.com/realgam3/pymultitor",
   "Description": "Have you ever wanted to be at two different places at the same time? When I asked myself this question, I actually started developing this solution in my mind. While performing penetration tests, there are often problems caused by security devices that block the \"attacking\" IP. This really annoyed me, so I wrote a script to supply a solution for this problem. With a large number of IP addresses performing the attacks, better results are guaranteed - especially when attempting attacks to bypass Web Application Firewalls, Brute-Force type attacks and many more. URLs: [Github] https://github.com/realgam3/pymultitor; [OwaspIL Old Presentation] https://www.owasp.org/images/3/3d/OWASPIL-2016-02-02_PyMultiTor_TomerZait.pdf; https://www.blackhat.com/asia-17/arsenal.html#pymultitor",
   "Year": "2017",
   "Location": "USA"

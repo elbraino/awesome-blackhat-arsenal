@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/CrackerCat/GitHubLinks",
+  "Github URL": "https://github.com/pathetiq/BurpSmartBuster",
   "Description": "This tool is the anticipated replacement of a better dirb/gobuster/DirBuster. Bruteforcing non-indexed data is often used to discover hidden files and directories which can lead to information disclosures, or even to system compromise when a backup file is found. This bruteforcing technique is still useful today, but the tools are lacking the application context and do not use any smart behaviour to reduce the bruteforce scanning time. BurpSmartBuster, a Burp Suite Plugin, offers to use the application context and add the smart into the Buster!\n\nThis demo will reveal this open-source plugin with its new features and show a practical case of how you can use this new tool to accelerate your Web pentesting to find hidden treasures! The following will be covered:\n\nHow to add context to a web bruteforce tool\nHow we can be stealthier\nHow smart context-based data can be used to find hidden files and directories\nHow simple the code is and how you can help to make it even better!\n\nIntroducing these new features:\n\nScan items based on the technologies of the webapp and web server (Basic ex: PHP files should not be scan on an ASPX application OR if SharePoint is in use scans its webservices).\nThis includes the new technology scanner class and results which are scanned\nIf time permits, Community data: Each time an items is find, the data is sent anonymously to a server compiling trend of hidden items found in the wild and will share the information to all\nMultiple small fixes and improvements",
   "Year": "2017",
   "Location": "USA"

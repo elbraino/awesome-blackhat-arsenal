@@ -7,7 +7,7 @@
     "Track: Code Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/CrackerCat/GitHubLinks",
+  "Github URL": "https://github.com/vulnex/Tintorera",
   "Description": "Tintorera is a static analysis tool developed in Python that uses the GCC compiler to build C projects aiming to obtain intelligence from them. GCC offers a powerful plugin architecture that allows tapping into its internals, and static analysis tools can benefit from it to gather information of the source code while compiling.\n\nSome Tintorera features that a code auditor can benefit from:\n\nObtain many code metrics: Cyclomatic Complexity (CC), comment density, physical lines of codes, design complexity, code averages and etc.\nAttack Surface analysis of the entire project, identifies all entry and exit of data.\nCan identify Linux API and well-known libraries such as OpenSSL\nPerform different visualization maps of the source code such as function structure, logic and function calls relationship\nContext and code analysis of: comments, inline assembly, global variables, function parameters and more\nThe entire source code is converted to a JSON representation allowing performing queries\nCreates HTML reports while the project gets compiled by GCC\nExtend Tintorera to fit your needs easily using Python\nTap into GCC internals and passes\n\nBy using static analysis techniques, Tintorera can gather intelligence of a C source code allowing a code auditor to learn about the project faster. Tintorera is a tactical response as projects grow in complexity and code reviews are usually performed under limited time.",
   "Year": "2017",
   "Location": "USA"

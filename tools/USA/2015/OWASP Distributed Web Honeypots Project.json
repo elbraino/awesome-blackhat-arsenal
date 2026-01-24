@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-US-15",
-  "Github URL": "https://github.com/SpiderLabs/owasp-distributed-web-honeypots/blob/master/README.md",
+  "Github URL": "https://github.com/SpiderLabs/owasp-distributed-web-honeypots",
   "Description": "The goal of the Distributed Web Honeypot (DWH) Project is to identify emerging attacks against web applications and report them to the community. This may include automated scanning activity, probes, as well as, targeted attacks against specific web sites or applications. The scope of this project has recently been expanded to include deployment of both standard web application honeypots and/or open proxy honeypots. Project participants may choose whether they want to run their honeypot as an open proxy or a stand-alone sensor. During the Black Hat Arsenal Demos, participants will be able to view live attack data within the central console server. We are also seeking participants who would like to join the project and deploy sensors.",
   "Year": "2015",
   "Location": "USA"

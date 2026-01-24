@@ -8,7 +8,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/CrackerCat/GitHubLinks",
+  "Github URL": "https://github.com/jzadeh/aktaion2",
   "Description": "Aktaion is a machine learning open source & active defense (orchestration) tool. It is on its first iteration. The tool focuses on the detection of ransomware based on machine learning techniques, independent of static-based signatures. The tool has been mentioned and featured in may respected community publications and research. On AKTAION v2 we decided to expand our approach utilizing the blending of multiple signals which we call micro behaviors to expand tool detection into PHISHING URI/URL attack delivery.",
   "Year": "2017",
   "Location": "USA"

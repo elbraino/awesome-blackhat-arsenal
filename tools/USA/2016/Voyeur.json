@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://github.com/silverhack/voyeur/blob/master/Common/Vars.ps1",
+  "Github URL": "https://github.com/silverhack/voyeur",
   "Description": "VOYEUR's main purpose is to automate several tasks of an Active Directory build review or security assessment. Also, the tool is able to create a fast (and pretty) Active Directory report. The tool is developed entirely in PowerShell (a powerful scripting language) without dependencies like Microsoft Remote Administration tools. (Just .Net Framework 4.0 and Office Excel if you want a useful and pretty report). The generated report is a perfect starting point for well-established forensic, incident response team, security consultants or security researchers who want to quickly analyze threats in Active Directory Services.Main FeaturesReturn a huge number of attributes on computers, users, containers/OUs, groups, ACL, etc...Search for locked accounts, expired password, no password policy, etc...Return a list of all privileged account in domain. (The script search in SID value instead in a group name)Return a list of group's modification (Users added/deleted for a specific group, etc...)Multi-Threading supportPlugin SupportUsage scenariosAble for using on local or remote computerAble for using on joined machine or workgroup machineReportingSupport for exporting data driven to several formats like CSV, XML or JSON.Office SupportSupport for exporting data driven to EXCEL format. The script also support table style modification, chart creation, company logo or independent language support. At the moment only Office Excel 2010 and Office Excel 2013 are supported by the tool.",
   "Year": "2016",
   "Location": "USA"

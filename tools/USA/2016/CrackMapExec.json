@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://github.com/byt3bl33d3r/CrackMapExec/blob/master/pyproject.toml",
+  "Github URL": "https://github.com/byt3bl33d3r/CrackMapExec",
   "Description": "CrackMapExec is fully open-source and hosted on Github: it aims to be a one-stop-shop for all of your offensive Active Directory needs by combining the power of Python, Powersploit and the Impacket library!Taking inspiration from previous tools such as:smbexecsmbmapcredcrackIt allows you to quickly and efficiently import credentials from Empire and Metasploit, replay credentials, pass-the-hash, execute commands, powershell payloads, spider SMB shares, dump SAM hashes, the NTDS.dit, interact with MSSQL databases and lots more in a fully concurrent pure Python script that requires no external tools and is completely OpSec safe! (no binaries are uploaded to disk!).",
   "Year": "2016",
   "Location": "USA"

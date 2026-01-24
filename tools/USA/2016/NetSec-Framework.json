@@ -7,7 +7,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://gist.github.com/williballenthin/28c73da6cbf5e76e137a9100ab45697f",
+  "Github URL": "https://github.com/sjbooher/netsec-framework",
   "Description": "NetSec-Framework is a super lightweight Python CLI for performing network auditing tests. The CLI utilizes Arpspoof, Ettercap, sslstrip, tcpdump and Nmap. A user is able to copy/paste this script into any vanilla Debian-based system, install dependencies, configure iptables rules, port forwarding and execute MiTM attacks without leaving the CLI. It also includes an assisted Nmap wrapper for network scanning with an explanation of each scan type. The framework also has features that allow the user to install most Kali Linux tools at the users request in an easy menu based system.The goal was to make network auditing more intuitive for an engineer just getting into security testing and make it easier for those who want to use certain Kali tools on the fly.",
   "Year": "2016",
   "Location": "USA"

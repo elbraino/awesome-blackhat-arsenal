@@ -7,7 +7,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://github.com/salesforce/ja3",
+  "Github URL": "https://github.com/fingerprintjs/fingerprintjs",
   "Description": "FingerprinTLS is a tool which leverages TLS client fingerprinting techniques to passively identify clients realtime via a network tap or offline via pcap files. This allows network administrators to identify clients with TLS enabled malware installed, rogue installations of cloud storage solutions, unauthorised Tor connections, etc. Organisations which expose APIs can determine if unwanted clients, such as attack tools are accessing their APIs. The tool has an internal database of fingerprints which have already been discovered and automates the process of adding your own. FingerprinTLS is distributed as an opensource project and has been tested to work on Linux, OS X, and BSD based systems.",
   "Year": "2016",
   "Location": "USA"

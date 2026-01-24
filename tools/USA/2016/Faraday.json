@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://github.com/fedek",
+  "Github URL": "https://github.com/infobyte/faraday",
   "Description": "Since collaborative pentesting is more common each day and teams become larger, sharing the information between pentesters can become a difficult task. Different tools, different formats, long outputs (in the case of having to audit a large network) can make it almost impossible. You may end up with wasted efforts, duplicated tasks, a lot of text files scrambled in your working directory. And then, you need to collect that same information from your teammates and write a report for your client, trying to be as clear as possible.The idea behind Faraday is to help you to share all the information that is generated during the pentest, without changing the way you work. You run a command, or import a report, and Faraday will normalize the results and share that with the rest of the team in real time. Faraday has more than 50 plugins available (and counting), including a lot of common tools. And if you use a tool for which Faraday doesn't have a plugin, you can create your own. During this presentation we're going release Faraday v2.0.0 with all the new features that we were working on for the last couple of months.",
   "Year": "2016",
   "Location": "USA"

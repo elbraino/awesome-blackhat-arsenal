@@ -7,7 +7,7 @@
     "Track: Android, iOS and Mobile Hacking"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://github.com/georgiaw",
+  "Github URL": "https://github.com/shevirah",
   "Description": "Shevirah is a suite of testing tools for assessing and managing the risk of mobile devices in the enterprise and testing the effectiveness of enterprise mobility management solutions. Shevirah allows security teams to integrate mobility into their risk management and penetration testing programs. Given only a phone number, testers can design a simulated attack campaign against Android and iOS base mobile devices; execute phishing, client side, remote attacks, and extensive post exploitation capabilities to gauge the security of the users, devices, applications, and security infrastructure around mobility. The free version demoed here comes complete with professional features such as a full GUI and reporting capabilities as well as the traditional command line interface for the more purist hackers.",
   "Year": "2016",
   "Location": "USA"

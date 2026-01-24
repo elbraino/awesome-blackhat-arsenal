@@ -7,7 +7,7 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-US-16",
-  "Github URL": "https://github.com/toolswatch/blackhat-arsenal-tools/blob/master/red_team/shinobot.md",
+  "Github URL": "https://github.com/Sh1n0g1/ShinoBOT",
   "Description": "ShinoBOT Suite is a malware/target attack simulator framework for pentest, education. The new version becomes \"suiter\" than the previous version.It includes those new features, components. You can now test your security performance against ransomware with it. ShinoLocker behaves just like a real ransomware but does not ask for any money to get the crypt key.1) ShinoLocker (Ransomware Simulator)Get the Crypto key from serverScan files to encryptEncrypt -Ask decryption keyDecryptUninstall itself2) ShinoBuilder (Full customization for ShinoBOT)Anti dynamic analysisExtremely Targeted Attack *You can make a malware that works only on your specific environment.C&C URL (for ShinoProxy)Polymorphic function3) ShinoC2 (ShinoBOT's Server)SSL support (Thanks Let's Encrypt Project)DNS TunnelingC2 communication can be done by just DNS4) ShinoStuxnet(tentative)ICS malware simulator.Scan ICS/SCADA system.Talks some ICS protocols.",
   "Year": "2016",
   "Location": "USA"

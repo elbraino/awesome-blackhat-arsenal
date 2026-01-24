@@ -7,7 +7,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-US-15",
-  "Github URL": "https://github.com/atktgs/BlackHat2015Arsenal",
+  "Github URL": "https://github.com/daveewall/epidigitalogy",
   "Description": "Today's digital ecosystem is harboring digital diseases that are increasingly resistant to antiviral measures. Many information security professionals continue to address the malware (digital disease pathogen) threat by focusing on antiviral methods and the re-imaging of infected hosts. The prevalence of infection is not conducive to the old reactive vaccination paradigm of one antidote signature for all. Can we learn from epidemiologists and how they investigate biological diseases? How do we enable more people to help in this digital medical crisis? We know there aren't enough people working on the digital disease problem, so how do we increase the numbers? This Digital Disease Control Web-Based Tracking app is an alpha proof of concept visualization tool, inspired by epidemiology, to enable entry level technicians to enter the security field.",
   "Year": "2015",
   "Location": "USA"
