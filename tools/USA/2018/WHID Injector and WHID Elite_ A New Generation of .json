@@ -7,7 +7,7 @@
     "Track: Internet of Things"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/xairy/usb-hacking",
+  "Github URL": "https://github.com/whid-injector/WHID",
   "Description": "WHID Injector was born from the need for cheap and dedicated hardware that could be remotely controlled in order to conduct HID attacks. WHID stands for WiFi HID injector. It is a cheap but reliable piece of hardware designed to fulfill Pentesters needs related to HID Attacks, during their engagements. The core of WHID Injector is mainly an Atmega 32u4 (commonly used in many Arduino boards) and an ESP-12s (which provides the WiFi capabilities and is commonly used in IoT projects). However, during the last months, a new hardware was under R&D (i.e. WHID Elite). It replaces the Wi-Fi capabilities with a 2G baseband. Which extends its wireless capabilities to (potentially) an unlimited working range.\n\nThis cute piece of hardware is perfect to be concealed into USB gadgets and used during engagements to get remote shell over an air-gapped environment. In practice, is the dream of any Red Teamer out there. During the Arsenal presentation we will see in depth how WHID Injector and WHID Elite were designed and their functionalities. We will also look which tools and techniques Blue Teams can use to detect and mitigate this kind of attacks.",
   "Year": "2018",
   "Location": "USA"

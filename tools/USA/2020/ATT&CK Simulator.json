@@ -9,7 +9,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/mitre-attack/attack-navigator",
+  "Github URL": "https://github.com/timfrazier1/AdversarySimulation",
   "Description": "This project provides a set of tooling for repeatedly executing and detecting adversary techniques in order to improve detection engineering. This project uses the MITRE ATT&CK Enterprise techniques taxonomy and the MITRE ATT&CK navigator web app. Once set up, you will be able to repeatedly execute specific techniques, observe the resulting events, and refine your detection rules and methodology.",
   "Year": "2020",
   "Location": "USA"

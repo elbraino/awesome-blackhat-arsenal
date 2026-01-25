@@ -8,7 +8,7 @@
     "iOS and Mobile Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/earthspecies/audio-embeddings/blob/main/02_simple_rnn.ipynb",
+  "Github URL": "https://github.com/nccgroup/Solitude",
   "Description": "Solitude is an open-source privacy analysis tool that aims to help people inspect where their private data goes once it leaves their favorite mobile or web applications. Whether a curious novice or a more advanced researcher, Solitude makes the process of evaluating an app's privacy accessible for everyone.\n\nUnfortunately, privacy policies are often difficult to understand when trying to identify how your private data is being shared and whom it's being shared with. As we have seen through research, privacy policies don't always tell the complete truth of what an apps actual data collection practices are. Solitude was built to help give more transparency to users of where their private data\ngoes. Solitude makes the process of proxying HTTP traffic and searching through HTTP traffic more straightforward. Solitude can be configured to look for any type of data that you input in a mobile or web application and reveal where that data is going. The application inspects all outbound HTTP traffic, looks for various hashes of your data and recursively decodes common encoding schemes (base64,URL).",
   "Year": "2021",
   "Location": "USA"

@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/hac425xxx",
+  "Github URL": "https://github.com/hac425xxx/trapfuzzer",
   "Description": "Breakpoint mechanism based coverage-guided binary fuzzing tools for Windows and Linux platforms.\n\nBinary instrument by breakpoint, in specific scenarios, this method is faster than dynamorio.\n\nAt present, more than 200 vulnerabilities have been found in WPS office, foxitpdf and other software",
   "Year": "2021",
   "Location": "USA"

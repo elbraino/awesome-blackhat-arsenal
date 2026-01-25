@@ -7,7 +7,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/jaikeerthick/Easy-Attendance-App",
+  "Github URL": "https://github.com/baronpan/SysmonHunter",
   "Description": "This tool delivers a more effective way to APT hunt and IR, and make it even easier to discover un-attributed attacks. Our goal is below:\n\nFind evidence of any phase in cyber attack lifecycle based on the large amount of event logs.\nHelp to recover the probable ways of intrusion.\nWe'd like to view APT threat in its whole lifecycle, not just malware, tools and infrastructures.\n\nThe next step was to do some research on APT threat hunting, based on incident data analyzing. Our basic concept uses some widely known and classic theory, like ATT&CK and Threat Intelligence. We then tried more practical ways of processing and analyzing incident data and built our own model. The core of this topic will teach you how we standardized data and filtered abnormal behavior, and three major analysis model in our practice, Time-line analysis, Graphic analysis, Statistic analysis. Finally, we will show the practiced cases on some APT group and post-exploitation tools.\n\nSource Code: https://github.com/baronpan/SysmonHunter",
   "Year": "2019",
   "Location": "USA"

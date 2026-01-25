@@ -8,7 +8,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/viktorbezdek/awesome-github-projects",
+  "Github URL": "https://github.com/PreOS-Security/fwaudit",
   "Description": "The first major release of our platform firmware security automation tool, Firmware Audit, aka: fwaudit. fwaudit automates the running and forensic hashing of output and firmware blobs for a variety of platform firmwares and across a variety of FOSS tools. fwaudit provides a pre-composed profiles for defense, exploration and forensics, to reduce the risk of bricking and maximize operational uptime.",
   "Year": "2018",
   "Location": "USA"

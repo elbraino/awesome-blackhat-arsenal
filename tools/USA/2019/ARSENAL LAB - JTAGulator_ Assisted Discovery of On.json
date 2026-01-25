@@ -7,7 +7,7 @@
     "Track: Arsenal Lab"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/RakhithJK/Cyber-Security_Collection/blob/master/Readme_en.md",
+  "Github URL": "https://github.com/grandideastudio/jtagulator",
   "Description": "For over five years, the JTAGulator has been the de facto open source tool for identifying interfaces commonly used for hardware hacking, such as JTAG and UART, from a target product's test points, vias, component pads, or connectors. The tool bridges the gap between gaining physical access to circuitry and exploiting it, and can save a significant amount of effort compared to traditional reverse engineering processes. For the first time at Black Hat Arsenal, attendees will have the opportunity to play with the JTAGulator and a variety of real-world embedded devices in an informal, hands-on environment.",
   "Year": "2019",
   "Location": "USA"

@@ -8,7 +8,7 @@
     "Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://gist.github.com/kunalj101/ad1d9c58d338e20d09ff26bcc06c4235?permalink_comment_id=3484437",
+  "Github URL": "https://github.com/slackhq/nebula",
   "Description": "Nebula is a Cloud Penetration Testing framework. It is build with modules for each provider and each functionality. It covers AWS, Azure (both Graph and Management API, which includes Entra, Azure Subscription based resources and Office365) and DigitalOcean.\nCurrently covers:\n- Public Reconnaissance\n- Phishing\n- Brute-force and Password Spray\n- Enumeration of internal resources after initial access\n- Lateral Movement and Privilege Escalation\n- Persistence\n\nEver since I pushed the last update, the tool has changed drastically. Now you will get a teamserver based tool, with a client and server split, authentication to access the tool, user management and a MongoDB database to save the results into.",
   "Year": "2024",
   "Location": "USA"

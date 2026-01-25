@@ -9,7 +9,7 @@
     "Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/subat0mik/Misconfiguration-Manager/blob/main/RESOURCES.md",
+  "Github URL": "https://github.com/Mayyhem/SharpSCCM",
   "Description": "SharpSCCM 2.0 - Abusing Microsoft's C2 Framework\n\nSharpSCCM is a post-exploitation tool designed to leverage Microsoft Endpoint Configuration Manager (a.k.a. ConfigMgr, formerly SCCM) for credential gathering and lateral movement without requiring access to the SCCM administration console GUI (e.g., from a C2 agent).\n\nThe release of SharpSCCM 2.0 includes new functionality to execute arbitrary commands on groups of devices, coerce NTLM authentication from remote SCCM clients that belong to specific users, dump and decrypt additional credentials from an SCCM client or by requesting them from a management point, and triage of local client files for software distribution point locations.\n\nThis session will include demonstrations of multiple techniques that can be used to take over an SCCM site, dump credentials from an SCCM client, execute arbitrary commands on remote SCCM clients, and coerce NTLM authentication from remote SCCM clients and servers.\n\nEach demo will be followed by practical recommendations for mitigating these attacks and Q&A.",
   "Year": "2023",
   "Location": "USA"

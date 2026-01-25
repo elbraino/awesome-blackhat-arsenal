@@ -8,7 +8,7 @@
     "Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/garrettfoster13/sccmhunter/wiki",
+  "Github URL": "https://github.com/garrettfoster13/sccmhunter",
   "Description": "SCCMHunter is a post exploitation framework written in Python designed to streamline identifying, profiling, and attacking SCCM infrastructure and assets in an Active Directory environment. The tool supports attack path identification and abuse for all currently known tradecraft published in Misconfiguration Manager.",
   "Year": "2024",
   "Location": "USA"

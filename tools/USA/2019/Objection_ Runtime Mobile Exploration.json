@@ -8,7 +8,7 @@
     "iOS and Mobile Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/leonjza",
+  "Github URL": "https://github.com/sensepost/objection",
   "Description": "Objection is a runtime mobile exploration toolkit, powered by Frida. It was built with the aim of helping assess mobile applications and their security posture without the need for a jailbroken or rooted mobile device. Objection allows for many common pentesting tasks to be performed such as disabling SSL inspection, interacting with the applicable platforms keystore/keychain as well as the ability to upload/download files from a device. Additionally, more advanced usage such as code path tracing and live Java object inspection, to name a few, is possible.",
   "Year": "2019",
   "Location": "USA"

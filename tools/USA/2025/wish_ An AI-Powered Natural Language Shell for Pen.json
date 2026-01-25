@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/rtholmes/conf-data/blob/master/data/2011ICSE.json",
+  "Github URL": "https://github.com/SecDev-Lab/wish",
   "Description": "wish is an AI-driven shell environment that translates natural language input into executable shell commands, streamlining penetration testing workflows. Traditional penetration testing heavily relies on memorizing commands or copying and pasting from references, which can be inefficient. wish enables security professionals to focus on strategy and situational awareness rather than syntax recall.\n\nBeyond simple command translation, wish integrates a built-in knowledge base that provides contextual recommendations based on previous executions, making it a powerful assistant for both novice and expert penetration testers. It also seamlessly interacts with C2 frameworks, enabling post-exploitation activities such as privilege escalation, lateral movement, and persistence setup through natural language instructions. With its modular design, wish can be extended to support additional tools, making it a flexible and scalable solution for modern penetration testing workflows.",
   "Year": "2025",
   "Location": "USA"

@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/wetw0rk/Sickle",
+  "Github URL": "https://github.com/wetw0rk/sickle-pdk",
   "Description": "This presentation explores Sickle, a modular and extensible payload development framework designed for offensive security professionals and red teamers. Sickle enhances exploit development by providing a structured approach to crafting highly sophisticated payloads for the modern landscape.\n\nAttendees will gain insight into Sickle's dynamic payload generation and multi-stage execution capabilities. The talk will cover key features such as customizable shellcode, and integration with existing exploitation frameworks.\n\nA live demonstration will showcase how Sickle can be used to generate and deploy payloads tailored to specific target environments, emphasizing its adaptability in real-world engagements.\n\nBy the end of the session, participants will understand how to leverage Sickle to craft advanced payloads while adhering to ethical and legal considerations in penetration testing and red teaming.",
   "Year": "2025",
   "Location": "USA"

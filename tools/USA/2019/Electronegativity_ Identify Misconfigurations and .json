@@ -7,7 +7,7 @@
     "Track: Code Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/phosphore",
+  "Github URL": "https://github.com/doyensec/electronegativity",
   "Description": "Electronegativity is a tool to identify misconfigurations and security anti-patterns in Electron-based applications (electronjs.org).\n\nThis is the first and only tool capable of detecting potential weaknesses and implementation bugs when developing applications using Electron, as recommended in the official security guidelines of the Electron project. Software developers and security auditors can use this tool to create secure desktop applications using web technologies.\n\nAfter being first introduced at Black Hat US 2017 (Electronegativity - A Study of Electron Security) and featured in Black Hat Asia 2019 (Preloading Insecurity In Your Electron), the tool will be showcased for the first time ever at the Black Hat USA 2019 Arsenal where we will demonstrate its potential by scanning well-known applications.\n\nCome see live demonstrations of Electronegativity hunting Electron applications for vulnerabilities and walk away with an open-source (Apache 2.0) static analysis engine to help secure your Electron applications!",
   "Year": "2019",
   "Location": "USA"

@@ -7,7 +7,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://gist.github.com/summerofgeorge/7b996d51e0d79286c3d14040d51d69ce",
+  "Github URL": "null",
   "Description": "While it has its potential benefits, facial recognition is eroding privacy and other human rights. Over the past year, several organizations have acknowledged that they have \"scraped\" social media and similar sites for photos to build their biometric databases, and photos intended for personal use only have now been potentially weaponized.\n\nIndustry and government have ethical responsibilities to prevent this, but what if there were a way to enhance privacy for individuals without waiting for the cavalry? Adversarial technology can provide a way to protect this biometric, but it must be as easy to use as picking up their mobile device and taking a photo.\n\nIntroducing \"Ruse,\" a mobile app that seeks to use adversarial strategies to make personal photos less useful for commercial facial recognition systems while retaining a (relatively) low impact on human usefulness.",
   "Year": "2021",
   "Location": "USA"

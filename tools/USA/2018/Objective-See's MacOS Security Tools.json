@@ -7,7 +7,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/objective-see/FileMonitor",
+  "Github URL": "https://github.com/objective-see",
   "Description": "Patrick drank the Apple juice; to say he loves his Mac is an understatement. However, he is bothered by the increasing prevalence of macOS malware and how both Apple & 3rd-party security tools can be easily bypassed. Instead of just complaining about this fact, he decided to do something about it. To help secure his personal computer, he's written various macOS security tools that he now shares online (always free!), via objective-see.com.\n\nCome watch as DoNotDisturb detects physical access attacks, LuLu blocks malware attempting to communicate with C&C servers, OverSight detect webcam spying, and much more. Our Macs will remain secure!",
   "Year": "2018",
   "Location": "USA"

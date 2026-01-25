@@ -7,7 +7,7 @@
     "Track: Human Factors"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/toolswatch/blackhat-arsenal-tools/blob/master/phishing/spf.md",
+  "Github URL": "https://github.com/tatanus/SPF",
   "Description": "SpeedPhishing Framework (SPF) is a small collection of tools which can assist penetration testers in quickly/automatically deploying phishing exercises in minimal time.\n\nAmong the various capabilities included with SPF is the ability to automate the phishing process of OSINT and target selection, deployment of one or more phishing websites, the crafting and sending of phishing emails to the targets, recording the results, and generating a basic report.\n\nSPF also includes more advanced capabilities such as dynamically building new web phishing templates, automatically validating captured credentials against target mail servers and the pillaging of sensitive information, and SPF can assist in the phishing of multifactor authentication portals.",
   "Year": "2019",
   "Location": "USA"

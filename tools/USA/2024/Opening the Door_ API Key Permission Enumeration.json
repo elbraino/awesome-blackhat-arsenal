@@ -8,7 +8,7 @@
     "Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/JamesLavin/my_tech_resources",
+  "Github URL": "null",
   "Description": "You're a bug bounty hunter and find a live API key - how do you demonstrate the impact of that key leaking? You're an IT administrator and find a hardcoded secret in a PowerShell script - how do you identify the permissions that key holds? Most SaaS providers make it difficult to enumerate the access granted to a particular credential.\n\nIn this talk, we're open-sourcing a new tool to enumerate the permissions and access associated with a leaked credential, without requiring access to the provider's UI. We'll walk through the meticulous steps we took to accurately assess each SaaS providers' scopes, as well as share the logic behind how we enumerate permissions, including string analysis, brute forcing and more.",
   "Year": "2024",
   "Location": "USA"

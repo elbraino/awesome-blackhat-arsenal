@@ -8,7 +8,7 @@
     "ML & Data Science"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/lintool/Ivory/blob/master/data/vocab/vocab.en-de.en",
+  "Github URL": "null",
   "Description": "The ATT&CK Flow Correlator is an open-source AI-driven tool designed to extract coordinated attack chains from noisy, heterogeneous security alert datasets. It uses a pipeline of open models \u2014 including LLMs, temporal knowledge graphs, clustering algorithms, and sequencers \u2014 to classify alerts with MITRE ATT&CK Techniques, group them into contextualized attack steps, and chain them into coherent, explainable killchains.\n\nThe tool includes modules for:\n\nNLP-based ATT&CK technique classification (even for poorly labeled alerts),\n\nGraph-based clustering (temporal, spatial, technical),\n\nSequence modeling (Markov Chains, RNNs, Transformers),\n\nGeneration of 3 actionable ticket types (False Positives, Incidents, Coordinated Attacks),\n\nIntegration-ready automation for SIEMs and SOC workflows (e.g., via Lambda, Sagemaker, SOAR).\n\nThe entire stack is cloud-native, cost-effective, and designed for accessibility \u2014 no deep ML knowledge required.",
   "Year": "2025",
   "Location": "USA"

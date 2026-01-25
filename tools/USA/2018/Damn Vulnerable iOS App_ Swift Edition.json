@@ -8,7 +8,7 @@
     "iOS and Mobile Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/prateek147",
+  "Github URL": "https://github.com/prateek147/DVIA-v2",
   "Description": "Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable. Its main goal is to provide a platform to mobile security enthusiasts/professionals or students to test their iOS penetration testing skills in a legal environment. This project is developed and maintained by @prateekg147. The vulnerabilities and solutions covered in this app are tested up to iOS 11. DVIA is free and open source and it has both a Swift and Objective-C version. This is a completely new version of Damn Vulnerable iOS App - completely rewritten in Swift 4.0.\n\nThe following vulnerabilities are covered:\n\nLocal Data Storage\nJailbreak Detection\nExcessive Permissions\nRuntime Manipulation\nAnti Anti Hooking/Debugging\nBinary Protection\nTouch/Face ID Bypass\nPhishing\nSide Channel Data Leakage\nIPC Issues\nBroken Cryptography\nWebview Issues\nNetwork Layer Security\nApplication Patching\nSensitive Information in Memory\nData Leakage to Third parties",
   "Year": "2018",
   "Location": "USA"

@@ -8,7 +8,7 @@
     "Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/objective-see/FileMonitor",
+  "Github URL": "https://github.com/objective-see",
   "Description": "Objective-See's security tools are free, open-source, and provide a myriad of ways to protect macOS systems from hackers, malware, or even commercial applications that behave poorly!\n\nIn this demo, will cover our most popular tools including, LuLu, OverSight, BlockBlock and more.\n\nWe'll also highlight various command-line tools (that leverage Apple's new Endpoint Security Framework) designed to facilitate both malware analysis and macOS spelunking.",
   "Year": "2022",
   "Location": "USA"

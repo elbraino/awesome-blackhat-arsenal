@@ -8,7 +8,7 @@
     "Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/lorin/resilience-engineering",
+  "Github URL": "null",
   "Description": "With typosquatting, with account takeover, and with dependency hijacking attackers are using malicious packages to target our deployment pipelines. They mimic popular packages like Material Tailwind, hijack popular dependencies like event-stream, and compromise privileged accounts. This talk explains these classes of attack with examples and introduces safe-package, an open-source security wrapper for all kinds of package managers that neutralizes these attacks.",
   "Year": "2023",
   "Location": "USA"

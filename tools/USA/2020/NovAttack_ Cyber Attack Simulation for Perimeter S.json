@@ -7,7 +7,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/novattack/novattack.com",
   "Description": "The NovAttack platform requires minimal setup time and few resources to implement. We love open source. So NovAttack is open source, it will remain open source.\n\nNovAttack simulates real cyber attacks, focusing on the following attack categories.\n\n### Features / Test Capabilities\n\n- IPS / IDS / Firewall\n- Malware Download\n- Content Filtering\n- DLP (Data Loss Protection)\n- WAF (Web Application Firewall) / Roadmap\n\n### How does NovAttack work?\n\nNovAttack advocates the open source philosophy. Uses the capabilities of python and libraries. All communication is prepared with API.\n\nNovAttack simulates cyber attacks with its point-to-point connection. Thus, it reduces the amount of false positive. Attack vectors in it can be edited and updated.\n\n- You can provide continuous cyber attack simulation by adding current malware to NovAttack.\n- You can develop DLP vectors specific to your organization, such as credit card leak). NovAttack provides continuous analysis for you.\n- You can test your institution's content or URL filter.",
   "Year": "2020",
   "Location": "USA"

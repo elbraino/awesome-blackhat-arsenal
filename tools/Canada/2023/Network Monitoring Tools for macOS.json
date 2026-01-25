@@ -6,7 +6,7 @@
   "Tracks": [
     "Track: Malware Defense"
   ],
-  "Github URL": "https://github.com/pwardle/ReflectiveLoader",
+  "Github URL": "null",
   "Event": "BH-ARSENAL",
   "Description": "As the majority of malware contains networking capabilities, it is well understood that detecting unauthorized network access is a powerful detection heuristic. However, while the concepts of network traffic analysis and monitoring to detect malicious code are well established and widely implemented on platforms such as Windows, there remains a dearth of such capabilities on macOS.\n\n\nHere, we will present various tools capable of enumerating network state, statistics, and traffic, directly on a macOS host. We will showcase open-source tools that leverage low-level APIs, private frameworks, and user-mode extensions that provide insight into all networking activity on macOS:\n\n\nSpecifically we'll demonstrate:\n\n\n* A network monitor that allows one to explore all network sockets and connections, either via an interactive UI, or from the commandline.\n\n\n* A DNS monitor that uses Apple's Network Extension Framework to monitors DNS requests and responses directly from the Terminal.\n\n\n* A firewall that monitors and filters all network traffic, giving users with the ability to block unknown/unauthorized outgoing connections.",
   "Year": "2023",

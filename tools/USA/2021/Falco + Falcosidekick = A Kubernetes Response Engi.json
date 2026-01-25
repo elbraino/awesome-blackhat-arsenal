@@ -7,7 +7,7 @@
     "Track:"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/developer-guy/awesome-falco",
+  "Github URL": "https://github.com/falcosecurity/falcosidekick",
   "Description": "Falco is the CNCF open-source project for runtime threat detection for containers and Kubernetes. It was created by Sysdig in 2016 and is the first runtime security project to join CNCF as an incubation-level project.\n\nFalco is a container security tool designed to detect anomalous activity in your local machine, container, cloud, a managed Kubernetes cluster, or a Kubernetes cluster such as K3s. It taps into system calls and Kubernetes Audit logs to generate an event stream of all system activity.\n\nOne of the benefits of Falco is in leveraging its powerful and flexible rules language. As a result, Falco will generate security events when it finds abnormal behaviors as defined by a customizable set of rules. Meanwhile, Falco comes with a handful of out-of-the-box detection rules.\n\nThe Falco community is strong and active, contributing largely to not only the project but methods in which folks can find threats and feed whatever method they choose with examples! Falcosidekick was born providing an easy to use UI to Falco and an enhanced available outputs. Falcosidekick even provides a response engine utilizing serverless (lambda, knative, kubeless, openfaas) which extends capabilities to whatever the security team wants to create remediation functions for with examples such as stopping a container, memdump, etc etc.",
   "Year": "2021",
   "Location": "USA"

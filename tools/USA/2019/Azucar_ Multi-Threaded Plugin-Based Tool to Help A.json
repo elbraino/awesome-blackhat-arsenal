@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/nccgroup/azucar/blob/master/Azucar.ps1",
+  "Github URL": "https://github.com/nccgroup/azucar",
   "Description": "Azucar is a multi-threaded plugin-based tool to help assess the security of Azure Cloud environment subscription. By leveraging the Azure API, Azucar automatically gathers a variety of configuration data and analyses all data relating to a particular subscription in order to determine security risks.",
   "Year": "2019",
   "Location": "USA"

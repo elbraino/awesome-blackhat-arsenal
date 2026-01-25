@@ -8,7 +8,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://gist.github.com/pmarreck/28b3049a1a70b8b4f2eaff4466d0c76a",
+  "Github URL": "https://github.com/shadow-workers/shadow-workers",
   "Description": "Service Workers are all the rage for progressive web apps nowadays. This talk will take a look at Service Workers from a different perspective. We will be focusing on our tool called \"Shadow Workers\" that serves as an exploitation toolkit to weaponize Service Workers\n\nWe'll explore some of the tools features including the ability to implant a pseudo backdoor in the browser and ghost through a victim's browser session to sniff, manipulate, and even proxy data silently.\n\nWe'll demo the various persistence mechanisms our tool provides to keep service workers alive and demo how MITM can be done at the browser layer. We'll also release a compendium tool to provide various mitigation mechanisms against such attacks.",
   "Year": "2019",
   "Location": "USA"

@@ -8,7 +8,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/t-tani",
+  "Github URL": "https://github.com/JPCERTCC/LogonTracer",
   "Description": "LogonTracer is a tool to investigate malicious logon by visualizing and analyzing Windows Active Directory event logs. Event log analysis is a key element in DFIR. In the lateral movement phase of APT incidents, analysis Windows Active Directory event logs is crucial since it is one of the few ways to identify compromised hosts. At the same time, examining the logs is usually a painful task because Windows Event Viewer is not a best tool. Analysts often end up exporting entire logs into text format, then feeding them to other tools such as SIEM. However, SIEM is neither a perfect solution to handle the increasing amount of logs.\n\nWe would like to introduce a more specialized event log analysis tool for incident responders. It visualizes event logs using network analysis and machine learning so as to show the correlation of accounts and hosts. Proven with our on the ground response experience, most importantly it is an open source tool.",
   "Year": "2018",
   "Location": "USA"
