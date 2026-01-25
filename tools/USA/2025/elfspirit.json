@@ -7,7 +7,7 @@
     "Track: Reverse Engineering"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/xackery/eqdb/blob/master/books.txt",
+  "Github URL": "https://github.com/secnotes/elfspirit",
   "Description": "ELFSPIRIT is a comprehensive static analysis and injection framework designed to parse, manipulate, patch, and camouflage ELF files. With elfspirit, you can explore the intricacies of the ELF format and have the freedom to finely manipulate every byte within the ELF file.",
   "Year": "2025",
   "Location": "USA"

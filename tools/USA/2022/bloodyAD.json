@@ -8,7 +8,7 @@
     "Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/CravateRouge/autobloody",
+  "Github URL": "https://github.com/CravateRouge/bloodyAD",
   "Description": "BloodyAD is an Active Directory Privilege Escalation Framework. It helps you interact with the Active Directory (AD) to read/modify its objects in order to perform privilege escalation.\nTwo modes exist, the first one lets you perform atomic operations on the AD, it's the manual mode. The second one automates most of the privilege escalation operations.\nThe tool can be installed on Linux and Windows and is designed to be used on your offensive machine even if you're not on the local network of the targeted AD, relying on encapsulation protocols like SOCKS.",
   "Year": "2022",
   "Location": "USA"

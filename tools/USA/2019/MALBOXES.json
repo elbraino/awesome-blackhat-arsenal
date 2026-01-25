@@ -8,7 +8,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/GoSecure/malboxes/releases",
+  "Github URL": "https://github.com/GoSecure/malboxes",
   "Description": "Malboxes is a tool to streamline and simplify the creation and management of virtual machines used for malware analysis.\n\nBuilding analysis machines is a tedious task. One must have all the proper tools installed on a VM such as a specific version of vulnerable software (ie: Flash), Sysinternal tools, debuggers (Windbg), network traffic analyzers (Wireshark), man-in-the-middle tools (Fiddler). One must also avoid leaking his precious proprietary software licenses (IDA). At the moment, this menial job is not automated and is repeated by every analyst.\n\nMalboxes leverages the DevOps principle of infrastructure as code to enable researchers to automatically create fully operational and reusable analysis machines. The tool uses Vagrant and Packer to do an initial out-of-band bootstrapping. Afterward, chocolatey is used to install further tools benefiting from the chocolatey package repository.\n\nAttendees will learn a simple tool for safe malware analysis practice that is easy to grasp, enabling them to start doing analysis faster. Seasoned malware researchers will also gain from this demo by seeing how the DevOps approach can be applied to simplify and accelerate their labs' malware reverse-engineering capacity or reduce its management overhead.",
   "Year": "2019",
   "Location": "USA"

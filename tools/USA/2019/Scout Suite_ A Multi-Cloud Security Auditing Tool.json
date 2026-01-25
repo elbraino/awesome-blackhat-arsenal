@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/nccgroup/ScoutSuite/wiki",
+  "Github URL": "https://github.com/nccgroup/ScoutSuite",
   "Description": "Scout Suite (https://github.com/nccgroup/ScoutSuite) is an open source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments. Using the APIs exposed by cloud providers, Scout Suite gathers configuration data for manual inspection and highlights risk areas. Rather than going through dozens of pages on the web consoles, Scout Suite presents a clear view of the attack surface automatically.\n\nThe following cloud providers are currently supported:\n\nAmazon Web Services\nMicrosoft Azure\nGoogle Cloud Platform\n\nDuring the presentation, we will run Scout Suite against a number of cloud environments preconfigured with typical flaws. We will display how Scout Suite can be used to identify and help with remediation of security misconfigurations.\n\nWe will also release support for a number of new cloud providers (Oracle Cloud Infrastructure, Alibaba Cloud & IBM Cloud), and demonstrate how Scout Suite's cloud-agnostic architecture allows for great extensibility.\n\nPresentation Slides: https://github.com/nccgroup/ScoutSuite/files/3502099/BH.Arsenal.2019.Scout.Suite.pdf",
   "Year": "2019",
   "Location": "USA"

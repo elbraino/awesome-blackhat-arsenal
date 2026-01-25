@@ -7,7 +7,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Docs_and_Reports.md?plain=1",
+  "Github URL": "https://github.com/dradis/dradis-ce",
   "Description": "Dradis is an extensible, cross-platform, open source collaboration and reporting tool. It can import from 20+ popular tools, including Nessus, Qualys, Burp and AppScan. Started in 2007, Dradis Framework is still downloaded 400+ **per week**. Dradis is the best tool to combine the output of different scanners, add your manual findings and evidence and generate a report with one click.\n\nIf you're still reviewing your scan results manually, or putting together your reports by hand, or sending emails to your colleagues to coordinate your projects, or copying and pasting findings from old reports instead of having a findings database, you need to check Dradis out. Some of the features that set Dradis apart are:\n\nBuilt in testing methodologies (OWASP, OSTMM, PTES,...)\nFlexible reporting\nTeam collaboration: commenting, notifications, Slack integration\nBurp extension\nFull REST API coverage to build your own integrations\nDozens of open-source plugins to inspire your own\nSolid community of users\nBest tool to prepare your OSCP certification\n\nIf you're looking for a collaboration tool that has a track record, is open source, and keeps improving every day (there have been over 850 improvements and 4 major releases, since last year), come and visit our Arsenal station.",
   "Year": "2019",
   "Location": "USA"

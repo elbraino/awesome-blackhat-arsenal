@@ -8,7 +8,7 @@
     "Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/zerosteiner",
+  "Github URL": "https://github.com/rapid7/metasploit-framework",
   "Description": "The Metasploit Framework released version 6.4 earlier this year, including multiple improvements to Kerberos-related attack workflows. The latest changes added support forging diamond and sapphire tickets, as well as dumping tickets from compromised hosts. Metasploit users can now exploit unconstrained delegation in Active Directory environments for privilege escalation as well as use pass-the-ticket authentication for the Windows secrets dump module. These new Kerberos improvements increase the ways in which tickets can be forged, gathered as well as used.\n\nAdditionally, Metasploit has added support for new protocol based sessions, allowing users to interact with targets without uploading payloads, thus increasing their evasive capabilities. These new sessions can be established to database, SMB and LDAP servers. Once opened, they enable users to interact and run post modules with them, all without running a payload on the remote host.\n\nFinally, version 6.4 includes a complete overhaul of how Metasploit handles its own DNS queries. These improvements ensure that users pivoting their traffic over compromised hosts are not leaking their queries and offer a high degree of control over how queries should be resolved.\n\nThis Arsenal demonstration will cover these latest improvements and show how the changes can be combined for new, streamlined attack workflows using the latest Metasploit release.",
   "Year": "2024",
   "Location": "USA"

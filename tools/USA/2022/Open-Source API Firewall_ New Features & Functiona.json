@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Web.md",
+  "Github URL": "https://github.com/wallarm/api-firewall",
   "Description": "The open-source API Firewall by Wallarm is a great option for API development. It offers a rich feature set, and its underlying technology is mature. The firewall's new feature of blocklisting for compromised tokens and cookies is a great way to gain visibility into threats and prevent issues. The feature is easy to set up and offers a high degree of visibility into the security posture of your APIs and services.",
   "Year": "2022",
   "Location": "USA"

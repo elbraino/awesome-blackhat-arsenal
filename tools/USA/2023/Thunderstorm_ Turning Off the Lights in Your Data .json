@@ -8,7 +8,7 @@
     "Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/JoelGMSec/MyTalks",
+  "Github URL": "https://github.com/JoelGMSec/Thunderstorm",
   "Description": "One of the main premises of any IT installation, is to protect the entire infrastructure against possible failures. In addition to firewalls and other network elements, one of the vital points is the electrical system.\n\nThanks to uninterruptible power supplies (UPS), it is possible to cover and manage these issues economically. The main problem, is that many of these systems inherit the same bugs as other IoT devices, which makes them vulnerable to all kinds of attacks.\n\nIn this presentation, we will explain how it has been possible to develop different zero-day vulnerabilities thanks to social engineering, some investment, and a bit of common sense. Among other things, these flaws would make it possible to compromise the electrical system of an office or even that of a Data Center.\n\nSince these devices share common components, it would be possible to obtain remote code execution (with the highest possible privileges) and/or denial of service on more than 100 different manufacturers. Moreover, all of this has been automated in a single framework, making it possible to detect and exploit these vulnerabilities easily, simply and fully automatically.",
   "Year": "2023",
   "Location": "USA"

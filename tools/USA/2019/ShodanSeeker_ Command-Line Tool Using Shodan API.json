@@ -7,7 +7,7 @@
     "Track: Internet of Things"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/laincode",
+  "Github URL": "https://github.com/laincode/shodan-seeker",
   "Description": "The large number of assets published on the Internet - some of which organizations are not even aware of their existence - increase the probability of services being exposed that could put them at risk. As a first step towards resolving this problem, we introduce ShodanSeeker.\n\nTaking advantage of Shodan's crawlers, ShodanSeeker analyzes historical records on-the-fly to discover differences between previously performed scans in order to identify new published services.\n\nEnhancing the capabilities of Shodan's real-time stream of data, our fully customizable solution monitors and generates notification messages once a new risk service is discovered.\n\nPresentation slides: https://drive.google.com/open?id=1Fi5XJ5-1QyXSawHKXVm_emF3NUR2Nx7X",
   "Year": "2019",
   "Location": "USA"

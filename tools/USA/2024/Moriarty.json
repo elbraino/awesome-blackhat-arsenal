@@ -9,7 +9,7 @@
     "Malware Offense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/NCIP/nci-ocr/blob/master/software/ear/src/test/jmeter/nes_person_data_2.tab",
+  "Github URL": "https://github.com/AzizKpln/Moriarty-Project",
   "Description": "Moriarty is a.NET tool designed to identify vulnerabilities for privilege escalation in Windows environments. Building upon Watson and Sherlock, Moriarty extends their capabilities by incorporating advanced scanning techniques for newer vulnerabilities and integrating additional checks. This tool supports a wide range of Windows versions, from Windows 10 to Windows 11, and Server versions 2016, 2019, and 2022. Moriarty differentiates itself by its ability to enumerate missing KBs and detect various vulnerabilities linked to privilege escalation, offering suggestions for potential exploits. The tool's extensive database includes well-known vulnerabilities such as PrintNightmare (CVE-2021-1675), Log4Shell (CVE-2021-44228), and SMBGhost (CVE-2020-0796), among others.",
   "Year": "2024",
   "Location": "USA"

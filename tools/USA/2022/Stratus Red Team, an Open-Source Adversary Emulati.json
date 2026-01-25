@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/datadog/stratus-red-team/releases",
+  "Github URL": "https://github.com/DataDog/stratus-red-team",
   "Description": "Stratus Red Team is an open-source project for adversary emulation and validation of threat detection in the cloud. It comes with a catalog of cloud-native attack techniques mapped to MITRE ATT&CK that you can easily detonate against a live cloud environment or Kubernetes cluster.\n\nStratus Red Team supports common AWS and Kubernetes attack techniques. You can point it at a live AWS account or Kubernetes cluster and easily detonate TTPs commonly used by offensive actors, without any prerequisite infrastructure or configuration needed. It helps you validate your threat detection end-to-end and even has a programmatic interface to integrate it with existing automation.\nStratus Red Team transparently leverages Terraform to provision the infrastructure required to detonate TTPs, and Go to perform the actual attacks. The TTPs it packages are opinionated: granular, threat-informed, and actionable for defenders.",
   "Year": "2022",
   "Location": "USA"

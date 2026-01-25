@@ -8,7 +8,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Network_Attacks.md",
+  "Github URL": "https://github.com/ReDTunnel/redtunnel",
   "Description": "Did you wonder how you could browse target's internal network without deploying anything on the victim machine? Sounds like magic, right? Imagine that you could have a one-click setup that will provide you a magic tunnel from the outside world. That's when we came up with the \"ReD Tunnel\" idea. The design goal was to use tools that exist on the victim's device, like the browser, rather than rely on 0days to stay below the radar of the most advanced AV. To create this new capability, we decided to combine two concepts: JavaScript reconnaissance techniques and the DNS rebinding attack. Open your browser, wait until the victim visits your website and start browsing the internal websites in their network. Now, when red-teaming you could really \"be a guest, but feel at home\".",
   "Year": "2019",
   "Location": "USA"

@@ -7,7 +7,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/InQuest/awesome-yara",
+  "Github URL": "https://github.com/kevthehermit/PasteHunter",
   "Description": "From a security analytics and Threat Intelligence perspective, Pastebin is a treasure trove of information. All content that is uploaded to Pastebin and not explicitly set to private (which requires an account) is listed and can be viewed by anyone.\n\nHackers and script kiddies are quick to push their warez on to the site for the world to see and developers/network engineers are prone to accidentally leaking internal configurations and credentials. Anyway, how can we the lowly security analyst sift through all this data and use it to our advantage? We can scrape Pastebin and check all the data uploaded to see if any of it is of interest to us. There are some tools that can monitors paste sites with a set of regular expressions but I wanted more control and flexibility.\n\nHaving used Yara extensively in Malware analysis and Threathunting I saw it as a powerful method for quickly scanning large amounts of data and identifying the contents.\n\nOver the last two years of development Pastehunter has grown to include modular inputs that can read from any data source and process the data in to a searchable indexed data set that also has the ability to send notifications with minutes of data matching your rules going public.\n\nInputs include Pastebin, Github Gists and all StackExchange posted questions. Ouptuts include Elastic Search and SMS / WhatsApp / Slack amongst others.",
   "Year": "2019",
   "Location": "USA"

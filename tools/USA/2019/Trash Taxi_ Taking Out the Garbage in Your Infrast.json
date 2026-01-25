@@ -7,7 +7,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/jiayiwangjw/pythonstudy/blob/master/001_Essential%20notes002.py",
+  "Github URL": "https://github.com/threatstack/trashtaxi",
   "Description": "Auditors dream of a world in which they can guarantee that few possess unrestricted administrator access. Yet, developers and operations staff often need to debug complex events - that only occur with load - in production. How can we balance the need to grant occasional superuser access with the incentive to ensure changes make their way back into configuration management, while reducing the risk of configuration drift? We built Trash Taxi to help us understand why people use \"sudo -i,\" and also clean up hosts that have had arbitrary commands run on them by \"taking out the trash\" as in: terminating them.",
   "Year": "2019",
   "Location": "USA"

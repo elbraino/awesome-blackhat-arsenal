@@ -8,7 +8,7 @@
     "Track: Hardware/Embedded"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Wireless.md",
+  "Github URL": "https://github.com/riverloopsec/tumblerf",
   "Description": "We are pleased to introduce TumbleRF, an open source Python framework for fuzzing arbitrary RF technologies down to the PHY. While fuzzing has long been relied on by security researchers to identify software bugs, applying fuzzing methodologies to RF and hardware systems has historically been challenging due to siloed tools and the limited capabilities of commodity RF chipsets.\n\nWe created the TumbleRF host-based fuzzing orchestration framework to address these shortfalls by defining core fuzzing logic while abstracting a hardware interface API that can be mapped for compatibility with any RF driver. Thus, supporting a new radio involves merely extending an API, rather than writing a protocol-specific fuzzer from scratch. In addition to enabling traditional MAC-centric fuzzing workflows, TumbleRF's flexibility allows attackers to fuzz and characterize PHY state machines if paired with a Software Defined Radio or a sufficiently flexible commodity radio.\n\nAttendees can expect to leave this presentation with an understanding of how RF and hardware physical layers actually work, and the security issues that lie latent in these designs. Additionally attendees will be empowered to pursue RF vulnerabilities in an automated fashion, which in turn will drive the development and adoption of more secure systems.",
   "Year": "2018",
   "Location": "USA"

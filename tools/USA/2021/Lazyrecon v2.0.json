@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/toolswatch/blackhat-arsenal-tools/blob/master/exploitation/lazyrecon.md",
+  "Github URL": "https://github.com/capt-meelo/LazyRecon",
   "Description": "Lazyrecon v2.0 is a subdomain discovery tool that discovers and resolves valid subdomains then performs SSRF/LFI/SQLi fuzzing and port scanning. It has a simple modular architecture and is optimized for speed while working with github and wayback machine.",
   "Year": "2021",
   "Location": "USA"

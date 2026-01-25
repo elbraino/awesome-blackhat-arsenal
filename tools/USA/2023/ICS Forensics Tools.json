@@ -8,7 +8,7 @@
     "Track: Smart Grid/Industrial Security"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/nikhil130yadav/k-means-cluster-on-text-data/blob/master/output_30000words_3000Topics.txt",
+  "Github URL": "https://github.com/microsoft/ics-forensics-tools",
   "Description": "open source forensic toolkit for analyzing Industrial PLC metadata and project files. ICS Forensics Tools enables investigators to identify suspicious artifacts on ICS environment for detection of compromised devices during incident response or manual check. ICS Forensics Tools is open source, which allows investigators to verify the actions of the tool or customize it to specific needs. We will be announcing two new forensics tools.These presentation will include live demonstrations, as well as a quick and easy-to-use forensics guide utilizing the tool. The tools will be available for immediate use, right before the session begins.",
   "Year": "2023",
   "Location": "USA"

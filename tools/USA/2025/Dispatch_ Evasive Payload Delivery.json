@@ -7,7 +7,7 @@
     "Track: Network"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://gist.github.com/goofyclown/949b26b84a370ab9c041c57a89a9f65a",
+  "Github URL": "https://github.com/m8sec/Dispatch",
   "Description": "Dispatch is an evasive payload delivery server built to enhance stealth and operational security during engagements. It provides an intuitive web UI with dynamic access controls, automatic URL expiration, and flexible file management, ensuring payloads stay secure and accessible only to authorized users. With built-in evasion techniques and adaptable deployment options, Dispatch helps operators maintain covert and controlled payload delivery, reducing exposure to defensive countermeasures.",
   "Year": "2025",
   "Location": "USA"

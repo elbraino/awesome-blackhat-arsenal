@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/owtf/owtf/blob/develop/SECURITY.md",
+  "Github URL": "https://github.com/owtf/owtf",
   "Description": "OWASP OWTF is a project focused on penetration testing efficiency and alignment of security tests to security standards like the OWASP Testing Guide (v3 and v4), the OWASP Top 10, PTES and NIST so that pentesters will have more time to\n\nSee the big picture and think out of the box\nMore efficiently find, verify and combine vulnerabilities\nHave time to investigate complex vulnerabilities like business logic/architectural flaws\nPerform more tactical/targeted fuzzing on seemingly risky areas\nDemonstrate true impact despite the short timeframes we are typically given to test\n\nOWTF is highly configurable and anybody can trivially create simple plugins or add new tests in the configuration files without having any development experience.",
   "Year": "2018",
   "Location": "USA"

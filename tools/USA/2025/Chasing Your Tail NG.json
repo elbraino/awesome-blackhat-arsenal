@@ -7,7 +7,7 @@
     "Track: Privacy"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/yarkable/Awesome-Computer-Vision-Paper-List/blob/main/NeurIPS/nips2019.md",
+  "Github URL": "https://github.com/ArgeliusLabs/Chasing-Your-Tail-NG",
   "Description": "My \"Chasing Your Tail with a Raspberry Pi\" talk at Blackhat 2022 blew up and the tool got featured in multiple media outlets, including Wired and the Official MagPi magazine. The tool worked great, but there was A LOT of room for improvement. I'm finally ready to release the updated version, which includes more straightforward setup, more modular configuration, and the capability to go from defense to offense by analyzing the logs obtained to try to determine information about the devices following you!",
   "Year": "2025",
   "Location": "USA"

@@ -7,7 +7,7 @@
     "Track: Cryptography"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/spoofzu/DeepViolet/blob/master/src/main/java/com/mps/deepviolet/api/CipherSuiteUtil.java",
+  "Github URL": "https://github.com/spoofzu/DeepViolet",
   "Description": "DeepViolet TLS/SSL scanner is an information gathering tool to test TLS/SSL configuration on secure web servers. DeepViolet is an API written in Java. Two proof of concept tools implement the API to demonstrate DeepViolet running from the command line or alternatively from a desktop application. Features of DeepViolet include enumeration of web server cipher suites, display X.509 certificate metadata, examine X.509 certificate trust chains, user configurable ciphersuite naming conventions and more. DeepViolet is an OWASP open source project written to help educate the technical community around TLS/SSL and strengthen knowledge of security protocols while strengthen security of web applications. DeepViolet project is always looking for volunteers.\n\nSource Code: https://github.com/spoofzu/DeepViolet",
   "Year": "2018",
   "Location": "USA"

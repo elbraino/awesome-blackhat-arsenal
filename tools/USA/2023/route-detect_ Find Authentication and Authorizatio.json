@@ -8,7 +8,7 @@
     "Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/mschwager",
+  "Github URL": "https://github.com/mschwager/route-detect",
   "Description": "This demo introduces route-detect. route-detect is a command-line tool that seeks to aid security researchers and engineers in finding authentication (authn) and authorization (authz) security bugs in web application routes. These bugs are some of the most common security issues found today. The following industry standard resources highlight the severity of the issue:\n\n- 2021 OWASP Top 10 #1 - Broken Access Control\n- 2021 OWASP Top 10 #7 - Identification and Authentication Failures\n- 2019 OWASP API Top 10 #2 - Broken User Authentication\n- 2019 OWASP API Top 10 #5 - Broken Function Level Authorization\n\nOf course, not all authn or authz bugs occur in web application routes, but route-detect seeks to confront this pervasive class of bugs.",
   "Year": "2023",
   "Location": "USA"

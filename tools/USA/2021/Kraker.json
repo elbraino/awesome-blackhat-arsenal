@@ -7,7 +7,7 @@
     "Track: Cryptography"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/zzzteph",
+  "Github URL": "https://github.com/zzzteph/kraker",
   "Description": "Kraker is a distributed password brute-force system that allows you to run and manage the hashcat on different servers and workstations, focused on ease of use. There were two main goals during the design and development: to create the most simple tool for distributed hash cracking and make it fault-tolerant.",
   "Year": "2021",
   "Location": "USA"

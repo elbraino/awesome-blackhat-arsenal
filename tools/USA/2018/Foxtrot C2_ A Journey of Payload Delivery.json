@@ -7,7 +7,7 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/RT.md",
+  "Github URL": "https://github.com/dsnezhkov/foxtrot",
   "Description": "Execution of an offensive payload may begin with a safe delivery of the payload to the endpoint itself. When secure connections in the enterprise are inspected, reliance only on transmission level security may not be enough to accomplish that goal. Foxtrot C2 serves one goal: safe last mile delivery of payloads and commands between the external network and the internal point of presence, traversing intercepting proxies, with the end-to-end application level encryption.\n\nWhile the idea of end-to-end application encryption is certainly not new, the exact mechanism of Foxtrot's delivery implementation has advantages to Red Teams as it relies on a well known third party site, enjoying elevated ranking and above average domain fronting features. Payload delivery involves several OpSec defenses: sensible protection from direct attribution, active link expiration to evade consistent interception, inspection, tracking and replay activities by the defenders. Asymmetric communication channels are also planned.\n\nAnd if your standalone Foxtrot agent is caught, the delivery mechanism may live on, you could still manually bring the agent back into the environment via the browser. A concept tool built on these ideas will be presented and released. It will be used as basis for our discussion.",
   "Year": "2018",
   "Location": "USA"

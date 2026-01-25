@@ -8,7 +8,7 @@
     "Malware Offense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/tismalhas/sfgfssfgsdgf?search=1",
+  "Github URL": "https://github.com/r4wd3r/Suborner",
   "Description": "Whenever an attacker is trying to persist the access on a compromised machine, the first offensive approach usually involves the creation of a new identity. Nevertheless, this may not work easily under hardened environments with diverse detection mechanisms against common attack vectors.\n\nWhat if we \"suborn\" Windows to create our own hidden account that will grant us total access to a victim, while stealthily impersonating any account we want?\n\nNow it is possible with the Suborner Attack.\n\nThis technique will dynamically create an invisible machine account with custom credentials and custom properties without calling any user management Win32 APIs (e.g. netapi32.dll::netuseradd) and therefore evading detection mechanisms (e.g Event IDs 4720, 4721). By \"suborning\" Windows, we can also impersonate any desired account to keep our stealthiness even after a successful authentication/authorization.\n\nTo show its effectiveness, the attack is going to be demonstrated against the latest Windows version available.",
   "Year": "2022",
   "Location": "USA"

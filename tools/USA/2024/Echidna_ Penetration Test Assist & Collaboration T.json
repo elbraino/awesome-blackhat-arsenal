@@ -9,7 +9,7 @@
     "Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/epavlick/turker-demographics/blob/master/dictionaries/all/dictionary.ja",
+  "Github URL": "https://github.com/Echidna-Pentest/Echidna",
   "Description": "Echidna is a tool designed to support teams or beginners in conducting penetration testing.\nWhile there are many tools available to assist or automate penetration testing, mastering them requires knowledge of numerous commands and techniques, making it challenging for beginners to learn and carry out penetration testing. Furthermore, when conducting penetration tests in a team, each member tends to work independently, which can lead to duplication of work and lack of visibility of progress for managers and beginners.\nTherefore, we developed Echidna, which visualizes and shares the terminal console of penetration testers, and recommends the next command based on each situation. Echidna allows us to attack machines with just clicks, making it possible even for students and beginners to learn attack methods.",
   "Year": "2024",
   "Location": "USA"

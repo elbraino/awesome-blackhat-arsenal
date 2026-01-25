@@ -8,8 +8,8 @@
     "Reverse Engineering"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/Cloud-Architekt/AzureAD-Attack-Defense/blob/main/ReplayOfPrimaryRefreshToken.md",
-  "Description": "Azure AD registered and joined devices use a device certificate and transport key to sign and decrypt communication between the device and Azure AD. The most important part of this is Primary Refresh Token (PRT) and an associated session key. The session key can be decrypted with the transport key and subsequent communication with the session key.\nSecureworks\u00ae Primary Refresh Token (PRT) viewer automates the decryption process. Using the transport key exported from the target computer, it automatically decrypts the session key from the PRT authentication request response. With the decrypted session key, it decrypts subsequent requests/responses decrypted with the session key.\nThe tool enables monitoring the traffic between the target device and Azure AD in plaintext, allowing extracting keys, access tokens, and other secrets.\nThe tool is available as Burp Suite Extender and Fiddler Add-On.",
+  "Github URL": "https://github.com/secureworks/primary-refresh-token-viewer",
+  "Description": "Azure AD registered and joined devices use a device certificate and transport key to sign and decrypt communication between the device and Azure AD. The most important part of this is Primary Refresh Token (PRT) and an associated session key. The session key can be decrypted with the transport key and subsequent communication with the session key.\nSecureworks® Primary Refresh Token (PRT) viewer automates the decryption process. Using the transport key exported from the target computer, it automatically decrypts the session key from the PRT authentication request response. With the decrypted session key, it decrypts subsequent requests/responses decrypted with the session key.\nThe tool enables monitoring the traffic between the target device and Azure AD in plaintext, allowing extracting keys, access tokens, and other secrets.\nThe tool is available as Burp Suite Extender and Fiddler Add-On.",
   "Year": "2022",
   "Location": "USA"
 }

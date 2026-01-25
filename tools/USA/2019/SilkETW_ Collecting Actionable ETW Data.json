@@ -7,7 +7,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/FuzzySecurity/BH-Arsenal-2019",
+  "Github URL": "https://github.com/mandiant/SilkETW",
   "Description": "Event Tracing for Windows (ETW) provides researchers with a rich data set which can be leveraged both for defensive as well as offensive purposes. ETW collectors can alert the user to malicious behavior such as user-land APC injection from the Kernel, or equally, allow an attacker to spy on keyboard and mouse activity. The scope for ETW research is large but the information security community has been slow to adopt it. The two primary problems with ETW are: the complexities involved in event collection, and the volume of data that is generated.\n\nSilkETW is a flexible C# ETW wrapper which attempts to mitigate the aforementioned issues by providing a straightforward interface for data collection, various filtering mechanics, and an output format that can be easily processed. ETW output can be written locally to disk, to the Windows event log or shipped off (using POST requests) to 3rd party infrastructure such as Elasticsearch.\n\nThis project was originally implemented by the FireEye Advanced Practices (AP) team to aid in the rapid analysis of novel attacker trade-craft, and to feed that analysis back into the detection engineering process.",
   "Year": "2019",
   "Location": "USA"

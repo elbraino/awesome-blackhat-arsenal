@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/iu-parfunc/misc_bibliography/blob/master/refs.bib",
+  "Github URL": "https://github.com/bitorscanner/Bitor",
   "Description": "Orbit is a self-hosted, open source security scanning platform designed to deliver scalable, efficient, and collaborative vulnerability assessments. Built with a modern Go-based backend and a SvelteKit/Tailwind CSS front end, Orbit integrates seamlessly with multiple cloud providers and the Nuclei scanning tool. It empowers security teams to manage large-scale scans, triage findings collaboratively, and harness enriched target data to drive actionable insights.",
   "Year": "2025",
   "Location": "USA"

@@ -8,7 +8,7 @@
     "Hardware / Embedded"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/aQaTL/sane-scan",
+  "Github URL": "https://github.com/c2links/NoWhere2Hide",
   "Description": "In the process of security attack and defense, as well as penetration testing, there are two prominent issues. First, the attack scanning is often detected by the security systems of the defense side, resulting in the scanning IP being blocked. Second, when the defense side is controlled and assets are connected back to the command and control (C2) server, it may be detected by security devices, leading to countermeasures against the penetration testers. In order to safely and conveniently conduct asset detection during the attack and defense process, as well as secure connection back to the controlled assets on the defense side, we have improved the Kademlia protocol and developed a distributed hash table (DHT) technology. We have also developed a networking tool that consists of a large number of Internet nodes, which dynamically updates IDs and node tree structures at regular intervals. This allows each session to initiate requests from a different node during the scanning process, preventing IP blocking due to high-frequency scanning. Additionally, during the controlled asset's connection back to the C2 server, nodes are randomly selected based on user-selected hop count, effectively preventing penetration testers from being traced, thus improving the penetration testing process.",
   "Year": "2023",
   "Location": "USA"

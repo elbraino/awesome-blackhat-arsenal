@@ -6,7 +6,7 @@
     "Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/StamusNetworks/SELKS/wiki/Docker",
+  "Github URL": "https://github.com/StamusNetworks/Clear-NDR-ISO",
   "Description": "SELKS is a free, open-source, and turn-key Suricata network intrusion detection/protection system (IDS/IPS), network security monitoring (NSM) and threat hunting implementation created and maintained by Stamus Networks.\n\nOn the 10th anniversary of its introduction (April 30, 2024) Stamus Networks announced SELKS 10 - which introduced powerful new threat hunting capabilities which will be demonstrated during this session.",
   "Year": "2024",
   "Location": "USA"

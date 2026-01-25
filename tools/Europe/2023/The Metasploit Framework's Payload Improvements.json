@@ -8,7 +8,7 @@
     "Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/rapid7/metasploit-payloads",
+  "Github URL": "https://github.com/rapid7/metasploit-framework",
   "Description": "Memory corruption vulnerabilities are becoming less common than their more reliable command execution counterparts. In the last year, two-thirds of the exploits Metasploit released resulted in OS command execution in some way as opposed to direct execution of injected code. Metasploit has made multiple improvements to its command payloads to keep pace with these exploitation trends. These updates make it easier for module authors to deliver a wider variety of second-stage payloads and grant users greater flexibility in selecting their delivery mechanism.\n\nThis arsenal demonstration will cover the latest improvements to Metasploits payloads, command stagers, and Meterpreter. The audience will see how these payloads can be used, customized and how the exploit development process has improved.",
   "Year": "2023",
   "Location": "Europe"

@@ -9,7 +9,7 @@
     "Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/splunk/attack_range/blob/develop/README.md",
+  "Github URL": "https://github.com/splunk/attack_range",
   "Description": "The Splunk Attack range is a open-source framework that provides different tools to allow security analysts to test networks, hosts, and applications against several known adversarial TTPs based on Mitre ATT&CK framework. The Splunk Attack Range framework allows the security analyst to quickly and repeatedly replicate and generate data as close to \"ground truth\" as possible, in a format that allows the creation of detections, investigations, knowledge objects, and SOAR playbooks. The Splunk Attack Ranges contain adversarial simulation engines (Operator, Atomic Red Team), target machines, and a Splunk server receiving attack data which can be downloaded and used for free and provides operators with tools to simulate attacks and create detections and defense artifacts.",
   "Year": "2024",
   "Location": "USA"

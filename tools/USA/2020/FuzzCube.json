@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/antojoseph/fc",
+  "Github URL": "https://github.com/FuzzCube/FuzzCube",
   "Description": "Fuzzing over the ages has improved in tooling, logic, and process, but is still a number-crunching problem! You are improving your odds by throwing more CPU power at it.\n\nHow do we make it happen without hacking through custom solutions that cannot be reused? Enter FuzzCube - Batteries Included! FuzzCube comes with State Sharing Features, Mutation Engines and Crash Verification tools that you could leverage in your projects. It leverages Kubernetes for its infrastructure orchestration capabilities. Using Kubernetes operators, we abstract the complexity of deploying a fuzzing infrastructure with distributed high throughput workloads, fault tolerance, storage orchestration, and high scalability. We will practise distributed fuzzing in the era of Cloud Native Computing and use our new skills to find some 0days ;)",
   "Year": "2020",
   "Location": "USA"

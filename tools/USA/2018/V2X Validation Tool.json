@@ -8,7 +8,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/ryanbgriffiths/IROS2023PaperList/blob/main/README.md",
+  "Github URL": "https://github.com/usnistgov/C-V2XInteroperabilityTestingTool",
   "Description": "The V2X Validation Tool (called dsrcvt because focused on DSRC technology) facilitates penetration testing on automotive On-Board Units (OBUs) used for Vehicle-to-X communication. Currently, dsrcvt is capable of sending unsigned or signed Basic Safety Messages (BSMs) by re-signing a recorded BSM sent for automotive onboard units. Using these BSMs it tries to cause a surge in an OBU's processing power. It also attempts to bypass the security checks posed by the IEEE 1609.2 security layer. An enhanced version of dsrcvt (dsrcvt-crafter) facilitates crafting entirely custom BSMs from scratch, conforming to the IEEE 1609 standards family. dsrcvt also comes as an OBU fuzzer that can fuzz user-selected fields of a BSM to pen-test OBU implementations.",
   "Year": "2018",
   "Location": "USA"

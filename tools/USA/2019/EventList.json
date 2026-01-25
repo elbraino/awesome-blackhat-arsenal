@@ -7,7 +7,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/miriamxyra",
+  "Github URL": "https://github.com/miriamxyra/EventList",
   "Description": "EventList: What the log?! So many events, so little time...\nDetecting adversaries is not always easy - especially when it comes to correlating Windows Event Logs to real-world attack patterns and techniques. EventList helps to match Windows Event Log IDs with the MITRE ATT&CK framework (and vice-versa) and offers methods to simplify the detection in corporate environments worldwide.\n\nUse this tool to:\n\nImport either MSFT Baselines or custom GPOs\nFind out immediately which Events are being generated and what MITRE ATT&CK techniques are being covered by the selected Baseline/GPO\nChoose MITRE ATT&CK techniques and generate GPOs to generate the events needed for detection\nGenerate Agent Forwarder Configs to only cover the events needed for the detection (avoid being \"Log spammed\")\nGenerate Queries to detect the chosen MITRE ATT&CK techniques, regardless of the SIEM solution used",
   "Year": "2019",
   "Location": "USA"

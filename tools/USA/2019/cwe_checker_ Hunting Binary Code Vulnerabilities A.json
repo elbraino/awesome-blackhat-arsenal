@@ -8,7 +8,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://gist.github.com/DaffyDuke/06c022992b3e9e3de76e819c95c55e0b",
+  "Github URL": "https://github.com/fkie-cad/cwe_checker",
   "Description": "cwe_checker is an open source suite of tools to detect common bug classes like Use After Free (CWE-416) or Null Pointer Dereference (CWE-476). These bug classes are formally known as Common Weakness Enumerations (CWEs). Its main goal is to quickly point analysts to vulnerable code paths in binaries (e.g. firmware) without access to the source code.\n\ncwe_checker is built on top of the Binary Analysis Platform (BAP). By using an intermediate representation for the binary code it can analyze ELF binaries of different CPU architectures, including x86/64, ARM, MIPS, and PPC. It has a modular and extensible architecture implementing static and dynamic analysis techniques. So far cwe_checker implements checks for more than 15 CWE classes including CWE-190 (Integer Overflow), CWE-415 (Double Free), and CWE- 676 (Use of Potentially Dangerous Function).\n\nIn addition, cwe_checker has been adopted as a core plugin for the Firmware Analysis & Comparison Tool (FACT). This enables analysts to hunt for vulnerabilities in large firmware data sets. Furthermore, the results of cwe_checker are exportable and there is an IDA Pro plugin that highlights any findings in the binary.",
   "Year": "2019",
   "Location": "USA"

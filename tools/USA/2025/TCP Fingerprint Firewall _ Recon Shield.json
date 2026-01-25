@@ -8,7 +8,7 @@
     "Track: Network"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://gist.github.com/Lysak/a0ca30a3e6732d39199b27c170a8cd28",
+  "Github URL": "https://github.com/NikolaiT/zardaxt",
   "Description": "TCP Fingerprint Firewall is a high-performance, eBPF-based network security tool that leverages TCP fingerprinting to detect and block malicious and promiscuous network scanners with high speed and accuracy. This open-source solution combines the power of XDP (eXpress Data Path) for inline packet processing with MuonFP's advanced TCP fingerprinting capabilities, allowing security professionals to identify and block reconnaissance activities before they can map your network infrastructure.\nUnlike traditional firewalls that operate on simple port/IP rules, TCP Fingerprint Firewall uses MuonFP-based fingerprints - subtle TCP header characteristics that identify scanning tools like Nmap, ZMap, and Masscan, as well as specific operating systems or device fingerprints.\nThe innovative pattern matching engine supports wildcards, allowing both precise fingerprint targeting and broader pattern recognition with minimal performance overhead.",
   "Year": "2025",
   "Location": "USA"

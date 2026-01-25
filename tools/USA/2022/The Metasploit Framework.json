@@ -8,7 +8,7 @@
     "Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/zerosteiner",
+  "Github URL": "https://github.com/rapid7/metasploit-framework",
   "Description": "Modern attack emulation is a multi-step process involving different tools and techniques as testers execute custom workflows to achieve their objectives. One primary advantage of the Metasploit Framework is a unified approach to solving this problem.\n\nThis arsenal demonstration will cover some of the latest improvements to the Metasploit Framework and showcase how these improvements maximize effectiveness while performing common tasks. Viewers will see the latest workflows for capturing credentials, UI optimizations for running modules, and demonstrations of Metasploit's new payload-less session types. Capturing credentials is an integral part of many penetration testing methodologies and, when combined with the Metasploit database, can be a powerful technique for users engaged in breaching simulations. The latest features streamline configuring all the services Metasploit has capture modules for and managing them as a single unit. Users will also learn about some of the latest improvements related to pivoting in Metasploit, which allow capturing services to be started on compromised hosts when combined.",
   "Year": "2022",
   "Location": "USA"

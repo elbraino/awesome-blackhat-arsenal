@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/garrettfoster13/sccmhunter/wiki",
+  "Github URL": "https://github.com/garrettfoster13/sccmhunter",
   "Description": "SCCMHunter is a post-exploitation tool built to streamline identifying, profiling, and attacking SCCM related assets in an Active Directory domain.\n\nIn this update, SCCMHunter has received additions to the recon module for site system profiling, the admin module has been extended for more post-exploitation commands, and a new relay module has been built for credential relaying.\n\nThe presentation will include a walkthrough of the tool and it's various modules and a demonstrations of how to use the modules for SCCM hierarchy takeover",
   "Year": "2025",
   "Location": "USA"

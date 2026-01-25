@@ -8,7 +8,7 @@
     "Reverse Engineering"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/ChanChiChoi/tiny-crawler/blob/master/paperMeta4arxiv_byArchive/arxiv-cs-2009.txt",
+  "Github URL": "https://github.com/malienist/vovk",
   "Description": "Vovk - Debugging module for Advanced Dynamic Yara Rule Generation.\nVovk is a dynamic analysis tool that can be used as a module with the debugger (WinDBG). The tool itself is a DLL, built using both WdbgExts and DbgEng frameworks.\nThe way the tool works is pretty straightforward. You load Vovk into the debugger and then execute it. It runs through the malware and collects code snippets from memory and writes them to Yara file as a complete ruleset on the disk. You can then use the generated Yara ruleset to contain and neutralize malware campaigns or simply respond to security incidents that you are working on.",
   "Year": "2023",
   "Location": "USA"

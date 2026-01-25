@@ -7,7 +7,7 @@
     "Track: Reverse Engineering"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://gist.github.com/0xdevalias/4e430914124c3fd2c51cb7ac2801acba",
+  "Github URL": "https://github.com/goretk",
   "Description": "The Go Reverse Engineering Tool Kit (go-re.tk) is a new open source toolset for analyzing Go binaries. The tool is designed to extract as much metadata as possible from stripped binaries to aid both reverse engineering and malware analysis. Gore can, for example, detect the compiler version used, extract type information and recover function information, including source code line numbers for functions and source tree structure.\n\nThe core library is written in Go, but the tool kit includes C-bindings and a library implementation in Python. When using the C-bindings or the Python library, it is possible to write plugins for other analysis tools such as IDA Pro and Ghidra. The toolset also includes \"redress\", a command line tool to \"re-dress\" stripped Go binaries. It can both be used standalone to print out extracted information from the binary or as a radare2 plugin to reconstruct stripped symbols and type information.\n\nThe goal with the tool kit is to lower the bar to enter for anyone that wants to analyze programs written in Go.\n\nSource Code: https://github.com/goretk",
   "Year": "2019",
   "Location": "USA"

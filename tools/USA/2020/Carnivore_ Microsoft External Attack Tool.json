@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Active_Directory.md",
+  "Github URL": "https://github.com/ReverendThing/Carnivore",
   "Description": "Carnivore is a username enumeration and password spraying tool for Microsoft services (Skype for Business, ADFS, RDWeb, Exchange and O365). It includes new post compromise functionality for Skype for Business (pulling the internal address list and user presence), and a new method for smart detection of the username format. Carnivore originally began as an on-premises Skype for Business enumeration/spray tool as, these days, organizations have often locked down their implementations of Exchange, however, Skype for Business has been left externally accessible, and does not seem to have received as much attention from penetration tests.",
   "Year": "2020",
   "Location": "USA"
