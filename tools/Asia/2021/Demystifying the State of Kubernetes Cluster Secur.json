@@ -8,7 +8,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/Metarget/awesome-cloud-native-security",
   "Description": "Attackers always get better with new attack techniques, so our threat modelling and defense mechanisms needs to level up.\n\nThe security of the Kubernetes cluster, of course, cannot be achieved in a single process. There are many moving parts within the Kubernetes cluster that must be properly secured.\n\nKube-striker performs numerous in depth checks on kubernetes infra to identify the security misconfigurations and challenges that devops/developers are likely to encounter when using Kubernetes.\n\nKube-striker is Platform agnostic and works equally well across more than one platform such as self hosted kubernetes, EKS, AKS, GKE etc.",
   "Year": "2021",
   "Location": "Asia"

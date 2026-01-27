@@ -1,0 +1,10 @@
+=== ITEMS IN CSV BUT NOT FOUND/MATCHED IN ANY JSON ===
+
+Tool: Efidrill Automated Hunting UEFI Firmware Vulnerability through Data-Flow Analysis | Speakers: Xuxiang Yang; QingZhe Jiang; WeiXiao Ji; ZhaoXing Sun
+Tool: CS2BR  Automatically porting Cobalt Strike BOFs to Brute Ratel | Speakers: Mortiz Thomas; Patrick Eisenschmidt
+Tool: LLM Gateway  an OSS to Monitor LLM Interactions | Speakers: Jeff Schwartzentruber; Nik Kershaw
+Tool: Malicious Executions: Unmasking Container Drifts and Fileless Malware with Falco | Speakers: Lorenzo Susini; Stefano Chierici
+Tool: TCP/IP Communication without Network Attack Surfaces. (No Open Ports on External Interfaces) | Speakers: Colin Constable; Xavier Chathavong
+Tool: PandaWar: Hardware Security Multidimensional Attack and Defense Toolset | Speakers: JIE FU; Mingchuang Qin; Kunzhe Chai
+Tool: Dialing Home: ATM Protocol Reversing | Speakers: wasabi jrwr
+Tool: Packet Carving for SATCOMs Hackers | Speakers: James Pavur

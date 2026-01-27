@@ -8,7 +8,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/unsw-cse-soc/Vul_Word2Vec",
   "Description": "Word2Vec is one of the most successful and popular technologies for Natural Language Processing. It facilitates the understanding of the semantics of words using their context. Many other domains adopted the Word2Vec approach and used embedding of domain objects in Euclidean spaces for distance calculation, clustering, visualization and more.\n\nMal2Vec is a Word2Vec-based framework for analytics of security incidents that helps the analyst understand the contextual relations between attack vectors, and thus to understand better attack flows. The tool looks at malicious web request as words and at sequences of malicious web requests as sentences, and applies a variant of Word2Vec to embed the attack vectors in Euclidean space and to analyze their contextual relations. Using this approach, the analyst can get better understanding of the attack flows, e.g., he can see which attack vectors tend to come together.\n\nWhile we developed Mal2Vec to improve our understanding of web attack based on analysis of security events of Web Application Firewall (WAF), we also provide an easy customization flow that will make it useful for analytics of other cyber-attack data.",
   "Year": "2019",
   "Location": "Europe"

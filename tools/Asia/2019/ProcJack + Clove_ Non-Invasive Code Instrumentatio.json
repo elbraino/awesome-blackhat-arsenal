@@ -7,7 +7,7 @@
     "Track: Reverse Engineering"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/msmania/procjack",
   "Description": "Code instrumentation is expensive work, especially when a target application is large and complex, or even impossible if you don't know the build environment or source code.\n\nThis technique, non-invasive code instrumentation, leverages two known techniques: Reflective DLL Injection and Microsoft Detours, enabling you to inject arbitrary code at arbitrary places without re-compiling the target application.\n\nThe project consists of two parts: DLL injector and Injectee DLL. You can write your own logic(s) to run and interact with the code of the target process in Assembly and/or C++ and embed it into a DLL file, which can be injected into any user-mode process running on Windows x86 or x64. After injected, the Detours' part of the DLL dynamically re-routes the target's code to run your logic.\n\nLinux, ARM, or kernel-mode is not supported. Injection into Google Chrome and Microsoft Edge will be demonstrated.\n\nPresentation Slides: https://github.com/msmania/procjack/blob/master/BHAsia-2019-Arsenal.pdf",
   "Year": "2019",
   "Location": "Asia"

@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/tkmru/lazyCSRF",
   "Description": "Burp Suite is an intercepting HTTP Proxy, and it is the defacto tool for performing web application security testing. The feature of Burp Suite that I like the most is `Generate CSRF PoC`. However, the function to automatically determine the content of the request is broken, and it tries to generate PoCs using `form` even for PoCs that cannot be represented by `form`, such as JSON parameters and PUT requests. In addition, multibyte characters that can be displayed in Burp Suite itself are often garbled in the generated CSRF PoC. These were the motivations for creating LazyCSRF.\n\n\nI have implemented a feature to solve them. It has the following features:\n- Automatically switch to PoC using XMLHttpRequest\n- In case the parameter is JSON\n- In case the request is a PUT/PATCH/DELETE\n- Support displaying multibyte characters (like Japanese)\n- Generating CSRF PoC with Burp Suite Community Edition (of course, it also works in Professional Edition)\n\n\nhttps://github.com/tkmru/lazyCSRF",
   "Year": "2021",
   "Location": "Europe"

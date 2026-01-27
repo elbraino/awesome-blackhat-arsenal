@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/beichendream/sharptoken",
   "Description": "During red team lateral movement, we often need to steal the permissions of other users. Under the defense of modern EDR, it is difficult for us to use Mimikatz to obtain other user permissions, and if the target user has no process alive, we have no way to use \"OpenProcessToken\" to steal Token.\n\n\nSharpToken is a tool for exploiting Token leaks. It can find leaked Tokens from all processes in the system and use them. If you are a low-privileged service user, you can even use it to upgrade to \"NT AUTHORITY\\SYSTEM\" privileges, and you can switch to the target user's desktop to do more without the target user's password. ..",
   "Year": "2023",
   "Location": "Asia"

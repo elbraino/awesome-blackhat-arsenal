@@ -9,7 +9,7 @@
     "iOS and Mobile Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/tkmikan/pmdet",
   "Description": "Android has designed Parcel as its high-performance transport to pass objects across processes.\nFor classes to be serialized by Parcel, developers must implement the methods for writing and reading the object's properties to and from a Parcel container. The inconsistency between those methods implemented by careless developers introduces Parcel Mismatch bugs, often occurring in vendor-customed classes due to lack of public scrutiny.\nParcel Mismatch bugs can be abused by malicious applications to gain system privilege and have been massively exploited in the wild. However, due to the nature of those bugs, it cannot be solved by traditional source-to-sink taint analysis, currently no mature solutions exist to detect Parcel Mismatch bugs.\nHere we proposes PMdet, a new fuzzing-based detection tool for Parcel Mismatch bugs.\nPMdet is capable of handling different vendors' firmware without actual devices. It loads Parcelable classes from Android firmware, emulates the Android runtime environment for Parcel to work, and fuzz & monitors the serialization and deserialization procedures for mismatches.\nWe evaluate PMdet with several firmware from different Android vendors, and the results show that PMdet can detect Parcel Mismatch bugs of different causes, including 11 unique undisclosed mismatches, 6 of which are exploitable, and other 5 bugs that have been already confirmed and fixed.",
   "Year": "2024",
   "Location": "Asia"

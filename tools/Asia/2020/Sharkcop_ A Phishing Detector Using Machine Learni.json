@@ -9,7 +9,7 @@
     "Track: Human Factors"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/caohoangtung/sharkcop",
   "Description": "Sharkcop use criterias such as ssl certifucate, domain length, domain age,... with SVM classification algorithm to determine if a url is phishing or not. Sharkcop includes a restful web server and a chrome extension to highlight malicious links on Facebook and Messenger.",
   "Year": "2020",
   "Location": "Asia"

@@ -8,7 +8,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/Alex-Nguyen/MalViz",
   "Description": "The growth of internet and users increases exponentially and drastically in this decade that provides services inheriting various benefits to users such as online banking,marketing, buying /selling and various facility management services etc. It attracts some people to develop programs that perform\nvarious malicious activities intentionally or unintentionally such as stealing sensitive informationfrom computer, displaying advertisement, causing harmful, unwanted activities. The malicious software are referred as\nmalwares. Therefore, this tool helps in detecting, classifying and visualizing the features of malware. Our tool uses the application of Malware Analysis, Machine learning and deep learning algorithms and some general framework applications to automatically classify whether the uploaded file is \"Malicious or Legitimate\". If it is legitimate the user is free to use but if it is malicious then that uploaded file(malware) is taken for review .It is analyzed and\nimportant features of the malware are represented in graph based network.",
   "Year": "2020",
   "Location": "Asia"

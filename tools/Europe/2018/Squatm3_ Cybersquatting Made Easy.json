@@ -7,7 +7,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/david3107/squatm3",
   "Description": "Squatm3 is a python tool designed to enumerate available domains generated modifying the original domain name through different techniques:\n\nSubstitution attacks\nFlipping attack\nHomoglyph attack\n\nSquatm3 will help penetration testers to identify domains to be used in phishing attack simulations and security analysts to prevent effective phishing attacks.\n\nPresentation: https://www.dropbox.com/s/8r9t16s4x94iczu/blackhat-eu18-arsenal.pptx?dl=0",
   "Year": "2018",
   "Location": "Europe"

@@ -5,7 +5,7 @@
   ],
   "Tracks": null,
   "Event": "BH-EU-17",
-  "Github URL": null,
+  "Github URL": "https://github.com/ElevenPaths/DirtyTooth-RaspberryPi",
   "Description": "Bluetooth communications are on the rise. Millions of users use the technology to connect to peripherals that simplify and provide greater comfort and experience. There is a trick or hack for iOS 10.3.3 and earlier that takes advantage of the management of the profiles impacting the privacy of users who use Bluetooth technology daily. From the iOS device information leak caused by the incorrect management of profiles, a lot of information about the user and their background may be obtained.",
   "Year": "2017",
   "Location": "Europe"

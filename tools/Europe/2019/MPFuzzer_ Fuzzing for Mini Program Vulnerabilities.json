@@ -9,7 +9,7 @@
     "iOS and Mobile Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/cispa/ampfuzz",
   "Description": "Mini programs are lightweight apps that run inside another app. They don't need to be downloaded or upgraded through app stores. They make it possible for one app to perform the service of many apps add up and have over one billion users in China, which brings new mobile security challenges. Hackers can bypass the security defenses of Mini programs in various ways(like string truncation, whitelist bypass, malformed label). A successful exploit of bypassing may lead to arbitrary code execution or leak of sensitive data.\n\nSecurity workers are struggling to discover and fix vulnerabilities in the workflow of the mini program. It results in a greater need for automated mini-program fuzz testing tools.\n\nWe will introduce the MPFuzzer, the first fuzz testing tool which finds vulnerabilities in mini program technology stacks automatically by trying different strategies.\n\nMPFuzzer can fuzz any mini program platform in the field by configuring a simple config file without writing any code. The key inside our work is to quickly generate large numbers of mini program code and mutate them to test as many mini program technology stacks as possible.\n\nAs a practical impact, our tool has detected more than ten mini program critical vulnerabilities.",
   "Year": "2019",
   "Location": "Europe"

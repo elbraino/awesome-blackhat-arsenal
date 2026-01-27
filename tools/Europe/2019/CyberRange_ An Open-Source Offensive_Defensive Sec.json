@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/secdevops-cuse/cyberrange",
   "Description": "This CyberRange project represents the first open-source Cyber Range blueprint in the world.\n\nThis project provides a bootstrap framework for a complete offensive, defensive, reverse engineering, and security intelligence tooling in a private research lab using the AWS Cloud. This project contains vulnerable systems, open-source tools.\n\nIt simply provides a researcher with a disposable offensive/defensive AWS-based environment in less than 10 minutes.",
   "Year": "2019",
   "Location": "Europe"

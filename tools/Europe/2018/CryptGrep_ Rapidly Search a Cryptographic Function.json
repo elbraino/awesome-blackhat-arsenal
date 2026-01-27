@@ -8,7 +8,7 @@
     "Track: Reverse Engineering"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/ITh4cker/CryptGrep",
   "Description": "'CryptGrep' is an IDA python script which makes it possible to search a cryptography function to analyze malware rapidly. There are many existing implementations such as 'FindCrypt' (http://www.hexblog.com/?p=28) and 'idascope' (https://github.com/nihilus/idascope) which take an approach to find cryptographic magic number statically.\n\nBut, there are some cryptographic algorithm that doesn't use a magic number such as RC4, or malware can also hide the magic number. We needed another tool that can apply for these malware. The same malware family usually use the same cryptographic algorithm, and don't change their algorithm and implementation so frequently. Therefore, CryptGrep adopted signature based approach. Our approach also uses improved 'BinGrep' algorithm that was specialized for cryptographic function using several heuristic technique.\n\nWe created several pre-set signatures for typical malware. The usage is very simple and easy. And if you need additional signature, you can also create your original signature using your malware.",
   "Year": "2018",
   "Location": "Europe"

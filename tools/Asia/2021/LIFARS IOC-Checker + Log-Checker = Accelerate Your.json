@@ -8,7 +8,7 @@
     "Track: Data Forensics and Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/Lifars/log-checker",
   "Description": "IocChecker is a new utility to find indicators of compromise.\nIt is a full-stack application comprising a CLI probe, DB backend, and a Web admin console.\nIOCs are defined using a custom tree-based JSON format with the support of conversion from/to MISP.\nIt searches IOCs using the following criteria also with the support of regular expressions:\n- Filename/hash,\n- Running process name/hash,\n- Windows registry name/value,\n- DNS address,\n- Open network connections by name/IP,\n- Certificate name,\n- Process mutex.\n\nLogChecker is a new Windows and Linux tool for scanning log files, developed by LIFARS. It extracts IP addresses, domain names, and hashes from the input file. Findings are checked in the YETI Threat Intelligence database. It supports Windows EVTX logs, text-based logos, or any plaintext files. Output can be in CSV format for better human readability or in JSON for computer processing.",
   "Year": "2021",
   "Location": "Asia"

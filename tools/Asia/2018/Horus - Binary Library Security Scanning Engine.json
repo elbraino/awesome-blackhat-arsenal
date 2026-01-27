@@ -8,7 +8,7 @@
     "Track: Android, iOS and Mobile Hacking"
   ],
   "Event": "BH-ASIA-18",
-  "Github URL": null,
+  "Github URL": "https://github.com/projecthorus",
   "Description": "Horus is a scanning engine for mobile security mainly used to detect security risks of binary library, including detection of binary vulnerabilities and malicious behavior. Horus is currently used within Alipay Inc. It is designed as a rule-based framework. As many mobile apps use a large number of third-party libraries - such as libopenssl, libffmpeg and so on - Horus supports security detection of various types of binary libraries. New product or new task connects to it by calling the interface. By adding and removing defined rules (CVE,patch,txt), the user will get a distribution or matching statistic for vulnerability, backdoor or malicious activity, etc. Now,It matches rules at different level: binary function level, binary pattern level and binary instruction level.Horus has resolved thousands of application security risks and help us improve the security of applications effectively and reliably. We want to open this security scanning engine through Arsenal. We hope to improve matching algorithms and performance of Horus in the future with more ai power inside. We also hope more and more security developers can work together to improve Horus.",
   "Year": "2018",
   "Location": "Asia"

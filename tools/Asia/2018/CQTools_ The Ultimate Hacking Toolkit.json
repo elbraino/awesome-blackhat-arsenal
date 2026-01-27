@@ -8,7 +8,7 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-ASIA-18",
-  "Github URL": null,
+  "Github URL": "https://github.com/blackdiverx/cqtools",
   "Description": "CQURE Team has written over 200 hacking tools during penetration testing. We decided to choose the top 35 tools and pack them in a toolkit called CQTools. This toolkit allows you to deliver complete attacks within the infrastructure, starting with sniffing and spoofing activities, going through information extraction, password extraction, custom shell generation, custom payload generation, hiding code from antivirus solutions, various keyloggers and leverage this information to deliver attacks. Some of the tools are based on discoveries that were released to the world for the first time by CQURE Team; some of the tools took years to complete, and all of the tools work in a straightforward manner. CQTools is the ultimate toolkit to have when delivering penetration test. The tools simply work, and we use them in practice during our cybersecurity assignments. Come and have a look how our CQTools can boost your penetration testing experience!",
   "Year": "2018",
   "Location": "Asia"

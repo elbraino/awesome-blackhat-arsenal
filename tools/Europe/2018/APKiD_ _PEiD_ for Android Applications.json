@@ -8,7 +8,7 @@
     "iOS and Mobile Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/rednaga/apkid",
   "Description": "APKiD is like \"PEiD\" for Android applications. It gives information on how an APK was built by fingerprinting compilers, packers, obfuscators, and protectors. The main idea behind the tool is to help provide context on how the APK was potentially built or changed after it was built. This is all context useful for attributing authorship and finding patterns.\n\nExtracting information about how the APK was made, it can provide a lot of information to assess the healthiness of an Android application (e.g. malware or pirated). The framework is the combination of a bunch of Yara rules and Python wrappers that scan files within APKs. Mainly, APKiD unpacks files and explores AndroidManifest.xml, DEX and ELF files to match rules and offers results based on them. Between the 186 Yara rules, we can find 94 packers, 10 compilers and 16 obfuscators.\n\nFeatures and detections:\n\nCommercial and open-source obfuscators, packers, droppers and protectors\nAnti-disassembly tricks, anti-emulation, anti-debugging APIs,...\nAbnormalities in DEX structure\nCompiler fingerprint potentially indicating re-packaged apps\nResults in JSON format\n\nFurther information:\n\nAPKID -> https://github.com/rednaga/APKiD\nAndroid Compiler Fingerprinting -> http://hitcon.org/2016/CMT/slide/day1-r0-e-1.pdf\nDetecting Pirated and Malicious Android Apps with APKiD -> https://rednaga.io/2016/07/31/detecting_pirated_and_malicious_android_apps_with_apkid/",
   "Year": "2018",
   "Location": "Europe"

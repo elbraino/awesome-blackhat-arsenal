@@ -9,7 +9,7 @@
     "Track: Reverse Engineering"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/qilingframework/qiling",
   "Description": "Ethereum Virtual Machine (EVM) is the most widely used architect to support the core of smart contracts. Many existing EVM emulators are just debugging tools based on symbolic execution. Unfortunately, these engines are just simple tools that do not encourage and support us to develop tools on top of them.\n\nTo raise the bar, we extended Qiling [1] to support EVM smart contracts (so Qiling is not just limited to analyze machine binary code, but also works for smart contracts) . Our framework offers some key features as follows.\n\n- Analyze smart contracts only with their bytecode, without requiring source codes.\n- Can instrument smart contracts at various level: instruction, code, event and activity\n- Rule based dynamic smart contract analysis\n- Not just limited to EVM smart contracts, but is also compatible with other EVM based smart contracts, supporting modern smart contract requirements.\n\nIn this talk, we will present our instrument-able EVM based smart contract framework. With our framework, users will be able to build all kinds of tools on top of it. For example, one could develop a scanner to test the corresponding smart contracts and even perform an automated analysis against smart contracts.\n\nTo demonstrate the power of our framework, we built an ultra-fast fuzzer for smart contract, using coverage guided technique. We extended the traditional binary fuzzer named AFL for this. Our fuzzer can efficiently discover typical vulnerabilities in EVM smart contracts, without requiring contract source code.",
   "Year": "2021",
   "Location": "Asia"

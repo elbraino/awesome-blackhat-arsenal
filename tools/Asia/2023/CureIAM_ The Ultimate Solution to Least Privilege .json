@@ -8,7 +8,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/gojek/cureiam",
   "Description": "CureIAM is an easy-to-use, reliable, and performant engine that enables DevOps and security teams to quickly clean up over-permissioned IAM accounts on GCP infrastructure. By leveraging GCP IAM Recommender APIs and the Cloudmarker framework, CureIAM automatically enforces least privilege principle on a daily basis, and helps to ensure that only the necessary permissions are granted to GCP accounts.\n\nKey Features\n\n- Config driven workflow for easy customization\n- Scalable and production-grade design\n- Embedded scheduling for daily enforcement\n- Plugin-driven architecture for additional functionality\n- Track actionable insights and records actions for audit purposes\n- Scoring and enforcement of recommendations to ensure safety and security",
   "Year": "2023",
   "Location": "Asia"

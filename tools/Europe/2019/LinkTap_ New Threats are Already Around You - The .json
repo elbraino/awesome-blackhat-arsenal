@@ -9,7 +9,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/sh00t2kill/linktap_local_http_component",
   "Description": "Due to the exhaustion of IPv4 free address space, the use of IPv6 on the Internet is gradually increasing. All Windows operating systems since Windows Vista have IPv6 enabled by default. IPv6 brings a series of improvements compared to IPV4, but these improvements are also put a double-edged sword.\n\nRecently, we have been focusing on \"IPv6\" attack research and found that in the IPV6 environment, there are many attack points, such as Iptables will fail, use IPV6 to bypass the Web defense strategy and abuse IPV6-specific protocols for man-in-the-middle attacks, and Other attack ideas!\n\nIn this presentation, I will disclose the attack methods and ideas I have found for IPV6, and will also release tools for IPV6 attacks.",
   "Year": "2019",
   "Location": "Europe"

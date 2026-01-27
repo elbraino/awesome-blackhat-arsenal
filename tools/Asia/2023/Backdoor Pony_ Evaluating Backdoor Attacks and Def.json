@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/elseviersoftwarex/softx-d-22-00419",
   "Description": "Outsourced training and crowdsourced datasets lead to a new threat for deep\nlearning models: the backdoor attack. In this attack, the adversary inserts a\nsecret functionality in a model, activated through malicious inputs. Backdoor\nattacks represent an active research area due to diverse settings where they\nrepresent a real threat. Still, there is no framework to evaluate existing\nattacks and defenses in different domains. Only a few toolboxes have been\nimplemented, but most of them focus on computer vision and are difficult\nto use. To bridge this gap, we present Backdoor Pony, a framework for\nevaluating attacks and defenses in different domains through a user-friendly\nGUI.",
   "Year": "2023",
   "Location": "Asia"

@@ -7,7 +7,7 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/mvelazc0/PurpleSharp",
   "Description": "Remove-Signature is a tool designed to automate the process of generating a payload that can bypass anti-virus detection.\n\nDuring red team testing, red team operators often need to prepare a payload that will not be detected by anti-virus software in order to be successful. One way to do this is to identify where the signatures used by anti-virus software are located in the payload, and then modifies bytes of the locations so that the modified payload will not be detected as malicious. This process can be time-consuming.\n\nRemove-Signature aims to automate this process by identifying the signatures in the payload, and modifying a single byte of the signatures location in a way that will bypass anti-virus detection, while still maintaining the functionality of the payload. The tool understands the PE file format and only makes modifications that will not affect the payload's functionality. Unlike other existing tools that can only identify signatures, Remove-Signature is able to automatically generate a modified payload that can evade anti-virus detection.\n\nThe use of Remove-Signature can help to reduce the workload of red team operators and allow them to focus on other aspects of the red team engagement.",
   "Year": "2023",
   "Location": "Asia"

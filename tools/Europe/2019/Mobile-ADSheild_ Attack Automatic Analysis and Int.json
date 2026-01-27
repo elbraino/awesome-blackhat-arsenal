@@ -9,7 +9,7 @@
     "iOS and Mobile Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/ad-shield",
   "Description": "Mobile-ADSheild is a mobile app active defense engine that defends against most vulnerability exploits.\nWe will introduces the Mobile-ADSheild engine, which can be freely integrated into any app and can be used to launch the app's self-protection capabilities through a simple API interface. The engine does not require the mobile developer to make too many changes, just need to start the engine, it will run itself after the app is launched.",
   "Year": "2019",
   "Location": "Europe"

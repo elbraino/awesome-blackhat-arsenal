@@ -8,7 +8,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/worldveil/dejavu",
   "Description": "DejaVu is an open source deception framework which can be used to deploy decoys across the infrastructure. This could be used by the defender to deploy multiple interactive (Server and Client) decoys strategically across the network and cloud.\n\nWe have done massive updates to our platform (now DejaVu ++) and are excited to present these at Blackhat Europe. Some key updates:\n\n1. Decentralized architecture to support enterprise orgs\n2. Video recording of attacker's movement, record attacker's activity\n3. Highly interactive decoys to engage the attacker and reveal attacker motivation and TTP\n4. Integrated IDS for enriched alerts\n5. Full packet capture of attacker's interaction with the decoy for forensic analysis.\n6. Cloud Ready decoys\n- Now blue team can deploy DejaVu instance on AWS infra\n- Configure decoy personality to mimic the environment\n- AWS breadcrumbs\n7. Dashboard with monitoring and analysis - Full lifecycle of event can be drilled into by an analyst\n8. New decoys\n- Email and client side decoys to detect Spear Phishing\n- RDP Interactive and Non-Interactive\n- Interactive SSH\n- Detect MITM attacks : ARP Poisoning, Responder, SSDP\n- HONEYCOMB (To capture events from Honey Docs)\n- Beaconing Documents\n- ICS/SCADA Decoys - Modbus and S7COMM\n9. Personalized threat inteligiance - Deploy customised decoys on DMZ to detect targeted threats\n10. Logging Capability - Ship logs to SIEM or other platforms using Syslog capability\n\nhttps://github.com/bhdresh/Dejavu",
   "Year": "2021",
   "Location": "Europe"

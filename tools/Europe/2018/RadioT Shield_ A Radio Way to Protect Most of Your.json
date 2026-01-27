@@ -7,7 +7,7 @@
     "Track: Internet of Things"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/jgromes/RadioShield",
   "Description": "RadioT Shield is an open source platform dedicated to detecting the attack of various IoT devices in a given space by radio communication data. RadioT Shield can detect a lot of radio-based IoT-related attacks, such as WIFI attacks, BLE attacks, GSM attacks, ZigBee attacks, etc. Unlike other IoT hardware and software security solutions, this system does not require any modification of the protected IoT device and does not affect the existing functionality of the device.\n\nRadioT Shield is suitable for all IoT devices that use radio communications, even devices that are more than a decade old. It is therefore particularly suitable for scenarios with complex IoT device types and IoT networks consisting of old, non-secure IoT devices, especially industrial control IoT devices, medical IoT devices, smart home IoT devices, and more.",
   "Year": "2018",
   "Location": "Europe"

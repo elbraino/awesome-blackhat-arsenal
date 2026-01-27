@@ -8,7 +8,7 @@
     "Track: Internet of Things"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/jimbon25/WIFI-TOOLKIT",
   "Description": "Wi-Fi access point (AP) security is one of the most important aspects when it comes to securing networks. The compromise of a Wi-FI AP (which mostly also double-up as a router in SOHO environments) can lead to several secondary attacks. There are multiple vectors that are used to compromise the WiFi AP ranging from default passwords to sophisticated 0-days. But, after compromising the device, avoiding detection and maintaining access are the most important areas which eventually dictate the impact of the compromise.\n\nWe are going to release a set of code snippets along with the documentation making it easy for people who want to understand the working of Kernel rootkits for IoT devices like Wi-Fi APs. The code will cover hiding a process, renaming a process, blocking kill command on certain processes, network stack based RAT and much more. The code will be released under GPL v2.",
   "Year": "2020",
   "Location": "Asia"

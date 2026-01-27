@@ -8,7 +8,7 @@
     "Track: Internet of Things"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/dronesploit/dronesploit",
   "Description": "This project is aimed to provide a Metasploit-like CLI framework tailored to drone hacking.\n\nIt currently supports modules for the C-me and Flitt drones (Hobbico) but should be extended in a near future with new modules for other brands and models (i.e. Parrot and DJI).",
   "Year": "2019",
   "Location": "Europe"

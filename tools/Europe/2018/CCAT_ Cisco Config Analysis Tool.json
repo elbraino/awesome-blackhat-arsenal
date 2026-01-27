@@ -9,7 +9,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/owenthereal/ccat",
   "Description": "CCAT is designed for finding security misconfigurations in Cisco devices. It generates a detailed report with explanations and tips on fixing the issues. We will implement an option to automatically fix those issues in one of our next updates.\n\nPresentation: https://drive.google.com/file/d/1kEB7dEe4uIkfxWuKgGDYTJly_spEVaO-/view\nGitHub: https://github.com/cisco-config-analysis-tool/ccat",
   "Year": "2018",
   "Location": "Europe"

@@ -8,7 +8,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/beichendream/godpotato",
   "Description": "Based on the history of Potato privilege escalation for 6 years, from the beginning of RottenPotato to the end of JuicyPotatoNG, I discovered a new technology by researching DCOM, which enables privilege escalation in Windows 2012 - Windows 2022, now as long as you have \"ImpersonatePrivilege\" permission. Then you are \"NT AUTHORITY\\SYSTEM\", usually WEB services and database services have \"ImpersonatePrivilege\" permissions.\n\n\n\nPotato privilege escalation is usually used when we obtain WEB/database privileges. We can elevate a service user with low privileges to \"NT AUTHORITY\\SYSTEM\" privileges.\nHowever, the historical Potato has no way to run on the latest Windows system. When I was researching DCOM, I found a new method that can perform privilege escalation. There are some defects in rpcss when dealing with oxid, and rpcss is a service that must be opened by the system. , so it can run on almost any Windows OS, I named it GodPotato",
   "Year": "2023",
   "Location": "Asia"

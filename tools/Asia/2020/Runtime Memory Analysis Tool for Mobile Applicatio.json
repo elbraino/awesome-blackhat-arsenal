@@ -9,7 +9,7 @@
     "iOS and Mobile Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/Gracker/Android-App-Memory-Analysis",
   "Description": "We are going to release a tool for automated runtime memory analysis for mobile apps (IOS & Android). All the existing tools are not working with runtime memory analysis processes preferring to dump and analyze memory after app finish it's execution. Our our idea is to gather information during runtime to be able to track changes of the state and application behavior with the final goal being to simplify reverse engineering of obfuscated code and to build call graphs based on catched traces during execution. We also made a single interface to manage this process and automated some most common checks that should be done during penetration test.",
   "Year": "2020",
   "Location": "Asia"

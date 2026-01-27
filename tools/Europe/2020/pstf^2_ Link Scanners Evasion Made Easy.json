@@ -7,7 +7,7 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/G4LB1T/pstf2",
   "Description": "Link scanners are a critical component in many essential security products, checking whether a URL is malicious or not. It is embedded within email security products, sandbox solutions and as a standalone direct link scanner.\n\nThis tool will present how to circumvent them all using passive browser fingerprinting - a set of techniques allowing a server to profile a client based only on the request being sent.\n\nWhile often used to detect and repel internet bots, we will show how this fingerprinting can be applied against blue teamers, specifically - how a resourceful attacker may use it to determine if it is being scanned and serve benign content to scanners while delivering harmful content to users.\n\npstf^2 leverages passive fingerprints in HTTP, TCP, IP layers and even link-layer protocols.",
   "Year": "2020",
   "Location": "Europe"

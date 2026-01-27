@@ -8,7 +8,7 @@
     "Track: Hardware/Embedded"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/Sentinel-One/efi_fuzz",
   "Description": "In recent years, firmware-level attacks against UEFI have grown in popularity and became more and more complex. Prominent examples for such attacks from this year alone include CVE-2020-12890 (SMM callout vulnerability in AMD's Mini PCs), CVE-2020-10713 (BootHole, an effective bypass for Secure Boot) as well as the discovery of a new UEFI implant, dubbed MosaicRegressor. As a growing area of concern, these UEFI vulnerabilities shouldn't be taken lightly. Given any of these vulnerabilities, an attacker can get extremely stealthy persistence on the machine, while bypassing many traditional kernel-based or even hypervisor-based mitigations.\n\nUnfortunately, the set of tools available to the UEFI research community is still in its infancy phase. As a result, most of the research so far was driven by static analysis of UEFI modules or by leveraging some ad-hoc \"dumb\" fuzzers. Obviously, these approaches have some serious limitations and downsides: static analysis, while not complemented by dynamic analysis, is limited at best and \"dumb\" fuzzers don't get any feedback from the fuzzed target and as a result are likely to miss key vulnerabilities.\n\nIn this talk we'll present efi_fuzz: a modern, coverage-guided fuzzer for UEFI modules based on the Qiling emulation framework and the AFL++ fuzzing engine. The fuzzer is currently capable of fuzzing the contents NVRAM variables and further work is being made to support fuzzing of other attack vectors such as SWSMIs.",
   "Year": "2020",
   "Location": "Europe"

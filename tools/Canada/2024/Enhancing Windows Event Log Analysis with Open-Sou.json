@@ -8,7 +8,7 @@
     "Track:"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/Yamato-Security/hayabusa",
   "Description": "Windows Event Log analysis is crucial for detecting security incidents and understanding system activities in forensic investigations.\nThis session introduces two open-source tools from Yamato Security, a Japan-based security community founded by Zach Mathis.\nYamato Security developed Hayabusa and Takajo to enhance the speed and accuracy of Windows Event Log analysis.\n\nHayabusa leverages open-source Sigma rules to detect malicious activity in event logs, providing actionable insights.\nTakajo complements this by parsing Hayabusa's JSONL output, enabling rapid triage and analysis of key forensic artifacts, further streamlining incident response workflows.\nTogether, these tools offer an integrated solution for Windows forensics, allowing for faster and more precise investigations.\n\nJoin us to explore their features, real-world use cases, and how they enhance forensic analysis of Windows environments using Sigma rules.\n\n- https://github.com/Yamato-Security/hayabusa\n\n- https://github.com/Yamato-Security/takajo",
   "Year": "2024",
   "Location": "Canada"

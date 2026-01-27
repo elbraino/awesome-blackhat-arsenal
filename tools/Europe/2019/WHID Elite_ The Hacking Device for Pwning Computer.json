@@ -7,7 +7,7 @@
     "Track: Internet of Things"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/whid-injector/whid-31337",
   "Description": "During the last few years, Red Teaming engagements have become more and more popular. This trend pushed some hackers to R&D and release new opensource devices with the intent to make PhySec operations even more interesting. Smoothing the path to new TTPs and improving some old ones. During this talk, I will present two new hacking devices developed from Offensive Ninjas, for Offensive Ninjas:\n- WHID Elite (a 2G-enabled offensive device that allows a threat actor to remotely inject keystrokes, bypass air-gapped systems, conduct mousejacking attacks, do acoustic surveillance, RF replay attacks and much more).\n- USBsamurai (a Remotely Controlled Malicious USB HID Injecting Cable DIY for less than 10$ that can be used to compromise targets remotely in the most stealthiest way ever seen).",
   "Year": "2019",
   "Location": "Europe"
