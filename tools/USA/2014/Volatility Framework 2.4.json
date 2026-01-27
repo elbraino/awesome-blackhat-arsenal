@@ -2,7 +2,7 @@
   "Tool Name": "Volatility Framework 2.4",
   "Speakers": null,
   "Tracks": [
-    "Track: Data Forensics/Incident Response"
+    "Data Forensics","Incident Response"
   ],
   "Event": "BH-US-14",
   "Github URL": "https://github.com/volatilityfoundation/volatility",
