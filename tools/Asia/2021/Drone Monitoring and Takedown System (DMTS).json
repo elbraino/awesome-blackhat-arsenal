@@ -9,7 +9,7 @@
     "Track: Hardware/Embedded"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/cyber-defence-campus/RemoteIDReceiver",
   "Description": "The rise of commercial drones/Unmanned Aerial Vehicles (UAV) has dramatically changed several industries and our daily lives. This emergence is also challenging our concept of safety, security, privacy and regulation. With their ability to amass data and transport loads, drones are changing our views about our physical environment. Commercial drones are now used for surveying, inspecting and imaging with more technological advancements being pushed out by active communities of hobbyists and enthusiasts. Although their commercial use has been criticised by both individuals and activist organisations, this tension presents unique challenges to integration in the current public, government and private sectors. Recent incidents regarding drone disruptions and malicious activities has further cemented the fact that there is a lack in control and regulation of drones. Thus, we created DMTS as an automated drone-to-drone solution that hopefully helps to alleviate our regulatory and physical security needs.",
   "Year": "2021",
   "Location": "Asia"

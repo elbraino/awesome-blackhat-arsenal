@@ -7,7 +7,7 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-EU-15",
-  "Github URL": null,
+  "Github URL": "https://github.com/DeimosC2/DeimosC2",
   "Description": "In this second version of the tool, a plugin for the exploitation of ORACLE database will be added, which will become an even more attractive exploit.DICOM (Digital Imaging and Communications in Medicine) is recognized worldwide for the exchange of medical tests, designed for handling, display, storage, printing, and transmission standard. It includes defining a file format and a network communication protocol.Target:D1c0m-X.2 is a tool that is responsible for searching the TCP / IP ports of Robot surgery or x-rays, CT scans, MRI or other medical devices that use this protocol, and once found, check if the firmware is vulnerable. If they are not vulnerable, it will try to exploit using scripts, which are intended to block the connection between the server and the Robot, making a DDOS or accessing the System.Before launching the attack, D1c0m-X.2 also explores the possibility of an intrusion through the Corporative Web of the Hospital or Clinic, if the intrusion is achieved, we proceed to interact with shell console, applying different vulnerabilities, such as SQLI, Default password, etc.Finally, the DUMP of critical information of Patients, Doctors and Staff is automated.",
   "Year": "2015",
   "Location": "Europe"

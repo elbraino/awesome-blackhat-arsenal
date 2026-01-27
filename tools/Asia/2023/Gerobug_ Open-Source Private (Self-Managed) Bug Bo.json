@@ -10,7 +10,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/gerosecurity/gerobug",
   "Description": "Are you a company, planning to have your own bug bounty program, with minimum budget? We got you!\n\nWe are aware that some organizations have had difficulty establishing their own bug bounty program.\nIf you know what you're doing, using a third-party managed platform usually comes with a hefty price tag and increased security concerns.\nHowever, creating your own independently run platform will take time and effort.\n\nGEROBUG FEATURES:\nHomepage\nThis should be the only page accessible by public, which contains Rules and Guidelines for your bug bounty program.\n\nEmail Parser\nBug Hunter will submit their findings by email, which Gerobug will parse, filter, and show them on dashboard.\n\nAuto Reply and Notification\nBug Hunter's inquiries will be automatically replied and notified if there any updates on their report.\nCompany will also be notified via Slack if there any new report.\n\nReport Management\nManage reports easily using a kanban model.\n\nReport Filtering and Flagging\nReports from Bug Hunter will be filtered and flagged if there are duplicate indication.\n\nEmail Blacklisting\nGerobug can temporarily block and release emails that conducted spam activity\n\nAuto Generate Certificate\nWe can generate certificate of appreciations for bug hunters so you don't have to ;)\n\nHall of Fame / Wall of fame / Leaderboard\nYeah we have it too",
   "Year": "2023",
   "Location": "Asia"

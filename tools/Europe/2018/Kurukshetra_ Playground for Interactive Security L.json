@@ -8,7 +8,7 @@
     "Code Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/a0xnirudh/kurukshetra",
   "Description": "Kurukshetra is a web framework that's developed with the aim of being the first open source framework which provides a solid foundation to host reasonably complex secure coding challenges where developers can learn secure coding practices in a hands-on manner. It is composed of two components, the backend framework written in PHP, which manages and leverages the underlying docker system to provide the secure sandbox for the challenge execution, and the frontend, which is a user facing web app providing all the necessary controls, for the admin to host and modify the challenges, and the user to execute and view the result of each of his input.\n\nThe Framework currently supports challenges written in 4 major languages including PHP, Python, NodeJS and Ruby.",
   "Year": "2018",
   "Location": "Europe"

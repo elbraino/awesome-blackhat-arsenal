@@ -9,7 +9,7 @@
     "Data Forensics/Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/falcosecurity/falco",
   "Description": "Cloud attacks are fast. After finding an exploitable asset, malicious actors need less than 10 minutes on average to execute an attack. Although identity and access management, vulnerability management, and other preventive controls are common in cloud environments, no organization can stay safe without a threat detection and response program for addressing zero-day exploits, insider threats, and other malicious behavior.\n\nThat's why Runtime Security is critical for organizations to fortify their cloud security against evolving cyber threats. Luckily we have Falco, which is an open-source runtime security tool designed to monitor, detect, and respond to abnormal behaviors in applications and containers within cloud-native environments. It provides real-time insights into system activities, allowing organizations to identify and mitigate security threats effectively.\n\nIn this workshop, we will harness Falco's capabilities for runtime detection within Kubernetes and Cloud environments and combine it with the power and flexibility of Event-Driven Ansible to leverage it as a response engine to promptly address and mitigate security incidents in real time.\n\nWe invite you to join us on this journey, where we will generate security events, detect them with Falco and automatically remediate them in real time with Event-Driven Ansible.",
   "Year": "2024",
   "Location": "USA"

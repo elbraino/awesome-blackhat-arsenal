@@ -9,7 +9,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/0xmoei/drosera-network",
   "Description": "Drosera is a wireless honeypot platform for discovering wireless intrusion attacks and intruders identification.\n\nIn wireless attacks, hackers are often attacking vulnerable wireless hotspots as a breakthrough. This means that a wireless network with obvious flaws will be the primary target for an attacker. When an attacker targets our wireless honeypot network, Drosera will record all actions before and after the attacker connects the network, including the process of attempting to connect to the network at the 802.11 frame level and further attacks after entering the honeypot network. Drosera can accurately identify the attack, and the first time to generate an alarm.\n\nWe are equipped with high-interactive Windows and Linux honeypots in the network, which simulate normal business systems to confuse the attacker and delay the attack process. They will also help us get information about the hacker like the goals, the attack methods, and the skill level.",
   "Year": "2018",
   "Location": "Europe"

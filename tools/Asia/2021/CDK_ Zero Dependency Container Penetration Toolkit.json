@@ -8,7 +8,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/cdk-team/CDK",
   "Description": "CDK is an open-sourced container penetration toolkit, offering stable exploitation in cloud-native docker/k8s/serverless deployments. It comes with many powerful tools and exploits without any OS dependency, helps you to escape container and takeover K8s cluster easily.",
   "Year": "2021",
   "Location": "Asia"

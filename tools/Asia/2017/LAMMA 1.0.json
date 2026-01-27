@@ -7,7 +7,7 @@
     "Track: Cryptography"
   ],
   "Event": "BH-ASIA-17",
-  "Github URL": null,
+  "Github URL": "https://github.com/SimpleBerry/LLaMA-O1",
   "Description": "LAMMA 1.0 is an attempt to create a Swiss-Army-Knife for security and quality Assessment of Cryptographic implementations. This major update of LAMMA has all new modules for testing trust stores, source code analysis and logical flaws in crypto-coding.LAMMA 1.0 with new features & fixes makes crypto-testing more effective and smoother even for large scale implementations. You can use and enhance LAMMA 1.0, as it's a FREE and OPEN SOURCE.",
   "Year": "2017",
   "Location": "Asia"

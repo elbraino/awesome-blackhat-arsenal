@@ -9,7 +9,7 @@
     "Track: Reverse Engineering"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/qilingframework/qiling",
   "Description": "Analyzing binaries mostly rely on high level user tools. At the same time, you need to run the binary on the same target architecture & platform. These restrictions limit advanced automatic analysis, require special hardware resources (such as for IoT analysis), and also expose against malicious binaries.\n\nQIling is a sandbox framework that focuses on providing high level Python API to enable users to build highly customizable analysis tool on top. Using emulator technology inside, our engine can run any machine code on any target platforms. This allows analyzing Windows malware on Linux Arm64, or running IoT firmware based on Mips on MacOS, and so on.\n\nThis research introduces a comprehensive overview on the Qiling. We will present all the technical issues we had to deal with, including emualating operating system layers such as syscalls, loader and linker, how qiling supports all executable file formats (PE, MachO, ELF, UEFI and MBR), and finally how we provide a framework for users to easily build their analysis tools on top of this foundation.\n\nTo conclude the presentation, we will show some cool live demos, such as:\n\nRun IDA on top of Qiling of with Qiling's IDA scriptable plugin\nEmulate, debug and instrument MBR from Qiling Framework",
   "Year": "2020",
   "Location": "Asia"

@@ -7,7 +7,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/trendmicro/telfhash",
   "Description": "Telfhash is an architecture-agnostic hash based on symbols of ELF files. It can also cluster ELF files with no symbols based on a creative algorithm to cluster them. Designed as a Python library, Telfhash is also shipped with a command-line tool that allows malware researchers to correctly group similar ELF files together. In this demo I'll show you how Telfhash works and how to extract the most of it while conducting malware investigations that involves ELF files, which is a common situation in this IoT/non-PC malware era.",
   "Year": "2020",
   "Location": "Europe"

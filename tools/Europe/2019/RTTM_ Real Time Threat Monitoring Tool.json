@@ -8,7 +8,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/juanmc2005/rttm-viewer",
   "Description": "Monitoring possible threats of your company on the Internet is an impossible task to be achieved manually. Hence, many threats of the company go unnoticed until it becomes viral in public - thus causing monetary/reputation damage. This is where RTTM comes into action. RTTM (Real-Time Threat Monitoring Tool) is a tool developed to scrap all pasties, GitHub,reddit..etc in real-time to identify an occurrence of search terms configured. Upon a match, an email will be triggered. Thus allowing the company to react in case of leakage of code, any hacks tweeted..etc.. and harden themselves against an attack before it goes viral.\n\nOver the past 2 years, the tool has evolved from a simple search. Artificial intelligence has been implemented to perform a better search. If regex is needed even that is supported. Thus, behavior is close to human and reduces false positives.\n\nThe best part of the tool is that alert will be sent to email in less than 60 seconds from the time threat has made it to the internet. Thus allowing response in real-time to happen.\n\nThe same tool in malicious user hands can be used offensively to get an update on any latest hacks, code leakage, etc..",
   "Year": "2019",
   "Location": "Europe"

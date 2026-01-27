@@ -8,7 +8,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/project-tsurugi",
   "Description": "Any DFIR analyst knows that everyday in many companies, it doesn't matter the size, it's not easy to perform forensics investigations often due to lack of internal information (like mastery all IT architecture, have the logs or the right one...) and ready to use DFIR tools.\n\nAs DFIR professionals we have faced these problems many times and so we decided last year to create something that can help who will need the right tool in the \"wrong time\" (during a security incident).\n\nAnd the answer is the Tsurugi Linux project that, of course, can be used also for educational purposes.\nAfter more than a year since the last release, a Tsurugi Linux special BLACK HAT EDITION with this major release will be shared with the participants before the public release.",
   "Year": "2022",
   "Location": "Asia"

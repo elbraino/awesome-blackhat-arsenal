@@ -8,7 +8,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/geeksniper/windows-privilege-escalation",
   "Description": "CQURE PE Toolkit is focused on Windows Privilege Escalation tactics and techniques created to help improve every privilege escalation game. This toolkit guides you through the process of exploiting a bug or design flaw in an operating system or software to gain elevated privileges to resources that are normally highly protected. Once you will know what to look for and what to ignore, Privilege Escalation will be so much easier. This powerful toolkit is useful for those who are interested in penetration testing and professionals engaged in pen-testing working in the areas of database, system, network, or application administration. Among published presented tools are CQSecretsDumper, CQNTDSDTDecrypter, CQLsassSecretsDumper, CQCreateProcessWithParent, and many more.",
   "Year": "2021",
   "Location": "Europe"

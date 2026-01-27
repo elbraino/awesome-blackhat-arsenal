@@ -8,7 +8,7 @@
     "Internet of Things", "IOT"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/arthastang/IoT-Home-Guard",
   "Description": "IoT devices, especially secondhand devices and rental devices, are under threat of malware implant attack with physical access. Once IoT devices are compromised, hackers can turn them into snooping devices. From a defensive perspective, there are no solutions to detect Trojans in IoT devices.\n\nWe present IoT-Home-Guard, a hardware device to detect malicious behaviors of Trojans in IoT devices, such as audios/videos snoop and remote control. It consists of four parts: data flow catcher, traffic analyzing engine, device fingerprint database and a web server. Features of network traffic are extracted by traffic analyzing engine and compared with pre-built device fingerprint database to detect malicious behaviors.\n\nIn another research, we were able to implant Trojans in eight devices including smart speakers, ip cameras, routers, driving recorders and mobile translators. We collected characteristics of those devices and ran IoT-Home-Guard. All devices implanted Trojans have been detected. We believe that malicious behaviors of more devices can be identified with high accuracy after supplement of fingerprint database.\n\nThe first generation IoT-Home-Guard tool is a hardware device based on Raspberry Pi with wireless network interface controllers. We will customize new hardware in the second generation. Software part is available in our Github (https://github.com/arthastang/IoT-Home-Guard). The system can be set up with software part in laptops after essential environment configuration.",
   "Year": "2018",
   "Location": "Europe"

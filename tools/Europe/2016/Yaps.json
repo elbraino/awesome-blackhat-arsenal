@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-EU-16",
-  "Github URL": null,
+  "Github URL": "https://github.com/nickguitar/yaps",
   "Description": "The number one security hole is a weak password. Companies are growing without a complete control over exposed services; most of the servers are deployed with default password. Most of the tools today are single host-based, without competing on a cloud/global environment. Configuration and deployment are getting faster -all the services are going in pipeline with automation and scalability focus.Infosec tools need to evolve. The project goal of Yaps *yet another password scanner:*Create a new scanner to work in pipeline with nmap and other source (json, xml, csv) port mapper and enable a scalable full feature weak password scanner, analyse in a flow the port, create a history status based on the history of scan and result, evade incidents and avoid stressful and lockdown test on production servers and giving the users full flexibility to decrease false positive reports.Highly scalable container based (docker, mesos, chronos, python)Modular concept with multi protocol support and fully automated.",
   "Year": "2016",
   "Location": "Europe"

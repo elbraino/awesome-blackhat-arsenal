@@ -8,7 +8,7 @@
     "Track: Code Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/owasp/pytm",
   "Description": "pytm is a Pythonic framework for threat modeling. Developers can define their system in Python code as a collection of objects and annotate them with properties. Security practitioners can add threats to the \"Threats\" object (see https://github.com/izar/pytm/blob/master/pytm/threats.py). The logic lives in the \"condition\" of the \"Threats\" object, where members of target can be logically evaluated. If the \"condition\" returns a \"True\", that means the rule found a potential threat. More details at https://github.com/izar/pytm\n\nUsage:\ntm.py [-h] [--debug] [--resolve] [--dfd] [--report] [--all]\n[--exclude EXCLUDE] [--seq]\n\noptional arguments:\n-h, --help show this help message and exit\n--debug print debug messages\n--resolve identify threats\n--dfd output DFD (default)\n--report output report\n--all output everything\n--exclude EXCLUDE specify threat IDs to be ignored\n--seq output sequential diagram",
   "Year": "2019",
   "Location": "Asia"

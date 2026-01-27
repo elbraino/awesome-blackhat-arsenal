@@ -9,7 +9,7 @@
     "Track: Smart Grid/Industrial Security"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/xforcered/MLOKit",
   "Description": "Industry 4.0 is a new concept of automation data exchange in manufacturing, and technologies and structures are significantly different from the current general ICS. Autonomous judgment and execution are required, and it is based on information exchange using AI and cloud technologies. Devices are supposed to connect interactively that can create new attack surfaces and risks of cyber-attacks.\n\nFor instance, if AI on the cloud is used for controlling the ICS, attackers could change parameters for controlling ICS by contaminating the judgment of AI. In such a situation, attackers could compromise ICS without accessing the ICS network. Detecting such attacks is quite challenging if operators rely on AI to judge the desirable parameters of ICS. Therefore, it is important to instruct cyber risks of ICS in Industry 4.0.\n\nWe introduce attack demonstration took kits for Industry 4.0 using actual machines (water supply pump system).\n\nThis tool kit is portable, and easy to prepare, so is useful for instructing the cyber-risks of ICS whenever and whenever we want. In aspects of Industry 4.0, we especially focus on the security risks of ICS in the following aspects:\n- When computers and devices are connected interactively\n- When AI on the cloud is used for controlling the ICS\n\nWe will show you a demonstration of attacks: the attacker can change the physical status of ICS without accessing the ICS network through an attack against AI.",
   "Year": "2020",
   "Location": "Asia"

@@ -8,7 +8,7 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-EU-17",
-  "Github URL": null,
+  "Github URL": "https://github.com/larsborn/VirusBayClient",
   "Description": "VirusBay is a one-stop-shop for security researchers to ask, download and investigate malware samples together. VirusBay takes world-changing features from the outside world and reformats them to adhere to the methodology of incident response and malware analysis.Features:Credit model - for every action made the user is being creditedCommunity - work together on a malware case, drag & drop IOCsMaltivity - Trace log that enumerates the malware uploads and co-opsQ&A - A place to ask questions and get answers, the StackOverflow style1ClickCFP - submit a paper based on the research conducted in the platform - drag & drop your research, abstract and details and ship it to the best conferences in the world.Free samples download and uploadand more and more...",
   "Year": "2017",
   "Location": "Europe"

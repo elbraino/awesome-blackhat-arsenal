@@ -8,7 +8,7 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-ASIA-16",
-  "Github URL": null,
+  "Github URL": "https://github.com/zandi/ebpf-stack-pivot-detection",
   "Description": "StackPivotChecker is a tool to provide instruction level inspection on stack pivoting behavior from 0-day. It provides rapid 0-day analysis capability. This lightweight tool to help research to address first stack pivoting point from complex 0-day execution path; it addressed real 0-day such as CVE-2013-0640.",
   "Year": "2016",
   "Location": "Asia"

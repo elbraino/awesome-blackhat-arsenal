@@ -8,7 +8,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ASIA-17",
-  "Github URL": null,
+  "Github URL": "https://github.com/milo2012/metasploitHelper",
   "Description": "MetasploitHelper was developed to assist penetration testers in internal engagements. There are a large number of exploits and modules that are available to penetration testers to use. However, it is often difficult and challenging for penetration testers to keep up to date with the latest exploits.MetasploitHelper tends to make things easier for testers by testing and matching Metasploit modules against open ports and URI paths on the target hosts.What's New!Better detection and matching for web application exploits in MetasploitExploit-DB is a very popular source of working exploits. Currently, there are more than 21,298 web application exploits available.The number of exploits for web applications are increasing at a very fast rate due to more applications being developed and used.We have added a parser for the web application exploits in Exploit-DB and added them to metasploitHelper and now you can scan and detect more exploitable vulnerabilities much easier.",
   "Year": "2017",
   "Location": "Asia"

@@ -7,7 +7,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/rootclay/wmihacker",
   "Description": "After the eternal blue virus flood, most intranets no longer open port 445, so the 135-port DCOM service becomes another exploitable point. We need a tool or method that can use 135 ports to execute commands and the Ability to transfer files. WMIHacker is such a tool and can bypass av.\n\nRemote command execution tools such as psexec (sysinternals) and wmiexec (impacket) are frequently used during lateral movement. However, these tools will be killed by anti-virus software and the command executed will fail. Psexec will create services and leaves a lot of logs, including a lot of operations such as service creation. The way win32_process.create used by wmiexec.py will no doubt be blocked by AV. I found a new way to execute commands on a machine with an AV and can overwrite window2003 to the latest version of windows. Because I use VBScript to run it. There is no doubt that someone is studying the same content as I did. I found that there are many ways to execute on the internet, including deriving win32_process, registering COM and making it as a malicious provider, msi abuse, etc., but these known ways of using Being intercepted by av.",
   "Year": "2020",
   "Location": "Asia"

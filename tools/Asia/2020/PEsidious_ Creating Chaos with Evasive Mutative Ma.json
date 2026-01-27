@@ -8,7 +8,7 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/cyberforce/pesidious",
   "Description": "Over the past two decades, research has been conducted on using AI to detect malware by extracting features and then classifying them using machine learning algorithms.\n\nWhat's more interesting is how adversaries have begun using AI to attack these AI models. One current use case of such an approach is the use of AI (GAN) to generate Deepfakes.\n\nPesidious draws inspiration from this approach to use AI to mutate the malware samples in order to evade AI-based classifiers.\nThe tool uses the Generative Adversarial Network to first generate benign-looking imports and sections that can make malware look benign and fool machine learning models. We further use deep reinforcement learning to teach a model in which other mutations can reduce the detection rate for malware. The various mutations include changes to imports, exports, headers, signature, sections, and size.\n\nPesidious bagged the first place prize and a whopping $40000 in the HITB CyberWeek AI challenge 2019, and we are back again with some additional features to improve its efficiency and the chaos it brings with it!\n\nThe tool presented and views expressed are solely our own and do not express the views or opinions of our employer.",
   "Year": "2020",
   "Location": "Asia"

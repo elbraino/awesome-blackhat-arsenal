@@ -8,7 +8,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/owasp-modsecurity/ModSecurity",
   "Description": "With this upcoming release of ModSecurity we are delivering improved performance, stability and new exciting features!\n\nWe are bringing the possibility of virtual patch on demand through the ability of reloading the rules without restart among other improvements in that area. Additionally, we will be showing a testing feature that is exclusive to ModSecurity that allows rules writers and WAF administrators to effortlessly search and match for known malware payloads and signatures. This intends to step-up the game on the detection and blocking of countless types of malware and exploits.\n\nIn this presentation we will also be demonstrating the flexibility of ModSecurity by showing the feasibility of running a WAF inside an IoT device.\n\nThis release includes around 300 commits since the first 3.0 release with fixes, improvements and features added to the bleeding edge version of the open source libModSecurity. It contains a number of improvements in different areas: These include, clean ups, better practices for improved code readability, resilience, overall performance, support to a few missing features, LuaJIT and a number of fixes to actions and transformations.\n\nLast but not least, there's an improved user experience while reading the logs with a new API component that allows the unique id informed on transactions, making possible to match an id that it is already in use by the consuming application (the connector).",
   "Year": "2019",
   "Location": "Asia"

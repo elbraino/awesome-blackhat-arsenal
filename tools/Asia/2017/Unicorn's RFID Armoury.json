@@ -9,7 +9,7 @@
     "Track: Hardware / Embedded"
   ],
   "Event": "BH-ASIA-17",
-  "Github URL": null,
+  "Github URL": "https://github.com/unicorn-engine/unicorn",
   "Description": "RFID and contact-less smart cards have become pervasive technologies nowadays. IC/RFID cards are generally used in security systems such as airport and military bases that require access control. This presentation introduces the details of contact-less card security risk firstly, then the principles of low frequency(125KHz) attack tool, HackID Pro, will be explained. This tool contains an Android App and a hardware which can be controlled by your phone. HackID Pro can emulate/clone any low frequency IC card to help you break into security system, just type few numbers on your phone. After 125KHz, this presentation will show you how to steal personal information from EMV bank card, whose carrier frequency is high frequency, 13.56MHz, just sitting around you. In the end, our defense tool, Card Defender, will be dissected to explain how this product can protect your card and informations in both high/low frequency way and some tricks that this defense tool can do.",
   "Year": "2017",
   "Location": "Asia"

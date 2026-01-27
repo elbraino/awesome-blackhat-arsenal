@@ -8,7 +8,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/Phospheneser/DetectiveQA",
   "Description": "In the modern digital realm, internet browsers, particularly Chrome, have transcended traditional boundaries, becoming hubs of multifunctional extensions that offer everything from AI-integrated chatbots to sophisticated digital wallets. This surge, however, comes with an underbelly of cyber vulnerabilities. Hidden behind the guise of innovation, malicious extensions lurk, often camouflaged as benign utilities. These deceptive extensions not only infringe upon user privacy and security but also exploit users with unasked-for ads, skewed search results, and misleading links. Such underhanded strategies, targeting the unsuspecting user, have alarmingly proliferated.\n\nIn this talk, we will introduce DetectiveSQ Version 2, an enhanced tool revolutionizing the analysis of Chrome extensions. Building on its proven foundation, it now features integrated AI and GPT models for dynamic analysis, sentiment analysis, and sophisticated static analysis capabilities for permissions, local JavaScript, and HTML files. This dual approach offers a comprehensive evaluation, pinpointing potential security and privacy risks within extensions. DetectiveSQ Version 2 will be open source and made available after the talk.",
   "Year": "2024",
   "Location": "Asia"
