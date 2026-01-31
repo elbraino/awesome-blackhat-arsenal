@@ -9,7 +9,7 @@
     "Code Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/opendevsecops",
   "Description": "Join us to easily build a fortified software development lifecycle (SDLC) using open source tools. Find out how these powerful resources can improve the security of your software applications and improve your development process. We'll explore popular open source tools like Gitlab, Harbor, defectdojo... Seamlessly integrating them into your workflow to enforce strong security policies, detect vulnerabilities, and ensure compliance with industry best practices. Through hands-on exercises and real-world examples, you'll learn how to mitigate security risks, harden your code, and adopt security best practices, resulting in secure, scalable, and resilient software applications. Don't miss this transformative opportunity to unlock the potential of open source tools in your SDLC and strengthen your organization's overall security posture. All the information will be published on opensecdevops.com for the community to use and improve on the day of the presentation, in addition to integrating the different tools, an app will be shown to facilitate said integration according to your needs.",
   "Year": "2023",
   "Location": "Europe"

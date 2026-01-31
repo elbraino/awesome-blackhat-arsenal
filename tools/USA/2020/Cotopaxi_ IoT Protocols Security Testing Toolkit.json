@@ -8,7 +8,7 @@
     "Track: Internet of Things"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/Samsung/cotopaxi",
   "Description": "Cotopaxi is a set of tools for security testing of Internet of Things devices using specific network IoT/IIoT/M2M protocols (e.g. AMQP, CoAP, DTLS, HTCPCP, mDNS, MQTT, MQTT-SN, QUIC, SSDP).",
   "Year": "2020",
   "Location": "USA"

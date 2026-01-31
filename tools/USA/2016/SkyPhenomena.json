@@ -10,7 +10,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-US-16",
-  "Github URL": "null",
+  "Github URL": "https://github.com/CEFware/SkyScan",
   "Description": "SkyPhenomen aims to monitor the web threat and weakness in web respect of a company by simulating the hacker's penetrating ideas,it mainly includes the following features:First Stage -- asset gathering:1. Domain gathering. Including DNS zone transfer, brother domains, sub-domian bruteforcing, web crawler gathering, search engine, github, etc\u00e2\u0080\u00a62. Port scanning and middleware fingerprint recognition3. Site carwl and web application fingerprint recognitionSecond Stage -- information associating:1. IP addresses locating and confirming C class network segment which belonging to the target.2. Generating customized user&password dicts base on public information gathered in the previous stage and other leak databases.3. The third party threat information base on relavent keyword matching and target site employee's relation at GitHub or other source platform.Last stage -- vulnerability discovery:1. Scanning common vulnerability in web service and interfaces(SQLi,XSS,RCE,etc\u00e2\u0080\u00a6).2. Scanning universal vulnerability in collected fingerprints.3. Automatic bruteforcing of middlewares,web applications that need authentication and form of background login page,base on the customized dicts.4. Scanning sensitive files and folders in web service with high accuracy and compatibility.",
   "Year": "2016",
   "Location": "USA"

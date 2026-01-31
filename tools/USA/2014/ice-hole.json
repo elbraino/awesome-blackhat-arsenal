@@ -5,7 +5,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-US-14",
-  "Github URL": "null",
+  "Github URL": "https://github.com/fiedl/hole-ice-install",
   "Description": "Ice-Hole is a phishing awareness email program. It is designed to help security analysts/system administrators keep track and test end users. The tool can be used in conjunction with various third party software, like SET, for further leverage. 1.7 has some new features and enhancements like IRC triggers, integrating with a new portal feature, automatic times, dates, and sending reports on a schedule.",
   "Year": "2014",
   "Location": "USA"

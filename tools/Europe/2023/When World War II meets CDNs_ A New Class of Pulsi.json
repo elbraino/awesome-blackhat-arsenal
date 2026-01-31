@@ -16,7 +16,7 @@
     "Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/ydj0604/Content-Distribution-Network",
   "Description": "Content Delivery Networks (CDNs) are commonly believed to offer their customers protection against denial of service (DoS) attacks. However, our research reveals a novel architecture vulnerability in CDNs, enabling attackers to turn globally distributed CDN Infrastructure into powerful DDoS amplifiers.\n\nIn this talk, we draw the analogy to a military tactic used in World War II and introduce a new class of pulsing denial-of-service attacks. We demonstrate how CDNs can be exploited to concentrate low-rate attacking requests into short, high-bandwidth pulse waves, resulting in a pulsing DDoS attack to saturate targeted TCP services periodically.\n\nWe tested five leading CDN vendors and found all of them are susceptible to this attack. By mounting an attack against our own Web site, we show that attackers can use it to achieve peak bandwidths over 1000 times greater than their upload bandwidth, seriously degrading the performance and availability of target services. We have reported our findings to all tested CDNs and received positive feedback.\n\nAs this problem is rooted in the inherent nature of CDN forwarding networks, it is difficult to eliminate entirely. We discuss possible mitigation strategies for this emerging threat. We believe it is important that CDN operators and their customers be aware of this attack so that they can protect themselves accordingly.",
   "Year": "2023",
   "Location": "Europe"

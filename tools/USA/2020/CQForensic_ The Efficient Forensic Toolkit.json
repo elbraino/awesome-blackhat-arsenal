@@ -8,7 +8,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/clingeric/forensic-toolkit",
   "Description": "CQForensic Toolkit enables you to perform detailed computer forensic examinations. It guides you through the information gathering process providing data for analysis and extracting the evidence. CQForensic can build an attack timeline, extract information from the USN journal, recover files, also from MFT, decrypt user's and system's stored secrets, like encrypted data, extract information from Prefetch and from Remote Desktop Session cache, extract information from the configuration of the used for administration tools. It also contains toolkit for memory analysis, it extracts information from memory dumps, including the PowerShell commands, complete files, including making them consistent if they were corrupted, like sensitive EVTX files. Our biggest CQKawaii implements custom-made machine learning algorithms to extract from the large logs the anomalies. During Black Hat Europe, we would like to announce five new tools, including CQKawaii. CQForensic is a very practical toolkit for forensic investigators.",
   "Year": "2020",
   "Location": "USA"

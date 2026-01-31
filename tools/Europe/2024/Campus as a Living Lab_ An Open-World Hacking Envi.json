@@ -9,7 +9,7 @@
     "Smart Grid/Industrial Security"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "null",
+  "Github URL": "https://github.com/victorrey179/TFG-UAB_WASTE_MANAGEMENT",
   "Description": "The ASEAN Bug Bounty Beta Edition is a groundbreaking initiative dedicated to enhancing cybersecurity across the Southeast Asian region. Held in July 2024, we invited skilled and passionate vulnerability researchers to collaborate in identifying vulnerabilities within the Singapore Institute of Technology (SIT) Campus as a Living Lab - a real-world, cyber-physical environment that is our university in sunny Singapore.\n\nUnlike other bug bounty events where the rules of engagement limits you to only particular applications or systems, our bug bounty allowed vulnerability researchers to roam and find vulnerabilities in an open-world campus across our living lab - including its network, hosted IoT prototypes, smart lighting system, and intelligent building management system. We also opened up our Living Lab Operating System proof-of-concept - this manages control and access of living lab assets such as lift systems and sensor devices, our Data Lake, which provides data sinking and logging capabilities for the living lab, as well as a preview version of our Virtual Campus metaverse modelled after our new campus in northeast Singapore.\n\nWith the success of our bug bounty event, we look to bring this playground to a wider audience at Black Hat Europe, where you can look forward to testing your vulnerability research skills almost freely on a real-world environment. We may even have some special guests contributing additional platforms to the environment for you to try.",
   "Year": "2024",
   "Location": "Europe"

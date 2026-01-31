@@ -7,7 +7,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "null",
+  "Github URL": "https://github.com/DanRuta/WebSight",
   "Description": "Web Sight is a platform that automates the process of enumerating enterprise attack surface at scale. Starting with IP addresses, domain names, and networks, Web Sight can quickly enumerate subdomains, collect DNS records, run network scans, analyze SSL/TLS certificates and protocol support, and perform network service fingerprinting and application-layer inspection. The end goal of this information gathering process is to provide users with the situational awareness required to successfully attack and/or defend target organizations.",
   "Year": "2017",
   "Location": "USA"
