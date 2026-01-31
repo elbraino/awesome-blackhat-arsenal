@@ -7,7 +7,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "null",
+  "Github URL": "https://github.com/bro",
   "Description": "The Bro Network Security Monitor is an open-source framework that gives total visibility over network traffic in real-time. Since most cyber attacks cross the network (and hosts themselves can be compromised), threat hunters and incident responders typically rely on network data as a vital source of truth, to reconstruct what really happened (or is happening now) in their environment. Bro is perhaps the best and most widely used tool for network traffic analysis. Join us to learn more about Bro with Seth Hall, longtime Bro developer, and see a demo where he will provide a comprehensive overview of Bro, from introduction to advanced custom scripting.",
   "Year": "2018",
   "Location": "USA"

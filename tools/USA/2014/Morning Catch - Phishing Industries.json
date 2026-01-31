@@ -5,7 +5,7 @@
     "Track: Arsenal Lab"
   ],
   "Event": "BH-US-14",
-  "Github URL": "null",
+  "Github URL": "https://github.com/joeynhieu/MorningCatch",
   "Description": "Morning Catch is a Virtual Machine environment, similar to Metasploitable, to demonstrate and teach about targeted client-side attacks. Morning Catch is a fictitious seafood company with a website, self-contained email infrastructure to receive phishing emails, and two desktop environments. One desktop environment is a vulnerable Linux client-side attack surface. The other desktop environment is a vulnerable Windows client-side attack surface. Yes, you'll get to attack a Windows software target and use Windows payloads against this virtual environment. This Arsenal session will demonstrate some of the things you can do with the Morning Catch environment.",
   "Year": "2014",
   "Location": "USA"

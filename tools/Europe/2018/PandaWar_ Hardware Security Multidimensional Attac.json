@@ -9,7 +9,7 @@
     "Track: Hardware/Embedded"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/Ming-Qin-tech?tab=repositories",
   "Description": "This is a hardware attack and defense tool platform. It will help you quickly master and implement a variety of hardware attack methods.\n\nIt includes ultrasonic attacks, RFID attacks, power side channel attacks, and radio defense etc.\n\nAll open source, design idea, design concept, design method, code, schematic, PCB.",
   "Year": "2018",
   "Location": "Europe"

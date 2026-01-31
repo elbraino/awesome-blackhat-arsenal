@@ -8,7 +8,7 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "null",
+  "Github URL": "https://github.com/payloadcms/payload",
   "Description": "As the evolution of endpoint, egress, and network security controls continues, adversaries and pentesters are finding it increasingly more difficult to execute malicious payloads within properly-hardened enterprise networks. Although tools currently exist to aid in circumventing these controls, the current state fails to properly account for some of newest techniques used by these controls. Enter Empty-Nest, a command-and-control (C2) toolset created with circumvention in mind. Empty-Nest was designed to provide a flexible payload-generation mechanism and pluggable interface to enable adversaries to easily customize payloads for targeted security control bypass. Our presentation shows the Empty-Nest toolset, demonstrating how to leverage the pluggable interface to create keyed payloads capable of bypassing new-age, cloud-based binary analysis, unloading endpoint software DLLs from running processes, customizing C2 transports, and more.",
   "Year": "2017",
   "Location": "USA"

@@ -7,7 +7,7 @@
     "Track: Smart Grid/Industrial Security"
   ],
   "Event": "BH-US-15",
-  "Github URL": "null",
+  "Github URL": "https://github.com/zerstoeren/dicom-scan",
   "Description": "DICOM (Digital Imaging and Communications in Medicine) is recognized worldwide for the exchange of medical tests, designed for handling, display, storage, printing, and transmission standard. It includes defining a file format and a network communication protocol.Target:D1c0m-X is a tool that is responsible for searching the TCP / IP port Robot surgery or x-rays, CT scans, MRI or other medical device that use this protocol, and once found, check if the firmware is vulnerable, if not vulnerable, try to exploit the same way using scripts, which are intended to block the connection between the server and the Robot, making a DDOS or accessing the System.Before launching the attack, D1c0m-X also explores the possibility of an intrusion through the Corporative Web of the Hospital or Clinic, if the intrusion is achieved, we proceed to interact with shell console, applying different vulnerabilities, such as SQLI, Default password, etc.Finally, the DUMP of critical information of Patients, Doctors and Staff is automated.",
   "Year": "2015",
   "Location": "USA"

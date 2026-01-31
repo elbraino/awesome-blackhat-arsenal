@@ -7,7 +7,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-EU-17",
-  "Github URL": "null",
+  "Github URL": "https://github.com/cerner/fhir.cerner.com",
   "Description": "The CERNE is a powerful, open IDS platform with on demand capture, delivering IDS alerts using the widely supports Suricata and complete TCP or UDP session data, containing suspected threats for rapid incident response analysis.",
   "Year": "2017",
   "Location": "Europe"

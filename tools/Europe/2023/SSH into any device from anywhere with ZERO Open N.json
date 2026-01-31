@@ -8,7 +8,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "null",
+  "Github URL": "https://github.com/shellhub-io/shellhub",
   "Description": "SSH to Any Device with No Ports Open\nMake your devices reachable while eliminating network attack surfaces & reducing administrative overhead.\n\nAtsign's patent pending core technology is engineered to deliver the following benefits:\nAddressability\nAtsign's core technology uses identifiers which replace the need to manage IP addresses. If you remember the atSign (Atsign's version of an address), you can look up the IP address and port in the atDirectory which manages this information for you.\nReachability\n\u200dAtsign's core technology provides each device with its own microserver which makes it reachable from anywhere on the internet.\nNo open ports (no network attack surface) on the device\nConnections are always made from the device to the microserver, meaning that no ports ever need to be opened on devices using this technology.\nEnd-to-end encrypted\nInformation is automatically encrypted on the edge devices before it is sent over Atsign's control plane.\nZero Trust\nAtsign's technology is designed such that cryptographic keys are only stored at the edge device. No third party or intermediary ever possesses the decryption keys which are required to access the information. You don't need to trust any of the microservers, because they never see information in the clear.\nIn other words, sending information using Atsign's control plane requires no open ports and is fully edge-to-edge encrypted, all without needing to know the IP address of the device!",
   "Year": "2023",
   "Location": "Europe"

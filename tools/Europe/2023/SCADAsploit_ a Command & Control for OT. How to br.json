@@ -8,7 +8,7 @@
     "Smart Grid/Industrial Security"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "null",
+  "Github URL": "https://github.com/RapidScada/scada",
   "Description": "SCADAsploit is the only C2 (Command & Control) framework targeting OT systems. Its powerful arsenal of pre- and post-exploitation modules for SCADA/PLC systems makes it a unique tool in Adversary Simulation operations in the OT and IoT environment. Its modular client/server architecture, which can be controlled remotely with a super-secure connection, provides modules dedicated to penetration testing, vulnerability scanning, asset discovery, and pre- and post-exploitation.\n\n\nSCADAsploit boasts a robust client/server architecture that ensures seamless communication and collaboration between your team members. This scalable framework enables the efficient distribution of tasks and enhances your offensive capabilities, allowing you to penetrate even the most complex OT environments.\n\n\nBut it is even more than that. Thanks to its flexibility and inherent EDR evasion capability, SCADAsploit is also an effective and powerful tool for traditional IT infrastructures.",
   "Year": "2023",
   "Location": "Europe"
