@@ -7,7 +7,7 @@
     "Track:"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/GoogleCloudPlatform/jit-groups",
+  "Github URL": "https://github.com/kartverket/google-jit-access",
   "Description": "Google does not make cloud security easy. The tool we're open sourcing doesn't make it easy either, but it makes it about 10% less painful than the existential dread the default GCP policies have infected on your organization.\n\n\nIn this talk, we'll guide you through setting up an audit log sink and evaluating events against Open Policy Agent (OPA) Rego policies. We'll discuss the included MITRE ATT&CK tactics policies and demonstrate how to create new custom policies using the OPA engine. We'll also cover how to make least privilege access control work for your organization with Just-In-Time access provisioning.\n\n\nOur presentation aims to empower GCP users with the knowledge and tools necessary for effective large-scale monitoring of their environments' security and actions. We'll share some experience and insights on the current state of controls within GCP, and how infrastructure providers can enable more powerful tooling.\n\n\nBy the end of this talk, attendees will have gained practical knowledge in leveraging open source software to strengthen their GCP security posture. Don't miss this opportunity to stay ahead in the world of cloud security and enhance the protection of your GCP environment.",
   "Year": "2023",
   "Location": "Canada"

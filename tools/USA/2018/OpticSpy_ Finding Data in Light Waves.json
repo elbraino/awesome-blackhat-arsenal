@@ -7,7 +7,7 @@
     "Track: Hardware/Embedded"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/sterncat/opticspy",
   "Description": "OpticSpy is an open source hardware module for experimenting with optical data transmissions. It captures, amplifies, and converts an optical signal from a visible or infrared light source into a digital form that can be analyzed or decoded with a computer.\n\nWith OpticSpy, hardware hackers can search for optical covert channels, which intentionally exfiltrate data in a way undetectable to the human eye, explore signals from remote controls and other consumer electronic devices that send information through light, or discover Li-Fi networks and Visible Light Communication (VLC) systems.",
   "Year": "2018",
   "Location": "USA"

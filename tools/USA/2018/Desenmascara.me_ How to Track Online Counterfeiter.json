@@ -7,7 +7,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/ecasbas/web-metadata",
   "Description": "What is one of the biggest examples of online fraud being massively underestimated?: Online counterfeiters. This fraud captured the attention of two bigs intelligence providers by publishing a joint report titled: \"Why Retailers Are Losing The Fight Against Online Counterfeiting.\"\n\nHowever, security vendors providing protections against C2, malware and any kind of malicious domains still do not provide protection against online counterfeiters. In the rare cases when they do, they do it by playing the cat-and-mouse game (not scalable) and they confuse online counterfeiters with phishing even when is a totally different threat with different goals. Therefore, the goal of the online tool presented here: desenmascara.me is to raise awareness of this increasing online fraud with real examples of any major brand.",
   "Year": "2018",
   "Location": "USA"

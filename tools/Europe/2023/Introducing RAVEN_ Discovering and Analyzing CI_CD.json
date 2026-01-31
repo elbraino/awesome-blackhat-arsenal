@@ -9,7 +9,7 @@
     "Code Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/CycodeLabs/raven",
   "Description": "As the adoption of CI/CD practices continues to grow, securing these pipelines has become increasingly important. However, identifying vulnerabilities in CI/CD pipelines can be daunting, especially at scale. In this talk, we present our tooling, which we intend to release as open-source software to the public that helped us uncover hundreds of vulnerabilities in popular open-source projects' CI/CD pipelines.\n\nRAVEN (Risk Analysis and Vulnerability Enumeration for CI/CD) is a powerful security tool designed to perform massive scans for GitHub Actions CI workflows and digest the discovered data into a Neo4j database. With RAVEN, we were able to identify and address potential security vulnerabilities in some of the most popular repositories hosted on GitHub, including FreeCodeCamp (the most popular project on GitHub), Storybook (One of the most popular frontend frameworks), Fluent UI by Microsoft, and much more.\nThis tool provides a reliable and scalable solution for security analysis, enabling users to query the database and gain valuable insights into their codebase's security posture.",
   "Year": "2023",
   "Location": "Europe"

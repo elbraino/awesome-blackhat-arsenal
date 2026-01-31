@@ -9,7 +9,7 @@
     "Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/prowler-cloud/prowler",
   "Description": "Whether you use AWS, Azure or Google Cloud, Prowler helps to assess, audit, pentest and harden your cloud infrastructure configuration and resources.",
   "Year": "2023",
   "Location": "USA"

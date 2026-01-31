@@ -8,7 +8,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/DataSploit/datasploit",
   "Description": "An #OSINT Framework to perform various recon techniques on Companies, People, Phone Number, Bitcoin Addresses, etc., aggregate all the raw data, and give data in multiple formats.\nDetails:\n\nPerforms OSINT on a domain / email / username / phone and find out information from different sources\nCorrelate and collaborate the results, show them in a consolidated manner\nTries to find out credentials, api-keys, tokens, subdomains, domain history, legacy portals, etc. related to the target\nUse specific script / launch automated OSINT for consolidated data\nPerforms Active Scans on collected data\nGenerates HTML, JSON reports along with text files\n\nNew Features:\n\nActive Modules\nWell parsed JSON and HTML Reports\nBitCoin Address OSINT\nMore in-depth Social Media Searches\nBasic Vulnerability checks on Subdomains\nSubdomain Takeover, etc.\nDB Support\nSupport for Multiple Alternative API Keys",
   "Year": "2018",
   "Location": "USA"

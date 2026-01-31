@@ -7,7 +7,7 @@
     "Track: Hardware/Embedded"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/grandideastudio/jtagulator",
   "Description": "Five years after its original release, JTAGulator continues to be the de facto open source tool for identifying interfaces commonly used for hardware hacking, such as JTAG and UART, from test points, vias, component pads, or connectors on a target product. The tool can save a significant amount of time, particularly for those who don't have the resources required for traditional reverse engineering processes, and bridges the gap between gaining physical access to circuitry and exploiting it. Black Hat Arsenal USA 2018 will mark the release of a new firmware version and and Joe will provide demonstrations of the tool's updated features.",
   "Year": "2018",
   "Location": "USA"

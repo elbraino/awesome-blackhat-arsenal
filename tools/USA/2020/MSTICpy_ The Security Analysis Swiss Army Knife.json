@@ -9,7 +9,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/microsoft/msticpy",
   "Description": "MSTIC Jupyter and Python Security Tools (MSTICpy) is a Python library of security investigation tools developed by the Microsoft Threat Intelligence Center (MSTIC) to assist and support security analysts conducting security investigations and threat hunting.\n\nThe library provides features to collect data from a range of data sources, to enrich the data with Threat Intelligence and OSINT, to analyse the data using ML and data analysis techniques, and to visualise the output of this analysis for quick and easy comprehension.\n\nRather than a single tool MSTICpy is a Swiss Army knife for security investigations.",
   "Year": "2020",
   "Location": "USA"

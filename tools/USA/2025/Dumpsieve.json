@@ -8,7 +8,7 @@
     "ML & Data Science"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/arthaud/git-dumper",
   "Description": "During data leakage incident, time is taking to sieve through the data dump to identify if the leaked is relevant to the organisation. Time is crucial in investigation in order to perform impact and risk assessment for the organisation. Hence, the team has created a data dump tool named \"Dumpsieve\" which utilises AI to expedite the investigation.",
   "Year": "2025",
   "Location": "USA"

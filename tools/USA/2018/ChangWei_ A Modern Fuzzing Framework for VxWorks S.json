@@ -9,7 +9,7 @@
     "Track: Smart Grid/Industrial Security"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/cw1997/www.changwei.me",
   "Description": "VxWorks is the industry's leading real-time operating system. It has been widely used in various industry scenarios, which require real-time, deterministic performance and, in many cases, safety and security certification. Since VxWorks has so much importance in industry, more and more people are working on security problems around it.\n\nFuzzing is an effective technique to discovery vulnerabilities. Feedback-guided fuzzing, such as AFL(American Fuzzy Lop), has proven its excellent ability in finding vulnerabilities of complex programs. Fuzzing tools using this technique have been widely applied to Linux, MacOS and even Windows, but never to VxWorks. According to the current situation, we design a feedback-guided fuzzing tool named \"ChangWei\" especially for VxWorks. We take advantage of the instrumentation API of Bochs emulator to measure and extract target coverage in a persistent fuzzing mode, and then generate input samples with the help of AFL mutation engine.\n\nWe are going to utilize this tool to assist developers to test their code and find hidden vulnerabilities before they are discovered by malicious attackers. Apart from that, we'd like anyone who has interest in this to help us optimize it and build a powerful tool for the security industry.",
   "Year": "2018",
   "Location": "USA"

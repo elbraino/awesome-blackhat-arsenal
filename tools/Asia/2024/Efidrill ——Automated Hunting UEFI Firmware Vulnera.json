@@ -10,7 +10,7 @@
     "Track: Hardware/Embedded"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/cc-crack/efidrill",
   "Description": "UEFI, an early stage in the computer booting process, is susceptible to attacks that disrupt the Secure Boot security mechanism , thereby allowing attackers to inject a type of malicious software known as \"UEFI Rootkit.\" This specialized strain of malware adeptly conceals itself within SMM or BootLoader, granting malevolent actors surreptitious control over a victim's computer for a prolonged period.\nAmidst ongoing research into UEFI security, researchers have discovered numerous SMM vulnerabilities, enhancing the robustness of UEFI. Remarkably, the emergence of tools like \"efiexplorer\" has significantlystreamlined the reverse engineering process for UEFI firmware.\nYet, contentment with the status quo proves untenable. Many latent UEFI vulnerabilities evade conventional detection techniques, with existing UEFI vulnerability detection tools primarily relying on fuzz testing or assembly instruction matching. Regrettably, no publicly available tool exists that can automatically detect and discover UEFI security vulnerabilities through data flow tracking analysis.\nEfidrill - The First Open-Source IDA Plugin for Data Flow Analysis of UEFI Firmware.\nEfidrill is a tool that enables data flow tracing, taint tracking, automated structure analysis, variable numerical prediction, and automated vulnerability detection for UEFI firmware. It has discovered multiple hitherto unreported vulnerabilities on hardware platforms from eminent vendors such as Asus, Intel, Dell, etc.",
   "Year": "2024",
   "Location": "Asia"

@@ -7,7 +7,7 @@
     "Track: Reverse Engineering"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/Luis-Varona/shadowseek",
   "Description": "This paper presents a novel integration between Ghidra, the NSA's open-source reverse engineering tool, and Large Language Models (LLMs) via a web-based interface. We introduce ShadowSeek, a system that enhances Ghidra's powerful binary analysis capabilities with the reasoning capabilities of modern LLMs. Our system enables users to interactively query, analyze, and understand binary files through natural language, significantly reducing the expertise barrier for complex reverse engineering tasks. We demonstrate how this integration improves binary analysis workflows through automated function explanation, vulnerability detection, and optimization recommendation. ShadowSeek represents a significant step forward in making advanced reverse engineering tools more accessible while preserving their analytical power",
   "Year": "2025",
   "Location": "USA"

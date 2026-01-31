@@ -8,8 +8,8 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
-  "Description": "Gaining physical access was trivial, but now the computer is locked (or off) and time is running out\u2026the \"SmuggleBus\" allows us to take advantage of unencrypted drives to quickly collect local password hashes and implant the backdoor of our choice without modifying any system binaries - all from a bootable USB and in a matter of seconds.",
+  "Github URL": "https://github.com/Abacus-Group-RTO/legion",
+  "Description": "Gaining physical access was trivial, but now the computer is locked (or off) and time is running out…the \"SmuggleBus\" allows us to take advantage of unencrypted drives to quickly collect local password hashes and implant the backdoor of our choice without modifying any system binaries - all from a bootable USB and in a matter of seconds.",
   "Year": "2017",
   "Location": "USA"
 }

@@ -9,7 +9,7 @@
     "Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/aqua-nautilus/trailshark",
   "Description": "TrailShark Capture Utility is a tool designed to integrate AWS CloudTrail logs directly into Wireshark. This integration allows for near-real-time analysis of AWS API calls, providing invaluable insights for debugging, security and research. With TrailShark, you can capture and examine the internal API calls triggered by AWS services, better understand what is \"running under the hood\", consequently shedding light on potential vulnerabilities and security flaws.",
   "Year": "2024",
   "Location": "Europe"

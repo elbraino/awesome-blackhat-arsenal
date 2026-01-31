@@ -9,7 +9,7 @@
     "Smart Grid/Industrial Security"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/tesorrells/RF-Drone-Detection",
   "Description": "The proliferation of consumer drones presents a new frontier in security threats, with radiofrequency (RF) warfare emerging as a potent vector. This paper explores the risks posed by RF manipulation in consumer drones and unveils innovative countermeasures. Leveraging the MT7628 chipset, a cost-effective solution is devised to manipulate RF signals for drone control. This presentation demonstrates the feasibility of generating carriers through I2S pins, enabling Amplitude Shift Keying (ASK) modulation. By integrating frequency hopping techniques, the system achieves enhanced evasion against anti-drone measures. Receiver capabilities are bolstered using USB SDR dongles, ensuring robust communication in dynamic environments. Amplification and PCB enhancements optimize transmission efficiency while complying with regulatory standards. Limitations regarding processing speed and regulatory compliance are acknowledged, emphasizing the need for responsible deployment. Live demonstrations underscore the efficacy of the proposed system, showcasing its adaptability and resilience. Furthermore, avenues for future enhancements, including phase modulation for spread spectrum, are discussed, promising further evolution in drone RF warfare defense.",
   "Year": "2024",
   "Location": "USA"

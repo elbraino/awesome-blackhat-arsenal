@@ -9,7 +9,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/SpecterOps/BloodHound",
   "Description": "Released on-stage at DEF CON 24 last year, BloodHound fundamentally changed the way penetration testers and red teamers approach escalating rights in Active Directory domains. By combining the concepts of derivative local admin and graph theory, coupled with a powerful data ingestion and front-end analysis capability, BloodHound simplified the tedious, repetitive task of escalating rights, saving days, weeks, and sometimes months of manual processing.\n\nIn 2017, the BloodHound attack graph schema, data ingestor, and front-end were overhauled to provide greater speed, easier analysis, and brand new attack paths never discovered before. By adding object control edges to the attack graph, a brand new attack landscape was unveiled, allowing attackers and defenders to identify attacks which rely solely on Active Directory object manipulation. These attack paths require no malware, no pivoting, and can always be executed as long as the attacker can communicate with at least one domain controller. From the defender's perspective, identifying and measuring such attack paths was nigh impossible. Now, defenders can also quickly identify and remediate those same attack paths before an attacker can find and exploit them.",
   "Year": "2017",
   "Location": "USA"

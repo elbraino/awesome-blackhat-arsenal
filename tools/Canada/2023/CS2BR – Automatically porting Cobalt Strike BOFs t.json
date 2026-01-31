@@ -8,7 +8,7 @@
     "Track:"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/NVISOsecurity/cs2br-bof",
   "Description": "Sometimes you're constrained in your choice of tools when emulating threats in red team assessments. When we used Brute Ratel for an assessment, we learned that it doesn't support regular BOFs (beacon object files). As a result, we developed CS2BR: it makes regular BOFs compatible with Brute Ratel. In this lab, we'll show you that and how the tool works!",
   "Year": "2023",
   "Location": "Canada"

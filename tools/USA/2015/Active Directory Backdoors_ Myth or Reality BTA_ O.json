@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-US-15",
-  "Github URL": null,
+  "Github URL": "https://github.com/airbus-seclab/bta",
   "Description": "When it comes to the security of the information system, Active Directory domain controllers are, or should be, at the center of concerns, which are (normally) to ensure compliance with best practices, and during a compromise proved to explore the possibility of cleaning the information system without having to rebuild Active Directory. However, few tools implement this process and several ways exist to backdoor Active Directory. We propose to present some possible backdoors which could be set by an intruder in Active Directory to keep administration rights. For example, how to modify the AdminSDHolder container in order to reapply rights after administrator actions. Moreover, backdoors can be implemented in Active Directory to help an intruder to gain back his privileges. Then, we will present BTA, an audit tool for Active Directory databases, and our methodology for verifying the application of good practices and the absence of malicious changes in these databases.The presentation will be organized as follows:- We begin by describing the stakes around the Active Directory, centerpiece of any information system based on Microsoft technologies.- We will continue by demonstrating some backdoors in order to keep admins rights or to help an intruder to quickly recover admins rights.- We will present BTA and the methodology developed to analysis Active Directory.We conclude with a feedback on real world usage of BTA.More information can be found on the Bitbucket repository https: //bitbucket.org/iwseclabs/bta",
   "Year": "2015",
   "Location": "USA"

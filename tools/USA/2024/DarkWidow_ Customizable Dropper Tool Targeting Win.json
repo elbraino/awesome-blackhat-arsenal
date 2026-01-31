@@ -9,7 +9,7 @@
     "Malware Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/reveng007/darkwidow",
   "Description": "This is a Dropper/Post-Exploitation Tool targeting Windows machine.",
   "Year": "2024",
   "Location": "USA"

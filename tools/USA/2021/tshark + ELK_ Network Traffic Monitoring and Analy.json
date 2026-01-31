@@ -7,7 +7,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/h21lab/tsharkvm",
   "Description": "This project builds virtual machine for network traffic monitoring and analysis. It uses ELK (Elasticsearch, Logstash, Kibana) to process Wireshark decoded output (by using tshark -T ek ndjson output). The virtual appliance is built using vagrant, with pre-installed and pre-configured ELK stack.\n\nhttps://www.h21lab.com/tools/tshark-elasticsearch\nhttps://github.com/H21lab/tsharkVM",
   "Year": "2021",
   "Location": "USA"

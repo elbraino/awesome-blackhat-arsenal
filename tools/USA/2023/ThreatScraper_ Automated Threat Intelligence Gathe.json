@@ -9,7 +9,7 @@
     "Data Forensics/Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/amorath/threatscraper",
   "Description": "The continuous growth of malware threats necessitates efficient and comprehensive tools for tracking malware detection and propagation. VirusTotal serves as a popular platform for aggregating malware information submitted by Anti-Virus (AV) software providers, which can be searched using parameters such as hashes (SHA-1, SHA-256, MD5), file names, and malicious web links. In order to enhance and automate the process of malware intelligence gathering, we introduce ThreatScraper, a Python-based tool that automates free API queries and rescanning tasks on VirusTotal.\nThreatScraper is designed to periodically request reports on specified files and save the results in a local database. It allows users to pull and aggregate malicious file reports from multiple AV vendors over time, providing insights into the adoption of malware detection across providers. Easily implemented from any Windows command line, ThreatScraper can rescan a file, pull a report, and then sleep until the next designated time identified by the user.\nBy leveraging ThreatScraper, developers can efficiently identify potentially malicious files, track when an AV provider has flagged a file as malicious and monitor the categorization of the file. The tool ultimately aids in enhancing threat intelligence gathering and response capabilities for users, developers, and enterprise entities.",
   "Year": "2023",
   "Location": "USA"

@@ -9,7 +9,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/man-group/arctic",
   "Description": "Arctic builds on the open-source MISP platform to enable threat intelligence based correlation of indicators of compromise using multiple sources like internally collected intelligence, intelligence filtered through free and paid feeds, cloud feeds from Guardduty and Route53,etc. and gives a relevance score to each IOC (Indicator of Compromise) which is specific to the organisation.\n\nIt uses MISP to further enrich the IOC and maps it with the MITRE TTPs which can be used to identify the suspected APTs involved in the attack",
   "Year": "2023",
   "Location": "USA"

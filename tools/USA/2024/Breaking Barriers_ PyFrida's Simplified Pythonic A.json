@@ -12,7 +12,7 @@
     "iOS and Mobile Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/hotnops/apeman",
   "Description": "Frida is a widely-used binary instrumentation framework. When using Frida, the typical workflow involves writing Frida scripts in JS and injecting them into the target process using frida-tools or Frida's python bindings. This workflow presents several inconveniences, such as:\n* Inability to debug Frida scripts in real-time.\n* Integration of Frida scripts into projects requires mechanisms like RPC or Socket.\n* In the binary security field, Python is more popular than JS, which many users must familiarize themselves with before starting to write Frida scripts.\n\nTo address these issues, we developed the PyFrida framework, enabling Frida scripts to be written in Python. It works by implementing a virtual machine in JS and dynamically converting Python code into a sequence of instructions to execute on the virtual machine. With PyFrida, users can write and debug Frida scripts in Python and easily integrate them into Python projects.",
   "Year": "2024",
   "Location": "USA"

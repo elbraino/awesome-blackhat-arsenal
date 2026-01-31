@@ -8,7 +8,7 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/pucarasec/zuthaka",
   "Description": "A collaborative free open-source Command & Control development framework that allows developers to concentrate on the core function and goal of their C2.\n\nZuthaka presents a simplified API for fast and clear integration of C2s and provides a centralized management for multiple C2 instances through a unified interface for Red Team operations.",
   "Year": "2021",
   "Location": "USA"

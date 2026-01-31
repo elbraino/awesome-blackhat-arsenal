@@ -8,7 +8,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/rmikehodges/hidensneak",
   "Description": "hideNsneak evolved as a tool to expand evasive penetration testing capabilities. It allows users to rapidly deploy, manage, and quickly take down a distributed cloud attack infrastructure by leveraging features of large Cloud Providers and their content delivery networks. Techniques include domain fronting with multiple providers, distributed scanning, and source of attack obfuscation. Leaning on the reputation of these networks allows traffic to more easily blend in to network traffic and create difficulty in blocking attack infrastructure. Furthermore, the ephemeral nature of the tool itself provides a realistic threat simulation, which also simulates the realistic headache this type of attack causes defenders, when they try to attribute actions to certain sets of hosts.\n\nThe overview of the toolsets features will contain an explanation of the tactics and techniques in order to provide both red teamers and blue teamers alike with more insight into why this works in \"modern\" networks, as well as real world scenarios. Also, this tool was written in the Go programming standard in which each functionality is encapsulated in its own package. This allows for users to use the frameworks individual packages in their own projects as well as add components with relative ease. Finally, information will be provided to blue teamers in an effort to provide knowledge that can be brought back and leveraged to increase security posture.",
   "Year": "2018",
   "Location": "USA"

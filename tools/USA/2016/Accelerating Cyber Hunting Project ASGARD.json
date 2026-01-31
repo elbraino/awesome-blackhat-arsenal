@@ -8,7 +8,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-US-16",
-  "Github URL": "null",
+  "Github URL": "https://github.com/dalonghahaha/Asgard",
   "Description": "Rethinking the cyber security problem as a data-centric problem led Accenture Labs Cyber Security team to use best of breed open source big-data tools and emerging technologies to accelerate detection, response, and hunting. Project ASGARD, utilizing new approaches such as graph databases and analysis, GPUs, and Spark, exploits the connected nature of cyber security data to give cyber analyst more efficient and effective tools to combat evolving cyber threats. ASGARD allows organization to store more data than ever, while still gaining 2-3 orders of magnitude more speed and performance than traditional SIEMS. In this talk you can watch us analyze data real-time, learn more about our cluster and architecture, and see how we've integrated leading big data technologies to outperform expensive appliances with a fraction of the cost. In addition, we will demonstrate how advanced data science can be used to identify threats and accelerate cyber analysis, instead of just adding more noise.",
   "Year": "2016",
   "Location": "USA"

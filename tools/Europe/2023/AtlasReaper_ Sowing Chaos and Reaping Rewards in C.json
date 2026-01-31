@@ -8,7 +8,7 @@
     "Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/werdhaihai/atlasreaper",
   "Description": "AtlasReaper is a .NET command-line tool developed for offensive security purposes, primarily focused on reconnaissance and keyword searching on Confluence and Jira instances. AtlasReaper also provides various features that are helpful for tasks such as credential farming and social engineering.\n\nAtlasReaper was designed to be run from Command and Control (C2) to reduce the network overhead incurred from establishing a SOCKS proxy. The tool leverages Atlassian REST APIs to query metadata and content from the target Confluence and Jira. Read operations include search, listspaces, listpages, listissues, listattachments, and listusers. Any attachments that look interesting can be downloaded. It is also possible to dump all of the data for offline processing.\n\nAtlasReaper extends its functionality with write operations, enabling users to attach files, create deceptive links, and comment on issues within Confluence or Jira. It is also contains functionality to embed images. Embedding 1x1 pixel images hosted on external servers enables stealthy NetNTLMv2 hash harvesting in Active Directory environments. The tool also facilitates targeted user engagement by @ mentioning victims on pages.",
   "Year": "2023",
   "Location": "Europe"

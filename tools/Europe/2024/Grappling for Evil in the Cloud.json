@@ -8,8 +8,8 @@
     "Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
-  "Description": "Cloudgrapple is a purpose-built tool designed for effortless querying of high-fidelity and single-event detections related to well-known threat actors in popular cloud environments such as AWS and Azure. Leveraging the capabilities of cloudgrep in the background\u2014an established tool developed by Cado Security, explicitly designed to do what its name suggests\u2014the tool is crafted with our Tactics, Techniques, and Procedures (TTPs). This integration enables users to query for and gather the latest threat intelligence, making Cloudgrappler a robust asset for any organization keen on assessing potential security incidents and determining the impact of an attack",
+  "Github URL": "https://github.com/HedgeLizards/grappling/",
+  "Description": "Cloudgrapple is a purpose-built tool designed for effortless querying of high-fidelity and single-event detections related to well-known threat actors in popular cloud environments such as AWS and Azure. Leveraging the capabilities of cloudgrep in the background—an established tool developed by Cado Security, explicitly designed to do what its name suggests—the tool is crafted with our Tactics, Techniques, and Procedures (TTPs). This integration enables users to query for and gather the latest threat intelligence, making Cloudgrappler a robust asset for any organization keen on assessing potential security incidents and determining the impact of an attack",
   "Year": "2024",
   "Location": "Europe"
 }

@@ -8,7 +8,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-US-16",
-  "Github URL": null,
+  "Github URL": "https://github.com/gamelinux/passivedns",
   "Description": "Passive DNS (pDNS) provides near real-time detection of cache poisoning and fraudulent changes to domains registered for trademarks, etc by answering the following questions: Where did this DNS Record point to in the past? What domains are hosted on a specific nameserver? What domains resolve into a given network? What subdomains exist below a certain domain name? pDNSego is a set of Maltego Transforms that perform link analysis of pDNS datasets based on a Fully Qualified Domain Name (FQDN), IP Address, Name Server (NS) or Mail eXchange (MX) DNS Record.",
   "Year": "2016",
   "Location": "USA"

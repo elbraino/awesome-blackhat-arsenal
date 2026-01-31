@@ -8,7 +8,7 @@
     "Data Forensics/Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/ayberkhalac/cloudpathsniffer",
   "Description": "CloudPathSniffer is an open-source, straightforward, and extensible Cloud Anomaly Detection Tool explicitly crafted to assist security teams in uncovering hard-to-see risks and undetected attackers within their control plane of cloud environments.\n\nIn the dynamic environment of cloud security, the invisibility of temporary credentials has consistently posed a risk, making identifying and tracing potential malicious activity a challenging endeavor.\n\nUnlike traditional tools, CloudPathSniffer boasts a unique capability that sets it apart: It can effectively track temporary credentials and attack paths made by them. Beyond monitoring, it reveals vulnerabilities concealed within logs and creates a comprehensive attack schema. Utilizing graphics-based visualization, it offers a simplified interpretation of lateral movements within data. By seamlessly integrating these insights into a graph database alongside your credentials, CloudPathSniffer provides an unmatched defense strategy, ensuring every detail is meticulously addressed.",
   "Year": "2023",
   "Location": "Europe"

@@ -8,7 +8,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/Project-Splinter/project-splinter.github.io",
   "Description": "Indicators of Compromise (IoCs) form a core component of a security analyst's decision making process, but there is very little emphasis paid to recognizing their dynamic nature in the overall analysis. Adversaries are dynamic entities that adapt to their environment and change their tactics and techniques with time. Our goal is to bring a scientific approach to cyber threat analysis by utilizing Bayesian inference to reduce uncertainty in decision making. We will present a tool that calculates statistical probabilities for assigning classification labels to campaign or malware families based on observed IoC's. This tool also allows analysts to take into account temporal quantity of the observations to strengthen this statistical inference. To demonstrate the capabilities of the tool we will use the Fidelis Barncat Threat Intelligence dataset. The Barncat dataset represents an acceptable ground truth for the past state of the world, which can be used to informed new observations. We will show how the tool allows to backtest classification models using this dataset and propose security centric decision metrics for identifying the most optimal model.",
   "Year": "2017",
   "Location": "USA"

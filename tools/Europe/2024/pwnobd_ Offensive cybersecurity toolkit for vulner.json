@@ -9,7 +9,7 @@
     "Hardware/Embedded"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/nnubes256/pwnobd",
   "Description": "The research field of vehicle cybersecurity has experienced a significant growth in interest due to the attack surface that the information systems comprising a vehicle provides and the ever-expanding body of regulations that provide special focus on cybersecurity on vehicular systems. Of particular interest is the attack surface exposed by OBD dongles, wireless devices that connect to the vehicle's diagnostic port, whose access to the vehicle's CAN buses could potentially be exploited by adversaries.\n\nFrom an offensive security perspective, while it is possible to operationalize attacks in an ad-hoc manner, the resulting proof-of-concept programs may end constrained to a single vulnerable device model, further complicating scalable testing of the same vulnerability type against multiple devices; thus, extensible software frameworks can help the researcher develop and launch device-agnostic exploits, progressing towards operational implementations of attacks faster and more cost-effectively.\n\nWe reveal pwnobd, a Python-based offensive framework providing researchers with a common toolbox that allows for automation of simple attacks and provides assistance in the development of more complex attacks, deployable through an operator-ready command-line tool. A hardware demonstration platform will be provided on-site on the conference for the interested public to experiment with attacks that can be performed using this tool.",
   "Year": "2024",
   "Location": "Europe"

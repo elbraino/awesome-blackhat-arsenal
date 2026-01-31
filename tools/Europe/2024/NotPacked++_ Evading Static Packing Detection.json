@@ -11,7 +11,7 @@
     "Reverse Engineering"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/packing-box/packer-masking-tool",
   "Description": "NotPacked++ is an adversarial weaponized tool to alter a packed executable to evade static packing detection. It is designed to be used by malware analysts to test the effectiveness of their detection mechanisms and to improve their detection capabilities. It is also useful for red teamers to test the effectiveness of their evasion techniques, and highlight potential weaknesses of a target's security mechanisms.",
   "Year": "2024",
   "Location": "Europe"

@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/fourcorelabs/firedrill",
   "Description": "AttackIQ has released a free Community Edition of it's AttackIQ FireDrill Adversarial Simulation Platform. An open platform, where contributors can create attack scenarios, share and discuss those scenarios in the community and test those scenarios using the Community Edition of our platform. All scenarios are written in python and there is an extensive development community with documentation, videos and other community members to support each other in building scenarios that help validate and test defensive technologies, processes, tools and people against Attacker TTPs. The Community edition gives you full access to the development community and scenarios that have been developed by that community. Useful for both red team/blue team exercises as well as truly being able to test, measure and improve your defensive security controls we're proud to be showcasing the AttackIQ Community Edition at Black Hat this year!",
   "Year": "2018",
   "Location": "USA"

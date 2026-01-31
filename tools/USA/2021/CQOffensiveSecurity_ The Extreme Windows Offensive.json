@@ -8,7 +8,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/hardsoftsecurity/Offensive-Security-Tools",
   "Description": "CQOffensiveSecurity Toolkit enables you to perform advanced Windows Infrastructure Penetration Testing. It guides you through the process of gathering intel about network, workstations and servers. Common technics for privilege escalation, antimalware avoidance and bypass, credential harvesting and lateral movement. Toolkit allows also for decrypting RSA keys and EFS protected files as well as blobs and objects protected by DPAPI and DPAPI-NG. This toolkit is commonly used among CQURE Experts and pentesters on daily basis. Among published presented tools: CQRepacker, CQSecretDumper, CQLsasSecretDumper, CQCredentialHarvester, CQSystemEscalator, CQTcbImpersonate, CQSqlTDEdecrypter and many more. During the Black Hat we would like to announce brand new tools for escalation and lateral movement for PKI and ADFS as well as disabling Azure Information Protection to search through encrypted and protected files at rest. CQOffensiveSecurity is a very practical toolkit for pentesters and RedTeamers.",
   "Year": "2021",
   "Location": "USA"

@@ -8,7 +8,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/DataDog/stratus-red-team",
   "Description": "What attacks are used by threat actors in cloud environments? How to reproduce them easily to ensure that our threat detection mechanisms are working as expected?\n\nStratus Red Team provides a solution to these two questions. With support for AWS, Azure, Google Cloud and Kubernetes, it allows threat detection and cloud security engineering team to reproduce common cloud attacks in a self-contained manner, along with actionable detection insights.",
   "Year": "2024",
   "Location": "USA"

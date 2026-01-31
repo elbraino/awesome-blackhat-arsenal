@@ -10,7 +10,7 @@
     "iOS and Mobile Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/leostera/hooke",
   "Description": "Hooke 2.0 is an upgraded mobile application privacy and security tool that was initially unveiled at BlackHat USA Arsenal in 2022. It has since undergone significant updates, introducing several key enhancements.\n\nOne major enhancement is the advanced dynamic monitoring module. This module builds upon the existing Frida-based monitoring capabilities and introduces two additional monitoring abilities: repackaging monitoring and custom app monitoring. Repackaging monitoring allows for monitoring app behavior on non-rooted devices. AOSP monitoring enables the monitoring of highly protected apps.\n\nAnother significant improvement is the groundbreaking network packet capture feature that enables the extraction and analysis of QUIC/HTTP3 protocol packets. This is a notable advancement as there have been no publicly available solutions for capturing QUIC/HTTP3 packets on mobile devices to date. Leveraging memory scanning techniques and network library characteristics, Hooke 2.0 captures packets for various HTTP protocols on both Android and iOS devices. This expanded functionality provides valuable insights into protocol behavior and security.\n\nFurthermore, Hooke 2.0 presents a real-time analysis system with a unified interface that combines dynamic run-time behaviour monitoring and network packet analysis with contextual app information. This integration empowers users to gain a comprehensive understanding of an app's runtime behavior and operations.",
   "Year": "2024",
   "Location": "USA"

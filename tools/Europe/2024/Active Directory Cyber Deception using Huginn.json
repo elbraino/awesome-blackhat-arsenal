@@ -9,7 +9,7 @@
     "Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/am0nsec/HuginnDeception",
   "Description": "Huginn helps realise strategic adversary deception concepts from the MITRE Engage framework and the European Central Bank's cyber resilience report using novel techniques and an open-source program.\n\nWe demonstrate creation and monitoring of the following decoy assets during this presentation:\n- Certificate Templates (ESC4 & ESC1)\n- Computer Object Take-over via RBCD\n- Decoy Users\n- Decoy Object ACLs\n- Retrieve GMSA Passwords\n\nOur objectives are to:\n- Reduce the security posture requirements for engaging in cyber deception.\n- Balance the intrinsic asymmetry of cyber-attacks by raising high-fidelity alerts around advanced attacker activity.\n- Impose cost by embedding high-value deception artefacts within critical attack paths.",
   "Year": "2024",
   "Location": "Europe"

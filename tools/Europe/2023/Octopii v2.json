@@ -9,7 +9,7 @@
     "Human Factors"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/redhuntlabs/Octopii",
   "Description": "Today, given the number of services that collect Personal Identifiable Information (PII) for purposes such as 'KYC' (Know Your Customer) documents, bureaus keeping records of people, small businesses keeping records of their employees, and so on, PII faces a wide variety of threats. With increasing security breaches, protecting valuable data such as Personal Identifiable Information must be the top priority of all organizations. The first step in accomplishing this is to identify the exposure of such assets.\n\nThis is why we created Octopii, an AI-powered Personally Identifiable Information (PII) scanner that uses Optical Character Recognition (OCR), regular expression lists and Natural Language Processing (NLP) to search public-facing locations for Government ID, addresses, emails etc in images, PDFs and documents.",
   "Year": "2023",
   "Location": "Europe"

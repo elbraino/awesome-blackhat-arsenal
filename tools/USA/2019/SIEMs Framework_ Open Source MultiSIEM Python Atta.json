@@ -8,7 +8,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/ElevenPaths/siemframework",
   "Description": "SIEMs are defensive tools increasingly used in information security, especially in large companies and regulated companies to monitor critical networks and devices. However, from the standpoint of the attacker, the permissions that the SIEMs have on the devices and accounts of a corporate network are very broad. Administrative access to a SIEM can be used to obtain code execution in the server where the SIEM is installed, and, in some cases, also in the \"client\" equipment from which the SIEM collects events, such as Active Directory servers, Databases, and network devices like Firewalls and Routers.\n\nDuring our investigation, we detected many attack vectors that could be used in different SIEMs to compromise them, such as:\n\nObtaining the user accounts and passwords of critical equipment stored in the SIEM (LDAP/AD servers, databases, network devices, generally accounts with administrative permissions)\nDeveloping and installing malicious applications such as a bind shell or a reverse shell to compromise the server where the SIEM is installed, or send malicious applications to compromise the devices from which the SIEM collects the events\nPerforming a brute force attack on the SIEM web interface\nReading arbitrary files from the server where the SIEM is installed\nUsing log events as intelligence source\n\nBased on the results of this research, we developed an open source tool in Python: SIEMs Framework that allows to automate the mentioned attacks, both in commercial and open source SIEMs.",
   "Year": "2019",
   "Location": "USA"

@@ -8,7 +8,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/chenerlich/fcl",
+  "Github URL": "https://github.com/falcosecurity/falco",
   "Description": null,
   "Year": "2023",
   "Location": "Canada"

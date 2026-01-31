@@ -8,7 +8,7 @@
     "Track: Cloud Security"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/aws/aws-cloudtrail-processing-library",
   "Description": "The CloudTrail Log Explorer is a Python-based GUI application designed to simplify the process of discovering, downloading, and managing AWS CloudTrail logs. It provides an intuitive graphical interface built with Tkinter, allowing users to easily authenticate with AWS, assume roles, and transfer logs from S3 buckets.\nFeatures\n\nAWS Authentication: Supports authentication via AWS profiles or direct API keys.\nRole Management: Automatically detects and assumes AWS IAM roles, preventing redundant role assumptions.\nLog Discovery: Scans and identifies CloudTrail logs within specified date ranges.\nLog Transfer: Efficiently downloads CloudTrail logs from S3 buckets using multiprocessing.\nResume Capability: Allows resuming interrupted transfers without rescanning the entire bucket.\nError Logging and Tracking: Comprehensive logging of errors and failed transfers, with detailed reports.\nUser-Friendly GUI: Real-time progress updates, error notifications, and easy access to logs.",
   "Year": "2025",
   "Location": "USA"

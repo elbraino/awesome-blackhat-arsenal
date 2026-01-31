@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/DragoQCC/CrucibleC2",
   "Description": "Crucible is an extensible, multi-user, cross-platform framework designed for post-exploitation, command and control operations, penetration testing, and red teaming.\n\nIt consists of a per-operator client application, a shared teamserver, and supports language-agnostic implants and plugins.\n\nWith this release of Crucible, modern extensibility is achieved through in-memory .NET plugins or gRPC-based plugins, enabling remote communication with external applications regardless of language, allowing extensibility that fits both the operator's skill set and needs.",
   "Year": "2025",
   "Location": "USA"

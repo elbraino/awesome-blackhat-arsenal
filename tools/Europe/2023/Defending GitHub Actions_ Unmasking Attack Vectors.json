@@ -8,7 +8,7 @@
     "Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/cilium/ebpf",
   "Description": "GitHub Actions has gained immense popularity as a powerful tool for software development and release. However, this popularity has also attracted bad actors, In this session, we will delve into the active risks that attackers leverage to abuse and attack GitHub Actions, shedding light on their techniques and exploits.\nIn response, we will show an OSS Runtime Security solution, which introduces the concept of profiling with eBPF the CI\\CD runtime environment, we will demonstrated how it can prevent and alert on malicious behaviour, and create a build profile of the environment",
   "Year": "2023",
   "Location": "Europe"

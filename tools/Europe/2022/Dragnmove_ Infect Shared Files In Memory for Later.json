@@ -8,7 +8,7 @@
     "Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/occamsxor/dragnmove",
   "Description": "People share files with each other every day using different applications like email clients, chat applications, browsers, etc. These channels are commonly used for lateral movement usually in the context of internal phishing. Dragnmove tool provides a different approach to abuse file sharing in order to move laterally in the target environment. Dragnmove can be used to inject payloads into the files that are being sent without touching the files in the file system.\n\nThe tool works on Windows targets and can be executed as Beacon Object File (BOF) or Reflective DLL in order to work with various C2 servers. Dragnmove injects itself into the target processes that the attacker chooses and waits for the user to drag a file into this process or attach a file to it.\n\nWhen a compromised user starts the sharing process, Dragnmove can modify files in memory to inject the attacker's payload into the shared files by hooking the Windows mechanisms used by actions like \"drag and drop\" or \"attach file\". This method provides a better opportunity for the attackers to get their payloads executed in the lateral targets because the files sent will be relevant to the targets' contexts. Since the context and sender are relevant, it is more possible that the target sees this file as trustable and opens it. Dragnmove can also be used in environments where the targets are working in different locations or in isolated networks (like working from home) so the usual lateral movement methods cannot be utilized.",
   "Year": "2022",
   "Location": "Europe"

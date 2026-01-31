@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/polarsource/polar",
   "Description": "When developing exploits for complex platforms, finding function relationships between dynamically compiled binaries and its libraries, and representing them in a Graph Database, we can quickly identify exploitation points. In this presentation, I'll discuss Graphs, Binary Relationships and Vulnerable Functions.",
   "Year": "2018",
   "Location": "USA"

@@ -9,8 +9,8 @@
     "Track: Cloud Security"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
-  "Description": "CloudLens is a powerful, open-source tool designed for Red Teamers, penetration testers, and security professionals seeking deep visibility into AWS cloud workloads. Designed to uncover active services across multiple regions\u2014such as EC2, S3, IAM, CloudTrail, RDS, Lambda, KMS, Config, and GuardDuty\u2014it operates securely with minimal permissions, requiring only read-only AWS keys. Built using Node.js, React, and the AWS SDK for JavaScript, CloudLens aggregates complex workload data into a clear, region-wise dashboard, empowering offensive security teams, enabling them to map cloud attack surfaces\u00a0efficiently.",
+  "Github URL": "https://github.com/one2nc/cloudlens",
+  "Description": "CloudLens is a powerful, open-source tool designed for Red Teamers, penetration testers, and security professionals seeking deep visibility into AWS cloud workloads. Designed to uncover active services across multiple regions—such as EC2, S3, IAM, CloudTrail, RDS, Lambda, KMS, Config, and GuardDuty—it operates securely with minimal permissions, requiring only read-only AWS keys. Built using Node.js, React, and the AWS SDK for JavaScript, CloudLens aggregates complex workload data into a clear, region-wise dashboard, empowering offensive security teams, enabling them to map cloud attack surfaces efficiently.",
   "Year": "2025",
   "Location": "USA"
 }

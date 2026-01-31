@@ -12,7 +12,7 @@
     "Human Factors"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/facegsmproject/facegsm",
   "Description": "Our faces are being scanned every day: to unlock phones, to establish KYC identity, and perhaps to board many flights. Truth be told, with great adoption comes even greater threats lurking. Since the dawn of facial recognition technology, many adversarial techniques to fool facial recognition models have come to their inception: Fast Gradient Sign Method (FGSM), Deepfake, Projected Gradient Descent (PGD), and many more. The bad news is, to exploit facial recognition technology is no walk in the park. One must have both AI proficiency and hacking finesse to actually pull it off flawlessly.\n\nBut not with FaceGSM. As the name implies, FaceGSM utilizes the FGSM approach to create a subtle layer of semi-invincible pixels. When applied to an image of a person's face, this layer will make the model to misidentify the face as someone else.\n\nWhat the name does not imply, however, is that you don't even need to know what an FGSM is to exploit a facial recognition model using FaceGSM framework. With just access to a facial recognition model and the target's face of your choice, FaceGSM will attempt to understand the construction of the model, apply image pre-processing accordingly, and then generate layers of perturbation pixels that could make a facial recognition model to misclassify your face into your target's face.",
   "Year": "2024",
   "Location": "Europe"

@@ -8,7 +8,7 @@
     "Track: Code Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/semgrep/semgrep",
   "Description": "Semgrep is a tool for easily detecting and preventing bugs and anti-patterns in your codebase. It combines the convenience of grep with the correctness of syntactical and semantic search.\n\nSemgrep is fast (scans 100Ks LOC in seconds), supports multiple languages (JavaScript, Python, Golang, Java, C), and is easy to customize, so that users can create high value org-specific or project-specific checks without spending weeks learning a complicated DSL.\n\nSemgrep works by parsing source code into an abstract syntax tree (AST), then allows users to supply patterns that fuzzily match the interesting code patterns. Because it's source code aware, its checks are higher signal than regexes (i.e., it's easy to match function calls, and not match text in comments, multi-line calls, or strings), but because it isn't doing interprocedural dataflow analysis, it doesn't take hours to run and won't make assumptions that result in hundreds of false positives requiring triage.\n\nhttps://github.com/returntocorp/semgrep",
   "Year": "2020",
   "Location": "USA"

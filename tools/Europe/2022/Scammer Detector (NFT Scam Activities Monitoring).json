@@ -9,7 +9,7 @@
     "OSINT - Open Source Intelligence"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/wiringbits/discord-scammer-detector-bot",
   "Description": "We protect NFT users and the community from spam, scam and phishing attacks. In this context, we provide this with 4 main modules. (SpamEye, SpamPolice, ScamNotify, and BroExt)",
   "Year": "2022",
   "Location": "Europe"

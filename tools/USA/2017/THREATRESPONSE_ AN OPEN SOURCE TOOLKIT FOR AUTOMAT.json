@@ -7,7 +7,7 @@
     "Track: Data Forensics and Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/threatresponse/threatresponse_web",
   "Description": "ThreatResponse is an open source toolkit for incident response in Amazon. This set of python install-able modules help container host, key, and lambda function compromises using automated incident plans that follow industry best practices for containment.",
   "Year": "2017",
   "Location": "USA"

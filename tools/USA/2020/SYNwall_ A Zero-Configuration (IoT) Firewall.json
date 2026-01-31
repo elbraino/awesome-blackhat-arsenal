@@ -7,7 +7,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/synwall/synwall",
   "Description": "A lots of words has been spent in the last years about IoT security: but instead of thinking to deploy a new device, let's try to stay on what we already have: we have a TCP/IP stack. And what we don't want to have? Complicated and cumbersome security configurations.\n\nThe aim of SYNwall is to build an easy to configure, no new hardware, low footprint, lightweight and multi-platform security layer on TCP/IP: with a one way OTP authentication, SYNwall can make every device more secure and resilient to the real world networking reconnaissance and attacks.\n\nIf we think at some of the IoT installations (may be directly internet exposed, in difficult environments, with no support infrastructure available), the possibility to have an on-board and integrated way to control access, can make a huge difference in terms of security.\n\nThe device will became virtually unaccessible to anyone who don't have the proper OTP key, blocking all the communications at the very first level of it: the SYN packet. No prior knowledge of who need to access is required at this point, making configuration and deploy a lot easier.",
   "Year": "2020",
   "Location": "USA"

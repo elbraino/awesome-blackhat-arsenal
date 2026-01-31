@@ -9,7 +9,7 @@
     "Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/aliasrobotics/cai",
   "Description": "**Shift left** means conducting security testing earlier in the software and application development phases. In traditional DevOps, the stages typically flow like this: Plan > Code > Build > Test > Deploy > Monitor.\n\nDetecting critical security issues during the development phase is much more cost-effective since fixing vulnerabilities at later stages can be significantly more expensive. One approach to achieving this is through **source code analysis** using AI to detect vulnerabilities early. This includes monitoring whether new vulnerabilities are being introduced in pull requests.\n\nAt Akto, we have developed an open-source tool that can perform all the above in a shift-left manner. I have built this tool in the last one year and want to showcase it's capability.\n\nAkto's source code scanning can detect:\n\n- All the APIs currently defined in the source code\n- All the parameters of those APIs\n- The authentication mechanisms\n\nThis method allows for pinpointing the exact location where a security fix is needed and detecting any new vulnerabilities being added through continuous integration and continuous deployment (CI/CD) processes.\n\nThis is my main project and I will love to present my work to audience at BlackHat.",
   "Year": "2024",
   "Location": "Europe"

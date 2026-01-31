@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/kudelskisecurity/fumblechain",
   "Description": "FumbleChain is a deliberately insecure blockchain designed to raise awareness about blockchain security. Cryptocurrencies and blockchains are still relatively new, and there have been plenty of news stories about people losing money through compromises in various components making up a blockchain ecosystem. FumbleChain hopes to bridge the awareness gap in a fun way, one in which nobody loses money.\n\nFumbleChain allows people to test their skills attacking the chain and store running on top. The FumbleStore is a CTF in the form of a fake e-commerce web application that offers products you can buy using FumbleCoins, which is the ecosystem's cryptocurrency. Purchasing new products requires players to exploit flaws and steal coins from crypto-wallets. Of course, you could mine coins and use the system legitimately, but where's the fun in that?\n\nThe project is written in Python making it easy for anyone to read and modify its source code. It's also modular, making it easy to hack and add new challenges. The entire project is fully dockerized, letting anyone play with FumbleChain in a quick and hassle-free way.",
   "Year": "2019",
   "Location": "USA"

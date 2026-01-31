@@ -8,7 +8,7 @@
     "Track: Hardware/Embedded"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/IOActive/Glitch.IO",
   "Description": "Fault Injection (FI) attacks have been around since the late 90s but, until recently, they remained largely academic and considered not practical in the real-world. However, the popularity of these attacks has been growing for the last 10 years and today it is common to see them, not just in academia, but in security congresses and real-world attacks.\n\nDespite this popularity, hardware hackers still do not have a reliable open-source tool for mounting FI attacks. Open-source tools already available are, either very limited, or they are just PoCs which cannot be easily adapted. Without better options, many hackers have to develop their own tools for fault injection, which requires a lot of time and deviates the effort from the actual target research.\n\nWe present Glitch.IO, a powerful, flexible and cheap glitcher that aims to be a standard in the hardware hackers toolbox.\nGlitch.IO is not just a hardware able to inject glitches, it is also a software framework designed to facilitate the coding of FI test applications. It includes a library FI attacks - called \"recipes\" - to facilitate the reproduction of publicly known attacks.\n\nDuring the presentation we will introduce the tool and demonstrate how to use a \"recipe\" to break the JTAG protection of a microcontroller or to characterise and bypass the Raspberry Pico 2 FI countermeasures.",
   "Year": "2025",
   "Location": "USA"

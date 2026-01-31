@@ -7,7 +7,7 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/dsnezhkov/sshorty",
   "Description": "SSHoRTY is a Linux/MacOS implant attempting to alleviate the challenges Red Teams face at establishing initial foothold on non-Windows machines and initiating clean egress communications to the team C2 servers across a stack of defensive monitoring. Native SSH tunnels with automated port forwards, convenient SOCKS proxy capabilities built right into a reverse shell. All that wrapped in a HTTP/S proxy-aware fully encrypted websocket connection to evade even the most tight policies. Built on demand for every deployment, with a choice of binary-embedded shared keys or out-of-band channels PKI authentication, SSHoRTy is also very progressive. It can even be injected as a shared library into a running process to hide its presence. It assumes nothing, and just gives the Red a consistent, reliable and flexible tunnel into the network.",
   "Year": "2019",
   "Location": "USA"
