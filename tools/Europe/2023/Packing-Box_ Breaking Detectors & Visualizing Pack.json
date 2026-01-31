@@ -12,7 +12,7 @@
     "Reverse Engineering"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/packing-box",
   "Description": "This Docker image is an experimental toolkit gathering analyzers, detectors, packers, tools and machine learning mechanics for making datasets of packed executables and training machine learning models for the static detection of packing. It aims to support PE, ELF and Mach-O executables and to study the best static features that can be used in learning-based static detectors. Furthermore, it currently additional functionalities to focus on supervised and unsupervised learning but also on adversarial learning for breaking static detectors and detection models.\n\nhttps://raw.githubusercontent.com/packing-box/docker-packing-box/main/docs/material/bheu23-packingbox.pdf",
   "Year": "2023",
   "Location": "Europe"

@@ -8,7 +8,7 @@
     "ML & Data Science"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/aws-samples/gen-ai-cve-patching",
   "Description": "Software security is constantly challenged by the difficulty of upgrading third party libraries. Codebases often lag several major versions behind, and the value of upgrading is frequently debated. A more practical approach can be backporting vulnerability fixes to the specific versions in use. Manually backporting security patches is a time-consuming, error-prone, and resource-intensive task for security and development teams. Our method utilizes LLM capabilities in combination with other techniques to efficiently streamline this process at scale, efficiently mitigating vulnerabilities across hundreds of packages by backporting thousands of fixes. Instead of requiring researchers to manually locate, isolate, and apply patches, our AI-powered system automates much of the workflow: understanding the patch, identifying the relevant code in the Git repository, applying the necessary changes, running tests, and iterating until the CVE is successfully patched and its corresponding unit tests pass. While LLMs offer a powerful new capability, they also present challenges. This talk will explore what works, what doesn't, and the advantages and disadvantages of using AI models for vulnerability backporting. We'll share real-world successes, discuss unexpected AI errors, and explain how we addressed gaps in test coverage. By collaborating with cybersecurity researchers, our AI-driven approach not only accelerates security patching but also ensures that critical fixes are applied without introducing breaking changes.",
   "Year": "2025",
   "Location": "USA"

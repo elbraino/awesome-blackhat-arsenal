@@ -7,7 +7,7 @@
     "Track: Data Forensics and Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/wat4r/dpapitk",
   "Description": "CQMasterKeyAD (CQTools) allows decryption ofDPAPI protected data by leveraging usage of the private key stored as a LSA Secret on a domain controller (we have called it a 'backup key,' and it is a key corresponding to the backup public key stored in the domain user's profile). The backup key allows decrypting literally all of the domain user's secrets (passwords / private keys / information stored by the browser). In other words, someone who has the backup key is able to take over all of the identities and their secrets within the whole enterprise. Tool represents CQURE's breakthrough DPAPI discovery.\n\nCQDPAPINGPFXDecrypter (CQTools) leverages DPAPI-NG used in the SID-protected PFX files and when with the previous tool CQURE Team is able to get access to user's secrets, here it is a bit different! Tool allows to decrypt SID-protected PFX files even without access to user's password but just by generating the SID and user's token.\n\nCQDPAPIKeePassDBDecryptor (CQTools) allows to decrypt Keepass database by using DPAPI data that is possessed from the domain. It provides access to all users' Keepass databases and it uses DPAPI data levereaged by CQMasterKeyAD. Tool uses decrypted Master Key of the user in order to decrypt key that encrypts Keepass database.\n\nCQURE tool affects Windows 7, Windows 8, Windows 8.1, Windows 10 and related Windows Server versions. Tool represents CQURE's breakthrough DPAPI discovery.",
   "Year": "2017",
   "Location": "USA"

@@ -8,7 +8,7 @@
     "Code Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/microsoft/CASPR",
   "Description": "CASPR is known for addressing the Supply Chain Attacks by Left Shifting the code signing process.\nCASPR provides simple scripts and services architecture to ensure all code changes in an organisation are signed by trusted keys. What matters is where these keys are residing. Storing signing keys on a user's device has a certain degree of risk when the device is compromised.\n\nIn the latest release of CASPR, we are enabling developers to sign code commits from the keys stored on the phone.\n\nCASPR makes the auditing and accountability of code-changes easier and cryptographically verifiable, leaving no scope for malicious actors to sneak in untrusted code at any point in the Software Development Life Cycle.",
   "Year": "2023",
   "Location": "USA"

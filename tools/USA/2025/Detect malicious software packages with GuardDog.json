@@ -8,7 +8,7 @@
     "Track: Malware"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/DataDog/guarddog",
   "Description": "GuardDog is a project to identify malware in npm and PyPI packages. It works by scanning packages source code with Semgrep, looking for known-malicious patterns, and by analyzing package metadata through a heuristics engine.",
   "Year": "2025",
   "Location": "USA"

@@ -9,7 +9,7 @@
     "Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/tenable/cnappgoat",
   "Description": "CNAPPgoat is a CLI tool designed to deploy vulnerable-by-design cloud infrastructure.\n\nThe tool is designed to modularly provision intentionally vulnerable components in cloud environments with simple commands: launch a container with a crypto-miner installed, spawn a machine with a vulnerable image, create a public IAM role, and many more scenarios.\n\nThese capabilities empower defenders to test their protective strategies, tools, and procedures, and for offensive professionals to refine their skills and tooling. Instead of trusting their systems and procedures to prevent risk, they can manufacture risk in a controlled environment to verify that they actually do.\n\n\nCNAPPgoat supports modular deployment of various vulnerable scenarios and is a multi-cloud tool. CNAPPgoat is built on Pulumi and supports multiple programming languages. It operates as a CLI tool, requiring no specific IaC expertise, enabling a wide range of professionals to deploy and monitor environments.\n\nCNAPPgoat helps:\n* Security professionals create sandboxes to test their teams, procedures, and protocols\n* Pentesters use it to provision a \"shooting range\" to test their skills at exploiting the scenarios and developing relevant capabilities\n* Security teams benchmark CNAPP solutions against known environments to prove their ability to deliver what they promise\n* Instructors create vulnerable environments for hands-on workshops or chalk talks\n* Educators create learning environments where cloud infrastructure risks can be explored, understood - and avoided",
   "Year": "2023",
   "Location": "Europe"

@@ -8,7 +8,7 @@
     "Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/basecamp/snapback_cache",
   "Description": "Web applications with weak or default passwords are a common easy win for penetration testers. Frequently, network appliances expose a web application for device management that IT staff are not aware of, and therefore never lock down. The only problem for penetration testers is the time it takes to sift through hundreds or even thousands of web interfaces to find ones with weak credentials. This process is usually performed by first taking screenshots of each web service, and then manually searching for the default credentials for each one and manually attempting each credential pair. To greatly speed up the process, Snapback was designed to automatically fingerprint and brute force passwords while taking each screenshot. All of the fingerprinting and brute forcing code is modular, allowing easy extension for newly identified services.",
   "Year": "2024",
   "Location": "USA"

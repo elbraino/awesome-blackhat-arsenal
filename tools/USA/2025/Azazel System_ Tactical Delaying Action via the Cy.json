@@ -7,7 +7,7 @@
     "Track: Network"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/01rabbit/azazel-zero",
   "Description": "Azazel System is a portable cybersecurity gateway designed to implement tactical delaying actions by leveraging cyber-scapegoat deception. Unlike traditional honeypots that passively observe attacks or decoy servers that mislead adversaries, Azazel actively absorbs, controls, and delays attacks, providing defenders with critical response time.\n\nBuilt on a Raspberry Pi 5 (8GB) hybrid architecture, Azazel System integrates:\n\nReal-time intrusion monitoring (Suricata)\nNetwork delay and redirection mechanisms (tc, iptables)\nDeception techniques using OpenCanary\nAutomated log forwarding and adversary classification (Fluent Bit, MITRE ATT&CK)\nAzazel System is designed for low-cost, high-performance cyber defense, making it highly adaptable for deployment in public Wi-Fi, untrusted network infrastructures, or high-risk security environments. Inspired by military delaying tactics, it manipulates attacker behavior, disrupting their operations while preserving valuable response time for defenders.",
   "Year": "2025",
   "Location": "USA"

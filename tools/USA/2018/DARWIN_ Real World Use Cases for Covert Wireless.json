@@ -8,7 +8,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/apple/darwin-xnu",
   "Description": "DARWIN is a result of an evolution of our covert channel research, where we considered use case of covert channel to facilitate an unmanaged chat in the local radio periphery. DARWIN can be divided into three parts viz., 1. Scripts for covert traffic 2. Mechanism to consume and push the data on terminal (presently we are considering terminal for input and output of the chat messages) 3. Integration (to consume the input from terminal and fit it into the requisite location in IEEE 802.11/IEEE 802.15.4 data link layer frame to ship it over the air and vice versa).",
   "Year": "2018",
   "Location": "USA"

@@ -9,7 +9,7 @@
     "Human Factors"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/vizlib",
   "Description": "Our telephonic phishing simulation tool is a cutting-edge, web-based platform designed to empower cybersecurity teams to create, manage, and execute complex telephonic phishing campaigns without requiring coding skills. This tool uniquely combines customizable Interactive Voice Response (IVR) systems with a collaborative, real-time operational environment, enabling the rapid deployment of simulated phishing attacks to test and enhance organizational defenses. By providing a realistic simulation of various telephonic phishing techniques, our tool assists in identifying vulnerabilities, refining response strategies, and ultimately strengthening the cybersecurity posture against one of the most challenging vectors for security breaches.",
   "Year": "2024",
   "Location": "USA"

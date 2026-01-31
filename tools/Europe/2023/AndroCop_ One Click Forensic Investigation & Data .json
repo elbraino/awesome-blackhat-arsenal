@@ -11,7 +11,7 @@
     "Data Forensics/Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/scorelab/ANDROPHSY",
   "Description": "AndroCop is a powerful and streamlined tool for in-depth forensic analysis and data extraction from Android devices, delivering rapid insights and efficient data export. The application, written in Java, streamlines the process of forensic investigation and data retrieval, eliminating the need for external utilities.\n\nWith a single click, AndroCop aggregates and exports a diverse array of data, encompassing call records, text messages, contacts, application usage records, device information, image captures, and screenshots. The tool enriches forensic investigation by facilitating the identification of potentially harmful Android applications, deciphering app usage patterns, extracting valuable call history insights, and revealing visited locations.\n\nMoreover, AndroCop helps users to export forensic findings and data in multiple formats such as PDFs, XLSX spreadsheets, and CSV files. All the gathered information, along with images and other related data, will be consolidated into a singular ZIP file, streamlining the process of smooth data transmission. The gathered content is placed in the AndroCop directory within the internal storage, prepared for effortless transfer whenever required.\n\nAndroCop is also designed to be user-friendly, with a simple and intuitive interface that makes it easy to use for both novice and experienced users. It helps users quickly extract and analyze data from Android devices, making it an important addition to any forensic investigator's toolkit.",
   "Year": "2023",
   "Location": "Europe"

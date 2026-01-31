@@ -7,7 +7,7 @@
     "Track: Human Factors"
   ],
   "Event": "BH-US-13",
-  "Github URL": null,
+  "Github URL": "https://github.com/opensecurityresearch/fsflow",
   "Description": "FSFlow is a social engineering telemarketer-style call flow application. A call flow guides the social engineer during the call to their target, providing step by step talking points, quick logging of target responses, and an easy way to track pieces of information gained during the call. XML-Based call flows allow anyone to create the a flow and share it with others so they can reproduce the attack.",
   "Year": "2013",
   "Location": "USA"

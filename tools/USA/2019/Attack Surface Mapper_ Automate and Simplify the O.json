@@ -8,7 +8,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/superhedgy/attacksurfacemapper",
   "Description": "Reconnaissance is an integral part of the testing process. Successfully scanning and footprinting the attack surface can assist Red Teamers in crafting precise attacks, but can also help defenders identify weak spots.\n\nAttack Surface Mapper aims to automates and simplify the OSINT process. It does this by taking a target domain as input, then analysing it using passive OSINT techniques and (optional) active reconnaissance methods. It expands the attack surface automatically with the aim to provide actual useful intelligence for an engagement.\n\nThis means that you can plug in a target domain, make a cup of tea and come back later to collect:\n\nEmail\nUsernames\nBreached Passwords\nPhone Numbers\nLinked IPs\nTarget subdomains\nWebsite Maps\nSocial Media Presences\nOpen Ports\n\nThis is a list of techniques that Attack Surface Mapper uses:\n\n[+] Reconnaissance:\n\nFind IPs from ASN\nFind Subdomains\nBruteForce Subdomains\nPort Scanning\nHostname Discovery\nPassive & Active DNS Record capturing\nWHOIS records\nTake screenshots of web portals and remote services\n\n[+] Intel Extraction:\n\nContent Discovery (Phone Number, Addresses and Vacancy Postings)\nScrap LinkedIn Employee Names & Email addresses\nCheck Public Breaches\nFind AWS buckets\nInteresting Files (e.g PDF and XML)\nInteresting Strings (sensitive data such us API keys, AWS secret keys and CreditCard numbers).\n\n[+] Plugins:\n\nSupport for Shodan API\nSupport for dnsdumpster [Generate a DNS map]",
   "Year": "2019",
   "Location": "USA"

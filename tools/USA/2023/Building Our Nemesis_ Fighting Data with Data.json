@@ -10,7 +10,7 @@
     "Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/SpecterOps/Nemesis",
   "Description": "The offensive industry is about exploring what's possible. Part of this is observing and taking lessons from other disciplines that have already solved a myriad of related challenges, from proper software engineering practices to using graph theory for offensive problems. But despite various leaps forward over the last several years, the offensive post-exploitation community has yet to fully embrace data analysis and enrichment pipelines beyond basic log aggregation and searching. If offensive tools were structured for automated processing instead of solely human consumption, we could unify post-ex data to exploit the known (and unknown) relationships within the data our offensive tools emit.\n\nImagine a system that could ingest data from any C2 framework or post-ex tool, and could not just automate common operator tasks like binary analysis for known vulnerabilities and hash extraction and cracking of encrypted documents, but could perform complex offline analysis like host privilege escalation. If we could unify all post-exploitation data from offensive engagements we could improve operator workflows, provide tradecraft assistance, facilitate automation of onerous tasks, and uncover new data-driven research opportunities. A year ago, our team embarked on the development of just such a system, and we are excited to introduce the result of our effort: Nemesis.",
   "Year": "2023",
   "Location": "USA"

@@ -9,7 +9,7 @@
     "iOS and Mobile Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/dassecurity-hatlab/bluerepli-plus",
   "Description": "Every Android phone loves Bluetooth, a short-range wireless communication technology. We can find a large number of Bluetooth devices in any public place. Many of their security issues have been exposed before, such as BlueBorne, KNOB, and BadBluetooth. Today, due to the security risks in AOSP (Android Open Source Project) and the negligence of some well-known mobile phone manufacturers, we designed a new attack idea and dug a new 0day BlueRepli (Bluetooth Replicant). At the same time, we have implemented the relevant utility tool on the customized universal hardware platform and called it BlueRepli Plus.\n\nWith BlueRepli Plus users can scan the surrounding Android phones via Bluetooth and attack any Android phones found. If the target Android phone has a BlueRepli vulnerability, the user can obtain the phone's address book, SMS message, or send a fake text message without the target feeling; if the target Android phone is not affected by the BlueRepli vulnerability, the tool allows the user to disguise as a well-known Application name or other very confusing names, to deceive the target, obtain permissions, and finally achieve the same attack effect.",
   "Year": "2020",
   "Location": "USA"

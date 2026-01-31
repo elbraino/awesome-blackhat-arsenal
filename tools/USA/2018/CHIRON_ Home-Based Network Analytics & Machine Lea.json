@@ -8,7 +8,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/aatlasis/chiron",
   "Description": "CHIRON is a home analytics based on ELK stack combined with Machine Learning threat detection framework AKTAION. CHIRON parses and displays data from P0f, Nmap, and BRO IDS. CHIRON is designed for home use and will give great visibility into home internet devices (IOT, Computers, Cellphones, Tablets, etc).\n\nCHIRON is integrated with AKTAION which detects exploit delivery ransomware/phishing. Aktaion will run every 4 hours against bro logs and it has a benign training data set that it compares against environment data set, once AKTAION finishes it produces files with exploit microbehaviors that can be seen in a visualizations by going into the visualization menu and selecting them.",
   "Year": "2018",
   "Location": "USA"

@@ -8,7 +8,7 @@
     "Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/fkasler/cuddlephish",
   "Description": "With the increased adoption of multi-factor authentication, traditional credential harvesting attacks are quickly losing effectiveness. Instead, redteamers have shifted focus away from credential harvesting and are now focussing on session hijacking attacks. Popular redteaming tools like Evilginx2 use transparent proxies to collect both credential AND session cookies from phishing targets. But what if the target service uses more advanced authentication flows like Oauth or SAML? What about apps that use JavaScript to directly thwart MitM attacks? Or even worse, services that don't grant authorization through session cookies at all? Our team has seen many instances of MitM protections like these, and in response, we are raising the bar for session hijacking tradecraft. Instead of using a transparent proxy, our solution leverages browser automation to force target users to log us into services for them. We don't just get to view the traffic. We get full control of an authenticated browser tab. Our solution, CuddlePhish, allows operators to bypass MFA even when MitM protections are in place, target multiple users simultaneously, key log users' credentials, trigger arbitrary javascript on victims' browsers to either redirect them or deliver payloads, and hijack not just session cookies, but authenticated browser tabs themselves. We have successfully used this attack against extremely difficult portals like Gmail and Lastpass.",
   "Year": "2023",
   "Location": "USA"

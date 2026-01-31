@@ -8,7 +8,7 @@
     "Data Forensics and Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/ramxtha/defascan",
   "Description": "Web server defacement is also a major problem especially for government sites. Therefore, this project intends to develop a web server defacement detection tool named DefaScan. This tool, DefaScan will detect a defaced website and notify about it.",
   "Year": "2022",
   "Location": "Europe"

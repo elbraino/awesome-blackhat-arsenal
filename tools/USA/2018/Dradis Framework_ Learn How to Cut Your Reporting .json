@@ -7,7 +7,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/dradis/dradis-ce",
   "Description": "Dradis is an extensible, cross-platform, open source collaboration framework for corporate and consulting teams. It can import from over 19 popular tools, including Nessus, Qualys, Burp and AppScan. Started in 2007 (yup, we've been helping 1000s of InfoSec pros for 11 years), Dradis Framework has been growing ever since. Dradis is the best tool to combine the output of different scanners, add your manual findings and evidence and generate a report with one click.\n\nCome see the latest Dradis release in action. It's loaded with updates including better communication and notifications, new tool connectors, additional REST API coverage, cleaner and faster UI and much more. Find out why Dradis is being downloaded over 400 times every week and is loved by students preparing different certifications and experienced professionals alike. Be sure to check it out before we run out of our popular stickers! Btw, did you know Dradis is the only security tool with its own jingle? You've got to see this.",
   "Year": "2018",
   "Location": "USA"

@@ -7,7 +7,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/rew-sploit/rew-sploit_docs",
   "Description": "Metasploit and Cobalt Strike are wildly used tool for red-teams, pen-testers and sometimes malicious actors. They deliver a lot of ready-to-use exploits facilitating work of the attacker. But who thinks about the poor blue-team members? They are left alone. It looks automation is for attackers only!\nBut now, there is a hope: REW-sploit is a new tool with the aim to help defenders in analyzing Metasploit (and in some form Cobalt Strike) based attacks. Leveraging some well know frameworks it can emulate payloads, extracts crypto keys and correlate PCAP dumps to get extra info about what is going on. Automation is now for defenders too!",
   "Year": "2021",
   "Location": "USA"

@@ -5,8 +5,8 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-US-14",
-  "Github URL": null,
-  "Description": "The stream of malicious software artifacts (malware) discovered daily by computer security professionals is a vital signal for threat intelligence, as malware bears telling clues about who active adversaries are, what their goals are, and how we can stop them.  Unfortunately, while security operations centers collect huge volumes of malware daily, this \u00e2\u0080\u009cmalware signal\u00e2\u0080\u009d goes underutilized as a source of defensive intelligence, because organizations lack the right tools to make sense of malware at scale.",
+  "Github URL": "https://github.com/Evertras/cynomys",
+  "Description": "The stream of malicious software artifacts (malware) discovered daily by computer security professionals is a vital signal for threat intelligence, as malware bears telling clues about who active adversaries are, what their goals are, and how we can stop them.  Unfortunately, while security operations centers collect huge volumes of malware daily, this âmalware signalâ goes underutilized as a source of defensive intelligence, because organizations lack the right tools to make sense of malware at scale.",
   "Year": "2014",
   "Location": "USA"
 }

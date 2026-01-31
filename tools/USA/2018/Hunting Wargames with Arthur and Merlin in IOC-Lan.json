@@ -7,7 +7,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/ZIB-IOL/merlin-arthur-classifiers",
   "Description": "APT reports and IOC updates are flowing in, piling up in your inbox. You forward them to your IR team, or curate and compile a digest if you are lucky enough to have a budget for a dedicated threat intel team. Everyone talks about tracking bad guys and creating threat intel, but - how many organizations are equipped to consume threat intel today? Everyone is pitching new IOCs but is how many are really catching?\n\nThe real question is - if you got all the answers to the APT riddle right now, would you be able to scope and respond effectively?\nDo you have the tools and process in place, and trained your people to be able to leverage threat intel the moment it becomes available, and how can you know for sure that you are prepared and it will all work at the moment of truth?\nAnd how do you verify that your queries, rules and IOC scans would actually find anything?\n\nThis presentation will release a new automated system for testing the IOC consumption capability of an enterprise. Borrowing a page or two from modern software development and computer science theory, this system is built in the model of a prover (Merlin) and a verifier (Arthur).\n\nThe presentation will include a live demo of the system on a real environment. Finally, the code to implement this process will be open sourced on Github, so that the community can use it, expand on the initial features and contribute their improvements.",
   "Year": "2018",
   "Location": "USA"

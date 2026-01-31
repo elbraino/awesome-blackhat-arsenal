@@ -8,8 +8,8 @@
     "Internet of Things"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
-  "Description": "We believe that cyber security should not only cover the Internet space but also the RF (radio frequency) space.\nIn the radio space, interception, decryption, tampering, jamming, and spoofing are actively practiced against hostile countries.\u3000For example, the Russian \u041a\u0440\u0430\u0441\u0443\u0445\u0430-4 is a well-known electronic warfare weapon.\nIn fact, it has a longer history than the Internet, and there is much to learn from it.\nHowever, there are not so many RF training environments that can be easily used.",
+  "Github URL": "https://github.com/zeetwii/RFRE",
+  "Description": "We believe that cyber security should not only cover the Internet space but also the RF (radio frequency) space.\nIn the radio space, interception, decryption, tampering, jamming, and spoofing are actively practiced against hostile countries.　For example, the Russian Красуха-4 is a well-known electronic warfare weapon.\nIn fact, it has a longer history than the Internet, and there is much to learn from it.\nHowever, there are not so many RF training environments that can be easily used.",
   "Year": "2022",
   "Location": "USA"
 }

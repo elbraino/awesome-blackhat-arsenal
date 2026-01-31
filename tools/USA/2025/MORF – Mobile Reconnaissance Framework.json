@@ -9,7 +9,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/amrudesh1/MORF",
   "Description": "MORF is a versatile, lightweight, and platform-independent offensive mobile security tool that aids security professionals and developers in detecting sensitive information within mobile applications. Often referred to as a \"Swiss army knife\" for mobile app security, MORF utilizes heuristics-based methods to quickly discover keys, secrets, and other crucial data. Its extensible plugin framework accommodates custom rules and integrations, making it adaptable to specific projects or organizational needs for both Android and iOS environments.",
   "Year": "2025",
   "Location": "USA"

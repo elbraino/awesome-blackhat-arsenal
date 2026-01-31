@@ -10,7 +10,7 @@
     "Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/secureworks/whiskeysamlandfriends",
   "Description": "Solorigate was one of the most significant cybersecurity attacks we have ever faced. One tactic used during the attack was to extract a token signing certificate from the on-prem Active Directory Federation Services (ADFS) server. With the certificate, adversaries were able to impersonate any user of the target organization and exfiltrate information. The technique used to extract the certificate required access to the target server.\n\nSecureworks is constantly conducting primary research to find new vulnerabilities and techniques the adversaries may exploit. Based on this research, we are also conducting applied research to build proofs-of-concept and tools to demonstrate and automate the exploitations.\n\nIn this talk, we will introduce a new technique that allows extracting the signing certificate remotely without logging in on the target server. We'll cover the conceptual design of the new technique and walk through how it was developed and we will introduce/demonstrate three tools written in Python, which allows performing the whole attack remotely and automatically with a small input data set and the weaponization of the technique.",
   "Year": "2022",
   "Location": "USA"

@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-US-15",
-  "Github URL": null,
+  "Github URL": "https://github.com/chuckfw/owaspbwa",
   "Description": "The Open Web Application Security Project (OWASP) Broken Web Applications project (www.owaspbwa.org) provides a free and open source virtual machine loaded with web applications containing security vulnerabilities. This session will showcase the project VM and exhibit how it can be used for training, testing, and experimentation by people in a variety of roles.Demonstrations will cover how the project can be used by penetration testers who discover and exploit web application vulnerabilities, by developers and others who prevent and defend against web application attacks, and by individuals who respond to web application incidents.  New features and applications in the recently released version 1.2 of the VM will also be highlighted.",
   "Year": "2015",
   "Location": "USA"

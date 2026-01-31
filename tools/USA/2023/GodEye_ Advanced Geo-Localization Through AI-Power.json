@@ -10,7 +10,7 @@
     "Track: OSINT - Open Source Intelligence"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/zixun/godeye",
   "Description": "God Eye is an innovative AI-powered geo-localization tool that can estimate a photograph's location without the need for EXIF data extraction. God Eye aims to improve the accuracy of current geolocation estimation techniques by combining cutting-edge models and techniques. The tool has a straightforward web-based interface that allows users to upload images and receive location estimates automatically. God Eye constantly improves its accuracy and expands its capabilities by comparing and training with open street view data and other crawled data sources. God Eye's primary applications are in open-source intelligence (OSINT) and cybersecurity, where it aids forensic investigations by identifying image source and location. God Eye, with its robust technology and user-friendly design, is poised to become an indispensable tool for professionals in a variety of fields who require precise and dependable image-based geolocation.",
   "Year": "2023",
   "Location": "USA"

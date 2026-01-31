@@ -7,7 +7,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-US-15",
-  "Github URL": null,
+  "Github URL": "https://github.com/pipe01/wireedit",
   "Description": "Text editors give us means to manipulate text documents without knowing the character encoding schemes and formatting mechanisms. Vector graphics editors allow us to edit vector based pictures without understanding the underlying vector math.We love Wireshark. It does a fantastic job capturing, decoding and analyzing network packets. But what if you want to edit them?WireEdit is a WYSIWYG editor for network packets. It allows editing network packets at any stack layer without knowing anything about their syntax and encoding rules.",
   "Year": "2015",
   "Location": "USA"

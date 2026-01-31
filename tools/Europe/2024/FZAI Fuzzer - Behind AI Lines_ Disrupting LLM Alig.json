@@ -9,8 +9,8 @@
     "Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
-  "Description": "Who would have thought that asking LLMs to build bombs could enhance their security? Hold that thought. As these models become integral to our everyday digital tools\u2014resembling a new operating system\u2014they lack many of the security features we've come to expect. But here's where we turn the tables: understanding and disrupting their core alignments.\n\nOur approach uses our deep experience as vulnerability researchers and applies zero-day research strategies to Generative AI. We've developed a systematic method to break into all the most updated LLM models and are excited to share our new open-source fuzzing infrastructure. This tool doesn't just jailbreak LLMs efficiently\u2014it also helps us create detection-based solid solutions that improve LLM security.",
+  "Github URL": "https://github.com/cyberark/FuzzyAI",
+  "Description": "Who would have thought that asking LLMs to build bombs could enhance their security? Hold that thought. As these models become integral to our everyday digital tools—resembling a new operating system—they lack many of the security features we've come to expect. But here's where we turn the tables: understanding and disrupting their core alignments.\n\nOur approach uses our deep experience as vulnerability researchers and applies zero-day research strategies to Generative AI. We've developed a systematic method to break into all the most updated LLM models and are excited to share our new open-source fuzzing infrastructure. This tool doesn't just jailbreak LLMs efficiently—it also helps us create detection-based solid solutions that improve LLM security.",
   "Year": "2024",
   "Location": "Europe"
 }

@@ -7,8 +7,8 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
-  "Description": "The ultimate aim of any security exercise (offensive or defensive) is to make the organization more resilient and adaptive towards modern adversaries. RedHunt OS (Virtual Machine) aims to provide defenders a platform containing the toolset to emulate adversaries and on the other hand arm them with advanced logging and monitoring setup to actively hunt such adversaries. The project aims to provide a one stop shop which defenders can quickly spin up and practice blue team exercises in the presence as well as absence of an active attacker. Similarly, red team can utilize the platform to identify and understand the footprints they leave behind during a red team exercise. Both the teams can utilize the setup to become better at what they do ultimately leading to better security.\n\nSource Code: https://github.com/redhuntlabs/RedHunt-OS/\ufeff",
+  "Github URL": "https://github.com/redhuntlabs/redhunt-os",
+  "Description": "The ultimate aim of any security exercise (offensive or defensive) is to make the organization more resilient and adaptive towards modern adversaries. RedHunt OS (Virtual Machine) aims to provide defenders a platform containing the toolset to emulate adversaries and on the other hand arm them with advanced logging and monitoring setup to actively hunt such adversaries. The project aims to provide a one stop shop which defenders can quickly spin up and practice blue team exercises in the presence as well as absence of an active attacker. Similarly, red team can utilize the platform to identify and understand the footprints they leave behind during a red team exercise. Both the teams can utilize the setup to become better at what they do ultimately leading to better security.\n\nSource Code: https://github.com/redhuntlabs/RedHunt-OS/﻿",
   "Year": "2018",
   "Location": "USA"
 }

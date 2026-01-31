@@ -9,7 +9,7 @@
     "Track: Reverse Engineering"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/Axinom/drm-fairplay-integration-sample",
   "Description": "Apple has introduced Fairplay DRM into App Store apps since 2013. For a long time before, a jailbroken IOS device is necessary for decrypting DRM protected app, which brings many problems for security researchers and malware analysts. And Apple's property DRM implementation and other components are highly protected with LLVM-based obfuscation, the lack of review and research may also leaves the vulnerability lasting. With the release of highly iOS-similar Apple Silicon device, we are able to explore more secrets of hardware and software on Apple platforms. My work will cover on three parts: firstly, how Fairplay DRM works and how to make a DRM decryption system on M1 Mac without breaking the system; secondly, possible attack surface of FairplayIOKit; and lastly, what methods Apple uses to obfuscate their property software and attack the weakness.",
   "Year": "2021",
   "Location": "USA"

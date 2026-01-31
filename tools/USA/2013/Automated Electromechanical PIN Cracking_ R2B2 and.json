@@ -7,7 +7,7 @@
     "Track: Android, iOS and Mobile Hacking"
   ],
   "Event": "BH-US-13",
-  "Github URL": null,
+  "Github URL": "https://github.com/iSECPartners/R2B2",
   "Description": "Password and PIN systems are often encountered on mobile devices.  A software approach to cracking these systems is often the simplest, but in some cases a pen tester or forensic investigator may have no better option than to start pushing buttons.",
   "Year": "2013",
   "Location": "USA"

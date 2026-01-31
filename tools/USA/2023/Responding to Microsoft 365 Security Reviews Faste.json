@@ -8,7 +8,7 @@
     "Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/silverhack/monkey365",
   "Description": "Monkey 365 is a multi-threaded plugin-based tool to help assess the security posture of not only Microsoft 365, but also Azure subscriptions and Azure Active Directory. It contains multiple controls and currently supports CIS 1.4/1.5, HIPAA, GDPR, as well as custom security rules.",
   "Year": "2023",
   "Location": "USA"

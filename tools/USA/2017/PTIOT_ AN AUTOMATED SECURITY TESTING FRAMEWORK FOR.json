@@ -11,7 +11,7 @@
     "Track: Internet of Things"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/ThaiDuong158/PTIOT",
   "Description": "With the Internet of Everything era coming and millions of IoT devices becoming interconnected via the Internet, security issues caused by the IoT devices are increasingly serious more than any time before. Different from traditional security problems, there are no specific cognitions or orientations on the technology of security defense. Only if we knew our evil enemy and understood the means they used to attack, would we be able to build an efficient defense system.\n\nPtIoT is an automated security testing framework for the Internet of Things, and it has already been used on 360 IoT devices' productive process. It is combined with 360GearTeam's daily security practice and understanding of the attack pattern the malicious frequently used. It contains grey box-based security tests on external ports, compilation options, communication encryption, OS check runtime program check, web application check, etc. It is used to test ROMs on the products' version iteration process. At present, the security test covers products like 360 Smart Camera, 360Safe Wifi Router, 360 Driver Recoder and so on.",
   "Year": "2017",
   "Location": "USA"

@@ -7,7 +7,7 @@
     "Track: Reverse Engineering"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/eset/stadeo",
   "Description": "Stantinko is a malware family, which has been active since at least 2012, and has been gradually improving its code obfuscation techniques to hinder analysis and detection \u2013 especially in its recent versions. The half-million-strong Stantinko botnet has been used by its operators for various cybercriminal activities, including click fraud, ad injection, social network fraud, password stealing attacks, and cryptomining.\n\nStantinko's custom obfuscation techniques can be divided into four categories: control-flow flattening, string obfuscation, do-nothing code, and dead code, strings and resources. The techniques are employed in both x86 and x64 versions of the malware and we'll focus particularly on the first two.\n\nThese control-flow-flattening loops generally merge multiple functions into one. They transform the control flow to a form that is hard to read and the execution order of basic blocks is unpredictable without extensive analysis.\n\nStantinko's string obfuscation technique resembles construction of strings on the stack, but it additionally uses standard C functions for string manipulation with various decoy words and sentences to compose the final string.\n\nThese enhancements to the otherwise common obfuscations are what make them unique and turn ordinary reverse engineering methods to deal with the techniques useless.",
   "Year": "2020",
   "Location": "USA"

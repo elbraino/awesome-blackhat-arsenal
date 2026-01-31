@@ -7,7 +7,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/vectra-ai-research/halberd",
   "Description": "Halberd is an open-source security testing tool to proactively assess cloud threat detection by executing a comprehensive array of attack techniques across multiple platforms (Entra ID, M365, Azure and AWS) reducing the need for multiple tools while enabling cross-platform attack path testing.\n\nLeveraging Halberd, security teams can swiftly & easily execute attack techniques to generate telemetry and validate their controls and detection & response capabilities via a simple intuitive web interface. Halberd aims to reduce the friction to perform effective and continuous security testing by providing an easy to deploy and executable library of attack techniques. Halberd also provides additional capabilities to automate testing and testing with attack playbooks making it easier to chain and emulate",
   "Year": "2024",
   "Location": "Europe"

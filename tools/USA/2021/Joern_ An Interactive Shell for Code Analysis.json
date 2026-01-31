@@ -9,7 +9,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/joernio/joern",
   "Description": "Joern is an award-winning open-source platform for robust query-based analysis of C/C++. It enables mining large code bases for vulnerabilities using a Scala-based domain-specific query language and provides the reference implementation for code property graphs. With its fuzzy parsing approach, it is specifically suited for machine learning applications. Joern serves as the fundament for the commercial SAST and code exploration products at ShiftLeft.\n\nThe Code Property Graph (CPG) is an intermediate code representation designed for code querying. The core idea it promotes is to merge multiple different program representations into a joint graph data structure and allowing queries to be formulated as graph traversals. In its initial form as presented in 2014, the CPG makes available syntactical information, control flow information and data flow for C/C++ programs. It was later further generalized to host multiple different programming languages, and higher-level code representations.\n\n\n\nImportant Links\nJoern Documentation: https://docs.joern.io\nJoern query database: https://queries.joern.io\nJoern Community: https://discord.gg/AUzy45EHdf\n\nDemo preparation:\n\nDownload VLC v3.0.12 source and extract in a convenient directory\n> wget http://get.videolan.org/vlc/3.0.12/vlc-3.0.12.tar.xz\n> tar -xvf vlc-3.0.12.tar.xz\n\nDownload Joern and install\n> wget https://github.com/joernio/joern/releases/latest/download/joern-install.sh\n> chmod +x ./joern-install.sh\n> sudo ./joern-install.sh",
   "Year": "2021",
   "Location": "USA"

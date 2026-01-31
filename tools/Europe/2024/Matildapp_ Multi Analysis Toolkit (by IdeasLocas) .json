@@ -9,7 +9,7 @@
     "Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/telefonica/matildapp",
   "Description": "Web3 is a paradigm that has burst into the digital world with force. Millions of transactions are performed on different types of blockchain. The importance of smart contracts on blockchain, such as Ethereum, is gaining greater relevance due to the finances being managed. A single error or security breach can cost millions of dollars, making cybersecurity a vital factor. This paper introduces the tool Madildapp, which enables conducting DAST and SAST tests to evaluate the security of smart contracts and other elements within the Web3 value chain (such as DAPPs themselves). It is an innovative tool that aggregates different types of tests oriented towards different types of elements, including bytecode, pure source code, and the contract in its own execution through dynamic tests. Madildapp is an all-in-one modular implementation that will help the community to improve the tool.",
   "Year": "2024",
   "Location": "Europe"

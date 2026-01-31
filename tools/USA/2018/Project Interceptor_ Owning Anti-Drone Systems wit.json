@@ -7,7 +7,7 @@
     "Track: Hardware/Embedded"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/Lexicon121/Strix-Interceptor",
   "Description": "This tool provides a new vision about drone protection against anti-drone systems, using WiFi side/hidden channel communication, fallback control by variable modulation radio with SDR, and hacking capabilities. All embedded into a hand-sized aircraft to make detection and mitigation a pain, called \"Project Interceptor\". This drone is based on Vocore2, the smallest Linux board available.\n\nTaking into account all the anti-drone process stages, this small aircraft, is designed to make much more difficult detection, due to a hand-sized design, very low radar signature, and very flexible radio signatures, combined with a fallback SDR based communication protocol, keeping most hacking capabilities of any other drone, at a very low cost ($70).",
   "Year": "2018",
   "Location": "USA"

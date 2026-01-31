@@ -7,8 +7,8 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
-  "Description": "Red teamers often rely on command-line tools for macOS testing, making them highly detectable by endpoint security solutions. OffensiveSwift is a modern offensive framework built entirely in Swift, offering a native approach to macOS adversary emulation. It leverages Swift's direct access to macOS APIs\u2014without invoking traditional shell commands\u2014to minimize observable traces and lower its detection footprint.\n\nHighlights:\n\n- Standalone Binary: Compiles directly into a standalone binary with no external dependencies.\n- Reduced Detections: Uses macOS APIs for a more stealthy and efficient operation.\n- Flexible TTP Chaining: Provides programmatic interfaces that seamlessly chain TTPs into complex adversary simulations.\n- Modular Design: Supports both individual technique testing and the creation of full emulation campaigns.",
+  "Github URL": "https://github.com/Teach2Breach/offensiveswift",
+  "Description": "Red teamers often rely on command-line tools for macOS testing, making them highly detectable by endpoint security solutions. OffensiveSwift is a modern offensive framework built entirely in Swift, offering a native approach to macOS adversary emulation. It leverages Swift's direct access to macOS APIs—without invoking traditional shell commands—to minimize observable traces and lower its detection footprint.\n\nHighlights:\n\n- Standalone Binary: Compiles directly into a standalone binary with no external dependencies.\n- Reduced Detections: Uses macOS APIs for a more stealthy and efficient operation.\n- Flexible TTP Chaining: Provides programmatic interfaces that seamlessly chain TTPs into complex adversary simulations.\n- Modular Design: Supports both individual technique testing and the creation of full emulation campaigns.",
   "Year": "2025",
   "Location": "USA"
 }

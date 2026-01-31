@@ -8,7 +8,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/chenerlich/fcl",
+  "Github URL": "https://github.com/falcosecurity/falco",
   "Description": "Containers are the most popular technology for deploying modern applications. SPOILER ALERT: bypassing well-known security controls is also popular. In this talk, we explain how to use the recent updates in Falco, a CNCF open-source container security tool, to detect drifts and fileless malware in containerized environments.\n\nAs a best practice, containers should be considered immutable. Early this year, Falco introduced new features to detect container drift via OverlayFS, which can spot if binaries are added or modified after the container's deployment. New binaries are often a sign of an ongoing attack.\n\nOf course, attackers can also use more advanced evasion techniques to stay hidden. By using in-memory, fileless execution, attackers can bypass most of the security controls such as drift detection, and still reach their goals with no stress.\n\nTo combat fileless attacks, Falco has also added memfd-based fileless execution thanks to its visibility superpowers on Linux kernel system calls. Combining Falco's existing runtime security capabilities with these two new detection layers forms the foundation of an in-depth defense strategy for cloud-native workloads.\n\nWe will walk you through real-world scenarios based on recent threats and malware, demoing how Falco can help detect and respond to these malicious behaviors and comparing drift and fileless attack paths.",
   "Year": "2024",
   "Location": "Asia"

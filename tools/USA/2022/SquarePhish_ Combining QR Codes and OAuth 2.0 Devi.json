@@ -9,7 +9,7 @@
     "Human Factors"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/secureworks/squarephish",
   "Description": "SquarePhish is an advanced phishing tool that uses a technique combining the OAuth Device code authentication flow and QR Codes.",
   "Year": "2022",
   "Location": "USA"

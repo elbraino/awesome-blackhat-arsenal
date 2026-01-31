@@ -8,7 +8,7 @@
     "Track: Exploitation and Ethical Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/therealilyas/pentest-toolkit",
   "Description": "CQ Penetration Testing Toolkit supports you in performing complex penetration tests, shows you their possible application, and highlights the situations in which they apply. It guides you through the process of gathering intel about network, workstations, and servers, and showcases common techniques for antimalware avoidance and bypass, lateral movement, and credential harvesting. The toolkit also allows decrypting RSA keys and EFS-protected files as well as blobs and objects protected by DPAPI and DPAPI NG. This powerful toolkit is useful for those who are interested in penetration testing and professionals engaged in pen-testing who work in the areas of databases, systems, networks, or application administration.",
   "Year": "2023",
   "Location": "Europe"

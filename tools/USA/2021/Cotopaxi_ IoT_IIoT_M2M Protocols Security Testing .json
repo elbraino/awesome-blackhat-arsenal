@@ -7,7 +7,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/samsung/cotopaxi",
   "Description": "Cotopaxi is a set of tools for security testing of network devices using specific and general network IoT/IIoT/M2M protocols (AMQP, CoAP, DTLS, gRPC, HTTP/2, HTCPCP, KNX, mDNS, MQTT, MQTT-SN, QUIC, RTSP, SSDP).",
   "Year": "2021",
   "Location": "USA"

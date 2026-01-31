@@ -8,7 +8,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/rastrea2r/rastrea2r",
   "Description": "Rastrea2r (pronounced \"rastreador\" - hunter- in Spanish) is a multi-platform open source tool that allows incident responders and SOC analysts to triage suspect systems and hunt for Indicators of Compromise (IOCs) across thousands of endpoints in minutes. To parse and collect artifacts of interest from remote systems (including memory dumps), rastrea2r can execute sysinternal, system commands and other 3rd party tools across multiples endpoints, saving the output to a centralized share for automated or manual analysis. By using a client/server RESTful API, rastrea2r can also hunt for IOCs on disk and memory across multiple systems using YARA rules. As a command line tool, rastrea2r can easily integrate with AV consoles and SOAR tools, allowing incident responders and SOC analysts to collect forensics evidence and hunt for IOCs without the need for an additional agent, with 'gusto' and style!\n\nSource Code: https://github.com/rastrea2r/rastrea2r\nPresentation: https://github.com/rastrea2r/rastrea2r/blob/master/presentations/BH%20Arsenal%20rastrea2r%202018.pdf",
   "Year": "2018",
   "Location": "USA"

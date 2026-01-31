@@ -10,7 +10,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/aquasecurity/tracee",
   "Description": "Linux Kernel Rootkits is an advanced and fascinating topic in cyber security. These tools are stealthy and evasive by design and often target the lower levels of the OS, unfortunately there aren't many solid security tools that can provide an extensive visibility to detect these kinds of tools.\nTracee is a Runtime Security and forensics tool for Linux, utilizing eBPF technology to trace systems and applications at runtime, analyze collected events to detect suspicious behavioral patterns, and capture forensics artifacts.\n\nTracee was presented in BH EU 2020 and BH USA 2021. Thus far we have presented Tracee-ebpf and spoke about its passive capabilities to collect OS events based on given filters, and Tracee-rules, which is the runtime security detection engine. But Tracee has another capability to safely interact with the Linux kernel, which grants Tracee even more superpowers.\n\nTracee was designed to provide observability on events in running containers. It was released in 2019 as an OSS project, allowing practitioners and researchers to benefit from its capabilities. Now, Tracee has greatly evolved, adding more robust and advanced capabilities. Tracee is a runtime security and forensics tool for Linux, built to address common Linux security issues.\n\nFor references see:\nhttps://blog.aquasec.com/ebpf-container-tracing-malware-detection\nhttps://blog.aquasec.com/advanced-persistent-threat-techniques-container-attacks",
   "Year": "2022",
   "Location": "USA"

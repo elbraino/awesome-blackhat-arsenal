@@ -9,7 +9,7 @@
     "Track: Malware Offense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/analysis-tools-dev/dynamic-analysis",
   "Description": "Antivirus software, as one of the important tools to protect computer security, its detection technology is also constantly developing. At the same time, penetration testing and malicious attacks have become more difficult. The core principle of our newly developed network security tool is to load the security software to be used into memory and relocate all import function tables (IAT) to a middle code area, so that it can continue to run without being killed. When each external function is referenced, it will jump to the middle stub function and retain the call information. If our security tool is killed by antivirus software, we can easily find the detection point of antivirus software based on the call information. Our security tool can detect its scanning rules in real time while antivirus software is running, so as to help you understand the behavior and rules of antivirus software. Our tool can detect antivirus software without disrupting its normal work, so as to help you better understand the behavior and rules of antivirus software.",
   "Year": "2023",
   "Location": "USA"

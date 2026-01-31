@@ -8,7 +8,7 @@
     "iOS and Mobile Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/sterrasec/apk-medit",
   "Description": "Apk-medit is a memory search and patch tool for debuggable APK without root & android NDK. It was created for mobile game security testing.\n\n\nMemory modification is the easiest way to cheat in games, it is one of the items to be checked in the security test. There are also cheat tools that can be used casually like GameGuardian. However, there were no tools available for non-root devices and CUI, so apk-medit was created as a security testing tool.\n\n\nMany mobile games have rooting detection, but apk-medit does not require root privileges, so memory modification can be done without bypassing the rooting detection.\n\n\nGitHub: https://github.com/aktsk/apk-medit",
   "Year": "2020",
   "Location": "USA"

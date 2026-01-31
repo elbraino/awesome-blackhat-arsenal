@@ -8,7 +8,7 @@
     "Track: Malware Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/falcosecurity/falco",
   "Description": "The increasing sophistication and frequency of supply chain attacks necessitate reevaluating current security practices. This talk explains how to use Falco, a CNCF open-source runtime security tool, to detect threats and malicious behaviors inside your CI/CD pipelines.\nContinuous Integration and Continuous Deployment (CI/CD) pipelines are essential for modern software development, enabling rapid code integration, testing, and deployment. Deep visibility inside the CI/CD pipelines is critical to ensuring that the code released into production environments is secure and trustworthy. SolarWinds, CodeCov, and the recent xz-utils supply chain attacks could all have been detected by shifting further left well-known runtime security practices, starting by observing the behavior of the build and deploy servers.\nWith its exceptional visibility into Linux kernel system calls, Falco can be seamlessly integrated into CI/CD workflows to monitor the CI/CD server's runtime behavior. By providing valuable information on runtime events, such as malicious connections and file accesses, Falco becomes a reliable ally in detecting anomalous behavior in continuous integration pipelines.\n\nWe will walk you through real-world scenarios based on recent CI/CD threats, demoing how Falco can be used in GitHub Actions pipelines to detect malicious behaviors.",
   "Year": "2024",
   "Location": "Europe"

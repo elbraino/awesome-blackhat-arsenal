@@ -9,7 +9,7 @@
     "Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/datadog/managed-kubernetes-auditing-toolkit",
   "Description": "Most organizations nowadays run Kubernetes on a managed cloud service such as Amazon EKS, Google Cloud GKE or Azure AKS. A number of cloud-specific attack vectors exist in this context, allowing pods to pivot to the cloud environment in often unexpected ways.\n\nThe Managed Kubernetes Auditing Toolkit (MKAT) brings several features that help you bridge the gap:\n- Identify cloud secrets in Kubernetes resources\n- Produce a visual map of which pods have access to the cloud environment\n- Test if pod access to the instance metadata service is properly blocked",
   "Year": "2024",
   "Location": "USA"

@@ -9,7 +9,7 @@
     "Track: Network Attacks"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/vipul-69-ax/Wireless-Network-Simulation",
   "Description": "The WiFi Network Threat Simulation project is designed to perform scenario-based wifi network security tests. Thanks to the modules inside, you can test both the user and AP devices as well as the wireless IDS and IPS devices.",
   "Year": "2019",
   "Location": "USA"

@@ -9,7 +9,7 @@
     "Code Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/Phospheneser/DetectiveQA",
   "Description": "In the modern digital realm, internet browsers, particularly Chrome, have transcended traditional boundaries, becoming hubs of multifunctional extensions that offer everything from AI-integrated chatbots to sophisticated digital wallets. This surge, however, comes with an underbelly of cyber vulnerabilities. Hidden behind the guise of innovation, malicious extensions lurk, often camouflaged as benign utilities. These deceptive extensions not only infringe upon user privacy and security but also exploit users with unasked-for ads, skewed search results, and misleading links. Such underhanded strategies, targeting the unsuspecting user, have alarmingly proliferated.\n\nAddressing this conundrum, we present DetectiveSQ - an advanced command-line interface designed to rigorously audit Chrome extensions. At its core, DetectiveSQ is engineered to be compatible with both Manifest V2 (MV2) and Manifest V3 (MV3) architecture, ensuring a wide-ranging applicability across extensions of different generations. Through an intricate examination of permissions - delving deep into how they're invoked and utilized within the extension's codebase - DetectiveSQ brings forth potential security and privacy breaches. The tool not only assesses permissions but also correlates them with actual behaviors, scripts, and external calls, offering a holistic evaluation. DetectiveSQ will be open source and made available after the talk.",
   "Year": "2023",
   "Location": "Europe"

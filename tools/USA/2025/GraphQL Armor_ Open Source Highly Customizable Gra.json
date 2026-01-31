@@ -8,7 +8,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/escape-technologies/graphql-armor",
   "Description": "With our open-source tool GraphQL Armor we want to take GraphQL security to the next level. GraphQL Armor is a dead-simple yet highly customizable security middleware for various GraphQL server engines. It offers advanced protection against common vulnerabilities like query depth, complexity, and rate limiting.\n\nThe key features of GraphQL Armor are:\n- Query depth and cost limiting to mitigate denial-of-service (DoS) attacks\n- Rate-limiting and automatic request blocking for abusive clients\n- Protection against batch attacks and nested query exploits\n- Field obfuscation to limit API exposure\n- Seamless integration with major GraphQL frameworks\n\nWe want to show security engineers and developers with a security mindset how to make sure their GraphQL APIs are secure. This tool is open source and can be found on npm, where it has impressively reached 94k weekly downloads.",
   "Year": "2025",
   "Location": "USA"

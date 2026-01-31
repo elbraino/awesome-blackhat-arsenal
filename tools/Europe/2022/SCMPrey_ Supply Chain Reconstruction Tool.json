@@ -8,7 +8,7 @@
     "Code Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/checkmarx-ts/cx-supply-chain-toolkit",
   "Description": "Introducing SCMPrey, a threat intelligence tool to be used by either red or blue teams that would like to reconstruct and map-out repositories supply chain infrastructure, CI/CD system, build environment, packaged dependencies etc.\n\nBy consuming code repositories, looking for indicators of usage and propagation within the code base and the SCM system that holds the data, enacting post-processing and contextual reconstruction of the data in order to form a thorough reconstruction of the supply chain infrastracture components, configuration and automations in place.\n\nWith this knowledge - ethical hackers will be able to spot attack surface and home on designated attack targets of interest, spot weak points and low-hanging fruit; on the other - blue team will be able to spot the same weaknesses to enable them to form a solid threat model and hardening needs to fortify said infrastructure and implementations.",
   "Year": "2022",
   "Location": "Europe"

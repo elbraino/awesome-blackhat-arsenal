@@ -8,7 +8,7 @@
     "Track: Network"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/ccelikanil/GhostBeacon",
   "Description": "Wireless networks (802.11) are indispensable in today's communication systems. However, their inherent vulnerabilities generally pose significant security threats. Specifically, detecting Rogue (Fake) Access Points and Hidden Access Points can be very challenging, as these unauthorized entities can facilitate malicious activities once they infiltrate a network. This study addresses these issues by providing a solution named GhostBeacon, an innovative tool that is designed to detect such malicious access points effectively. GhostBeacon mainly consists of two primary modules: the Rogue (Fake) Access Point Spotter, which analyses Beacon Frames using couple of parameters to identify Rogue Access Points; and the Hidden Access Point Spotter, which analyses Probe Request/Response frames to uncover access points with hidden SSIDs. Experimental tests show that GhostBeacon achieves a detection success rate of up to 99% for Rogue Access Points and nearly 100% for Hidden Access Points. These results highlight this project's potential to enhance wireless network security by mitigating unauthorized access and the subsequent risk of harmful network activities.",
   "Year": "2025",
   "Location": "USA"

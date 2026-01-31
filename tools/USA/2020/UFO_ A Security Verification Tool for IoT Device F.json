@@ -7,7 +7,7 @@
     "Track: Internet of Things"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/kevinhwang91/nvim-ufo",
   "Description": "UFO is an IoT firmware security assessment tool that helps firmware developers or security researchers assess the security level of IoT device firmware.\n\nUFO profiles the IoT firmware in many surfaces, like known vulnerabilities, sensitive data, cracked passwords, and hidden backdoors. It saves penetration testers time to gather information and help create attack vectors. Meanwhile, as a handy tool, UFO exposes vulnerabilities as early as possible to mitigate attacks from IoT malware like the notorious Mirai, which also collected default passwords of IoT devices from firmware. We did leverage UFO to pwn two COTS network cameras by discovering their backdoors and default passwords.\n\nMain features of UFO are:\n- Known 3rd Party Suite CVE Risk Report: Post-scan report based on the Common Vulnerability Scoring System (CVSS) which is an open industry standard for assessing the severity of computer system security vulnerabilities.\n- Sensitive Data Statistics: Assessment of the email, IP, URL, private or password vulnerabilities.\n- Cracked Passwords and Certificates Review: Check if your passwords or certificates are vulnerable.\n- Shell Dependency Backdoor Paths: Produces a visual guide of backdoor paths.\n\nA full circle of scenarios of using UFO to analysis IoT firmware will be demonstrated.\n\nAmong the above features, the source code used to trace shell dependency has been released on Github: https://github.com/dayanuyim/shdep.\n\nThe promotional video: https://youtu.be/0XupD3PAbuo",
   "Year": "2020",
   "Location": "USA"

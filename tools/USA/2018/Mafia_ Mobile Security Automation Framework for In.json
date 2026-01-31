@@ -10,7 +10,7 @@
     "iOS and Mobile Hacking"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/mafiahub/awesome-mafia",
   "Description": "Mobile applications are critical when it comes to vulnerabilities in production environment. The only option to remove a product issue is to force update the app, which isn't a good user experience, especially when the app download size is high. With this project, we aim to automate the manual security testing and leverage developers with a tool which helps them identify bugs well in advance. The goal of MAFIA is to perform end to end security testing for a given mobile app and create a self serve tool for developers and security engineers.",
   "Year": "2018",
   "Location": "USA"

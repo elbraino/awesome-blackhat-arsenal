@@ -8,7 +8,7 @@
     "Track: Network Defense"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/redhuntlabs/RedHunt-OS",
   "Description": "The ultimate aim of any security exercise (offensive or defensive) is to make the organization more resilient and adaptive towards modern adversaries. RedHunt OS (Virtual Machine) from RedHunt Labs aims to provide defenders a platform containing the toolset to emulate adversaries as well as advanced logging and monitoring setup to actively hunt such adversaries.\n\nThe project aims to provide a one-stop shop which defenders can quickly spin up and practice blue team exercises in the presence as well as the absence of an active attacker. On the other hand, the red team can utilize the platform to identify and understand the footprints they leave behind during a red team exercise. Apart from Adversary Emulation and Threat Hunting tools, the OS also provides Open Source Intelligence (OSINT) and Threat Intelligence tools. Both red and blue teams can utilize the setup to become better at what they do, ultimately leading to better security.",
   "Year": "2019",
   "Location": "USA"

@@ -7,7 +7,7 @@
     "Track: Data Forensics/Incident Response"
   ],
   "Event": "BH-US-13",
-  "Github URL": null,
+  "Github URL": "https://github.com/AngelSayani/Advanced-Registry-Forensic-Lab",
   "Description": "Registry Inspector Forensics (RIF), based on the widely used Registry Decoder, is a powerful registry forensics platform. It features the ability to acquire and analyze numerous registry hives simultaneously, intelligent search, a plugin-based architecture, both GUI and full command line support and the ability to parse and analyze memory-resident hive files including the volatile hives. This functionality is perfectly suited for forensic investigations, malware analysis, and incident response scenarios. The project is free and open source and under active development.",
   "Year": "2013",
   "Location": "USA"

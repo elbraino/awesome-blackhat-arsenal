@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-US-15",
-  "Github URL": null,
+  "Github URL": "https://github.com/iSECPartners/sslyze",
   "Description": "Have you ever been faced with a Security Assertion Markup Language (SAML) Service Provider and dreaded the development effort required to attack it? Have you ever crafted custom SAML payloads and wondered why no one had written this tool before? SAMLyze is a new tool that makes pentesting SAML Service Providers fast and easy. It streamlines the attack process by providing preconfigured payloads for testing against XXE, DTD and automatically performs a variety of SAML validations. The web interface makes configuration of custom assertions and modification of any SAML response values simple. Additionally, the SAMLyze workflow allows for integration with web proxies such as Burp Suite and Zed Attack Proxy.",
   "Year": "2015",
   "Location": "USA"

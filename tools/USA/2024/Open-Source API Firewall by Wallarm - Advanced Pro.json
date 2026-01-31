@@ -7,7 +7,7 @@
     "Track: Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/wallarm/api-firewall",
   "Description": "Introduced at Blackhat 2024 Arsenal, the open-source API Firewall has been significantly upgraded, now extending its protection capabilities to include GraphQL endpoints, in addition to its existing support for REST APIs.\n\nOperating as a high-efficiency intermediary, this API Firewall ensures strict API request and response validation, adhering to both OpenAPI and GraphQL schemas. By employing a positive security model, it enhances API security by allowing only the traffic that meets a predetermined API specification for requests and responses, effectively blocking all other traffic. It's designed to work in cloud-native environments with a huge amount of traffic and is optimized for near-zero latency.\n\nThe key features of Wallarm's API Firewall are:\n- Endpoint Security: Secure REST and GraphQL API endpoints by blocking non-compliant requests/responses\n- Data Breach Prevention: Stop API data breaches by blocking malformed API responses\n- Shadow API Discovery: Discover Shadow API endpoints\n- Specification Adherence: Block attempts to use request/response parameters not specified in an OpenAPI specification\n- Token Validation: Validate JWT access tokens and other OAuth 2.0 tokens using introspection endpoints\n- Security Enhancements: Denylist compromised API tokens, keys, and cookies\n- Wide Range Attacks Protection: The API Firewall supports ModSecurity Rules and OWASP Core RuleSet v3/v4\n\nThis product is open-source and can be found on DockerHub, where it has impressively reached 1 billion downloads.",
   "Year": "2024",
   "Location": "USA"

@@ -7,7 +7,7 @@
     "Track: Vulnerability Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/nvlabs/stylegan2-ada",
   "Description": "ADA analyzes the dynamic behavior of an Android application in runtime. ADA discovers the attack surface that is not shown during the static analysis and performs a rapid vulnerability assessment of the application.\n\nADA discovers the best attack path to follow to compromise the application. The automated dynamic analysis is focused on discovering the security measures implemented in the application. In this way, ADA shows the best attack path to compromise the application. Some of the features that ADA detects are whether the application uses certificate pinning, JNI libraries, SQL database discovery, KeyStores identification, hardware-backed KeyStore (TEE), etc.",
   "Year": "2018",
   "Location": "USA"

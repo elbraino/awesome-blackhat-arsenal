@@ -10,7 +10,7 @@
     "Smart Grid/Industrial Security"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/LastAirbender07/CyberSentinel",
   "Description": "Drone signal detection tools are critical for ensuring security and regulatory compliance across diverse environments. This tool is named \"CyberSky Sentinel,\" an embedded system designed for cost-effectiveness and efficiency, harnessing the capabilities of the USRP (Universal Software Radio Peripheral) to detect and analyze drone signals.",
   "Year": "2024",
   "Location": "Europe"

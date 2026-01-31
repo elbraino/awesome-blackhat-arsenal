@@ -7,7 +7,7 @@
     "Track: Arsenal Lab"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/r3nt0n/wiper",
   "Description": "Starting in 2022, the world saw an uptick in the popularity of wipers, especially related to the Russo-Ukranian conflict, as well as some new wipers with the rising tension in the Middle East. In this lab, you get to try your hand at picking them apart in detail. If you are curious as to what the headline-making malware looks like internally, if you're interested in reverse engineering or malware analysis, or if you simply want to have a look into the life of a malware analyst's work, then this is a lab for you! With the help of Ghidra (NSA's software reverse engineering suite of tools), you will dive head first into real samples, to find and unravel the secrets the wipers contain. Novice and aspiring analysts, as well as experienced analysts, are welcome to join this lab.",
   "Year": "2024",
   "Location": "USA"

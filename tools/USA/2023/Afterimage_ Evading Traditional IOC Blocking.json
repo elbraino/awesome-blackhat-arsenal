@@ -12,7 +12,7 @@
     "Web AppSec"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/tpope/vim-afterimage",
   "Description": "Malicious IP addresses are critical indicators of cyber threats, and blocking these addresses is a standard practice during network forensics and incident response. Current solutions for maintaining anonymity, such as Tor nodes and botnets, have proven to be either compromised or illegal, thus posing challenges for legitimate red team exercises. In response to this growing demand for an effective solution, we have developed Afterimage, a novel application that enables attackers to enumerate and attack from multiple IP addresses without requiring the infrastructure of a botnet and with minimal time and effort.\n\nAfterimage operates as an intermediary, accepting malicious traffic from an attacker through an open port, forwarding it to a proxy, and ultimately to the victim. If the proxy's IP is blocked, the application automatically cycles to another proxy to continue sending traffic. This process is more efficient and secure than existing methods such as VPNs, which are often monitored and costly, or compromised solutions like Tor nodes and botnets.\n\nOur proposed solution, written in Python, is designed for deployment on remote servers, enabling multiple attackers to connect simultaneously. This unique approach to IP address cycling addresses key challenges faced during red team exercises, providing a more secure and effective solution for cyber security testing. By leveraging Afterimage, blue teams and SOCs can enhance their incident response capabilities and improve their overall cyber defense strategies.",
   "Year": "2023",
   "Location": "USA"

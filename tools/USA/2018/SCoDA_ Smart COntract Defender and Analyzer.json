@@ -7,7 +7,7 @@
     "Track: Code Assessment"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": null,
+  "Github URL": "https://github.com/lex-node/scoda-simple-code-deference-agreement-",
   "Description": "SCoDA (Smart Contract Defender and Analyzer) module in LAMMA tool, written in python for solidity based smart contract scanning. The tools is a unified and python ported version of various other scanners and vulnerabilities reported on Ethereum Platform.",
   "Year": "2018",
   "Location": "USA"
