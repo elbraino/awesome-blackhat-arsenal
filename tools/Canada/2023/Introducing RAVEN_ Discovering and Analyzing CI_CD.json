@@ -10,7 +10,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/CycodeLabs/raven",
-  "Description": "",
+  "Description": "RAVEN performs massive scans of GitHub Actions CI workflows and indexes the discovered data into a Neo4j graph database. It enables users to identify CI/CD pipeline vulnerabilities through workflow analysis and generates security reports based on predefined queries.",
   "Year": "2023",
   "Location": "Canada"
 }

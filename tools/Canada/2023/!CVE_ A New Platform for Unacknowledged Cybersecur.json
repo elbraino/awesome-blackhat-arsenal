@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/cveproject",
-  "Description": null,
+  "Description": "The CVE Program identifies, defines, and catalogs publicly disclosed cybersecurity vulnerabilities. It maintains the official CVE List and develops supporting infrastructure like the CVE Services API, JSON schema specifications, and the CVE.ORG website.",
   "Year": "2023",
   "Location": "Canada"
 }

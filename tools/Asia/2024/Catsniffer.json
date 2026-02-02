@@ -10,7 +10,7 @@
   ],
   "Github URL": "https://github.com/ElectronicCats/CatSniffer",
   "Event": "BH-ARSENAL",
-  "Description": null,
+  "Description": "A multiprotocol IoT security device in a portable USB stick form factor that enables sniffing, communicating, and attacking IoT devices across LoRa, Sub-1 GHz, and 2.4 GHz bands using protocols like Zigbee, Thread, and Bluetooth Low Energy.",
   "Year": "2024",
   "Location": "Asia"
 }

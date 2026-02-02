@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/ATMoS-Waterloo/ATMoS",
-  "Description": null,
+  "Description": "ATMoS is a framework for applying reinforcement learning to security management of Software-defined Networks (SDNs). It uses OpenDaylight and Mininet to simulate SDN infrastructure and trains RL agents to autonomously manage network security policies.",
   "Year": "2023",
   "Location": "Canada"
 }

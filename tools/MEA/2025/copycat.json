@@ -1,6 +1,6 @@
 {
   "Tool Name": "Copycat",
-  "Description": "Modern enterprises face escalating threats from sophisticated browser-based identity attacks that operate within legitimate authenticated sessions, bypassing traditional security controls like EDRs, SASE, and firewalls. This hands-on session equips blue team defenders with practical experience defending against ten real-world browser-based identity attack vectors using the open-source "Copycat" identity attack simulator extension.",
+  "Description": "Modern enterprises face escalating threats from sophisticated browser-based identity attacks that operate within legitimate authenticated sessions, bypassing traditional security controls like EDRs, SASE, and firewalls. This hands-on session equips blue team defenders with practical experience defending against ten real-world browser-based identity attack vectors using the open-source \"Copycat\" identity attack simulator extension.",
   "Github URL": "",
   "Tracks": [
     "Network Defense"

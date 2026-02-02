@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/MAD-Goat-Project",
-  "Description": null,
+  "Description": "MAD Goat is a deliberately insecure web application designed for learning about Modern Application Development vulnerabilities, evaluating Application Security Testing scanner effectiveness, and exploring attack vectors and mitigation strategies.",
   "Year": "2023",
   "Location": "Canada"
 }

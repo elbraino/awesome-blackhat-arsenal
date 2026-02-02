@@ -1,7 +1,6 @@
 {
   "Tool Name": "sisakulint",
-  "Description": "In recent years, attacks targeting the Web Application Platform have been increasing rapidly.
-sisakulint is a static and fast SAST for GitHub Actions. This great tool can automatically validate yaml files according to the guidelines in the security-related documentation provided by GitHub! It also includes functionality as a static analysis tool that can check the policies of the guidelines that should be set for use in each organization. These checks also comply with the Top 10 CI/CD Security Risks",
+  "Description": "In recent years, attacks targeting the Web Application Platform have been increasing rapidly. sisakulint is a static and fast SAST for GitHub Actions. This great tool can automatically validate yaml files according to the guidelines in the security-related documentation provided by GitHub! It also includes functionality as a static analysis tool that can check the policies of the guidelines that should be set for use in each organization. These checks also comply with the Top 10 CI/CD Security Risks",
   "GitHub URL": "",
   "Tracks": ["Code Assessment"],
   "Speakers": ["sada atsushi", "fujioka kosuke"],

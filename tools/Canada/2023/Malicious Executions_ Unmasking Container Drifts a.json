@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/falcosecurity/falco",
-  "Description": null,
+  "Description": "Falco is a cloud-native runtime security tool that monitors Linux systems for abnormal behavior and threats in real-time. It observes kernel events such as syscalls based on custom rules and enriches them with container and Kubernetes metadata for security analysis.",
   "Year": "2023",
   "Location": "Canada"
 }

@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/theopenco/llmgateway",
-  "Description": null,
+  "Description": "LLM Gateway is an open-source API gateway that routes requests to multiple LLM providers while providing unified management of API keys, usage tracking, and performance analytics across different AI services.",
   "Year": "2023",
   "Location": "Canada"
 }

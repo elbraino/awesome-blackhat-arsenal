@@ -10,7 +10,7 @@
   ],
   "Github URL": "https://github.com/PhonePe/mantis",
   "Event": "BH-ARSENAL",
-  "Description": null,
+  "Description": "An automated security framework that automates asset discovery, reconnaissance, and scanning. It accepts domain names and IP ranges as input, discovers related assets like subdomains and certificates, and conducts comprehensive vulnerability assessments.",
   "Year": "2024",
   "Location": "Asia"
 }

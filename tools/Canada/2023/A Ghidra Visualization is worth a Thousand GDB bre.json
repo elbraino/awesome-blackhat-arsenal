@@ -8,7 +8,7 @@
   ],
   "Github URL": "https://github.com/datalocaltmp/GhidraMCP",
   "Event": "BH-ARSENAL",
-  "Description": null,
+  "Description": "GhidraMCP is a Model Context Protocol server that allows LLMs to autonomously reverse engineer applications. It bridges Ghidra with AI systems, enabling automated binary analysis, method renaming, and code examination through standardized MCP connections.",
   "Year": "2023",
   "Location": "Canada"
 }

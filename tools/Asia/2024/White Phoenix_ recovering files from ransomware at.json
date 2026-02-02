@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/cyberark/white-phoenix",
-  "Description": null,
+  "Description": "A tool that recovers content from files encrypted by ransomware using intermittent encryption techniques, supporting multiple file formats including PDFs, Office documents, archives, and encrypted virtual machine files.",
   "Year": "2024",
   "Location": "Asia"
 }

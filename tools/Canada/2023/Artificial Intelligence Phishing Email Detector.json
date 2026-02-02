@@ -9,7 +9,7 @@
   ],
   "Github URL": "https://github.com/Click2Hack/Phishing-Email-Detection-Using-Machine-Learning",
   "Event": "BH-ARSENAL",
-  "Description": null,
+  "Description": "A machine learning system that classifies emails as phishing or legitimate using Natural Language Processing with TF-IDF vectorization and a Random Forest classifier to identify suspicious messages based on learned text patterns.",
   "Year": "2023",
   "Location": "Canada"
 }

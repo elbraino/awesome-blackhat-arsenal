@@ -11,7 +11,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/crazyhottommy/ChIP-seq-analysis",
-  "Description": null,
+  "Description": "A collection of resources and analysis tools for ChIP-seq (Chromatin Immunoprecipitation sequencing) data processing, covering quality control, peak calling, differential binding analysis, and downstream applications like motif discovery.",
   "Year": "2024",
   "Location": "Asia"
 }

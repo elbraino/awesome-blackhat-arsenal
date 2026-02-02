@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/dcodx/gitarmor",
-  "Description": null,
+  "Description": "A security tool that enforces policy-as-code for GitHub environments by validating repository and organization settings against security policies, with support for CLI and GitHub Action modes and reporting mapped to frameworks like SLSA and the Microsoft DevOps threat matrix.",
   "Year": "2024",
   "Location": "Asia"
 }

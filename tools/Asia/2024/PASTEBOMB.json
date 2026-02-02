@@ -8,7 +8,7 @@
   ],
   "Github URL": "https://github.com/marco-liberale/PasteBomb",
   "Event": "BH-ARSENAL",
-  "Description": null,
+  "Description": "A remote administration tool that uses Pastebin services as a command-and-control mechanism to execute terminal commands, send DDoS attacks, download files, and open messages on compromised systems without requiring a traditional C2 server.",
   "Year": "2024",
   "Location": "Asia"
 }
