@@ -1,7 +1,7 @@
 {
   "Tool Name": "Kong Loader",
   "Description": "Kong Loader is a completely new concept of loading shellcode. It prevents malware from being visible in memory *entirely* and *whatsoever*, even while executing commands, reinventing existing sleep mask techniques. For each assembly instruction, Kong Loader decrypts that specific assembly instruction, executes it, and encrypts it again. This means only the currently executing instruction is visible in memory.",
-  "GitHub URL": "",
+  "GitHub URL": "https://github.com/tijme/kong-loader",
   "Tracks": ["Exploitation and Ethical Hacking"],
   "Speakers": ["Tijme Gommers"],
   "Region": "",

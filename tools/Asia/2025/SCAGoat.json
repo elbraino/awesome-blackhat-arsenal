@@ -1,7 +1,7 @@
 {
   "Tool Name": "SCAGoat",
   "Description": "SCAGoat is a deliberately insecure web application built to support hands-on learning and testing of Software Composition Analysis (SCA) tools. It allows users to explore vulnerabilities in Node.js and Java Springboot applications, featuring actively exploitable CVEs like CVE-2023-42282 and CVE-2021-44228 (log4j), and includes the compromised xz-java library. Designed for assessing various SCA and container security tools, SCAGoat's README includes reports from tools such as Semgrep, Snyk, and Endor Labs. Future research will incorporate additional compromised packages, enhancing its utility for testing SCA tools against supply chain attack scenarios.",
-  "GitHub URL": "",
+  "GitHub URL": "https://github.com/harekrishnarai/Damn-vulnerable-sca",
   "Tracks": ["Web AppSec"],
   "Speakers": ["Hare Krishna Rai", "Gaurav Sharma", "Prashant Venkatesh"],
   "Region": "",

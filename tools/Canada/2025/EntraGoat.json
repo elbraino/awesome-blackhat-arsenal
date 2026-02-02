@@ -1,7 +1,7 @@
 {
   "Tool Name": "EntraGoat",
   "Description": "EntraGoat is a deliberately vulnerable environment designed to simulate real-world security misconfigurations and attack scenarios in Microsoft Entra ID (formerly Azure Active Directory). Security professionals, researchers, and red teamers can leverage EntraGoat to gain hands-on experience identifying and exploiting identity and access management (IAM) vulnerabilities, privilege escalation paths, and other security flaws specific to cloud-based Entra ID environments.",
-  "GitHub URL": "",
+  "GitHub URL": "https://github.com/Semperis/EntraGoat",
   "Tracks": [
     "Exploitation and Ethical Hacking"
   ],

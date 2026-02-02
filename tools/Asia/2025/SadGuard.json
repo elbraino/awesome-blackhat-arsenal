@@ -1,7 +1,7 @@
 {
   "Tool Name": "SadGuard",
   "Description": "SadGuard was inspired by the rising threat of supply chain attacks, leveraging advanced AI to secure software pipelines against malicious contributions in pull requests. It uses intelligent code diff analysis, sandboxed executable behaviour monitoring, and entropy scanning of binaries to detect and mitigate malicious patterns before deployment.",
-  "GitHub URL": "",
+  "GitHub URL": "https://github.com/DakshRocks21/SadGuard",
   "Tracks": ["Vulnerability Assessment"],
   "Speakers": ["Xiyuan Chen", "Bowen Hu", "Daksh Thapar", "Gabriel Seet", "Joel Peh", "Jolene Tay"],
   "Region": "",

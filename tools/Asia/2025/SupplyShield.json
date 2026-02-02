@@ -1,7 +1,7 @@
 {
   "Tool Name": "SupplyShield",
   "Description": "SupplyShield is a comprehensive supply chain security framework aimed at defending against the increasingly sophisticated attacks posed by software supply chain vulnerabilities. With numerous organizations hosting hundreds of micro-services and thousands of builds occurring daily, effectively monitoring the software supply chain to construct the final application becomes a complex challenge. This is where SupplyShield can assist any organization in seamlessly integrating this framework into their Software Development Lifecycle (SDLC) to ensure software supply chain security.",
-  "GitHub URL": "",
+  "GitHub URL": "https://github.com/supplyshield/supplyshield",
   "Tracks": ["Vulnerability Assessment"],
   "Speakers": ["Yadhu Krishna M", "Akhil Mahendra", "Hritik Vijay"],
   "Region": "",

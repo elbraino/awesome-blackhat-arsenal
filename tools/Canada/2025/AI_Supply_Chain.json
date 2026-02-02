@@ -1,7 +1,7 @@
 {
   "Tool Name": "AI Supply Chain",
   "Description": "AI systems are entering your software supply chain—whether you planned for it or not. This open-source tool is the first of its kind to generate AI Software Bills of Materials (AI SBOM) for AI models on Hugging Face, extracting and inferring metadata into CycloneDX JSON format. It includes a built-in completeness scoring system, supports SBOM downloads, and provides APIs for easy integration into security workflows.",
-  "GitHub URL": "https://huggingface.co/spaces/GenAISecurityProject/OWASP-AIBOM-Generator",
+  "GitHub URL": "https://github.com/GenAI-Security-Project/aibom-generator",
   "Tracks": [
     "AI, ML & Data Science"
   ],

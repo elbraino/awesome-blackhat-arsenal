@@ -1,7 +1,7 @@
 {
   "Tool Name": "ReARM",
   "Description": "ReARM a DevSecOps and Supply Chain Security tool to organize product and component releases with their metadata, including various Bills of Materials (SBOMs / xBOMs).",
-  "GitHub URL": "",
+  "GitHub URL": "https://github.com/relizaio/rearm",
   "Tracks": [
     "Vulnerability Assessment"
   ],
