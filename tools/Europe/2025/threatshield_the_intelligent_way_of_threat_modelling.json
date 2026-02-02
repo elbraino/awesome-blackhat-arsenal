@@ -3,7 +3,7 @@
   "Description": "ThreatShield is an AI-powered threat modeling and security analysis tool designed to automate and elevate threat modeling using OpenAI's enterprise API. It processes raw documents like PRDs, architecture diagrams, confluence docs, slack threads and meeting transcripts to generate structured STRIDE-based threat models, attack trees, DREAD scoring, and mitigstions.",
   "Github URL": "https://github.com/vartulzeroshieldai/Threat-Shield",
   "Tracks": [
-    "Arsenal Labs"
+    "Arsenal Lab"
   ],
   "Speakers": [
     "Satyam Nagpal",

@@ -3,7 +3,7 @@
   "Description": "Come join a fun and educational attack and defence AI wargame. You will be given an AI chatbot. Your chatbot has a secret that should always remain a secret! Your objective is to secure your chatbot to protect its secret while attacking other players' chatbots and discovering theirs. The winner is the player whose chatbot survives the longest (king of the hill). All skill levels are welcomed, even if this is your first time seeing code, securing a chatbot, or playing in a wargame.",
   "Github URL": "https://github.com/jlehett/everglades-ai-wargame",
   "Tracks": [
-    "Arsenal Labs"
+    "Arsenal Lab"
   ],
   "Speakers": [
     "Pedram Hayati",

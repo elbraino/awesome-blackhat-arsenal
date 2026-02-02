@@ -3,7 +3,7 @@
   "Description": "Minino is a Swiss Army knife for IoT hacking, designed to empower security professionals with a versatile, all-in-one toolkit for assessing and attacking IoT devices. Minino integrates WiFi, Bluetooth Low Energy (BLE), Zigbee, Thread, Matter, and a GPS module into a compact, open-source hardware solution",
   "Github URL": "https://github.com/ElectronicCats/Minino",
   "Tracks": [
-    "Arsenal Labs"
+    "Arsenal Lab"
   ],
   "Speakers": [
     "Paulino Calderon",

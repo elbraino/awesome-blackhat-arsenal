@@ -3,7 +3,7 @@
   "Description": "Monitoring is often seen as a silver bullet for ICS security—but how effective is it really? In this Arsenal demo lab, you'll launch real attacks against an industrial setup composed of PLCs and SCADA controlling a model train and robotic arms. We'll assess which attacks are detected (or not!), leveraging two newly released plugins we developed to add more ICS capabilities to MITRE CALDERA: caldera-s7 and caldera-opcua.",
   "Github URL": "https://github.com/wavestone-cdt/caldera-s7",
   "Tracks": [
-    "Arsenal Labs"
+    "Arsenal Lab"
   ],
   "Speakers": [
     "Arnaud Soullie",
