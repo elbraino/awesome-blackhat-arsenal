@@ -1,7 +1,7 @@
 {
   "Tool Name": "AI Wargame (Lab)",
   "Speakers": "Dr.Pedram Hayati, Muhammad Hamza Ali",
-  "Tracks": null,
+  "Tracks": ["AI, ML & Data Science"],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/mohamadgsalim/ai-wargame",
   "Description": null,

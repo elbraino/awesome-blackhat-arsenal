@@ -1,7 +1,7 @@
 {
   "Tool Name": "Identify Malicious Python & Nodejs Packages with Guarddog",
   "Speakers": "Eslam Salem",
-  "Tracks": null,
+  "Tracks": ["Malware Defense"],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/DataDog/guarddog",
   "Description": null,

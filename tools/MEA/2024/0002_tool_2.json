@@ -1,7 +1,7 @@
 {
   "Tool Name": "Genzai - The IoT Security Toolkit",
   "Speakers": "UMAIR NEHRI, TALEB M ALTAMIMI",
-  "Tracks": null,
+  "Tracks": ["IoT"],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/umair9747/Genzai",
   "Description": null,

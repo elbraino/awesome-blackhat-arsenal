@@ -1,7 +1,7 @@
 {
   "Tool Name": "EMBA \u2013 From firmware to exploi",
   "Speakers": "Micheal Messner",
-  "Tracks": null,
+  "Tracks": ["Hardware / Embedded"],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/e-m-b-a/emba",
   "Description": null,

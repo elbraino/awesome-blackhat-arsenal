@@ -1,7 +1,7 @@
 {
   "Tool Name": "Automated reports with AI using Hun2race Tool for Bughunters",
   "Speakers": "ALI ALHUMAID",
-  "Tracks": null,
+  "Tracks": ["Vulnerability Assessment"],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/sudobyter-hub/Hun2race",
   "Description": null,

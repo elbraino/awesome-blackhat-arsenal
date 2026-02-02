@@ -1,7 +1,7 @@
 {
   "Tool Name": "PIIscout - a fast and customizable PII scanner",
   "Speakers": "Owais Shaikh",
-  "Tracks": null,
+  "Tracks": ["AppSec"],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/0x4f53/PIIscout",
   "Description": null,

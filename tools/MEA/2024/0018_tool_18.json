@@ -1,7 +1,7 @@
 {
   "Tool Name": "Opensource Tool - Exposor: (Identifying the Exposure of Technologies using Internet Connected Device Platforms)",
   "Speakers": "Abdulla Abdullayev",
-  "Tracks": null,
+  "Tracks": ["OSINT - Open Source Intelligence"],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/abuyv/exposor",
   "Description": null,

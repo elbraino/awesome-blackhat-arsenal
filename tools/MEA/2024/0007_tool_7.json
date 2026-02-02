@@ -1,7 +1,7 @@
 {
   "Tool Name": "Use opensource AI to map alerts & logs into techniques, clusters, and killchains",
   "Speakers": "KUNAL AGGARWAL",
-  "Tracks": null,
+  "Tracks": ["AI, ML & Data Science"],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/keephq/keep",
   "Description": null,

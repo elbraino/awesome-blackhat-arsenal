@@ -1,7 +1,7 @@
 {
   "Tool Name": "Aegis Scan - An AI powered Web Vulnerability Scanner",
   "Speakers": "Simardeep Singh, Anikait Sabharwal",
-  "Tracks": null,
+  "Tracks": ["Web AppSec"],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/tombstoneghost/AegisScan",
   "Description": null,
