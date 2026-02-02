@@ -1,7 +1,9 @@
 {
   "Tool Name": "Genzai - The IoT Security Toolkit",
   "Speakers": "UMAIR NEHRI, TALEB M ALTAMIMI",
-  "Tracks": ["IoT"],
+  "Tracks": [
+    "Internet Of Things"
+  ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/umair9747/Genzai",
   "Description": "An IoT security toolkit that identifies IoT device dashboards and scans them for default credentials and known vulnerabilities.",
