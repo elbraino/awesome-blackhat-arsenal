@@ -1,12 +1,12 @@
 {
-  "Tool Name": "EMBA \u2013 Open-Source Firmware Security Testing",
+  "Tool Name": "EMBA – Open-Source Firmware Security Testing",
   "Speakers": [
     "Michael Messner",
     "Pascal Eckmann"
   ],
   "Tracks": [
     "Hardware / Embedded",
-    "Internet of Things"
+    "Internet Of Things"
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/e-m-b-a/emba",

@@ -1,8 +1,10 @@
 {
   "Tool Name": "Rickmote Controller",
-  "Speakers": ["Dan Petro"],
+  "Speakers": [
+    "Dan Petro"
+  ],
   "Tracks": [
-    "Internet of Things"
+    "Internet Of Things"
   ],
   "Event": "BH-US-14",
   "Github URL": "https://github.com/BishopFox/rickmote",
