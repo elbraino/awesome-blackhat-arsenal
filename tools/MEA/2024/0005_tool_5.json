@@ -4,7 +4,7 @@
   "Tracks": ["Cloud Security"],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/Devang-Solanki/Varunastra",
-  "Description": null,
+  "Description": "Varunastra is engineered to detect and help mitigate vulnerabilities in Docker, ensuring robust security across all Docker containers and images",
   "Year": "2024",
   "Location": null
 }
