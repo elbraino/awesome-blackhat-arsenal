@@ -1,7 +1,7 @@
 {
   "Tool Name": "Siege",
   "Description": "CTFs and Attack-Defense competitions are very popular in cybersecurity and help security practitioners sharpen their skills. However, most of the challenges that you encounter reinforce offensive security knowledge. This type of learning does not match the skills of many blue teamers and other professionals requiring defensive expertise: software developers, testers, architects, and IT specialists. To fill the need for defensive training, we are releasing Siege - a competition software we have successfully used in national cybersecurity games in Canada. The Siege contest environment consists of a scoreboard server and a set of player environments, each containing an attack bot and a set of vulnerable services. Each team must defend their services and fix vulnerabilities that they find while maintaining uptime and preserving original functionality. Varying request patterns, encrypted protocols, and hard-to-spot logic errors make this a challenging contest while emphasizing the testing of players' defensive knowledge. We will describe the competition environment architecture, demo its functionality and discuss do's and don't of developing defence challenges.",
-  "GitHub URL": "",
+  "GitHub URL": "https://github.com/0xd13a/siege",
   "Tracks": ["Code Assessment"],
   "Speakers": ["Dmitriy Beryoza"],
   "Region": "Canada",
