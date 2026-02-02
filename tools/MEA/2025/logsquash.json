@@ -3,7 +3,7 @@
   "Description": "LogSquash condenses and consolidates logs before SIEM ingestion to significantly reduce costs while retaining security value.",
   "Github URL": "",
   "Tracks": [
-    "Arsenal"
+    "Network Defense"
   ],
   "Speakers": [
     "ezzeldin tahoun"
