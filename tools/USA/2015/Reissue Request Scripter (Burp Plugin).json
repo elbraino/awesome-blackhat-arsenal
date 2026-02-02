@@ -2,7 +2,7 @@
   "Tool Name": "Reissue Request Scripter (Burp Plugin)",
   "Speakers": null,
   "Tracks": [
-    "Track: Web AppSec"
+    "Web AppSec"
   ],
   "Event": "BH-US-15",
   "Github URL": "https://github.com/PortSwigger/reissue-request-scripter",

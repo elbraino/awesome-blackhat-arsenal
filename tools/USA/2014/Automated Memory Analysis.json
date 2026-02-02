@@ -2,7 +2,7 @@
   "Tool Name": "Automated Memory Analysis",
   "Speakers": null,
   "Tracks": [
-    "Track: Reverse Engineering"
+    "Reverse Engineering"
   ],
   "Event": "BH-US-14",
   "Github URL": "https://github.com/djteller/MemoryAnalysis",

@@ -2,7 +2,7 @@
   "Tool Name": "w3af: Web Security Scanner",
   "Speakers": null,
   "Tracks": [
-    "Track: Web AppSec"
+    "Web AppSec"
   ],
   "Event": "BH-US-14",
   "Github URL": "https://github.com/andresriancho/w3af",

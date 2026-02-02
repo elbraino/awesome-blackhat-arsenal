@@ -2,7 +2,7 @@
   "Tool Name": "Zig Tools",
   "Speakers": null,
   "Tracks": [
-    "Track: Hardware / Embedded"
+    "Hardware / Embedded"
   ],
   "Event": "BH-US-14",
   "Github URL": "https://github.com/NTBBloodbath/zig-tools.nvim",

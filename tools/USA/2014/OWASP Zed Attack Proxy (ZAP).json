@@ -2,7 +2,7 @@
   "Tool Name": "OWASP Zed Attack Proxy (ZAP)",
   "Speakers": null,
   "Tracks": [
-    "Track: Web AppSec"
+    "Web AppSec"
   ],
   "Event": "BH-US-14",
   "Github URL": "https://github.com/pdsoftplan/zap-maven-plugin",

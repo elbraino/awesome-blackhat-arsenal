@@ -2,7 +2,7 @@
   "Tool Name": "Melkor - An ELF File Format Fuzzer",
   "Speakers": null,
   "Tracks": [
-    "Track: Reverse Engineering"
+    "Reverse Engineering"
   ],
   "Event": "BH-US-14",
   "Github URL": "https://github.com/IOActive/Melkor_ELF_Fuzzer",

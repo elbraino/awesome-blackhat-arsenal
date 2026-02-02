@@ -2,7 +2,7 @@
   "Tool Name": "CHIPSEC",
   "Speakers": null,
   "Tracks": [
-    "Track: Hardware / Embedded"
+    "Hardware / Embedded"
   ],
   "Event": "BH-US-14",
   "Github URL": "https://github.com/chipsec/chipsec",
