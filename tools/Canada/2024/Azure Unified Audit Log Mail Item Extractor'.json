@@ -8,7 +8,7 @@
   ],
   "Github URL": "https://github.com/invictus-ir/Microsoft-Extractor-Suite",
   "Event": "BH-ARSENAL",
-  "Description": "",
+  "Description": "A PowerShell module for acquiring data from Microsoft 365 and Azure for incident response and cyber security purposes. It automates the extraction of logs, audit trails, and configuration data across Exchange Online, Entra ID, and Azure environments.",
   "Year": "2024",
   "Location": "Canada"
 }

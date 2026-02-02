@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/bw3ll/rop_rocket",
-  "Description": null,
+  "Description": "An advanced code-reuse attack framework with extensive ROP chain generation capabilities, designed to automate the creation of return-oriented programming exploits.",
   "Year": "2023",
   "Location": "Europe"
 }

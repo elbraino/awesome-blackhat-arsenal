@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/agrawalsmart7/scodescanner",
-  "Description": null,
+  "Description": "A command-line Python tool that scans source code for security vulnerabilities before deployment, supporting PHP and YAML with integrations for Jira and Slack reporting.",
   "Year": "2023",
   "Location": "Asia"
 }

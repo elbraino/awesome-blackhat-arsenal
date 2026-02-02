@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/cyber-defence-campus/droneRemoteIDSpoofer",
-  "Description": null,
+  "Description": "A Python script that broadcasts spoofed drone Remote IDs over WiFi using ASD-STAN and DJI formats, supporting single or multiple spoofed drones in random or specific locations.",
   "Year": "2023",
   "Location": "Europe"
 }

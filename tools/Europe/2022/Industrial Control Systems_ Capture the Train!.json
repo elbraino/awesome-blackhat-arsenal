@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/hslatman/awesome-industrial-control-system-security",
-  "Description": null,
+  "Description": "A curated collection of resources for Industrial Control System (ICS) security, including tools, honeypots, research literature, educational materials, and threat intelligence feeds relevant to securing critical infrastructure and SCADA systems.",
   "Year": "2022",
   "Location": "Europe"
 }

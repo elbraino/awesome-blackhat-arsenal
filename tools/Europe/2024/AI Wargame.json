@@ -10,7 +10,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/mohamadgsalim/ai-wargame",
-  "Description": null,
+  "Description": "A strategic two-player game using adversarial search algorithms including minimax and alpha-beta pruning for AI opponents, implemented in Python.",
   "Year": "2024",
   "Location": "Europe"
 }

@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/punk-security/smbeagle",
-  "Description": null,
+  "Description": "A cross-platform SMB file share auditing tool that scans networks for accessible files and reports their read/write permissions, with findings exportable to CSV or Elasticsearch.",
   "Year": "2021",
   "Location": "Europe"
 }

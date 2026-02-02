@@ -4,7 +4,7 @@
   "Tracks": ["Data Forensics and Incident Response"],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/AmgdGocha/DriveFS-Sleuth",
-  "Description": null,
+  "Description": "DriveFS Sleuth is a Python tool for investigating Google Drive File Stream disk artifacts, capable of parsing cached files, recovering deleted items, and generating forensic reports for cloud storage activity analysis.",
   "Year": "2024",
   "Location": null
 }

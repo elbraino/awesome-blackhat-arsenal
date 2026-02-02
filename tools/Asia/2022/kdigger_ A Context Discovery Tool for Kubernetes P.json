@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/quarkslab/kdigger",
-  "Description": null,
+  "Description": "A Kubernetes-focused penetration testing tool that runs inside pods to discover security contexts and vulnerabilities, automating checks on capabilities, namespaces, admission controllers, and available services within a cluster.",
   "Year": "2022",
   "Location": "Asia"
 }

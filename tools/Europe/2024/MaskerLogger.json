@@ -10,7 +10,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/oxsecurity/MaskerLogger",
-  "Description": null,
+  "Description": "A Python logging formatter that automatically masks sensitive information with asterisks before output, preventing accidental exposure of secrets in application logs.",
   "Year": "2024",
   "Location": "Europe"
 }

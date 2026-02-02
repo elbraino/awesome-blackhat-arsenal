@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/dronesploit/dronesploit",
-  "Description": null,
+  "Description": "A pentesting framework built on sploitkit that provides a Metasploit-like console interface for conducting security assessments on commercial drones, bundling drone hacking techniques and exploits into an organized CLI tool.",
   "Year": "2021",
   "Location": "USA"
 }

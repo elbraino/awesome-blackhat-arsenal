@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/penthertz/rf-swift",
-  "Description": null,
+  "Description": "A containerized RF testing toolkit that deploys specialized radio frequency tools on Linux, Windows, and macOS without requiring a dedicated operating system.",
   "Year": "2024",
   "Location": "Europe"
 }

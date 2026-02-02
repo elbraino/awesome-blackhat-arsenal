@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/brightio/penelope",
-  "Description": null,
+  "Description": "An advanced shell handler designed as a modern replacement for netcat during reverse shell exploitation, simplifying and optimizing post-exploitation workflows.",
   "Year": "2024",
   "Location": "Europe"
 }

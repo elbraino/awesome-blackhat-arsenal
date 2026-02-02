@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/checkmarx/chainalert-github-action",
-  "Description": null,
+  "Description": "A free monitoring service that scans popular packages and alerts maintainers and dependent projects of potential supply chain attacks by automatically opening GitHub issues when suspicious activity is detected on their dependencies.",
   "Year": "2022",
   "Location": "Asia"
 }

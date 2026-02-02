@@ -8,7 +8,7 @@
   ],
   "Github URL": "https://github.com/cyberark/woarkd",
   "Event": "BH-ARSENAL",
-  "Description": "",
+  "Description": "A utility for Windows 11 ARM64 systems that detects SSDT hooking attempts, a technique used by rootkits to intercept system calls by modifying kernel function pointers.",
   "Year": "2023",
   "Location": "Canada"
 }

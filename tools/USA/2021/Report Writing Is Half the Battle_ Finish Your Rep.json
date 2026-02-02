@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/apress/from-hacking-to-report-writing",
-  "Description": null,
+  "Description": "Source code and resources accompanying the book 'From Hacking to Report Writing' by Robert Svensson, providing examples and templates to help penetration testers efficiently produce professional security assessment reports.",
   "Year": "2021",
   "Location": "USA"
 }

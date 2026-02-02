@@ -10,7 +10,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/blackdiverx/cqtools",
-  "Description": null,
+  "Description": "A collection of security and system administration tools for Windows, including utilities for decryption, credential dumping, registry manipulation, and other system-level operations.",
   "Year": "2019",
   "Location": "Asia"
 }

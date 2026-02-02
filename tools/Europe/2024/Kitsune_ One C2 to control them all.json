@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/mozilla/kitsune",
-  "Description": null,
+  "Description": "A unified command-and-control (C2) framework that integrates and manages multiple C2 platforms from a single interface, streamlining red team operations.",
   "Year": "2024",
   "Location": "Europe"
 }

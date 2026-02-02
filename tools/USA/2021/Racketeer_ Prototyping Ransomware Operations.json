@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/dsnezhkov/racketeer",
-  "Description": null,
+  "Description": "A toolkit for security teams to simulate and test detection of common ransomware operations in a controlled manner against company assets and network endpoints. It uses an agent/server architecture running on Windows endpoints with cross-platform command-and-control capabilities.",
   "Year": "2021",
   "Location": "USA"
 }

@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/ossf/wg-supply-chain-integrity",
-  "Description": null,
+  "Description": "An OpenSSF working group that develops frameworks and tools such as SLSA, GUAC, and gittuf to help open source maintainers, contributors, and end-users assess and improve the security of end-to-end software supply chains.",
   "Year": "2022",
   "Location": "Asia"
 }

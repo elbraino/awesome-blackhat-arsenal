@@ -10,7 +10,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/cyberark/ByteCodeLLM",
-  "Description": null,
+  "Description": "A comprehensive framework for decompiling intermediate language-based files (such as Python bytecode) back to source code using a locally-run fine-tuned LLM for both efficiency and privacy.",
   "Year": "2024",
   "Location": "Europe"
 }

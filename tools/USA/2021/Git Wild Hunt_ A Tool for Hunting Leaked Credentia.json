@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/josehelps/git-wild-hunt",
-  "Description": null,
+  "Description": "Git Wild Hunt is a Python tool that searches GitHub repositories for exposed credentials and secrets, leveraging GitHub's advanced search functionality with regex pattern matching to identify API keys, tokens, and private keys.",
   "Year": "2021",
   "Location": "USA"
 }

@@ -11,7 +11,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/stevemats/Hacker-Arsenal-Toolkit",
-  "Description": null,
+  "Description": "A hands-on Arsenal Lab workshop teaching participants how to prototype malicious hardware implants on the cheap, covering hardware attack techniques for security research and penetration testing.",
   "Year": "2019",
   "Location": "USA"
 }

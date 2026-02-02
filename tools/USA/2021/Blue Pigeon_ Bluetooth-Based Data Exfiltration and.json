@@ -10,7 +10,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/bluepigeonproject/blue-pigeon",
-  "Description": null,
+  "Description": "Blue Pigeon is a Bluetooth-based data exfiltration and proxy tool that enables communication between a remote C2 server and a compromised host, using an Android phone as an intermediary to bypass traditional network monitoring.",
   "Year": "2021",
   "Location": "USA"
 }

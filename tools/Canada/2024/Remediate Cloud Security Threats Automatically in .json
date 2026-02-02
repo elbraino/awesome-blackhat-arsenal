@@ -10,7 +10,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/falcosecurity/falco",
-  "Description": null,
+  "Description": "A cloud-native runtime security tool for Linux that monitors kernel events like syscalls and alerts on abnormal behavior in real-time, with support for container and Kubernetes metadata enrichment.",
   "Year": "2024",
   "Location": "Canada"
 }

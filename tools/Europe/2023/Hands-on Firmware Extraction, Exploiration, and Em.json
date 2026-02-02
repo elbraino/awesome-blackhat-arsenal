@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/onekey-sec/BHEU23-firmware-workshop",
-  "Description": null,
+  "Description": "Workshop materials for hands-on firmware security analysis using unblob, a flexible firmware extractor that automatically identifies, carves, decompresses, and extracts nested file systems and archives from firmware images.",
   "Year": "2023",
   "Location": "Europe"
 }

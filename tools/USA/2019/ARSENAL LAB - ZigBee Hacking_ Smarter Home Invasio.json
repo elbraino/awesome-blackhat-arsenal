@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/Koenkk/zigbee2mqtt",
-  "Description": null,
+  "Description": "ZigDiggity is a ZigBee hacking toolkit for testing the security of ZigBee-based smart home devices, enabling security researchers to identify vulnerabilities in ZigBee network implementations.",
   "Year": "2019",
   "Location": "USA"
 }

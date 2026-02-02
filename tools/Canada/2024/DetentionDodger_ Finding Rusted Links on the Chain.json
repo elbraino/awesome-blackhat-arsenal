@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/permiso-io-tools/detentiondodger",
-  "Description": null,
+  "Description": "A security assessment tool that identifies AWS IAM users whose credentials have been compromised by searching for users with quarantine policies and analyzing their permissions against known attack scenarios.",
   "Year": "2024",
   "Location": "Canada"
 }

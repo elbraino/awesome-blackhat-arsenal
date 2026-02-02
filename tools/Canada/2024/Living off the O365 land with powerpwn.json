@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/mbrg/power-pwn",
-  "Description": null,
+  "Description": "An offensive and defensive security toolset for Microsoft 365 Power Platform that provides modules for tenant scanning, Copilot security testing, discovering misconfigured bots, and identifying data exposure risks.",
   "Year": "2024",
   "Location": "Canada"
 }

@@ -4,7 +4,7 @@
   "Tracks": ["Cloud Security"],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/CyberSecurityUP/Cloud-Security-Attacks",
-  "Description": null,
+  "Description": "A curated collection of resources documenting cloud security attack techniques and mitigation strategies across AWS, Azure, GCP, and OCI, serving as a reference guide for penetration testers.",
   "Year": "2024",
   "Location": null
 }

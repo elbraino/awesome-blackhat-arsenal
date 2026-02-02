@@ -10,7 +10,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/honeynet/riotpot",
-  "Description": null,
+  "Description": "A modular hybrid-interaction honeypot focused on emulating IoT and OT protocols, functioning as a proxy service that routes incoming attacks to various internal and external honeypot services.",
   "Year": "2021",
   "Location": "Europe"
 }

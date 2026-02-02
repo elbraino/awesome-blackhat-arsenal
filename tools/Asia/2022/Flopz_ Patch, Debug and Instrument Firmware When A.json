@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/flopz-project/flopz",
-  "Description": null,
+  "Description": "A pure Python assembler toolkit for creating shellcode, dynamically patching binaries, and instrumenting firmware images for debugging and fuzzing across multiple processor architectures.",
   "Year": "2022",
   "Location": "Asia"
 }

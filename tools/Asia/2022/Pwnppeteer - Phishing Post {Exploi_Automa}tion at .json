@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/muraenateam/pwnppeteer",
-  "Description": null,
+  "Description": "An AWS Lambda-based tool that uses Puppeteer and headless Chromium to automate phishing post-exploitation tasks at scale in a serverless environment, deploying via the Serverless Framework.",
   "Year": "2022",
   "Location": "Asia"
 }

@@ -9,7 +9,7 @@
   ],
   "Github URL": "https://github.com/DomdogSec/NodeSecurityShield",
   "Event": "BH-ARSENAL",
-  "Description": null,
+  "Description": "A Runtime Application Self-Protection (RASP) tool for Node.js that enables developers to declare resource access permissions through a Resource Access Policy, monitoring and blocking unauthorized outbound network requests and command executions.",
   "Year": "2022",
   "Location": "Asia"
 }

@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/jasonxtn/Kraken",
-  "Description": null,
+  "Description": "A WiFi monitoring and analysis platform that captures wireless traffic at scale using multiple radio interfaces, enabling security researchers to passively collect and analyze 802.11 frames for assessment and research purposes.",
   "Year": "2021",
   "Location": "USA"
 }

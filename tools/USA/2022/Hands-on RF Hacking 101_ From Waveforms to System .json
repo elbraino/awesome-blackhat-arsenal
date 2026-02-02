@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/busydadsec/cyber-labs",
-  "Description": null,
+  "Description": "A collection of hands-on cybersecurity lab materials covering RF hacking, wireless security, and SDR signal manipulation using tools like HackRF One, designed for practical training in radio frequency security assessment.",
   "Year": "2022",
   "Location": "USA"
 }

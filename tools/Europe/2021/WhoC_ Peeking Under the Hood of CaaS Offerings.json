@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/twistlock/whoc",
-  "Description": null,
+  "Description": "A container image that extracts the underlying container runtime and sends it to a remote server, exploiting the exposure of runtimes through /proc/self/exe to reveal what container infrastructure CaaS providers use.",
   "Year": "2021",
   "Location": "Europe"
 }

@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/unicode-org/icu",
-  "Description": null,
+  "Description": "ICU-ICS is an Industrial Control Systems (ICS) assessment framework tool designed to help security professionals evaluate and test the security posture of ICS and SCADA environments.",
   "Year": "2019",
   "Location": "USA"
 }

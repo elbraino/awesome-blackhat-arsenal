@@ -10,7 +10,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/vmware-labs/emotet-loader",
-  "Description": null,
+  "Description": "A tool that executes Emotet botnet modules in isolation for security research, allocating required data structures and invoking custom entry points to enable analysis tasks like debugging and network activity monitoring without infecting the host.",
   "Year": "2022",
   "Location": "Europe"
 }

@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/CreateWithPlayApp/PlaySDK",
-  "Description": null,
+  "Description": "An open-source SDK that enables developers to model security attacks as software tests, allowing dev-oriented application security challenges to be integrated into the development workflow.",
   "Year": "2023",
   "Location": "Canada"
 }

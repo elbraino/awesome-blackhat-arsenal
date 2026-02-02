@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/Ne0nd0g/merlin",
-  "Description": null,
+  "Description": "A cross-platform post-exploitation command and control (C2) server and agent written in Go that uses HTTP/2 and other protocols to enable operators to maintain persistence and execute commands on compromised systems.",
   "Year": "2021",
   "Location": "USA"
 }

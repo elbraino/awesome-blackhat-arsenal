@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/b04zdotcom/rfid-hacking-cloning",
-  "Description": null,
+  "Description": "An educational toolkit providing instructions for reading, cloning, and writing to RFID cards using devices like Proxmark3 and PN532, covering both Low Frequency and High Frequency RFID systems.",
   "Year": "2023",
   "Location": "Asia"
 }

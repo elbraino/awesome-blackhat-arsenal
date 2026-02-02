@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/0maramr/vehicle-control-system",
-  "Description": null,
+  "Description": "A C-language simulation of a vehicle dashboard that models engine status, sensor data monitoring, and automatic control systems like AC and speed based on real-time conditions, used for automotive security research and training.",
   "Year": "2022",
   "Location": "USA"
 }

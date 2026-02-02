@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/nccgroup/Pmapper",
-  "Description": null,
+  "Description": "A security analysis tool that models IAM Users and Roles in an AWS account as a directed graph to identify privilege escalation risks and unauthorized access paths. It simulates AWS authorization behavior locally to detect when principals could gain unintended access through intermediate roles.",
   "Year": "2021",
   "Location": "USA"
 }

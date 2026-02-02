@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/arvindbhamidipati/ATM-Network-System",
-  "Description": null,
+  "Description": "A Java-based project that simulates an ATM network infrastructure where multiple banks operate connected ATM machines, modeling interactions between banks, ATMs, customer accounts, and debit cards within a shared network.",
   "Year": "2020",
   "Location": "Europe"
 }

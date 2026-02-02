@@ -10,7 +10,7 @@
   ],
   "Github URL": "https://github.com/crowdsecurity/crowdsec",
   "Event": "BH-ARSENAL",
-  "Description": null,
+  "Description": "An open-source and participative security solution that analyzes logs and HTTP requests to detect threats, functioning as an integrated IDS/IPS that allows users to contribute to a shared community blocklist of malicious IPs.",
   "Year": "2022",
   "Location": "Asia"
 }

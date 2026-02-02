@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/roottusk/vapi",
-  "Description": null,
+  "Description": "A self-hostable, intentionally vulnerable API application built on PHP and Laravel that mimics OWASP API Top 10 scenarios as exercises, enabling security professionals and students to practice identifying and exploiting common API vulnerabilities.",
   "Year": "2023",
   "Location": "USA"
 }

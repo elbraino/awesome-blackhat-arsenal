@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/grandideastudio/jtagulator",
-  "Description": null,
+  "Description": "An open-source hardware tool that assists in identifying on-chip debug (OCD) interfaces such as JTAG and UART from test points on electronic devices.",
   "Year": "2020",
   "Location": "Europe"
 }

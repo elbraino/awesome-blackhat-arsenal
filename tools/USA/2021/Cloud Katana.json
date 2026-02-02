@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/Azure/Cloud-Katana",
-  "Description": null,
+  "Description": "Cloud Katana is an event-driven, serverless application built on Azure Functions that automates the execution of attack simulation steps to expedite security control research and assessment in cloud and hybrid environments.",
   "Year": "2021",
   "Location": "USA"
 }

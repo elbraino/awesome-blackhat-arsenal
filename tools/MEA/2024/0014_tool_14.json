@@ -4,7 +4,7 @@
   "Tracks": ["Malware Defense"],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/DataDog/guarddog",
-  "Description": null,
+  "Description": "GuardDog is a CLI tool that identifies malicious PyPI, npm, Go, RubyGems, GitHub Actions, and VSCode extension packages by running heuristics on package source code and metadata to detect dangerous code patterns.",
   "Year": "2024",
   "Location": null
 }

@@ -4,7 +4,7 @@
   "Tracks": ["Cloud Security"],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/masterpointio/terraform-aws-nuke-bomber",
-  "Description": null,
+  "Description": "A Terraform module that deploys infrastructure to automatically run aws-nuke on a schedule via ECS Fargate, removing all resources in a given AWS account for test environment cleanup and cost reduction.",
   "Year": "2024",
   "Location": null
 }

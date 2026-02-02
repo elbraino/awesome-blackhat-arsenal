@@ -8,7 +8,7 @@
   ],
   "Github URL": "https://github.com/helviojunior/avsniper",
   "Event": "BH-ARSENAL",
-  "Description": "",
+  "Description": "A security analysis tool that identifies which specific strings in Windows executable files trigger antivirus detection by systematically extracting strings from PE files, creating modified versions, and testing them against antivirus software.",
   "Year": "2024",
   "Location": "Canada"
 }

@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/apiiro/combobulator",
-  "Description": null,
+  "Description": "An open-source, modular framework designed to detect and prevent dependency confusion attacks by evaluating packages across different sources and package management systems like npm and Maven.",
   "Year": "2021",
   "Location": "Europe"
 }

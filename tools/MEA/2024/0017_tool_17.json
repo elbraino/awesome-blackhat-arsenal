@@ -4,7 +4,7 @@
   "Tracks": ["Hardware / Embedded"],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/e-m-b-a/emba",
-  "Description": null,
+  "Description": "EMBA is a firmware security analyzer for embedded devices that automatically discovers vulnerabilities including insecure binaries, outdated software components, vulnerable scripts, and hard-coded passwords through static and dynamic analysis.",
   "Year": "2024",
   "Location": null
 }

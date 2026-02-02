@@ -8,7 +8,7 @@
   ],
   "Github URL": "https://github.com/Quantumite/NopEmulator",
   "Event": "BH-ARSENAL",
-  "Description": null,
+  "Description": "A Ghidra script that emulates Intel x64 instructions to determine if a NOP sled is present in a binary by executing code sequences and comparing execution context before and after, useful for malware analysis and exploit detection.",
   "Year": "2024",
   "Location": "Canada"
 }

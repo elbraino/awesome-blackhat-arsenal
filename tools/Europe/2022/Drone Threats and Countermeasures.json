@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/ZhaoJ9014/Anti-UAV",
-  "Description": null,
+  "Description": "A computer vision project focused on discovering, detecting, recognizing, and tracking Unmanned Aerial Vehicle (UAV) targets using RGB and thermal infrared videos, with benchmark datasets and evaluation metrics.",
   "Year": "2022",
   "Location": "Europe"
 }

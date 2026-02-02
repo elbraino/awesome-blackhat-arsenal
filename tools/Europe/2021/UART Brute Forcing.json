@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/firefart/UARTBruteForcer",
-  "Description": null,
+  "Description": "A Python script that brute-forces login credentials via a serial (UART) connection on embedded devices.",
   "Year": "2021",
   "Location": "Europe"
 }

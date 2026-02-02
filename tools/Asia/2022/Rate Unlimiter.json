@@ -9,7 +9,7 @@
   ],
   "Github URL": "https://github.com/Anirban-Majumder/rate-unlimiter",
   "Event": "BH-ARSENAL",
-  "Description": null,
+  "Description": "A tool designed to test and bypass rate limiting mechanisms in web applications, helping security researchers identify weaknesses in rate limit implementations.",
   "Year": "2022",
   "Location": "Asia"
 }

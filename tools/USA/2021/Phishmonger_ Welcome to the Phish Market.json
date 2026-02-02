@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/fkasler/phishmonger",
-  "Description": null,
+  "Description": "A phishing platform designed for penetration testers that enables crafting phishing emails, creating templates, scheduling campaigns, and tracking results. It provides direct SMTP control, acts as its own mail server, and offers real-time campaign monitoring through websockets.",
   "Year": "2021",
   "Location": "USA"
 }

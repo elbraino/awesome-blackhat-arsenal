@@ -8,7 +8,7 @@
   ],
   "Github URL": "https://github.com/Telegrip/Telegrip",
   "Event": "BH-ARSENAL",
-  "Description": null,
+  "Description": "A GUI-based digital forensic application for extracting, parsing, and analyzing Telegram data from Android devices, supporting message recovery from channels, groups, and private chats with hash-verified report generation.",
   "Year": "2022",
   "Location": "Asia"
 }

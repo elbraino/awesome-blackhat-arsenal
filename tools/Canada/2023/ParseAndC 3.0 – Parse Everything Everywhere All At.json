@@ -8,7 +8,7 @@
   ],
   "Github URL": "https://github.com/intel/ParseAndC",
   "Event": "BH-ARSENAL",
-  "Description": null,
+  "Description": "A Python-based GUI tool that parses C structure declarations and maps them to binary data files, allowing users to visualize how variables are stored in memory with hex/ASCII representations.",
   "Year": "2023",
   "Location": "Canada"
 }

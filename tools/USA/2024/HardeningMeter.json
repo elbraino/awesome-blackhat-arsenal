@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/OfriOuzan/HardeningMeter",
-  "Description": null,
+  "Description": "A Python tool that evaluates security hardening mechanisms in binaries and Linux systems, checking for protections like stack canaries, ASLR, and PIE. It supports scanning files or directories and can output results as tables, CSV, or JSON formats.",
   "Year": "2024",
   "Location": "USA"
 }

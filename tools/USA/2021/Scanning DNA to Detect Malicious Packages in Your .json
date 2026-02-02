@@ -10,7 +10,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/ossf/malicious-packages",
-  "Description": null,
+  "Description": "A comprehensive database of known malicious software packages discovered in open source repositories, formatted according to the OSV (Open Source Vulnerability) standard to help developers identify and avoid compromised dependencies.",
   "Year": "2021",
   "Location": "USA"
 }

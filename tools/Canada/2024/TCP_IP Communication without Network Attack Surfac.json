@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/Marcokorcak/TCP-IP-Attack",
-  "Description": null,
+  "Description": "A cybersecurity lab demonstrating TCP/IP protocol vulnerabilities including SYN flood attacks, TCP reset attacks, session hijacking, and reverse shell creation using Docker containers to simulate network environments.",
   "Year": "2024",
   "Location": "Canada"
 }

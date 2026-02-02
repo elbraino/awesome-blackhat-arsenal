@@ -4,7 +4,7 @@
   "Tracks": ["Web AppSec"],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/tombstoneghost/AegisScan",
-  "Description": null,
+  "Description": "AegisScan is an AI-augmented web vulnerability scanner that integrates the OWASP ZAP engine with a machine-learning layer for detecting and prioritizing web application security flaws.",
   "Year": "2024",
   "Location": null
 }

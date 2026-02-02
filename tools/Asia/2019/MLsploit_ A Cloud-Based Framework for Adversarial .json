@@ -10,7 +10,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/mlsploit",
-  "Description": null,
+  "Description": "A cloud-based framework for interactive experimentation with adversarial machine learning research, providing a dockerized system with a REST API backend and web interface for studying ML vulnerabilities and attacks.",
   "Year": "2019",
   "Location": "Asia"
 }

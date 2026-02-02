@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/mvelazc0/purplesharp",
-  "Description": null,
+  "Description": "An open-source adversary simulation tool written in C# that executes MITRE ATT&CK techniques in Windows environments to generate attack telemetry, helping security teams build and validate detection capabilities.",
   "Year": "2023",
   "Location": "Asia"
 }

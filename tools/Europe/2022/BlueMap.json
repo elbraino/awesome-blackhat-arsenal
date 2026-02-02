@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/SikretaLabs/BlueMap",
-  "Description": null,
+  "Description": "An interactive exploitation toolkit that enables penetration testers and red teamers to conduct Azure auditing, discovery, enumeration, and exploitation while reducing operational complexity.",
   "Year": "2022",
   "Location": "Europe"
 }

@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/quarkslab/tritondse",
-  "Description": null,
+  "Description": "A Python library providing high-level exploration capabilities built on top of the Triton symbolic execution framework, enabling automated program analysis through dynamic symbolic execution with features like automatic binary loading, coverage tracking, and input handling.",
   "Year": "2021",
   "Location": "USA"
 }

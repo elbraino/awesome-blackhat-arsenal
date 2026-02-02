@@ -10,7 +10,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/ragulbalaji/RF-Xfil",
-  "Description": null,
+  "Description": "A prototype toolkit for data exfiltration over radio frequencies, demonstrating how a malicious USB-to-VGA dongle driver could secretly transmit data wirelessly using modulation techniques compatible with inexpensive RTL-SDR receivers.",
   "Year": "2019",
   "Location": "Asia"
 }

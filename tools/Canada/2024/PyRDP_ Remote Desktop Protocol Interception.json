@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/gosecure/pyrdp",
-  "Description": null,
+  "Description": "A Python-based RDP man-in-the-middle tool that intercepts Remote Desktop Protocol connections to capture credentials, monitor user activity, record sessions, and extract files transferred over RDP.",
   "Year": "2024",
   "Location": "Canada"
 }

@@ -9,7 +9,7 @@
   ],
   "Github URL": "https://github.com/guacsec/guac",
   "Event": "BH-ARSENAL",
-  "Description": null,
+  "Description": "A tool that aggregates software security metadata into a high-fidelity graph database, normalizing entity identities and mapping relationships to enable organizations to answer complex supply chain security questions through graph queries for auditing, policy enforcement, and risk management.",
   "Year": "2024",
   "Location": "USA"
 }

@@ -9,7 +9,7 @@
   ],
   "Github URL": "https://github.com/jlehett/everglades-ai-wargame",
   "Event": "BH-ARSENAL",
-  "Description": null,
+  "Description": "An AI wargame framework built around the OpenAI Gym API that enables reinforcement learning research by allowing developers to create and train intelligent agents that compete in a strategic battle environment.",
   "Year": "2024",
   "Location": "Canada"
 }

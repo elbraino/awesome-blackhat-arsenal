@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/vmware-labs/attack-surface-framework",
-  "Description": null,
+  "Description": "Attack Surface Framework (ASF) discovers and monitors external and internal network assets, acting as an attack surface watchdog by enumerating services, tracking changes, and executing targeted security tests through a unified web interface.",
   "Year": "2021",
   "Location": "USA"
 }

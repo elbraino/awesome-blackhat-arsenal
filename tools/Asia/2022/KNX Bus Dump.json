@@ -9,7 +9,7 @@
   ],
   "Github URL": "https://github.com/ChrisM09/KNX-Bus-Dump",
   "Event": "BH-ARSENAL",
-  "Description": null,
+  "Description": "A tool that records telegrams transmitted over a KNX building automation bus through a TPUART connection and exports them to Wireshark-compatible hex dump files for protocol and security analysis.",
   "Year": "2022",
   "Location": "Asia"
 }

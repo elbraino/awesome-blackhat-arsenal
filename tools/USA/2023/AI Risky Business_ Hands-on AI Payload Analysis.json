@@ -11,7 +11,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/aliasrobotics/cai",
-  "Description": null,
+  "Description": "A lightweight, open-source framework that empowers security professionals to build and deploy AI-powered offensive and defensive automation, enabling users to create specialized AI agents for vulnerability discovery, exploitation, and security assessment.",
   "Year": "2023",
   "Location": "USA"
 }

@@ -4,7 +4,7 @@
   "Tracks": ["AppSec"],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/0x4f53/PIIscout",
-  "Description": null,
+  "Description": "PIIscout is an AI-powered tool for continuous PII classification and reporting on the internet, providing specialized search dorks organized by country to locate organizations accidentally exposing personal information online.",
   "Year": "2024",
   "Location": null
 }

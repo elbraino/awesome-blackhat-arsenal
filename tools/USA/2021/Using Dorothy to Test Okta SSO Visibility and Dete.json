@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/elastic/dorothy",
-  "Description": null,
+  "Description": "A security testing tool that simulates attacker actions in Okta environments to help organizations evaluate their monitoring and detection capabilities. It maps simulated activities to MITRE ATT&CK tactics like persistence, defense evasion, and discovery.",
   "Year": "2021",
   "Location": "USA"
 }

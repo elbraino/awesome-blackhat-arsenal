@@ -4,7 +4,7 @@
   "Tracks": ["AI, ML & Data Science"],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/keephq/keep",
-  "Description": "The open-source AIOps and alert management platform",
+  "Description": "An open-source AIOps and alert management platform that centralizes alerts from 100+ monitoring tools, provides AI-powered correlation and deduplication, and enables workflow automation for incident response.",
   "Year": "2024",
   "Location": null
 }

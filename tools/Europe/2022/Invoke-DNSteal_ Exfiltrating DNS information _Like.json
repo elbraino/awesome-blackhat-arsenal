@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/JoelGMSec/Invoke-DNSteal",
-  "Description": null,
+  "Description": "A tool for exfiltrating data through the DNS protocol via UDP and TCP connections, with configurable query sizes, random delays, and randomized domain names to help avoid detection.",
   "Year": "2022",
   "Location": "Europe"
 }

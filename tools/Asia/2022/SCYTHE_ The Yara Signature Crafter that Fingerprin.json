@@ -10,7 +10,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/michaelfeathers/scythe",
-  "Description": null,
+  "Description": "A YARA signature crafting tool that automatically generates YARA rules to fingerprint and detect honeypot network traffic patterns.",
   "Year": "2022",
   "Location": "Asia"
 }

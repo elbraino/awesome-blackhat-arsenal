@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/secdevops-cuse/CyberRange",
-  "Description": null,
+  "Description": "CyberRange is an open-source AWS-based cyber range providing a bootstrap framework for offensive, defensive, reverse engineering, and security intelligence tooling in a private research lab environment.",
   "Year": "2021",
   "Location": "USA"
 }

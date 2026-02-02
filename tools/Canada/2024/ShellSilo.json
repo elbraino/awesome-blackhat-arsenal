@@ -8,7 +8,7 @@
   ],
   "Github URL": "https://github.com/nixpal/shellsilo",
   "Event": "BH-ARSENAL",
-  "Description": null,
+  "Description": "A Python-based utility that converts C syntax code into syscall assembly language and corresponding shellcode, streamlining the process of constructing structures, assigning variables, and making system calls for x64 Windows.",
   "Year": "2024",
   "Location": "Canada"
 }

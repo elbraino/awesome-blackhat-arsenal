@@ -11,7 +11,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/static-analysis-engineering/codehawk",
-  "Description": null,
+  "Description": "A sound static analysis platform based on abstract interpretation theory that provides a language-independent analysis engine with specialized front-ends for analyzing binary code, C source code, and Java bytecode to identify potential vulnerabilities and code issues.",
   "Year": "2024",
   "Location": "USA"
 }

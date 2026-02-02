@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/StamusNetworks/suricata-language-server",
-  "Description": null,
+  "Description": "A Language Server Protocol implementation that provides syntax checking, auto-completion, and real-time validation for Suricata intrusion detection signatures in code editors.",
   "Year": "2024",
   "Location": "Europe"
 }

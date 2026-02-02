@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/ManhNho/Faceless",
-  "Description": null,
+  "Description": "A deepfake detection system that uses convolutional neural networks to identify manipulated videos and images, providing a web interface for uploading media and receiving analysis on whether content has been artificially generated or altered.",
   "Year": "2023",
   "Location": "Asia"
 }

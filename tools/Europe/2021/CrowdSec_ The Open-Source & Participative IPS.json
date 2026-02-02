@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/crowdsecurity/crowdsec",
-  "Description": null,
+  "Description": "An open-source security platform that detects malicious behavior through log analysis and HTTP request inspection, leveraging crowdsourced threat intelligence to provide community-driven protection against malicious IPs.",
   "Year": "2021",
   "Location": "Europe"
 }

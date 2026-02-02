@@ -10,7 +10,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/mindstormsecurity/MACOBOX",
-  "Description": null,
+  "Description": "An all-in-one hacking toolbox for hardware penetration testing that enables firmware analysis and extraction from hardware interfaces like UART, SPI, I2C, and JTAG through an automated web interface.",
   "Year": "2024",
   "Location": "Europe"
 }

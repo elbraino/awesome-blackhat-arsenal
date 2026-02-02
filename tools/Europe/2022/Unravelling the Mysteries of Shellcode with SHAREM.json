@@ -10,7 +10,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/Bw3ll/sharem",
-  "Description": null,
+  "Description": "A Windows shellcode analysis framework that emulates over 20,000 WinAPIs and virtually all Windows syscalls, featuring a custom disassembler capable of revealing deobfuscated code from encoded shellcode.",
   "Year": "2022",
   "Location": "Europe"
 }

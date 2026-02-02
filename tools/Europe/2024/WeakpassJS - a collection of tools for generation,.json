@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/zzzteph/weakpass",
-  "Description": null,
+  "Description": "A collection of tools for password generation, bruteforce, and hash cracking, including password generators, hash lookup utilities, and browser-based cracking capabilities.",
   "Year": "2024",
   "Location": "Europe"
 }

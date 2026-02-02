@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/molatho/volatilevault",
-  "Description": null,
+  "Description": "A secure data exfiltration platform for red team operators that encrypts all data in the browser using AES-GCM, stores files temporarily with automatic deletion, and features a plugin system supporting various storage and transport mechanisms.",
   "Year": "2024",
   "Location": "Canada"
 }

@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/ezztahoun/attack_flow_detector",
-  "Description": null,
+  "Description": "A Python-based security analysis tool that identifies potential attack patterns by correlating security alerts and mapping them to the MITRE ATT&CK framework. It uses explainable machine learning to detect contextual groupings and causal sequences hiding in alerts.",
   "Year": "2023",
   "Location": "Canada"
 }

@@ -4,7 +4,7 @@
   "Tracks": ["IoT"],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/umair9747/Genzai",
-  "Description": null,
+  "Description": "An IoT security toolkit that identifies IoT device dashboards and scans them for default credentials and known vulnerabilities.",
   "Year": "2024",
   "Location": null
 }

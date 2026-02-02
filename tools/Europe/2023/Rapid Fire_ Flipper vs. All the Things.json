@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/justcallmekoko/xboxonerapidfire",
-  "Description": null,
+  "Description": "Arduino/ATtiny85-based rapid fire modification device for Xbox One controllers, demonstrated alongside Flipper Zero hardware hacking capabilities.",
   "Year": "2023",
   "Location": "Europe"
 }

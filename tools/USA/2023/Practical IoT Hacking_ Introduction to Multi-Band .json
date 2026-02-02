@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/practical-iot-hacking/practical-iot-hacking.github.io",
-  "Description": null,
+  "Description": "A companion website and resource hub for practical IoT hacking workshops, providing materials for multi-band wireless hacking using the CatSniffer tool to analyze and interact with IoT protocols across different radio frequencies.",
   "Year": "2023",
   "Location": "USA"
 }

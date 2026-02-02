@@ -10,7 +10,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/prowler-cloud/prowler",
-  "Description": null,
+  "Description": "An open-source cloud security platform that automates security assessments and compliance checks across AWS, Azure, GCP, and Kubernetes, providing hundreds of ready-to-use security checks and remediation guidance.",
   "Year": "2022",
   "Location": "Europe"
 }

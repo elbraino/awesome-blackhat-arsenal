@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/clod81/block_service_workers",
-  "Description": null,
+  "Description": "A Chrome extension that prevents Service Workers from being registered on websites, developed to mitigate browser backdooring techniques that abuse the Service Worker API.",
   "Year": "2019",
   "Location": "Asia"
 }

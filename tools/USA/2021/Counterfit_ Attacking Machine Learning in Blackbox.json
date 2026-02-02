@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/azure/counterfit",
-  "Description": null,
+  "Description": "Counterfit is a generic automation layer for assessing the security of machine learning systems, consolidating multiple adversarial frameworks into a single tool to test ML model resilience against attacks.",
   "Year": "2021",
   "Location": "USA"
 }

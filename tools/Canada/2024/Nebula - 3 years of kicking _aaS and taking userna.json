@@ -8,7 +8,7 @@
   ],
   "Github URL": "https://github.com/CyberDataLab/nebula",
   "Event": "BH-ARSENAL",
-  "Description": null,
+  "Description": "A platform for training federated learning models within both centralized and decentralized architectures, enabling privacy-preserving collaborative machine learning across distributed devices without requiring a central server.",
   "Year": "2024",
   "Location": "Canada"
 }

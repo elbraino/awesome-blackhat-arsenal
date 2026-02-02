@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/google/clusterfuzz",
-  "Description": null,
+  "Description": "A scalable fuzzing infrastructure that finds security and stability issues in software. It powers Google OSS-Fuzz and enables automated vulnerability detection across open-source projects.",
   "Year": "2021",
   "Location": "Europe"
 }

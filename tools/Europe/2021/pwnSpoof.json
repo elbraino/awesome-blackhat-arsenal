@@ -10,7 +10,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/punk-security/pwnspoof",
-  "Description": null,
+  "Description": "A Python tool that generates realistic spoofed log files for common web servers with customizable attack scenarios, useful for cybersecurity training exercises and CTF competitions.",
   "Year": "2021",
   "Location": "Europe"
 }

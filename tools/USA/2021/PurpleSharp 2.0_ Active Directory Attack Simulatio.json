@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/mvelazc0/PurpleSharp",
-  "Description": null,
+  "Description": "A C# adversary simulation tool that executes ATT&CK techniques to generate attack telemetry in monitored Windows environments. It enables security teams to simulate adversary techniques within Active Directory environments to test and improve detection capabilities.",
   "Year": "2021",
   "Location": "USA"
 }

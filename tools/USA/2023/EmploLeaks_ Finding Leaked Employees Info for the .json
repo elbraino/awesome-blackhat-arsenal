@@ -10,7 +10,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/infobyte/emploleaks",
-  "Description": "",
+  "Description": "An OSINT tool that identifies company employees with compromised credentials by searching LinkedIn for employee profiles, discovering their personal email addresses through social networks, and cross-referencing those emails against leaked credentials databases.",
   "Year": "2023",
   "Location": "USA"
 }

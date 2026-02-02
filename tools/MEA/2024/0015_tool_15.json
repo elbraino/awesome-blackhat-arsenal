@@ -4,7 +4,7 @@
   "Tracks": ["Android, iOS and Mobile Hacking"],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/d78ui98/APKDeepLens",
-  "Description": null,
+  "Description": "APKDeepLens is a Python-based tool that performs security analysis of Android APK files to identify vulnerabilities in the OWASP Top 10 mobile security categories, extracting sensitive information and generating detailed reports.",
   "Year": "2024",
   "Location": null
 }
