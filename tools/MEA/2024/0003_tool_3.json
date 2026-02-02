@@ -3,8 +3,8 @@
   "Speakers": "ALEXANER RODCHENKO",
   "Tracks": ["Exploitation and Ethical Hacking"],
   "Event": "BH-ARSENAL",
-  "Github URL": "",
-  "Description": null,
+  "Github URL": "https://bsideszh.ch/wp-content/uploads/2023/12/BSZH23-Alexander_Rodchenko-Golden_Mistake.pdf",
+  "Description": "detecting anomalies in Golden Ticket attacks used by adversaries in Active Directory environments",
   "Year": "2024",
   "Location": null
 }
