@@ -1,9 +1,14 @@
 {
   "Tool Name": "Noizr",
   "Description": "To address these challenges, we present a concept of the Universal SOC AI Plugin that integrates seamlessly with runtime threat detection tools. This solution tackles key pain points by: - Reducing noise and filtering out false positives - Prioritizing threats based on severity and context - Aggregating events to present a unified threat picture - Providing a flexible API interface for tailored integrations - Enabling webhooks for streamlined response via external systems",
-  "GitHub URL": "",
-  "Tracks": ["AI, ML & Data Science"],
-  "Speakers": ["Marat Salakhutdinov", "Aleksandr Varlamov"],
-  "Region": "Canada",
-  "Year": "2025"
+  "Tracks": [
+    "AI, ML & Data Science"
+  ],
+  "Speakers": [
+    "Marat Salakhutdinov",
+    "Aleksandr Varlamov"
+  ],
+  "Year": "2025",
+  "Github URL": "",
+  "Location": "Canada"
 }

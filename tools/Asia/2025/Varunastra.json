@@ -1,9 +1,14 @@
 {
   "Tool Name": "Varunastra",
   "Description": "Docker has revolutionized how developers build, ship, and run applications, providing a consistent environment for software to run across various platforms. Its lightweight, containerized approach has made it an indispensable tool in modern DevOps practices. However, with its growing popularity, Docker has become a target for security vulnerabilities. Misconfigurations, exposed secrets, and unpatched dependencies are common issues that can lead to significant security breaches.",
-  "GitHub URL": "https://github.com/Devang-Solanki/Varunastra",
-  "Tracks": ["Vulnerability Assessment"],
-  "Speakers": ["Devang Solanki", "Bhavarth Karmarkar"],
-  "Region": "",
-  "Year": "2025"
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Devang Solanki",
+    "Bhavarth Karmarkar"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/Devang-Solanki/Varunastra",
+  "Location": ""
 }

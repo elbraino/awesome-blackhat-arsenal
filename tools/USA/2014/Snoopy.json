@@ -1,6 +1,6 @@
 {
   "Tool Name": "Snoopy",
-  "Speakers": null,
+  "Speakers": ["Glenn Wilkinson"],
   "Tracks": [
     "OSINT - Open Source Intelligence"
   ],

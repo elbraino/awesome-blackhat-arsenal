@@ -1,9 +1,14 @@
 {
   "Tool Name": "FZAI Fuzzer",
   "Description": "Who would have thought that prompting LLMs with questions about building bombs could actually strengthen their security? As these models become foundational to our digital tools—much like a new operating system—they still lack many essential security features. That's where our approach steps in: by understanding and disrupting their core alignments.",
-  "GitHub URL": "https://github.com/cyberark/FuzzyAI",
-  "Tracks": ["Vulnerability Assessment"],
-  "Speakers": ["Eran Shimony", "Shai Dvash"],
-  "Region": "",
-  "Year": "2025"
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Eran Shimony",
+    "Shai Dvash"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/cyberark/FuzzyAI",
+  "Location": ""
 }

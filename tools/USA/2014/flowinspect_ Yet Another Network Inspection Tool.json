@@ -1,6 +1,6 @@
 {
   "Tool Name": "flowinspect: Yet Another Network Inspection Tool",
-  "Speakers": null,
+  "Speakers": ["Ankur Tyagi"],
   "Tracks": [
     "Network Defense"
   ],

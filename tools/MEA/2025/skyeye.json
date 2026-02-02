@@ -1,6 +1,6 @@
 {
   "Tool Name": "SkyEye",
-  "Description":"In this Arsenal session, we will showcase a new framework: SkyEye - The First Cooperative Multi-Principal IAM Enumeration Framework for AWS CloudSkyEye Framework proposed and developed two novel models: CPIEM and TCREM. Unlike conventional tools and frameworks, SkyEye is able to synchronize reconnaissance across multiple user and role sessions, dynamically chaining and merging their vantage points to unravel the full spectrum of permissions, resource authorizations, and hidden escalation paths. This methodology exposes not only what each principal can see, but also what they can achieve in combination, uncovering hidden attack vectors and privilege escalation paths invisible to traditional IAM enumeration.",
+  "Description": "In this Arsenal session, we will showcase a new framework: SkyEye - The First Cooperative Multi-Principal IAM Enumeration Framework for AWS CloudSkyEye Framework proposed and developed two novel models: CPIEM and TCREM. Unlike conventional tools and frameworks, SkyEye is able to synchronize reconnaissance across multiple user and role sessions, dynamically chaining and merging their vantage points to unravel the full spectrum of permissions, resource authorizations, and hidden escalation paths. This methodology exposes not only what each principal can see, but also what they can achieve in combination, uncovering hidden attack vectors and privilege escalation paths invisible to traditional IAM enumeration.",
   "Github URL": "https://github.com/0x7a6b4c/SkyEye",
   "Tracks": [
     "Cloud Security"
@@ -8,6 +8,6 @@
   "Speakers": [
     "Minh Hoang Nguyen"
   ],
-  "Region": "MEA",
-  "Year": "2025"
+  "Year": "2025",
+  "Location": "MEA"
 }

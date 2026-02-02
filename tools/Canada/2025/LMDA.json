@@ -1,7 +1,6 @@
 {
   "Tool Name": "LMDA",
   "Description": "Determining lateral movement, data access, and data exfiltration on Windows systems during DFIR investigations can be challenging due to limitations with traditional sources like Windows Event Logs. Analysts often rely heavily on multiple Windows forensic artifacts, including Shellbags, Jumplists, LNK files, browser histories, and registry entries, making the process manual and time-consuming. This session introduces LMDA (Lateral Movement and Data Access), two new Velociraptor artifacts that aggregate and normalize forensic data from these artifacts, providing comprehensive insights while focusing specifically on compromised user activities.",
-  "GitHub URL": "https://github.com/strozfriedberg/Velociraptor_LMDA",
   "Tracks": [
     "Incident Response"
   ],
@@ -9,6 +8,7 @@
     "Phalgun Kulkarni",
     "Kostya Ilioukevitch"
   ],
-  "Region": "Canada",
-  "Year": "2025"
+  "Year": "2025",
+  "Github URL": "https://github.com/strozfriedberg/Velociraptor_LMDA",
+  "Location": "Canada"
 }

@@ -1,6 +1,6 @@
 {
   "Tool Name": "Rickmote Controller",
-  "Speakers": null,
+  "Speakers": ["Dan Petro"],
   "Tracks": [
     "Internet of Things"
   ],

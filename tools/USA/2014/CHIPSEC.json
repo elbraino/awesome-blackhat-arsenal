@@ -1,6 +1,6 @@
 {
   "Tool Name": "CHIPSEC",
-  "Speakers": null,
+  "Speakers": ["Yuriy Bulygin"],
   "Tracks": [
     "Hardware / Embedded"
   ],

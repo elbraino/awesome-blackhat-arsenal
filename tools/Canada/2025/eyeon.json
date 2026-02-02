@@ -1,9 +1,13 @@
 {
   "Tool Name": "EyeON",
   "Description": "EyeON is a firmware inventory and threat analysis tool. The main objective is for operational technology (OT) device operators to quickly run a scan on all firmware files before they are deployed into OT devices. The tool collects a list of various data points from each firmware file. The goal is that we want asset owners to know what firmware is going into their OT devices and whether they are safe and haven't been tampered with.",
-  "GitHub URL": "https://github.com/LLNL/pEyeON",
-  "Tracks": ["Vulnerability Assessment"],
-  "Speakers": ["Wangmo Tenzing"],
-  "Region": "Canada",
-  "Year": "2025"
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Wangmo Tenzing"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/LLNL/pEyeON",
+  "Location": "Canada"
 }

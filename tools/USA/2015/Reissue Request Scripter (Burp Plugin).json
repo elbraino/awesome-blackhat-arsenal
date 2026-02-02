@@ -1,6 +1,6 @@
 {
   "Tool Name": "Reissue Request Scripter (Burp Plugin)",
-  "Speakers": null,
+  "Speakers": ["Philippe Arteau"],
   "Tracks": [
     "Web AppSec"
   ],

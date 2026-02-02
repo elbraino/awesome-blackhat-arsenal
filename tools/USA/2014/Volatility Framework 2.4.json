@@ -1,6 +1,6 @@
 {
   "Tool Name": "Volatility Framework 2.4",
-  "Speakers": null,
+  "Speakers": ["Andrew Case", "Michael Hale Ligh"],
   "Tracks": [
     "Data Forensics","Incident Response"
   ],

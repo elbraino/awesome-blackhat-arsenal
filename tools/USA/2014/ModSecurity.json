@@ -1,6 +1,6 @@
 {
   "Tool Name": "ModSecurity",
-  "Speakers": null,
+  "Speakers": ["Ryan Barnett"],
   "Tracks": [
     "Web AppSec"
   ],

@@ -1,13 +1,13 @@
 {
   "Tool Name": "CADDIE",
   "Description": "CADDIE is an AI-powered compliance tool built to help organizations automate regulatory gap analysis, policy generation, and secure AI deployment. Designed by cybersecurity veteran Brennan Lodge (HSBC, Goldman Sachs), CADDIE leverages a fine-tuned BERT model and a proprietary Model Context Protocol (MCP) to enable Retrieval-Augmented Generation (RAG) workflows that are explainable, secure, and adaptable across industries. Unlike traditional GRC platforms, CADDIE supports offline and air-gapped deployments, offers token-based consumption pricing, and allows integration with proprietary regulatory and policy corpora.",
-  "GitHub URL": "",
   "Tracks": [
     "AI, ML & Data Science"
   ],
   "Speakers": [
     "Brennan Lodge"
   ],
-  "Region": "Canada",
-  "Year": "2025"
+  "Year": "2025",
+  "Github URL": "",
+  "Location": "Canada"
 }

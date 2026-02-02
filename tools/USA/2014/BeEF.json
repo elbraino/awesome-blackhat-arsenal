@@ -1,6 +1,6 @@
 {
   "Tool Name": "BeEF",
-  "Speakers": null,
+  "Speakers": ["Wade Alcorn"],
   "Tracks": [
     "Exploitation and Ethical Hacking"
   ],

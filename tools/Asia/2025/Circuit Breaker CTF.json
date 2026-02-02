@@ -1,9 +1,15 @@
 {
   "Tool Name": "Circuit Breaker CTF",
   "Description": "Circuit Breaker CTF\" is a testbench for power industry security research. Our project is an end-to-end toolkit – introducing vulnerability research and security techniques for power devices, from the Energy Generation, to Transmission Lines, to Consumer & Homes.",
-  "GitHub URL": "https://github.com/CircuitBreakerCTF/",
-  "Tracks": ["Arsenal Lab", "Smart Grid/Industrial Security"],
-  "Speakers": ["Manzel Seet", "Kenneth Tong"],
-  "Region": "",
-  "Year": "2025"
+  "Tracks": [
+    "Arsenal Lab",
+    "Smart Grid/Industrial Security"
+  ],
+  "Speakers": [
+    "Manzel Seet",
+    "Kenneth Tong"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/CircuitBreakerCTF/",
+  "Location": ""
 }

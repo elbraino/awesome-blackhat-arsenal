@@ -1,8 +1,6 @@
 {
   "Tool Name": "Angry Magpie",
   "Description": "Angry Magpie is a DLP bypass simulator demonstrating data splicing techniques that evade enterprise DLP solutions.",
-  "GitHub URL": "https://github.com/SquareX-Labs/angry-magpie",
-
   "Tracks": [
     "offensive"
   ],
@@ -10,6 +8,7 @@
     "Venkata Pradyumna Cheerala",
     "Shuvo Bardhan"
   ],
-  "Region": "MEA",
-  "Year": "2025"
+  "Year": "2025",
+  "Github URL": "https://github.com/SquareX-Labs/angry-magpie",
+  "Location": "MEA"
 }

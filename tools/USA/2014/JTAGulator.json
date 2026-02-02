@@ -1,6 +1,6 @@
 {
   "Tool Name": "JTAGulator",
-  "Speakers": null,
+  "Speakers": ["Joe Grand"],
   "Tracks": [
     "Hardware / Embedded"
   ],

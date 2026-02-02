@@ -1,6 +1,6 @@
 {
   "Tool Name": "w3af: Web Security Scanner",
-  "Speakers": null,
+  "Speakers": ["Andres Riancho"],
   "Tracks": [
     "Web AppSec"
   ],

@@ -1,6 +1,6 @@
 {
   "Tool Name": "BReWSki (Burp Rhino Web Scanner)",
-  "Speakers": null,
+  "Speakers": ["Alex Lauerman"],
   "Tracks": [
     "Web AppSec"
   ],

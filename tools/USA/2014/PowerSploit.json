@@ -1,6 +1,6 @@
 {
   "Tool Name": "PowerSploit",
-  "Speakers": null,
+  "Speakers": ["Joseph Bialek", "Chris Campbell"],
   "Tracks": [
     "Exploitation and Ethical Hacking"
   ],

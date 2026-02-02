@@ -1,6 +1,6 @@
 {
   "Tool Name": "reGeorg",
-  "Speakers": null,
+  "Speakers": ["Willem Mouton", "Sam Sobotka"],
   "Tracks": [
     "Network Attacks"
   ],

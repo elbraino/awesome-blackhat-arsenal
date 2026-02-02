@@ -1,6 +1,6 @@
 {
   "Tool Name": "NFCulT",
-  "Speakers": null,
+  "Speakers": ["Matteo Beccaro"],
   "Tracks": [
     "Android, iOS and Mobile Hacking"
   ],

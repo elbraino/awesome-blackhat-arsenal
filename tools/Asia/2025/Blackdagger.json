@@ -1,9 +1,17 @@
 {
   "Tool Name": "Blackdagger",
   "Description": "At its core, Blackdagger simplifies the management and execution of intricate workflows through its user-friendly approach and powerful functionality. Leveraging a declarative YAML format, Blackdagger enables users to define automation pipelines using a Directed Acyclic Graph (DAG), facilitating clear and concise expression of task dependencies and execution logic.",
-  "GitHub URL": "https://github.com/ErdemOzgen/blackdagger",
-  "Tracks": ["Web AppSec"],
-  "Speakers": ["Mahmut Erdem Ozgen", "Yusuf Kamil CAVUSOGLU", "Muhammed Salih ISLAM", "Regaip Kurt", "Ata Seren"],
-  "Region": "",
-  "Year": "2025"
+  "Tracks": [
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Mahmut Erdem Ozgen",
+    "Yusuf Kamil CAVUSOGLU",
+    "Muhammed Salih ISLAM",
+    "Regaip Kurt",
+    "Ata Seren"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/ErdemOzgen/blackdagger",
+  "Location": ""
 }

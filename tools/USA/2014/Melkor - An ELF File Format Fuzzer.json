@@ -1,6 +1,6 @@
 {
   "Tool Name": "Melkor - An ELF File Format Fuzzer",
-  "Speakers": null,
+  "Speakers": ["Alejandro Hernandez"],
   "Tracks": [
     "Reverse Engineering"
   ],

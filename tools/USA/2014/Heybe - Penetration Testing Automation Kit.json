@@ -1,6 +1,6 @@
 {
   "Tool Name": "Heybe - Penetration Testing Automation Kit",
-  "Speakers": null,
+  "Speakers": ["Bahtiyar Bircan"],
   "Tracks": [
     "Exploitation and Ethical Hacking"
   ],

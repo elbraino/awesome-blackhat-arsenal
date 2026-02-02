@@ -1,6 +1,6 @@
 {
   "Tool Name": "Impacket",
-  "Speakers": null,
+  "Speakers": ["Alberto Solino"],
   "Tracks": [
     "Network Attacks"
   ],

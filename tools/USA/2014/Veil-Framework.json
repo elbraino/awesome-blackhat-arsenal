@@ -1,6 +1,6 @@
 {
   "Tool Name": "Veil-Framework",
-  "Speakers": null,
+  "Speakers": ["Chris Truncer"],
   "Tracks": [
     "Malware Offense"
   ],

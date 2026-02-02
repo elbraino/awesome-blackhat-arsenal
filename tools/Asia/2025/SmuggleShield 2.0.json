@@ -1,9 +1,13 @@
 {
   "Tool Name": "SmuggleShield 2.0",
   "Description": "SmuggleShield is a Chrome/Edge browser extension that provides protection against HTML smuggling attacks by detecting suspicious patterns in web content. It combines traditional pattern matching with machine learning capabilities to identify potential threats, featuring a customizable whitelist system to reduce false positives. The tool monitors webpage elements in real-time and can block malicious content while maintaining detailed logs of detected threats, making it particularly useful for security professionals during red/purple team exercises.",
-  "GitHub URL": "https://github.com/RootUp/SmuggleShield",
-  "Tracks": ["Network Defense"],
-  "Speakers": ["Dhiraj Mishra"],
-  "Region": "",
-  "Year": "2025"
+  "Tracks": [
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Dhiraj Mishra"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/RootUp/SmuggleShield",
+  "Location": ""
 }

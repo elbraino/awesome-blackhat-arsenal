@@ -1,6 +1,6 @@
 {
   "Tool Name": "OWASP Zed Attack Proxy (ZAP)",
-  "Speakers": null,
+  "Speakers": ["Simon Bennetts"],
   "Tracks": [
     "Web AppSec"
   ],

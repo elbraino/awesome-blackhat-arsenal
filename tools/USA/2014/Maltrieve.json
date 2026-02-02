@@ -1,6 +1,6 @@
 {
   "Tool Name": "Maltrieve",
-  "Speakers": null,
+  "Speakers": ["Kyle Maxwell"],
   "Tracks": [
     "Malware Offense"
   ],

@@ -1,6 +1,6 @@
 {
   "Tool Name": "C-SCAD: Assessing Security Flaws in ClearSCADA Web-X Client!",
-  "Speakers": null,
+  "Speakers": ["Aditya K Sood"],
   "Tracks": [
     "Smart Grid/Industrial Security"
   ],

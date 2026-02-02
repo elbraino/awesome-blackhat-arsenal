@@ -1,9 +1,14 @@
 {
   "Tool Name": "kntrl",
   "Description": "CI/CD pipelines are complex environments. This complexity requires methodical comprehensive reviews to secure the entire stack. Often a company may lack the time, specialist security knowledge, and people needed to secure their CI/CD pipelines.",
-  "GitHub URL": "https://github.com/kondukto-io/kntrl",
-  "Tracks": ["Network Defense"],
-  "Speakers": ["Mert Coskuner", "Cenk Kalpakoglu"],
-  "Region": "",
-  "Year": "2025"
+  "Tracks": [
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Mert Coskuner",
+    "Cenk Kalpakoglu"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/kondukto-io/kntrl",
+  "Location": ""
 }

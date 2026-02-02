@@ -1,9 +1,13 @@
 {
   "Tool Name": "NimPlant",
   "Description": "NimPlant is a light-weight first-stage command and control (C2) implant written in the Nim programming language. Since its release in 2023, it has been favored for its usability, slim implant profile, and evasive capabilities. The functionality is primarily aimed at early-access operations, but it packs powerhouse features such as Beacon Object File (BOF) support and inline execution of .NET assemblies. This allows operators to execute advanced tradecraft with a focus on operational security.",
-  "GitHub URL": "https://github.com/chvancooten/NimPlant",
-  "Tracks": ["Malware Offense"],
-  "Speakers": ["Cas van Cooten"],
-  "Region": "",
-  "Year": "2025"
+  "Tracks": [
+    "Malware Offense"
+  ],
+  "Speakers": [
+    "Cas van Cooten"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/chvancooten/NimPlant",
+  "Location": ""
 }

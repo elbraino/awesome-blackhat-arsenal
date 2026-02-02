@@ -1,9 +1,13 @@
 {
   "Tool Name": "Replik8s",
   "Description": "Replik8s is a modern open-source Kubernetes auditing tool. It is designed to address the common limitations of traditional security tools, which rely on narrow data collection and predefined logic. RepliK8s allows cloning Kubernetes clusters and serving back exact replicas of the original data, as well as conducting analysis through a tool-agnostic query language. This architecture enables flexible analysis, historical investigation, and broad applicability.",
-  "GitHub URL": "https://github.com/latacora/replik8s",
-  "Tracks": ["Cloud Security"],
-  "Speakers": ["Xavier Garceau-Aranda"],
-  "Region": "Canada",
-  "Year": "2025"
+  "Tracks": [
+    "Cloud Security"
+  ],
+  "Speakers": [
+    "Xavier Garceau-Aranda"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/latacora/replik8s",
+  "Location": "Canada"
 }

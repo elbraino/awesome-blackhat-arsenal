@@ -1,6 +1,6 @@
 {
   "Tool Name": "Dependency-Check",
-  "Speakers": null,
+  "Speakers": ["Jeremy Long"],
   "Tracks": [
     "Vulnerability Assessment"
   ],

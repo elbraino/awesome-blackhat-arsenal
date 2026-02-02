@@ -1,15 +1,13 @@
 {
   "Tool Name": "APIDetector",
   "Description": "APIDetector v3 is an advanced, high-performance tool built for identifying and validating exposed Swagger/OpenAPI endpoints across domains and subdomains. Designed specifically for security professionals and developers, APIDetector v3 provides a modern web interface offering real-time results, interactive dashboards, automated screenshot captures, and intelligent false-positive detection.",
-
-  "GitHub URL": "https://github.com/filipi86/apidetector",
-
   "Tracks": [
     "API Security"
   ],
   "Speakers": [
     "Filipi Pires"
   ],
-  "Region": "MEA",
-  "Year": "2025"
+  "Year": "2025",
+  "Github URL": "https://github.com/filipi86/apidetector",
+  "Location": "MEA"
 }

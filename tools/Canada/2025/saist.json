@@ -1,9 +1,13 @@
 {
   "Tool Name": "SAIST",
   "Description": "SAIST (Static AI-powered Scanning Tool) is an open-source project that scans codebases for vulnerabilities using AI. It supports multiple LLMs, and can scan full codebases, diffs between commits, or even GitHub PRs automatically.",
-  "GitHub URL": "",
-  "Tracks": ["Arsenal Lab"],
-  "Speakers": ["Simon Gurney"],
-  "Region": "Canada",
-  "Year": "2025"
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Simon Gurney"
+  ],
+  "Year": "2025",
+  "Github URL": "",
+  "Location": "Canada"
 }

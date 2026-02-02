@@ -1,6 +1,6 @@
 {
   "Tool Name": "Dradis",
-  "Speakers": null,
+  "Speakers": ["Daniel Martin"],
   "Tracks": [
     "Vulnerability Assessment"
   ],

@@ -1,6 +1,6 @@
 {
   "Tool Name": "Nishang - The Black Hat Version",
-  "Speakers": null,
+  "Speakers": ["Nikhil Mittal"],
   "Tracks": [
     "Exploitation and Ethical Hacking"
   ],

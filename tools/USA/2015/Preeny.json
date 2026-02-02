@@ -1,6 +1,6 @@
 {
   "Tool Name": "Preeny",
-  "Speakers": null,
+  "Speakers": ["Yan Shoshitaishvili"],
   "Tracks": [
     "Reverse Engineering"
   ],

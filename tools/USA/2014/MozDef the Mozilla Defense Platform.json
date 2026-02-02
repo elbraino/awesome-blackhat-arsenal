@@ -1,6 +1,6 @@
 {
   "Tool Name": "MozDef the Mozilla Defense Platform",
-  "Speakers": null,
+  "Speakers": ["Jeff Bryner"],
   "Tracks": [
     "Exploitation and Ethical Hacking"
   ],
