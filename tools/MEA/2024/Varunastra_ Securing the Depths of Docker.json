@@ -1,7 +1,11 @@
 {
   "Tool Name": "Varunastra: Securing the Depths of Docker",
-  "Speakers": "KUNAL AGGARWAL",
-  "Tracks": ["Cloud Security"],
+  "Speakers": [
+    "KUNAL AGGARWAL"
+  ],
+  "Tracks": [
+    "Cloud Security"
+  ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/Devang-Solanki/Varunastra",
   "Description": "A Docker security scanning tool that detects vulnerabilities, secrets, and extracts assets from container images across multiple registries including DockerHub, AWS ECR, Google GCR, and GitHub GHCR.",

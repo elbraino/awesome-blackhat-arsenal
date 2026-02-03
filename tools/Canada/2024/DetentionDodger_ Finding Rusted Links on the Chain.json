@@ -3,7 +3,10 @@
   "Speakers": [
     "Bleon Proko"
   ],
-  "Tracks": [],
+  "Tracks": [
+    "Cloud Security",
+    "Vulnerability Assessment"
+  ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/permiso-io-tools/detentiondodger",
   "Description": "A security assessment tool that identifies AWS IAM users whose credentials have been compromised by searching for users with quarantine policies and analyzing their permissions against known attack scenarios.",

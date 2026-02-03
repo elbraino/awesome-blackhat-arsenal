@@ -1,7 +1,11 @@
 {
   "Tool Name": "Identify Malicious Python & Nodejs Packages with Guarddog",
-  "Speakers": "Eslam Salem",
-  "Tracks": ["Malware Defense"],
+  "Speakers": [
+    "Eslam Salem"
+  ],
+  "Tracks": [
+    "Malware Defense"
+  ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/DataDog/guarddog",
   "Description": "GuardDog is a CLI tool that identifies malicious PyPI, npm, Go, RubyGems, GitHub Actions, and VSCode extension packages by running heuristics on package source code and metadata to detect dangerous code patterns.",

@@ -3,7 +3,10 @@
   "Speakers": [
     "Cody Thomas"
   ],
-  "Tracks": [],
+  "Tracks": [
+    "Exploitation and Ethical Hacking",
+    "Malware Offense"
+  ],
   "Github URL": "https://github.com/its-a-feature/Mythic",
   "Event": "BH-ARSENAL",
   "Description": "A cross-platform, post-exploit red teaming framework built with GoLang and Docker that provides a collaborative web UI for operators and managers to conduct authorized security assessments.",

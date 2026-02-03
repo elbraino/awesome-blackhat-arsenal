@@ -1,6 +1,9 @@
 {
   "Tool Name": "Genzai - The IoT Security Toolkit",
-  "Speakers": "UMAIR NEHRI, TALEB M ALTAMIMI",
+  "Speakers": [
+    "UMAIR NEHRI",
+    "TALEB M ALTAMIMI"
+  ],
   "Tracks": [
     "Internet Of Things"
   ],

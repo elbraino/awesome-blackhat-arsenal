@@ -1,6 +1,8 @@
 {
   "Tool Name": "PIIscout - a fast and customizable PII scanner",
-  "Speakers": "Owais Shaikh",
+  "Speakers": [
+    "Owais Shaikh"
+  ],
   "Tracks": [
     "Web AppSec"
   ],

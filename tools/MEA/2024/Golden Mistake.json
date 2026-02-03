@@ -1,7 +1,11 @@
 {
   "Tool Name": "Golden Mistake",
-  "Speakers": "ALEXANER RODCHENKO",
-  "Tracks": ["Exploitation and Ethical Hacking"],
+  "Speakers": [
+    "ALEXANER RODCHENKO"
+  ],
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
   "Event": "BH-ARSENAL",
   "Github URL": "",
   "Description": "A security tool focused on exploitation and ethical hacking techniques, presented at Black Hat Arsenal MEA 2024.",

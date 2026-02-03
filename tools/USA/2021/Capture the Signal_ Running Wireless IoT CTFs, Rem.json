@@ -5,7 +5,10 @@
     "Marco Balduzzi",
     "Jonathan Andersson"
   ],
-  "Tracks": [],
+  "Tracks": [
+    "Internet Of Things",
+    "Hardware/Embedded"
+  ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/blackvs/awesome-cts",
   "Description": "The famous DEFCON CTF is one of the thousands Capture the Flag (CTFs) contests that, since many years, have become the \"lifeblood\" of the cybersecurity community. CTF players reverse-engineer vulnerable services in traditional IT applications (like web and binary) to score points.\n\nGiven the increased adoption of wireless-connected devices and pervasive, interconnected networks of so-called \"IoT systems,\" since 2018 our teams of researchers have been promoting an RF-specific version of traditional CTFs, in which contestants are asked to reverse engineer radio-based protocols as opposed to traditional network communications. We called our contest the Capture the Signal (CTS) (https://www.trendmicro.com/cts/). This activity is also known as \"blind signal analysis\" as the signals' specification are unknown to the attacker. Each radio signal corresponds to a challenge. The challenges are organized by difficulty levels, and each solved challenge unlocks the next one. In other words, the flag concealed in each signal represents the clue to the next radio signal (e.g., the tuning frequency or any other radio parameters). The more points are scored, the closer the contestant is to win.\n\nIn normal circumstances, we've hosted the game on site at conferences world-wide, where radio signals are distributed \"over the air\", and participant are asked to use software-defined radio equipment to interact with the challenges. However, due the diverse local regulations in terms of wireless transmissions, we designed and implemented a containerized solution that eliminates the complexity of deploying physical radio transmitters, using an RF-over-IP broadcasting technique instead. With this framework, we can easily deploy CTS contests in countries with strict wireless regulation and remotely, backed by any cloud provider that offer container services.",

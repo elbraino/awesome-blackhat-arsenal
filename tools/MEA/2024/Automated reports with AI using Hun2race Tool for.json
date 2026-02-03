@@ -1,7 +1,11 @@
 {
   "Tool Name": "Automated reports with AI using Hun2race Tool for Bughunters",
-  "Speakers": "ALI ALHUMAID",
-  "Tracks": ["Vulnerability Assessment"],
+  "Speakers": [
+    "ALI ALHUMAID"
+  ],
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/sudobyter-hub/Hun2race",
   "Description": "Hun2race is an automated report generation tool that leverages AI (ChatGPT or Google Bard) to create security reports for bug hunters and penetration testers, then converts them to polished PDFs using LaTeX templates.",

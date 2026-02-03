@@ -1,6 +1,8 @@
 {
   "Tool Name": "DriveFS Sleuth — The Ultimate Google Drive File Stream Investigator!",
-  "Speakers": "Amged Wageh",
+  "Speakers": [
+    "Amged Wageh"
+  ],
   "Tracks": [
     "Data Forensics/Incident Response"
   ],

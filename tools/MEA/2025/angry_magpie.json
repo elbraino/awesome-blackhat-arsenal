@@ -1,7 +1,10 @@
 {
   "Tool Name": "Angry Magpie",
   "Description": "Angry Magpie is a DLP bypass simulator demonstrating data splicing techniques that evade enterprise DLP solutions.",
-  "Tracks": [],
+  "Tracks": [
+    "Data Forensics/Incident Response",
+    "Network Defense"
+  ],
   "Speakers": [
     "Venkata Pradyumna Cheerala",
     "Shuvo Bardhan"

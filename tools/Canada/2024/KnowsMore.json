@@ -3,7 +3,10 @@
   "Speakers": [
     "Helvio Junior"
   ],
-  "Tracks": [],
+  "Tracks": [
+    "Exploitation and Ethical Hacking",
+    "Network Attacks"
+  ],
   "Github URL": "https://github.com/helviojunior/knowsmore",
   "Event": "BH-ARSENAL",
   "Description": "KnowsMore is a swiss army knife tool for pentesting Microsoft Active Directory (NTLM Hashes, BloodHound, NTDS and DCSync)",

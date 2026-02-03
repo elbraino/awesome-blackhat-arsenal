@@ -3,7 +3,10 @@
   "Speakers": [
     "Helvio Junior"
   ],
-  "Tracks": [],
+  "Tracks": [
+    "Malware Defense",
+    "Malware Offense"
+  ],
   "Github URL": "https://github.com/helviojunior/avsniper",
   "Event": "BH-ARSENAL",
   "Description": "A security analysis tool that identifies which specific strings in Windows executable files trigger antivirus detection by systematically extracting strings from PE files, creating modified versions, and testing them against antivirus software.",

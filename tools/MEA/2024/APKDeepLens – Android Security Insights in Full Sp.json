@@ -1,7 +1,11 @@
 {
-  "Tool Name": "APKDeepLens \u2013 Android Security Insights in Full Spectrum",
-  "Speakers": "Deepanshu Gajbhiye",
-  "Tracks": ["Android, iOS and Mobile Hacking"],
+  "Tool Name": "APKDeepLens – Android Security Insights in Full Spectrum",
+  "Speakers": [
+    "Deepanshu Gajbhiye"
+  ],
+  "Tracks": [
+    "Android, iOS and Mobile Hacking"
+  ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/d78ui98/APKDeepLens",
   "Description": "APKDeepLens is a Python-based tool that performs security analysis of Android APK files to identify vulnerabilities in the OWASP Top 10 mobile security categories, extracting sensitive information and generating detailed reports.",

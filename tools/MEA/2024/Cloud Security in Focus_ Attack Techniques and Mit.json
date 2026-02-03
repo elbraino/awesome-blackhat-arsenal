@@ -1,7 +1,11 @@
 {
   "Tool Name": "Cloud Security in Focus: Attack Techniques and Mitigation in AWS, Azure, GCP and OCI",
-  "Speakers": "FILIPI PIRES",
-  "Tracks": ["Cloud Security"],
+  "Speakers": [
+    "FILIPI PIRES"
+  ],
+  "Tracks": [
+    "Cloud Security"
+  ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/CyberSecurityUP/Cloud-Security-Attacks",
   "Description": "A curated collection of resources documenting cloud security attack techniques and mitigation strategies across AWS, Azure, GCP, and OCI, serving as a reference guide for penetration testers.",

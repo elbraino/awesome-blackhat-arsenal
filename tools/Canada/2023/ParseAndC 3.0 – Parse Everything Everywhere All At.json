@@ -3,7 +3,10 @@
   "Speakers": [
     "Parbati Manna"
   ],
-  "Tracks": [],
+  "Tracks": [
+    "Reverse Engineering",
+    "Code Assessment"
+  ],
   "Github URL": "https://github.com/intel/ParseAndC",
   "Event": "BH-ARSENAL",
   "Description": "A Python-based GUI tool that parses C structure declarations and maps them to binary data files, allowing users to visualize how variables are stored in memory with hex/ASCII representations.",

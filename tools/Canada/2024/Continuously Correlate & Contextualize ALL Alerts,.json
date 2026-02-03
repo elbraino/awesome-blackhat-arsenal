@@ -6,7 +6,10 @@
     "Nidheesh Panchal",
     "Kevin Shi"
   ],
-  "Tracks": [],
+  "Tracks": [
+    "Data Forensics/Incident Response",
+    "AI, ML & Data Science"
+  ],
   "Github URL": "https://github.com/Dan-Duran/mitre-attack-mapper",
   "Event": "BH-ARSENAL",
   "Description": "Using correlation and clustering models, turn tons of alerts into mitre attack flows.\nThe model finds the attack flows, using its ability to evaluate alerts temporal proximity, kill chain sequentiality, shared entities and similar attributes to other alerts of interest, among others.\nIn real time this model can save your operations endless hours of correlating incidents and finding noteworthy attack flows, that if not detected in time would lead to breaches.",

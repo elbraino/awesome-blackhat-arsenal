@@ -1,7 +1,11 @@
 {
   "Tool Name": "Halberd: Multi-Cloud Security Testing Tool",
-  "Speakers": "ARPAN ABANI SARRKAR",
-  "Tracks": ["Cloud Security"],
+  "Speakers": [
+    "ARPAN ABANI SARRKAR"
+  ],
+  "Tracks": [
+    "Cloud Security"
+  ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/vectra-ai-research/Halberd",
   "Description": "An open-source multi-cloud attack emulation platform that enables security professionals to validate defenses across Azure, AWS, GCP, Entra ID, and M365 through 120+ pre-built attack techniques.",

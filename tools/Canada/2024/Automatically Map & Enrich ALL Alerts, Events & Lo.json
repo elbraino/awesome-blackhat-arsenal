@@ -6,7 +6,10 @@
     "Nidheesh Panchal",
     "Kevin Shi"
   ],
-  "Tracks": [],
+  "Tracks": [
+    "Data Forensics/Incident Response",
+    "AI, ML & Data Science"
+  ],
   "Github URL": "https://github.com/Dan-Duran/mitre-attack-mapper",
   "Event": "BH-ARSENAL",
   "Description": "Using Natural Language Processing models, enrich any alert with its relevant attack techniques.\nThe model detects the techniques using contextual, and situational awareness as well as its linguistic cyber expertise.\nIn real time this model can save your operations endless hours of tagging incidents with their mitre techniques.",
