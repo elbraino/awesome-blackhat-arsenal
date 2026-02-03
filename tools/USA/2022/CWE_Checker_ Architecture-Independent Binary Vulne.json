@@ -5,7 +5,7 @@
   ],
   "Tracks": [
     "Vulnerability Assessment",
-    "Hardware / Embedded"
+    "Hardware/Embedded"
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/fkie-cad/cwe_checker",

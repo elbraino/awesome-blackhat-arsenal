@@ -3,7 +3,7 @@
   "Description": "AI Goat is an intentionally vulnerable, open-source AI infrastructure designed to educate security enthusiasts and penetration testers about AI-specific vulnerabilities, aligning with the OWASP ML Top 10. This session will introduce AI Goat, demonstrate deployment methods, and expose participants to various vulnerabilities they will learn to exploit. By engaging directly with AI Goat, attendees will gain hands-on experience in recognizing and mitigating risks in AI systems, enhancing their understanding of the AI threat landscape.",
   "Tracks": [
     "Web AppSec",
-    "AI"
+    "AI, ML & Data Science"
   ],
   "Speakers": [
     "Ofir Yakobi",

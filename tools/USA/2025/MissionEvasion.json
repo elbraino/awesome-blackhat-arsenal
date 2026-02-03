@@ -5,11 +5,11 @@
     "Weihan Goh"
   ],
   "Tracks": [
-    "Malware"
+    "Malware Defense"
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/LightningGod7/MissionEvasion",
-  "Description": "MissionEvasion is a proof-of-concept tool designed to demonstrate advanced process injection techniques that adapt to evolving Windows security mechanisms. Initially built on Process Hollowing, MissionEvasion now incorporates a modern Process Overwriting technique to bypass new mitigations introduced in Windows 11 24H2, particularly restrictions on executing payloads from MEM_PRIVATE regions. The tool walks through each step of the injection chain\u2014mapping, section writing, relocation patching, and process restoration\u2014with clear source code for red team research, education, and experimentation.",
+  "Description": "MissionEvasion is a proof-of-concept tool designed to demonstrate advanced process injection techniques that adapt to evolving Windows security mechanisms. Initially built on Process Hollowing, MissionEvasion now incorporates a modern Process Overwriting technique to bypass new mitigations introduced in Windows 11 24H2, particularly restrictions on executing payloads from MEM_PRIVATE regions. The tool walks through each step of the injection chain—mapping, section writing, relocation patching, and process restoration—with clear source code for red team research, education, and experimentation.",
   "Year": "2025",
   "Location": "USA"
 }

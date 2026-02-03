@@ -1,10 +1,10 @@
 {
-  "Tool Name": "SigmaOptimizer: LLM-Enhanced Detection Rule Workflow \u2013 From Creation to Validation",
+  "Tool Name": "SigmaOptimizer: LLM-Enhanced Detection Rule Workflow – From Creation to Validation",
   "Speakers": [
     "Yusuke Nakajima"
   ],
   "Tracks": [
-    "Threat Hunting"
+    "Data Forensics/Incident Response"
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/YusukeJustinNakajima/SigmaOptimizer",

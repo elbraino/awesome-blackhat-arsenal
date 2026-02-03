@@ -3,9 +3,7 @@
   "Speakers": [
     "Sai Sitharaman"
   ],
-  "Tracks": [
-    "Track:"
-  ],
+  "Tracks": [],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/zetafence",
   "Description": "A cloud security tool from Zetafence that analyzes and categorizes attack paths in cloud environments using hypergraph-based risk assessment to identify and prioritize security vulnerabilities.",

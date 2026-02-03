@@ -1,12 +1,11 @@
 {
-  "Tool Name": "Swimming with the (Data)Flow \u2013 Analyzing & Visualizing Web Application Data Flows for Enhanced Penetration Testing",
+  "Tool Name": "Swimming with the (Data)Flow – Analyzing & Visualizing Web Application Data Flows for Enhanced Penetration Testing",
   "Speakers": [
     "Florian Haag",
     "Henry Wischerath",
-    "Matthias G\u00f6hring"
+    "Matthias Göhring"
   ],
   "Tracks": [
-    "",
     "Web AppSec"
   ],
   "Event": "BH-ARSENAL",

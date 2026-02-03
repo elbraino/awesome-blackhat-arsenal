@@ -1,8 +1,10 @@
 {
   "Tool Name": "CHIPSEC",
-  "Speakers": ["Yuriy Bulygin"],
+  "Speakers": [
+    "Yuriy Bulygin"
+  ],
   "Tracks": [
-    "Hardware / Embedded"
+    "Hardware/Embedded"
   ],
   "Event": "BH-US-14",
   "Github URL": "https://github.com/chipsec/chipsec",

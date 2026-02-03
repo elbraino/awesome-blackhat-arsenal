@@ -4,9 +4,7 @@
     "Willem Mouton",
     "Harrison Mitchell"
   ],
-  "Tracks": [
-    "Track:"
-  ],
+  "Tracks": [],
   "Github URL": "https://github.com/CyberCX-STA/PurpleOps",
   "Event": "BH-ARSENAL",
   "Description": "Purple team exercises are probably one of the most useful types of activities that organizations can engage in these days. Key to effective purple teaming is good communication, data collection and knowledge sharing. For us, this has been a bit of a pain point having to try and manually keep track of activities, actions and events. We did find some tools to aid with this, but none of them truly opensource or flexible enough to allow us to do what we wanted to do. So we built PurpleOPS, which is at its core a data collection tool aligned to MITRE ATT&CK and integrated into other fantastic open-source projects such as Atomic Redteam. It is easy to customize with your own internal knowledge base and test cases, plus it's also written in python3 using Flask, so it's super easy to adjust to your needs.",

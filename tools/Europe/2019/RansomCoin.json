@@ -1,11 +1,11 @@
 {
   "Tool Name": "RansomCoin",
   "Speakers": [
-    "\u00c9ireann Leverett",
+    "Éireann Leverett",
     "Erin Burns"
   ],
   "Tracks": [
-    "Data Forensics and Incident Response"
+    "Data Forensics/Incident Response"
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/Concinnity-Risks/RansomCoinPublic",

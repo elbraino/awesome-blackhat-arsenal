@@ -2,7 +2,7 @@
   "Tool Name": "Falco Action to the Rescue",
   "Description": "Continuous Integration and Continuous Deployment (CI/CD) pipelines are essential in modern software development, enabling rapid code integration, testing, and deployment. Achieving deep visibility within these pipelines is critical to ensure the code released to production is secure and reliable.",
   "Tracks": [
-    "Digital Forensics/Incident Response"
+    "Data Forensics/Incident Response"
   ],
   "Speakers": [
     "Stefano Chierici",

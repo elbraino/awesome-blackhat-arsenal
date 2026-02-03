@@ -1,10 +1,8 @@
 {
   "Tool Name": "A.I.G（AI-Infra-Guard）",
   "Description": "A.I.G（AI-Infra-Guard） is an open-source security assessment tool designed to identify and mitigate vulnerabilities in AI infrastructure. It provides comprehensive scanning capabilities for AI models, data pipelines, and deployment environments, ensuring robust security measures are in place to protect against potential threats.",
-  
   "Tracks": [
-    "AI",
-    "ML & Data Science"
+    "AI, ML & Data Science"
   ],
   "Speakers": [
     "Wu Huiyu",

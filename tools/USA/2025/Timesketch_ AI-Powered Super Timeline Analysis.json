@@ -2,10 +2,10 @@
   "Tool Name": "Timesketch: AI-Powered Super Timeline Analysis",
   "Speakers": [
     "Diana Kramer",
-    "Janosch K\u00f6pper"
+    "Janosch Köpper"
   ],
   "Tracks": [
-    "Incident Response"
+    "Data Forensics/Incident Response"
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/google/timesketch",

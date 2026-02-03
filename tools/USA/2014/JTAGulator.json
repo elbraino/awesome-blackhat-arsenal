@@ -1,8 +1,10 @@
 {
   "Tool Name": "JTAGulator",
-  "Speakers": ["Joe Grand"],
+  "Speakers": [
+    "Joe Grand"
+  ],
   "Tracks": [
-    "Hardware / Embedded"
+    "Hardware/Embedded"
   ],
   "Event": "BH-US-14",
   "Github URL": "https://github.com/grandideastudio/jtagulator",

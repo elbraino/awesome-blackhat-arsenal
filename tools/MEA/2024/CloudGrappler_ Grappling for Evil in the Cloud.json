@@ -1,7 +1,7 @@
 {
   "Tool Name": "CloudGrappler: Grappling for Evil in the Cloud",
   "Speakers": "ANDI AHMETI",
-  "Tracks": "Cloud Security",
+  "Tracks": [],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/Permiso-io-tools/CloudGrappler",
   "Description": "A security tool that queries cloud logs across AWS and Azure for indicators of compromise linked to known threat actors, enabling effortless detection of high-fidelity threats in cloud environments.",

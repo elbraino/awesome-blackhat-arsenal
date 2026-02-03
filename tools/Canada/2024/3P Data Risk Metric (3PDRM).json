@@ -3,9 +3,7 @@
   "Speakers": [
     "Thomas Lee"
   ],
-  "Tracks": [
-    "Track:"
-  ],
+  "Tracks": [],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/mit-drl/pyrmm",
   "Description": "A Python library for developing neural network models that predict risk metrics such as probability of failure for kinodynamic systems, enabling risk prediction for autonomous systems operating in complex environments.",

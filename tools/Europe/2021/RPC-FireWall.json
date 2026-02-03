@@ -3,9 +3,7 @@
   "Speakers": [
     "Sagie Dulce"
   ],
-  "Tracks": [
-    "Track:"
-  ],
+  "Tracks": [],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/zeronetworks/rpcfirewall",
   "Description": "A security tool that audits and filters Remote Procedure Call (RPC) traffic on Windows servers to protect against lateral movement attacks and RPC-based exploits by monitoring and blocking potentially malicious RPC requests.",

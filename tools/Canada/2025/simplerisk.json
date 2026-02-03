@@ -2,7 +2,7 @@
   "Tool Name": "SimpleRisk",
   "Description": "Security professionals make risk-based decisions every day—whether it's assessing web application vulnerabilities, defending against malware, or securing physical assets. While risk management is conceptually simple, many practitioners struggle due to inadequate tools. Large enterprises can afford expensive GRC solutions, but most professionals are stuck wrestling with spreadsheets—an inefficient, frustrating process prone to errors.",
   "Tracks": [
-    "Risks"
+    "Vulnerability Assessment"
   ],
   "Speakers": [
     "Josh Sokol"

@@ -3,9 +3,7 @@
   "Speakers": [
     "Kyle Quest"
   ],
-  "Tracks": [
-    "Track:"
-  ],
+  "Tracks": [],
   "Github URL": "https://github.com/slimtoolkit/slim",
   "Event": "BH-ARSENAL",
   "Description": "Slim's mission is to secure your software supply chain — automatically.\nDevSecOps teams at BigID, Airbus, and Confluent implement Slim's prescriptive framework to secure their applications and automatically remove vulnerabilities before they get to production. The result? Faster remediation with a more comprehensive security solution.\n\nWith SlimToolkit, CISOs and CTOs to trust in the software their teams deliver while using their preferred systems, software, or base images. We analyze and secure millions of containers a year and can start your team down the road to \"Vuln0\" in minutes.\n\nOur prescriptive open source framework and CNCF sandbox tool, guides teams in mapping their software ecosystem and proactively prioritizing and eliminating vulnerabilities. We provide continuous monitoring of threats, real-time policy enforcement, and clear lines of ownership and accountability.\n\nWhether you are a small team aiming to establish a strong security foundation or a large regulated enterprise seeking to meet rigorous compliance standards, Slim is here to support you every step of the way.",

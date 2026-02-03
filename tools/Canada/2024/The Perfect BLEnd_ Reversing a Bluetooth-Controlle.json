@@ -3,9 +3,7 @@
   "Speakers": [
     "Ryan Mast"
   ],
-  "Tracks": [
-    "Track:"
-  ],
+  "Tracks": [],
   "Github URL": "https://github.com/nightlark/web-bluetooth-controller",
   "Event": "BH-ARSENAL",
   "Description": "A template repository for generating web pages that control Bluetooth Low Energy (BLE) devices through a browser interface using the Web Bluetooth API, enabling interaction with BLE devices via Chrome, Edge, or Opera.",

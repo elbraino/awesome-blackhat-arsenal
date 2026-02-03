@@ -3,9 +3,7 @@
   "Speakers": [
     "John McIntosh"
   ],
-  "Tracks": [
-    "Track:"
-  ],
+  "Tracks": [],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/clearbluejar/ghidriff",
   "Description": "\"As seen in most security blog posts today, binary diffing tools are essential for reverse engineering, vulnerability research, and malware analysis. Patch diffing is a technique widely used to identify changes across versions of binaries as related to security patches. By diffing two binaries, a security researcher can dig deeper into the latest CVEs and patched vulnerabilities to understand their root cause.\n\n\nGhidriff is a new open-source Python package that offers a command line binary diffing capability leveraging the power of the Ghidra Software Reverse Engineering (SRE) Framework with a fresh take on the standard patch diffing workflow.\nLike other binary diffing solutions, Ghidriff relies on SRE tooling to distill complex binaries into objects and relationships that can be compared. Unlike other tools, Ghidriff offers a command line experience, simplifying the entire patch diffing workflow to only a single step, significantly reducing analysis time. Additionally, the results of the diff are rendered as concise markdown files that can be shared on GitHub, GitLab, blogs, or almost anywhere.\n\n\nCome check out Ghidriff's unique features, and let's learn together how to patch diff modern CVEs.\"",

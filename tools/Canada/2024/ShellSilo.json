@@ -3,9 +3,7 @@
   "Speakers": [
     "Tarek Ahmed"
   ],
-  "Tracks": [
-    "Track:"
-  ],
+  "Tracks": [],
   "Github URL": "https://github.com/nixpal/shellsilo",
   "Event": "BH-ARSENAL",
   "Description": "A Python-based utility that converts C syntax code into syscall assembly language and corresponding shellcode, streamlining the process of constructing structures, assigning variables, and making system calls for x64 Windows.",

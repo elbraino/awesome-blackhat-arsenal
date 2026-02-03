@@ -3,7 +3,7 @@
   "Description": "Any DFIR analyst knows that everyday in many companies, it doesn't matter the size, it's not easy to perform forensics investigations often due to lack of internal information (like mastery all IT architecture, have the logs or the right one...) and ready to use DFIR tools.",
   "Github URL": "https://github.com/project-tsurugi/tsurugidb",
   "Tracks": [
-    "Digital Forensics"
+    "Data Forensics/Incident Response"
   ],
   "Speakers": [
     "Giovanni Rattaro",

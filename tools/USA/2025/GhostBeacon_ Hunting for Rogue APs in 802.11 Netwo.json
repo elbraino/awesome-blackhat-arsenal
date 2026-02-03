@@ -1,11 +1,11 @@
 {
   "Tool Name": "GhostBeacon: Hunting for Rogue APs in 802.11 Networks",
   "Speakers": [
-    "An\u0131l \u00c7elik",
+    "Anıl Çelik",
     "Emre Odaman"
   ],
   "Tracks": [
-    "Network"
+    "Network Defense"
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/ccelikanil/GhostBeacon",

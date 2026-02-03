@@ -1,9 +1,7 @@
 {
   "Tool Name": "Arsenal Reception",
   "Speakers": null,
-  "Tracks": [
-    "Track:"
-  ],
+  "Tracks": [],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/Orange-Cyberdefense/arsenal",
   "Description": "Join us on Thursday, November 11, from 2:50 PM – 4:00 PM for drinks and networking as we thank our Arsenal presenters for their contributions to the open-source community.",
