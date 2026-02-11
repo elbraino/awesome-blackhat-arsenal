@@ -10,7 +10,7 @@
     "Arsenal Lab"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/MohamadGSalim/AI-Wargame",
+  "Github URL": "https://play.secdim.com/",
   "Description": "Come join a fun and educational attack and defence AI wargame. You will be given an AI chatbot. Your chatbot has a secret that should always remain a secret! Your objective is to secure your chatbot to protect its secret while attacking other players' chatbots and discovering theirs. The winner is the player whose chatbot survives the longest (king of the hill). All skill levels are welcomed, even if this is your first time seeing code, securing a chatbot, or playing in a wargame.\n\nRight at the start, there will be a briefing to show how to play in the wargame. Knowledge of the OpenAI Python SDK helps but is not a requirement. Each player has access to their chatbot source code repository where they can run, test, debug and push their changes.",
   "Year": "2025",
   "Location": "USA"

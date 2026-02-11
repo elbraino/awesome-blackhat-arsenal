@@ -7,7 +7,7 @@
     "Arsenal Lab",
     "Web AppSec"
   ],
-  "Github URL": "https://github.com/jlehett/everglades-ai-wargame",
+  "Github URL": "https://play.secdim.com/",
   "Event": "BH-ARSENAL",
   "Description": "An AI wargame framework built around the OpenAI Gym API that enables reinforcement learning research by allowing developers to create and train intelligent agents that compete in a strategic battle environment.",
   "Year": "2024",

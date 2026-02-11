@@ -8,7 +8,7 @@
     "AI, ML & Data Science"
   ],
   "Event": "BH-ARSENAL",
-  "Github URL": "https://github.com/mohamadgsalim/ai-wargame",
+  "Github URL": "https://play.secdim.com/",
   "Description": "AI Wargame is a strategic 2-player game set on a 5x5 board where an attacker and defender engage in battle, implementing adversarial search algorithms like minimax with alpha-beta pruning for intelligent AI opponents.",
   "Year": "2024",
   "Location": null
