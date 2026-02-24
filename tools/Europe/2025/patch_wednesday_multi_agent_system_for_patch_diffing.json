@@ -1,6 +1,6 @@
 {
   "Tool Name": "Patch Wednesday - Multi-Agent System for Patch Diffing",
-  "Description": "Every month, Microsoft's Patch Tuesday drops dozens of security updates encapsulated in KBs, each addressing multiple CVEs across Windows components. PatchDiffAI is a first-of-its-kind, AI-driven multi-agent framework that ingests Patch Tuesday metadata, dissects each patched CVE, and delivers a fully automated, end-to-end root-cause analysis report.\nBy automating the most time-consuming steps of patch triage, PatchDiffAI empowers security teams to focus on mitigation and defense, rather than manual analysis overhead.",
+  "Description": "PatchDiffWednesday is an AI-driven multi-agent framework that automates Microsoft Patch Tuesday analysis. It ingests KB metadata, performs binary patch diffing for each CVE, and generates end-to-end root-cause analysis reports, automating the most time-consuming steps of monthly patch triage.",
   "Github URL": "https://github.com/T-RN-R/PatchDiffWednesday",
   "Tracks": [
     "AI, ML & Data Science"

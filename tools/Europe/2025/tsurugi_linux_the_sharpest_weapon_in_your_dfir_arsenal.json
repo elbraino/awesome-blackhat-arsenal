@@ -1,6 +1,6 @@
 {
   "Tool Name": "TSURUGI LINUX: The Sharpest Weapon in Your DFIR Arsenal",
-  "Description": "Any DFIR analyst knows that everyday in many companies, it doesn't matter the size, it's not easy to perform forensics investigations often due to lack of internal information (like mastery all IT architecture, have the logs or the right one...) and ready to use DFIR tools.",
+  "Description": "Tsurugi Linux is a purpose-built DFIR (Digital Forensics and Incident Response) Linux distribution pre-loaded with hundreds of forensic analysis, incident response, and malware analysis tools. It provides a ready-to-use investigation platform for evidence acquisition, timeline analysis, memory forensics, and network forensics.",
   "Github URL": "https://github.com/project-tsurugi/tsurugidb",
   "Tracks": [
     "Data Forensics/Incident Response"

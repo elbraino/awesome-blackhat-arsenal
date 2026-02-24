@@ -1,6 +1,6 @@
 {
   "Tool Name": "From Triage to Threat Modeling: Open-Source Security LLM in Action",
-  "Description": "Security teams are drowning in alert noise, manual triage, and time-consuming reviews, while attackers are moving with speed and precision. This demo introduces an open-source, instruction-tuned Large Language Model (LLM), purpose-built to assist security practitioners across both SOC and Offensive Security workflows.",
+  "Description": "Arrows is an open-source, instruction-tuned Large Language Model (LLM) purpose-built for security workflows. It assists with SOC alert triage, threat modeling, and offensive security tasks, providing an AI assistant specifically trained on cybersecurity knowledge to reduce manual analysis overhead.",
   "Github URL": "https://github.com/yacwagh/arrows",
   "Tracks": [
     "AI, ML & Data Science"

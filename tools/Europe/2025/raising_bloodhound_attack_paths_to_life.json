@@ -1,6 +1,6 @@
 {
   "Tool Name": "Raising BloodHound Attack Paths to Life",
-  "Description": "Security practitioners rely heavily on lab environments to test tools, techniques, and exploits before bringing them into live environments. But most labs are built with generic setups, such as one domain and a couple of workstations, and rarely capture the tangled complexity of real-world Active Directory: multiple domains, nested groups, delegated permissions, misconfigured ACLs, and privilege escalation paths that only exist through deep object relationships",
+  "Description": "BloodHound is an Active Directory and Azure attack path analysis tool that uses graph theory to reveal hidden relationships and privilege escalation paths in AD environments. It maps users, groups, computers, ACLs, and delegated permissions to identify exploitable chains that attackers can traverse to reach high-value targets.",
   "Github URL": "https://github.com/SpecterOps/BloodHound",
   "Tracks": [
     "Vulnerability Assessment"

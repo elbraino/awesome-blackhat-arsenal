@@ -1,6 +1,6 @@
 {
   "Tool Name": "Golden dMSA: One Key to Rule Them All",
-  "Description": "Golden dMSA is a post-exploitation and privilege escalation tool that exploits vulnerabilities in Managed Service Accounts (MSAs) within Active Directory forests. This attack enables adversaries to obtain Kerberos tickets and derive passwords for all domain-managed service accounts (dMSAs) and group-managed service accounts (gMSAs) across the forest by temporarily compromising a single domain.\nDomain-managed service accounts are designed as enhanced MSAs with strengthened security controls. By design, non-privileged users should lack the permissions to enumerate these protected accounts. However, this attack method bypasses these restrictions, allowing unauthorized enumeration of dMSA and gMSA accounts from standard user privileges.",
+  "Description": "Golden dMSA is a post-exploitation tool that exploits vulnerabilities in Active Directory Managed Service Accounts to escalate privileges across an entire forest. By compromising a single domain, it obtains Kerberos tickets and derives passwords for all dMSAs and gMSAs, bypassing security restrictions that normally prevent non-privileged users from enumerating these protected accounts.",
   "Github URL": "https://github.com/Semperis/GoldenDMSA",
   "Tracks": [
     "Exploitation and Ethical Hacking"

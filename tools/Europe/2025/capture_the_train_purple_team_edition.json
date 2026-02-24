@@ -1,6 +1,6 @@
 {
   "Tool Name": "Capture the Train: Purple Team Edition!",
-  "Description": "Monitoring is often seen as a silver bullet for ICS security—but how effective is it really? In this Arsenal demo lab, you'll launch real attacks against an industrial setup composed of PLCs and SCADA controlling a model train and robotic arms. We'll assess which attacks are detected (or not!), leveraging two newly released plugins we developed to add more ICS capabilities to MITRE CALDERA: caldera-s7 and caldera-opcua.",
+  "Description": "Caldera-S7 and Caldera-OPCUA are MITRE CALDERA plugins that add ICS attack capabilities for Siemens S7 and OPC-UA protocols. Used in the Capture the Train purple team exercise, they enable launching real ICS attacks against PLCs and SCADA systems to assess detection effectiveness of industrial monitoring solutions.",
   "Github URL": "https://github.com/wavestone-cdt/caldera-s7",
   "Tracks": [
     "Arsenal Lab"

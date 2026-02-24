@@ -1,6 +1,6 @@
 {
   "Tool Name": "Project Foxhound",
-  "Description": "The web has seen a paradigm shift in recent years, from on-premise, monolithic server applications, to collections of cloud-based microservices. As such, much of the application logic has shifted from the server to the client, with program logic running on a user's browser. This shift has brought with it a new class of client-side web vulnerabilities, the most prominent being client-side (or DOM-based) cross-site scripting (XSS). Most state-of-the-art tools, however, are still focused on detection of their server-side counterparts (such as reflected XSS). Hunting for client-side issues, remains a manual effort, requiring time-intensive and costly penetration tests.",
+  "Description": "Project Foxhound is a modified Firefox browser with built-in dynamic taint tracking that automatically detects client-side (DOM-based) cross-site scripting (XSS) vulnerabilities. Developed by SAP, it traces data flows from attacker-controlled sources to security-sensitive sinks in real-time, identifying DOM XSS that traditional server-side scanning tools miss.",
   "Github URL": "https://github.com/SAP/project-foxhound",
   "Tracks": [
     "Web AppSec"

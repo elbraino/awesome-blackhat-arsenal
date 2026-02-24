@@ -1,6 +1,6 @@
 {
   "Tool Name": "MIPSEval: Multi-turn LLM Evaluation of LLM Safety",
-  "Description": "Creating malicious and vulnerable code and harmful content has become easier with LLMs becoming publicly available. Even though the developers of cloud and most local LLMs are taking care to implement ethical guidelines and safety guardrails in their models, to make them refuse malicious content generation, malicious actors are still finding ways to elicit unwanted behaviors from LLMs. The malicious actors often use various jailbreaking or prompt injection techniques and their combination to achieve the desired result.\n\nFor this reason, it is important to constantly improve the safety of LLMs, both base models and applications using them. And in order to achieve better safety, we need to be able to evaluate LLMs thoroughly and constantly. The safety evaluation of LLMs should be easily runnable and automated as much as possible so that every change in the model or the LLM's system prompt can be evaluated quickly and precisely.",
+  "Description": "MIPSEval is an automated multi-turn LLM safety evaluation framework that tests language models against jailbreaking, prompt injection, and guardrail bypass techniques. It enables continuous, repeatable safety assessments of both base models and LLM-powered applications, providing quick and precise evaluation after any model or system prompt changes.",
   "Github URL": "https://github.com/stratosphereips/MIPSEval",
   "Tracks": [
     "AI, ML & Data Science"

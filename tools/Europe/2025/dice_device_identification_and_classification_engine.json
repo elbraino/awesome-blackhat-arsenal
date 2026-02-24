@@ -1,6 +1,6 @@
 {
   "Tool Name": "DICE: Device Identification and Classification Engine",
-  "Description": "In recent years, the Internet has experienced a significant surge in connected devices, with an ever-growing number of sensors and monitoring systems—spanning industries and domestic networks—now exposed to the Internet and reliant on our ability to keep them secure (e.g., in healthcare, home automation, and manufacturing). However, securing Internet-facing devices is no trivial task. Applying patches, firewall rules, and strong credentials are only small steps during their security life-cycle. Since these steps work in tandem, failing even a few can significantly increase the risk of compromise. The cybersecurity community continues to build on its efforts to mitigate this issue from many fronts, all while investigating society's new challenges with technology and their security implications.",
+  "Description": "DICE (Device Identification and Classification Engine) is a network scanning and fingerprinting tool that identifies and classifies Internet-connected devices. It analyzes network traffic patterns and device characteristics to map IoT and embedded devices across networks, helping security teams assess and manage their device attack surface.",
   "Github URL": "https://github.com/RicYaben/dice",
   "Tracks": [
     "Vulnerability Assessment"

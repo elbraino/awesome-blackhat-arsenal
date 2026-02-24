@@ -1,6 +1,6 @@
 {
   "Tool Name": "Exposor - A Contactless Reconnaissance Tool Using Internet Search Engines with a Unified Syntax",
-  "Description": "The attack surface of organizations is constantly evolving, making real-time discovery of exposed technologies and vulnerabilities critical for proactive security. However, conducting searches across multiple Search Engine requires understanding different query syntaxes, which can be time-consuming and inefficient.",
+  "Description": "Exposor is a contactless reconnaissance tool that queries multiple internet search engines (Shodan, Censys, FOFA, ZoomEye, etc.) using a unified syntax. It eliminates the need to learn different query languages for each platform, enabling efficient discovery of exposed technologies and vulnerabilities across an organization's attack surface.",
   "Github URL": "https://github.com/abuyv/exposor",
   "Tracks": [
     "OSINT - Open Source Intelligence"

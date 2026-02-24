@@ -1,6 +1,6 @@
 {
   "Tool Name": "Keep COM and Hijack On: Redefining Windows Session Hijacking",
-  "Description": "While COM (Component Object Model) is a widely used and deeply integrated technology, its inherent complexity has left many intriguing areas largely underexplored for offensive security purposes. In this talk, I introduce a novel red team approach to abusing Windows COM objects for credential theft and session hijacking attacks.",
+  "Description": "SessionHop is a red team tool that exploits Windows COM (Component Object Model) objects for credential theft and session hijacking. It leverages underexplored COM abuse techniques to perform cross-session attacks, enabling lateral movement and privilege escalation through Windows COM infrastructure.",
   "Github URL": "https://github.com/3lp4tr0n/SessionHop",
   "Tracks": [
     "Exploitation and Ethical Hacking"
