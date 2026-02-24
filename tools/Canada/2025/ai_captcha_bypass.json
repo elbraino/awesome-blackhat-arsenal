@@ -1,0 +1,13 @@
+{
+  "Tool Name": "AI-Powered CAPTCHA Bypass",
+  "Description": "An AI-based tool that demonstrates machine learning techniques for automated CAPTCHA solving. It highlights offensive capabilities for penetration testing while providing defensive insights for improving CAPTCHA robustness against AI-based attacks.",
+  "Tracks": [
+    "AI, ML & Data Science"
+  ],
+  "Speakers": [
+    "Yunus AYDIN"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/aydinnyunus/ai-captcha-bypass",
+  "Location": "Canada"
+}

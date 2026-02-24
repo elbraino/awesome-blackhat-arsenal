@@ -1,6 +1,6 @@
 {
   "Tool Name": "Noizr",
-  "Description": "To address these challenges, we present a concept of the Universal SOC AI Plugin that integrates seamlessly with runtime threat detection tools. This solution tackles key pain points by: - Reducing noise and filtering out false positives - Prioritizing threats based on severity and context - Aggregating events to present a unified threat picture - Providing a flexible API interface for tailored integrations - Enabling webhooks for streamlined response via external systems",
+  "Description": "Noizr is a Universal SOC AI Plugin that integrates with runtime threat detection tools to reduce alert fatigue. It filters false positives, prioritizes threats by severity and context, and aggregates events into a unified threat picture. Features include a flexible API interface for custom integrations and webhook support for automated response via external systems, enabling faster and more informed triage across any SOC environment.",
   "Tracks": [
     "AI, ML & Data Science"
   ],

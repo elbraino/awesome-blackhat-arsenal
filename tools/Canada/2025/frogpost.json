@@ -1,0 +1,13 @@
+{
+  "Tool Name": "FrogPost",
+  "Description": "FrogPost is a browser extension for hunting and exploiting hidden postMessage listeners in web applications. It discovers security vulnerabilities related to the postMessage API, identifying hidden message listeners and demonstrating cross-origin attack techniques that can lead to DOM XSS and data exfiltration.",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Lidor Ben Shitrit"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/thisis0xczar/FrogPost",
+  "Location": "Canada"
+}

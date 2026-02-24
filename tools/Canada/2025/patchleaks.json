@@ -1,0 +1,13 @@
+{
+  "Tool Name": "PatchLeaks",
+  "Description": "PatchLeaks is a web application security tool that goes from patch analysis to proof-of-concept generation. It identifies information disclosure vulnerabilities by analyzing patches and version comparisons to discover sensitive information exposed through application updates or misconfigurations.",
+  "Tracks": [
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Huseyn Gadashov"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/hatlesswizard/PatchLeaks",
+  "Location": "Canada"
+}

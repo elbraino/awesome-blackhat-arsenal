@@ -1,6 +1,6 @@
 {
   "Tool Name": "QELP",
-  "Description": "Threat actors frequently target ESXi servers to disrupt business environments and deploy ransomware to encrypt datastores. We have identified common tactics and techniques that threat actors have used to disrupt services on ESXi servers. Some of these TTPs include enabling SSH to access ESXi servers remotely, changing root user passwords to disrupt access to ESXi servers, and deploying ransomware binaries to encrypt ESXi servers and datastores. Detecting this malicious activity can be time consuming and challenging, especially when dealing with a significant number of logs from multiple ESXi servers or partial encryption of the logs during ransomware incidents.",
+  "Description": "QELP (Quick ESXi Log Parser) is a specialized incident response tool for rapidly parsing and analyzing VMware ESXi hypervisor logs. It identifies common threat actor TTPs targeting ESXi servers, including SSH enablement for remote access, root password changes, and ransomware deployment to encrypt datastores. Designed to handle large volumes of logs from multiple ESXi servers, including partially encrypted logs from ransomware incidents.",
   "Tracks": [
     "Data Forensics/Incident Response"
   ],

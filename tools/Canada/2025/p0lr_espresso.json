@@ -1,0 +1,13 @@
+{
+  "Tool Name": "P0LR Espresso",
+  "Description": "P0LR Espresso is a cloud live response and advanced analysis tool that normalizes and highlights patterns of activity for identities across numerous integrations. It provides rapid incident response capabilities in cloud environments with live forensics, identity-centric investigation, and advanced analysis techniques tailored for cloud infrastructure.",
+  "Tracks": [
+    "Cloud Security"
+  ],
+  "Speakers": [
+    "Art Ukshini"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/Permiso-io-tools/p0lr-espresso",
+  "Location": "Canada"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "KIEMPossible",
+  "Description": "KIEMPossible is a security tool focused on detecting and mitigating supply chain attacks in development and deployment pipelines, with particular attention to compromised tools and dependencies. Developed by Palo Alto Networks, it identifies malicious modifications in commonly trusted software distribution channels.",
+  "Tracks": [
+    "Cloud Security"
+  ],
+  "Speakers": [
+    "Golan Myers"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/PaloAltoNetworks/KIEMPossible",
+  "Location": "Canada"
+}

@@ -1,6 +1,6 @@
 {
   "Tool Name": "SAIST",
-  "Description": "SAIST (Static AI-powered Scanning Tool) is an open-source project that scans codebases for vulnerabilities using AI. It supports multiple LLMs, and can scan full codebases, diffs between commits, or even GitHub PRs automatically.",
+  "Description": "SAIST (Static AI-powered Scanning Tool) is an open-source vulnerability scanner that uses AI to analyze codebases. It supports multiple LLMs (OpenAI, Deepseek, AWS Bedrock, Azure OpenAI) and can scan full codebases, diffs between commits, or GitHub PRs automatically. Key workflows include generating PDF vulnerability reports and commenting directly on pull requests with findings.",
   "Tracks": [
     "Arsenal Lab"
   ],
@@ -8,6 +8,6 @@
     "Simon Gurney"
   ],
   "Year": "2025",
-  "Github URL": "",
+  "Github URL": "https://github.com/punk-security/SAIST",
   "Location": "Canada"
 }

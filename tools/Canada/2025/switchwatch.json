@@ -1,0 +1,14 @@
+{
+  "Tool Name": "SwitchWatch",
+  "Description": "SwitchWatch provides unified threat detection and compliance auditing for Cisco networks. It monitors Cisco infrastructure including routers and switches for security threats, anomalies, and configuration violations, combining real-time threat detection with compliance validation against security standards.",
+  "Tracks": [
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Simardeep Singh",
+    "Shubhika Sharma"
+  ],
+  "Year": "2025",
+  "Github URL": "",
+  "Location": "Canada"
+}

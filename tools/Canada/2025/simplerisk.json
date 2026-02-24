@@ -1,6 +1,6 @@
 {
   "Tool Name": "SimpleRisk",
-  "Description": "Security professionals make risk-based decisions every day—whether it's assessing web application vulnerabilities, defending against malware, or securing physical assets. While risk management is conceptually simple, many practitioners struggle due to inadequate tools. Large enterprises can afford expensive GRC solutions, but most professionals are stuck wrestling with spreadsheets—an inefficient, frustrating process prone to errors.",
+  "Description": "SimpleRisk is an open-source Governance, Risk Management, and Compliance (GRC) platform that replaces spreadsheet-based risk management. It provides a structured framework for assessing web application vulnerabilities, tracking security risks, managing compliance requirements, and generating reports. Designed as an affordable alternative to enterprise GRC solutions, it enables security professionals to make informed risk-based decisions with a streamlined workflow.",
   "Tracks": [
     "Vulnerability Assessment"
   ],

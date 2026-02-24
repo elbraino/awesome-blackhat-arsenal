@@ -1,0 +1,14 @@
+{
+  "Tool Name": "TCP Fingerprint Firewall",
+  "Description": "An eBPF-based firewall that detects and blocks network packets based on TCP fingerprints. Supports MuonFP-style fingerprint matching with wildcard support and real-time monitoring, providing a novel approach to network defense by identifying and filtering traffic based on OS and application TCP stack characteristics.",
+  "Tracks": [
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Vlad Iliushin",
+    "Ken Webster"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/ELLIO-Technology/tcp-fingerprint-firewall",
+  "Location": "Canada"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "ParseAndC",
+  "Description": "ParseAndC 4.0 is a reverse engineering framework with enhanced capabilities for analyzing binaries, understanding program logic, and identifying vulnerabilities in compiled software across multiple platforms and architectures.",
+  "Tracks": [
+    "Reverse Engineering"
+  ],
+  "Speakers": [
+    "Parbati Kumar Manna"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/intel/ParseAndC",
+  "Location": "Canada"
+}

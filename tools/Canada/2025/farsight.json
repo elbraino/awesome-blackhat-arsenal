@@ -1,0 +1,16 @@
+{
+  "Tool Name": "FARSIGHT",
+  "Description": "FARSIGHT is a CLI-based reconnaissance and threat intelligence framework designed for automated reconnaissance and data analysis. It streamlines the process of collecting and analyzing open-source intelligence about targets, threats, and attack surfaces through a command-line interface.",
+  "Tracks": [
+    "OSINT - Open Source Intelligence"
+  ],
+  "Speakers": [
+    "Prashant KV",
+    "Mohd. Arif",
+    "Adlin DSouza",
+    "Sumit Sehgal"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/seedon198/Farsight",
+  "Location": "Canada"
+}
