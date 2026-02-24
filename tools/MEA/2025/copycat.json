@@ -1,6 +1,6 @@
 {
   "Tool Name": "Copycat",
-  "Description": "Modern enterprises face escalating threats from sophisticated browser-based identity attacks that operate within legitimate authenticated sessions, bypassing traditional security controls like EDRs, SASE, and firewalls. This hands-on session equips blue team defenders with practical experience defending against ten real-world browser-based identity attack vectors using the open-source \"Copycat\" identity attack simulator extension.",
+  "Description": "Copycat is an open-source browser extension-based red team toolkit by SquareX Labs that simulates web-based identity attacks through minimal permissions. It demonstrates how browser extensions can silently hijack authenticated sessions, steal credentials via login page spoofing, intercept OTP/2FA tokens, manipulate OAuth flows, and extract autofill data from enterprise applications. Includes 10 distinct attack modules for testing browser-based identity defenses.",
   "Github URL": "",
   "Tracks": [
     "Network Defense"

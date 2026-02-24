@@ -1,7 +1,7 @@
 {
   "Tool Name": "Kanvas",
-  "Description": "Kanvas is an open-source tool for incident response and forensics, enabling structured investigation workflows.",
-  "Github URL": "",
+  "Description": "Kanvas is an open-source, Python-based DFIR case management tool for tracking and documenting investigations. It provides incident timeline visualization, attack chain mapping, threat intelligence lookups for IPs, domains, hashes, and CVEs, MITRE ATT&CK and D3FEND framework mapping, one-click data sanitization, and built-in Markdown note-taking. Built on the Spreadsheet of Doom (SOD) framework with Excel as the backend, it runs entirely locally with no web server required, enabling collaboration via shared drives without vendor lock-in.",
+  "Github URL": "https://github.com/WithSecureLabs/Kanvas",
   "Tracks": [
     "Data Forensics/Incident Response"
   ],

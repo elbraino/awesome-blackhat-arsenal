@@ -1,6 +1,6 @@
 {
   "Tool Name": "SAIST",
-  "Description": "SAIST (Static AI-powered Scanning Tool) is an open-source project that scans codebases for vulnerabilities using AI.It supports multiple LLMs, and can scan full codebases, diffs between commits, or even GitHub PRs automatically.The common use cases are:- Scan an entire application's code base with your favourite LLM (OpenAI, Deepseek etc) and get a PDF report- Scan a code change and comment on a pull requestSAIST allows you to control which LLM is used, such as AWS bedrock or Azure OpenAI. This provides you with greater control of your own data sovereignty, whilst giving you industry-leading capabilities.",
+  "Description": "SAIST (Static AI-powered Scanning Tool) is an open-source vulnerability scanner that uses AI to analyze codebases. It supports multiple LLMs (OpenAI, Deepseek, AWS Bedrock, Azure OpenAI) and can scan full codebases, diffs between commits, or GitHub PRs automatically. Key workflows include scanning an entire application to generate a PDF vulnerability report, and commenting directly on pull requests with findings. Users control which LLM backend is used, maintaining data sovereignty while leveraging AI-powered code analysis.",
   "Tracks": [
     "Code Assessment"
   ],

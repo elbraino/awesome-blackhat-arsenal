@@ -1,7 +1,7 @@
 {
   "Tool Name": "Sense-AI",
   "Description": "SENSE (Shadow Exposure & eNterprise Surveillance for AI) is an open-source cybersecurity tool designed to detect and monitor unauthorized or \"shadow\" AI instances in enterprise environments. As organizations increasingly adopt AI technologies, unapproved AI services—such as external API calls to platforms like OpenAI or Hugging Face, or local model execution—pose significant security and compliance risks. SENSE addresses this emerging threat by analyzing network traffic and endpoint processes to identify AI-related activities, providing enterprises with critical visibility into shadow AI usage.",
-  "Github URL": "",
+  "Github URL": "https://github.com/Faux16/sense-ai",
   "Tracks": [
     "AI, ML & Data Science"
   ],

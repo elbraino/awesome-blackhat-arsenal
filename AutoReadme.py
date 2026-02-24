@@ -30,6 +30,9 @@ CATEGORY_MAP = {
     "Data Forensics/Incident Response": ("🔵 Blue Team & Detection", "cyan"),
     "Arsenal Lab": ("⚙️ Miscellaneous / Lab Tools", "gray"),
     "Human Factors": ("🧠 Social Engineering / General", "pink"),
+    "AI, ML & Data Science": ("🤖 AI, ML & Data Science", "brightgreen"),
+    "Hardware/Embedded": ("🟣 Red Teaming / Embedded", "purple"),
+    "Cloud Security": ("☁️ Cloud Security", "blue"),
 }
 
 # -------------------------------

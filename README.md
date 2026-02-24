@@ -1,4 +1,4 @@
-# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Last Update](https://img.shields.io/badge/Updated-January%202026-blue)](https://github.com/elbraino/awesome-blackhat-arsenal)
+# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Last Update](https://img.shields.io/badge/Updated-February%202026-blue)](https://github.com/elbraino/awesome-blackhat-arsenal)
 [![Project Logo](logo.png)](https://www.blackhat.com/html/arsenal.html)
 > 🚀 A curated list of cutting-edge cybersecurity tools showcased at the Black Hat Arsenal events — covering offensive, defensive, and research-focused security utilities.
 
@@ -33,6 +33,7 @@ Whether you're in red teaming, blue teaming, appsec, or OSINT — this list help
 ### Canada
 - [2023](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Canada/2023/README.md)
 - [2024](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Canada/2024/README.md)
+- [2025](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Canada/2025/README.md)
 ### Europe
 - [2014](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Europe/2014/README.md)
 - [2015](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/Europe/2015/README.md)

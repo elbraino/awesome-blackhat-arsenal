@@ -1,6 +1,6 @@
 {
   "Tool Name": "LogSquash",
-  "Description": "LogSquash condenses and consolidates logs before SIEM ingestion to significantly reduce costs while retaining security value.",
+  "Description": "LogSquash automatically compresses and consolidates logs before SIEM ingestion, reducing volume by up to 90% while retaining 100% of the data. It performs automatic log grouping of contextually related entries, deduplication of redundant values, and schema normalization to SIEM-optimized formats (ECS, CEF, CIM, OCSF). Deploys natively with forwarders like Splunk Forwarder and Cribl Stream with zero pipeline engineering required.",
   "Github URL": "",
   "Tracks": [
     "Network Defense"
