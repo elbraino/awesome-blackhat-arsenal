@@ -1,6 +1,6 @@
 {
   "Tool Name": "KubeAPI-Inspector",
-  "Description": "Due to the rapid development of cloud-native technologies, an increasing number of popular applications are extending Kubernetes' control plane functionalities through extension apiserver. With Kubernetes being centered around a declarative API, we have designed a tool specifically for this scenario. This tool aims to efficiently and automatically discover hidden vulnerable APIs within the cluster. Additionally, we will publish a vulnerability pattern for the first time,which occurs when the golang struct embedding and promoted methods are used improperly, and demonstrate this problem through a workshop, this problem which could potentially lead to API endpoint authentication failures, thereby jeopardizing the entire cluster.",
+  "Description": "KubeAPI-Inspector automatically discovers hidden and vulnerable APIs in Kubernetes clusters, particularly those exposed through extension API servers. It detects authentication bypass vulnerabilities caused by improper Go struct embedding and promoted methods in Kubernetes API extensions that could compromise entire clusters.",
   "Tracks": [
     "Exploitation and Ethical Hacking"
   ],
@@ -9,5 +9,5 @@
   ],
   "Year": "2025",
   "Github URL": "https://github.com/yeahx/KubeAPI-Inspector",
-  "Location": ""
+  "Location": "Asia"
 }

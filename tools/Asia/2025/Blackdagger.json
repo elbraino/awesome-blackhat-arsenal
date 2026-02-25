@@ -1,6 +1,6 @@
 {
   "Tool Name": "Blackdagger",
-  "Description": "At its core, Blackdagger simplifies the management and execution of intricate workflows through its user-friendly approach and powerful functionality. Leveraging a declarative YAML format, Blackdagger enables users to define automation pipelines using a Directed Acyclic Graph (DAG), facilitating clear and concise expression of task dependencies and execution logic.",
+  "Description": "Blackdagger is a workflow automation framework for cybersecurity operations across DevSecOps, MLSecOps, and Continuous Automated Red Teaming (CART). It uses declarative YAML-based DAGs to define automation pipelines with clear task dependencies, a built-in web UI for real-time monitoring, and integrations for security workflow orchestration.",
   "Tracks": [
     "Web AppSec"
   ],
@@ -13,5 +13,5 @@
   ],
   "Year": "2025",
   "Github URL": "https://github.com/ErdemOzgen/blackdagger",
-  "Location": ""
+  "Location": "Asia"
 }

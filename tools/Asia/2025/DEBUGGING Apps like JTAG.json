@@ -1,6 +1,6 @@
 {
   "Tool Name": "DEBUGGING Apps like JTAG",
-  "Description": "Simulation execution plays a vital role in computer security and boasts a wide range of applications, such as reversing obfuscated malware, fuzzing programs to identify vulnerabilities, or swiftly pinpointing the causes of program crashes. Unfortunately, the existing binary library emulators or tracing tools on the Android platform suffer from some issues: 1. Lack Runtime: For tools running on PC, this entails the manual simulation of JNI and Java methods. Examples include Unidbg, AndroidNativeEmu and Qiling; 2. Poor Stability: There are frequent direct crashes or infinite loops during simulation execution or tracing. For example, the Frida Stalker experiences such issues; 3. Low Performance: Inefficient tracing and fuzzing that can be frustrating.",
+  "Description": "A high-performance binary emulator for instruction-level tracing and analysis of Android native libraries. It addresses limitations of existing tools (Unidbg, AndroidNativeEmu, Qiling, Frida Stalker) by providing full runtime support with JNI/Java method simulation, improved stability without crashes or infinite loops, and efficient tracing and fuzzing performance.",
   "Tracks": [
     "Android, iOS and Mobile Hacking"
   ],
@@ -10,5 +10,5 @@
   ],
   "Year": "2025",
   "Github URL": "",
-  "Location": ""
+  "Location": "Asia"
 }

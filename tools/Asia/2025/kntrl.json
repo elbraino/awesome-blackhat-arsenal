@@ -1,6 +1,6 @@
 {
   "Tool Name": "kntrl",
-  "Description": "CI/CD pipelines are complex environments. This complexity requires methodical comprehensive reviews to secure the entire stack. Often a company may lack the time, specialist security knowledge, and people needed to secure their CI/CD pipelines.",
+  "Description": "kntrl is an eBPF-based security agent for CI/CD runners that provides runtime visibility and protection. It monitors process execution, network connections, and file access on CI/CD build agents, detecting and blocking unauthorized activities such as supply chain attacks and secret exfiltration.",
   "Tracks": [
     "Network Defense"
   ],
@@ -10,5 +10,5 @@
   ],
   "Year": "2025",
   "Github URL": "https://github.com/kondukto-io/kntrl",
-  "Location": ""
+  "Location": "Asia"
 }

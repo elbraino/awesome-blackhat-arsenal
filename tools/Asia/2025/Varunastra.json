@@ -1,6 +1,6 @@
 {
   "Tool Name": "Varunastra",
-  "Description": "Docker has revolutionized how developers build, ship, and run applications, providing a consistent environment for software to run across various platforms. Its lightweight, containerized approach has made it an indispensable tool in modern DevOps practices. However, with its growing popularity, Docker has become a target for security vulnerabilities. Misconfigurations, exposed secrets, and unpatched dependencies are common issues that can lead to significant security breaches.",
+  "Description": "Varunastra is a Docker security scanner that detects misconfigurations, exposed secrets, and unpatched dependencies in Docker environments. It analyzes Dockerfiles, images, and running containers to identify security vulnerabilities and compliance issues across containerized deployments.",
   "Tracks": [
     "Vulnerability Assessment"
   ],
@@ -10,5 +10,5 @@
   ],
   "Year": "2025",
   "Github URL": "https://github.com/Devang-Solanki/Varunastra",
-  "Location": ""
+  "Location": "Asia"
 }

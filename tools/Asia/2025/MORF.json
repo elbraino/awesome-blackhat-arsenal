@@ -1,0 +1,15 @@
+{
+  "Tool Name": "MORF",
+  "Description": "MORF (Mobile Reconnaissance Framework) is a lightweight, platform-independent mobile security tool for identifying sensitive information within mobile applications. It combines a Go backend with an Angular frontend, supporting both Android and iOS environments for comprehensive mobile app security assessment.",
+  "Tracks": [
+    "Android, iOS and Mobile Hacking"
+  ],
+  "Speakers": [
+    "Amrudesh Balakrishnan",
+    "Abhishek JM",
+    "Satyam Nagpal"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/amrudesh1/MORF",
+  "Location": "Asia"
+}

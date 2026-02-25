@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Foundpy",
+  "Description": "Foundpy is a Foundry-like interface for interacting with Ethereum applications in Python using the web3 module. It provides extra features for solving blockchain CTF challenges, enabling smart contract interaction, deployment, and exploitation workflows directly from Python scripts.",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Bill Elim"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/Wrth1/foundpy",
+  "Location": "Asia"
+}

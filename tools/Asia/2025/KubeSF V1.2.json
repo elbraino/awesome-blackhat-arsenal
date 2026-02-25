@@ -1,6 +1,6 @@
 {
   "Tool Name": "KubeSF V1.2",
-  "Description": "KubeSF v1.2 (previously known as KubePWN) - A security audit suite for K8s is a powerful, lightweight and platform independent security tool designed to help security professionals and administrators to enhance and measure the security posture of on-prem Kubernetes clusters. Organizations are always committed to enhance the security of their containerized applications to mitigate potential vulnerabilities and to strengthen the overall security posture.",
+  "Description": "KubeSF v1.2 (previously known as KubePWN) is a lightweight, platform-independent Kubernetes security audit suite. It helps security professionals assess and strengthen the security posture of on-premises Kubernetes clusters by identifying misconfigurations, vulnerabilities, and compliance gaps in containerized deployments.",
   "Tracks": [
     "Vulnerability Assessment"
   ],
@@ -10,5 +10,5 @@
   ],
   "Year": "2025",
   "Github URL": "",
-  "Location": ""
+  "Location": "Asia"
 }

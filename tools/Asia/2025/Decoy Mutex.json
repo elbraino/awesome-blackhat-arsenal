@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Decoy Mutex",
+  "Description": "Decoy Mutex is a Windows defensive tool that creates fake infection markers (mutexes) associated with known ransomware families. Since ransomware checks for its own mutex to avoid double-infection, the presence of decoy mutexes can prevent ransomware execution on protected systems.",
+  "Tracks": [
+    "Malware Defense"
+  ],
+  "Speakers": [
+    "Madhukar Raina"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/ScarredMonk/Decoy-Mutex",
+  "Location": "Asia"
+}

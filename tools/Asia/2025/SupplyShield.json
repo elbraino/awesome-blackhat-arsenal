@@ -1,6 +1,6 @@
 {
   "Tool Name": "SupplyShield",
-  "Description": "SupplyShield is a comprehensive supply chain security framework aimed at defending against the increasingly sophisticated attacks posed by software supply chain vulnerabilities. With numerous organizations hosting hundreds of micro-services and thousands of builds occurring daily, effectively monitoring the software supply chain to construct the final application becomes a complex challenge. This is where SupplyShield can assist any organization in seamlessly integrating this framework into their Software Development Lifecycle (SDLC) to ensure software supply chain security.",
+  "Description": "SupplyShield is a supply chain security framework that integrates into the SDLC to protect against software supply chain attacks. It generates Software Bill of Materials (SBOM) and performs Software Composition Analysis (SCA) across microservices, monitoring dependencies and builds for vulnerabilities and tampering.",
   "Tracks": [
     "Vulnerability Assessment"
   ],
@@ -11,5 +11,5 @@
   ],
   "Year": "2025",
   "Github URL": "https://github.com/supplyshield/supplyshield",
-  "Location": ""
+  "Location": "Asia"
 }

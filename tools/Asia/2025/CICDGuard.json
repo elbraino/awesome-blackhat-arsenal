@@ -1,0 +1,13 @@
+{
+  "Tool Name": "CICDGuard",
+  "Description": "CICDGuard provides visibility and security for CI/CD ecosystems using graph theory. It maps and visualizes CI/CD pipeline configurations, dependencies, and attack surfaces, enabling security teams to identify misconfigurations and potential supply chain risks across their build and deployment infrastructure.",
+  "Tracks": [
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Pramod Rana"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/varchashva/CICDGuard",
+  "Location": "Asia"
+}

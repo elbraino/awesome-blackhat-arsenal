@@ -1,0 +1,17 @@
+{
+  "Tool Name": "Casino Heist",
+  "Description": "Casino Heist is an interactive playground for learning Solidity smart contract security. It provides a private blockchain environment with deliberately vulnerable smart contracts, enabling hands-on practice of common exploitation techniques including reentrancy, flash loans, and access control bypasses.",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Richard Tan",
+    "Felysia Meytri",
+    "Immanuel Santoso",
+    "Chrisando Ryan Pardomuan Siahaan",
+    "Yohan Muliono"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/Kiinzu/Casino-Heist",
+  "Location": "Asia"
+}

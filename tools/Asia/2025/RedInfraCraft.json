@@ -1,0 +1,14 @@
+{
+  "Tool Name": "RedInfraCraft",
+  "Description": "RedInfraCraft automates the deployment of red team infrastructure including C2 servers, phishing platforms, and payload delivery systems. It supports multi-cloud deployments across AWS, Azure, and GCP, streamlining the setup of complex attack infrastructure for red team exercises.",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Yash Bharadwaj",
+    "Manish Gupta"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/RedTeamOperations/Red-Infra-Craft",
+  "Location": "Asia"
+}

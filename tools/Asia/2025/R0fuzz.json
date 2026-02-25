@@ -1,6 +1,6 @@
 {
   "Tool Name": "R0fuzz",
-  "Description": "Industrial control systems (ICS) are critical to national infrastructure, demanding robust security measures. \"R0fuzz\" is a collaborative fuzzing tool tailored for ICS environments, integrating diverse strategies to uncover vulnerabilities within key industrial protocols such as Modbus, Profinet, DNP3, OPC, BACnet, etc. This innovative approach enhances ICS resilience against emerging threats, providing a comprehensive testing framework beyond traditional fuzzing methods.",
+  "Description": "R0fuzz is a collaborative fuzzing tool for industrial control systems (ICS) that integrates diverse fuzzing strategies to uncover vulnerabilities in key industrial protocols including Modbus, Profinet, DNP3, OPC, and BACnet. It provides a comprehensive ICS-specific testing framework beyond traditional fuzzing methods.",
   "Tracks": [
     "Vulnerability Assessment"
   ],
@@ -10,6 +10,6 @@
     "Aparna Padma B"
   ],
   "Year": "2025",
-  "Github URL": "",
-  "Location": ""
+  "Github URL": "https://github.com/s34s0n/r0fuzz",
+  "Location": "Asia"
 }

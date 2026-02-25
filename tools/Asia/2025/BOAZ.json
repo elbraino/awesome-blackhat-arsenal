@@ -1,0 +1,13 @@
+{
+  "Tool Name": "BOAZ",
+  "Description": "BOAZ (Bypass, Obfuscate, Adapt, Zero-Trust) is a multilayered AV/EDR evasion framework and testing tool. It accepts x86/x64 PE binaries or raw shellcode as input and produces evasion-ready EXE or DLL outputs, tested against 14 desktop AVs and 7 EDRs. Written in C++/C with Python3 as the main linker.",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Thomas Meng"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/thomasxm/BOAZ",
+  "Location": "Asia"
+}

@@ -18,6 +18,7 @@ CATEGORY_MAP = {
     "Reverse Engineering": ("🧠 Reverse Engineering", "orange"),
     "OSINT - Open Source Intelligence": ("🔍 OSINT", "lightgrey"),
     "Internet of Things": ("🟣 Red Teaming / Embedded", "purple"),
+    "Internet Of Things": ("🟣 Red Teaming / Embedded", "purple"),
     "Hardware / Embedded": ("🟣 Red Teaming / Embedded", "purple"),
     "Code Assessment": ("🌐 Web/AppSec or Red Teaming", "blue"),
     "Web AppSec": ("🌐 Web/AppSec", "blue"),

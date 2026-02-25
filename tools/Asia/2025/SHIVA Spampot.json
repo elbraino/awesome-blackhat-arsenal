@@ -1,0 +1,14 @@
+{
+  "Tool Name": "SHIVA Spampot",
+  "Description": "SHIVA (Spam Honeypot with Intelligent Virtual Analyzer) is an open-source spam and phishing honeypot for threat intelligence gathering. It captures, analyzes, and classifies incoming spam and phishing emails, extracting actionable intelligence including malicious URLs, attachments, and sender infrastructure.",
+  "Tracks": [
+    "OSINT - Open Source Intelligence"
+  ],
+  "Speakers": [
+    "Rahul Binjve",
+    "Viren Kapadia"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/shiva-spampot/shiva",
+  "Location": "Asia"
+}

@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Agneyastra",
+  "Description": "Agneyastra is a Firebase misconfiguration detection toolkit that uses a tiered approach, testing with credentials in increasing order of privilege to simulate real-world access patterns. It provides comprehensive checks across all Firebase services with a correlation engine, secret extraction, and automated security report generation.",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Bhavarth Karmarkar",
+    "Devang Solanki"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/JA3G3R/agneyastra",
+  "Location": "Asia"
+}

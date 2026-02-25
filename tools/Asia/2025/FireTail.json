@@ -1,0 +1,13 @@
+{
+  "Tool Name": "FireTail",
+  "Description": "FireTail is an open-source inline API security platform providing code libraries for Python, Go, Node.js, Java, Ruby, and .NET. It integrates with popular API frameworks to perform real-time security processing and blocking of malicious API calls based on OpenAPI/Swagger specifications.",
+  "Tracks": [
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Jeremy Snyder"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/FireTail-io",
+  "Location": "Asia"
+}

@@ -1,0 +1,15 @@
+{
+  "Tool Name": "MachOpen",
+  "Description": "MachOpen is a high-performance, lightweight reverse analysis tool for iOS applications. It analyzes Mach-O binary formats used in iOS/macOS apps with low resource consumption, enabling efficient static and dynamic analysis of iOS application internals.",
+  "Tracks": [
+    "Reverse Engineering"
+  ],
+  "Speakers": [
+    "Xuanjie Fang",
+    "Ken Yuan",
+    "Binghao Hu"
+  ],
+  "Year": "2025",
+  "Github URL": "",
+  "Location": "Asia"
+}

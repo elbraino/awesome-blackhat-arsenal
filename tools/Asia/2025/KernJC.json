@@ -1,6 +1,6 @@
 {
   "Tool Name": "KernJC",
-  "Description": "Linux kernel vulnerability reproduction is a critical task in system security. To reproduce a kernel vulnerability, the vulnerable environment and the Proof of Concept (PoC) program are needed. Most existing research focuses on the generation of PoC, while the construction of environment is overlooked. However, establishing an effective vulnerable environment to trigger a vulnerability is challenging.",
+  "Description": "KernJC automates the generation of vulnerable Linux kernel environments for vulnerability reproduction and security research. Given a kernel CVE, it automatically constructs the correct kernel configuration and environment needed to trigger the vulnerability, complementing existing PoC generation tools.",
   "Tracks": [
     "Vulnerability Assessment"
   ],
@@ -12,5 +12,5 @@
   ],
   "Year": "2025",
   "Github URL": "https://github.com/NUS-Curiosity/KernJC",
-  "Location": ""
+  "Location": "Asia"
 }

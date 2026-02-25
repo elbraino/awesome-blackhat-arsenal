@@ -1,6 +1,6 @@
 {
   "Tool Name": "Kubernetes Goat",
-  "Description": "Containers are everywhere, and Kubernetes has become the de facto standard for deploying, managing, and scaling containerized workloads. Yet security issues continue to emerge in the wild daily, ranging from simple misconfigurations to sophisticated attacks. In this session, I'll introduce Kubernetes Goat, an interactive security playground designed to help you master the skills needed to hack and secure your Kubernetes clusters and container workloads.",
+  "Description": "Kubernetes Goat is an intentionally vulnerable Kubernetes cluster environment designed for hands-on security learning. It contains real-world misconfiguration scenarios, vulnerable workloads, and attack simulations that teach practitioners how to exploit and secure Kubernetes clusters and container deployments.",
   "Tracks": [
     "Exploitation and Ethical Hacking"
   ],
@@ -9,5 +9,5 @@
   ],
   "Year": "2025",
   "Github URL": "https://github.com/madhuakula/kubernetes-goat",
-  "Location": ""
+  "Location": "Asia"
 }

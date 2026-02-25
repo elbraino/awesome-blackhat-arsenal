@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Silver SAML Forger",
+  "Description": "SilverSamlForger is a C# tool that crafts forged SAML responses from Entra ID (Azure AD). It generates custom SAML responses signed with a provided certificate, demonstrating the Silver SAML attack technique for penetration testing of SAML-based authentication in Microsoft environments.",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Eric Woodruff",
+    "Tomer Nahum"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/Semperis/SilverSamlForger",
+  "Location": "Asia"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Stowaway",
+  "Description": "Stowaway is a multi-hop proxy tool written in Go for penetration testers operating in restricted network environments. It creates chained proxy tunnels through multiple nodes, enabling access to segmented networks and internal systems that aren't directly reachable.",
+  "Tracks": [
+    "Network Attacks"
+  ],
+  "Speakers": [
+    "Haoliang Qi"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/ph4ntonn/Stowaway",
+  "Location": "Asia"
+}

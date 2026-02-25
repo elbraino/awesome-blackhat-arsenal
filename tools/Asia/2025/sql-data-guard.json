@@ -1,6 +1,6 @@
 {
   "Tool Name": "sql-data-guard",
-  "Description": "SQL is the go-to language for performing queries on databases and for a good reason - it's well known, easy to use and pretty simple. However, it seems that it's as easy to use as it is to exploit and SQL injection is still one of the most targeted vulnerabilities especially nowadays with the proliferation of \"natural language queries\" harnessing LLM power to generate and run SQL queries.",
+  "Description": "SQL Data Guard is a safety layer for LLM-to-database interactions that validates and rewrites SQL queries to enforce access restrictions and block injection payloads. It intercepts LLM-generated SQL, applies schema-aware policies, and ensures only safe, compliant queries reach database services.",
   "Tracks": [
     "Web AppSec"
   ],
@@ -9,6 +9,6 @@
     "Sarit Yerushalmi"
   ],
   "Year": "2025",
-  "Github URL": "",
-  "Location": ""
+  "Github URL": "https://github.com/ThalesGroup/sql-data-guard",
+  "Location": "Asia"
 }

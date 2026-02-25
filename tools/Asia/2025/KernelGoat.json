@@ -1,0 +1,13 @@
+{
+  "Tool Name": "KernelGoat",
+  "Description": "KernelGoat is a deliberately vulnerable Linux kernel environment for learning and practicing kernel exploitation techniques. It provides a safe, reproducible lab for security researchers to study kernel vulnerabilities, develop exploits, and understand kernel security mechanisms.",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Shivankar Madaan"
+  ],
+  "Year": "2025",
+  "Github URL": "https://github.com/Rnalter/KernelGoat",
+  "Location": "Asia"
+}

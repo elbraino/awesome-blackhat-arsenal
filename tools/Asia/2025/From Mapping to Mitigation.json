@@ -1,6 +1,6 @@
 {
   "Tool Name": "From Mapping to Mitigation",
-  "Description": "We'll cover the full lifecycle—from mapping using a range of discovery tools (subfinder, dnsx, etc.) and enriching with tools like httpx and katana, to scanning and triaging with Nuclei. Plus, we'll touch on integrated ticketing in nuclei, regression handling, and our community-led inventory of actionable, exploitable vulnerability checks, misconfigurations, DAST, auditing, and more.",
+  "Description": "Nuclei is a fast, template-based vulnerability scanner by ProjectDiscovery. It covers the full security lifecycle from asset discovery (subfinder, dnsx) and enrichment (httpx, katana) to scanning and triage, with a community-led library of actionable templates for vulnerability checks, misconfiguration detection, DAST, and compliance auditing.",
   "Tracks": [
     "Vulnerability Assessment"
   ],
@@ -10,5 +10,5 @@
   ],
   "Year": "2025",
   "Github URL": "https://github.com/projectdiscovery/nuclei",
-  "Location": ""
+  "Location": "Asia"
 }

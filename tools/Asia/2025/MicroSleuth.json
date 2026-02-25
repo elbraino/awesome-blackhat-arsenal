@@ -1,6 +1,6 @@
 {
   "Tool Name": "MicroSleuth",
-  "Description": "Embedded systems are specialized computing units that are integral to a variety of sectors, from consumer wearables to industrial controls. The ubiquity of these devices in our electronic landscape has made them prime targets for cyber threats, evidenced by historical attacks on operational technologies, such as the infamous Stuxnet against nuclear facilities. This underscores the critical importance of endpoint detection and response for embedded systems.",
+  "Description": "MicroSleuth is an endpoint detection and response (EDR) tool designed for embedded systems and microcontrollers. It monitors runtime behavior on resource-constrained devices to detect security threats and anomalies, providing visibility into embedded system security across consumer, industrial, and operational technology environments.",
   "Tracks": [
     "Hardware/Embedded"
   ],
@@ -12,5 +12,5 @@
   ],
   "Year": "2025",
   "Github URL": "https://github.com/Nonsouris/MicroSleuth",
-  "Location": ""
+  "Location": "Asia"
 }
