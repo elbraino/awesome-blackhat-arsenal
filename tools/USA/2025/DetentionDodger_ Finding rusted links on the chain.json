@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/permiso-io-tools/detentiondodger",
-  "Description": "AWSCompromisedKeyQuarantineV2 (v3 was released during the creation of this article) is an AWS policy that attaches to identities whose credentials are leaked. It denies access to certain actions, applied by the AWS team in the event that an IAM user's credentials have been compromised or exposed publicly. AWS recently modified their public documentation to include the following:\n\nWhile it is not the intended use of the policy, many see it as the first line of defense for an exposed access key. In fact, we have observed several organizations preemptively assign this policy to sensitive identities to limit actions that can occur.\n\nDetentionDodger was built as a tool to automate the process of enumerating the account for users with leaked credentials and finding out their privileges and the impact they will have on the account.",
+  "Description": "DetentionDodger is a tool that automates enumeration of AWS accounts for IAM users with leaked credentials. It analyzes users under the AWSCompromisedKeyQuarantineV2 policy, determines their effective privileges, and assesses the potential impact of compromised credentials on the account.",
   "Year": "2025",
   "Location": "USA"
 }

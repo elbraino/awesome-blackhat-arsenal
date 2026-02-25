@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/p1ngul1n0/blackbird",
-  "Description": "An OSINT tool to search for accounts by username and email in social networks.",
+  "Description": "Blackbird is an OSINT tool that searches for user accounts across social networks by username and email. It supports over 500 platforms, offers a web-based interface, and provides exportable results for reconnaissance and digital footprint analysis.",
   "Year": "2025",
   "Location": "USA"
 }

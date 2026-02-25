@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/Devang-Solanki/Varunastra",
-  "Description": "Docker has revolutionized how developers build, ship, and run applications, providing a consistent environment for software to run across various platforms. Its lightweight, containerized approach has made it an indispensable tool in modern DevOps practices. However, with its growing popularity, Docker has become a target for security vulnerabilities. Misconfigurations, exposed secrets, and unpatched dependencies are common issues that can lead to significant security breaches.\n\nIntroducing Varunastra, an innovative tool designed to enhance the security of Docker environments. Named after The Varunastra (\u0935\u0930\u0941\u0923\u093e\u0938\u094d\u0924\u094d\u0930), it is the water weapon according to the Indian scriptures, incepted by Varuna, god of hydrosphere. Varunastra is engineered to detect and help mitigate vulnerabilities in Docker, ensuring robust security across all Docker containers and images.\n\nKey Features of Varunastra:\n1. Secret Detection\n2. CVE Scanning\n3. Dependency Confusion Prevention\n4. Asset Extraction\n5. SAST Scans of Source Code\n6. HTML Report Generation\n\nIn a world where security threats are constantly evolving, Varunastra stands as a guardian, ensuring that your Docker environments remain fortified against leaked secrets, vulnerabilities, and dependency threats.",
+  "Description": "Varunastra is a Docker security tool that detects and helps mitigate vulnerabilities across Docker containers and images. Key features include secret detection, CVE scanning, dependency confusion prevention, asset extraction, SAST scans of source code, and HTML report generation.",
   "Year": "2025",
   "Location": "USA"
 }

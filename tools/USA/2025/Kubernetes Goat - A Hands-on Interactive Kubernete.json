@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/madhuakula/kubernetes-goat",
-  "Description": "Containers are everywhere, and Kubernetes has become the de facto standard for deploying, managing, and scaling containerized workloads. Yet security issues continue to emerge in the wild daily, ranging from simple misconfigurations to sophisticated attacks. In this session, I'll introduce Kubernetes Goat, an interactive security playground designed to help you master the skills needed to hack and secure your Kubernetes clusters and container workloads.\n\nKubernetes Goat is an open-source platform featuring intentionally vulnerable scenarios within a Kubernetes cluster. From common vulnerabilities to notorious real-world attack patterns, each scenario is crafted to reflect actual security challenges - not theoretical simulations. Join me, the creator of Kubernetes Goat, as we dive deep into cluster vulnerabilities and emerge with practical defense strategies. Get ready to hack, learn, and shield your clusters!",
+  "Description": "Kubernetes Goat is an interactive, intentionally vulnerable Kubernetes security playground. It provides hands-on scenarios covering common misconfigurations, real-world attack patterns, and container security challenges within a Kubernetes cluster, designed to help security practitioners learn offensive and defensive Kubernetes security techniques.",
   "Year": "2025",
   "Location": "USA"
 }
