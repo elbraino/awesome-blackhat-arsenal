@@ -1,0 +1,17 @@
+{
+  "Tool Name": "Agent Miner: A General AI Agent Security Auditing Agent Based on Multi-Agent Collaboration",
+  "Description": "Agent Miner is a security auditing tool for general AI agents such as computer-use, browser-use, and mobile-use agents, built on a multi-agent collaborative architecture that decomposes complex audits into subtasks orchestrated through a directed acyclic graph workflow. It performs attack-surface-driven static analysis to identify vulnerability points and generate proof-of-concept exploits, then automatically deploys the target agent in a simulated environment to validate findings. The framework has uncovered more than 15 vulnerabilities across over 10 mainstream open-source AI agents, resulting in 7 assigned CVEs.",
+  "Tracks": [
+    "AI, ML & Data Science"
+  ],
+  "Speakers": [
+    "Lewei Qu",
+    "Zeyu Luo",
+    "Zezhi Lin",
+    "Yue Yang",
+    "Sushuang Ma"
+  ],
+  "Year": "2026",
+  "Github URL": "",
+  "Location": "Asia"
+}

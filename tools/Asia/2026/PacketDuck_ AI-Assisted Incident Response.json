@@ -1,0 +1,15 @@
+{
+  "Tool Name": "PacketDuck: AI-Assisted Incident Response",
+  "Description": "PacketDuck is an AI-assisted triage acceleration tool that helps L1 SOC analysts rapidly analyze PCAP data during incident response. It surfaces high-risk network behaviors, prioritizes threats, and generates forensic insights to reduce mean time to triage. The tool fits into incident response workflows where analysts must quickly verdict suspicious captures and escalate genuine intrusions.",
+  "Tracks": [
+    "Threat Hunting and Incident Response"
+  ],
+  "Speakers": [
+    "Daksh Thapar",
+    "Rian Tan",
+    "Ravin Nagpal"
+  ],
+  "Year": "2026",
+  "Github URL": "",
+  "Location": "Asia"
+}

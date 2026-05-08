@@ -1,0 +1,14 @@
+{
+  "Tool Name": "AI Wargame",
+  "Description": "AI Wargame is an interactive attack-and-defense platform where players secure their own AI chatbot's secrets while attempting to extract secrets from opponents' chatbots. It provides a king-of-the-hill style competition for learning prompt injection, AI security hardening, and chatbot defense techniques at all skill levels. Each player has access to their chatbot's source code repository to run, test, debug, and push changes during the game.",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Pedram Hayati",
+    "Harley Wilson"
+  ],
+  "Year": "2026",
+  "Github URL": "https://play.secdim.com/",
+  "Location": "Asia"
+}

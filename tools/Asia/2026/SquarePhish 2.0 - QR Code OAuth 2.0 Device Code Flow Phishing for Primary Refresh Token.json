@@ -1,0 +1,14 @@
+{
+  "Tool Name": "SquarePhish 2.0 - QR Code OAuth 2.0 Device Code Flow Phishing for Primary Refresh Token",
+  "Description": "SquarePhish 2.0 is an advanced phishing toolkit that combines QR codes with the OAuth 2.0 device code authentication flow to capture Microsoft Entra ID Primary Refresh Tokens. The tool leverages the Microsoft Authentication Broker client ID to convert refresh tokens into PRTs, granting broad single sign-on access to Microsoft cloud resources via Family of Client IDs (FOCI) tokens. It enables red teams and defenders to test detection and prevention capabilities against modern device code phishing attacks.",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Nevada Romsdahl",
+    "Kam Talebzadeh"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/nromsdahl/squarephish2",
+  "Location": "Asia"
+}

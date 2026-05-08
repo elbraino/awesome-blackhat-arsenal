@@ -1,0 +1,15 @@
+{
+  "Tool Name": "AI Security Playground (Hands-On-Activity)",
+  "Description": "AI Security Playground is an open-source, gamified training platform that teaches security risks unique to AI and GenAI environments, including LLMs, AI agents, and MCP servers. It guides participants through real-world attacks ranging from beginner to advanced, covering exploits against AI agents, MCP server misconfigurations, and prompt injection techniques. An AI-powered judge provides immediate feedback as users solve each challenge, helping developers and security practitioners build offensive and defensive AI security skills.",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Abhishek S",
+    "Keshav Malik",
+    "Surya Kanagasabapathi"
+  ],
+  "Year": "2026",
+  "Github URL": "",
+  "Location": "Asia"
+}

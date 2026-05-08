@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Aegis: LLM SAST Framework for Blacklight Code Hunts",
+  "Description": "Aegis is an open-source SAST framework that leverages LLMs to analyze source code for security vulnerabilities and produce detailed reports. Its flexible architecture supports a range of LLM providers as well as traditional machine learning models, allowing teams to plug in different backends for vulnerability detection across diverse codebases.",
+  "Tracks": [
+    "Code Assessment"
+  ],
+  "Speakers": [
+    "Can Oztas"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/canoztas/aegis",
+  "Location": "Asia"
+}

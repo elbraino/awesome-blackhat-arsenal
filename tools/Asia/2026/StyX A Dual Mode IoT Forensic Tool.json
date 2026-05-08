@@ -1,0 +1,18 @@
+{
+  "Tool Name": "StyX A Dual Mode IoT Forensic Tool",
+  "Description": "StyX is a dual-mode IoT forensic framework that unifies evidence acquisition for Android-based smartwatches and smart assistant cloud ecosystems into a single workflow. For smartwatches, it uses ADB to extract Wi-Fi, Bluetooth, IP, and filesystem artifacts with SHA-256 integrity hashing and a web-based viewer. For smart assistants, it automates authenticated login (including OTP and push 2FA) to acquire and report on the last seven days of voice transcripts and audio commands, enabling scalable forensic analysis of smart home devices.",
+  "Tracks": [
+    "Digital Forensics"
+  ],
+  "Speakers": [
+    "Dr Sapna V M",
+    "Sherwin Allen",
+    "Meeran Ahmed",
+    "Sathvik S",
+    "Shambo Sarkar",
+    "Prasad Honnavalli"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/SherwinAllen/styx",
+  "Location": "Asia"
+}

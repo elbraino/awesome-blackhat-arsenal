@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Drone Remote ID Spoofer and Low Cost Receiver Application",
+  "Description": "This project pairs a Python-based drone Remote ID spoofer with an extended Remote ID monitoring web platform that enables offline-capable, real-time, and replayable monitoring of civilian drone broadcasts over WiFi as required by the ASD-STAN prEN 4709-002 standard. The spoofer broadcasts fake Remote IDs in the ASD-STAN and proprietary DJI formats using scapy and an injection-capable WiFi adapter. The receiver application has been extended with full ASD-STAN support, multithreaded performance, and a user-friendly offline mapping frontend.",
+  "Tracks": [
+    "Internet of Things"
+  ],
+  "Speakers": [
+    "Llorenç Romá Alvarez"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/cyber-defence-campus/droneRemoteIDSpoofer",
+  "Location": "Asia"
+}

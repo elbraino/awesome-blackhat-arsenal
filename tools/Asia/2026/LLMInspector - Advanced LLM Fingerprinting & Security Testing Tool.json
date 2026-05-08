@@ -1,0 +1,14 @@
+{
+  "Tool Name": "LLMInspector - Advanced LLM Fingerprinting & Security Testing Tool",
+  "Description": "LLMInspector is a penetration testing suite for auditing Large Language Models deployed in production environments. It fingerprints models through behavioral patterns, response characteristics, and semantic signatures, and runs prompt injection testing against both commercial APIs and open-source deployments. It integrates with Ollama to analyze over 200 local models for adversarial behavior and alignment issues.",
+  "Tracks": [
+    "AI, ML & Data Science"
+  ],
+  "Speakers": [
+    "Alfonso Munoz",
+    "Jacobo Blancas"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/michelin/LLMInspector",
+  "Location": "Asia"
+}

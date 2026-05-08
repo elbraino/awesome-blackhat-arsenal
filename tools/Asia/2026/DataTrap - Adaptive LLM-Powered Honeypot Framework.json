@@ -1,0 +1,13 @@
+{
+  "Tool Name": "DataTrap - Adaptive LLM-Powered Honeypot Framework",
+  "Description": "DataTrap is an open-source, extensible honeypot framework that simulates realistic application behavior across HTTP, HTTPS, SSH, and database protocols, covering web applications, IoT devices, and databases. It combines recorded application payloads with contextual metadata and LLM reasoning to generate dynamic, context-aware responses, and includes a honeypot dispatcher that routes traffic to the most appropriate honeypot type along with an LLM-based reporting module that converts captured data into actionable threat intelligence. DataTrap is distributed as a Docker image for rapid deployment.",
+  "Tracks": [
+    "AI, ML & Data Science"
+  ],
+  "Speakers": [
+    "Ori Nakar"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/ThalesGroup/dd-honeypot",
+  "Location": "Asia"
+}

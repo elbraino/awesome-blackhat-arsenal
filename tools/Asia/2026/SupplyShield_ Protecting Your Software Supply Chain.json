@@ -1,0 +1,17 @@
+{
+  "Tool Name": "SupplyShield: Protecting Your Software Supply Chain",
+  "Description": "SupplyShield is an open-source application security orchestration framework that integrates SBOM generation and Software Composition Analysis (SCA) into the SDLC at scale, supporting environments with thousands of daily microservice builds. It identifies minimal top-level package upgrades to resolve transitive vulnerabilities, prioritizes findings using EPSS scoring, raises actionable items as GitHub issues, and supports build comparison to track newly introduced packages and vulnerabilities. The framework reduces mean time to detect zero-day issues like Log4j to minutes through a centralized dashboard with key security metrics.",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Rahul Sunder",
+    "Yadhu Krishna",
+    "Hritik Vijay",
+    "Sourav Kumar",
+    "Akash Methani"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/supplyshield/supplyshield",
+  "Location": "Asia"
+}

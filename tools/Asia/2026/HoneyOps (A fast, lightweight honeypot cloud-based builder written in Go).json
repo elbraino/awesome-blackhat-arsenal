@@ -1,0 +1,14 @@
+{
+  "Tool Name": "HoneyOps (A fast, lightweight honeypot cloud-based builder written in Go)",
+  "Description": "HoneyOps is a cloud-based honeypot deployment tool written in Go that provisions and manages decoy environments through an intuitive interface accessible to a range of skill levels. It complements a companion YARA rule collection to support proactive threat detection, monitoring, and analysis of attacker activity in cloud infrastructure for security researchers and threat analysts.",
+  "Tracks": [
+    "Threat Hunting and Incident Response"
+  ],
+  "Speakers": [
+    "Melvin Lee",
+    "Nicholas Lim"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/PastelOps/HoneyOps",
+  "Location": "Asia"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Canary WAF",
+  "Description": "Canary WAF is a deceptive defense system that combines a Web Application Firewall with honeypot capabilities for web application security. It redirects detected web attack attempts to a fake database populated with synthetic data, drawing attackers away from production systems while collecting telemetry on their techniques. The platform provides defenders with real-time attack visibility and intelligence to inform incident response and threat modeling.",
+  "Tracks": [
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Amelia Chua"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/umiyuikaiteitan/SCC_2025_Group_2",
+  "Location": "Asia"
+}

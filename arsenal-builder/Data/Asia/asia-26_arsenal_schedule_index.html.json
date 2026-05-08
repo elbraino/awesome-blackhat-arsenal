@@ -1,0 +1,1040 @@
+[
+  {
+    "tool_name": "AI Wargame",
+    "tool_id": "51538",
+    "speakers": [
+      "Pedram Hayati"
+    ],
+    "tracks": [
+      "Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Lab Station 1, Business Hall",
+    "github_url": null,
+    "description": "Come join a fun and educational attack and defence AI wargame. You will be given an AI chatbot. Your chatbot has a secret that should always remain a secret! Your objective is to secure your chatbot to protect its secret while attacking other players' chatbots and discovering theirs. The winner is the player whose chatbot survives the longest (king of the hill). All skill levels are welcomed, even if this is your first time seeing code, securing a chatbot, or playing in a wargame.\n\nRight at the start, there will be a briefing to show how to play in the wargame. Knowledge of the OpenAI Python SDK helps but is not a requirement. Each player has access to their chatbot source code repository where they can run, test, debug and push their changes."
+  },
+  {
+    "tool_name": "Circuit Breaker CTF",
+    "tool_id": "50422",
+    "speakers": [
+      "Manzel Seet",
+      "Kenneth Tong"
+    ],
+    "tracks": [
+      "Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Lab Station 2, Business Hall",
+    "github_url": null,
+    "description": "\"Circuit Breaker CTF\" is a testbench for power industry security research. Building upon last year's foundation, this iteration expands beyond fundamental device exploitation to encompass more complex, system-level interactions across the Generation–Transmission–Distribution–Consumer chain. It also highlights the circuit breaker's role and adaptability across diverse operational environments."
+  },
+  {
+    "tool_name": "CodeRetrX: One-Click to Start Your Journey of Agentic Bug Hunting",
+    "tool_id": "50342",
+    "speakers": [
+      "Guancheng Li",
+      "Yuxuan Sun",
+      "Tianrui Chen"
+    ],
+    "tracks": [
+      "AI, ML & Data Science"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 2, Business Hall",
+    "github_url": null,
+    "description": "Code agents like Cursor have shown strong potential in software engineering, and many researchers are now exploring similar methodologies for bug hunting. However, building a practical environment for such experiments often requires significant effort — researchers need to develop code analysis capabilities exposed as tools to support agent‑based inspection, and design high‑recall retrieval methods capable of identifying complex semantic patterns that may indicate bugs, such as \"executing a command or evaluating a string as code with non‑constant arguments\".\nCodeRetrX simplifies this process through two complementary components:(1) a suite of agentic analysis tools offering cross‑referencing, semantic search, code structure inspection, and an embedded CodeQL engine, all accessible via the MCP protocol; and(2) a code retrieval capability that achieves around 90% recall on complex semantic patterns while consuming only 25% of the token cost compared to full LLM traversal.\nResearchers can easily launch or extend their own agentic bug‑hunting setups by connecting to the MCP server or calling the CodeRetrX API. This tool effectively lowers the barrier to agent‑driven vulnerability discovery research and practice."
+  },
+  {
+    "tool_name": "Dep-Hallucinator: Detecting Dependency Confusion from AI/LLM-Hallucinated Packages",
+    "tool_id": "49901",
+    "speakers": [
+      "Serhan Bahar"
+    ],
+    "tracks": [
+      "Vulnerability Assessment"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 5, Business Hall",
+    "github_url": null,
+    "description": "Dep-Hallucinator identifies when AI/LLM coding assistants suggest packages that don't exist. Research shows 19.7% of AI-suggested dependencies are non-existent, allowing attackers to register these names with malicious code."
+  },
+  {
+    "tool_name": "Oblivion Token : M365 Conditional Access Policy Bypass OST (Offensive Tooling)",
+    "tool_id": "54655",
+    "speakers": [
+      "Nuttakorn Tungpoonsup",
+      "Waris Damkham"
+    ],
+    "tracks": [
+      "Cloud Security"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 3, Business Hall",
+    "github_url": null,
+    "description": "Oblivion Token is a focused offensive-research utility that makes Microsoft 365 Conditional Access Policy (CAP) bypass testing practical, repeatable, and scriptable. Designed for red-teamers and security researchers, it systematizes token-centric workflows and exercises policy edge cases to expose where device, network, or app-context assumptions fail including realistic test paths against Microsoft first-party (built-in) applications."
+  },
+  {
+    "tool_name": "Prowler Open Cloud Security - release of v6.0",
+    "tool_id": "49923",
+    "speakers": [
+      "Toni de la Fuente"
+    ],
+    "tracks": [
+      "Cloud Security"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 1, Business Hall",
+    "github_url": null,
+    "description": "Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments & audits, incident response, compliance, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, ENS and more"
+  },
+  {
+    "tool_name": "QuantumStrand (qs): A Structural Approach to String Analysis for Rapid Indicator Filtering",
+    "tool_id": "50358",
+    "speakers": [
+      "Joshua Stroschein",
+      "Jae Young Kim"
+    ],
+    "tracks": [
+      "Reverse Engineering"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 4, Business Hall",
+    "github_url": null,
+    "description": "When analyzing complex binaries, analysts are typically overwhelmed by flat, context-less lists of extracted strings. This noise drastically slows down triage and prevents quick verdicting. The FLARE team's new experimental tool, QuantumStrand (qs), solves this by transforming static string analysis from a list into a structural map.\n\nAttend this comprehensive demonstration to discover how qs revolutionizes malware triage by providing deep context and structure to string analysis. We will showcase how qs leverages PE parsing to map every string within the hierarchical context of the file (sections, resources, overlays). See firsthand how the Intelligent String Tagging system—featuring tags based on expert-curated heuristics and global prevalence databases—allows you to instantly filter noise and focus on crucial indicators. Learn how this innovative approach helps analysts quickly understand what a string is, where it resides, and how important it is for effective security analysis."
+  },
+  {
+    "tool_name": "Broń Vault: Open-Source Web-App for Stealer Log Parsing and Exploration",
+    "tool_id": "50424",
+    "speakers": [
+      "YoKo Kho",
+      "Tomi Ashari",
+      "Lalu Raynaldi Pratama Putra"
+    ],
+    "tracks": [
+      "Threat Hunting and Incident Response"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 2, Business Hall",
+    "github_url": null,
+    "description": "\"Broń Vault is an open-source, web-based app that automates the parsing of stealer log data.\"\n\nAs information stealers have become one of the most widespread threats in today's cyber landscape, security teams are increasingly overwhelmed by the volume and complexity of stolen credential data.\n\nTraditional workflows rely heavily on manual scripting, inconsistent parsing logic, and time-consuming file extraction. Broń Vault addresses these limitations through a fully automated pipeline that transforms raw stealer log archives into structured, queryable intelligence."
+  },
+  {
+    "tool_name": "Canary WAF",
+    "tool_id": "50251",
+    "speakers": [
+      "Amelia Chua"
+    ],
+    "tracks": [
+      "Web AppSec"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 4, Business Hall",
+    "github_url": null,
+    "description": "A Deceptive Defense System for Web Application Security that acts as a \"honeypot\" with a Web Application Firewall that turns the tables on attackers by redirecting web attack attempts to a fake database with fake data, providing defenders with real-time attack visibility and intelligence.\n\nCreators: Amelia Chua, Shen Haoming, Axel Tee, Hengyue Wang, Ihsan Daim"
+  },
+  {
+    "tool_name": "Continuous CyberBattleSim: A More Realistic Simulation for AI-driven Attack Path Discovery",
+    "tool_id": "49908",
+    "speakers": [
+      "Franco Terranova",
+      "Abdelkader Lahmadi"
+    ],
+    "tracks": [
+      "AI, ML & Data Science"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 3, Business Hall",
+    "github_url": null,
+    "description": "Continuous CyberBattleSim (C-CyberBattleSim) is an extension of Microsoft's CyberBattleSim simulator, a tool for training and evaluating reinforcement learning (RL) agents on cyber-attack path prediction formulated as a vulnerability chaining problem. The original simulator enables the generation of synthetic network scenarios and provides a sequential decision-making environment in which agents interact by selecting and exploiting vulnerabilities, receiving rewards and penalties that drive the learning of effective threat modeling strategies. C-CyberBattleSim enhances this framework along three key directions: (1) it extends the scenario generation pipeline by incorporating Cyber Threat Intelligence derived from empirical vulnerability distributions collected via Shodan, enabling the creation of synthetic network environments that more closely resemble real-world infrastructures; (2) it automates the approximation of real-world vulnerability outcomes by inferring effects directly from metadata, reducing reliance on manually defined transitions; (3) it integrates an embedding model that combines graph neural networks and language models to represent network nodes and vulnerabilities in continuous vector spaces, supporting more scalable and generalizable learning for RL agents."
+  },
+  {
+    "tool_name": "Dep-Hallucinator: Detecting Dependency Confusion from AI/LLM-Hallucinated Packages",
+    "tool_id": "54654",
+    "speakers": [
+      "Serhan Bahar"
+    ],
+    "tracks": [
+      "Vulnerability Assessment"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 5, Business Hall",
+    "github_url": null,
+    "description": "Dep-Hallucinator identifies when AI/LLM coding assistants suggest packages that don't exist. Research shows 19.7% of AI-suggested dependencies are non-existent, allowing attackers to register these names with malicious code."
+  },
+  {
+    "tool_name": "Golden dMSA: One Key to Rule Them All",
+    "tool_id": "49969",
+    "speakers": [
+      "Adi Malyanker"
+    ],
+    "tracks": [
+      "Exploitation and Ethical Hacking"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 1, Business Hall",
+    "github_url": null,
+    "description": "Golden dMSA is a post-exploitation and privilege escalation tool that exploits vulnerabilities in Managed Service Accounts (MSAs) within Active Directory forests. This attack enables adversaries to obtain Kerberos tickets and derive passwords for all domain-managed service accounts (dMSAs) and group-managed service accounts (gMSAs) across the forest by temporarily compromising a single domain.\nDomain-managed service accounts are designed as enhanced MSAs with strengthened security controls. By design, non-privileged users should lack the permissions to enumerate these protected accounts. However, this attack method bypasses these restrictions, allowing unauthorized enumeration of dMSA and gMSA accounts from standard user privileges. Once an attacker gains control of any domain within the forest, they can leverage extracted cryptographic material and domain-specific data to algorithmically predict and reconstruct the passwords of all managed service accounts, effectively compromising the entire forest's service account infrastructure."
+  },
+  {
+    "tool_name": "AI Security Playground (Hands-On-Activity)",
+    "tool_id": "53137",
+    "speakers": [
+      "Abhishek S",
+      "Keshav Malik",
+      "Surya Kanagasabapathi"
+    ],
+    "tracks": [
+      "Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Lab Station 1, Business Hall",
+    "github_url": null,
+    "description": "AI systems (LLMs, Agents, MCP servers) are rapidly becoming central to modern applications, but with this evolution comes a new class of security risks. Our hands-on activity workshop, AI Security Playground, is designed to help developers learn about security challenges unique to AI and GenAI environments. In this interactive workshop, participants will get their hands dirty with real world attacks against AI from beginner to advanced including sophisticated exploits against AI agents, model context protocol (MCP) server misconfigurations and classic to advanced prompt injections.\n\nThis will be a hands-on-session, powered by our open-sourced, gamified training platform, attendees will explore vulnerabilities step-by-step, learn how attackers think, and master AI specific defensive techniques. Whether you're an AI practitioner, security enthusiast, or developer, this workshop promises to level up your understanding through practical challenges, insightful explanations, and immediate feedback as we offer an AI powered judge on the platform who would give you feedback once you solve each challenge."
+  },
+  {
+    "tool_name": "Sysrupt: Portable OT/ICS and Hardware Security Training Platform (CompatriOT v2)",
+    "tool_id": "50427",
+    "speakers": [
+      "Season Cherian",
+      "Vivek NJ"
+    ],
+    "tracks": [
+      "Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Lab Station 2, Business Hall",
+    "github_url": null,
+    "description": "Sysrupt is the next-generation evolution of CompatrIoT, presented at Black Hat Asia 2025 Arsenal Training. Where CompatrIoT focused on IoT and embedded hardware exploitation, Sysrupt extends into the world of Operational Technology by combining PLC firmware, OT protocols, and hardware attack surfaces into a portable, self-contained cyber-physical training platform.\n\nAll devices are connected through an onboard managed Ethernet switch that keeps the Pi, PLC, ESP32, and participant laptop in the same network segment. This setup enables participants to observe and manipulate live OT protocol traffic, capture data, and analyze how attacks influence both network behavior and physical outputs. Sysrupt also includes a secure hardware-based signing process for proof-of-exploit tokens, ensuring verifiable scoring and safe reuse in CTFs and research labs. It turns OT and hardware security from a theoretical topic into a tangible, hands-on experience that fits in a backpack."
+  },
+  {
+    "tool_name": "Dradis Framework: Intelligent Automation for collaboration and reporting",
+    "tool_id": "50409",
+    "speakers": [
+      "Daniel Martin"
+    ],
+    "tracks": [
+      "OSINT - Open Source Intelligence"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 2, Business Hall",
+    "github_url": null,
+    "description": "Dradis has been battle-tested by thousands of infosec professionals, this community-driven effort has resulted in many innovations. Last year we unveiled Dradis Echo to leverage LLMs while maintaining data sovereignty. We've taken it even further with context awareness and prompt library building. Don't miss our redesigned navigation, API scanner uploads, and new MITRE ATT&CK calculator.\n\nDradis Framework is the open-source pentest management and reporting tool for cybersecurity teams designed to optimize your workflow, speed up reporting, and get rid of redundancies. Dradis combines results from scanners like Nessus, Burp Suite, and Nikto with manual findings and thorough attack narratives, facilitating smooth team-wide communication and an automated reporting process by centralising findings, notes, and evidence in a single portal."
+  },
+  {
+    "tool_name": "Prompt Hardener: Automated Evaluation and Hardening of LLM System Prompts",
+    "tool_id": "50376",
+    "speakers": [
+      "Yoshiki Kitamura",
+      "Junki Yuasa"
+    ],
+    "tracks": [
+      "AI, ML & Data Science"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 4, Business Hall",
+    "github_url": null,
+    "description": "Prompt Hardener is an open-source toolkit that helps developers and security engineers evaluate and strengthen the system prompts used in LLM applications. Prompt injection remains one of the most critical yet unsolved challenges in LLM security. While no complete mitigation exists today, prompt hardening has emerged as an effective strategy to reduce the likelihood and impact of injection-based manipulation. While many existing tools focus primarily on automated prompt injection testing, Prompt Hardener emphasizes prompt-level evaluation and guided improvement to help teams build stronger prompts before deployment.\n\nThe toolkit uses an LLM to review prompts based on several defensive techniques, including spotlighting, instruction defense, role consistency, random sequence enclosure, and secrets exclusion. Each technique can be selectively applied using simple CLI options. For every finding, the tool generates structured feedback and specific rewrite suggestions that developers can review or apply automatically.\n\nAdditionally, it offers optional adversarial testing modules that execute categorized payloads inspired by the OWASP Top 10 for LLM Applications, verifying whether known injection vectors are effectively mitigated. Both the CLI and Web UI support an evaluate–improve–verify workflow that naturally fits into existing LLM development pipelines. By focusing on practical evaluation and iterative hardening, Prompt Hardener offers a clear and repeatable process for improving prompt security in real-world applications.https://github.com/cybozu-private/prompt-hardener"
+  },
+  {
+    "tool_name": "SquarePhish 2.0 - QR Code OAuth 2.0 Device Code Flow Phishing for Primary Refresh Token",
+    "tool_id": "49925",
+    "speakers": [
+      "Nevada Romsdahl",
+      "Kam Talebzadeh"
+    ],
+    "tracks": [
+      "Exploitation and Ethical Hacking"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 5, Business Hall",
+    "github_url": null,
+    "description": "SquarePhish is an advanced phishing tool that uses a technique combining the OAuth 2.0 Device Code Authentication Flow and QR codes. Version 2.0 of the tool introduces phishing for Primary Refresh Tokens, Microsoft's Single Sign-On token. This token gives attackers broad access to Microsoft cloud resources.\n\nIn the demo, we will cover QR codes, Device Code OAuth 2.0 Flow, FOCI tokens, Primary Refresh Tokens, and putting it all together for advanced phishing attacks. The intent of our tool is to give red teamers and organizations a way to test detection and prevention capabilities."
+  },
+  {
+    "tool_name": "StyX A Dual Mode IoT Forensic Tool",
+    "tool_id": "50262",
+    "speakers": [
+      "Dr Sapna V M",
+      "Sherwin Allen",
+      "Meeran Ahmed",
+      "Sathvik S",
+      "Shambo Sarkar",
+      "Prasad Honnavalli"
+    ],
+    "tracks": [
+      "Digital Forensics"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 3, Business Hall",
+    "github_url": null,
+    "description": "This tool brings together two different IoT forensic workflows — Android-based Smartwatches and Smart Assistant cloud data — into a single, practical framework. This tool focuses on giving a scalable framework to multiple smart devices such as smart home systems, security systems, smart rings, etc.\n\nSmartwatch:-\nOur tool gets the artifacts from the watch using adb commands such as wifi information, bluetooth information, IP address information and other such device information. The tool also summarises basic information from the artifacts extracted into a preliminary report. File system extraction is done via adb pull and displayed along with the SHA-256 hashed values in the website. Each forensic artifact is viewable on the website along with being able to be downloaded on the local filesystem.\n\nSmart Assistant:\nThe pipeline uses the credentials of the person of interest to automate the login process. Common 2 factor authentication methods such as OTP and push notifications are also handled within the pipeline but require access to a paired phone. The tool acquires the voice transcripts for the last 7 days of commands being sent to the Smart Assistant. The tool then generates a report with the audio fields and the transcripts for the audio's extracted from the Smart Assistant."
+  },
+  {
+    "tool_name": "vet: Open Source Software Supply Chain Security Guardrail in the age of AI SDLC",
+    "tool_id": "49967",
+    "speakers": [
+      "Abhisek Datta"
+    ],
+    "tracks": [
+      "Malware"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 1, Business Hall",
+    "github_url": null,
+    "description": "vet is an open source software supply chain security tool, enhanced for the AI assisted SDLC. Unlike traditional SCA tools, vet proactively detects malicious packages before they appear in OSV database, integrates as an MCP server with AI IDEs and coding agents (e.g. Cursor, Claude Code), and provides conversational analysis over scan results. This places it uniquely between package level malicious code detection and developer-first defense in the age of AI coding tools.\n\nhttps://github.com/safedep/vet"
+  },
+  {
+    "tool_name": "Damn Vulnerable Model Context Protocol (DVMCP) Platform",
+    "tool_id": "49990",
+    "speakers": [
+      "Ankit Garg",
+      "Harish Santhanalakshmi Ganesan"
+    ],
+    "tracks": [
+      "Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Lab Station 1, Business Hall",
+    "github_url": null,
+    "description": "Damn Vulnerable MCP Server (DVMCP) is a deliberately insecure implementation of the Model Context Protocol (MCP), built as an educational and research platform to expose and mitigate security vulnerabilities in AI-integrated systems. MCP enables structured context provision to Large Language Models (LLMs), but real-world deployments often introduce risks such as prompt injection, tool poisoning, and unauthorized access.\n\nDVMCP simulates these flaws through 10 progressive challenges (Easy, Medium, Hard), allowing security researchers, developers, and AI safety professionals to practice exploitation and defense in a controlled environment. Built with Docker for easy deployment, it showcases critical attack vectors such as excessive permissions, rug-pull attacks, token theft, and multi-vector exploits.\n\nAt Black Hat Asia Arsenal, we will present major updates featuring identity-based attacks (e.g., exploiting user authentication in MCP flows), complex MCP-specific supply chain attacks, and a web-based UI dashboard for interactive challenge navigation, real-time monitoring, and analytics.\n\nDVMCP bridges the gap in AI security training and research, empowering practitioners to build resilient LLM-integrated applications and providing an ideal platform for live demonstrations of emerging AI threats at Black Hat Asia Arsenal."
+  },
+  {
+    "tool_name": "PwnSat: A Vulnerable-by-Design Satellite Hardware and Platform for AeroSpace Hacking and Research",
+    "tool_id": "50389",
+    "speakers": [
+      "Romel Marin cordoba",
+      "Kevin Jahaziel Leon Morales"
+    ],
+    "tracks": [
+      "Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Lab Station 2, Business Hall",
+    "github_url": null,
+    "description": "PWNSAT is the first opensource vulnerable-by-design aerospace cybersecurity platform that combines a physical CubeSat, a Ground Station, a Mission Operations Center (MOC), and radio frequency communication links. Its goal is to democratize learning and research in space cybersecurity, offering an accessible and realistic environment where researchers, educators, and enthusiasts can practice offensive and defensive techniques on satellite systems.\n\nDeveloped after more than six years of research, PWNSAT replicates the essential elements of a space mission: real-time communication using real aerospace protocols such as CCSDS and AX.25 over LoRa and FSK, power, telemetry, and sensor subsystems, and a Dockerized backend that simulates the complete satellite control cycle.\nThe platform introduces intentional vulnerabilities at each layer radio frequency, firmware, and MOC services allowing for CTF-style exercises, technical audits, and penetration tests under the SPARTA (Space Attack Research & Tactics Analysis) framework.\n\nAt Black Hat, the official release of PWNSAT 1.0 (CubeSat Edition) will be presented as an open-source project, including hardware, firmware, and ground station software, along with a live demonstration of satellite-to-ground link, remote control, and secure exploitation of its vulnerabilities.\nPWNSAT represents a step toward training the next generation of space cybersecurity specialists, uniting engineering, RF, and ethical hacking in a single, hands-on environment."
+  },
+  {
+    "tool_name": "Azazel-Pi: Offline Edge-AI SOC/NOC Gateway with Mock-LLM Scoring and Ollama Fallback",
+    "tool_id": "50378",
+    "speakers": [
+      "Makoto SUGITA"
+    ],
+    "tracks": [
+      "Network"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 2, Business Hall",
+    "github_url": null,
+    "description": "Azazel-Pi is a portable SOC/NOC gateway for small networks operating on untrusted links. Since its Black Hat USA Arsenal showing, it adds an on-device \"Mock-LLM Scorer\" (non-generative, rule-assisted micro-model; deterministic, no free-form reasoning) for real-time threat scoring, plus a Dockerized Ollama runtime hosting a compact LLM (Qwen2.5-1.5B-Instruct) as a fallback for low-confidence or unknown cases. Suricata supplies signals; the scorer outputs a 0–100 risk score; the policy planner maps score bands to tc-based latency/throughput shaping, nftables/iptables micro-policies, and selective NAT redirection to decoys such as OpenCanary. The pipeline is fully automatic and offline with zero required user interaction. An e-paper panel exposes posture, score, and mode so status is visible without shell access. The same scoring logic informs internal QoS to prioritize essential sessions while throttling suspicious flows."
+  },
+  {
+    "tool_name": "DursGo: Web App Security Scanner with AI Analysis Vulnerability",
+    "tool_id": "49918",
+    "speakers": [
+      "Mohammad Ali Syarief",
+      "Nur Fadhillah"
+    ],
+    "tracks": [
+      "Vulnerability Assessment"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 1, Business Hall",
+    "github_url": null,
+    "description": "DursGo is a web application security scanner designed for penetration testing and automated security audits. Built with Go, DursGo combines high-performance scanning with AI-powered analysis to deliver intelligent and actionable security insights. Now enhanced with AI-Powered Analysis Vulnerability using LLM."
+  },
+  {
+    "tool_name": "EntraGoat - A Deliberately Vulnerable Entra ID Environment",
+    "tool_id": "49970",
+    "speakers": [
+      "Jonathan Elkabas",
+      "Eric Woodruff"
+    ],
+    "tracks": [
+      "Exploitation and Ethical Hacking"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 5, Business Hall",
+    "github_url": null,
+    "description": "EntraGoat is a deliberately vulnerable environment designed to simulate real-world security misconfigurations and attack scenarios in Microsoft Entra ID (formerly Azure Active Directory). Security professionals, researchers, and red teamers can leverage EntraGoat to gain hands-on experience identifying and exploiting identity and access management (IAM) vulnerabilities, privilege escalation paths, and other security flaws specific to cloud-based Entra ID environments."
+  },
+  {
+    "tool_name": "FLARE-VM: Continuously Sharpening the Analyst's Edge",
+    "tool_id": "50269",
+    "speakers": [
+      "Joshua Stroschein",
+      "Jae Young Kim"
+    ],
+    "tracks": [
+      "Malware"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 4, Business Hall",
+    "github_url": null,
+    "description": "Interested in malware analysis, reverse engineering, or offensive security? You know setting up a dedicated Windows analysis virtual machine is crucial, but manually installing and configuring countless tools is incredibly time-consuming and complex. Attend this comprehensive demonstration to discover FLARE-VM, the powerful, open-source solution from the FLARE team that automates this entire process.\n\nWe will go beyond the basics, providing a deep dive into the latest features focusing on efficiency and control. See firsthand how the revamped GUI and shared package repositories make tool selection effortless. We will explore how to leverage end-to-end automation, including the new VirtualBox build script—taking the process from selecting tools to exporting a complete, ready-to-use analysis VM. Learn how this level of customization can drastically reduce installation time for your custom builds. Discover why having a flexible, ready-to-go analysis environment is indispensable for so many technical cybersecurity roles and how FLARE-VM jump starts your build!"
+  },
+  {
+    "tool_name": "SAMLSmith",
+    "tool_id": "49972",
+    "speakers": [
+      "Eric Woodruff"
+    ],
+    "tracks": [
+      "Exploitation and Ethical Hacking"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 3, Business Hall",
+    "github_url": null,
+    "description": "SAMLSmith is the go-to tool for penetrating SAML applications with response forging. An evolution of the original tooling developed for proof-of-concept of SAML response forging in Entra ID, SAMLSmith takes further research around SAML response forging and combines it into a tool crafted for offensive scenarios.\n\nWhile far from new, enterprises continue to not prioritize the security of how SaaS applications integrate or understand best practices for securing them. With many factors at play, SAML response forging can range from extremely difficult to near impossible for a SOC to detect.\n\nSAMLSmith has a lot of tricks up its sleeve, including:\n- Multiple identity provider response forging\n- AD FS specific response forging mode\n- SAML request processing\n- InResponseTo support\n\nSAMLSmith can be used in several response forging scenarios where the private key material can be obtained. In demonstration of use, we'll explore using SAMLSmith for performing a Golden SAML attack against AD FS. Further, we'll demonstrate the use of SAMLSmith that ties into new research around response forging, penetrating certain types of SaaS applications with even more stealth.\n\nUsing SAMLSmith requires a certain level of knowledge about the target environment, much of which can be gained with other commonly known and used tools that perform reconnaissance against the targeted identity provider."
+  },
+  {
+    "tool_name": "Aegis: LLM SAST Framework for Blacklight Code Hunts",
+    "tool_id": "50234",
+    "speakers": [
+      "Can Oztas"
+    ],
+    "tracks": [
+      "Code Assessment"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 4, Business Hall",
+    "github_url": null,
+    "description": "Aegis is an open-source SAST framework that uses LLMs. It analyzes source code for security vulnerabilities. It provides comprehensive vulnerability detection with detailed reports. Due to its flexible architecture, framework can be used with various LLM models and even with other/old-school Machine Learning models."
+  },
+  {
+    "tool_name": "Bastet - AI Smart Contract Vulnerability Detector",
+    "tool_id": "50184",
+    "speakers": [
+      "Alice Hsu",
+      "Daky Wang",
+      "Chengyu Liou"
+    ],
+    "tracks": [
+      "AI, ML & Data Science"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 3, Business Hall",
+    "github_url": null,
+    "description": "Bastet is a security infrastructure that integrates a comprehensive dataset of common smart contract vulnerabilities in DeFi with an AI-driven automated detection process.\nIt focuses on vulnerabilities that are common yet difficult to detect using static analysis tools, issues that are frequently classified as medium to high risk in audit competitions and often causing financial losses.\n\nThe Bastet dataset encompasses real-world vulnerabilities observed both on-chain and in audit competitions, providing a foundation for developing and evaluating automated detection techniques.\nThrough tailored detection workflows, Bastet enhances AI's accuracy in identifying these complex vulnerabilities, aiming to optimize security lifecycle management, from development and auditing to ongoing monitoring.\n\nCurrently, Bastet features over 10 detection workflows and more than 55 detection rules, enabling it to accurately identify over 25 on-chain contracts exhibiting medium- to high-risk vulnerabilities within its rule coverage."
+  },
+  {
+    "tool_name": "Casino Heist v2",
+    "tool_id": "50406",
+    "speakers": [
+      "Richard Tan",
+      "Anthony Sai Richardo"
+    ],
+    "tracks": [
+      "Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Lab Station 1, Business Hall",
+    "github_url": null,
+    "description": "Casino Heist V2 is a Smart Contract Security Playground built to catalyst your journey into Blockchain Security. Centered around Solidity smart contracts on the Ethereum blockchain, it offers a hands-on environment where learning meets real-world exploitation.\n\nRather than simply presenting you with a vulnerable contract, Casino Heist V2 equips you with the theoretical foundation, practical techniques, and step-by-step guidance behind each exploit- also way to mitigate the issue. Every challenge is carefully crafted to bridge the gap between academic concepts and real-world vulnerabilities — helping you understand not only how to exploit, but why the exploit works.\n\nWhether you're a CTF player, security researcher, educator, developer, or simply a curious explorer diving into blockchain for the first time, Casino Heist V2 has something for you.\nChallenges span a wide range of difficulty — from fundamental bugs like reentrancy and integer overflow to advanced attack vectors inspired by real-world incidents."
+  },
+  {
+    "tool_name": "Drone Remote ID Spoofer and Low Cost Receiver Application",
+    "tool_id": "50147",
+    "speakers": [
+      "Llorenç Romá Alvarez"
+    ],
+    "tracks": [
+      "Internet of Things"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 1, Business Hall",
+    "github_url": null,
+    "description": "Extended Remote ID Monitoring web platform. The system enables offline-capable, real-time and replayable monitoring of civilian drone broadcasts via WiFi as required under the ASD-STAN prEN 4709-002 standard.\n\nThe project has been extended by adding full ASD-Stan support, multithreaded performance, and a user-friendly offline mapping frontend."
+  },
+  {
+    "tool_name": "Hashtopolis",
+    "tool_id": "50041",
+    "speakers": [
+      "Marvin Schwarz",
+      "Jesse van Zutphen"
+    ],
+    "tracks": [
+      "Cryptography"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 2, Business Hall",
+    "github_url": null,
+    "description": "Hashtopolis is an open-source, client–server platform for managing and monitoring distributed password-recovery tasks using Hashcat and compatible engines. It provides a centralized web interface and a REST API to coordinate large-scale cracking operations across heterogeneous systems, offering detailed control over workload distribution, performance tracking, and result collection.\n\nThe demonstration will showcase a minimal Hashtopolis environment, including the setup of a server and multiple agents. Attendees will see how Hashtopolis partitions keyspaces, schedules jobs efficiently across GPU and CPU agents, and reports real-time telemetry such as task progress, performance rates, and hardware statistics.\n\nThe session will also outline deployment approaches, scaling considerations, and integration possibilities using the API. Emphasis will be placed on operational reliability, automation capabilities, and responsible usage for legitimate security testing, auditing, and forensic research.\n\nLicense: GPL 3.0 (open source)\n\nKey Takeaways of the demo:\n\n- Understand the architecture and core components of Hashtopolis (server, agents, and API).\n\n- Learn how to deploy and configure a distributed password-recovery environment using Hashcat.\n\n- Observe real-time workload distribution, performance monitoring, and result collection across multiple systems.\n\n- Gain insight into automation and scaling strategies for research, auditing, and forensic applications."
+  },
+  {
+    "tool_name": "NVWA: A Novel Method for Automated Vulnerability Discovery in Embedded Firmware",
+    "tool_id": "50293",
+    "speakers": [
+      "Jiaxu Zhao",
+      "Yanyan Zou",
+      "Yuekang Li",
+      "Wei Huo"
+    ],
+    "tracks": [
+      "Hardware/Embedded"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 5, Business Hall",
+    "github_url": null,
+    "description": "The reliability of embedded systems is crucial to the performance and security of modern devices, and vulnerability discovery is a key task in ensuring it. Existing research mainly relies on static analysis of vendor-released firmware to identify potential risks, but building a comprehensive and effective static analysis remains challenging. First, inter-procedural analysis over complex and lengthy paths often leads to timeouts or path explosion. Moreover, constraints embedded in code to validate inputs play a crucial role in reducing false positives and confirming vulnerabilities, yet how to leverage their semantics in static analysis remains an open issue.\n\nTo tackle these challenges, we propose NÜWA, a novel static analysis technique for embedded firmware. NÜWAperforms inter-procedural analysis based on function summaries and detects potential vulnerabilities through semantic inconsistencies in input constraints.\n\nWe evaluated NÜWAon 31 publicly disclosed vulnerabilities from 13 vendors and compared its performance with five state-of-the-art tools. NÜWAoutperformed all baselines, discovering more vulnerabilities while maintaining the fewest false positives and accurately extracting constraint semantics. To date, NÜWA has uncovered 152 previously unknown vulnerabilities, all confirmed by vendors, with 88 assigned CVE IDs. To foster future research, we release NÜWA and its dataset to the community."
+  },
+  {
+    "tool_name": "ThreatShield – The Intelligent Way of Threat Modelling",
+    "tool_id": "53135",
+    "speakers": [
+      "Satyam Nagpal",
+      "Sayooj Nagpal",
+      "Ashwin Shenoi",
+      "Nandu S. Pillai"
+    ],
+    "tracks": [
+      "Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Lab Station 2, Business Hall",
+    "github_url": null,
+    "description": "ThreatShield is an AI-powered threat modeling and security analysis tool designed to automate and elevate threat modeling using OpenAI's enterprise API. It processes raw documents like PRDs, architecture diagrams, confluence docs, slack threads and meeting transcripts to generate structured STRIDE-based threat models, attack trees, DREAD scoring, and mitigstions."
+  },
+  {
+    "tool_name": "Aegis: LLM SAST Framework for Blacklight Code Hunts",
+    "tool_id": "54676",
+    "speakers": [
+      "Can Oztas"
+    ],
+    "tracks": [
+      "Code Assessment"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 3, Business Hall",
+    "github_url": null,
+    "description": "Aegis is an open-source SAST framework that uses LLMs. It analyzes source code for security vulnerabilities. It provides comprehensive vulnerability detection with detailed reports. Due to its flexible architecture, framework can be used with various LLM models and even with other/old-school Machine Learning models."
+  },
+  {
+    "tool_name": "Casino Heist v2",
+    "tool_id": "53138",
+    "speakers": [
+      "Richard Tan",
+      "Anthony Sai Richardo"
+    ],
+    "tracks": [
+      "Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Lab Station 1, Business Hall",
+    "github_url": null,
+    "description": "Casino Heist V2 is a Smart Contract Security Playground built to catalyst your journey into Blockchain Security. Centered around Solidity smart contracts on the Ethereum blockchain, it offers a hands-on environment where learning meets real-world exploitation.\n\nRather than simply presenting you with a vulnerable contract, Casino Heist V2 equips you with the theoretical foundation, practical techniques, and step-by-step guidance behind each exploit- also way to mitigate the issue. Every challenge is carefully crafted to bridge the gap between academic concepts and real-world vulnerabilities — helping you understand not only how to exploit, but why the exploit works.\n\nWhether you're a CTF player, security researcher, educator, developer, or simply a curious explorer diving into blockchain for the first time, Casino Heist V2 has something for you.\nChallenges span a wide range of difficulty — from fundamental bugs like reentrancy and integer overflow to advanced attack vectors inspired by real-world incidents."
+  },
+  {
+    "tool_name": "Mothra: Timeless Debugging of EVM Transactions with Ghidra",
+    "tool_id": "50441",
+    "speakers": [
+      "Yuejie Shi",
+      "Aohui Wang"
+    ],
+    "tracks": [
+      "Reverse Engineering"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 2, Business Hall",
+    "github_url": null,
+    "description": "Mothra is a Ghidra extension for EVM bytecode reverse engineering, first introduced at Black Hat Europe 2024. We have a major update to the tool, timeless debugging of EVM transactions, which allows security researchers to navigate an EVM transaction back and forth at the opcode level in Ghidra's Debugger tool."
+  },
+  {
+    "tool_name": "Oblivion Token : M365 Conditional Access Policy Bypass OST (Offensive Tooling)",
+    "tool_id": "49920",
+    "speakers": [
+      "Nuttakorn Tungpoonsup",
+      "Waris Damkham"
+    ],
+    "tracks": [
+      "Cloud Security"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 1, Business Hall",
+    "github_url": null,
+    "description": "Oblivion Token is a focused offensive-research utility that makes Microsoft 365 Conditional Access Policy (CAP) bypass testing practical, repeatable, and scriptable. Designed for red-teamers and security researchers, it systematizes token-centric workflows and exercises policy edge cases to expose where device, network, or app-context assumptions fail including realistic test paths against Microsoft first-party (built-in) applications."
+  },
+  {
+    "tool_name": "PwnSat: A Vulnerable-by-Design Satellite Hardware and Platform for AeroSpace Hacking and Researc",
+    "tool_id": "53141",
+    "speakers": [
+      "Romel Marin cordoba",
+      "Kevin Jahaziel Leon Morales"
+    ],
+    "tracks": [
+      "Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Lab Station 2, Business Hall",
+    "github_url": null,
+    "description": "PWNSAT is the first opensource vulnerable-by-design aerospace cybersecurity platform that combines a physical CubeSat, a Ground Station, a Mission Operations Center (MOC), and radio frequency communication links. Its goal is to democratize learning and research in space cybersecurity, offering an accessible and realistic environment where researchers, educators, and enthusiasts can practice offensive and defensive techniques on satellite systems.\n\nDeveloped after more than six years of research, PWNSAT replicates the essential elements of a space mission: real-time communication using real aerospace protocols such as CCSDS and AX.25 over LoRa and FSK, power, telemetry, and sensor subsystems, and a Dockerized backend that simulates the complete satellite control cycle.\nThe platform introduces intentional vulnerabilities at each layer radio frequency, firmware, and MOC services allowing for CTF-style exercises, technical audits, and penetration tests under the SPARTA (Space Attack Research & Tactics Analysis) framework.\n\nAt Black Hat, the official release of PWNSAT 1.0 (CubeSat Edition) will be presented as an open-source project, including hardware, firmware, and ground station software, along with a live demonstration of satellite-to-ground link, remote control, and secure exploitation of its vulnerabilities.\nPWNSAT represents a step toward training the next generation of space cybersecurity specialists, uniting engineering, RF, and ethical hacking in a single, hands-on environment."
+  },
+  {
+    "tool_name": "SkyEye: When Your Vision Reaches Beyond IAM Boundary Scope in the Cloud",
+    "tool_id": "50026",
+    "speakers": [
+      "Minh Hoang Nguyen",
+      "Anh Minh Ho",
+      "Bao Son To"
+    ],
+    "tracks": [
+      "Cloud Security"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 5, Business Hall",
+    "github_url": null,
+    "description": "Modern cloud environments demand a comprehensive understanding of IAM configurations across users, roles, groups, and the intricate web of inline and managed policies. Yet, as organizations scale their use of cloud technologies, the act of enumerating effective permissions and resource authorizations remains fraught with blind spots, especially when relying on traditional principal-specific enumeration tools and frameworks. When a single set of credentials lacks the necessary permissions, or when multiple principals operate in isolation, cloud penetration testers are left with an incomplete and fragmented IAM landscape, resulting in hidden privilege escalation vectors, undetected misconfigurations, and weakened compliance postures.\n\nIs a principal-centric enumeration strategy sufficient for reconnaissance in adversary simulation or defense? Our research suggests not. The inability to correlate and chain disparate IAM permissions across multiple principals leads to critical false negatives and gaps in situational awareness - the gaps that threat actors are increasingly adept at exploiting.\n\nIn this Arsenal session, we will showcase a new framework: SkyEye - The First Cooperative Multi-Principal IAM Enumeration Framework for AWS Cloud. SkyEye Framework proposed and developed two novel models: the Cross-Principal IAM Enumeration Model (CPIEM) and the Transitive Cross-Role Enumeration Model (TCREM). Unlike conventional tools and frameworks, SkyEye is able to synchronize reconnaissance across multiple user and role sessions, dynamically chaining and merging their vantage points to unravel the full spectrum of permissions, resource authorizations, and hidden escalation paths. This methodology exposes not only what each principal can see, but also what they can achieve in combination, surfacing privilege chains and attack paths invisible to siloed IAM enumeration.\n\nSkyEye is further powered by an extensible dataset mapping AWS actions to MITRE ATT&CK Cloud - TTPs, alongside with severity ratings, adversarial abuse methodologies, and real-world threat actor behaviors. This enables immediate translation of raw IAM data into valuable information for red teaming and cloud defense.\n\nJoin us to see how SkyEye sets a new standard for cloud reconnaissance to improve cloud adversary simulation and detection engineering. Witness how cooperative multi-principal IAM enumeration can transform your reconnaissance of AWS permissions, and why a truly complete IAM picture is only viable when principals cooperate together."
+  },
+  {
+    "tool_name": "SupplyShield: Protecting Your Software Supply Chain",
+    "tool_id": "53247",
+    "speakers": [
+      "Rahul Sunder",
+      "Yadhu Krishna",
+      "Hritik Vijay",
+      "Sourav Kumar",
+      "Akash Methani"
+    ],
+    "tracks": [
+      "Vulnerability Assessment"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 4, Business Hall",
+    "github_url": null,
+    "description": "SupplyShield is a robust security framework designed to protect against complex software supply chain attacks. It helps organizations seamlessly integrate supply chain security into their Software Development Lifecycle (SDLC), addressing the challenges of managing hundreds of microservices and thousands of daily builds.\nSupplyShield focuses on generating a Software Bill of Materials (SBOM) and performing Software Composition Analysis (SCA) for microservices.\nSupplyShield is built for scalability, enabling SBOM generation and SCA in CI/CD environments with thousands of daily builds. It ensures rapid detection of zero-day vulnerabilities, like the log4j exploit, reducing Mean Time To Detect (MTTD) to minutes and simplifying patch management for security engineers and developers. The framework also includes a dashboard that provides key metrics and actionable insights.\nIn the latest release, SupplyShield introduces several major updates aimed at further enhancing its capabilities:\nSecure Version Identification: The framework now identifies a minimal set of top-level package upgrades that effectively resolve vulnerabilities in deeply nested transitive dependencies.\nGitHub Integration for SCA Actionables: All actionable items generated from SCA scans can now be raised directly as GitHub issues within repositories, streamlining collaboration and task management for teams.\nEPSS-Based Vulnerability Prioritization: Vulnerabilities are now prioritized using the Exploit Prediction Scoring System (EPSS), enabling teams to focus on the most critical threats.\nBuild Comparison: SupplyShield now enables users to compare different builds, helping them analyze changes, identify newly introduced packages and vulnerabilities consistency across builds.\nWith these new features, SupplyShield continues to scale effectively and offers comprehensive tools to help organizations strengthen their software supply chain security with ease and efficiency."
+  },
+  {
+    "tool_name": "actsense: GitHub Actions Workflow Auditor",
+    "tool_id": "50439",
+    "speakers": [
+      "Kumar Ashwin"
+    ],
+    "tracks": [
+      "Vulnerability Assessment"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 3, Business Hall",
+    "github_url": null,
+    "description": "GitHub Actions powers CI/CD for millions of projects, but its flexibility often introduces hidden supply chain security risks. Complex workflows depend on multiple third-party and nested actions, making it hard to detect unpinned versions, excessive permissions, unsafe triggers, and leaked secrets - especially within transitive dependencies. Existing tools fall short, focusing on syntax or relying on vendors, leaving teams without a clear or scalable way to audit their automation securely.\n\nactsense provides a local, vendor-agnostic framework to deeply audit GitHub Actions workflows and their dependencies. It statically maps all actions, including nested composite, JavaScript, and Docker, and performs over 30 security checks covering pinning, permissions, events, and secrets. actsense also assesses Docker images and external dependencies for issues like unpinned or unpinnable references, ensuring full visibility into components that could silently change over time. The findings are presented through an interactive dependency graph that helps users trace relationships, understand impact, and triage risks quickly. By exposing the complete transitive action graph while keeping all analysis local, actsense empowers teams to secure their CI/CD pipelines with full transparency and zero data leakage."
+  },
+  {
+    "tool_name": "Bastet - AI Smart Contract Vulnerability Detector",
+    "tool_id": "54629",
+    "speakers": [
+      "Alice Hsu",
+      "Daky Wang",
+      "Chengyu Liou"
+    ],
+    "tracks": [
+      "AI, ML & Data Science"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 5, Business Hall",
+    "github_url": null,
+    "description": "Bastet is a security infrastructure that integrates a comprehensive dataset of common smart contract vulnerabilities in DeFi with an AI-driven automated detection process.\nIt focuses on vulnerabilities that are common yet difficult to detect using static analysis tools, issues that are frequently classified as medium to high risk in audit competitions and often causing financial losses.\n\nThe Bastet dataset encompasses real-world vulnerabilities observed both on-chain and in audit competitions, providing a foundation for developing and evaluating automated detection techniques.\nThrough tailored detection workflows, Bastet enhances AI's accuracy in identifying these complex vulnerabilities, aiming to optimize security lifecycle management, from development and auditing to ongoing monitoring.\n\nCurrently, Bastet features over 10 detection workflows and more than 55 detection rules, enabling it to accurately identify over 25 on-chain contracts exhibiting medium- to high-risk vulnerabilities within its rule coverage."
+  },
+  {
+    "tool_name": "Damn Vulnerable Model Context Protocol (DVMCP) Platform",
+    "tool_id": "53140",
+    "speakers": [
+      "Ankit Garg",
+      "Harish Santhanalakshmi Ganesan"
+    ],
+    "tracks": [
+      "Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Lab Station 1, Business Hall",
+    "github_url": null,
+    "description": "Damn Vulnerable MCP Server (DVMCP) is a deliberately insecure implementation of the Model Context Protocol (MCP), built as an educational and research platform to expose and mitigate security vulnerabilities in AI-integrated systems. MCP enables structured context provision to Large Language Models (LLMs), but real-world deployments often introduce risks such as prompt injection, tool poisoning, and unauthorized access.\n\nDVMCP simulates these flaws through 10 progressive challenges (Easy, Medium, Hard), allowing security researchers, developers, and AI safety professionals to practice exploitation and defense in a controlled environment. Built with Docker for easy deployment, it showcases critical attack vectors such as excessive permissions, rug-pull attacks, token theft, and multi-vector exploits.\n\nAt Black Hat Asia Arsenal, we will present major updates featuring identity-based attacks (e.g., exploiting user authentication in MCP flows), complex MCP-specific supply chain attacks, and a web-based UI dashboard for interactive challenge navigation, real-time monitoring, and analytics.\n\nDVMCP bridges the gap in AI security training and research, empowering practitioners to build resilient LLM-integrated applications and providing an ideal platform for live demonstrations of emerging AI threats at Black Hat Asia Arsenal."
+  },
+  {
+    "tool_name": "PacketDuck: AI-Assisted Incident Response",
+    "tool_id": "51839",
+    "speakers": [
+      "Daksh Thapar",
+      "Rian Tan",
+      "Ravin Nagpal"
+    ],
+    "tracks": [
+      "Threat Hunting and Incident Response"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 2, Business Hall",
+    "github_url": null,
+    "description": "PacketDuck is an AI-assisted incident response triage acceleration tool that empowers L1 SOC analysts to rapidly analyze PCAP data, surface high-risk network behaviors, prioritize threats, and reduce mean time to triage."
+  },
+  {
+    "tool_name": "SBoM Play",
+    "tool_id": "50411",
+    "speakers": [
+      "Anant Shrivastava"
+    ],
+    "tracks": [
+      "Code Assessment"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 1, Business Hall",
+    "github_url": null,
+    "description": "SBoM Play is a SBoM Exploration and Intelligence extraction platform. SBoM Play exists because \"we have SBOMs\" does not automatically mean \"we can use SBOMs.\" Most teams either end up with heavy tooling, custom scripts, or workflows that require uploading dependency data somewhere just to explore it. I wanted a tool that makes SBOM exploration fast, local, and practical, so you can answer real questions and move on.\n\nSBoM Play is browser-first and privacy-aware. It runs entirely in the browser, so there is no server-side setup and no backend to maintain. It can import SBoM's or extract SBOMs from GitHub repositories, then enrich what you see using sources like osv.dev, deps.dev, and ecosyste.ms. The main focus is a unified view across repositories and organizations so you can stop treating SBOMs as one-project-at-a-time artifacts.\n\nThis session shows SBOM usage beyond vulnerability tracking. We will use SBoM Play to surface tech debt patterns, redundant packages, version drift and sprawl, license posture, SBOM quality gaps, and maintainer risk. The tool is actively developed and the latest features will be demoed live during the talk. SBoM Play was presented at Black Hat Europe 2025, and since then newer releases have added more coverage and depth that will be reflected in this session.\n\nFeature highlights\nDependency tree up to 10 levels deep (configurable)\nVulnerabilities mapped to dependencies (OSV)\nVersion drift and version sprawl across an org\nLicense visibility across dependencies\nSBOM quality audit and scoring\nSBOM benchmarking against frameworks like CISA minimum elements, BSI TR-03183, and CERT-In\nEnd-of-life and end-of-support package visibility\nDependency confusion indicators\nAggregated authors and maintainers view to spot single points of failure\nMaintainer funding and sponsorship signals\nReference links\n\nRepo: https://github.com/cyfinoid/sbomplay\n\nLive: https://cyfinoid.github.io/sbomplay/\n\nTool Information\nLicense : GPL 3.0\nProgramming Language used : HTML/JS/CSS"
+  },
+  {
+    "tool_name": "ThreatShield – The Intelligent Way of Threat Modelling,",
+    "tool_id": "53136",
+    "speakers": [
+      "Satyam Nagpal",
+      "Sayooj Nagpal",
+      "Ashwin Shenoi",
+      "Nandu S. Pillai"
+    ],
+    "tracks": [
+      "Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Lab Station 2, Business Hall",
+    "github_url": null,
+    "description": "ThreatShield is an AI-powered threat modeling and security analysis tool designed to automate and elevate threat modeling using OpenAI's enterprise API. It processes raw documents like PRDs, architecture diagrams, confluence docs, slack threads and meeting transcripts to generate structured STRIDE-based threat models, attack trees, DREAD scoring, and mitigstions."
+  },
+  {
+    "tool_name": "Zorya: Go Binary Vulnerability Detection with Concolic Execution",
+    "tool_id": "50425",
+    "speakers": [
+      "Karolina GORNA",
+      "Keith Makan"
+    ],
+    "tracks": [
+      "Vulnerability Assessment"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 4, Business Hall",
+    "github_url": null,
+    "description": "Go powers critical infrastructure across distributed systems, network services, and container orchestration platforms managing billions of dollars in production environments. Runtime panics can crash services, disrupt distributed consensus, and create exploitable attack surfaces in production deployments. Traditional fuzzing fails to expose state-dependent bugs, and existing symbolic execution tools designed for C/C++ cannot handle Go's unique runtime characteristics.\n\"Zorya\" is a specialized concolic execution framework engineered to detect runtime vulnerabilities in Go binaries before they reach production. Built for security researchers and infrastructure teams, Zorya combines Ghidra's P-Code binary lifting with a Rust-based concolic execution engine and Z3 constraint solving to uncover critical bugs that evade conventional testing.\nKey Features:\n- Panic-Gated Exploration: Focuses symbolic reasoning exclusively on vulnerability-leading paths rather than exhaustive exploration\n- Multi-Layer Filtering: Reduces solver queries by two orders of magnitude through reachability analysis and constraint optimization\n- Binary-Level Analysis: Operates directly on compiled binaries without requiring source code access\nZorya provides security teams with precision tooling to identify and eliminate runtime vulnerabilities in Go infrastructure before exploitation."
+  },
+  {
+    "tool_name": "AI Security Playground (Hands-On-Activity)",
+    "tool_id": "50466",
+    "speakers": [
+      "Abhishek S",
+      "Keshav Malik",
+      "Surya Kanagasabapathi"
+    ],
+    "tracks": [
+      "Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Lab Station 1, Business Hall",
+    "github_url": null,
+    "description": "AI systems (LLMs, Agents, MCP servers) are rapidly becoming central to modern applications, but with this evolution comes a new class of security risks. Our hands-on activity workshop, AI Security Playground, is designed to help developers learn about security challenges unique to AI and GenAI environments. In this interactive workshop, participants will get their hands dirty with real world attacks against AI from beginner to advanced including sophisticated exploits against AI agents, model context protocol (MCP) server misconfigurations and classic to advanced prompt injections.\n\nThis will be a hands-on-session, powered by our open-sourced, gamified training platform, attendees will explore vulnerabilities step-by-step, learn how attackers think, and master AI specific defensive techniques. Whether you're an AI practitioner, security enthusiast, or developer, this workshop promises to level up your understanding through practical challenges, insightful explanations, and immediate feedback as we offer an AI powered judge on the platform who would give you feedback once you solve each challenge."
+  },
+  {
+    "tool_name": "BoardSentinel: An Automated Static Analysis Framework for BMC Firmware Vulnerability Detection",
+    "tool_id": "50129",
+    "speakers": [
+      "Zhong Wang",
+      "Lewei Qu",
+      "Sheng Ma"
+    ],
+    "tracks": [
+      "Vulnerability Assessment"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 4, Business Hall",
+    "github_url": null,
+    "description": "BoardSentinel is an automated static analysis framework designed to systematically extract, analyze, and detect vulnerabilities in Baseboard Management Controller (BMC) firmware from major vendors including AMI MegaRAC, OpenBMC, Dell iDRAC, and H3C HDM.\n\nAs BMCs represent a critical attack surface in modern data centers with privileged access to server hardware, traditional firmware analysis faces significant challenges: proprietary binary formats, diverse filesystem structures, and the need for deep binary analysis expertise. BoardSentinel addresses these challenges through:\n\n1. Universal Firmware Extraction Engine: Automatically identifies and extracts embedded filesystems (such as SquashFS, CramFS, JFFS2, FIT images) from vendor-specific formats\n2. Hybrid Vulnerability Detection: Combines IDA Pro decompilation, Radare2 fast analysis with Semgrep pattern matching and custom Python detectors for precise CVE identification\n3. Extensible Rule System: YAML-based vulnerability signatures enabling rapid integration of newly disclosed CVEs\n\nThe tool can be used to identify critical historical vulnerabilities and hunt classical vulnerabilities across multiple major BMC vendors. BoardSentinel democratizes BMC security research by automating complex reverse engineering workflows, enabling both security teams and researchers to assess firmware security at scale."
+  },
+  {
+    "tool_name": "DataTrap - Adaptive LLM-Powered Honeypot Framework",
+    "tool_id": "49968",
+    "speakers": [
+      "Ori Nakar"
+    ],
+    "tracks": [
+      "AI, ML & Data Science"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 1, Business Hall",
+    "github_url": null,
+    "description": "DataTrap is an open-source, extensible honeypot framework designed to simulate realistic application behavior across HTTP, HTTPS, and SSH. First introduced at Black Hat USA 2025, it supports a wide range of targets, including web applications, IoT devices, and databases. Unlike traditional honeypots that rely on static responses, DataTrap combines recorded application payloads, contextual metadata, and large language model (LLM) reasoning to generate dynamic, context-aware responses that are virtually indistinguishable from real application outputs. This approach enables deeper engagement with attackers and more accurate, high-fidelity data collection.\n\nAt the core of DataTrap lies its adaptive dataset, which continuously evolves based on real-world interactions. This ensures that the system remains effective against new attack patterns and emerging threats, maintaining its relevance over time. A recent addition to the framework is the honeypot dispatcher, an intelligent component that analyzes initial session payloads and routes traffic to the most appropriate honeypot type. This design increases session duration and enhances the quality of collected data. Another major enhancement is the LLM-based reporting module, which transforms captured data into actionable threat intelligence, providing valuable insights for researchers and security teams.\n\nFor ease of deployment, DataTrap is distributed as a Docker image, allowing users to quickly set up a fully operational honeypot environment in any infrastructure with minimal configuration."
+  },
+  {
+    "tool_name": "Hashtopolis",
+    "tool_id": "54628",
+    "speakers": [
+      "Marvin Schwarz",
+      "Jesse van Zutphen"
+    ],
+    "tracks": [
+      "Cryptography"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 3, Business Hall",
+    "github_url": null,
+    "description": "Hashtopolis is an open-source, client–server platform for managing and monitoring distributed password-recovery tasks using Hashcat and compatible engines. It provides a centralized web interface and a REST API to coordinate large-scale cracking operations across heterogeneous systems, offering detailed control over workload distribution, performance tracking, and result collection.\n\nThe demonstration will showcase a minimal Hashtopolis environment, including the setup of a server and multiple agents. Attendees will see how Hashtopolis partitions keyspaces, schedules jobs efficiently across GPU and CPU agents, and reports real-time telemetry such as task progress, performance rates, and hardware statistics.\n\nThe session will also outline deployment approaches, scaling considerations, and integration possibilities using the API. Emphasis will be placed on operational reliability, automation capabilities, and responsible usage for legitimate security testing, auditing, and forensic research.\n\nLicense: GPL 3.0 (open source)\n\nKey Takeaways of the demo:\n\n- Understand the architecture and core components of Hashtopolis (server, agents, and API).\n\n- Learn how to deploy and configure a distributed password-recovery environment using Hashcat.\n\n- Observe real-time workload distribution, performance monitoring, and result collection across multiple systems.\n\n- Gain insight into automation and scaling strategies for research, auditing, and forensic applications."
+  },
+  {
+    "tool_name": "HoneyOps (A fast, lightweight honeypot cloud-based builder written in Go)",
+    "tool_id": "50416",
+    "speakers": [
+      "Melvin Lee",
+      "Nicholas Lim"
+    ],
+    "tracks": [
+      "Threat Hunting and Incident Response"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 5, Business Hall",
+    "github_url": null,
+    "description": "HoneyOps is a cloud-based honeypot deployment tool written in Go, designed for rapid and effortless provisioning of decoy environments. Built with simplicity in mind, it offers an intuitive interface that enables users of any technical skill level to deploy, manage, and monitor honeypot infrastructure in just moments.\n\nWhether you're a security researcher, threat analyst, or curious enthusiast, HoneyOps makes proactive threat detection in the cloud both accessible and efficient."
+  },
+  {
+    "tool_name": "NOVA Ecosystem: Your AI Security Arsenal",
+    "tool_id": "50415",
+    "speakers": [
+      "Thomas Roccia"
+    ],
+    "tracks": [
+      "AI, ML & Data Science"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 2, Business Hall",
+    "github_url": null,
+    "description": "NOVA is an opensource engine built to detect and classify adversarial prompts targeting AI models. It introduces the concept of Indicators of Prompt Compromise (IoPC), to identify adversarial prompt patterns, manipulations, and exfiltration techniques.\n\nThe project extends threat detection into the AI domain by combining pattern-based rules, contextual analysis, and real-time detection logic. NOVA can integrate directly into LLM pipelines, MCP, or red-team frameworks to identify jailbreaks, data extraction attempts, and prompt injection vectors before execution.\n\nAt Arsenal, the live demo will showcas NOVA engine, rule syntax, and detection workflow in action, including live adversarial prompt detection, rule authoring, and integration with PromptIntel and Proximity modules for scanning model context protocol (MCP) servers. The audience will see how NOVA can be embedded into AI applications to monitor, hunt, and visualize prompt-based attacks."
+  },
+  {
+    "tool_name": "Sysrupt: Portable OT/ICS and Hardware Security Training Platform (CompatriOT v2)",
+    "tool_id": "53142",
+    "speakers": [
+      "Season Cherian",
+      "Vivek NJ"
+    ],
+    "tracks": [
+      "Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Lab Station 2, Business Hall",
+    "github_url": null,
+    "description": "Sysrupt is the next-generation evolution of CompatrIoT, presented at Black Hat Asia 2025 Arsenal Training. Where CompatrIoT focused on IoT and embedded hardware exploitation, Sysrupt extends into the world of Operational Technology by combining PLC firmware, OT protocols, and hardware attack surfaces into a portable, self-contained cyber-physical training platform.\n\nAll devices are connected through an onboard managed Ethernet switch that keeps the Pi, PLC, ESP32, and participant laptop in the same network segment. This setup enables participants to observe and manipulate live OT protocol traffic, capture data, and analyze how attacks influence both network behavior and physical outputs. Sysrupt also includes a secure hardware-based signing process for proof-of-exploit tokens, ensuring verifiable scoring and safe reuse in CTFs and research labs. It turns OT and hardware security from a theoretical topic into a tangible, hands-on experience that fits in a backpack."
+  },
+  {
+    "tool_name": "Agent Miner: A General AI Agent Security Auditing Agent Based on Multi-Agent Collaboration",
+    "tool_id": "50292",
+    "speakers": [
+      "Lewei Qu",
+      "Zeyu Luo",
+      "Zezhi Lin",
+      "Yue Yang",
+      "Sushuang Ma"
+    ],
+    "tracks": [
+      "AI, ML & Data Science"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 3, Business Hall",
+    "github_url": null,
+    "description": "With the vigorous development of the AI ecosystem, large language models, MCP tools, and AI agents have gradually constructed the AI ecosystem. As an aggregate that integrates large language models and MCP tools, AI agents have begun to present users with various complex and high-level operations. Among AI agents, representative ones include Computer use agent, Browser use agent, and Mobile use agent. These general AI agents can truly realize the transformation of artificial intelligence from understanding to execution, triggering people's rich imagination about human-machine interaction. However, the intelligence and complexity of AI agents also bring new security risks. Once an AI agent is breached, it will cause serious security risks such as user data leakage.\nAgent Miner focuses on the security auditing of general AI agents. It adopts a multi - Agent collaborative architecture mode and follows the idea of \"task decomposition\" to break down complex auditing tasks into different subtasks and establish a standard workflow through a directed acyclic graph. In addition, Agent Miner can conduct static analysis based on the attack surface to identify vulnerability points and generate Proof-of-Concept (POC). It can also automatically build a simulated operating environment, deploy general AI Agents, and use the Proof-of-Concept (POC) to verify the effectiveness of vulnerabilities. Through Agent Miner, we have discovered more than 15 security vulnerabilities in over 10 mainstream open-source general AI Agents and obtained 7 Common Vulnerabilities and Exposures (CVE) numbers."
+  },
+  {
+    "tool_name": "AI Wargame",
+    "tool_id": "53143",
+    "speakers": [
+      "Pedram Hayati",
+      "Harley Wilson"
+    ],
+    "tracks": [
+      "Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Lab Station 1, Business Hall",
+    "github_url": null,
+    "description": "Come join a fun and educational attack and defence AI wargame. You will be given an AI chatbot. Your chatbot has a secret that should always remain a secret! Your objective is to secure your chatbot to protect its secret while attacking other players' chatbots and discovering theirs. The winner is the player whose chatbot survives the longest (king of the hill). All skill levels are welcomed, even if this is your first time seeing code, securing a chatbot, or playing in a wargame.\n\nRight at the start, there will be a briefing to show how to play in the wargame. Knowledge of the OpenAI Python SDK helps but is not a requirement. Each player has access to their chatbot source code repository where they can run, test, debug and push their changes."
+  },
+  {
+    "tool_name": "Broń Vault: Open-Source Web-App for Stealer Log Parsing and Exploration",
+    "tool_id": "54656",
+    "speakers": [
+      "YoKo Kho",
+      "Tomi Ashari",
+      "Lalu Raynaldi Pratama Putra"
+    ],
+    "tracks": [
+      "Threat Hunting and Incident Response"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 5, Business Hall",
+    "github_url": null,
+    "description": "\"Broń Vault is an open-source, web-based app that automates the parsing of stealer log data.\"\n\nAs information stealers have become one of the most widespread threats in today's cyber landscape, security teams are increasingly overwhelmed by the volume and complexity of stolen credential data.\n\nTraditional workflows rely heavily on manual scripting, inconsistent parsing logic, and time-consuming file extraction. Broń Vault addresses these limitations through a fully automated pipeline that transforms raw stealer log archives into structured, queryable intelligence."
+  },
+  {
+    "tool_name": "BugHound MCP",
+    "tool_id": "50210",
+    "speakers": [
+      "Krishna Naidu",
+      "eric tee",
+      "Lwin Min Oo",
+      "Kai-Wei Hoon",
+      "Valen Sai"
+    ],
+    "tracks": [
+      "Web AppSec"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 2, Business Hall",
+    "github_url": null,
+    "description": "BugHound is a Model Context Protocol (MCP) based security automation framework that streamlines bug bounty hunting through natural language commands. It orchestrates specialized security tools across reconnaissance, scanning, and analysis domains, enabling researchers to perform comprehensive security assessments through conversational interactions. The framework eliminates the need for complex command chains by translating simple prompts into coordinated security workflows."
+  },
+  {
+    "tool_name": "Circuit Breaker CTF",
+    "tool_id": "53139",
+    "speakers": [
+      "Manzel Seet",
+      "Kenneth Tong"
+    ],
+    "tracks": [
+      "Arsenal Lab"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Lab Station 2, Business Hall",
+    "github_url": null,
+    "description": "\"Circuit Breaker CTF\" is a testbench for power industry security research. Building upon last year's foundation, this iteration expands beyond fundamental device exploitation to encompass more complex, system-level interactions across the Generation–Transmission–Distribution–Consumer chain. It also highlights the circuit breaker's role and adaptability across diverse operational environments."
+  },
+  {
+    "tool_name": "Flutterscan: Mobile App Security SAST Framework for Flutter",
+    "tool_id": "50221",
+    "speakers": [
+      "Rohit Narayanan M",
+      "Akhil Mahendra"
+    ],
+    "tracks": [
+      "Vulnerability Assessment"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Station 4, Business Hall",
+    "github_url": null,
+    "description": "With the growing adoption of Flutter for modern mobile app development, fueled by its ability to enable seamless cross-platform experiences from a single codebase, security analysis for these apps has become increasingly important. While many static analysis tools support Android and iOS, dedicated security tools for Flutter and Dart are still being developed. Current solutions offer general analysis but are not fully tuned to Flutter's unique structure and security needs. This creates an opportunity to build specialized tools that complement existing ones and better address Flutter's ecosystem.\nFlutterscan is a static analysis tool designed specifically for the Flutter and Dart ecosystem, bridging a critical gap in mobile application security reviews. It is mapped to the OWASP Mobile Top 10 and MSTG guidelines to detect common security weaknesses in Flutter and Dart applications. The tool seamlessly integrates into existing CI/CD pipelines such as GitHub Actions to review each pull request for insecure coding patterns and provides results in multiple output formats, including JSON and SARIF."
+  },
+  {
+    "tool_name": "NVWA: A Novel Method for Automated Vulnerability Discovery in Embedded Firmware",
+    "tool_id": "54621",
+    "speakers": [
+      "Jiaxu Zhao",
+      "Yanyan Zou",
+      "Yuekang Li",
+      "Wei Huo"
+    ],
+    "tracks": [
+      "Hardware/Embedded"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal Lab Station 1, Business Hall",
+    "github_url": null,
+    "description": "The reliability of embedded systems is crucial to the performance and security of modern devices, and vulnerability discovery is a key task in ensuring it. Existing research mainly relies on static analysis of vendor-released firmware to identify potential risks, but building a comprehensive and effective static analysis remains challenging. First, inter-procedural analysis over complex and lengthy paths often leads to timeouts or path explosion. Moreover, constraints embedded in code to validate inputs play a crucial role in reducing false positives and confirming vulnerabilities, yet how to leverage their semantics in static analysis remains an open issue.\n\nTo tackle these challenges, we propose NÜWA, a novel static analysis technique for embedded firmware. NÜWAperforms inter-procedural analysis based on function summaries and detects potential vulnerabilities through semantic inconsistencies in input constraints.\n\nWe evaluated NÜWAon 31 publicly disclosed vulnerabilities from 13 vendors and compared its performance with five state-of-the-art tools. NÜWAoutperformed all baselines, discovering more vulnerabilities while maintaining the fewest false positives and accurately extracting constraint semantics. To date, NÜWA has uncovered 152 previously unknown vulnerabilities, all confirmed by vendors, with 88 assigned CVE IDs. To foster future research, we release NÜWA and its dataset to the community."
+  },
+  {
+    "tool_name": "From PoC to Breakthrough: arkdecompiler - The Decompiler for HarmonyOS NEXT",
+    "tool_id": "50103",
+    "speakers": [
+      "Xiaoyu He",
+      "Qidan He"
+    ],
+    "tracks": [
+      "Reverse Engineering"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal, On-Demand Only",
+    "github_url": null,
+    "description": "HarmonyOS NEXT is a new generation operating system launched by Huawei. It has completely abandoned Android compatibility, replaced the Linux kernel with the HongMeng kernel, and now supports only native applications. Currently, over 20 million devices are equipped with HarmonyOS NEXT, with nearly 200,000 new devices being added daily. This number is expected to reach hundreds of millions in the future. The number of native HarmonyOS apps has grown from an initial 5,000 commonly used apps to tens of thousands. The HarmonyOS ecosystem has become increasingly robust, with active participation from developers and users creating a positive cycle.\n\nHowever, HarmonyOS NEXT represents a complete overhaul, featuring new development languages, file formats, compilers, and interpreters. Existing security analysis tools are rendered ineffective. In response, we developed a specialized decompiler tailored for HarmonyOS NEXT. We unveiled the internal design of ArkCompiler, the compiler for HarmonyOS NEXT, and showcased a proof-of-concept version at Black Hat USA 2025. The presentation attracted significant interest from researchers, although the functionality of the version was quite limited at the time\n\nFollowing the proof of concept, we shifted our focus to supporting a broader range of instructions and more complex program structures, including sequences, branches, loops, closures, modules, and classes,\netc. We also supplied test files featuring supported syntax to interested developers. Additionally, enthusiastic community members contributed pull requests for container environments, further simplifying participation for everyone.\n\nMore specifically, we will discuss:\n• Array & Object: How to define and modify arrays and objects, and assign values to them.\n• Function: How to manage function definitions and calls.\n• Branch: How to identify branches and handle complex nesting structures.\n• Loop: How to recognize different loop types (while, do-while), determine loop conditions, and manage exit procedures (break, return, throw), etc.\n• Exception: How to identify complex exception structures and handle components like try, catch, and finally.\n• Closure: How to construct Lexical Environments and Lexical Environment Stacks to manage closures, one of the most complex structures in programming languages.\n• Module: How to identify cross-module variable references in binary code and choose appropriate structures to represent these relationships.\n• Incremental Compilation: To enhance compilation speed, ArkCompiler offers an incremental compilation mode, generating numerous incremental syntax instructions. How to restore their complex semantic relationships?\n• …\n\nTo showcase our tool's capability to support these advanced syntax, we developed a series of test cases in the tests directory."
+  },
+  {
+    "tool_name": "KubeShadow (Advanced Offensive Kubernetes Red-Team Framework)",
+    "tool_id": "50286",
+    "speakers": [
+      "Aashita Pandey",
+      "Binayak Choudhury"
+    ],
+    "tracks": [
+      "Cloud Security"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal, On-Demand Only",
+    "github_url": null,
+    "description": "KubeShadow is a Go-based, modular red-team framework engineered to simulate end-to-end adversary kill-chains against Kubernetes (EKS, GKE, AKS and self-hosted) with precision and operational fidelity. It combines a powerful recon engine, graph-based chaining, and a plugin architecture that houses control-plane and workload exploitation modules (etcd injection, kubelet hijack, sidecar/init-container injection, RBAC escalation, ephemeral container attacks), multi-cloud identity pivoting, and flexible exfiltration adapters. Built-in lab manifests and safe execution flags enable reproducible PoCs and purple-team exercises, while the interactive dashboard and attack map correlate findings, link raw command outputs, and produce prioritized remediation guidance. KubeShadow is designed for authorized adversary emulation and defender validation - to measure real impact, harden controls, and close the gaps modern cloud-native deployments expose."
+  },
+  {
+    "tool_name": "LLMInspector - Advanced LLM Fingerprinting & Security Testing Tool",
+    "tool_id": "50352",
+    "speakers": [
+      "Alfonso Munoz",
+      "Jacobo Blancas"
+    ],
+    "tracks": [
+      "AI, ML & Data Science"
+    ],
+    "skill_level": "All",
+    "event": "BH-ASIA-26",
+    "session_type": "Arsenal, On-Demand Only",
+    "github_url": null,
+    "description": "LLMInspector is a comprehensive penetration testing suite designed for security professionals to identify and audit Large Language Models (LLMs) deployed in production environments. By analyzing behavioral patterns, response characteristics, and semantic fingerprints, LLMInspector can identify and analyze prompt injection attacks against both open-source and commercial language models. Additionally, LLMInspector includes features that allow connection to Ollama and analysis of +200 local models."
+  }
+]

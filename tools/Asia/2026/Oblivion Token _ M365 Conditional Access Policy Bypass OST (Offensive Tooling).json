@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Oblivion Token : M365 Conditional Access Policy Bypass OST (Offensive Tooling)",
+  "Description": "Oblivion Token is an offensive-research utility for testing Microsoft 365 Conditional Access Policy (CAP) bypass scenarios in a repeatable, scriptable way. It emits valid OIDC ID tokens and OAuth2 access tokens for Microsoft Graph API post-exploitation automation, exercising token-centric workflows against Microsoft first-party applications without browser prompts. Red-teamers and security researchers use it to expose where device, network, and app-context assumptions in CAP enforcement break down.",
+  "Tracks": [
+    "Cloud Security"
+  ],
+  "Speakers": [
+    "Nuttakorn Tungpoonsup",
+    "Waris Damkham"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/Waariss/OblivionToken",
+  "Location": "Asia"
+}

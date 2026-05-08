@@ -1,0 +1,14 @@
+{
+  "Tool Name": "FLARE-VM: Continuously Sharpening the Analyst's Edge",
+  "Description": "FLARE-VM is an open-source collection of installation scripts from Mandiant's FLARE team that automates the build of a Windows-based reverse engineering and malware analysis virtual machine. It provides a revamped GUI, shared package repositories for tool selection, and end-to-end automation including a VirtualBox build script that produces ready-to-export analysis VMs. The framework reduces setup time for malware analysts, reverse engineers, and offensive security practitioners maintaining customized analysis environments.",
+  "Tracks": [
+    "Malware"
+  ],
+  "Speakers": [
+    "Joshua Stroschein",
+    "Jae Young Kim"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/mandiant/flare-vm",
+  "Location": "Asia"
+}

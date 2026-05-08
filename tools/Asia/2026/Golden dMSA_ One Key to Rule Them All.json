@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Golden dMSA: One Key to Rule Them All",
+  "Description": "Golden dMSA is a post-exploitation tool that exploits a design flaw in delegated Managed Service Accounts (dMSAs) introduced in Windows Server 2025, enabling forest-wide compromise of managed service account credentials. After temporary control of a single domain and access to KDS root key material, it enumerates protected dMSA and gMSA accounts from non-privileged contexts and algorithmically reconstructs their passwords offline, bypassing the strengthened controls these accounts were designed to enforce.",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Adi Malyanker"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/Semperis/GoldenDMSA",
+  "Location": "Asia"
+}

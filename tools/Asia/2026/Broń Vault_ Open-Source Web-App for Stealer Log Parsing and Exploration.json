@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Broń Vault: Open-Source Web-App for Stealer Log Parsing and Exploration",
+  "Description": "Broń Vault is an open-source web application that automates parsing and exploration of stealer log data, transforming raw archives into structured, queryable intelligence. It replaces manual scripting and inconsistent parsing logic with a unified pipeline that supports 20+ host-info parser variants, installed software parsing, and per-device detail views via a drag-and-drop interface. The tool helps security teams triage credential theft datasets at scale and surface actionable intelligence from information stealer campaigns.",
+  "Tracks": [
+    "Threat Hunting and Incident Response"
+  ],
+  "Speakers": [
+    "YoKo Kho",
+    "Tomi Ashari",
+    "Lalu Raynaldi Pratama Putra"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/itsec-research/bron-vault",
+  "Location": "Asia"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "SAMLSmith",
+  "Description": "SAMLSmith is a C# offensive tool for forging SAML responses against enterprise identity providers, evolving earlier proof-of-concept tooling for Entra ID response forging into a full red-team utility. It supports multiple identity provider response forging, an AD FS-specific mode, SAML request processing with InResponseTo, WS-Federation responses, and PFX certificate extraction from AD FS encrypted material and DKM keys. Operators use it to execute Golden SAML and Silver SAML attacks against SaaS applications when signing key material can be obtained.",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Eric Woodruff"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/Semperis/SAMLSmith",
+  "Location": "Asia"
+}

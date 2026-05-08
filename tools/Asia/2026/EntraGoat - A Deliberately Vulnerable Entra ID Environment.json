@@ -1,0 +1,14 @@
+{
+  "Tool Name": "EntraGoat - A Deliberately Vulnerable Entra ID Environment",
+  "Description": "EntraGoat is a deliberately vulnerable Microsoft Entra ID (formerly Azure Active Directory) environment that simulates real-world misconfigurations and attack paths in a hands-on, CTF-style lab. It deploys multiple privilege escalation scenarios directly into an existing tenant, focusing on black-box methodologies across IAM, application, and service principal abuses. The platform is intended for security researchers, red teamers, and identity defenders building practical experience with Entra ID attack chains.",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Jonathan Elkabas",
+    "Eric Woodruff"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/Semperis/EntraGoat",
+  "Location": "Asia"
+}

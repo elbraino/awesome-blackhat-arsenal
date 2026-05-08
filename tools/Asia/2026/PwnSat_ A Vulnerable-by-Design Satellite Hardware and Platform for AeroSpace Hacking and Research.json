@@ -1,0 +1,14 @@
+{
+  "Tool Name": "PwnSat: A Vulnerable-by-Design Satellite Hardware and Platform for AeroSpace Hacking and Research",
+  "Description": "PWNSAT is an open-source vulnerable-by-design aerospace cybersecurity platform that combines a physical CubeSat, a ground station, a Mission Operations Center, and RF communication links. It replicates a real space mission using aerospace protocols such as CCSDS and AX.25 over LoRa and FSK, with intentional vulnerabilities introduced at the radio frequency, firmware, and MOC service layers under the SPARTA framework. The platform supports CTF-style exercises, technical audits, and penetration testing of satellite systems for researchers and educators.",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Romel Marin cordoba",
+    "Kevin Jahaziel Leon Morales"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/Pwnsat/FlatSat",
+  "Location": "Asia"
+}

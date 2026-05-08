@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Sysrupt: Portable OT/ICS and Hardware Security Training Platform (CompatriOT v2)",
+  "Description": "Sysrupt is a portable, self-contained OT/ICS and hardware security training platform that evolves the CompatrIoT project from Black Hat Asia 2025 into the operational technology domain. Built around a Radxa A5E SBC, dual ESP32-C6 microcontrollers, a PLC simulator, and an onboard managed Ethernet switch, it lets participants observe and manipulate live OT protocol traffic while watching attacks affect physical outputs. The platform includes hardware-based signing of proof-of-exploit tokens for verifiable scoring in CTFs and research labs.",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Season Cherian",
+    "Vivek NJ"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/traboda/CompatrIoT",
+  "Location": "Asia"
+}

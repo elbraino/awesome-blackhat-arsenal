@@ -1,0 +1,14 @@
+{
+  "Tool Name": "From PoC to Breakthrough: arkdecompiler - The Decompiler for HarmonyOS NEXT",
+  "Description": "arkdecompiler is a decompiler purpose-built for HarmonyOS NEXT, Huawei's Android-incompatible operating system based on the HongMeng kernel and ArkCompiler toolchain. It parses Panda Binary Files and Panda Bytecode into Panda IR, then reconstructs the native ArkTS AST and translates it back to source code. The release expands beyond the Black Hat USA 2025 proof-of-concept to support arrays, objects, functions, branches, loops, exceptions, closures, modules, and incremental compilation for security analysis of native HarmonyOS applications.",
+  "Tracks": [
+    "Reverse Engineering"
+  ],
+  "Speakers": [
+    "Xiaoyu He",
+    "Qidan He"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/jd-opensource/arkdecompiler",
+  "Location": "Asia"
+}

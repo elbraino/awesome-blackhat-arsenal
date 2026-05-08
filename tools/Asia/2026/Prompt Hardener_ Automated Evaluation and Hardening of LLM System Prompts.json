@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Prompt Hardener: Automated Evaluation and Hardening of LLM System Prompts",
+  "Description": "Prompt Hardener is an open-source toolkit that evaluates and strengthens system prompts used in LLM applications against prompt injection. It uses an LLM to review prompts against defensive techniques such as spotlighting, instruction defense, role consistency, random sequence enclosure, and secrets exclusion, then generates structured feedback and rewrite suggestions. An adversarial testing module executes payloads inspired by the OWASP Top 10 for LLM Applications to verify mitigation effectiveness across an evaluate-improve-verify workflow.",
+  "Tracks": [
+    "AI, ML & Data Science"
+  ],
+  "Speakers": [
+    "Yoshiki Kitamura",
+    "Junki Yuasa"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/cybozu/prompt-hardener",
+  "Location": "Asia"
+}

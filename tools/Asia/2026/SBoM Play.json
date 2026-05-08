@@ -1,0 +1,13 @@
+{
+  "Tool Name": "SBoM Play",
+  "Description": "SBoM Play is a browser-based SBOM exploration and intelligence extraction platform that runs entirely client-side without backend infrastructure. It imports SBOMs or extracts them directly from GitHub repositories, then enriches dependency data using OSV, deps.dev, and ecosyste.ms to provide a unified view across repositories and organizations. The tool surfaces tech debt patterns, version drift, license posture, SBOM quality gaps, end-of-life packages, dependency confusion indicators, and maintainer risk signals beyond traditional vulnerability tracking.",
+  "Tracks": [
+    "Code Assessment"
+  ],
+  "Speakers": [
+    "Anant Shrivastava"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/cyfinoid/sbomplay",
+  "Location": "Asia"
+}

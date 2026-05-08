@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Continuous CyberBattleSim: A More Realistic Simulation for AI-driven Attack Path Discovery",
+  "Description": "Continuous CyberBattleSim (C-CyberBattleSim) is an extension of Microsoft's CyberBattleSim that trains and evaluates reinforcement learning agents on cyber attack path prediction modeled as a vulnerability chaining problem. It enriches scenario generation with Cyber Threat Intelligence drawn from empirical Shodan distributions, automates vulnerability outcome inference from metadata, and integrates a graph neural network and language model embedding to represent nodes and vulnerabilities in continuous vector spaces. The framework supports more scalable and generalizable RL training for synthetic environments resembling real-world infrastructures.",
+  "Tracks": [
+    "AI, ML & Data Science"
+  ],
+  "Speakers": [
+    "Franco Terranova",
+    "Abdelkader Lahmadi"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/terranovafr/C-CyberBattleSim",
+  "Location": "Asia"
+}

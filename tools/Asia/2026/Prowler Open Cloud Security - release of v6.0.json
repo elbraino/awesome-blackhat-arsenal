@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Prowler Open Cloud Security - release of v6.0",
+  "Description": "Prowler is an open-source cloud security platform that performs continuous monitoring, security assessments, audits, incident response support, hardening, and forensics readiness across AWS, Azure, GCP, Kubernetes, and M365. It runs hundreds of checks mapped to compliance frameworks including CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, and ENS. The v6.0 release expands coverage and integrations for multi-cloud security teams managing posture at scale.",
+  "Tracks": [
+    "Cloud Security"
+  ],
+  "Speakers": [
+    "Toni de la Fuente"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/prowler-cloud/prowler",
+  "Location": "Asia"
+}

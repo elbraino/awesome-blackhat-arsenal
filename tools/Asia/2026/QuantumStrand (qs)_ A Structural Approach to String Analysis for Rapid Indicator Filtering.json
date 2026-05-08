@@ -1,0 +1,14 @@
+{
+  "Tool Name": "QuantumStrand (qs): A Structural Approach to String Analysis for Rapid Indicator Filtering",
+  "Description": "QuantumStrand (qs) is an experimental static string analysis tool from Mandiant's FLARE team that transforms flat strings output into a structural map of a binary. It parses PE files into a tree of sections, headers, resources, overlays, and embedded files, then enriches each extracted string with contextual tags driven by expert heuristics and global prevalence databases. Malware analysts use it to filter noise during triage and rapidly focus on indicators that matter, with full layout and tag data exported as JSON.",
+  "Tracks": [
+    "Reverse Engineering"
+  ],
+  "Speakers": [
+    "Joshua Stroschein",
+    "Jae Young Kim"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/mandiant/flare-floss",
+  "Location": "Asia"
+}

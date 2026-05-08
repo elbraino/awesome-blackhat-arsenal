@@ -1,0 +1,15 @@
+{
+  "Tool Name": "SkyEye: When Your Vision Reaches Beyond IAM Boundary Scope in the Cloud",
+  "Description": "SkyEye is a cooperative multi-principal IAM enumeration framework for AWS that overcomes the blind spots of principal-centric reconnaissance tools. It introduces the Cross-Principal IAM Enumeration Model (CPIEM) and Transitive Cross-Role Enumeration Model (TCREM) to synchronize sessions across multiple user and role credentials, dynamically chaining permissions to surface privilege escalation paths invisible to siloed enumeration. SkyEye maps AWS actions to MITRE ATT&CK Cloud TTPs with severity ratings to support red team adversary simulation and cloud detection engineering.",
+  "Tracks": [
+    "Cloud Security"
+  ],
+  "Speakers": [
+    "Minh Hoang Nguyen",
+    "Anh Minh Ho",
+    "Bao Son To"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/0x7a6b4c/SkyEye",
+  "Location": "Asia"
+}

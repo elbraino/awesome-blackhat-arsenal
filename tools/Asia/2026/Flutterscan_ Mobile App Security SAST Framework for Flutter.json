@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Flutterscan: Mobile App Security SAST Framework for Flutter",
+  "Description": "Flutterscan is a static application security testing framework purpose-built for the Flutter and Dart ecosystem, addressing gaps left by general-purpose mobile SAST tools. It maps detections to the OWASP Mobile Top 10 and MSTG guidelines to identify insecure coding patterns across Dart files, AndroidManifest.xml, and YAML configurations, and integrates into CI/CD pipelines such as GitHub Actions with output in JSON, SARIF, HTML, and YAML formats for pull-request review.",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Rohit Narayanan M",
+    "Akhil Mahendra"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/RohitNarayananM/flutterscan",
+  "Location": "Asia"
+}

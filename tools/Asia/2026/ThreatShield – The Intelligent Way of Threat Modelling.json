@@ -1,0 +1,16 @@
+{
+  "Tool Name": "ThreatShield – The Intelligent Way of Threat Modelling",
+  "Description": "ThreatShield is an AI-powered threat modeling and security analysis tool that automates STRIDE-based threat model generation using OpenAI's enterprise API. It ingests heterogeneous inputs such as PRDs, architecture diagrams, Confluence pages, Slack threads, and meeting transcripts, then produces structured threat models, attack trees, DREAD scoring, and prioritized mitigations. The tool helps security engineering teams scale threat modeling across product development without relying on manual whiteboard sessions.",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Satyam Nagpal",
+    "Sayooj Nagpal",
+    "Ashwin Shenoi",
+    "Nandu S. Pillai"
+  ],
+  "Year": "2026",
+  "Github URL": "",
+  "Location": "Asia"
+}

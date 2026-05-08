@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Dradis Framework: Intelligent Automation for collaboration and reporting",
+  "Description": "Dradis Framework is an open-source pentest management and reporting tool that centralizes findings, notes, and evidence across cybersecurity teams. It combines results from scanners such as Nessus, Burp Suite, and Nikto with manual findings and attack narratives to streamline collaboration and automate reporting. The latest iteration extends Dradis Echo for LLM-assisted reporting with context awareness and prompt library building, alongside redesigned navigation, API scanner uploads, and a new MITRE ATT&CK calculator.",
+  "Tracks": [
+    "OSINT - Open Source Intelligence"
+  ],
+  "Speakers": [
+    "Daniel Martin"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/dradis/dradis-ce",
+  "Location": "Asia"
+}

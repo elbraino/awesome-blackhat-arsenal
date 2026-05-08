@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Casino Heist v2",
+  "Description": "Casino Heist v2 is a smart contract security playground centered on Solidity contracts deployed on the Ethereum blockchain. It pairs each challenge with theoretical foundations, exploitation walkthroughs, and mitigation guidance, spanning fundamentals such as reentrancy and integer overflow through advanced attack vectors inspired by real-world incidents. The platform serves CTF players, security researchers, educators, and developers exploring blockchain security.",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Richard Tan",
+    "Anthony Sai Richardo"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/Kiinzu/Casino-Heist",
+  "Location": "Asia"
+}

@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Mothra: Timeless Debugging of EVM Transactions with Ghidra",
+  "Description": "Mothra is a Ghidra extension for reverse engineering EVM bytecode that adds timeless debugging of Ethereum Virtual Machine transactions. It integrates with Ghidra's Debugger tool to let researchers replay an EVM transaction and step forward and backward at the opcode level, inspecting state at any point in execution. The tool supports smart contract auditing, exploit analysis, and post-incident investigation of on-chain activity.",
+  "Tracks": [
+    "Reverse Engineering"
+  ],
+  "Speakers": [
+    "Yuejie Shi",
+    "Aohui Wang"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/ambergroup-labs/Mothra",
+  "Location": "Asia"
+}

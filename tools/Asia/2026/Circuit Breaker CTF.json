@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Circuit Breaker CTF",
+  "Description": "Circuit Breaker CTF is a testbench for power industry security research that simulates devices and protocols across the generation, transmission, distribution, and consumer chain. Building on prior iterations focused on individual device exploitation, it introduces system-level interactions and highlights the role and adaptability of circuit breakers across diverse operational environments. Participants engage with realistic ICS scenarios to practice exploitation and defense techniques specific to electrical power infrastructure.",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Manzel Seet",
+    "Kenneth Tong"
+  ],
+  "Year": "2026",
+  "Github URL": "",
+  "Location": "Asia"
+}

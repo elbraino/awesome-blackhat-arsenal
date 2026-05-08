@@ -1,0 +1,13 @@
+{
+  "Tool Name": "NOVA Ecosystem: Your AI Security Arsenal",
+  "Description": "NOVA is an open-source prompt pattern matching engine that detects and classifies adversarial prompts targeting LLM applications, introducing the concept of Indicators of Prompt Compromise (IoPC). It combines keyword rules, semantic similarity, and LLM-based evaluation in a YARA-inspired syntax, integrating into LLM pipelines, MCP servers, and red-team frameworks. The ecosystem extends to PromptIntel and Proximity modules for hunting jailbreaks, data exfiltration, and prompt injection attempts before execution.",
+  "Tracks": [
+    "AI, ML & Data Science"
+  ],
+  "Speakers": [
+    "Thomas Roccia"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/fr0gger/nova-framework",
+  "Location": "Asia"
+}

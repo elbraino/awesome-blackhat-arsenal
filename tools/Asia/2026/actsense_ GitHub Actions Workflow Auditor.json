@@ -1,0 +1,13 @@
+{
+  "Tool Name": "actsense: GitHub Actions Workflow Auditor",
+  "Description": "actsense is a local, vendor-agnostic framework for auditing GitHub Actions workflows and their dependencies. It statically maps all actions, including nested composite, JavaScript, and Docker actions, and runs over 30 security checks covering pinning, permissions, events, and secrets, while also assessing Docker images and external dependencies for unpinned or unpinnable references. Findings are presented through an interactive dependency graph that exposes the full transitive action graph and helps teams trace relationships, triage supply chain risks, and secure CI/CD pipelines without leaking data to third parties.",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Kumar Ashwin"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/0xCardinal/actsense",
+  "Location": "Asia"
+}

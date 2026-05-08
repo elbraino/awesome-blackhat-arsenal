@@ -1,0 +1,14 @@
+{
+  "Tool Name": "KubeShadow (Advanced Offensive Kubernetes Red-Team Framework)",
+  "Description": "KubeShadow is a Go-based modular red-team framework for end-to-end adversary emulation against Kubernetes environments including EKS, GKE, AKS, and self-hosted clusters. It combines a recon engine, graph-based chaining, and a plugin architecture covering control-plane and workload exploitation (etcd injection, kubelet hijack, sidecar/init-container injection, RBAC escalation, ephemeral container attacks), multi-cloud identity pivoting, and exfiltration adapters. Built-in lab manifests, an interactive dashboard, and prioritized remediation guidance support reproducible PoCs and purple-team exercises.",
+  "Tracks": [
+    "Cloud Security"
+  ],
+  "Speakers": [
+    "Aashita Pandey",
+    "Binayak Choudhury"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/ashifly/KubeShadow",
+  "Location": "Asia"
+}

@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Damn Vulnerable Model Context Protocol (DVMCP) Platform",
+  "Description": "Damn Vulnerable MCP (DVMCP) is a deliberately insecure implementation of the Model Context Protocol built as an educational and research platform for security in LLM-integrated systems. It simulates real-world MCP risks such as prompt injection, tool poisoning, excessive permissions, rug-pull attacks, token theft, and multi-vector exploits across ten progressive Docker-deployable challenges. Recent additions include identity-based attacks, MCP-specific supply chain scenarios, and a web dashboard for interactive challenge navigation, real-time monitoring, and analytics.",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Ankit Garg",
+    "Harish Santhanalakshmi Ganesan"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/harishsg993010/damn-vulnerable-MCP-server",
+  "Location": "Asia"
+}

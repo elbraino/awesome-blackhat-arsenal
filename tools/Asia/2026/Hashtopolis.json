@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Hashtopolis",
+  "Description": "Hashtopolis is an open-source client-server platform for managing and monitoring distributed password-recovery tasks using Hashcat and compatible engines. It provides a centralized web interface and REST API to coordinate large-scale cracking operations across heterogeneous GPU and CPU agents, with keyspace partitioning, job scheduling, and real-time telemetry on task progress, performance, and hardware. The platform is licensed under GPL 3.0 and used for legitimate security testing, auditing, and forensic research.",
+  "Tracks": [
+    "Cryptography"
+  ],
+  "Speakers": [
+    "Marvin Schwarz",
+    "Jesse van Zutphen"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/hashtopolis/server",
+  "Location": "Asia"
+}

@@ -1,0 +1,15 @@
+{
+  "Tool Name": "CodeRetrX: One-Click to Start Your Journey of Agentic Bug Hunting",
+  "Description": "CodeRetrX is a code analysis and semantic retrieval library designed to lower the barrier for agent-driven vulnerability discovery. It provides a suite of agentic analysis tools, including cross-referencing, semantic search, code structure inspection, and an embedded CodeQL engine, all exposed via the MCP protocol, alongside a retrieval engine that achieves around 90% recall on complex semantic patterns at roughly 25% of the token cost of full LLM traversal. Researchers can launch or extend agentic bug-hunting setups by connecting to the MCP server or calling the CodeRetrX API.",
+  "Tracks": [
+    "AI, ML & Data Science"
+  ],
+  "Speakers": [
+    "Guancheng Li",
+    "Yuxuan Sun",
+    "Tianrui Chen"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/XuanwuAI/CodeRetrX",
+  "Location": "Asia"
+}

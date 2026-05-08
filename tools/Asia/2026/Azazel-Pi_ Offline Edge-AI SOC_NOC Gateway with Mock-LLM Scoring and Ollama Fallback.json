@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Azazel-Pi: Offline Edge-AI SOC/NOC Gateway with Mock-LLM Scoring and Ollama Fallback",
+  "Description": "Azazel-Pi is a portable Raspberry Pi-based SOC/NOC gateway for small networks operating on untrusted links, combining Suricata signals with an on-device Mock-LLM Scorer (a deterministic, rule-assisted micro-model) for real-time threat scoring and a Dockerized Ollama runtime hosting Qwen2.5-1.5B-Instruct as a fallback for low-confidence cases. The scorer outputs a 0-100 risk score that drives a policy planner mapping score bands to tc-based traffic shaping, nftables/iptables micro-policies, and selective NAT redirection to OpenCanary decoys. The pipeline runs fully offline and automatically, with an e-paper panel exposing posture and mode without shell access, while the same scoring logic powers internal QoS to prioritize essential sessions.",
+  "Tracks": [
+    "Network"
+  ],
+  "Speakers": [
+    "Makoto SUGITA"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/01rabbit/Azazel-Pi",
+  "Location": "Asia"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "vet: Open Source Software Supply Chain Security Guardrail in the age of AI SDLC",
+  "Description": "vet is an open-source software supply chain security tool tailored for AI-assisted SDLC workflows. Unlike traditional SCA tools, it proactively detects malicious packages before they appear in OSV, integrates as an MCP server with AI IDEs and coding agents like Cursor and Claude Code, and supports conversational analysis over scan results. This positions vet between package-level malicious code detection and developer-first defense in the era of AI coding assistants.",
+  "Tracks": [
+    "Malware"
+  ],
+  "Speakers": [
+    "Abhisek Datta"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/safedep/vet",
+  "Location": "Asia"
+}

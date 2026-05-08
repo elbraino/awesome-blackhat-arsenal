@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Dep-Hallucinator: Detecting Dependency Confusion from AI/LLM-Hallucinated Packages",
+  "Description": "Dep-Hallucinator is an open-source security scanner that identifies AI/LLM-hallucinated package dependencies before they enable slopsquatting attacks. It queries official package registries through native APIs and applies machine learning to distinguish AI-generated naming patterns from legitimate packages, addressing the finding that 19.7% of AI-suggested dependencies are non-existent and that 58% of these hallucinated names are repeated consistently. The tool helps developers and security teams detect dependency confusion risks introduced by AI coding assistants.",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Serhan Bahar"
+  ],
+  "Year": "2026",
+  "Github URL": "https://github.com/serhanwbahar/dep-hallucinator",
+  "Location": "Asia"
+}
