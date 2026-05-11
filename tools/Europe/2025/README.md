@@ -498,7 +498,7 @@ SupplyShield focuses on generating a Software Bill of Materials (SBOM) and perfo
 
 ![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: ⚙️ Miscellaneous / Lab Tools](https://img.shields.io/badge/Category:%20⚙️%20Miscellaneous%20/%20Lab%20Tools-gray) ![Satyam Nagpal](https://img.shields.io/badge/Satyam%20Nagpal-informational) ![Sayooj Nagpal](https://img.shields.io/badge/Sayooj%20Nagpal-informational) ![Ashwin Shenoi](https://img.shields.io/badge/Ashwin%20Shenoi-informational)
 
-🔗 **Link:** [ThreatShield – The Intelligent Way of Threat Modelling](https://github.com/vartulzeroshieldai/Threat-Shield)  
+🔗 **Link:** [ThreatShield – The Intelligent Way of Threat Modelling](https://github.com/threatshield/threatshield)  
 📝 **Description:** ThreatShield is an AI-powered threat modeling and security analysis tool designed to automate and elevate threat modeling using OpenAI's enterprise API. It processes raw documents like PRDs, architecture diagrams, confluence docs, slack threads and meeting transcripts to generate structured STRIDE-based threat models, attack trees, DREAD scoring, and mitigstions.
 
 </details>
