@@ -2,7 +2,7 @@
   "Tool Name": "Suricata 8: Discover the Difference in Network Detection",
   "Description": "Suricata is a high-performance open-source network analysis and threat detection engine used across private and public organisations and embedded by major vendors, operating as an IDS, IPS, firewall, network security monitor, and PCAP logger. Version 8, the product of two years of community and consortium development, adds a firewall mode of operation, a complete Lua overhaul, eight new protocols including mDNS, LDAP, DNS-over-HTTPS, and WebSocket, more than 100 new detection keywords, bidirectional rules, and CPU affinity controls.",
   "Tracks": [
-    "Threat Hunting and Incident Response"
+    "Data Forensics/Incident Response"
   ],
   "Speakers": [
     "Peter Manev",

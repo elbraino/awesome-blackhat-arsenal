@@ -2,7 +2,7 @@
   "Tool Name": "Chameleon Forensics (Android): Assume Adversarial Logical Extraction Forensic Tool",
   "Description": "Chameleon Forensics is an Android logical acquisition tool built on the assumption that the target device may have been modified to detect and disrupt forensic extraction. Extending the process in NIST SP 800-101 Revision 1, it adds a pre-acquisition triage step that flags applications likely to interfere with acquisition, then applies adversarial-aware collection workflows. The approach aims to make evidence collection more reliable in environments where conventional ADB or agent-based assumptions do not hold.",
   "Tracks": [
-    "Digital Forensics"
+    "Data Forensics/Incident Response"
   ],
   "Speakers": [
     "Joseph Lim",

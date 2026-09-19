@@ -53,27 +53,30 @@ Each `.json` file should contain the following fields:
 
 ## ✅ Track Names
 
-Use one or more of the following **valid track names**:
+Use one or more of the following **valid track names** (exact spelling, no `Track:` prefix):
 
-* Track: Exploitation and Ethical Hacking
-* Track: Reverse Engineering
-* Track: OSINT - Open Source Intelligence
-* Track: Internet of Things
-* Track: Hardware / Embedded
-* Track: Web AppSec
-* Track: Code Assessment
-* Track: Malware Offense
-* Track: Malware Defense
-* Track: Network Attacks
-* Track: Network Defense
-* Track: Smart Grid/Industrial Security
-* Track: Android, iOS and Mobile Hacking
-* Track: Cryptography
-* Track: Data Forensics/Incident Response
-* Track: Human Factors
-* Track: Arsenal Lab
+* Exploitation and Ethical Hacking
+* Vulnerability Assessment
+* Web AppSec
+* Code Assessment
+* Network Attacks
+* Network Defense
+* Malware Offense
+* Malware Defense
+* Reverse Engineering
+* Data Forensics/Incident Response
+* OSINT - Open Source Intelligence
+* Android, iOS and Mobile Hacking
+* Hardware/Embedded
+* Internet Of Things
+* Smart Grid/Industrial Security
+* Cloud Security
+* AI, ML & Data Science
+* Cryptography
+* Human Factors
+* Arsenal Lab
 
-If a tool doesn’t fit into any of these tracks, simply omit the `Tracks` field, and it will be placed in the `Other` section.
+If a tool doesn’t fit into any of these tracks, simply omit the `Tracks` field, and it will be placed in the `Others` section.
 
 ---
 
@@ -82,7 +85,7 @@ If a tool doesn’t fit into any of these tracks, simply omit the `Tracks` field
 Once you add a JSON file:
 
 * **Validate the JSON format**: Ensure that the file opens without errors in a JSON linter.
-* **README generation**: Run the README generation script (or submit a PR, and we’ll handle it for you).
+* **README generation**: Run `python3 AutoReadme.py` from the repo root to regenerate the README files, and commit the result (or submit a PR, and we’ll handle it for you).
 
 ---
 

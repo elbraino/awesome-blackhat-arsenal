@@ -1,4 +1,4 @@
-# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Last Update](https://img.shields.io/badge/Updated-August%202026-blue)](https://github.com/elbraino/awesome-blackhat-arsenal)
+# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Last Update](https://img.shields.io/badge/Updated-September%202026-blue)](https://github.com/elbraino/awesome-blackhat-arsenal)
 [![Project Logo](logo.png)](https://www.blackhat.com/html/arsenal.html)
 > 🚀 A curated list of cutting-edge cybersecurity tools showcased at the Black Hat Arsenal events — covering offensive, defensive, and research-focused security utilities.
 
@@ -15,7 +15,7 @@ Whether you're in red teaming, blue teaming, appsec, or OSINT — this list help
 ## How This List Is Organized
 - The tools are grouped by the **location** of the Black Hat event (e.g., USA, Europe, Asia).
 - Under each location, tools are further organized by **year**.
-- Inside the section of every year, you will find the tools organized **by track category**, each with descriptions, authors, and GitHub links (where available).
+- Each year has its own README where tools are grouped **by track category**, each with description, speakers, and GitHub link (where available).
 ---
 ## Locations
 ### Asia
@@ -72,7 +72,7 @@ We welcome community contributions to make this list better!
 
 🛠 How to Contribute:
 - 📁 Tools are grouped by **Black Hat event location** (`USA`, `Europe`, etc.) and **year** inside `tools/`. 
-- 🧠 Inside each year's folder, tools are organized by **track categories** such as `Red Teaming`, `OSINT`, `Reverse Engineering`, etc.
+- 🧠 Each year's README (auto-generated) groups tools by **track category** such as `Red Teaming`, `OSINT`, `Reverse Engineering`, etc.
 - 📝 Each tool is defined by a structured `.json` file including:
   - Tool Name
   - Description
@@ -86,7 +86,8 @@ We welcome community contributions to make this list better!
    tools/{LOCATION}/{YEAR}/tool-name.json
    ```
 2. Follow the [CONTRIBUTING.md](CONTRIBUTING.md) for format guidelines.
-3. Submit a pull request.
+3. Run `python3 AutoReadme.py` to regenerate the README files.
+4. Submit a pull request.
 
 > ⚠️ Keep content concise and correctly categorized. Badges and README entries are auto-generated.
 

@@ -5,9 +5,22 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(git push)",
+      "Bash(git push:*)",
+      "Bash(git push origin main)",
       "Bash(python3:*)",
       "Bash(git pull:*)",
-      "Bash(git stash:*)"
+      "Bash(git stash:*)",
+      "WebSearch",
+      "Bash(gh api:*)",
+      "Bash(gh search repos:*)",
+      "Bash(python AutoReadme.py:*)",
+      "Bash(gh search code:*)",
+      "Bash(gh repo list:*)",
+      "Bash(gh repo view:*)",
+      "Bash(git status:*)",
+      "Bash(python3 *)",
+      "Bash(cd *)",
+      "Bash(cd arsenal-builder *)"
     ]
   }
 }

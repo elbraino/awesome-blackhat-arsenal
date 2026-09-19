@@ -1,6 +1,6 @@
 {
   "Tool Name": "Taintless",
-  "Speakers": null,
+  "Speakers": [],
   "Tracks": [
     "Web AppSec"
   ],

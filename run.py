@@ -1,12 +1,13 @@
 # run.py — One-click script to go from scraped data to auto-generated README
 
 import os
+import sys
 import subprocess
 
 # -----------------------------
 # ✅ CONFIGURATION
 # -----------------------------
-REGION = "Canada"  # Change this to "Europe", "USA", "Asia", etc.
+REGION = sys.argv[1] if len(sys.argv) > 1 else "USA"  # e.g. python run.py Europe
 SCRAPE_MODE = "modern"  # Options: "modern" or "legacy"
 
 # Folder paths (can be customized if needed)
@@ -24,10 +25,10 @@ steps = [
     ("🔎 Step 1: Scraping Event Schedule Pages", f"python {SCRAPE_SCRIPT}"),
     ("🗂️ Step 2: Adding Year & Country", "python arsenal-builder/update_metadata_fields.py"),
     ("🔄 Step 3: Splitting Tools into Individual Files", "python arsenal-builder/split_tools_to_individual_files.py"),
-    ("📊 Step 4: Predicting Categories with LLM", "python arsenal-builder/CategoryPredictor.py"),
+    ("📊 Step 4: Predicting Categories with LLM", "python arsenal-builder/CategoryPredicter.py"),
     ("🔗 Step 5: Finding GitHub URLs", "python arsenal-builder/add_github_urls.py"),
-    ("📁 Step 6: Flattening Folder Structure (Optional)", "python arsenal-builder/flatten_tool_folders.py"),
-    ("📝 Step 7: Generating Final README Files", "python arsenal-builder/AutoReadme.py")
+    ("📁 Step 6: Flattening Folder Structure (Optional)", "python arsenal-builder/flatten_tool_files.py"),
+    ("📝 Step 7: Generating Final README Files", "python AutoReadme.py")
 ]
 
 print("""
