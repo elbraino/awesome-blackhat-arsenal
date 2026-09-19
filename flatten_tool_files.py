@@ -1,6 +1,6 @@
 import os
+import sys
 import json
-import shutil
 import re
 
 def remove_numbers_prefix(name):
@@ -47,8 +47,9 @@ def process_country_folder(input_root: str, output_root: str, country: str):
             print(f"✅ Processed: {output_file_path}")
 
 if __name__ == "__main__":
+    # Usage: python3 flatten_tool_files.py <Country>   (e.g. Asia)
     input_root = "arsenal-builder"
     output_root = "tools"
-    country = input("Enter country folder name: ").strip()
+    country = sys.argv[1].strip() if len(sys.argv) > 1 else input("Enter country folder name: ").strip()
     
     process_country_folder(input_root, output_root, country)

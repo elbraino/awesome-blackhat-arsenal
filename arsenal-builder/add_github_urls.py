@@ -1,11 +1,15 @@
 import os
 import json
 import requests
+from dotenv import load_dotenv
 
 # ------------------------------------------------------------
-# 🔐 Configuration: Set your Serper.dev API key here
+# 🔐 Configuration: SERPER_API_KEY comes from the environment or .env
 # ------------------------------------------------------------
-SERPER_API_KEY = "add serper api key" # <-- Replace with your actual key
+load_dotenv()
+SERPER_API_KEY = os.getenv("SERPER_API_KEY")
+if not SERPER_API_KEY:
+    raise EnvironmentError("SERPER_API_KEY must be set in the environment or in arsenal-builder/.env")
 HEADERS = {"X-API-KEY": SERPER_API_KEY}
 SEARCH_URL = "https://google.serper.dev/search"
 

@@ -60,7 +60,7 @@ def split_folder_to_individual_json_objects(input_folder, output_folder):
 # 🚀 Entry point — customize input/output folders below
 # ------------------------------------------------------------
 if __name__ == "__main__":
-    input_folder = r"Data\Asia"        # Folder with multi-tool JSON files
-    output_folder = r"Asia\2023"            # Output folder for individual tool JSONs
+    input_folder = "Data/Asia"        # Folder with multi-tool JSON files
+    output_folder = "Asia/2023"            # Output folder for individual tool JSONs
 
     split_folder_to_individual_json_objects(input_folder, output_folder)

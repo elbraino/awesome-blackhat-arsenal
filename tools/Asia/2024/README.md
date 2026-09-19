@@ -527,7 +527,7 @@ The AI VPN is designed as a modular collection of micro-services using Docker te
 
 ![Asia 2024](https://img.shields.io/badge/Asia%202024-green) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Colin Constable](https://img.shields.io/badge/Colin%20Constable-informational)
 
-🔗 **Link:** [Connect to any device from anywhere with ZERO OPEN NETWORK PORTS](https://github.com/cconstab?tab=repositories)  
+🔗 **Link:** [Connect to any device from anywhere with ZERO OPEN NETWORK PORTS](https://github.com/cconstab)  
 📝 **Description:** Imagine connecting to a device remotely from anywhere on the planet without having to open any network ports on either end - that translates to having ZERO NETWORK ATTACK SURFACES.
 
 This is made possible with Atsign's open source No Ports Product suite which is build on the patented Networking 2.0 technology.
@@ -727,7 +727,7 @@ Tool features:
 ![Asia 2024](https://img.shields.io/badge/Asia%202024-green) ![Category: 🧠 Reverse Engineering](https://img.shields.io/badge/Category:%20🧠%20Reverse%20Engineering-orange) ![Yohann Sillam](https://img.shields.io/badge/Yohann%20Sillam-informational)
 
 🔗 **Link:** [.NET Unpacking: When Frida Gets the JIT out of It](https://github.com/imperva/frida-jit-unpacker)  
-📝 **Description:** None
+📝 **Description:** Frida-based tool that hooks the .NET JIT compiler to dump the original IL of packed or obfuscated .NET assemblies as their methods are compiled, so protected samples can be unpacked at runtime without a static unpacker.
 
 </details>
 

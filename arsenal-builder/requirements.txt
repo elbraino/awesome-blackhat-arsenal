@@ -5,8 +5,12 @@ selenium>=4.20.0
 beautifulsoup4>=4.12.3
 requests>=2.31.0
 
-# For loading .env (if used for keys in future)
+# For loading API keys from .env (CategoryPredicter.py, add_github_urls.py)
 python-dotenv>=1.0.1
+
+# LLM category prediction (CategoryPredicter.py)
+openai>=1.30.0
+google-generativeai>=0.7.0
 
 # Optional: JSON pretty print fallback
 orjson; platform_system != "Windows"

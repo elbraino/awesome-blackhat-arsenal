@@ -76,7 +76,7 @@ Use one or more of the following **valid track names** (exact spelling, no `Trac
 * Human Factors
 * Arsenal Lab
 
-If a tool doesn’t fit into any of these tracks, simply omit the `Tracks` field, and it will be placed in the `Others` section.
+If a tool doesn’t fit into any of these tracks, use an empty list (`"Tracks": []`) and it will be placed in the `Others` section. When a tool has several tracks, **the first one listed decides which section it appears under** in the generated README.
 
 ---
 
@@ -84,8 +84,10 @@ If a tool doesn’t fit into any of these tracks, simply omit the `Tracks` field
 
 Once you add a JSON file:
 
-* **Validate the JSON format**: Ensure that the file opens without errors in a JSON linter.
-* **README generation**: Run `python3 AutoReadme.py` from the repo root to regenerate the README files, and commit the result (or submit a PR, and we’ll handle it for you).
+* **Validate**: run `python3 scripts/validate.py` from the repo root. It checks every file for required keys, valid track names, well-formed URLs, and that `Year`/`Location` match the folder. It must report **0 errors** (warnings are fine).
+* **README generation**: run `python3 AutoReadme.py` from the repo root to regenerate the README files, and commit the result.
+
+CI runs both checks on every pull request and fails if the READMEs are out of date.
 
 ---
 

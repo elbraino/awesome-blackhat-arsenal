@@ -3,7 +3,6 @@ import re
 import json
 import argparse
 from collections import defaultdict
-from datetime import datetime
 
 # -------------------------------
 # 🔧 Configuration & Constants
@@ -107,10 +106,9 @@ if event_filter:
 # -------------------------------
 # 🏠 Generate Main README Header
 # -------------------------------
-now = datetime.now()
-last_update = now.strftime("%B %Y").replace(" ", "%20")
+TOOL_COUNT_PLACEHOLDER = "{{TOOL_COUNT}}"  # filled in after all tools are counted
 main_readme = [
-    f"# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Last Update](https://img.shields.io/badge/Updated-{last_update}-blue)](https://github.com/elbraino/awesome-blackhat-arsenal)",
+    f"# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Tools](https://img.shields.io/badge/Tools-{TOOL_COUNT_PLACEHOLDER}-blue)](#locations)",
     "[![Project Logo](logo.png)](https://www.blackhat.com/html/arsenal.html)",
     "> 🚀 A curated list of cutting-edge cybersecurity tools showcased at the Black Hat Arsenal events — covering offensive, defensive, and research-focused security utilities.",
     "",
@@ -140,6 +138,7 @@ if not os.path.isdir(ROOT_DIR):
 
 locations = sorted(os.listdir(ROOT_DIR))
 locations_to_edit = [event_filter] if event_filter else locations
+total_tools = 0
 
 # -------------------------------
 # 📁 Traverse All Locations & Years (optionally filtered)
@@ -159,9 +158,9 @@ for location in locations:
         if not os.path.isdir(year_path):
             continue
 
-        # Use full-length links
-        rel_readme = f"https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/{ROOT_DIR}/{location}/{year}/README.md"
-        main_readme.append(f"- [{year}]({rel_readme})")
+        year_tool_count = sum(1 for f in os.listdir(year_path) if f.endswith(".json"))
+        total_tools += year_tool_count
+        main_readme.append(f"- [{year}]({ROOT_DIR}/{location}/{year}/README.md) — {year_tool_count} tools")
 
         # Skip README edit/creation if not in 'locations_to_edit'
         if location not in locations_to_edit or year not in years_to_edit:
@@ -282,4 +281,4 @@ main_readme.extend([
 
 # 💾 Write Main README
 with open(MAIN_README, "w", encoding="utf-8") as f:
-    f.write("\n".join(main_readme))
+    f.write("\n".join(main_readme).replace(TOOL_COUNT_PLACEHOLDER, str(total_tools)))

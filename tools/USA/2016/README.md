@@ -19,7 +19,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![USA 2016](https://img.shields.io/badge/USA%202016-black) ![Category: ⚙️ Miscellaneous / Lab Tools](https://img.shields.io/badge/Category:%20⚙️%20Miscellaneous%20/%20Lab%20Tools-gray) ![Daniel Martin](https://img.shields.io/badge/Daniel%20Martin-informational)
 
-🔗 **Link:** [Dradis Framework](https://github.com/dradis/dradis-burp;)  
+🔗 **Link:** [Dradis Framework](https://github.com/dradis/dradis-burp)  
 📝 **Description:** Dradis is an extensible, cross-platform, open source collaboration framework for InfoSec teams. It can import from over 19 popular tools, including Nessus, Qualys, Burp and Metasploit. Started in 2007 and with over 2000 code commits the Dradis Framework project has been growing ever since. Dradis is the best tool to consolidate the output of different scanners, add your manual findings and evidence and have all the engagement information in one place.Come to see the latest Dradis release in action. It's loaded with updates including new tool, connectors (Metasploit, Brakeman, ...), full REST API coverage, testing methodologies and lots of interface improvements (issue tagging, UX improvements and much more). Come and find out why Dradis is being downloaded over 300 times every week. This year we will make sure to bring enough stickers for everyone!
 
 </details>

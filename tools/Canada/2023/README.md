@@ -48,7 +48,7 @@ By the end of this talk, attendees will have gained practical knowledge in lever
 
 ![Canada 2023](https://img.shields.io/badge/Canada%202023-purple) ![Category: ⚙️ Miscellaneous / Lab Tools](https://img.shields.io/badge/Category:%20⚙️%20Miscellaneous%20/%20Lab%20Tools-gray) ![Pedram Hayati](https://img.shields.io/badge/Pedram%20Hayati-informational)
 
-🔗 **Link:** [Attack & Defence AppSec Wargame](https://github.com/pi3ch?tab=repositories)  
+🔗 **Link:** [Attack & Defence AppSec Wargame](https://github.com/pi3ch)  
 📝 **Description:** SecDim Play is an open training game and toolkit for constructing security challenges covering AppSec, DevSecOps, and CloudSec. It provides a hands-on interactive platform for application security professionals to practice attack and defence scenarios.
 
 </details>
@@ -197,7 +197,7 @@ PowerGuest allows gaining unauthorized access to sensitive business data and cap
 
 ![Canada 2023](https://img.shields.io/badge/Canada%202023-purple) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![datalocaltmp .](https://img.shields.io/badge/datalocaltmp%20.-informational)
 
-🔗 **Link:** [Enhancing Vulnerability Research through the Use of Virtual Reality Workspaces](https://github.com/datalocaltmp?tab=stars)  
+🔗 **Link:** [Enhancing Vulnerability Research through the Use of Virtual Reality Workspaces](https://github.com/datalocaltmp)  
 📝 **Description:** A project exploring the use of virtual reality workspaces to enhance vulnerability research workflows, integrating tools for binary analysis, reverse engineering, and systems-level security research into immersive VR environments.
 
 </details>

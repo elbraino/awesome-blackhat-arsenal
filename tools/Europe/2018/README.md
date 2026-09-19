@@ -508,7 +508,7 @@ IoXT Hunter also supports writing and loading your own plugins extensions. If yo
 
 ![Europe 2018](https://img.shields.io/badge/Europe%202018-blue) ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![JIE FU](https://img.shields.io/badge/JIE%20FU-informational) ![Mingchuang Qin](https://img.shields.io/badge/Mingchuang%20Qin-informational) ![Kunzhe Chai](https://img.shields.io/badge/Kunzhe%20Chai-informational)
 
-🔗 **Link:** [PandaWar: Hardware Security Multidimensional Attack and Defense Toolset](https://github.com/Ming-Qin-tech?tab=repositories)  
+🔗 **Link:** [PandaWar: Hardware Security Multidimensional Attack and Defense Toolset](https://github.com/Ming-Qin-tech)  
 📝 **Description:** This is a hardware attack and defense tool platform. It will help you quickly master and implement a variety of hardware attack methods.
 
 It includes ultrasonic attacks, RFID attacks, power side channel attacks, and radio defense etc.

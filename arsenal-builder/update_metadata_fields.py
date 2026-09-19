@@ -10,14 +10,14 @@ region_map = {
     "Europe": ("eu", "Europe"),
     "USA": ("us", "USA"),
     "Asia": ("asia", "Asia"),
-    "Data\Asia": ("asia", "Asia"),
+    "Data/Asia": ("asia", "Asia"),
     "Canada": ("sector", "Canada")
 }
 
 # ------------------------------------------------------------
 # 📁 Set your working directory here (must match a region_map key)
 # ------------------------------------------------------------
-folder_path = "Data\Asia"  # Change this to "Europe", "USA", etc. as needed
+folder_path = "Data/Asia"  # Change this to "Europe", "USA", etc. as needed
 
 # Validate folder
 if folder_path not in region_map:

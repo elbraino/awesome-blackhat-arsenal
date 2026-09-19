@@ -1,0 +1,34 @@
+name: Validate
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate tool JSON files
+        run: python3 scripts/validate.py
+
+      - name: Run validator tests
+        run: python3 -m unittest scripts/test_validate.py
+
+      - name: Check generated READMEs are up to date
+        run: |
+          python3 AutoReadme.py
+          if ! git diff --quiet; then
+            echo "::error::README files are out of date. Run 'python3 AutoReadme.py' and commit the result."
+            git --no-pager diff --stat
+            exit 1
+          fi
