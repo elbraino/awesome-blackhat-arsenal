@@ -59,23 +59,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 ![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-blue) ![Lior Kaplan](https://img.shields.io/badge/Lior%20Kaplan-informational) ![Ravid Mazon](https://img.shields.io/badge/Ravid%20Mazon-informational)
 
 🔗 **Link:** [c{api}tal - Learn OWASP API Security Top 10 by playing with vulnerable by design application](https://github.com/Checkmarx/capital)  
-📝 **Description:** APIs are a critical part of modern mobile, SaaS, and web applications and can be found in customer-facing, partner-facing, and internal applications.
-
-By nature, APIs expose application logic and sensitive data, potentially leading to data breaches, account takeovers, and much more.
-
-Because of this, APIs have increasingly become a target for attackers. Without secure APIs, organizations would face many security risks and rapid innovation would be impossible.
-
-It is extremely important to be aware of the OWASP API top 10 risks and enforce proper API security mitigations for your APIs. Therefore, we developed c{api}tal - an Open Source API training and learning platform by Checkmarx.
-
-c{api}tal is a built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF.
-
-In DefCon30, 2022, we first introduced c{api}tal to the world by conducting an API security CTF event to allow users to learn about the API security top 10 risks and exploit them in an isolated, vulnerable platform. Now we're open sourcing it.
-
-In this session, you will learn about:
-- The OWASP API top 10 risks
-- c{api}tal overview
-- Demo of exploiting one of the OWASP API top 10 risks
-- How to mitigate API risks to keep your APIs safe
+📝 **Description:** APIs are a critical part of modern mobile, SaaS, and web applications and can be found in customer-facing, partner-facing, and internal applications. By nature, APIs expose application logic and sensitive data, potentially leading to data breaches, account takeovers, and much more. Because of this, APIs have increasingly become a target for attackers. Without secure APIs, organizations would face many security risks and rapid innovation would be impossible. It is extremely important to be aware of the OWASP API top 10 risks and enforce proper API security mitigations for your APIs. Therefore, we developed c{api}tal - an Open Source API training and learning platform by Checkmarx. c{api}tal is a built-to-be-vulnerable API application based on the OWASP top 10 API vulnerabilities. Use c{api}tal to learn, train and exploit API Security vulnerabilities within your own API Security CTF. In DefCon30, 2022, we first introduced c{api}tal to the world by conducting an API security CTF event to allow users to learn about the API security top 10 risks and exploit them in an isolated, vulnerable platform. Now we're open sourcing it. In this session, you will learn about: - The OWASP API top 10 risks - c{api}tal overview - Demo of exploiting one of the OWASP API top 10 risks - How to mitigate API risks to keep your APIs safe
 
 </details>
 
@@ -97,18 +81,7 @@ In this session, you will learn about:
 ![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 📱 Mobile Security](https://img.shields.io/badge/Category:%20📱%20Mobile%20Security-yellow) ![ade saputra](https://img.shields.io/badge/ade%20saputra-informational)
 
 🔗 **Link:** [hacking tools](https://github.com/mishakorzik/AllHackingTools)  
-📝 **Description:** 1. COUNTABLE NOUN
-A tool is any instrument or a simple piece of equipment that you hold in your hands and use to do a particular kind of work. For example, spades, hammers, and knives are all tools.
-I find the best tool for this purpose is a pair of shears.
-Synonyms: implement, device, appliance, apparatus More Synonyms of tool
-2. See also the machine tool
-3. COUNTABLE NOUN
-
-You can refer to anything that you use for a particular purpose as a particular type of tool.
-Writing is a good tool for discharging overwhelming feelings.
-The computer has become an invaluable teaching tool.
-The threat of bankruptcy is a legitimate tool to extract money from them.
-Synonyms: means, the agency [old-fashioned], vehicle, medium More Synonyms of tool
+📝 **Description:** 1. COUNTABLE NOUN A tool is any instrument or a simple piece of equipment that you hold in your hands and use to do a particular kind of work. For example, spades, hammers, and knives are all tools. I find the best tool for this purpose is a pair of shears. Synonyms: implement, device, appliance, apparatus More Synonyms of tool 2. See also the machine tool 3. COUNTABLE NOUN You can refer to anything that you use for a particular purpose as a particular type of tool. Writing is a good tool for discharging overwhelming feelings. The computer has become an invaluable teaching tool. The threat of bankruptcy is a legitimate tool to extract money from them. Synonyms: means, the agency [old-fashioned], vehicle, medium More Synonyms of tool
 
 </details>
 
@@ -117,13 +90,7 @@ Synonyms: means, the agency [old-fashioned], vehicle, medium More Synonyms of to
 ![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 📱 Mobile Security](https://img.shields.io/badge/Category:%20📱%20Mobile%20Security-yellow) ![Taichi Kotake](https://img.shields.io/badge/Taichi%20Kotake-informational)
 
 🔗 **Link:** [Ipa-medit: Memory modification tool for iOS apps without Jailbreaking](https://github.com/sterrasec/ipa-medit)  
-📝 **Description:** Ipa-medit is a memory search and patch tool for resigned ipa without jailbreaking. It supports iOS apps running on iPhone and Apple Silicon Mac. It was created for mobile game security testing. Many mobile games have jailbreak detection, but ipa-medit does not require jailbreaking, so memory modification can be done without bypassing the jailbreak detection.
-
-Memory modification is the easiest way to cheat in games, it is one of the items to be checked in the security test. There are also cheat tools that can be used casually like GameGem and iGameGuardian. However, there were no tools available for un-jailbroken device and CUI, Apple Silicon Mac. So I made it as a security testing tool.
-
-I presented a memory modification tool ipa-medit which I presented at Black Hat USA 2021 Arsenal. At that time, it could only target iOS apps running on iPhone, but now it supports iOS apps running on the Apple Silicon Mac. The Apple Silicon Mac was recently released and allows you to run iOS apps on macOS. For memory modification, I'll explain how the implementation and mechanisms are different for iOS apps running on iPhone or Apple Silicon Mac.
-
-GitHub: https://github.com/aktsk/ipa-medit
+📝 **Description:** Ipa-medit is a memory search and patch tool for resigned ipa without jailbreaking. It supports iOS apps running on iPhone and Apple Silicon Mac. It was created for mobile game security testing. Many mobile games have jailbreak detection, but ipa-medit does not require jailbreaking, so memory modification can be done without bypassing the jailbreak detection. Memory modification is the easiest way to cheat in games, it is one of the items to be checked in the security test. There are also cheat tools that can be used casually like GameGem and iGameGuardian. However, there were no tools available for un-jailbroken device and CUI, Apple Silicon Mac. So I made it as a security testing tool. I presented a memory modification tool ipa-medit which I presented at Black Hat USA 2021 Arsenal. At that time, it could only target iOS apps running on iPhone, but now it supports iOS apps running on the Apple Silicon Mac. The Apple Silicon Mac was recently released and allows you to run iOS apps on macOS. For memory modification, I'll explain how the implementation and mechanisms are different for iOS apps running on iPhone or Apple Silicon Mac. GitHub: https://github.com/aktsk/ipa-medit
 
 </details>
 
@@ -143,11 +110,7 @@ GitHub: https://github.com/aktsk/ipa-medit
 ![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Moshe Zioni](https://img.shields.io/badge/Moshe%20Zioni-informational)
 
 🔗 **Link:** [SCMPrey: Supply Chain Reconstruction Tool](https://github.com/checkmarx-ts/cx-supply-chain-toolkit)  
-📝 **Description:** Introducing SCMPrey, a threat intelligence tool to be used by either red or blue teams that would like to reconstruct and map-out repositories supply chain infrastructure, CI/CD system, build environment, packaged dependencies etc.
-
-By consuming code repositories, looking for indicators of usage and propagation within the code base and the SCM system that holds the data, enacting post-processing and contextual reconstruction of the data in order to form a thorough reconstruction of the supply chain infrastracture components, configuration and automations in place.
-
-With this knowledge - ethical hackers will be able to spot attack surface and home on designated attack targets of interest, spot weak points and low-hanging fruit; on the other - blue team will be able to spot the same weaknesses to enable them to form a solid threat model and hardening needs to fortify said infrastructure and implementations.
+📝 **Description:** Introducing SCMPrey, a threat intelligence tool to be used by either red or blue teams that would like to reconstruct and map-out repositories supply chain infrastructure, CI/CD system, build environment, packaged dependencies etc. By consuming code repositories, looking for indicators of usage and propagation within the code base and the SCM system that holds the data, enacting post-processing and contextual reconstruction of the data in order to form a thorough reconstruction of the supply chain infrastracture components, configuration and automations in place. With this knowledge - ethical hackers will be able to spot attack surface and home on designated attack targets of interest, spot weak points and low-hanging fruit; on the other - blue team will be able to spot the same weaknesses to enable them to form a solid threat model and hardening needs to fortify said infrastructure and implementations.
 
 </details>
 
@@ -156,8 +119,7 @@ With this knowledge - ethical hackers will be able to spot attack surface and ho
 ![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Ivan Iushkevich](https://img.shields.io/badge/Ivan%20Iushkevich-informational)
 
 🔗 **Link:** [shrewdeye - low hanging OSINT and reconnaissance](https://github.com/zzzteph/sheye)  
-📝 **Description:** The vulnerability searching process requires a lot of time. If you want to cover all the perimeter in an appropriate amount of time and get valuables, automation of routines is one of the cornerstones, that will help you to focus on more complex things.
-shrewdeye - opensource web platform for continuous reconnaissance. It allows you to combine other tools in chain to automate your perimeter workflow reconnaissance. It comes with built-in modules for famous tools like amass, assetfinder, subfinder, gau, nmap and others.
+📝 **Description:** The vulnerability searching process requires a lot of time. If you want to cover all the perimeter in an appropriate amount of time and get valuables, automation of routines is one of the cornerstones, that will help you to focus on more complex things. shrewdeye - opensource web platform for continuous reconnaissance. It allows you to combine other tools in chain to automate your perimeter workflow reconnaissance. It comes with built-in modules for famous tools like amass, assetfinder, subfinder, gau, nmap and others.
 
 </details>
 
@@ -177,11 +139,7 @@ shrewdeye - opensource web platform for continuous reconnaissance. It allows you
 ![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Baris Akkaya](https://img.shields.io/badge/Baris%20Akkaya-informational)
 
 🔗 **Link:** [Dragnmove: Infect Shared Files In Memory for Lateral Movement](https://github.com/occamsxor/dragnmove)  
-📝 **Description:** People share files with each other every day using different applications like email clients, chat applications, browsers, etc. These channels are commonly used for lateral movement usually in the context of internal phishing. Dragnmove tool provides a different approach to abuse file sharing in order to move laterally in the target environment. Dragnmove can be used to inject payloads into the files that are being sent without touching the files in the file system.
-
-The tool works on Windows targets and can be executed as Beacon Object File (BOF) or Reflective DLL in order to work with various C2 servers. Dragnmove injects itself into the target processes that the attacker chooses and waits for the user to drag a file into this process or attach a file to it.
-
-When a compromised user starts the sharing process, Dragnmove can modify files in memory to inject the attacker's payload into the shared files by hooking the Windows mechanisms used by actions like "drag and drop" or "attach file". This method provides a better opportunity for the attackers to get their payloads executed in the lateral targets because the files sent will be relevant to the targets' contexts. Since the context and sender are relevant, it is more possible that the target sees this file as trustable and opens it. Dragnmove can also be used in environments where the targets are working in different locations or in isolated networks (like working from home) so the usual lateral movement methods cannot be utilized.
+📝 **Description:** People share files with each other every day using different applications like email clients, chat applications, browsers, etc. These channels are commonly used for lateral movement usually in the context of internal phishing. Dragnmove tool provides a different approach to abuse file sharing in order to move laterally in the target environment. Dragnmove can be used to inject payloads into the files that are being sent without touching the files in the file system. The tool works on Windows targets and can be executed as Beacon Object File (BOF) or Reflective DLL in order to work with various C2 servers. Dragnmove injects itself into the target processes that the attacker chooses and waits for the user to drag a file into this process or attach a file to it. When a compromised user starts the sharing process, Dragnmove can modify files in memory to inject the attacker's payload into the shared files by hooking the Windows mechanisms used by actions like "drag and drop" or "attach file". This method provides a better opportunity for the attackers to get their payloads executed in the lateral targets because the files sent will be relevant to the targets' contexts. Since the context and sender are relevant, it is more possible that the target sees this file as trustable and opens it. Dragnmove can also be used in environments where the targets are working in different locations or in isolated networks (like working from home) so the usual lateral movement methods cannot be utilized.
 
 </details>
 
@@ -217,17 +175,7 @@ When a compromised user starts the sharing process, Dragnmove can modify files i
 ![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Or Katz](https://img.shields.io/badge/Or%20Katz-informational)
 
 🔗 **Link:** [JavaScript Obfuscation - It's All About the P-a-c-k-e-r-s](https://github.com/javascript-obfuscator/javascript-obfuscator)  
-📝 **Description:** The usage of JavaScript obfuscation techniques have become prevalent in today's threats, from phishing pages, to Magecart, and supply chain injection to JavaScript malware droppers all use JavaScript obfuscation techniques on some level.
-
-The usage of JavaScript obfuscation enables evasion from detection engines and poses a challenge to security professionals, as it hinders them from getting quick answers on the functionality of the examined source code.
-
-Deobfuscation can be technically challenging (sometimes), risky (if you don't know what you are doing), and time consuming (if you are lazy, as I am). Yet, the need to find and analyze high scaled massive attacks using JavaScript obfuscation is a task I'm faced with on a daily basis.
-
-In this arsenal showcase I will present a lazy, performance cost effective approach, focusing on the detection of JavaScript packer templates. Once combined with threat intelligence heuristics, this approach can predict the maliciousness level of JavaScript with high probability of accuracy.
-
-In addition, the showcase will include insights based on detections of the tool that were collected from the threat landscape, including some of the challenges associated with benign websites using obfuscation.
-
-The showcase will also suggest techniques showing how the tool obfuscation detection can also be combined with other threat intelligence signals and heuristics, that can lead to better classification of detect obfuscated code as being malicious.
+📝 **Description:** The usage of JavaScript obfuscation techniques have become prevalent in today's threats, from phishing pages, to Magecart, and supply chain injection to JavaScript malware droppers all use JavaScript obfuscation techniques on some level. The usage of JavaScript obfuscation enables evasion from detection engines and poses a challenge to security professionals, as it hinders them from getting quick answers on the functionality of the examined source code. Deobfuscation can be technically challenging (sometimes), risky (if you don't know what you are doing), and time consuming (if you are lazy, as I am). Yet, the need to find and analyze high scaled massive attacks using JavaScript obfuscation is a task I'm faced with on a daily basis. In this arsenal showcase I will present a lazy, performance cost effective approach, focusing on the detection of JavaScript packer templates. Once combined with threat intelligence heuristics, this approach can predict the maliciousness level of JavaScript with high probability of accuracy. In addition, the showcase will include insights based on detections of the tool that were collected from the threat landscape, including some of the challenges associated with benign websites using obfuscation. The showcase will also suggest techniques showing how the tool obfuscation detection can also be combined with other threat intelligence signals and heuristics, that can lead to better classification of detect obfuscated code as being malicious.
 
 </details>
 
@@ -236,18 +184,7 @@ The showcase will also suggest techniques showing how the tool obfuscation detec
 ![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Ismail Melih Tas](https://img.shields.io/badge/Ismail%20Melih%20Tas-informational) ![Neslisah Topcu](https://img.shields.io/badge/Neslisah%20Topcu-informational)
 
 🔗 **Link:** [Mr.SIP: SIP-Based Audit and Attack Tool](https://github.com/meliht/mr.sip)  
-📝 **Description:** Mr.SIP Pro is a comprehensive attack-oriented VoIP product developed to simulate VoIP-based attacks and audit VoIP networks and applications from a security perspective. Originally it was developed to be used in academic work to support developing novel SIP-based attacks and then as an idea to convert it to a fully functional SIP-based penetration testing tool. So far Mr.SIP resulted in several academic research papers and journal articles and won first prizes in various cyber security competitions. Mr.SIP can also be used as a SIP client simulator and SIP traffic generator.
-
-Mr.SIP Pro detects SIP components and existing users on the network, intercepts, filters, and manages call information, reports known vulnerabilities and exploits, develops various TDoS attacks, and cracks user passwords. It has many innovative and competitive features such as high-performance multi-threading, IP spoofing, intelligent SIP message generation, self-hiding, and interception capabilities. Mr.SIP also has a customizable scenario development framework for stateful attacks.
-
-In the current state, the public version of Mr.SIP contains 3 modules; SIP-NES (network scanner), SIP-ENUM (enumerator), and SIP-DAS (DoS attack simulator). The Pro version includes 19 modules in 4 categories; Information Gathering, Vulnerability Scanning, Offensive, and Utility modules as listed below.
-
-Information Gathering Modules: SIP-NES (network scanner), SIP-ENUM (SIP enumerator), SIP-SNIFF (SIP traffic sniffer), SIP-EAVES (call eavesdropper)
-
-Vulnerability Scanning Modules: SIP-VSCAN (vulnerability & exploit scanner), Auto-Deep (automated scanner)
-
-Offensive Modules: SIP-DAS (DoS attack simulator), SIP-MITM (man in the middle attacker), SIP-ASP (attack scenario player), SIP-CRACK (digest authentication cracker), SIP-SIM (signaling manipulator), SIP-FUZZ (protocol fuzzer), RTP-EAVES (media sniffer), RTP-MIM (media manipulator), RTP-Robo (robocall/SPIT attacker), RTP-DTMF (DTMF stealer)
-Utility Modules: IP Spoofing Engine, Message Generator, GUI
+📝 **Description:** Mr.SIP Pro is a comprehensive attack-oriented VoIP product developed to simulate VoIP-based attacks and audit VoIP networks and applications from a security perspective. Originally it was developed to be used in academic work to support developing novel SIP-based attacks and then as an idea to convert it to a fully functional SIP-based penetration testing tool. So far Mr.SIP resulted in several academic research papers and journal articles and won first prizes in various cyber security competitions. Mr.SIP can also be used as a SIP client simulator and SIP traffic generator. Mr.SIP Pro detects SIP components and existing users on the network, intercepts, filters, and manages call information, reports known vulnerabilities and exploits, develops various TDoS attacks, and cracks user passwords. It has many innovative and competitive features such as high-performance multi-threading, IP spoofing, intelligent SIP message generation, self-hiding, and interception capabilities. Mr.SIP also has a customizable scenario development framework for stateful attacks. In the current state, the public version of Mr.SIP contains 3 modules; SIP-NES (network scanner), SIP-ENUM (enumerator), and SIP-DAS (DoS attack simulator). The Pro version includes 19 modules in 4 categories; Information Gathering, Vulnerability Scanning, Offensive, and Utility modules as listed below. Information Gathering Modules: SIP-NES (network scanner), SIP-ENUM (SIP enumerator), SIP-SNIFF (SIP traffic sniffer), SIP-EAVES (call eavesdropper) Vulnerability Scanning Modules: SIP-VSCAN (vulnerability & exploit scanner), Auto-Deep (automated scanner) Offensive Modules: SIP-DAS (DoS attack simulator), SIP-MITM (man in the middle attacker), SIP-ASP (attack scenario player), SIP-CRACK (digest authentication cracker), SIP-SIM (signaling manipulator), SIP-FUZZ (protocol fuzzer), RTP-EAVES (media sniffer), RTP-MIM (media manipulator), RTP-Robo (robocall/SPIT attacker), RTP-DTMF (DTMF stealer) Utility Modules: IP Spoofing Engine, Message Generator, GUI
 
 </details>
 
@@ -256,11 +193,7 @@ Utility Modules: IP Spoofing Engine, Message Generator, GUI
 ![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Francisco Jose Ramirez Vicente](https://img.shields.io/badge/Francisco%20Jose%20Ramirez%20Vicente-informational) ![Pablo Gonzalez Perez](https://img.shields.io/badge/Pablo%20Gonzalez%20Perez-informational)
 
 🔗 **Link:** [OMLASP - Open Machine Learning Application Security Project](https://github.com/Telefonica/OMLASP)  
-📝 **Description:** Generally, when deploying applications that use Machine Learning or Deep Learning algorithms, only security audits check for common vulnerabilities. However, these algorithms are also exposed to other vulnerabilities or weaknesses that attackers could exploit. A framework, called OMLASP - Open Machine Learning Application Security Project, is being developed to gather a list of attack and mitigation techniques for these algorithms. This Framework aims to become a standard for auditing Machine Learning algorithms and has been divided into the following two sections:
-
-• Security: the attack surface and attack scenarios will be defined and the capabilities and goals of the attackers. The different attack and defense techniques will be described in-depth to define a methodology to perform an audit of these algorithms.
-
-• Biases: the reasons, types, and solutions will be explained in detail to define a methodology to minimize them. This part is still under development.
+📝 **Description:** Generally, when deploying applications that use Machine Learning or Deep Learning algorithms, only security audits check for common vulnerabilities. However, these algorithms are also exposed to other vulnerabilities or weaknesses that attackers could exploit. A framework, called OMLASP - Open Machine Learning Application Security Project, is being developed to gather a list of attack and mitigation techniques for these algorithms. This Framework aims to become a standard for auditing Machine Learning algorithms and has been divided into the following two sections: • Security: the attack surface and attack scenarios will be defined and the capabilities and goals of the attackers. The different attack and defense techniques will be described in-depth to define a methodology to perform an audit of these algorithms. • Biases: the reasons, types, and solutions will be explained in detail to define a methodology to minimize them. This part is still under development.
 
 </details>
 
@@ -269,11 +202,7 @@ Utility Modules: IP Spoofing Engine, Message Generator, GUI
 ![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Furkan Goksel](https://img.shields.io/badge/Furkan%20Goksel-informational)
 
 🔗 **Link:** [Shoggoth: Asmjit Based Polymorphic Encryptor](https://github.com/frkngksl/Shoggoth)  
-📝 **Description:** From past to present, signature-based detection has been one of the first and most basic methods used to detect malicious files. Even today, every file written to the file system is first scanned using the signatures found in the database of security products. Therefore, when creating variants of a tool or a technique, one of the most used methods to prevent them from being captured by a single signature is Polymorphism.
-
-While polymorphism was used for this purpose, it was embedded in the virus variant as an engine, especially in self-propagating viruses. Nowadays, polymorphism occurs in the obfuscation of a binary or a shellcode. New variants of these codes, which are produced with polymorphic encoders such as Shikata Ga Nai (SGN), make them difficult to detect with a general and single YARA rule. Shoggoth is yet another polymorphic encoder written using asmjit library.
-
-For each encoding period of a binary, Shoggoth generates different encryption routines with different garbage instructions. After obtaining the encrypted form of the payload, the tool merges it with its decryptor stub which again contains different garbage instructions. Shoggoth uses asmjit library for assembling the process of randomly generated encryption and garbage instructions.
+📝 **Description:** From past to present, signature-based detection has been one of the first and most basic methods used to detect malicious files. Even today, every file written to the file system is first scanned using the signatures found in the database of security products. Therefore, when creating variants of a tool or a technique, one of the most used methods to prevent them from being captured by a single signature is Polymorphism. While polymorphism was used for this purpose, it was embedded in the virus variant as an engine, especially in self-propagating viruses. Nowadays, polymorphism occurs in the obfuscation of a binary or a shellcode. New variants of these codes, which are produced with polymorphic encoders such as Shikata Ga Nai (SGN), make them difficult to detect with a general and single YARA rule. Shoggoth is yet another polymorphic encoder written using asmjit library. For each encoding period of a binary, Shoggoth generates different encryption routines with different garbage instructions. After obtaining the encrypted form of the payload, the tool merges it with its decryptor stub which again contains different garbage instructions. Shoggoth uses asmjit library for assembling the process of randomly generated encryption and garbage instructions.
 
 </details>
 
@@ -282,28 +211,7 @@ For each encoding period of a binary, Shoggoth generates different encryption ro
 ![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Shivankar Shivankar](https://img.shields.io/badge/Shivankar%20Shivankar-informational)
 
 🔗 **Link:** [ThunderCloud: Attack Cloud Without Keys!](https://github.com/Rnalter/ThunderCloud)  
-📝 **Description:** "You can't audit a cloud environment without access keys!!".
-
-Well. That's not completely true.
-
-There is a good number of tools that help security teams find cloud misconfiguration issues. They work inside-out way where you give read-only access tokens to the tool and the tool gives you misconfigurations.
-
-There's no single tool that helps Red Teamers and Bug Hunters find cloud misconfiguration issues the outside-in way.
-
-This outside-in approach can find issues like:
-
-1. S3 directory listing due to misconfigured Cloudfront settings
-2. Amazon Cognito misconfiguration to generate AWS temporary credentials
-3. Public snapshots
-4. Generate Account takeover Phishing links for AWS SSO
-5. Leaked Keys permission enumeration
-6. IAM role privilege escalation
-a) From leaked keys
-b) Lambda Function
-
-This exploitation framework also helps teams within organizations to do red teaming activities or run it across the accounts to learn more about misconfigurations from AWS and how badly they can be exploited.
-
-ThunderCloud version 2 will now support GCP and Azure exploitation. Additionally will be releasing an open source "CLOUD OFFENSIVE" gitbook along with the same
+📝 **Description:** "You can't audit a cloud environment without access keys!!". Well. That's not completely true. There is a good number of tools that help security teams find cloud misconfiguration issues. They work inside-out way where you give read-only access tokens to the tool and the tool gives you misconfigurations. There's no single tool that helps Red Teamers and Bug Hunters find cloud misconfiguration issues the outside-in way. This outside-in approach can find issues like: 1. S3 directory listing due to misconfigured Cloudfront settings 2. Amazon Cognito misconfiguration to generate AWS temporary credentials 3. Public snapshots 4. Generate Account takeover Phishing links for AWS SSO 5. Leaked Keys permission enumeration 6. IAM role privilege escalation a) From leaked keys b) Lambda Function This exploitation framework also helps teams within organizations to do red teaming activities or run it across the accounts to learn more about misconfigurations from AWS and how badly they can be exploited. ThunderCloud version 2 will now support GCP and Azure exploitation. Additionally will be releasing an open source "CLOUD OFFENSIVE" gitbook along with the same
 
 </details>
 
@@ -370,18 +278,7 @@ ThunderCloud version 2 will now support GCP and Azure exploitation. Additionally
 ![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![chaoxin wan](https://img.shields.io/badge/chaoxin%20wan-informational)
 
 🔗 **Link:** [Mimicry: An Active Deception Tool](https://github.com/chaitin/mimicry)  
-📝 **Description:** In incident response scenarios, intercepting attacks or quarantining backdoors is a common response technique. The adversarial active defense will immediately make the attacker perceive that the intrusion behavior is exposed, and the attacker may try to use defense evasion to avoid subsequent detection. These defense evasion may even result in later attacks going undetected. If we mislead or deceive the attacker into the honeypot, we can better consume the attacker's time cost and gain more response time.
-
-We invented a series of toolkits to deceive attackers during the "kill-chain" . For Example:
-
-Exploitation:
-1. We return success and mislead the attacker into the honeypot for brute-force attacks.
-2. We will simulate the execution of web attack payloads to achieve the purpose of disguising the existence of vulnerabilities in the system.
-
-Command & Control:
-1. For the Webshell scenario, we will replace the Webshell with a proxy and transfer the Webshell to the honeypot. When the attacker accesses Webshell, the proxy will forward his request to the honeypot.
-2. For the reverse shell, we will inject the shell process and forward the attacker's operation to the shell process in the honeypot.
-3. For the backdoor, we will dump the process's memory, resources, etc., and migrate it to the honeypot to continue execution.
+📝 **Description:** In incident response scenarios, intercepting attacks or quarantining backdoors is a common response technique. The adversarial active defense will immediately make the attacker perceive that the intrusion behavior is exposed, and the attacker may try to use defense evasion to avoid subsequent detection. These defense evasion may even result in later attacks going undetected. If we mislead or deceive the attacker into the honeypot, we can better consume the attacker's time cost and gain more response time. We invented a series of toolkits to deceive attackers during the "kill-chain" . For Example: Exploitation: 1. We return success and mislead the attacker into the honeypot for brute-force attacks. 2. We will simulate the execution of web attack payloads to achieve the purpose of disguising the existence of vulnerabilities in the system. Command & Control: 1. For the Webshell scenario, we will replace the Webshell with a proxy and transfer the Webshell to the honeypot. When the attacker accesses Webshell, the proxy will forward his request to the honeypot. 2. For the reverse shell, we will inject the shell process and forward the attacker's operation to the shell process in the honeypot. 3. For the backdoor, we will dump the process's memory, resources, etc., and migrate it to the honeypot to continue execution.
 
 </details>
 
@@ -408,15 +305,7 @@ Command & Control:
 ![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Stefano Chierici](https://img.shields.io/badge/Stefano%20Chierici-informational) ![Lorenzo Susini](https://img.shields.io/badge/Lorenzo%20Susini-informational)
 
 🔗 **Link:** [The Eye of Falco: You can escape but not hide](https://github.com/falcosecurity/falco)  
-📝 **Description:** Container technologies rely on features like namespaces, cgroups, SecComp filters, and capabilities to isolate different services running on the same host. However, SPOILER ALERT: container isolation isn't bulletproof. Similar to other security environments, isolation is followed by red-teamer questions such as, "How can I de-isolate from this?"
-
-Capabilities provide a way to isolate containers, splitting the power of the root user into multiple units. However, having lots of capabilities introduces complexity and a consequent increase of excessively misconfigured permissions and container escape exploits, as we have seen in recently discovered CVEs.
-
-Falco is a CNCF open source container security tool designed to detect anomalous activity in your local machine, containers, and Kubernetes clusters. It taps into Linux kernel system calls and Kubernetes Audit logs to generate an event stream of all system activity. Thanks to its powerful and flexible rules language, Falco will generate security events when it finds malicious behaviors as defined by a customizable set of Falco rules.
-
-The recent Falco update introduced the feature to keep track of all the syscalls that may modify a thread's capabilities, modifying its state accordingly, allowing Falco to monitor capabilities assigned to processes and threads. This new feature allows users to create detection over those malicious misconfigurations and automatically respond by implementing actions to address the issue
-
-In this talk, we explain how you can use Falco to detect and monitor container escaping techniques based on capabilities. We walk through show real-world scenarios based on recent CVEs to show where Falco can help in detection and automatically respond to those behaviors
+📝 **Description:** Container technologies rely on features like namespaces, cgroups, SecComp filters, and capabilities to isolate different services running on the same host. However, SPOILER ALERT: container isolation isn't bulletproof. Similar to other security environments, isolation is followed by red-teamer questions such as, "How can I de-isolate from this?" Capabilities provide a way to isolate containers, splitting the power of the root user into multiple units. However, having lots of capabilities introduces complexity and a consequent increase of excessively misconfigured permissions and container escape exploits, as we have seen in recently discovered CVEs. Falco is a CNCF open source container security tool designed to detect anomalous activity in your local machine, containers, and Kubernetes clusters. It taps into Linux kernel system calls and Kubernetes Audit logs to generate an event stream of all system activity. Thanks to its powerful and flexible rules language, Falco will generate security events when it finds malicious behaviors as defined by a customizable set of Falco rules. The recent Falco update introduced the feature to keep track of all the syscalls that may modify a thread's capabilities, modifying its state accordingly, allowing Falco to monitor capabilities assigned to processes and threads. This new feature allows users to create detection over those malicious misconfigurations and automatically respond by implementing actions to address the issue In this talk, we explain how you can use Falco to detect and monitor container escaping techniques based on capabilities. We walk through show real-world scenarios based on recent CVEs to show where Falco can help in detection and automatically respond to those behaviors
 
 </details>
 
@@ -425,12 +314,7 @@ In this talk, we explain how you can use Falco to detect and monitor container e
 ![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Giovanni Rattaro](https://img.shields.io/badge/Giovanni%20Rattaro-informational) ![Marco Giorgi](https://img.shields.io/badge/Marco%20Giorgi-informational)
 
 🔗 **Link:** [TSURUGI LINUX: DFIR INVESTIGATIONS, MALWARE ANALYSIS AND OSINT ACTIVITIES MADE EASY](https://github.com/project-tsurugi)  
-📝 **Description:** Any DFIR analyst knows that every day in many companies, it doesn't matter the size, it's not easy to perform forensics investigations often due to a lack of internal information (like mastery of all IT architecture, having the logs or the right one...) and ready to use DFIR tools.
-
-As DFIR professionals we have faced these problems many times and so we decided last year to create something that can help those who will need the right tool at the "wrong time" (during a security incident).
-
-And the answer is the Tsurugi Linux project that, of course, can be used also for educational purposes.
-After more than a year since the last release, a Tsurugi Linux special BLACKHAT EDITION with this major release will be shared with the participants before the public release.
+📝 **Description:** Any DFIR analyst knows that every day in many companies, it doesn't matter the size, it's not easy to perform forensics investigations often due to a lack of internal information (like mastery of all IT architecture, having the logs or the right one...) and ready to use DFIR tools. As DFIR professionals we have faced these problems many times and so we decided last year to create something that can help those who will need the right tool at the "wrong time" (during a security incident). And the answer is the Tsurugi Linux project that, of course, can be used also for educational purposes. After more than a year since the last release, a Tsurugi Linux special BLACKHAT EDITION with this major release will be shared with the participants before the public release.
 
 </details>
 
@@ -441,14 +325,7 @@ After more than a year since the last release, a Tsurugi Linux special BLACKHAT 
 ![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![michihiro imaoka](https://img.shields.io/badge/michihiro%20imaoka-informational)
 
 🔗 **Link:** [a bridge to laser beam from IR remote controller](https://github.com/imaoca/irBadUSBbyButton)  
-📝 **Description:** This summer, Michihiro Imaoka presented IR-BadUSB at the Black Hat USA 2022 Arsenal. This IR-BadUSB allows an attacker to control a BadUSB plugged into a target's PC with an infrared remote control. Since this IR-BadUSB uses a household infrared remote control, the attacker and the IR-BadUSB must be within the infrared range of this remote control. Basically, the target and the attacker must be in the same room. Therefore, various improvements have been made to extend the reach of this IR-BadUSB.
-https://github.com/imaoca/irBadUSBbyButton/blob/master/irbadusb.md
-
-This is one such attempt. This is an attempt to extend the limited range of infrared remote control units for home appliances by converting them into laser beams and irradiating them. Let us explain the method. The module that emits the laser beam has a wavelength of 940 nm, the same wavelength as the infrared ray for home appliances.
-The transmitted beam from the infrared remote control for home appliances is received by an infrared receiver such as VS1838B. After adding a 38 KHz subcarrier to the received signal, the laser module is driven by a transistor or similar device.
-Perhaps if IR-BadUSB is located near a window, it would be possible to control IR-BadUSB from outdoors. Even if the IR-BadUSB is not near a window, it may be possible to control other IR-BadUSBs if the IR laser beam is reflected and diffused by something inside the room. Infrared light is invisible to the human eye, so the target will not notice it. The only way to prevent this might be to close the curtains or lower the blinds.
-
-Operating the IR-BadUSB with an infrared laser beam does not require a PC or other large device, since it is a remote control for home appliances. If you have a remote control for home appliances that you have used to operate IR-BadUSB, you can use that remote control. No separate programming is required.
+📝 **Description:** This summer, Michihiro Imaoka presented IR-BadUSB at the Black Hat USA 2022 Arsenal. This IR-BadUSB allows an attacker to control a BadUSB plugged into a target's PC with an infrared remote control. Since this IR-BadUSB uses a household infrared remote control, the attacker and the IR-BadUSB must be within the infrared range of this remote control. Basically, the target and the attacker must be in the same room. Therefore, various improvements have been made to extend the reach of this IR-BadUSB. https://github.com/imaoca/irBadUSBbyButton/blob/master/irbadusb.md This is one such attempt. This is an attempt to extend the limited range of infrared remote control units for home appliances by converting them into laser beams and irradiating them. Let us explain the method. The module that emits the laser beam has a wavelength of 940 nm, the same wavelength as the infrared ray for home appliances. The transmitted beam from the infrared remote control for home appliances is received by an infrared receiver such as VS1838B. After adding a 38 KHz subcarrier to the received signal, the laser module is driven by a transistor or similar device. Perhaps if IR-BadUSB is located near a window, it would be possible to control IR-BadUSB from outdoors. Even if the IR-BadUSB is not near a window, it may be possible to control other IR-BadUSBs if the IR laser beam is reflected and diffused by something inside the room. Infrared light is invisible to the human eye, so the target will not notice it. The only way to prevent this might be to close the curtains or lower the blinds. Operating the IR-BadUSB with an infrared laser beam does not require a PC or other large device, since it is a remote control for home appliances. If you have a remote control for home appliances that you have used to operate IR-BadUSB, you can use that remote control. No separate programming is required.
 
 </details>
 
@@ -457,11 +334,7 @@ Operating the IR-BadUSB with an infrared laser beam does not require a PC or oth
 ![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Weihan Goh](https://img.shields.io/badge/Weihan%20Goh-informational) ![Kin Ping Tse](https://img.shields.io/badge/Kin%20Ping%20Tse-informational) ![Jasmin Yi Yap](https://img.shields.io/badge/Jasmin%20Yi%20Yap-informational) ![Jubilian Hong Yi Ho](https://img.shields.io/badge/Jubilian%20Hong%20Yi%20Ho-informational) ![Daniel Zhonghao Tan](https://img.shields.io/badge/Daniel%20Zhonghao%20Tan-informational) ![Muhamed Fauzi Bin Abbas](https://img.shields.io/badge/Muhamed%20Fauzi%20Bin%20Abbas-informational) ![Arthur Wee Yeong Loo](https://img.shields.io/badge/Arthur%20Wee%20Yeong%20Loo-informational)
 
 🔗 **Link:** [Remote Assessment and Proctoring using Intelligent Devices (RAPID)](https://github.com/vardanagarwal/Proctoring-AI)  
-📝 **Description:** Many educational institutions have adopted online proctoring as a mean to conduct and ensure academic integrity during online assessments, spurred by the pandemic. Most of such remote assessment solutions are closed-source, and requires the installation of various libraries or dependencies; this introduces potential risk for students who would not be able to scrutinize, or have a say as to what is installed on their computers. Being closed source, such solutions can also be slow to react to mala fide actions to tamper and bypass measures put in place to deter cheating. In fact, one only needs to perform cursory searches online to find various ways to defeat some well-known closed-source remote assessment solutions.
-
-To tackle the issue at hand, we introduce a proof of concept, open-source system for remote proctoring that does not require prior installation of any software or libraries. It leverages the Raspberry Pi Zero hardware that is programmed to inject fileless scripts into a Windows system to monitor surface level and internal activities during remote assessments. To deter mala fide attempts to tamper with our solution, we incorporate techniques typically used by malware and C2 infrastructure in the development of our solution, with the ultimate goal of using such techniques for good. Hence at the end of each proctoring session, our solution leaves no trace of its presence or any residue within the proctored environment.
-
-Being a proof-of-concept, we envision extending our solution to support other popular operating systems, as well as capture and analyze more data with greater efficiency.
+📝 **Description:** Many educational institutions have adopted online proctoring as a mean to conduct and ensure academic integrity during online assessments, spurred by the pandemic. Most of such remote assessment solutions are closed-source, and requires the installation of various libraries or dependencies; this introduces potential risk for students who would not be able to scrutinize, or have a say as to what is installed on their computers. Being closed source, such solutions can also be slow to react to mala fide actions to tamper and bypass measures put in place to deter cheating. In fact, one only needs to perform cursory searches online to find various ways to defeat some well-known closed-source remote assessment solutions. To tackle the issue at hand, we introduce a proof of concept, open-source system for remote proctoring that does not require prior installation of any software or libraries. It leverages the Raspberry Pi Zero hardware that is programmed to inject fileless scripts into a Windows system to monitor surface level and internal activities during remote assessments. To deter mala fide attempts to tamper with our solution, we incorporate techniques typically used by malware and C2 infrastructure in the development of our solution, with the ultimate goal of using such techniques for good. Hence at the end of each proctoring session, our solution leaves no trace of its presence or any residue within the proctored environment. Being a proof-of-concept, we envision extending our solution to support other popular operating systems, as well as capture and analyze more data with greater efficiency.
 
 </details>
 
@@ -470,27 +343,7 @@ Being a proof-of-concept, we envision extending our solution to support other po
 ![Europe 2022](https://img.shields.io/badge/Europe%202022-blue) ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![KAI JERN LAU](https://img.shields.io/badge/KAI%20JERN%20LAU-informational) ![MuChen Su](https://img.shields.io/badge/MuChen%20Su-informational) ![Zheng Yu](https://img.shields.io/badge/Zheng%20Yu-informational) ![Anh Quynh NGUYEN](https://img.shields.io/badge/Anh%20Quynh%20NGUYEN-informational)
 
 🔗 **Link:** [Reversing MCU with Firmware Emulation](https://github.com/therealsaumil/emux)  
-📝 **Description:** A microcontroller unit (MCU) is a small computer on a single metal-oxide-semiconductor (MOS) integrated circuit (IC) chip. It is widely used in various types of devices, appliances, automobiles, and many more. Recently MCU security has been raised as a major concern among users and operators, as MCU vulnerabilities can be catastrophic. For this reason, it is important to audit MCU code for security issues. Unfortunately, due to the limited resources on MCU, the on-device test for MCU is not feasible. Besides, there are no emulation solutions able to provide a full instrumentation analysis platform for MCU firmware.
-
-On the other hand, the tight coupling between MCU and hardware peripherals makes it difficult to build an MCU firmware emulator. This greatly hinders the application of dynamic analysis tools in firmware analysis, such as fuzzing.
-
-This talk discusses how we emulated MCU emulation without real peripheral hardware. This requires to model peripheral's registers and interrupts, and implements their internal logic based on the official peripheral documentation and hardware abstraction layer (HAL). We can now emulate widely used MCU chips from top MCU vendors such as STM, Atmel, NXP, and so on. Each of them includes a diverse set of peripherals, including UART, I2C, SPI, ADC, Ethernet, SD Card, Timer, etc.
-
-Upon our emulation, we built several analysis tools for various firmware formats, such as ELF, Binary, and Intel Hex, which are widely used in MCU libraries (RTOS, Arduino, Protocol Stack, etc). We are able to perform advanced tasks, such as:
-
-- Instrument and hijack MCU's activities (e.g, reads and writes to peripherals).
-- Save and restore current peripheral/execution states (e.g. register and interrupts).
-- Supports multi-threaded firmware, such as RTOS.
-- Hijack the interrupts from peripherals, so users can control the scheduling policy of multi-threaded firmware.
-
-To demonstrate the power of our work, we will have live demos to show some exciting cases:
-
-- Emulate MCU with external devices via SPI. UART and I2C
-- Fuzz MCU firmware to find 0days with a customized AFL fuzzer.
-- Password brute forcing for MCU firmware
-- To solve some MCU challenges on CTFs
-
-New code and demo will be released after the talk.
+📝 **Description:** A microcontroller unit (MCU) is a small computer on a single metal-oxide-semiconductor (MOS) integrated circuit (IC) chip. It is widely used in various types of devices, appliances, automobiles, and many more. Recently MCU security has been raised as a major concern among users and operators, as MCU vulnerabilities can be catastrophic. For this reason, it is important to audit MCU code for security issues. Unfortunately, due to the limited resources on MCU, the on-device test for MCU is not feasible. Besides, there are no emulation solutions able to provide a full instrumentation analysis platform for MCU firmware. On the other hand, the tight coupling between MCU and hardware peripherals makes it difficult to build an MCU firmware emulator. This greatly hinders the application of dynamic analysis tools in firmware analysis, such as fuzzing. This talk discusses how we emulated MCU emulation without real peripheral hardware. This requires to model peripheral's registers and interrupts, and implements their internal logic based on the official peripheral documentation and hardware abstraction layer (HAL). We can now emulate widely used MCU chips from top MCU vendors such as STM, Atmel, NXP, and so on. Each of them includes a diverse set of peripherals, including UART, I2C, SPI, ADC, Ethernet, SD Card, Timer, etc. Upon our emulation, we built several analysis tools for various firmware formats, such as ELF, Binary, and Intel Hex, which are widely used in MCU libraries (RTOS, Arduino, Protocol Stack, etc). We are able to perform advanced tasks, such as: - Instrument and hijack MCU's activities (e.g, reads and writes to peripherals). - Save and restore current peripheral/execution states (e.g. register and interrupts). - Supports multi-threaded firmware, such as RTOS. - Hijack the interrupts from peripherals, so users can control the scheduling policy of multi-threaded firmware. To demonstrate the power of our work, we will have live demos to show some exciting cases: - Emulate MCU with external devices via SPI. UART and I2C - Fuzz MCU firmware to find 0days with a customized AFL fuzzer. - Password brute forcing for MCU firmware - To solve some MCU challenges on CTFs New code and demo will be released after the talk.
 
 </details>
 

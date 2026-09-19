@@ -9,7 +9,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/redteamoperations/red-infra-craft",
-  "Description": "RedInfraCraft is a powerful FOSS solution for automating the deployment of powerful red team infrastructures. It streamlines the setup and management of :\n\n- Individual Red Team Components (C2, Payload, Redirector Server etc.)\n- On-premise / Cloud services re-director support\n- Complete Red Team Infrastructure (Redirector Load Balancer C2, Payload server, phishing server etc)\n- Phishing Operations\n- Infrastructure deployment support in AWS, Azure & GCP Cloud including multi-cloud support.\n\nDilute your time to setup Red Team Infrastructure in 5 minutes with RedInfraCraft",
+  "Description": "RedInfraCraft is a powerful FOSS solution for automating the deployment of powerful red team infrastructures. It streamlines the setup and management of : - Individual Red Team Components (C2, Payload, Redirector Server etc.) - On-premise / Cloud services re-director support - Complete Red Team Infrastructure (Redirector Load Balancer C2, Payload server, phishing server etc) - Phishing Operations - Infrastructure deployment support in AWS, Azure & GCP Cloud including multi-cloud support. Dilute your time to setup Red Team Infrastructure in 5 minutes with RedInfraCraft",
   "Year": "2025",
   "Location": "USA"
 }

@@ -10,7 +10,7 @@
   ],
   "Github URL": "https://github.com/spaceraccoon/npm-scan",
   "Event": "BH-ARSENAL",
-  "Description": "An extensible, heuristic-based vulnerability scanning tool for installed npm packages.\n\nActive heuristics-based scanning: quick and easy for anyone to use\n\nImproves/enforces quality of open source coding",
+  "Description": "An extensible, heuristic-based vulnerability scanning tool for installed npm packages. Active heuristics-based scanning: quick and easy for anyone to use Improves/enforces quality of open source coding",
   "Year": "2019",
   "Location": "Asia"
 }
