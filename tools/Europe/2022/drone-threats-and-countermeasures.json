@@ -1,6 +1,6 @@
 {
   "Tool Name": "Drone Threats and Countermeasures",
-  "Description": "A computer vision project focused on discovering, detecting, recognizing, and tracking Unmanned Aerial Vehicle (UAV) targets using RGB and thermal infrared videos, with benchmark datasets and evaluation metrics.",
+  "Description": "Come join us to discover the real-world risks and examples of ever-evolving drone technology (also known as Unmanned Aircraft Systems [UAS]). Due to continuously increasing capabilities and decreased cost of entry, the UAS market continues to experience rapid growth. This is problematic in both national and commercial defense. We will provide our insight into the current threat landscape and where it is heading in the future. Best of all we will discuss and demonstrate the effectiveness of various UAS countermeasures and why some are more effective than others. You won't want to miss this talk.",
   "Github URL": "",
   "Tracks": [
     "Arsenal Lab"

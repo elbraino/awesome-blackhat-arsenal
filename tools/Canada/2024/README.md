@@ -46,7 +46,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · Reverse Engineering · **Event:** Canada 2024  
 🔗 **Link:** Not Available  
-📝 **Description:** A collection of hands-on cybersecurity labs focused on RF hacking, Wi-Fi exploitation, SDR (HackRF), mobile forensics, and Android app testing conducted in isolated lab environments for educational purposes.
+📝 **Description:** Hack your restaurant pager with software defined radio! You'll sniff for control signals from "the restaurant's" transmitter used to trigger other pagers. Then you'll capture a transmission and examine how it's put together. With your understanding of the payload structure, you'll then generate a modified transmission to trigger your own pager. This project will combine low-level waveform analysis with higher level scripting to get the job done.
 
 </details>
 
@@ -282,7 +282,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** AI, ML & Data Science · Vulnerability Assessment · **Event:** Canada 2024  
 🔗 **Link:** Not Available  
-📝 **Description:** A Python library for developing neural network models that predict risk metrics such as probability of failure for kinodynamic systems, enabling risk prediction for autonomous systems operating in complex environments.
+📝 **Description:** As organizations increasingly rely on third-party vendors and service providers, the risk of data breaches originating from external partners has become a critical concern. Traditional approaches to data security often overlook the cumulative-risk from the complex network of third-party relationships that can expose sensitive information to potential cyber threats. The derived calculation leverages a range of factors, including vendor cybersecurity posture, historical breach data, and the nature of data shared, to provide a predictive probability for each third-party entity. Through the application of regression analysis and risk modeling techniques, this framework enables organizations to better assess and prioritize their third-party risks, offering a more data-driven approach to mitigating potential exposures. The derived calculation provides a structured approach to calculate the probability of third-party cyber risks.
 
 </details>
 

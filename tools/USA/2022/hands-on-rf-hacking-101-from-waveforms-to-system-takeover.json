@@ -1,6 +1,6 @@
 {
   "Tool Name": "Hands-on RF Hacking 101: From Waveforms to System Takeover",
-  "Description": "A collection of hands-on cybersecurity lab materials covering RF hacking, wireless security, and SDR signal manipulation using tools like HackRF One, designed for practical training in radio frequency security assessment.",
+  "Description": "This is RF hacking from end to end! You'll work through all the stages of reversing a basic radio system and building your own transmitter to take control. On the receive side, this includes finding the signal, capturing it and breaking it down into bits. You'll then build a transmitter to take over the original target, as well as iteratively attacking an additional target with the same protocol but different address. We'll keep things pretty low-level in this project, so you'll get a great view of how the nuts-and-bolts of RF hacking really work.",
   "Github URL": "",
   "Tracks": [
     "Arsenal Lab"

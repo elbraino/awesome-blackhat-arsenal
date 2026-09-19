@@ -1,6 +1,6 @@
 {
   "Tool Name": "Hacking the Digital Drone License Plate",
-  "Description": "A pentesting framework built on sploitkit that provides a Metasploit-like console interface for conducting security assessments on commercial drones, bundling drone hacking techniques and exploits into an organized CLI tool.",
+  "Description": "This game is designed to explore a variety of proposed drone identification protocols, so called UAS Remote ID systems. Your goal will be to find a weakness in a variety Remote ID protocols and exploit it by (generally) forging a message that a receiver will accept as valid. There are eight levels (0-7), where each represents some simulacrum of an existing protocol, a proposed protocol, or an amalgamation of both. Point being: pretty much everything out there is, has been, or can be broken. Requirements: Players will need some sort of device on which they can write and run some basic code and have a connection to the internet. That's basically it. There are no restrictions on the toolset, though you will find languages that support HTTP POST requests, JSON parsing, and cryptographic operations to be very helpful.",
   "Github URL": "",
   "Tracks": [
     "Arsenal Lab"

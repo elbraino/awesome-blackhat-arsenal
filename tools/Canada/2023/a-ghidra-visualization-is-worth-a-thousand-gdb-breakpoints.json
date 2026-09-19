@@ -1,6 +1,6 @@
 {
   "Tool Name": "A Ghidra Visualization is worth a Thousand GDB breakpoints",
-  "Description": "GhidraMCP is a Model Context Protocol server that allows LLMs to autonomously reverse engineer applications. It bridges Ghidra with AI systems, enabling automated binary analysis, method renaming, and code examination through standardized MCP connections.",
+  "Description": "Whether reverse engineering malware, debugging an application, or researching device security; being able to quickly gain a deep understanding of the project at hand is a huge advantage. This arsenal showcase aims to provide a practical guide to producing visualizations of native code execution within Ghidra to better direct time and efforts (and prevent setting endless breakpoints). I will be demoing the current opensource tool stack for code execution visualization (Ghidra + Frida + DragonDance + Lighthouse), and how they practically work together to visualize Android Application execution. I will then describe the limitations of the current tooling and the necessity I saw to develop my own tool. This tool specifically extends the code coverage to Non-rooted Android devices and Android non-app processes. I will then demo using my version of the coverage collection tool for Non-Rooted Android devices, specifcally by generating visualizations of native code executing on a Quest 2 VR headset.",
   "Github URL": "",
   "Tracks": [
     "Reverse Engineering"

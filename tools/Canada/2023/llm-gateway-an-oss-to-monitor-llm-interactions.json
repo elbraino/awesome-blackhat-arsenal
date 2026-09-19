@@ -1,6 +1,6 @@
 {
   "Tool Name": "LLM Gateway – an OSS to Monitor LLM Interactions",
-  "Description": "LLM Gateway is an open-source API gateway that routes requests to multiple LLM providers while providing unified management of API keys, usage tracking, and performance analytics across different AI services.",
+  "Description": "As the LLM landscape evolves businesses will need tools to help monitor and mitigate vulnerabilities these new technologies introduce. The LLM Gateway Framework acts as a proxy, frontend, and logging services to monitor and manage LLM interactions across any providers.",
   "Github URL": "",
   "Tracks": [
     "Vulnerability Assessment"

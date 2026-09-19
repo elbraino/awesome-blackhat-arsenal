@@ -1,6 +1,6 @@
 {
   "Tool Name": "UART Brute Forcing",
-  "Description": "A Python script that brute-forces login credentials via a serial (UART) connection on embedded devices.",
+  "Description": "With the growth of embedded systems the ability to exploit UART has become a key component of a Hardware Vulnerability Assessment. This tool focuses on Bute Forcing UART connections on embedded devices. It allow uses to define a brute forcing process for a wide variety of embedded systems.",
   "Github URL": "",
   "Tracks": [
     "Hardware/Embedded"

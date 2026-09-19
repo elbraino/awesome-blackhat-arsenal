@@ -172,7 +172,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** AI, ML & Data Science · **Event:** MEA 2024  
 🔗 **Link:** Not Available  
-📝 **Description:** An open-source AIOps and alert management platform that centralizes alerts from 100+ monitoring tools, provides AI-powered correlation and deduplication, and enables workflow automation for incident response.
+📝 **Description:** We will begin with an overview of event analysis systems and their challenges. Participants will learn about different types of data sources and logs, the prevalence of false positives, and the difficulty in identifying coordinated attacks. We will set the stage for the live, hands-on demonstration environment where participants can interact and apply what they learn in real-time. Importantly, no prior data science knowledge is required; all tasks will be performed using simple, user-friendly interfaces. An essential part of the session is the MITRE ATT&CK framework: we cover its structure (Tactics, Techniques, and Procedures) and why mapping alerts to it is crucial for standardizing threat detection. We then use open-source AI tools - clustering and community detection, natural language processing with large language models, and Markov chains - to preprocess and normalize SIEM data, map alerts to ATT&CK techniques, cluster them into contextualized attack steps, and fuse those into killchains.
 
 </details>
 

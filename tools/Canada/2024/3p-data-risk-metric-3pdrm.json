@@ -1,6 +1,6 @@
 {
   "Tool Name": "3P Data Risk Metric (3PDRM)",
-  "Description": "A Python library for developing neural network models that predict risk metrics such as probability of failure for kinodynamic systems, enabling risk prediction for autonomous systems operating in complex environments.",
+  "Description": "As organizations increasingly rely on third-party vendors and service providers, the risk of data breaches originating from external partners has become a critical concern. Traditional approaches to data security often overlook the cumulative-risk from the complex network of third-party relationships that can expose sensitive information to potential cyber threats. The derived calculation leverages a range of factors, including vendor cybersecurity posture, historical breach data, and the nature of data shared, to provide a predictive probability for each third-party entity. Through the application of regression analysis and risk modeling techniques, this framework enables organizations to better assess and prioritize their third-party risks, offering a more data-driven approach to mitigating potential exposures. The derived calculation provides a structured approach to calculate the probability of third-party cyber risks.",
   "Github URL": "",
   "Tracks": [
     "AI, ML & Data Science",

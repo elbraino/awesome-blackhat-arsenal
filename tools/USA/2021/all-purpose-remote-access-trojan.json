@@ -1,6 +1,6 @@
 {
   "Tool Name": "All-Purpose Remote Access Trojan",
-  "Description": "AccessWiz is an educational Remote Access Trojan (RAT) that enables remote control of a target computer, including screenshot capture, password retrieval, file transfer, and system information gathering through a client-server architecture.",
+  "Description": "Pneuma is a powerful Remote Access Trojan (RAT) which is built to bring open-source command-and-control (C2) servers together. More C2 servers pop up every year, based on the new shiny languages and techniques, however this has littered the security industry and it can be difficult to tell which you should use. Pneuma is designed to give you a central agent which you can use with any C2 server you decide, giving you consistency and flexibility. It is open-source and plug-and-play, allowing you to easily connect it to the C2 of your choice.",
   "Github URL": "",
   "Tracks": [
     "Malware Offense"

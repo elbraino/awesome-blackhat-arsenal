@@ -30,7 +30,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · **Event:** Europe 2021  
 🔗 **Link:** [https://github.com/Forescout/project-memoria-detector](https://github.com/Forescout/project-memoria-detector)  
-📝 **Description:** A project that investigates vulnerabilities in IoT smart devices by testing denial-of-service and deauthentication attacks to evaluate their security protocols and communication vulnerabilities.
+📝 **Description:** We will demonstrate an attacker's journey to disrupt a model smart building - which could be a residence, an office, or any critical facility like a hospital - using only TCP/IP stack vulnerabilities, which are known to affect large numbers of devices at a time. Attendees will interact with a tool to identify the TCP/IP stack running on a target device (using techniques such as banner grabbing, ICMP querying and TCP fingerprinting), a static analysis tool to find DNS-based vulnerabilities on TCP/IP stacks, and finally an exploit scenario involving a DNS-based RCE on a development board, an FTP-based DoS on a PLC and a TCP-based DoS on the switch connecting them. The physical effects on the model building include switching on or off lighting and ventilation systems. We will also discuss how a similar exploit scenario can lead to other types of physical effects in critical infrastructure.
 
 </details>
 
@@ -342,7 +342,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Hardware/Embedded · **Event:** Europe 2021  
 🔗 **Link:** Not Available  
-📝 **Description:** A Python script that brute-forces login credentials via a serial (UART) connection on embedded devices.
+📝 **Description:** With the growth of embedded systems the ability to exploit UART has become a key component of a Hardware Vulnerability Assessment. This tool focuses on Bute Forcing UART connections on embedded devices. It allow uses to define a brute forcing process for a wide variety of embedded systems.
 
 </details>
 
