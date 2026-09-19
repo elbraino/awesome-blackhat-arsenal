@@ -22,7 +22,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · **Event:** USA 2022  
 🔗 **Link:** Not Available  
-📝 **Description:** A city simulator with railway components that demonstrates various cyberattacks such as false data injection and blackout attacks on operational technology (OT) PLC systems, designed for cybersecurity training and research purposes.
+📝 **Description:** We will demonstrate an attacker's journey to disrupt a train - using only TCP/IP stack vulnerabilities, which are known to affect large numbers of devices at a time. Attendees will interact with a tool to identify the TCP/IP stack running on a target device (using techniques such as banner grabbing, ICMP querying and TCP fingerprinting), a static analysis tool to find DNS-based vulnerabilities on TCP/IP stacks, and finally an exploit scenario involving a DNS-based RCE on a development board, an FTP-based DoS on a PLC and a TCP-based DoS on the switch connecting them. The physical effects are shown on the train itself by stopping and starting at the attacker's will. We will also discuss how a similar exploit scenario can lead to other types of physical effects in critical infrastructure.
 
 </details>
 
@@ -30,7 +30,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · **Event:** USA 2022  
 🔗 **Link:** Not Available  
-📝 **Description:** A collection of hands-on cybersecurity lab materials covering RF hacking, wireless security, and SDR signal manipulation using tools like HackRF One, designed for practical training in radio frequency security assessment.
+📝 **Description:** This is RF hacking from end to end! You'll work through all the stages of reversing a basic radio system and building your own transmitter to take control. On the receive side, this includes finding the signal, capturing it and breaking it down into bits. You'll then build a transmitter to take over the original target, as well as iteratively attacking an additional target with the same protocol but different address. We'll keep things pretty low-level in this project, so you'll get a great view of how the nuts-and-bolts of RF hacking really work.
 
 </details>
 

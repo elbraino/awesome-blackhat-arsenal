@@ -37,7 +37,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · **Event:** Europe 2023  
 🔗 **Link:** [https://github.com/flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)  
-📝 **Description:** Arduino/ATtiny85-based rapid fire modification device for Xbox One controllers, demonstrated alongside Flipper Zero hardware hacking capabilities.
+📝 **Description:** Join CEO and co-creator of Flipper Devices, Pavlo Zhovner, for a rapid fire session of hack all the things. Get hands-on with flipper zero trying it out against various *approved* targets. This ultra flexible device is able to read, copy, and emulate RFID and NFC tags, radio remotes, iButton, and digital access keys, along with a GPIO interface. We are looking forward to seeing you soon.
 
 </details>
 

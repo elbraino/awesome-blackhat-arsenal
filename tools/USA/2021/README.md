@@ -40,7 +40,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · **Event:** USA 2021  
 🔗 **Link:** Not Available  
-📝 **Description:** A pentesting framework built on sploitkit that provides a Metasploit-like console interface for conducting security assessments on commercial drones, bundling drone hacking techniques and exploits into an organized CLI tool.
+📝 **Description:** This game is designed to explore a variety of proposed drone identification protocols, so called UAS Remote ID systems. Your goal will be to find a weakness in a variety Remote ID protocols and exploit it by (generally) forging a message that a receiver will accept as valid. There are eight levels (0-7), where each represents some simulacrum of an existing protocol, a proposed protocol, or an amalgamation of both. Point being: pretty much everything out there is, has been, or can be broken. Requirements: Players will need some sort of device on which they can write and run some basic code and have a connection to the internet. That's basically it. There are no restrictions on the toolset, though you will find languages that support HTTP POST requests, JSON parsing, and cryptographic operations to be very helpful.
 
 </details>
 
@@ -48,7 +48,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · **Event:** USA 2021  
 🔗 **Link:** Not Available  
-📝 **Description:** A Python library providing high-level exploration capabilities built on top of the Triton symbolic execution framework, enabling automated program analysis through dynamic symbolic execution with features like automatic binary loading, coverage tracking, and input handling.
+📝 **Description:** Have you ever wondered how airplanes communicate from the aircraft to the ground facilities and back? In the 737, that magic is performed in the Communications Management Unit (CMU). As the CMU has access to critical avionics buses (all ARINC 429) and accepts potentially untrusted RF traffic, making its role uniquely privileged in bridging the untrusted outside world with the trusted avionics domain, and thus an attractive target for evaluation. In this demonstration, we'll be showing off our Triton Testbed, which virtualizes the other support systems needed for the CMU to function. We can also use the testbed to interact with CMU, either through the typical MCDU display or directly at the ARINC 429 bus level. We can demonstrate real and generated ACARS and VDL2 traffic and show how the CMU responds. Finally, we can demonstrate the application processor of the CMU under emulation in qemu, with i/o redirected to the actual hardware, allowing us to perform several new types of dynamic analyses quickly.
 
 </details>
 
@@ -84,7 +84,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Code Assessment · **Event:** USA 2021  
 🔗 **Link:** Not Available  
-📝 **Description:** A comprehensive database of known malicious software packages discovered in open source repositories, formatted according to the OSV (Open Source Vulnerability) standard to help developers identify and avoid compromised dependencies.
+📝 **Description:** PackageDNA is an open-source tool, free and modular tool developed in Python3, that offers developers and researchers the ability to analyze code packages from different programming languages, in search of vulnerabilities in the code, the possible manipulations or spoofing of the package ('typosquatting'), identifying suspicious files, searching for strings in the code, among other data for analysis. PackageDNA, enables threat intelligence analysis or code audits, which allow to detect attacks to the software supply chain, the vast majority of companies integrate third-party code in their developments, thus the need to have a suite such as PackageDNA that performs the analysis of all these external codes and delivers the results of the analysis in a standardized way.
 
 </details>
 
@@ -154,7 +154,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Malware Offense · **Event:** USA 2021  
 🔗 **Link:** Not Available  
-📝 **Description:** AccessWiz is an educational Remote Access Trojan (RAT) that enables remote control of a target computer, including screenshot capture, password retrieval, file transfer, and system information gathering through a client-server architecture.
+📝 **Description:** Pneuma is a powerful Remote Access Trojan (RAT) which is built to bring open-source command-and-control (C2) servers together. More C2 servers pop up every year, based on the new shiny languages and techniques, however this has littered the security industry and it can be difficult to tell which you should use. Pneuma is designed to give you a central agent which you can use with any C2 server you decide, giving you consistency and flexibility. It is open-source and plug-and-play, allowing you to easily connect it to the C2 of your choice.
 
 </details>
 
@@ -372,7 +372,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Vulnerability Assessment · **Event:** USA 2021  
 🔗 **Link:** Not Available  
-📝 **Description:** A WiFi monitoring and analysis platform that captures wireless traffic at scale using multiple radio interfaces, enabling security researchers to passively collect and analyze 802.11 frames for assessment and research purposes.
+📝 **Description:** D4rkm4tter has been obsessed with monitoring wireless networks and has built hardware to meet the challenges of scanning and testing in the most busy and client dense environments. The WiFi-Kraken Lite contends with these issues in a smaller package without sacrificing any monitoring performance. This project is the results of years of research into the most effective way to scan and audit wireless in a single box that can be easily deployed or used as a hardened terminal in the most rugged conditions. The WiFi-Kraken Lite consists of a single-board computer which connects 12 wireless radios that enables scanning and auditing WiFi, Bluetooth, LoRaWAN and other commonly used wireless protocols. The number of wireless devices is growing as well as the way those devices are being connected. Having an all-in-one wireless monitoring solution will give you the ability to track this data across these bands and give you the best picture of what's happening in the air around you. This demonstration will provide you the information so that you can build your own all-in-one monitoring device. You will also gain an overview of capture technologies including Kismet that will help you perform this type of analysis in your own environments. Finally once the data is capture, you will get an understanding of efficient data processing using tools like Wireshark and d4rkm4tter's own PCAPinator tool.
 
 </details>
 
@@ -522,7 +522,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Reverse Engineering · **Event:** USA 2021  
 🔗 **Link:** [https://github.com/dannagle/PacketSender](https://github.com/dannagle/PacketSender)  
-📝 **Description:** An open-source utility for sending and receiving network packets across TCP, UDP, and SSL protocols, with added parsing capabilities for analyzing received packets using custom DLL-based packet parsers.
+📝 **Description:** Packet Sender is a free open-source (GPLv2) cross-platform (Windows, Mac, Linux) tool used daily by security researchers, college students, and professional developers to troubleshoot and reverse engineer network-based devices. Its core features are crafting and listening for UDP, TCP, and SSL/TLS packets via IPv4 or IPv6. It can listen simultaneously on any number of ports while sending to any UDP, TCP, SSL/TLS packet server. Many deliberate design features help Packet Sender's success: It can send and reply; it supports IPv4, IPv6, general, or IP-specific binding; it can run completely portable (for thumb drives); it can operate entirely in userland; it has very few build dependencies (to be able to support nearly all the Linux distros); and it has a very responsive and easy to use GUI with good defaults and ASCII/HEX translator to immediately send/receive packets within seconds of first launching.
 
 </details>
 

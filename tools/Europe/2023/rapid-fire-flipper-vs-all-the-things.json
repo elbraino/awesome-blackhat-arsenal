@@ -1,6 +1,6 @@
 {
   "Tool Name": "Rapid Fire: Flipper vs. All the Things",
-  "Description": "Arduino/ATtiny85-based rapid fire modification device for Xbox One controllers, demonstrated alongside Flipper Zero hardware hacking capabilities.",
+  "Description": "Join CEO and co-creator of Flipper Devices, Pavlo Zhovner, for a rapid fire session of hack all the things. Get hands-on with flipper zero trying it out against various *approved* targets. This ultra flexible device is able to read, copy, and emulate RFID and NFC tags, radio remotes, iButton, and digital access keys, along with a GPIO interface. We are looking forward to seeing you soon.",
   "Github URL": "https://github.com/flipperdevices/flipperzero-firmware",
   "Tracks": [
     "Arsenal Lab"

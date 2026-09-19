@@ -1,6 +1,6 @@
 {
   "Tool Name": "Packet Sender",
-  "Description": "An open-source utility for sending and receiving network packets across TCP, UDP, and SSL protocols, with added parsing capabilities for analyzing received packets using custom DLL-based packet parsers.",
+  "Description": "Packet Sender is a free open-source (GPLv2) cross-platform (Windows, Mac, Linux) tool used daily by security researchers, college students, and professional developers to troubleshoot and reverse engineer network-based devices. Its core features are crafting and listening for UDP, TCP, and SSL/TLS packets via IPv4 or IPv6. It can listen simultaneously on any number of ports while sending to any UDP, TCP, SSL/TLS packet server. Many deliberate design features help Packet Sender's success: It can send and reply; it supports IPv4, IPv6, general, or IP-specific binding; it can run completely portable (for thumb drives); it can operate entirely in userland; it has very few build dependencies (to be able to support nearly all the Linux distros); and it has a very responsive and easy to use GUI with good defaults and ASCII/HEX translator to immediately send/receive packets within seconds of first launching.",
   "Github URL": "https://github.com/dannagle/PacketSender",
   "Tracks": [
     "Reverse Engineering"

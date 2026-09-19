@@ -72,7 +72,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Web AppSec · **Event:** Canada 2023  
 🔗 **Link:** [https://github.com/secdim/play-sdk](https://github.com/secdim/play-sdk)  
-📝 **Description:** An open-source SDK that enables developers to model security attacks as software tests, allowing dev-oriented application security challenges to be integrated into the development workflow.
+📝 **Description:** This talk focuses on the unique process of transforming security attacks into software tests for building secure programming challenges using an open-source SDK, 'Play'. A practical workshop where we explore the mechanics of choosing real-world-inspired security vulnerabilities, and transforming them into cloud-native apps with integrated security tests which can then be played as challenges. These challenge provides a new dimension to the traditional Capture The Flag experiences, emphasizing not just the identification but the remediation of vulnerabilities.
 
 </details>
 
@@ -92,7 +92,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** OSINT - Open Source Intelligence · **Event:** Canada 2023  
 🔗 **Link:** [https://www.notcve.org/](https://www.notcve.org/)  
-📝 **Description:** The CVE Program identifies, defines, and catalogs publicly disclosed cybersecurity vulnerabilities. It maintains the official CVE List and develops supporting infrastructure like the CVE Services API, JSON schema specifications, and the CVE.ORG website.
+📝 **Description:** In the ever-evolving cybersecurity landscape, the identification and acknowledgment of vulnerabilities through the Common Vulnerabilities and Exposures (CVE) system play a crucial role. However, vendor discretion in determining whether a security issue warrants a CVE assignment often results in overlooked vulnerabilities that pose significant risks. This presentation introduces the !CVE initiative, a groundbreaking platform that addresses this critical gap by identifying, tracking, and sharing unacknowledged cybersecurity vulnerabilities. Our presentation begins with an overview of the CVE system and the challenges security researchers face in dealing with unacknowledged vulnerabilities. We discuss real-world examples of security issues ignored by vendors and explore the potential consequences of these hidden threats. We then delve into the !CVE platform, detailing its mission, features, and collaborative approach to empower the security community. Through case studies, we demonstrate the value of the !CVE initiative in strengthening the cybersecurity ecosystem, highlighting the significance of addressing vulnerabilities not recognized by vendors. We also showcase the reporting process, expert panel, and public availability of !CVE reports, fostering a transparent and inclusive environment for vulnerability tracking and sharing. Join us in exploring the world of unacknowledged cybersecurity vulnerabilities and learn how the !CVE initiative is bridging the gap between vendor discretion and community-driven security efforts. By raising awareness and fostering collaboration, we can create a more secure and resilient digital landscape for all.
 
 </details>
 
@@ -144,7 +144,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Vulnerability Assessment · Human Factors · **Event:** Canada 2023  
 🔗 **Link:** Not Available  
-📝 **Description:** A machine learning system that classifies emails as phishing or legitimate using Natural Language Processing with TF-IDF vectorization and a Random Forest classifier to identify suspicious messages based on learned text patterns.
+📝 **Description:** An artificial intelligence based phishing email detector that analyses emails and its content, vocabulary, sender, subject etc and detects if its a phishing email even if was not flagged as one by an email gateway based on the analysis of collection of phishing emails.
 
 </details>
 
@@ -168,7 +168,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Vulnerability Assessment · **Event:** Canada 2023  
 🔗 **Link:** Not Available  
-📝 **Description:** LLM Gateway is an open-source API gateway that routes requests to multiple LLM providers while providing unified management of API keys, usage tracking, and performance analytics across different AI services.
+📝 **Description:** As the LLM landscape evolves businesses will need tools to help monitor and mitigate vulnerabilities these new technologies introduce. The LLM Gateway Framework acts as a proxy, frontend, and logging services to monitor and manage LLM interactions across any providers.
 
 </details>
 
@@ -252,7 +252,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Reverse Engineering · **Event:** Canada 2023  
 🔗 **Link:** Not Available  
-📝 **Description:** GhidraMCP is a Model Context Protocol server that allows LLMs to autonomously reverse engineer applications. It bridges Ghidra with AI systems, enabling automated binary analysis, method renaming, and code examination through standardized MCP connections.
+📝 **Description:** Whether reverse engineering malware, debugging an application, or researching device security; being able to quickly gain a deep understanding of the project at hand is a huge advantage. This arsenal showcase aims to provide a practical guide to producing visualizations of native code execution within Ghidra to better direct time and efforts (and prevent setting endless breakpoints). I will be demoing the current opensource tool stack for code execution visualization (Ghidra + Frida + DragonDance + Lighthouse), and how they practically work together to visualize Android Application execution. I will then describe the limitations of the current tooling and the necessity I saw to develop my own tool. This tool specifically extends the code coverage to Non-rooted Android devices and Android non-app processes. I will then demo using my version of the coverage collection tool for Non-Rooted Android devices, specifcally by generating visualizations of native code executing on a Quest 2 VR headset.
 
 </details>
 

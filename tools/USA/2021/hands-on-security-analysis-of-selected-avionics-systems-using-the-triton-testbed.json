@@ -1,6 +1,6 @@
 {
   "Tool Name": "Hands-on Security Analysis of Selected Avionics Systems Using the Triton Testbed",
-  "Description": "A Python library providing high-level exploration capabilities built on top of the Triton symbolic execution framework, enabling automated program analysis through dynamic symbolic execution with features like automatic binary loading, coverage tracking, and input handling.",
+  "Description": "Have you ever wondered how airplanes communicate from the aircraft to the ground facilities and back? In the 737, that magic is performed in the Communications Management Unit (CMU). As the CMU has access to critical avionics buses (all ARINC 429) and accepts potentially untrusted RF traffic, making its role uniquely privileged in bridging the untrusted outside world with the trusted avionics domain, and thus an attractive target for evaluation. In this demonstration, we'll be showing off our Triton Testbed, which virtualizes the other support systems needed for the CMU to function. We can also use the testbed to interact with CMU, either through the typical MCDU display or directly at the ARINC 429 bus level. We can demonstrate real and generated ACARS and VDL2 traffic and show how the CMU responds. Finally, we can demonstrate the application processor of the CMU under emulation in qemu, with i/o redirected to the actual hardware, allowing us to perform several new types of dynamic analyses quickly.",
   "Github URL": "",
   "Tracks": [
     "Arsenal Lab"

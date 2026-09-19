@@ -1,6 +1,6 @@
 {
   "Tool Name": "Artificial Intelligence Phishing Email Detector",
-  "Description": "A machine learning system that classifies emails as phishing or legitimate using Natural Language Processing with TF-IDF vectorization and a Random Forest classifier to identify suspicious messages based on learned text patterns.",
+  "Description": "An artificial intelligence based phishing email detector that analyses emails and its content, vocabulary, sender, subject etc and detects if its a phishing email even if was not flagged as one by an email gateway based on the analysis of collection of phishing emails.",
   "Github URL": "",
   "Tracks": [
     "Vulnerability Assessment",

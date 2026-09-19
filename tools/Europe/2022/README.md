@@ -21,7 +21,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · **Event:** Europe 2022  
 🔗 **Link:** Not Available  
-📝 **Description:** A computer vision project focused on discovering, detecting, recognizing, and tracking Unmanned Aerial Vehicle (UAV) targets using RGB and thermal infrared videos, with benchmark datasets and evaluation metrics.
+📝 **Description:** Come join us to discover the real-world risks and examples of ever-evolving drone technology (also known as Unmanned Aircraft Systems [UAS]). Due to continuously increasing capabilities and decreased cost of entry, the UAS market continues to experience rapid growth. This is problematic in both national and commercial defense. We will provide our insight into the current threat landscape and where it is heading in the future. Best of all we will discuss and demonstrate the effectiveness of various UAS countermeasures and why some are more effective than others. You won't want to miss this talk.
 
 </details>
 
@@ -37,7 +37,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · **Event:** Europe 2022  
 🔗 **Link:** Not Available  
-📝 **Description:** A Java framework for mining software repositories that helps researchers extract data from Git repos including commits, developers, modifications, and source code, with CSV export capabilities.
+📝 **Description:** Secrets are ubiquitous in modern enterprises and products. However, they often appear in places they shouldn't - including code and artifact repositories, internal wikis, chats, and embedded within firmware and container images. Organizations often expose these resources in the public domain, internal environments, and devices. A misplaced secret can grant an attacker with initial access to an organization and provide a means for rapid lateral movement. But with such a large attack surface, where do you begin? There are multiple techniques that can be employed when mining for these secrets: regex matching, deep neural networks, and OSINT techniques all allow attackers to scan at scale with minimal noise. Come learn firsthand about our experiences and get hands-on with some targets.
 
 </details>
 

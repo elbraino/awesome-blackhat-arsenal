@@ -41,6 +41,16 @@ example — copy and adapt these for the next event:
 Track names must be one of the 20 listed in [CONTRIBUTING.md](../CONTRIBUTING.md);
 `build_usa_2026.py` shows how to map the drifting names on the BH site to them.
 
+## Getting the official abstracts (any event, 2013 onwards)
+
+Every Black Hat schedule page loads a `sessions.json` with the full abstract,
+speakers and tracks for each session (`www.blackhat.com/<event>/arsenal/schedule/`,
+archived at `blackhat.com/archive/<region>/<year>/arsenal/schedule/`). Cloudflare
+blocks plain HTTP clients, so read it from a real browser: open the page, paste
+`browser_dump_sessions.js` into the DevTools console (or run it through a
+browser-automation tool) and copy the returned array. This is the source of truth
+for descriptions — prefer it over anything scraped from a repo README.
+
 ## Legacy pipeline (2013–2025 imports)
 
 `run.py` (repo root) chains these steps. **Each script has its input/output

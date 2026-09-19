@@ -1,6 +1,6 @@
 {
   "Tool Name": "Hands-on RF Hacking: Your Table is (always) Ready",
-  "Description": "A collection of hands-on cybersecurity lab materials covering RF hacking, wireless security, and SDR signal manipulation using tools like HackRF One, designed for practical training in radio frequency security assessment.",
+  "Description": "Hack your restaurant pager with software defined radio! You'll sniff for control signals from \"the restaurant's\" transmitter used to trigger other pagers. Then you'll capture a transmission and examine how it's put together. With your understanding of the payload structure, you'll then generate a modified transmission to trigger your own pager. This project will combine low-level waveform analysis with higher level scripting to get the job done.",
   "Github URL": "",
   "Tracks": [
     "Arsenal Lab"

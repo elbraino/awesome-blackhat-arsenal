@@ -2235,7 +2235,7 @@
  },
  {
   "Tool Name": "Rate Unlimiter",
-  "Description": "A tool designed to test and bypass rate limiting mechanisms in web applications, helping security researchers identify weaknesses in rate limit implementations.",
+  "Description": "Rate limiters are mechanisms placed on endpoints to control the rate of traffic that is received or sent; for instance, blocking any subsequent requests for 10 minutes from an IP address when its traffic rate exceeds the threshold limit of 10 hits per minute on a given endpoint. The example given is a static rate limit policy. My team hypotheses that in time to come, there will be a popularisation of dynamic rate limiters (new breed / advanced version of static rate limiters) wherein threshold values of requests or hits, time buckets, and blocking penalty periods are dynamically and automatically adjusted according to the nature of traffic and/or relevant detection algorithms. With such an outlook, our team has developed a pre-emptive offensive tool, the \"Rate Unlimiter\", which will, on-the-fly, reverse-derive the underlying rate policies for both static and dynamic rate limiters, allowing security researchers to maximise their gains against a target endpoint with their pool of IP addresses. For instance, when used against a /login endpoint, it will test and intelligently determine the underlying and even overlapping rate limit policies, for instance, \"10hits/min->block for 15mins\" for policy 1 and \"25hits/3mins->block for 45mins\" for policy 2. And should that rate limit policy be a dynamic one, the Rate Unlimiter will derive the latest values automatically to maximise the total number of successful requests to the given endpoint over a stipulated period of time and available resources.",
   "Github URL": "",
   "Tracks": [
    "Network Attacks"
@@ -5345,7 +5345,7 @@
  },
  {
   "Tool Name": "!CVE: A New Platform for Unacknowledged Cybersecurity !Vulnerabilities",
-  "Description": "The CVE Program identifies, defines, and catalogs publicly disclosed cybersecurity vulnerabilities. It maintains the official CVE List and develops supporting infrastructure like the CVE Services API, JSON schema specifications, and the CVE.ORG website.",
+  "Description": "In the ever-evolving cybersecurity landscape, the identification and acknowledgment of vulnerabilities through the Common Vulnerabilities and Exposures (CVE) system play a crucial role. However, vendor discretion in determining whether a security issue warrants a CVE assignment often results in overlooked vulnerabilities that pose significant risks. This presentation introduces the !CVE initiative, a groundbreaking platform that addresses this critical gap by identifying, tracking, and sharing unacknowledged cybersecurity vulnerabilities. Our presentation begins with an overview of the CVE system and the challenges security researchers face in dealing with unacknowledged vulnerabilities. We discuss real-world examples of security issues ignored by vendors and explore the potential consequences of these hidden threats. We then delve into the !CVE platform, detailing its mission, features, and collaborative approach to empower the security community. Through case studies, we demonstrate the value of the !CVE initiative in strengthening the cybersecurity ecosystem, highlighting the significance of addressing vulnerabilities not recognized by vendors. We also showcase the reporting process, expert panel, and public availability of !CVE reports, fostering a transparent and inclusive environment for vulnerability tracking and sharing. Join us in exploring the world of unacknowledged cybersecurity vulnerabilities and learn how the !CVE initiative is bridging the gap between vendor discretion and community-driven security efforts. By raising awareness and fostering collaboration, we can create a more secure and resilient digital landscape for all.",
   "Github URL": "https://www.notcve.org/",
   "Tracks": [
    "OSINT - Open Source Intelligence"
@@ -5360,7 +5360,7 @@
  },
  {
   "Tool Name": "A Ghidra Visualization is worth a Thousand GDB breakpoints",
-  "Description": "GhidraMCP is a Model Context Protocol server that allows LLMs to autonomously reverse engineer applications. It bridges Ghidra with AI systems, enabling automated binary analysis, method renaming, and code examination through standardized MCP connections.",
+  "Description": "Whether reverse engineering malware, debugging an application, or researching device security; being able to quickly gain a deep understanding of the project at hand is a huge advantage. This arsenal showcase aims to provide a practical guide to producing visualizations of native code execution within Ghidra to better direct time and efforts (and prevent setting endless breakpoints). I will be demoing the current opensource tool stack for code execution visualization (Ghidra + Frida + DragonDance + Lighthouse), and how they practically work together to visualize Android Application execution. I will then describe the limitations of the current tooling and the necessity I saw to develop my own tool. This tool specifically extends the code coverage to Non-rooted Android devices and Android non-app processes. I will then demo using my version of the coverage collection tool for Non-Rooted Android devices, specifcally by generating visualizations of native code executing on a Quest 2 VR headset.",
   "Github URL": "",
   "Tracks": [
    "Reverse Engineering"
@@ -5403,7 +5403,7 @@
  },
  {
   "Tool Name": "Artificial Intelligence Phishing Email Detector",
-  "Description": "A machine learning system that classifies emails as phishing or legitimate using Natural Language Processing with TF-IDF vectorization and a Random Forest classifier to identify suspicious messages based on learned text patterns.",
+  "Description": "An artificial intelligence based phishing email detector that analyses emails and its content, vocabulary, sender, subject etc and detects if its a phishing email even if was not flagged as one by an email gateway based on the analysis of collection of phishing emails.",
   "Github URL": "",
   "Tracks": [
    "Vulnerability Assessment",
@@ -5582,7 +5582,7 @@
  },
  {
   "Tool Name": "LLM Gateway – an OSS to Monitor LLM Interactions",
-  "Description": "LLM Gateway is an open-source API gateway that routes requests to multiple LLM providers while providing unified management of API keys, usage tracking, and performance analytics across different AI services.",
+  "Description": "As the LLM landscape evolves businesses will need tools to help monitor and mitigate vulnerabilities these new technologies introduce. The LLM Gateway Framework acts as a proxy, frontend, and logging services to monitor and manage LLM interactions across any providers.",
   "Github URL": "",
   "Tracks": [
    "Vulnerability Assessment"
@@ -5717,7 +5717,7 @@
  },
  {
   "Tool Name": "Security Attacks as Software Tests: Building dev-oriented AppSec challenges with Play open source SDK",
-  "Description": "An open-source SDK that enables developers to model security attacks as software tests, allowing dev-oriented application security challenges to be integrated into the development workflow.",
+  "Description": "This talk focuses on the unique process of transforming security attacks into software tests for building secure programming challenges using an open-source SDK, 'Play'. A practical workshop where we explore the mechanics of choosing real-world-inspired security vulnerabilities, and transforming them into cloud-native apps with integrated security tests which can then be played as challenges. These challenge provides a new dimension to the traditional Capture The Flag experiences, emphasizing not just the identification but the remediation of vulnerabilities.",
   "Github URL": "https://github.com/secdim/play-sdk",
   "Tracks": [
    "Web AppSec"
@@ -5790,7 +5790,7 @@
  },
  {
   "Tool Name": "3P Data Risk Metric (3PDRM)",
-  "Description": "A Python library for developing neural network models that predict risk metrics such as probability of failure for kinodynamic systems, enabling risk prediction for autonomous systems operating in complex environments.",
+  "Description": "As organizations increasingly rely on third-party vendors and service providers, the risk of data breaches originating from external partners has become a critical concern. Traditional approaches to data security often overlook the cumulative-risk from the complex network of third-party relationships that can expose sensitive information to potential cyber threats. The derived calculation leverages a range of factors, including vendor cybersecurity posture, historical breach data, and the nature of data shared, to provide a predictive probability for each third-party entity. Through the application of regression analysis and risk modeling techniques, this framework enables organizations to better assess and prioritize their third-party risks, offering a more data-driven approach to mitigating potential exposures. The derived calculation provides a structured approach to calculate the probability of third-party cyber risks.",
   "Github URL": "",
   "Tracks": [
    "AI, ML & Data Science",
@@ -6031,7 +6031,7 @@
  },
  {
   "Tool Name": "Hands-on RF Hacking: Your Table is (always) Ready",
-  "Description": "A collection of hands-on cybersecurity labs focused on RF hacking, Wi-Fi exploitation, SDR (HackRF), mobile forensics, and Android app testing conducted in isolated lab environments for educational purposes.",
+  "Description": "Hack your restaurant pager with software defined radio! You'll sniff for control signals from \"the restaurant's\" transmitter used to trigger other pagers. Then you'll capture a transmission and examine how it's put together. With your understanding of the payload structure, you'll then generate a modified transmission to trigger your own pager. This project will combine low-level waveform analysis with higher level scripting to get the job done.",
   "Github URL": "",
   "Tracks": [
    "Arsenal Lab",
@@ -9476,7 +9476,7 @@
  },
  {
   "Tool Name": "Disrupting OT and IoT by Exploiting TCP/IP Stacks",
-  "Description": "A project that investigates vulnerabilities in IoT smart devices by testing denial-of-service and deauthentication attacks to evaluate their security protocols and communication vulnerabilities.",
+  "Description": "We will demonstrate an attacker's journey to disrupt a model smart building - which could be a residence, an office, or any critical facility like a hospital - using only TCP/IP stack vulnerabilities, which are known to affect large numbers of devices at a time. Attendees will interact with a tool to identify the TCP/IP stack running on a target device (using techniques such as banner grabbing, ICMP querying and TCP fingerprinting), a static analysis tool to find DNS-based vulnerabilities on TCP/IP stacks, and finally an exploit scenario involving a DNS-based RCE on a development board, an FTP-based DoS on a PLC and a TCP-based DoS on the switch connecting them. The physical effects on the model building include switching on or off lighting and ventilation systems. We will also discuss how a similar exploit scenario can lead to other types of physical effects in critical infrastructure.",
   "Github URL": "https://github.com/Forescout/project-memoria-detector",
   "Tracks": [
    "Arsenal Lab"
@@ -9846,7 +9846,7 @@
  },
  {
   "Tool Name": "UART Brute Forcing",
-  "Description": "A Python script that brute-forces login credentials via a serial (UART) connection on embedded devices.",
+  "Description": "With the growth of embedded systems the ability to exploit UART has become a key component of a Hardware Vulnerability Assessment. This tool focuses on Bute Forcing UART connections on embedded devices. It allow uses to define a brute forcing process for a wide variety of embedded systems.",
   "Github URL": "",
   "Tracks": [
    "Hardware/Embedded"
@@ -10037,7 +10037,7 @@
  },
  {
   "Tool Name": "Drone Threats and Countermeasures",
-  "Description": "A computer vision project focused on discovering, detecting, recognizing, and tracking Unmanned Aerial Vehicle (UAV) targets using RGB and thermal infrared videos, with benchmark datasets and evaluation metrics.",
+  "Description": "Come join us to discover the real-world risks and examples of ever-evolving drone technology (also known as Unmanned Aircraft Systems [UAS]). Due to continuously increasing capabilities and decreased cost of entry, the UAS market continues to experience rapid growth. This is problematic in both national and commercial defense. We will provide our insight into the current threat landscape and where it is heading in the future. Best of all we will discuss and demonstrate the effectiveness of various UAS countermeasures and why some are more effective than others. You won't want to miss this talk.",
   "Github URL": "",
   "Tracks": [
    "Arsenal Lab"
@@ -10231,7 +10231,7 @@
  },
  {
   "Tool Name": "Mining for Secrets: Repos, firmware, and more",
-  "Description": "A Java framework for mining software repositories that helps researchers extract data from Git repos including commits, developers, modifications, and source code, with CSV export capabilities.",
+  "Description": "Secrets are ubiquitous in modern enterprises and products. However, they often appear in places they shouldn't - including code and artifact repositories, internal wikis, chats, and embedded within firmware and container images. Organizations often expose these resources in the public domain, internal environments, and devices. A misplaced secret can grant an attacker with initial access to an organization and provide a means for rapid lateral movement. But with such a large attack surface, where do you begin? There are multiple techniques that can be employed when mining for these secrets: regex matching, deep neural networks, and OSINT techniques all allow attackers to scan at scale with minimal noise. Come learn firsthand about our experiences and get hands-on with some targets.",
   "Github URL": "",
   "Tracks": [
    "Arsenal Lab"
@@ -11096,7 +11096,7 @@
  },
  {
   "Tool Name": "Rapid Fire: Flipper vs. All the Things",
-  "Description": "Arduino/ATtiny85-based rapid fire modification device for Xbox One controllers, demonstrated alongside Flipper Zero hardware hacking capabilities.",
+  "Description": "Join CEO and co-creator of Flipper Devices, Pavlo Zhovner, for a rapid fire session of hack all the things. Get hands-on with flipper zero trying it out against various *approved* targets. This ultra flexible device is able to read, copy, and emulate RFID and NFC tags, radio remotes, iButton, and digital access keys, along with a GPIO interface. We are looking forward to seeing you soon.",
   "Github URL": "https://github.com/flipperdevices/flipperzero-firmware",
   "Tracks": [
    "Arsenal Lab"
@@ -13465,7 +13465,7 @@
  },
  {
   "Tool Name": "Use opensource AI to map alerts & logs into techniques, clusters, and killchains",
-  "Description": "An open-source AIOps and alert management platform that centralizes alerts from 100+ monitoring tools, provides AI-powered correlation and deduplication, and enables workflow automation for incident response.",
+  "Description": "We will begin with an overview of event analysis systems and their challenges. Participants will learn about different types of data sources and logs, the prevalence of false positives, and the difficulty in identifying coordinated attacks. We will set the stage for the live, hands-on demonstration environment where participants can interact and apply what they learn in real-time. Importantly, no prior data science knowledge is required; all tasks will be performed using simple, user-friendly interfaces. An essential part of the session is the MITRE ATT&CK framework: we cover its structure (Tactics, Techniques, and Procedures) and why mapping alerts to it is crucial for standardizing threat detection. We then use open-source AI tools - clustering and community detection, natural language processing with large language models, and Markov chains - to preprocess and normalize SIEM data, map alerts to ATT&CK techniques, cluster them into contextualized attack steps, and fuse those into killchains.",
   "Github URL": "",
   "Tracks": [
    "AI, ML & Data Science"
@@ -19646,7 +19646,7 @@
  },
  {
   "Tool Name": "ARSENAL LAB - Applied Hardware Attacks: Prototyping Malicious Hardware on the Cheap",
-  "Description": "A hands-on Arsenal Lab workshop teaching participants how to prototype malicious hardware implants on the cheap, covering hardware attack techniques for security research and penetration testing.",
+  "Description": "Multi-million-dollar hardware attacks might catch headlines, but the reality is that custom crafting your own malicious hardware is cheaper and easier than ever. We'll have all the tools you need set up and ready to go to prototype, build, and test a custom hardware implant. Based on your time and experience, you'll have the opportunity to walk through 4 hands-on stages of hardware implant design: Stage 1: Analysis: We'll have an off-the-shelf embedded system system for you to poke around at and figure out how to escalate privilege. Stage 2: Prototyping: Next, you'll walk through the process of modifying a few lines of code to turn a microcontroller into a standalone payload delivery device. Stage 3: Interfacing: You'll put your devlcie to the test - hook it up to the target system, and see if our payload delivers successfully. Stage 4: Customization: We can walk through the process of designing and milling a circuit board to adapt our device to a different target system. You can try your hands a one or all of the stages. On the software side, you'll interact with an embedded linux shell, modify some C code, and work with circuit board CAD tools. On the hardware side, you'll flash a microcontroller, wire it to a target system, and if time permits, mill a custom circuit board. In the end, you'll get to take home your own customized malicious hardware device. Hopefully you'll walk away with a few new skills and a better appreciation of what's possible with just a little hardware experience.",
   "Github URL": "",
   "Tracks": [
    "Arsenal Lab"
@@ -19691,7 +19691,7 @@
  },
  {
   "Tool Name": "ARSENAL LAB - ZigBee Hacking: Smarter Home Invasion with ZigDiggity",
-  "Description": "ZigDiggity is a ZigBee hacking toolkit for testing the security of ZigBee-based smart home devices, enabling security researchers to identify vulnerabilities in ZigBee network implementations.",
+  "Description": "Do you feel safe in your home with the security system armed? You may reconsider after watching a demo of our new hacking toolkit, ZigDiggity, where we target door & window sensors using an \"ACK Attack\". ZigDiggity will emerge as the weapon of choice for testing ZigBee-enabled systems, replacing all previous efforts. ZigBee continues to grow in popularity as a method for providing simple wireless communication between devices (i.e. low power/traffic, short distance), & can be found in a variety of consumer products that range from smart home automation to healthcare. Security concerns introduced by these systems are just as diverse and plentiful, underscoring a need for quality assessment tools. Unfortunately, existing ZigBee hacking solutions have fallen into disrepair, having barely been maintained, let alone improved upon. Left without a practical way to evaluate the security of ZigBee networks, we've created ZigDiggity, a new open-source pentest arsenal from Bishop Fox. Our DEMO-rich, hands-on presentation showcases ZigDiggity's attack capabilities by pitting it against common Internet of Things (IoT) products that use ZigBee. Come experience the future of ZigBee hacking, in a talk that the New York Times will be hailing as \"a veritable triumph of the human spirit.\" ... ya know, probably.",
   "Github URL": "https://github.com/BishopFox/zigdiggity",
   "Tracks": [
    "Arsenal Lab"
@@ -21590,7 +21590,7 @@
  },
  {
   "Tool Name": "All-Purpose Remote Access Trojan",
-  "Description": "AccessWiz is an educational Remote Access Trojan (RAT) that enables remote control of a target computer, including screenshot capture, password retrieval, file transfer, and system information gathering through a client-server architecture.",
+  "Description": "Pneuma is a powerful Remote Access Trojan (RAT) which is built to bring open-source command-and-control (C2) servers together. More C2 servers pop up every year, based on the new shiny languages and techniques, however this has littered the security industry and it can be difficult to tell which you should use. Pneuma is designed to give you a central agent which you can use with any C2 server you decide, giving you consistency and flexibility. It is open-source and plug-and-play, allowing you to easily connect it to the C2 of your choice.",
   "Github URL": "",
   "Tracks": [
    "Malware Offense"
@@ -21875,7 +21875,7 @@
  },
  {
   "Tool Name": "Hacking the Digital Drone License Plate",
-  "Description": "A pentesting framework built on sploitkit that provides a Metasploit-like console interface for conducting security assessments on commercial drones, bundling drone hacking techniques and exploits into an organized CLI tool.",
+  "Description": "This game is designed to explore a variety of proposed drone identification protocols, so called UAS Remote ID systems. Your goal will be to find a weakness in a variety Remote ID protocols and exploit it by (generally) forging a message that a receiver will accept as valid. There are eight levels (0-7), where each represents some simulacrum of an existing protocol, a proposed protocol, or an amalgamation of both. Point being: pretty much everything out there is, has been, or can be broken. Requirements: Players will need some sort of device on which they can write and run some basic code and have a connection to the internet. That's basically it. There are no restrictions on the toolset, though you will find languages that support HTTP POST requests, JSON parsing, and cryptographic operations to be very helpful.",
   "Github URL": "",
   "Tracks": [
    "Arsenal Lab"
@@ -21889,7 +21889,7 @@
  },
  {
   "Tool Name": "Hands-on Security Analysis of Selected Avionics Systems Using the Triton Testbed",
-  "Description": "A Python library providing high-level exploration capabilities built on top of the Triton symbolic execution framework, enabling automated program analysis through dynamic symbolic execution with features like automatic binary loading, coverage tracking, and input handling.",
+  "Description": "Have you ever wondered how airplanes communicate from the aircraft to the ground facilities and back? In the 737, that magic is performed in the Communications Management Unit (CMU). As the CMU has access to critical avionics buses (all ARINC 429) and accepts potentially untrusted RF traffic, making its role uniquely privileged in bridging the untrusted outside world with the trusted avionics domain, and thus an attractive target for evaluation. In this demonstration, we'll be showing off our Triton Testbed, which virtualizes the other support systems needed for the CMU to function. We can also use the testbed to interact with CMU, either through the typical MCDU display or directly at the ARINC 429 bus level. We can demonstrate real and generated ACARS and VDL2 traffic and show how the CMU responds. Finally, we can demonstrate the application processor of the CMU under emulation in qemu, with i/o redirected to the actual hardware, allowing us to perform several new types of dynamic analyses quickly.",
   "Github URL": "",
   "Tracks": [
    "Arsenal Lab"
@@ -22121,7 +22121,7 @@
  },
  {
   "Tool Name": "Packet Sender",
-  "Description": "An open-source utility for sending and receiving network packets across TCP, UDP, and SSL protocols, with added parsing capabilities for analyzing received packets using custom DLL-based packet parsers.",
+  "Description": "Packet Sender is a free open-source (GPLv2) cross-platform (Windows, Mac, Linux) tool used daily by security researchers, college students, and professional developers to troubleshoot and reverse engineer network-based devices. Its core features are crafting and listening for UDP, TCP, and SSL/TLS packets via IPv4 or IPv6. It can listen simultaneously on any number of ports while sending to any UDP, TCP, SSL/TLS packet server. Many deliberate design features help Packet Sender's success: It can send and reply; it supports IPv4, IPv6, general, or IP-specific binding; it can run completely portable (for thumb drives); it can operate entirely in userland; it has very few build dependencies (to be able to support nearly all the Linux distros); and it has a very responsive and easy to use GUI with good defaults and ASCII/HEX translator to immediately send/receive packets within seconds of first launching.",
   "Github URL": "https://github.com/dannagle/PacketSender",
   "Tracks": [
    "Reverse Engineering"
@@ -22319,7 +22319,7 @@
  },
  {
   "Tool Name": "Scanning DNA to Detect Malicious Packages in Your Code",
-  "Description": "A comprehensive database of known malicious software packages discovered in open source repositories, formatted according to the OSV (Open Source Vulnerability) standard to help developers identify and avoid compromised dependencies.",
+  "Description": "PackageDNA is an open-source tool, free and modular tool developed in Python3, that offers developers and researchers the ability to analyze code packages from different programming languages, in search of vulnerabilities in the code, the possible manipulations or spoofing of the package ('typosquatting'), identifying suspicious files, searching for strings in the code, among other data for analysis. PackageDNA, enables threat intelligence analysis or code audits, which allow to detect attacks to the software supply chain, the vast majority of companies integrate third-party code in their developments, thus the need to have a suite such as PackageDNA that performs the analysis of all these external codes and delivers the results of the analysis in a standardized way.",
   "Github URL": "",
   "Tracks": [
    "Code Assessment"
@@ -22398,7 +22398,7 @@
  },
  {
   "Tool Name": "The WiFi Kraken Lite",
-  "Description": "A WiFi monitoring and analysis platform that captures wireless traffic at scale using multiple radio interfaces, enabling security researchers to passively collect and analyze 802.11 frames for assessment and research purposes.",
+  "Description": "D4rkm4tter has been obsessed with monitoring wireless networks and has built hardware to meet the challenges of scanning and testing in the most busy and client dense environments. The WiFi-Kraken Lite contends with these issues in a smaller package without sacrificing any monitoring performance. This project is the results of years of research into the most effective way to scan and audit wireless in a single box that can be easily deployed or used as a hardened terminal in the most rugged conditions. The WiFi-Kraken Lite consists of a single-board computer which connects 12 wireless radios that enables scanning and auditing WiFi, Bluetooth, LoRaWAN and other commonly used wireless protocols. The number of wireless devices is growing as well as the way those devices are being connected. Having an all-in-one wireless monitoring solution will give you the ability to track this data across these bands and give you the best picture of what's happening in the air around you. This demonstration will provide you the information so that you can build your own all-in-one monitoring device. You will also gain an overview of capture technologies including Kismet that will help you perform this type of analysis in your own environments. Finally once the data is capture, you will get an understanding of efficient data processing using tools like Wireshark and d4rkm4tter's own PCAPinator tool.",
   "Github URL": "",
   "Tracks": [
    "Vulnerability Assessment"
@@ -22864,7 +22864,7 @@
  },
  {
   "Tool Name": "Exploiting & Securing Trains",
-  "Description": "A city simulator with railway components that demonstrates various cyberattacks such as false data injection and blackout attacks on operational technology (OT) PLC systems, designed for cybersecurity training and research purposes.",
+  "Description": "We will demonstrate an attacker's journey to disrupt a train - using only TCP/IP stack vulnerabilities, which are known to affect large numbers of devices at a time. Attendees will interact with a tool to identify the TCP/IP stack running on a target device (using techniques such as banner grabbing, ICMP querying and TCP fingerprinting), a static analysis tool to find DNS-based vulnerabilities on TCP/IP stacks, and finally an exploit scenario involving a DNS-based RCE on a development board, an FTP-based DoS on a PLC and a TCP-based DoS on the switch connecting them. The physical effects are shown on the train itself by stopping and starting at the attacker's will. We will also discuss how a similar exploit scenario can lead to other types of physical effects in critical infrastructure.",
   "Github URL": "",
   "Tracks": [
    "Arsenal Lab"
@@ -22969,7 +22969,7 @@
  },
  {
   "Tool Name": "Hands-on RF Hacking 101: From Waveforms to System Takeover",
-  "Description": "A collection of hands-on cybersecurity lab materials covering RF hacking, wireless security, and SDR signal manipulation using tools like HackRF One, designed for practical training in radio frequency security assessment.",
+  "Description": "This is RF hacking from end to end! You'll work through all the stages of reversing a basic radio system and building your own transmitter to take control. On the receive side, this includes finding the signal, capturing it and breaking it down into bits. You'll then build a transmitter to take over the original target, as well as iteratively attacking an additional target with the same protocol but different address. We'll keep things pretty low-level in this project, so you'll get a great view of how the nuts-and-bolts of RF hacking really work.",
   "Github URL": "",
   "Tracks": [
    "Arsenal Lab"
@@ -23836,7 +23836,7 @@
  },
  {
   "Tool Name": "AI Risky Business: Hands-on AI Payload Analysis",
-  "Description": "A lightweight, open-source framework that empowers security professionals to build and deploy AI-powered offensive and defensive automation, enabling users to create specialized AI agents for vulnerability discovery, exploitation, and security assessment.",
+  "Description": "In their rush to adopt new AI technologies, many companies are turning to open source software, data and tools. But many do so without considering unmanaged risk in the AI Supply Chain. For example, current cybersecurity tooling does not account for ML-specific software vulnerabilities (e.g., arbitrary code execution in pytorch binary files), data vulnerabilities (e.g., corrupted datasets), or ML-specific behavioral vulnerabilities (e.g., universal triggers). This is where the AI Risk Database comes in. Like a \"VirusTotal for AI\", it provides an interface for community-driven reports about open source files, models and datasets. Only just released at the end of March 2023, the newly released tool has helped security researchers discover file vulnerabilities and model vulnerabilities in open source models generated by one provider. A major update at BlackHat arsenal will also include software scanning vulnerabilities provided by another 3rd-party provider. In this hands-on demonstration, we'll create vulnerable AI payloads and demonstrate their risk through the automated vulnerability scanning that powers AI Risk Database.",
   "Github URL": "",
   "Tracks": [
    "Arsenal Lab",
@@ -24525,7 +24525,7 @@
  },
  {
   "Tool Name": "Hands-on RF Hacking: Your Table is (always) Ready",
-  "Description": "A collection of hands-on cybersecurity lab materials covering RF hacking, wireless security, and SDR signal manipulation using tools like HackRF One, designed for practical training in radio frequency security assessment.",
+  "Description": "Hack your restaurant pager with software defined radio! You'll sniff for control signals from \"the restaurant's\" transmitter used to trigger other pagers. Then you'll capture a transmission and examine how it's put together. With your understanding of the payload structure, you'll then generate a modified transmission to trigger your own pager. This project will combine low-level waveform analysis with higher level scripting to get the job done.",
   "Github URL": "",
   "Tracks": [
    "Arsenal Lab"
