@@ -109,13 +109,13 @@ def age_reason(url, year, cache):
     if not info:
         return None
     if info.get("status") == 404:
-        return "repo not found (404)"
+        return ("repo not found (404)", "")
     if info.get("status") == "error":
         return None
     if info["full_name"].lower() != f"{parts[0]}/{parts[1]}".lower():
-        return f"repo was renamed/transferred (now {info['full_name']})"
+        return ("repo was renamed or transferred", f"now https://github.com/{info['full_name']}")
     if int(info["created"]) > int(year) + 1:
-        return f"repo created {info['created']}, more than a year after the {year} event"
+        return ("repo created more than a year after the event", f"created {info['created']}, event {year}")
     return None
 
 
@@ -144,18 +144,21 @@ def main():
         cache = lookup_repos(keys)
 
     for rel, name, url, year in records:
-        reason = (age_reason(url, year, cache) if check_age else None) or classify(name, url)
-        if reason:
-            flagged[reason].append((rel, name, url))
+        hit = age_reason(url, year, cache) if check_age else None
+        if not hit:
+            reason = classify(name, url)
+            hit = (reason, "") if reason else None
+        if hit:
+            flagged[hit[0]].append((rel, name, url, hit[1]))
 
     n = sum(len(v) for v in flagged.values())
     print(f"# URL accuracy audit\n\n{n} of {total} URLs flagged for manual review. "
           "Heuristics only — a flagged URL may be correct (e.g. a repo named after a codename).\n")
     for reason, rows in sorted(flagged.items(), key=lambda kv: -len(kv[1])):
         print(f"\n## {reason} ({len(rows)})\n")
-        print("| File | Tool | URL |\n|---|---|---|")
-        for rel, name, url in rows:
-            print(f"| `{rel}` | {name} | {url} |")
+        print("| File | Tool | URL | Note |\n|---|---|---|---|")
+        for rel, name, url, note in rows:
+            print(f"| `{rel}` | {name} | {url} | {note} |")
 
 
 if __name__ == "__main__":

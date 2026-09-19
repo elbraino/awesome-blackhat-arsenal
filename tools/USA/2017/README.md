@@ -177,7 +177,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![USA 2017](https://img.shields.io/badge/USA%202017-black) ![Category: 📱 Mobile Security](https://img.shields.io/badge/Category:%20📱%20Mobile%20Security-yellow) ![Marco Lancini](https://img.shields.io/badge/Marco%20Lancini-informational)
 
-🔗 **Link:** [NEEDLE](https://github.com/WithSecureLabs/needle)  
+🔗 **Link:** [NEEDLE](https://github.com/ReversecLabs/needle)  
 📝 **Description:** Needle (github.com/mwrlabs/needle) is the MWR's iOS Security Testing Framework, released at Black Hat USA in August 2016. It is an open source modular framework which aims to streamline the entire process of conducting security assessments of iOS applications, and acts as a central point from which to do so. Given its modular approach, Needle is easily extensible and new modules can be added in the form of python scripts. Needle is intended to be useful not only for security professionals, but also for developers looking to secure their code. A few examples of testing areas covered by Needle include: data storage, inter-process communication, network communications, static code analysis, hooking and binary protections. The only requirement in order to run Needle effectively is a jailbroken device. With the release of Needle v1.0.0, we provided a major overhaul of its core and the introduction of a new native agent, written entirely in Objective-C. The new NeedleAgent (https://github.com/mwrlabs/needle-agent) is an open source iOS app complementary to Needle, that will allow it to programmatically perform tasks natively on the device, eliminating the need for third party tools. The agent, already available for download on Cydia, will (over time) allow Needle to: Provide transparent support for iOS 10 and future versions Remove all dependencies required now Provide a platform that will enable security testing on non-jailbroken devices The tool's architecture, capabilities and road-map will be described. A demonstration will also be performed of how Needle can be used to find vulnerabilities in iOS applications from both a black-box and white-box perspective (if source code is provided).
 
 </details>
@@ -444,7 +444,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![USA 2017](https://img.shields.io/badge/USA%202017-black) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Peter Arzamendi](https://img.shields.io/badge/Peter%20Arzamendi-informational) ![Will Vandevanter](https://img.shields.io/badge/Will%20Vandevanter-informational)
 
-🔗 **Link:** [SERPICO](https://github.com/SerpicoProject/Serpico)  
+🔗 **Link:** [SERPICO](https://github.com/BuffaloWill/Serpico)  
 📝 **Description:** SERPICO is a simple and intuitive report generation and collaboration tool; the primary function is to cut down on the amount of time it takes to write a penetration testing report. Serpico was built by penetration testers with a pen-testers methodology in mind. Our goal is to save you time and improve your reporting process. We are excited to be back at Arsenal!! We have a large release of Serpico planned with some exciting features to show off including plug-ins to simplify your life, more reports to choose from, shiny UI improvements, and better scoring. It might make you hate report writing just a little bit less.
 
 </details>

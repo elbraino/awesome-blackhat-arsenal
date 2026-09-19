@@ -29,7 +29,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![Europe 2023](https://img.shields.io/badge/Europe%202023-blue) ![Category: ⚙️ Miscellaneous / Lab Tools](https://img.shields.io/badge/Category:%20⚙️%20Miscellaneous%20/%20Lab%20Tools-gray) ![Quentin Kaiser](https://img.shields.io/badge/Quentin%20Kaiser-informational) ![Florian Lukavsky](https://img.shields.io/badge/Florian%20Lukavsky-informational)
 
-🔗 **Link:** [Hands-on Firmware Extraction, Exploiration, and Emulation](https://github.com/onekey-sec/BHEU23-firmware-workshop)  
+🔗 **Link:** [Hands-on Firmware Extraction, Exploiration, and Emulation](https://github.com/onekey-sec/firmware-workshop)  
 📝 **Description:** Workshop materials for hands-on firmware security analysis using unblob, a flexible firmware extractor that automatically identifies, carves, decompresses, and extracts nested file systems and archives from firmware images.
 
 </details>

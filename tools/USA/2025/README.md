@@ -297,7 +297,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![USA 2025](https://img.shields.io/badge/USA%202025-black) ![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Lucas Antoniaci](https://img.shields.io/badge/Lucas%20Antoniaci-informational)
 
-🔗 **Link:** [Blackbird](https://github.com/p1ngul1n0/blackbird)  
+🔗 **Link:** [Blackbird](https://github.com/antoniaci/blackbird)  
 📝 **Description:** Blackbird is an OSINT tool that searches for user accounts across social networks by username and email. It supports over 500 platforms, offers a web-based interface, and provides exportable results for reconnaissance and digital footprint analysis.
 
 </details>
@@ -515,7 +515,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![USA 2025](https://img.shields.io/badge/USA%202025-black) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Sho Nakatani](https://img.shields.io/badge/Sho%20Nakatani-informational)
 
-🔗 **Link:** [wish: An AI-Powered Natural Language Shell for Penetration Testing](https://github.com/SecDev-Lab/wish)  
+🔗 **Link:** [wish: An AI-Powered Natural Language Shell for Penetration Testing](https://github.com/AgenticSec/wish)  
 📝 **Description:** wish is an AI-driven shell environment that translates natural language input into executable shell commands, streamlining penetration testing workflows. Traditional penetration testing heavily relies on memorizing commands or copying and pasting from references, which can be inefficient. wish enables security professionals to focus on strategy and situational awareness rather than syntax recall. Beyond simple command translation, wish integrates a built-in knowledge base that provides contextual recommendations based on previous executions, making it a powerful assistant for both novice and expert penetration testers. It also seamlessly interacts with C2 frameworks, enabling post-exploitation activities such as privilege escalation, lateral movement, and persistence setup through natural language instructions. With its modular design, wish can be extended to support additional tools, making it a flexible and scalable solution for modern penetration testing workflows.
 
 </details>
@@ -654,7 +654,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![USA 2025](https://img.shields.io/badge/USA%202025-black) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Apurva Goenka](https://img.shields.io/badge/Apurva%20Goenka-informational)
 
-🔗 **Link:** [DNSForge – Intercept Credentials on Windows Networks](https://github.com/AonCyberLabs/DNSForge)  
+🔗 **Link:** [DNSForge – Intercept Credentials on Windows Networks](https://github.com/strozfriedberg/DNSForge)  
 📝 **Description:** DNSForge is a network penetration testing tool that introduces a novel tactic to intercept and manipulate name resolution requests made to the authoritative DNS server in an internal network environment. DNSForge achieves interception and reuse of Windows user credentials without any user interaction. While existing poisoning attacks target fallback protocols (such as LLMNR and NBT-NS) or DNS over IPv6, DNSForge employs manipulations on layer 2 to target the primary DNS protocol over IPv4. This enables the tool to bypass current mitigations against existing poisoning attacks as it imitates a legitimate response to name resolutions requests over DNS. Hence, the non-interactive, vulnerable-by-design and seemingly legitimate elements of this attack ensure higher success rates as compared to traditional poisoning attacks.
 
 </details>
@@ -735,7 +735,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![USA 2025](https://img.shields.io/badge/USA%202025-black) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Thomas Roccia](https://img.shields.io/badge/Thomas%20Roccia-informational)
 
-🔗 **Link:** [Nova Rule: The Prompt Pattern Matching](https://github.com/fr0gger/nova-framework)  
+🔗 **Link:** [Nova Rule: The Prompt Pattern Matching](https://github.com/Nova-Hunting/nova-framework)  
 📝 **Description:** With the widespread adoption of LLMs and Generative AI, individuals and organizations are leveraging these technologies daily, whether for customer support automation, code generation, or business automation. But with increased adoption comes new security risks. The attack surface is expanding, and security teams still lack clear strategies for detecting malicious GenAI activity. How do you identify threat actor activity in your AI system? How do you detect malicious prompt usage? How can threat intelligence teams hunt for adversarial GenAI behavior? That's where NOVA comes in. NOVA is an early-stage tool for prompt hunting, designed to detect malicious or policy-violating prompts within GenAI systems. If your organization runs an AI-powered service, you might need a way to monitor, analyze, and detect specific prompt patterns before they lead to abuse, data leaks, or security incidents.
 
 </details>

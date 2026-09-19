@@ -283,7 +283,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![USA 2019](https://img.shields.io/badge/USA%202019-black) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![David Hunt](https://img.shields.io/badge/David%20Hunt-informational)
 
-🔗 **Link:** [CALDERA: Automating Adversary Emulation](https://github.com/mitre/caldera)  
+🔗 **Link:** [CALDERA: Automating Adversary Emulation](https://github.com/apache/caldera)  
 📝 **Description:** Adversary emulation is great, but it can be time consuming – so why not automate it? CALDERA automates the adversary emulation process, allowing users to run fully automated adversary emulation exercises, aligning its operations with MITRE ATT&CK. Blue and red teamers alike can use CALDERA for training, to test analytics and defensive tools, and just generally to stress test their networks and systems. CALDERA was first released in late 2017 featuring its end-to-end “adversary mode” capability, where operators could use CALDERA to run fully end-to-end tests emulating the full adversary lifecycle. This mode allowed CALDERA to run intelligently and autonomously, leveraging a planning system to dynamically compose operations. Since this first release, the MITRE team has continued to expand CALDERA’s capabilities, releasing a new “chain mode” in 2019. This new mode allows users much more control over CALDERA, letting them orchestrate and automate atomic unit tests as opposed to end-to-end operations. With more fine-grained control over CALDERA, users can better control their operations to accommodate more use cases, such as testing and refining analytics. This demo will highlight both of CALDERA’s modes, providing demos and guides on how to use CALDERA including how to extend it with new plugins and adding additional tests. CALDERA is open source and can be downloaded off of the MITRE GitHub repository.
 
 </details>
@@ -833,7 +833,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![USA 2019](https://img.shields.io/badge/USA%202019-black) ![Category: 🧠 Social Engineering / General](https://img.shields.io/badge/Category:%20🧠%20Social%20Engineering%20/%20General-pink) ![Spencer McIntyre](https://img.shields.io/badge/Spencer%20McIntyre-informational)
 
-🔗 **Link:** [King Phisher: A Phishing Campaign Toolkit](https://github.com/rsmusllp/king-phisher)  
+🔗 **Link:** [King Phisher: A Phishing Campaign Toolkit](https://github.com/CrimsonForge-io/king-phisher)  
 📝 **Description:** King Phisher is a phishing toolkit created to meet the highly customized and flexible needs that offensively-focused security testers require. It boasts a wide range of features to facilitate it's use both on offensive, breaching-centric engagements as well as for user awareness training. This arsenal demonstration will show the newer features that have been added to King Phisher in recent years. Viewers will see the latest campaign improvements including from the template selection process to gathering MFA tokens, validating submitted credentials and the Let's Encrypt integration. By integrating with Let's Encrypt through certbot, users are able to quickly and easily issue certificates for, and enable HTTPS for their phishing sites. Finally, viewers will see a demonstration of the newest plugins for campaign data management, the usage of various alerting services and finally SPAM evasion. Source code: https://github.com/securestate/king-phisher
 
 </details>

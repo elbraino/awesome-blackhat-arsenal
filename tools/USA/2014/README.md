@@ -207,7 +207,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![USA 2014](https://img.shields.io/badge/USA%202014-black) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Bahtiyar Bircan](https://img.shields.io/badge/Bahtiyar%20Bircan-informational)
 
-🔗 **Link:** [Heybe - Penetration Testing Automation Kit](https://github.com/BahtiyarB/heybe)  
+🔗 **Link:** [Heybe - Penetration Testing Automation Kit](https://github.com/heybe/heybe)  
 📝 **Description:** Heybe is Penetration Testing Automation Kit. It consists of modules that can be used to fully automate pen-tests and make them mode effective. With Heybe you can 0wn all systems in a target company in matter of minutes.
 
 </details>

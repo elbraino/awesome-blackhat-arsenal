@@ -112,7 +112,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![Canada 2025](https://img.shields.io/badge/Canada%202025-purple) ![Category: ⚙️ Miscellaneous / Lab Tools](https://img.shields.io/badge/Category:%20⚙️%20Miscellaneous%20/%20Lab%20Tools-gray) ![Donato Capitella](https://img.shields.io/badge/Donato%20Capitella-informational)
 
-🔗 **Link:** [Spikee](https://github.com/WithSecureLabs/spikee)  
+🔗 **Link:** [Spikee](https://github.com/ReversecLabs/spikee)  
 📝 **Description:** Spikee (https://spikee.ai) is an open-source tool we developed from two years of security assessments of LLM applications and GenAI use cases, focusing on practical cyber security risks. These risks stem from the interaction between LLMs and the applications that rely on them, leading to exploitable outcomes such as data exfiltration, XSS, and resource exhaustion—rather than generating harmful content, as seen in typical "LLM red teaming". Unlike academic approaches that can be impractical in the field and often give difficult to interpret, generic results, Spikee gives pentesters the tools to actually test LLM apps with customizable datasets and attacks that match a specific application's constraints and use-cases. Built from our hands-on experience, Spikee addresses prompt injection risks across the entire LLM application pipeline, featuring evasion plugins and dynamic attacks specifically designed to bypass model alignment and state-of-the-art prompt injection filters.
 
 </details>
@@ -221,7 +221,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![Canada 2025](https://img.shields.io/badge/Canada%202025-purple) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Josh Sokol](https://img.shields.io/badge/Josh%20Sokol-informational)
 
-🔗 **Link:** [SimpleRisk](https://github.com/simplerisk/simplerisk)  
+🔗 **Link:** [SimpleRisk](https://github.com/simplerisk/code)  
 📝 **Description:** SimpleRisk is an open-source Governance, Risk Management, and Compliance (GRC) platform that replaces spreadsheet-based risk management. It provides a structured framework for assessing web application vulnerabilities, tracking security risks, managing compliance requirements, and generating reports. Designed as an affordable alternative to enterprise GRC solutions, it enables security professionals to make informed risk-based decisions with a streamlined workflow.
 
 </details>

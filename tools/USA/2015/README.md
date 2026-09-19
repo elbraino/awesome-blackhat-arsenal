@@ -29,7 +29,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![USA 2015](https://img.shields.io/badge/USA%202015-black) ![Category: ⚙️ Miscellaneous / Lab Tools](https://img.shields.io/badge/Category:%20⚙️%20Miscellaneous%20/%20Lab%20Tools-gray) ![Bahtiyar Bircan](https://img.shields.io/badge/Bahtiyar%20Bircan-informational) ![Gokhan Alkan](https://img.shields.io/badge/Gokhan%20Alkan-informational)
 
-🔗 **Link:** [Heybe - Pentest Automation Toolkit](https://github.com/BahtiyarB/heybe)  
+🔗 **Link:** [Heybe - Pentest Automation Toolkit](https://github.com/heybe/heybe)  
 📝 **Description:** Heybe is Penetration Testing Automation Kit. It consists of modules that can be used to fully automate each step of pen-tests and make them most effective. With Heybe you can own all systems in a target company in matter of minutes. Heybe was first released during Black Hat USA 2014 Arsenal. This is new and updated version with some new modules. Heybe modules:Fener: Fast network discovery tool optimized for speed. Fener leverages several networking tools to discover all hosts within target network. Fener leverages automated active and passive discovery techniques to discover targets. Crowbar (Prevoiusly Levye): Brute force tool. Levye is used for automating brute forcing process against common and not so common protocols like openvpn and VNC.NetworK9 (Previously DepDep): Post exploitation tool. NK9 is a merciless sentinel which will seek sensitive files containing critical info leaking through your network. SeeS: High precision social engineering tool. Sees is used for performing tail-made social engineering campaigns with high success ratio.ADHunter: MS Active Directory takeover tool. It cane used to automate and speed up active directory attacks and give the keys to the kingdom in minutes. More information about Heybe modules can be found at following links:http://www.toolswatch.org/2014/05/new-tool-depdep-v1-0-determine-critical-data-in-network-sharing-released/http://www.galkan.net/2014/03/how-to-determine-critical-data-in-netwok-sharing.htmlhttp://blackarch.org/tools.html
 
 </details>
@@ -340,7 +340,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![USA 2015](https://img.shields.io/badge/USA%202015-black) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Quentin Long](https://img.shields.io/badge/Quentin%20Long-informational)
 
-🔗 **Link:** [ElastAlert](https://github.com/Yelp/elastalert)  
+🔗 **Link:** [ElastAlert](https://github.com/YelpArchive/elastalert)  
 📝 **Description:** ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch. It works by combining Elasticsearch with two types of modular components, rule types and alerts. Elasticsearch is periodically queried and the data is passed to the rule type, which determines when a match is found. When a match occurs, it is given to one or more alerts, which take action based on the match.
 
 </details>
@@ -376,7 +376,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![USA 2015](https://img.shields.io/badge/USA%202015-black) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Ivan Leichtling](https://img.shields.io/badge/Ivan%20Leichtling-informational)
 
-🔗 **Link:** [Osxcollector](https://github.com/Yelp/osxcollector)  
+🔗 **Link:** [Osxcollector](https://github.com/YelpArchive/osxcollector)  
 📝 **Description:** We use Macs a lot at Yelp, which means that we see our fair share of Mac-specific security alerts. Host based detectors will tell us about known malware infestations or weird new startup items. Network based detectors see potential C2 callouts or DNS requests to resolve suspicious domains. Sometimes our awesome employees just let us know, "I think I have like Stuxnet or conficker or something on my laptop." When alerts fire, our incident response team's first goal is to "stop the bleeding" to contain and then eradicate the threat. Next, we move to "root cause the alert" figuring out exactly what happened and how we'll prevent it in the future. One of our primary tools for root causing OS X alerts is OSXCollector. OSXCollector is an open source forensic evidence collection and analysis toolkit for OS X. It was developed in-house at Yelp to automate the digital forensics and incident response (DFIR) our crack team of responders had been doing manually.
 
 </details>

@@ -116,7 +116,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![Asia 2015](https://img.shields.io/badge/Asia%202015-green) ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Joe Cummins](https://img.shields.io/badge/Joe%20Cummins-informational)
 
-🔗 **Link:** [CLAW](https://github.com/clawdbot/clawdbot)  
+🔗 **Link:** [CLAW](https://github.com/openclaw/openclaw)  
 📝 **Description:** Red Tiger Labs Control Layer Assessment Workstation is looking to redefine the way that ICS SCADA and other critical infrastructure utilities examine their cybersecurity posture. Developed in partnership with the Canadian Federal Government, under the direction of ICS experts, the toolset takes a passive approach to cybersecurity by learning to "look, listen, and feel" each network. Building into its suite of cutting-edge technologies developed with the brightest minds in Canadian InfoSec, CLAW combines visualization, mitigation, and remediation activities into one cohesive view of the entire network. The audience will learn not only how this toolset is effectively raising the bar from both an enterprise and control systems perspective, but also real world instances of incident response, vulnerability assessment, and early detection of gaps and overlaps within existing deployments.
 
 </details>

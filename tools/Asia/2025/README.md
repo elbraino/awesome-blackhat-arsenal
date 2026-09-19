@@ -123,7 +123,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![Asia 2025](https://img.shields.io/badge/Asia%202025-green) ![Category: 🌐 Web/AppSec or Red Teaming](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec%20or%20Red%20Teaming-blue) ![sada atsushi](https://img.shields.io/badge/sada%20atsushi-informational) ![fujioka kosuke](https://img.shields.io/badge/fujioka%20kosuke-informational)
 
-🔗 **Link:** [sisakulint](https://github.com/ultra-supara/sisakulint)  
+🔗 **Link:** [sisakulint](https://github.com/sisaku-security/sisakulint)  
 📝 **Description:** sisakulint is a CI-friendly static analysis tool (SAST) for GitHub Actions workflows. It validates YAML files against GitHub's security documentation guidelines, checks organization-specific policies, and performs semantic analysis to detect CI/CD security risks aligned with the OWASP Top 10 CI/CD Security Risks.
 
 </details>

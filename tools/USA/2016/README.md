@@ -416,7 +416,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![USA 2016](https://img.shields.io/badge/USA%202016-black) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Spencer McIntyre](https://img.shields.io/badge/Spencer%20McIntyre-informational)
 
-🔗 **Link:** [King Phisher](https://github.com/rsmusllp/king-phisher)  
+🔗 **Link:** [King Phisher](https://github.com/CrimsonForge-io/king-phisher)  
 📝 **Description:** What differentiates King Phisher from other phishing tools is the focus it has on the requirements of consultants needing a tool for penetration testing. It was built from the ground up with a heavy emphasis on flexibility to allow pentesters to tailor their attack for their current assessment. It also includes unique features not included in other phishing tools such as the ability to craft calendar invite messages. King Phisher is an open source tool for testing and promoting user awareness by simulating real world phishing attacks. It features an easy to use, yet very flexible architecture allowing full control over both emails and server content. King Phisher can be used to run campaigns ranging from simple awareness training to more complicated scenarios in which user aware content is served for harvesting credentials and drive by attacks.
 
 </details>
@@ -809,7 +809,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![USA 2016](https://img.shields.io/badge/USA%202016-black) ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Yiannis Ioannides](https://img.shields.io/badge/Yiannis%20Ioannides-informational)
 
-🔗 **Link:** [WarBerryPi Troops Deployment in Red Teaming Scenarios](https://github.com/christyler80/OpenPenTest)  
+🔗 **Link:** [WarBerryPi Troops Deployment in Red Teaming Scenarios](https://github.com/downsway-uk/OpenPenTest)  
 📝 **Description:** What if the only requirements for taking down a corporate network are a bit of smooth talking, 60 minutes and $35? Traditional hacking techniques and corporate espionage have evolved. Advanced attacks nowadays include a combination of social engineering, physical security penetration and logical security hacking. It is our job as security professionals to think outside the box and think about the different ways that hackers might use to infiltrate corporate networks. The WarBerryPi is a customized RaspBerryPi hacking dropbox which is used in Red Teaming engagements with the sole purpose of performing reconnaissance and mapping of an internal network and providing access to the remote hacking team. The outcome of these red teaming exercises is the demonstration that if a low cost microcomputer loaded with python code can bypass security access controls and enumerate and gather such a significant amount of information about the infrastructure network which is located at; then what dedicated hackers with a large capital can do is beyond conception.
 
 </details>

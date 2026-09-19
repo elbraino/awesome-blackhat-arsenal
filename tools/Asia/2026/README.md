@@ -142,7 +142,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![Asia 2026](https://img.shields.io/badge/Asia%202026-green) ![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-blue) ![Amelia Chua](https://img.shields.io/badge/Amelia%20Chua-informational)
 
-🔗 **Link:** [Canary WAF](https://github.com/umiyuikaiteitan/SCC_2025_Group_2)  
+🔗 **Link:** [Canary WAF](https://github.com/umiyuikaiteitan/Canary-WAF)  
 📝 **Description:** Canary WAF is a deceptive defense system that combines a Web Application Firewall with honeypot capabilities for web application security. It redirects detected web attack attempts to a fake database populated with synthetic data, drawing attackers away from production systems while collecting telemetry on their techniques. The platform provides defenders with real-time attack visibility and intelligence to inform incident response and threat modeling.
 
 </details>
@@ -435,7 +435,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![Asia 2026](https://img.shields.io/badge/Asia%202026-green) ![Category: 🤖 AI, ML & Data Science](https://img.shields.io/badge/Category:%20🤖%20AI,%20ML%20&%20Data%20Science-brightgreen) ![Thomas Roccia](https://img.shields.io/badge/Thomas%20Roccia-informational)
 
-🔗 **Link:** [NOVA Ecosystem: Your AI Security Arsenal](https://github.com/fr0gger/nova-framework)  
+🔗 **Link:** [NOVA Ecosystem: Your AI Security Arsenal](https://github.com/Nova-Hunting/nova-framework)  
 📝 **Description:** NOVA is an open-source prompt pattern matching engine that detects and classifies adversarial prompts targeting LLM applications, introducing the concept of Indicators of Prompt Compromise (IoPC). It combines keyword rules, semantic similarity, and LLM-based evaluation in a YARA-inspired syntax, integrating into LLM pipelines, MCP servers, and red-team frameworks. The ecosystem extends to PromptIntel and Proximity modules for hunting jailbreaks, data exfiltration, and prompt injection attempts before execution.
 
 </details>

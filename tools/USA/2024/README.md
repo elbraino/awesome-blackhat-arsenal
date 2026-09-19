@@ -381,7 +381,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![USA 2024](https://img.shields.io/badge/USA%202024-black) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Anthony Rose](https://img.shields.io/badge/Anthony%20Rose-informational) ![Jake Krasnov](https://img.shields.io/badge/Jake%20Krasnov-informational)
 
-🔗 **Link:** [Moriarty](https://github.com/AzizKpln/Moriarty-Project)  
+🔗 **Link:** [Moriarty](https://github.com/AzizKpln/Gokboru_Intel)  
 📝 **Description:** Moriarty is a.NET tool designed to identify vulnerabilities for privilege escalation in Windows environments. Building upon Watson and Sherlock, Moriarty extends their capabilities by incorporating advanced scanning techniques for newer vulnerabilities and integrating additional checks. This tool supports a wide range of Windows versions, from Windows 10 to Windows 11, and Server versions 2016, 2019, and 2022. Moriarty differentiates itself by its ability to enumerate missing KBs and detect various vulnerabilities linked to privilege escalation, offering suggestions for potential exploits. The tool's extensive database includes well-known vulnerabilities such as PrintNightmare (CVE-2021-1675), Log4Shell (CVE-2021-44228), and SMBGhost (CVE-2020-0796), among others.
 
 </details>
@@ -545,7 +545,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![USA 2024](https://img.shields.io/badge/USA%202024-black) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Yakir Kadkoda](https://img.shields.io/badge/Yakir%20Kadkoda-informational) ![Mor Weinberger](https://img.shields.io/badge/Mor%20Weinberger-informational)
 
-🔗 **Link:** [CVE Half-Day Watcher: Hunting Down Vulnerabilities Before the Patch Drops](https://github.com/Aqua-Nautilus/CVE-Half-Day-Watcher)  
+🔗 **Link:** [CVE Half-Day Watcher: Hunting Down Vulnerabilities Before the Patch Drops](https://github.com/Research-Nautilus/CVE-Half-Day-Watcher)  
 📝 **Description:** Defenders and attackers often simplify vulnerabilities into '0-day' or '1-day' categories, neglecting the nuanced gray areas where attackers thrive. In this session, we'll explore critical flaws we've uncovered in the open-source vulnerability disclosure process and introduce our tool to detect open-source projects that are at risk from these flaws. We'll reveal how vulnerabilities can be exploited prior to receiving patches and official announcements, posing significant risks for users. Our comprehensive analysis of GitHub (including issues, pull requests, and commit messages) and NVD metadata will illuminate vulnerabilities that don't neatly fit into the conventional '0-day' or '1-day' classifications but instead fall into 'Half-Day' or '0.75-Day' periods – moments when vulnerabilities are known but not yet fully disclosed or patched. Furthermore, we'll spotlight the techniques employed to identify these vulnerabilities, showcasing various scenarios and vulnerabilities discovered through this method. During this session, we'll introduce an open-source tool designed to detect such vulnerabilities and emphasize the window of opportunity for attackers to exploit this information and develop exploits. Our objective is to aid practitioners in identifying and mitigating issues throughout their vulnerability disclosure lifecycle.
 
 </details>

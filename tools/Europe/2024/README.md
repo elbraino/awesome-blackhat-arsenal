@@ -355,7 +355,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![Europe 2024](https://img.shields.io/badge/Europe%202024-blue) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Ofek Itach](https://img.shields.io/badge/Ofek%20Itach-informational) ![Yakir Kadkoda](https://img.shields.io/badge/Yakir%20Kadkoda-informational)
 
-🔗 **Link:** [TrailShark: Unraveling AWS API and Service Interactions](https://github.com/aqua-nautilus/trailshark)  
+🔗 **Link:** [TrailShark: Unraveling AWS API and Service Interactions](https://github.com/Research-Nautilus/TrailShark)  
 📝 **Description:** TrailShark Capture Utility is a tool designed to integrate AWS CloudTrail logs directly into Wireshark. This integration allows for near-real-time analysis of AWS API calls, providing invaluable insights for debugging, security and research. With TrailShark, you can capture and examine the internal API calls triggered by AWS services, better understand what is "running under the hood", consequently shedding light on potential vulnerabilities and security flaws.
 
 </details>
@@ -393,7 +393,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![Europe 2024](https://img.shields.io/badge/Europe%202024-blue) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Mor Weinberger](https://img.shields.io/badge/Mor%20Weinberger-informational) ![Yakir Kadkoda](https://img.shields.io/badge/Yakir%20Kadkoda-informational)
 
-🔗 **Link:** [CVE Half-Day Watcher: Hunting Down Vulnerabilities Before the Patch Drops](https://github.com/Aqua-Nautilus/CVE-Half-Day-Watcher)  
+🔗 **Link:** [CVE Half-Day Watcher: Hunting Down Vulnerabilities Before the Patch Drops](https://github.com/Research-Nautilus/CVE-Half-Day-Watcher)  
 📝 **Description:** Defenders and attackers often simplify vulnerabilities into '0-day' or '1-day' categories, neglecting the nuanced gray areas where attackers thrive. In this session, we'll explore critical flaws we've uncovered in the open-source vulnerability disclosure process and introduce our tool to detect open-source projects that are at risk from these flaws. We'll reveal how vulnerabilities can be exploited prior to receiving patches and official announcements, posing significant risks for users. Our comprehensive analysis of GitHub (including issues, pull requests, and commit messages) and NVD metadata will illuminate vulnerabilities that don't neatly fit into the conventional '0-day' or '1-day' classifications but instead fall into 'Half-Day' or '0.75-Day' periods – moments when vulnerabilities are known but not yet fully disclosed or patched. Furthermore, we'll spotlight the techniques employed to identify these vulnerabilities, showcasing various scenarios and vulnerabilities discovered through this method. During this session, we'll introduce an open-source tool designed to detect such vulnerabilities and emphasize the window of opportunity for attackers to exploit this information and develop exploits. Our objective is to aid practitioners in identifying and mitigating issues throughout their vulnerability disclosure lifecycle.
 
 </details>
@@ -608,7 +608,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![Europe 2024](https://img.shields.io/badge/Europe%202024-blue) ![Category: 🧠 Social Engineering / General](https://img.shields.io/badge/Category:%20🧠%20Social%20Engineering%20/%20General-pink) ![Sergey Polzunov](https://img.shields.io/badge/Sergey%20Polzunov-informational)
 
-🔗 **Link:** [Fabric: automating cybersecurity reporting](https://github.com/blackstork-io/fabric)  
+🔗 **Link:** [Fabric: automating cybersecurity reporting](https://github.com/blackstork-io/blackstork-cli)  
 📝 **Description:** Fabric is an open-source CLI tool and a configuration language for automating cybersecurity reporting. Taking inspiration from Terraform, we built a reporting-as-code DevSecOps tool that automates data collation and content rendering. By automating operational reporting, Fabric saves security teams time, formalizes communications, and improves stakeholder management.
 
 </details>
