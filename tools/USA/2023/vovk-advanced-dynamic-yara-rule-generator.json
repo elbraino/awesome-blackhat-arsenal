@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Vovk - Advanced Dynamic Yara Rule Generator",
+  "Description": "Vovk - Debugging module for Advanced Dynamic Yara Rule Generation. Vovk is a dynamic analysis tool that can be used as a module with the debugger (WinDBG). The tool itself is a DLL, built using both WdbgExts and DbgEng frameworks. The way the tool works is pretty straightforward. You load Vovk into the debugger and then execute it. It runs through the malware and collects code snippets from memory and writes them to Yara file as a complete ruleset on the disk. You can then use the generated Yara ruleset to contain and neutralize malware campaigns or simply respond to security incidents that you are working on.",
+  "Github URL": "https://github.com/malienist/vovk",
+  "Tracks": [
+    "Malware Defense",
+    "Reverse Engineering"
+  ],
+  "Speakers": [
+    "Vishal Thakur"
+  ],
+  "Year": "2023",
+  "Location": "USA"
+}

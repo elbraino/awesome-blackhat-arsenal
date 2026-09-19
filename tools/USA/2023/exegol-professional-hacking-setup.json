@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Exegol: Professional Hacking Setup",
+  "Description": "Exegol is a free and open-source pentesting environment made for professionals. It allows pentesters to conduct their engagements in a fast, effective, secure and flexible way. Exegol is a set of pre-configured and finely tuned docker images that can be used with a user-friendly Python wrapper to deploy dedicated and disposable environments in seconds.",
+  "Github URL": "https://github.com/theporgs/exegol",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Charlie Bromberg",
+    "Mathieu Calemard du Gardin"
+  ],
+  "Year": "2023",
+  "Location": "USA"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Opensource Tool - Exposor: (Identifying the Exposure of Technologies using Internet Connected Device Platforms)",
+  "Description": "Exposor is a contactless reconnaissance tool that searches across multiple internet intelligence platforms (Censys, Fofa, Shodan, Zoomeye) using a unified query syntax to identify exposed technologies and vulnerabilities.",
+  "Github URL": "https://github.com/abuyv/exposor",
+  "Tracks": [
+    "OSINT - Open Source Intelligence"
+  ],
+  "Speakers": [
+    "Abdulla Abdullayev"
+  ],
+  "Year": "2024",
+  "Location": "MEA"
+}

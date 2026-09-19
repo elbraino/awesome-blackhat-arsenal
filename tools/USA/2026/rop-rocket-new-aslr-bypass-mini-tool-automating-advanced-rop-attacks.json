@@ -1,0 +1,14 @@
+{
+  "Tool Name": "ROP ROCKET: New ASLR Bypass Mini-Tool & Automating Advanced ROP Attacks",
+  "Description": "ROP ROCKET is an advanced Windows code-reuse attack framework with extensive automatic chain generation, including direct syscall chains, Heaven's Gate transitions between x86 and x64, and shellcodeless techniques that chain roughly 25 security-relevant WinAPIs. Gadget emulation — sometimes recursive across portions of a chain — resolves parameter, pointer, and distance problems that otherwise defeat automation. The new ASLR Bypass Mini-Tool generates nine bypasses for 64-bit high-entropy ASLR, building complete x64 chains that recover key system DLL bases.",
+  "Github URL": "https://github.com/Bw3ll/ROP_ROCKET",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Dr. Bramwell Brizendine",
+    "Shiva Shashank Kusuma"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

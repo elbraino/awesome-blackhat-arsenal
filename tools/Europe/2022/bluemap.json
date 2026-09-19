@@ -1,0 +1,14 @@
+{
+  "Tool Name": "BlueMap",
+  "Description": "An interactive exploitation toolkit that enables penetration testers and red teamers to conduct Azure auditing, discovery, enumeration, and exploitation while reducing operational complexity.",
+  "Github URL": "https://github.com/SikretaLabs/BlueMap",
+  "Tracks": [
+    "Web AppSec",
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Maor Tal"
+  ],
+  "Year": "2022",
+  "Location": "Europe"
+}

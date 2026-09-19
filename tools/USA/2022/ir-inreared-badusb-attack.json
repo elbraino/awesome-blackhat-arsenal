@@ -1,0 +1,14 @@
+{
+  "Tool Name": "IR(Inreared) BadUSB attack",
+  "Description": "Conventional BadUSB executes a pre-programmed key sequence upon insertion. This lecture reports a new vulnerability that arises from the addition of an IR receiver element to the traditional BadUSB, such as the IR Infrared Receiver TL1838 VS1838B 1838 38Khz. The addition of this element allows an external operator to execute key sequences at arbitrary times. Multiple pre-programmed key sequences can be selected at will by external operation.",
+  "Github URL": "https://github.com/MMVonnSeek/badusb-test",
+  "Tracks": [
+    "Hardware/Embedded",
+    "Internet Of Things"
+  ],
+  "Speakers": [
+    "Michihiro Imaoka"
+  ],
+  "Year": "2022",
+  "Location": "USA"
+}

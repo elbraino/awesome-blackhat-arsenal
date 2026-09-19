@@ -1,0 +1,14 @@
+{
+  "Tool Name": "SMBeagle: SMB Share Hunter",
+  "Description": "A cross-platform SMB file share auditing tool that scans networks for accessible files and reports their read/write permissions, with findings exportable to CSV or Elasticsearch.",
+  "Github URL": "https://github.com/punk-security/smbeagle",
+  "Tracks": [
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Daniel Oates-Lee",
+    "Chris Morris"
+  ],
+  "Year": "2021",
+  "Location": "Europe"
+}

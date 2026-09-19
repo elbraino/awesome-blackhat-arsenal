@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Blackbird",
+  "Description": "Blackbird is an OSINT tool that searches for user accounts across social networks by username and email. It supports over 500 platforms, offers a web-based interface, and provides exportable results for reconnaissance and digital footprint analysis.",
+  "Github URL": "https://github.com/antoniaci/blackbird",
+  "Tracks": [
+    "OSINT - Open Source Intelligence"
+  ],
+  "Speakers": [
+    "Lucas Antoniaci"
+  ],
+  "Year": "2025",
+  "Location": "USA"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "AVET - ANTIVIRUS EVASION TOOL",
+  "Description": "Avet is an antivirus evasion tool: (link: https://github.com/govolution/avet). What & Why: When running an exe file made with msfpayload & co, the exe file will often be recognized by the antivirus software Avet is a antivirus evasion tool targeting windows machines The techniques used in avet evaded 9 antivirus suites (all of the tested), including MS Defender, McAfee, Sophos, Avira and more Avet includes two tools, avet.exe with different antivirus evasion techniques and make_avet for compiling a preconfigured binary file Avet.exe loads ASCII encoded shellcode from a textfile or from a webserver, further it is using an av evasion technique to avoid sandboxing and emulation For encoding the shellcode the tools format.sh and sh_format are included Avet is tested with Kali 2 and tdm-gcc Interactive assistant for easier usage Support for 64bit payloads New: More payloads Support for metasploit psexec Tool URLS: Paper: https://govolution.wordpress.com/2017/07/27/paper-avet-blackhat-usa-2017/ GitHub: https://github.com/govolution/avet",
+  "Github URL": "https://github.com/govolution/avet",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Daniel Sauder"
+  ],
+  "Year": "2017",
+  "Location": "USA"
+}

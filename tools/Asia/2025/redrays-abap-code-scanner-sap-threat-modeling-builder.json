@@ -1,0 +1,13 @@
+{
+  "Tool Name": "RedRays ABAP Code Scanner & SAP Threat Modeling Builder",
+  "Description": "Two open-source SAP security tools: the ABAP Code Scanner performs static analysis with dataflow tracing to identify security vulnerabilities in ABAP code, while the SAP Threat Modeling Builder visualizes interconnections and security risks across ABAP and Java-based SAP landscapes.",
+  "Github URL": "https://github.com/redrays-io/ABAP-Code-Scanner",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Vahagn Vardanian"
+  ],
+  "Year": "2025",
+  "Location": "Asia"
+}

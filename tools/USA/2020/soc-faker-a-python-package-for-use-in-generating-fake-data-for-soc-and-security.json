@@ -1,0 +1,13 @@
+{
+  "Tool Name": "soc-faker: A python package for use in generating fake data for SOC and security automation",
+  "Description": "soc-faker is used to generate fake data for use by Security Operation Centers, Information security professionals, product teams, and many more.",
+  "Github URL": "https://github.com/swimlane/soc-faker",
+  "Tracks": [
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "Josh Rickard"
+  ],
+  "Year": "2020",
+  "Location": "USA"
+}

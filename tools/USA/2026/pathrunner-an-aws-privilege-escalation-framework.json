@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Pathrunner: An AWS Privilege Escalation Framework",
+  "Description": "Pathrunner is a modular AWS privilege escalation framework, comparable to Metasploit or NetExec but aimed at cloud identities and focused on IAM. Building on the paths catalogued at pathfinding.cloud, it automates exploitation of more than 65 escalation paths with configurable payloads and options — exfiltrating a Lambda function's IAM credentials, or having that function create a backdoored role to assume. It can import PMapper graphs to see which paths are exploitable, auto-discover destination resources, and chain multiple escalation steps.",
+  "Github URL": "https://github.com/DataDog/pathrunner",
+  "Tracks": [
+    "Cloud Security"
+  ],
+  "Speakers": [
+    "Seth Art (sethsec)"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

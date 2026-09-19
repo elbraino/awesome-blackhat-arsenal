@@ -1,0 +1,13 @@
+{
+  "Tool Name": "THREADFIX WEB APPLICATION ATTACK SURFACE CALCULATION",
+  "Description": "The ThreadFix web application attack surface calculation utilities allow users to: Calculate a web application's attack source based on application source code (available URLs and parameters) Visually inspect web application attack surface to target manual penetration testing activities Pre-seed dynamic application security testing tools like OWASP ZAP and Burpsuite Calculate changes to application attack surface over time and across git commits Run targeted DAST scans based on new attack surface and attack surface that has changed since previous tests were run",
+  "Github URL": "https://github.com/denimgroup/threadfix-examples",
+  "Tracks": [
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Dan Cornell"
+  ],
+  "Year": "2017",
+  "Location": "USA"
+}

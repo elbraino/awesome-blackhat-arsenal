@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Inlook Email Analysis",
+  "Description": "Inlook is a plugin-based email analysis tool designed to process email with very easy to design and customise functionality. We developed it for the Secret Lab (research team at the University of Auckland School of Computer Science). It allows for flexible and repeatable analysis workflows by sharing a single file (and the tool, of course).",
+  "Github URL": "https://github.com/Lucas-Betts-UoA/Inlook-Email-Analysis",
+  "Tracks": [
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "Lucas Betts"
+  ],
+  "Year": "2025",
+  "Location": "USA"
+}

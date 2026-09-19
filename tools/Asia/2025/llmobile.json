@@ -1,0 +1,14 @@
+{
+  "Tool Name": "LLMobile",
+  "Description": "LLMobile is an AI-enhanced mobile application security scanner that uses Large Language Models to intelligently analyze Android and iOS apps. Unlike traditional static analysis tools that rely on pattern matching, it leverages LLMs to reduce false positives and detect context-dependent vulnerabilities with greater accuracy.",
+  "Github URL": "",
+  "Tracks": [
+    "Android, iOS and Mobile Hacking"
+  ],
+  "Speakers": [
+    "PINAR SADİOĞLU",
+    "Musa ŞANA"
+  ],
+  "Year": "2025",
+  "Location": "Asia"
+}

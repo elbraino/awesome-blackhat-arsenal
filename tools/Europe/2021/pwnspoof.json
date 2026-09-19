@@ -1,0 +1,15 @@
+{
+  "Tool Name": "pwnSpoof",
+  "Description": "A Python tool that generates realistic spoofed log files for common web servers with customizable attack scenarios, useful for cybersecurity training exercises and CTF competitions.",
+  "Github URL": "https://github.com/punk-security/pwnspoof",
+  "Tracks": [
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Simon Gurney",
+    "Daniel Oates Lee",
+    "Peter Holroyde"
+  ],
+  "Year": "2021",
+  "Location": "Europe"
+}

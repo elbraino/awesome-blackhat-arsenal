@@ -1,0 +1,13 @@
+{
+  "Tool Name": "ConfigManBearPig - Identify, Visualize, and Navigate SCCM Attack Paths in BloodHound",
+  "Description": "ConfigManBearPig collects data from a Microsoft Configuration Manager (formerly SCCM) environment using only a low-privileged Active Directory context. It identifies every hierarchy takeover path documented in the Misconfiguration Manager knowledgebase, along with several privilege escalation and credential gathering techniques, then maps and connects those relationships into the BloodHound graph so operators and defenders can explore and query SCCM attack paths interactively.",
+  "Github URL": "https://github.com/SpecterOps/ConfigManBearPig",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Mayyhem"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Maltrieve",
+  "Description": "Maltrieve retrieves malware directly from the location where the bad guys serve it. This allows researchers to acquire fresh samples, verify detection systems, and research infrastructure. Maltrieve includes proxy support, multi-threading, Cuckoo submission, and categorization. The tool is community-developed and available under the terms of the GNU General Public License.",
+  "Github URL": "https://github.com/krmaxwell/maltrieve",
+  "Tracks": [
+    "Malware Offense"
+  ],
+  "Speakers": [
+    "Kyle Maxwell"
+  ],
+  "Year": "2014",
+  "Location": "USA"
+}

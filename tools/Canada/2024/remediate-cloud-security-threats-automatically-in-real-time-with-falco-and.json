@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Remediate Cloud Security Threats Automatically in Real-Time with Falco and Event Driven Ansible",
+  "Description": "A cloud-native runtime security tool for Linux that monitors kernel events like syscalls and alerts on abnormal behavior in real-time, with support for container and Kubernetes metadata enrichment.",
+  "Github URL": "https://github.com/falcosecurity/falco",
+  "Tracks": [
+    "Arsenal Lab",
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "Marat Salakhutdinov",
+    "Aleksandr Varlamov"
+  ],
+  "Year": "2024",
+  "Location": "Canada"
+}

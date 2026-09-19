@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Frogy 2.0 - Automated external attack surface analysis toolkit",
+  "Description": "Frogy 2.0 is an automated external reconnaissance and Attack Surface Management (ASM) toolkit designed to map out an organization's entire internet presence. It identifies assets, IP addresses, web applications, and other metadata across the public internet and then smartly prioritizes them from P0 (most attractive) to P4 (least attractive) from a bug bounty hunter's perspective.",
+  "Github URL": "https://github.com/iamthefrogy/frogy2.0",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Chintan Gurjar"
+  ],
+  "Year": "2025",
+  "Location": "USA"
+}

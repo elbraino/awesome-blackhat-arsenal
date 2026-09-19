@@ -1,0 +1,13 @@
+{
+  "Tool Name": "CrowdSentinel: AI-Orchestrated Threat Hunting Across Unified Security Data Sources",
+  "Description": "CrowdSentinel is an open-source Model Context Protocol server that unifies Elasticsearch, Wireshark, Chainsaw, and thousands of detection rules behind a single natural-language endpoint, exposing 79 MCP tools. A request such as hunting for lateral movement triggers autonomous execution across EQL sequences, Sigma rules, and PCAP analysis with IoC correlation held in persistent investigation state. The Cyber Kill Chain, Pyramid of Pain, and Diamond Model guide analysis, and detections receive automatic MITRE ATT&CK mapping.",
+  "Github URL": "https://github.com/thomasxm/CrowdSentinels-AI-MCP",
+  "Tracks": [
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "Thomas Xuan Meng"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

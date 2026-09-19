@@ -1,0 +1,13 @@
+{
+  "Tool Name": "SensePost Toolset",
+  "Description": "The SensePost Toolset consists of numerous transforms and mini-sets of transforms. This includes OSINT, language translation, twitter monitoring, Spotify, Skype stalking and detailed in-depth foot-printing capabilities. Sense Post Toolkit:https://www.sensepost.com/discover/tools/maltego/osint/SPToolset/",
+  "Github URL": "https://github.com/sensepost",
+  "Tracks": [
+    "OSINT - Open Source Intelligence"
+  ],
+  "Speakers": [
+    "Daniel Cuthbert"
+  ],
+  "Year": "2016",
+  "Location": "Asia"
+}

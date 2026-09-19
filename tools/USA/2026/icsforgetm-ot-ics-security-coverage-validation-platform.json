@@ -1,0 +1,13 @@
+{
+  "Tool Name": "ICSForge™: OT/ICS Security Coverage Validation Platform",
+  "Description": "ICSForge is an open-source OT/ICS security coverage validation platform that helps defenders and OT engineers test detection, visibility, and readiness against real industrial attack techniques. It generates realistic traffic and PCAPs across more than 500 scenarios in ten industrial protocols including Modbus/TCP, DNP3, S7comm, IEC-104, OPC UA, EtherNet/IP, BACnet/IP, MQTT, GOOSE, and PROFINET DCP, covering 68 of 83 MITRE ATT&CK for ICS v18 techniques. A safe-by-design sender-receiver architecture avoids touching other OT devices.",
+  "Github URL": "https://github.com/ICSForge/ICSForge",
+  "Tracks": [
+    "Smart Grid/Industrial Security"
+  ],
+  "Speakers": [
+    "Can Kurnaz"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

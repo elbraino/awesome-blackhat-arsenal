@@ -1,0 +1,13 @@
+{
+  "Tool Name": "CUCKOODROID",
+  "Description": "To combat the growing problem of Android malware, I present Cuckoodroid - a solution based on the popular open source framework Cuckoo Sandbox to automate the malware investigation process. Cuckoodroid enables the use of Cuckoo's features to analyze Android malware and provides new functionality for dynamic and static analysis. Cuckoodroid is an all-in-one solution for malware analysis on Android. It is extensible and modular, allowing the use of new - as well as existing - tools for custom analysis. The main capabilities of our Cuckoodroid include: Dynamic Analysis - based on Dalvik API hooking Static Analysis - Integration with Androguard Emulator Detection Prevention Traffic Analysis Behavioral Signatures in Cuckoodroid Android Emulator, Android x86 support Automatic unpacking Malware Configuration Extractions Thread View Examples of well-known malware will be used to demonstrate the framework capabilities and its usefulness in malware analysis.",
+  "Github URL": "https://github.com/idanr1986/cuckoo-droid",
+  "Tracks": [
+    "Malware Defense"
+  ],
+  "Speakers": [
+    "Idan Revivo"
+  ],
+  "Year": "2017",
+  "Location": "USA"
+}

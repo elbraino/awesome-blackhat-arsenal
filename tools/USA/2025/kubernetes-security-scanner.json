@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Kubernetes Security Scanner",
+  "Description": "This is a comprehensive security scanning tool for Kubernetes clusters that identifies security issues, misconfigurations, and potential vulnerabilities. I built this tool while i was studying for CKS and i have found it really useful for real world workloads. It has the following features. 1 . Cluster Setup and Hardening Locks down the foundation: CIS‑aligned configs, safe admission plugs, tight RBAC, and restrictive network policies. CIS Benchmark Checker – drift & remediation Admission Controller Checker – PSP/PSA, webhooks RBAC Checker – wild‑card verbs, risky bindings Network Policy Checker – open namespaces, default‑allow rules 2 . System Hardening Fortifies nodes and runtimes—kernel params, kubelet flags, containerd/Docker, and gVisor isolation. Node Security Checker – OS & kubelet hygiene Runtime Security Checker – seccomp, AppArmor, privilege creep gVisor Checker – runtime‑class wiring, sandbox health 3 . Minimize Microservice Vulnerabilities Applies least‑privilege to pods: security contexts, resource limits, PDBs, and secrets hygiene. Container Security Checker – capabilities, limits, image trust Pod Security Checker – priority/QoS, disruption budgets Secrets Management Checker – encryption, rotation, exposure 4 . Supply Chain Security Admits only trusted code via image signatures, SBOM validation, and CVE detection. Image Security Checker – signatures, vuln scan, registry posture SBOM Checker – dependency CVEs, license red flags 5 . Runtime Security Maintains live visibility with audit pipelines and Falco rules for instant threat detection. Audit Checker – policy coverage, backend integrity Falco Checker – rule quality, alert wiring, violation monitoring",
+  "Github URL": "https://github.com/farhanashrafdev/GenAI-Kubernetes-Security-Scanner",
+  "Tracks": [
+    "Cloud Security"
+  ],
+  "Speakers": [
+    "Krishna Priya"
+  ],
+  "Year": "2025",
+  "Location": "USA"
+}

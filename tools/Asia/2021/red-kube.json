@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Red Kube",
+  "Description": "Red Kube is a red team cheat sheet based on kubectl commands to Asses the Kubernetes Cluster Security Posture.",
+  "Github URL": "https://github.com/lightspin-tech/red-kube",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Or Azarzar"
+  ],
+  "Year": "2021",
+  "Location": "Asia"
+}

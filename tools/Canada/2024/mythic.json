@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Mythic",
+  "Description": "A cross-platform, post-exploit red teaming framework built with GoLang and Docker that provides a collaborative web UI for operators and managers to conduct authorized security assessments.",
+  "Github URL": "https://github.com/its-a-feature/Mythic",
+  "Tracks": [
+    "Exploitation and Ethical Hacking",
+    "Malware Offense"
+  ],
+  "Speakers": [
+    "Cody Thomas"
+  ],
+  "Year": "2024",
+  "Location": "Canada"
+}

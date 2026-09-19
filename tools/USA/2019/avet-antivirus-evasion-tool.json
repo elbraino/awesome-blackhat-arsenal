@@ -1,0 +1,13 @@
+{
+  "Tool Name": "AVET: AntiVirus Evasion Tool",
+  "Description": "AVET is an antivirus evasion tool that is based on different antivirus evasion techniques as described in my research, found here: https://govolutionde.files.wordpress.com/2014/05/avevasion_pentestmag.pdf https://deepsec.net/docs/Slides/2014/Why_Antivirus_Fails_-_Daniel_Sauder.pdf What & Why: When running an exe file made with msfpayload & co, the exe file will often be recognized by the antivirus software AVET is an antivirus evasion tool targeting windows machines with executable files Different kinds of payloads can be used now: shellcode, exe and dlls More techniques can be used now, such as shellcode injection, process hollowing and more Most payloads can be delivered from a file, the network or command line The payload can be encrypted with a key, the key can be delivered like payloads Tested for Kali 2018.x (64bit) and tdm-gcc (should work on other Kali/Linux/32bit versions also) AVET Version 2 was released in the beginning of 2019: Internal mechanisms for building the executable have been rewritten, new features can be added much easier now https://github.com/govolution/bfg has been integrated With the new architecture and features of AVET 2 you can, for example, now build an executable that is loading an encrypted .exe file via network or file, receiving the key also via network or file, decrypt in memory and then inject via process hollowing. The same applies also for other payloads like shellcode or dlls and other techniques. Presentation: https://govolution.files.wordpress.com/2019/08/bhusa19_arsenal_avet.pdf",
+  "Github URL": "https://github.com/govolution/avet",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Daniel Sauder"
+  ],
+  "Year": "2019",
+  "Location": "USA"
+}

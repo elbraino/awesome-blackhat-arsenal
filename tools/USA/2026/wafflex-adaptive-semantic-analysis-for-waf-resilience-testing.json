@@ -1,0 +1,14 @@
+{
+  "Tool Name": "WaffleX: Adaptive Semantic Analysis for WAF Resilience Testing",
+  "Description": "WaffleX is a web defence validation framework for finding normalization gaps and parser inconsistencies across modern application delivery stacks. Instead of static payload lists it generates context-aware, semantically equivalent request variants to measure how CDNs, reverse proxies, WAFs, and origin applications interpret the same input differently. Correlating response behaviour, enforcement signals, and transformation patterns helps defenders reproduce blind spots and harden inspection logic, with an emphasis on explainability and reproducibility at scale.",
+  "Github URL": "",
+  "Tracks": [
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Samet Can Tasci",
+    "Mehmet Önder Key"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

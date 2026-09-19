@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Identify iOS Malicious Code Based on MachO File Structure",
+  "Description": "iOS Malicious Bit Hunter is a malicious plug-in detection engine for iOS applications. It can analyze the head of the macho file of the injected dylib dynamic library based on runtime, and can perform behavior analysis through interface input characteristics to determine the behavior of the dynamic library feature. The program does not rely on the jailbreak environment and can be used on the AppStore.",
+  "Github URL": "https://github.com/SecurityLife/iOS_Malicious_Bit_Hunter",
+  "Tracks": [
+    "Malware Defense"
+  ],
+  "Speakers": [
+    "Shijie Cao"
+  ],
+  "Year": "2021",
+  "Location": "Asia"
+}

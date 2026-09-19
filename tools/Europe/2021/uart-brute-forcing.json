@@ -1,0 +1,13 @@
+{
+  "Tool Name": "UART Brute Forcing",
+  "Description": "A Python script that brute-forces login credentials via a serial (UART) connection on embedded devices.",
+  "Github URL": "https://github.com/firefart/UARTBruteForcer",
+  "Tracks": [
+    "Hardware/Embedded"
+  ],
+  "Speakers": [
+    "Andrew Blyth"
+  ],
+  "Year": "2021",
+  "Location": "Europe"
+}

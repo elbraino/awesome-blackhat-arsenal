@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Dude, WTF in my car?",
+  "Description": "The car ECU tuning market is weird. There is little help from people already in it, and most of the equipment is expensive. Well, not anymore!",
+  "Github URL": "https://github.com/fjvva/ecu-tool",
+  "Tracks": [
+    "Hardware/Embedded"
+  ],
+  "Speakers": [
+    "Alberto Garcia Illera",
+    "Javier Vazquez Vidal"
+  ],
+  "Year": "2013",
+  "Location": "USA"
+}

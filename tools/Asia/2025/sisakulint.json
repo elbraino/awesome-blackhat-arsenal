@@ -1,6 +1,7 @@
 {
   "Tool Name": "sisakulint",
   "Description": "sisakulint is a CI-friendly static analysis tool (SAST) for GitHub Actions workflows. It validates YAML files against GitHub's security documentation guidelines, checks organization-specific policies, and performs semantic analysis to detect CI/CD security risks aligned with the OWASP Top 10 CI/CD Security Risks.",
+  "Github URL": "https://github.com/sisaku-security/sisakulint",
   "Tracks": [
     "Code Assessment"
   ],
@@ -9,6 +10,5 @@
     "fujioka kosuke"
   ],
   "Year": "2025",
-  "Github URL": "https://github.com/sisaku-security/sisakulint",
   "Location": "Asia"
 }

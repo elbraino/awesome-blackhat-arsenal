@@ -1,0 +1,13 @@
+{
+  "Tool Name": "KEIP: Kernel-Enforced Install-Time Policies",
+  "Description": "KEIP is a real-time behavioural monitor that targets Python supply chain attacks at package installation time. Using eBPF and Linux Security Modules, it hooks the kernel to intercept and evaluate network activity from pip install and python processes, terminating the whole process group when an installation script attempts anomalous operations such as a reverse shell on a non-standard port or C2 scanning. Forensic .pth auditing detects silent persistence dropped in site-packages, and Linux file capabilities allow sudo-less enforcement in CI/CD.",
+  "Github URL": "https://github.com/Otsmane-Ahmed/KEIP",
+  "Tracks": [
+    "Malware Defense"
+  ],
+  "Speakers": [
+    "otsmane ahmed"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

@@ -15,6 +15,9 @@ import re
 import sys
 from collections import defaultdict
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from normalize import canonical_dump, slug  # noqa: E402
+
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TOOLS_DIR = os.path.join(REPO_ROOT, "tools")
 
@@ -43,7 +46,7 @@ CANONICAL_TRACKS = {
 }
 
 REQUIRED_KEYS = {"Tool Name", "Description", "Github URL", "Tracks", "Speakers", "Year", "Location"}
-OPTIONAL_KEYS = {"Event"}
+OPTIONAL_KEYS = set()  # "Event" was dropped: Location + Year already say which event
 
 MIN_DESCRIPTION_CHARS = 30       # error below this
 SHORT_DESCRIPTION_CHARS = 80     # warning below this
@@ -79,7 +82,7 @@ def category_map_keys_from_autoreadme():
     return None
 
 
-def validate_tool(path, data, report):
+def validate_tool(path, data, report, raw=None):
     """Validate a single decoded tool object. Returns the lowercase tool name (for duplicate checks)."""
     rel = os.path.relpath(path, REPO_ROOT)
     year_dir = os.path.basename(os.path.dirname(path))
@@ -88,6 +91,9 @@ def validate_tool(path, data, report):
     if not isinstance(data, dict):
         report.error(rel, "top-level value must be a JSON object")
         return None
+
+    if raw is not None and raw != canonical_dump(data):
+        report.error(rel, "not in canonical form (key order/indent/escapes); run `python3 scripts/normalize.py`")
 
     keys = set(data)
     for k in sorted(REQUIRED_KEYS - keys):
@@ -174,8 +180,11 @@ def validate_tool(path, data, report):
     elif location != region:
         report.error(rel, f"'Location' {location!r} does not match folder {region!r}")
 
-    if "Event" in data and not isinstance(data["Event"], str):
-        report.error(rel, "'Event' must be a string when present")
+    if name:
+        expected = slug(name)
+        actual = os.path.basename(path)
+        if not re.fullmatch(re.escape(expected) + r"(-\d+)?\.json", actual):
+            report.error(rel, f"filename should be {expected}.json (run `python3 scripts/normalize.py`)")
 
     return name.strip().lower() if name else None
 
@@ -212,11 +221,12 @@ def run(targets):
         rel = os.path.relpath(path, REPO_ROOT)
         try:
             with open(path, encoding="utf-8") as f:
-                data = json.load(f)
+                raw = f.read()
+            data = json.loads(raw)
         except (json.JSONDecodeError, UnicodeDecodeError) as e:
             report.error(rel, f"invalid JSON: {e}")
             continue
-        name = validate_tool(path, data, report)
+        name = validate_tool(path, data, report, raw=raw)
         if name:
             names_by_dir[os.path.dirname(path)].append((name, rel))
 

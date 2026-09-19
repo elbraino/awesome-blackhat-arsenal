@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Mobile Security Framework - MobSF",
+  "Description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis of mobile applications. MobSF support mobile app binaries (APK, IPA & APPX) along with zipped source code and provides REST APIs for seamless integration with your CI/CD or DevSecOps pipeline. The Dynamic Analyzer helps you to perform runtime security assessment and interactive instrumented tests.",
+  "Github URL": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+  "Tracks": [
+    "Android, iOS and Mobile Hacking"
+  ],
+  "Speakers": [
+    "Ajin Abraham"
+  ],
+  "Year": "2020",
+  "Location": "USA"
+}

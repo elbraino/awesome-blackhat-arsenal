@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Chip In-depth Analysis - Where is the Key?",
+  "Description": "A collection of resources and analysis tools for ChIP-seq (Chromatin Immunoprecipitation sequencing) data processing, covering quality control, peak calling, differential binding analysis, and downstream applications like motif discovery.",
+  "Github URL": "https://github.com/crazyhottommy/ChIP-seq-analysis",
+  "Tracks": [
+    "Arsenal Lab",
+    "Android, iOS and Mobile Hacking"
+  ],
+  "Speakers": [
+    "Kelvin Wong",
+    "Alan Chung"
+  ],
+  "Year": "2024",
+  "Location": "Asia"
+}

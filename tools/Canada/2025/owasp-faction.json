@@ -1,0 +1,13 @@
+{
+  "Tool Name": "OWASP Faction",
+  "Description": "OWASP FACTION is an open-source pentest report generation and assessment collaboration framework. It cuts reporting time by more than half for manual pen-tests, tracks outstanding vulnerabilities with SLA-based alerts, enables teammates to share and replay attacks, and manages large-scale assessment scheduling. Includes 75+ default vulnerability templates and is fully extensible via REST APIs and FACTION Extensions.",
+  "Github URL": "https://github.com/factionsecurity/faction",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Josh Summitt"
+  ],
+  "Year": "2025",
+  "Location": "Canada"
+}

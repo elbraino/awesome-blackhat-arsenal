@@ -1,0 +1,16 @@
+{
+  "Tool Name": "Echidna: Penetration Test Assist & Collaboration Tool",
+  "Description": "Echidna is a tool designed to support teams or beginners in conducting penetration testing. While there are many tools available to assist or automate penetration testing, mastering them requires knowledge of numerous commands and techniques, making it challenging for beginners to learn and carry out penetration testing. Furthermore, when conducting penetration tests in a team, each member tends to work independently, which can lead to duplication of work and lack of visibility of progress for managers and beginners. Therefore, we developed Echidna, which visualizes and shares the terminal console of penetration testers, and recommends the next command based on each situation.",
+  "Github URL": "https://github.com/crytic/echidna",
+  "Tracks": [
+    "Exploitation and Ethical Hacking",
+    "Network Attacks"
+  ],
+  "Speakers": [
+    "Yu Terada",
+    "Soya Aoyama",
+    "Kazuhisa Shirakami"
+  ],
+  "Year": "2023",
+  "Location": "Europe"
+}

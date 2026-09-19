@@ -1,0 +1,14 @@
+{
+  "Tool Name": "JavaScript Obfuscation - It's All About the P-a-c-k-e-r-s",
+  "Description": "The usage of JavaScript obfuscation techniques have become prevalent in today's threats, from phishing pages, to Magecart, and supply chain injection to JavaScript malware droppers all use JavaScript obfuscation techniques on some level. The usage of JavaScript obfuscation enables evasion from detection engines and poses a challenge to security professionals, as it hinders them from getting quick answers on the functionality of the examined source code. Deobfuscation can be technically challenging (sometimes), risky (if you don't know what you are doing), and time consuming (if you are lazy, as I am). Yet, the need to find and analyze high scaled massive attacks using JavaScript obfuscation is a task I'm faced with on a daily basis. In this arsenal showcase I will present a lazy, performance cost effective approach, focusing on the detection of JavaScript packer templates. Once combined with threat intelligence heuristics, this approach can predict the maliciousness level of JavaScript with high probability of accuracy. In addition, the showcase will include insights based on detections of the tool that were collected from the threat landscape, including some of the challenges associated with benign websites using obfuscation. The showcase will also suggest techniques showing how the tool obfuscation detection can also be combined with other threat intelligence signals and heuristics, that can lead to better classification of detect obfuscated code as being malicious.",
+  "Github URL": "https://github.com/javascript-obfuscator/javascript-obfuscator",
+  "Tracks": [
+    "Network Attacks",
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Or Katz"
+  ],
+  "Year": "2022",
+  "Location": "Europe"
+}

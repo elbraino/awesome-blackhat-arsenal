@@ -1,0 +1,13 @@
+{
+  "Tool Name": "iocwriter_11",
+  "Description": "With the impending release of the OpenIOC 1.1 format for sharing threat intelligence, Mandiant will be releasing a set of open source tools for creating and manipulating OpenIOC objects and moving data in and out of the OpenIOC format.",
+  "Github URL": "https://github.com/mandiant/ioc_writer",
+  "Tracks": [
+    "OSINT - Open Source Intelligence"
+  ],
+  "Speakers": [
+    "William Gibb"
+  ],
+  "Year": "2013",
+  "Location": "USA"
+}

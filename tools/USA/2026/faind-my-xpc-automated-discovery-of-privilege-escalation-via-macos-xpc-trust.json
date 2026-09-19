@@ -1,0 +1,13 @@
+{
+  "Tool Name": "FAInd my XPC: Automated Discovery of Privilege Escalation via macOS XPC Trust Boundaries - powered by LLM",
+  "Description": "XPC Hunter automates discovery and validation of privilege escalation through macOS XPC trust boundaries. It combines static binary analysis using otool protocol extraction and string-based service discovery, dynamic runtime enumeration via CDHash cache exploitation with NIB-injected JXA payloads, and LLM-based semantic scoring to rank attack surface. The tool targets applications exposing root-level XPC services protected only by CDHash trust, reducing hours of per-target reverse engineering to minutes across an entire installation.",
+  "Github URL": "https://github.com/XMCyber/FAInd-my-xpc",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Hillel Pinto"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

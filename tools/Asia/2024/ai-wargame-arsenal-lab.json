@@ -1,0 +1,14 @@
+{
+  "Tool Name": "AI Wargame (Arsenal Lab)",
+  "Description": "A strategic 2-player board game where an attacker and defender battle on a grid using adversarial search algorithms, implementing minimax with alpha-beta pruning for intelligent AI opponents.",
+  "Github URL": "https://play.secdim.com/",
+  "Tracks": [
+    "Arsenal Lab",
+    "Code Assessment"
+  ],
+  "Speakers": [
+    "Pedram Hayati"
+  ],
+  "Year": "2024",
+  "Location": "Asia"
+}

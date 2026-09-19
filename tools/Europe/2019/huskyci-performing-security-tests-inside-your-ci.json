@@ -1,0 +1,13 @@
+{
+  "Tool Name": "huskyCI: Performing Security Tests Inside Your CI",
+  "Description": "huskyCI is an open-source tool that performs security tests inside CI pipelines of multiple projects and centralizes all results into a database for further analysis and metrics.",
+  "Github URL": "https://github.com/globocom/huskyCI",
+  "Tracks": [
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Rafael dos Santos"
+  ],
+  "Year": "2019",
+  "Location": "Europe"
+}

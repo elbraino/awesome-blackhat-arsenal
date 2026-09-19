@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Unravelling the Mysteries of Shellcode with SHAREM: A Novel Emulator and Disassembler for Shellcode",
+  "Description": "A Windows shellcode analysis framework that emulates over 20,000 WinAPIs and virtually all Windows syscalls, featuring a custom disassembler capable of revealing deobfuscated code from encoded shellcode.",
+  "Github URL": "https://github.com/Bw3ll/sharem",
+  "Tracks": [
+    "Reverse Engineering"
+  ],
+  "Speakers": [
+    "Bramwell Brizendine",
+    "Jake Hince",
+    "Shelby VandenHoek"
+  ],
+  "Year": "2022",
+  "Location": "Europe"
+}

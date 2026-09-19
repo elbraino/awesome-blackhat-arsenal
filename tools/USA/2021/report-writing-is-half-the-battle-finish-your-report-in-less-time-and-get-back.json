@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Report Writing Is Half the Battle: Finish Your Report in Less Time and Get Back to Hacking.",
+  "Description": "Source code and resources accompanying the book 'From Hacking to Report Writing' by Robert Svensson, providing examples and templates to help penetration testers efficiently produce professional security assessment reports.",
+  "Github URL": "https://github.com/apress/from-hacking-to-report-writing",
+  "Tracks": [
+    "OSINT - Open Source Intelligence"
+  ],
+  "Speakers": [
+    "Tabatha DiDomenico"
+  ],
+  "Year": "2021",
+  "Location": "USA"
+}

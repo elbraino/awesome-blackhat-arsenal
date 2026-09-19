@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Kfuzz",
+  "Description": "Kfuzz was my take on kernel level device driver fuzzing with Python. I used Python's ctypes module to interact with the OS kernel and from there manage memory and make subsequent calls to the driver loaded into the kernel.",
+  "Github URL": "https://github.com/jinb-park/kfuzz",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Matthew Bergin"
+  ],
+  "Year": "2013",
+  "Location": "USA"
+}

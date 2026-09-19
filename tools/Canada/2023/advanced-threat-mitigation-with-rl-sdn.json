@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Advanced Threat Mitigation with RL + SDN",
+  "Description": "ATMoS is a framework for applying reinforcement learning to security management of Software-defined Networks (SDNs). It uses OpenDaylight and Mininet to simulate SDN infrastructure and trains RL agents to autonomously manage network security policies.",
+  "Github URL": "https://github.com/ATMoS-Waterloo/ATMoS",
+  "Tracks": [
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Ezzeldin Tahoun"
+  ],
+  "Year": "2023",
+  "Location": "Canada"
+}

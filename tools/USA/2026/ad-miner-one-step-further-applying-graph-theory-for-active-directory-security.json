@@ -1,0 +1,13 @@
+{
+  "Tool Name": "AD Miner – One step further applying graph theory for Active Directory security analysis",
+  "Description": "AD Miner audits Active Directory and Entra ID environments by applying graph theory to data extracted from the BloodHound graph database. Rather than reporting the shortest attack paths, it uses weighted path-finding algorithms such as Dijkstra to surface the most easily exploitable compromise paths, prioritising realistic adversary routes for remediation. Sixty-five control points cover misconfigurations, excessive privileges, and identity hygiene, and reports serve both as audit appendices and as continuous posture monitoring.",
+  "Github URL": "https://github.com/AD-Security/AD_Miner",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Clément TEYTAUD"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

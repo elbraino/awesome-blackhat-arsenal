@@ -1,0 +1,14 @@
+{
+  "Tool Name": "TSURUGI LINUX - the sharpest weapon in your DFIR arsenal",
+  "Description": "Tsurugi Linux is a DFIR-focused Linux distribution assembled by working incident responders for the moments when the right tool is needed at the wrong time. It ships a ready-to-use forensics toolset so analysts are not blocked by missing internal information or unavailable tooling during an incident, and it also serves educational use. A special Black Hat edition is released to attendees alongside an updated version of the BENTO portable toolkit.",
+  "Github URL": "https://tsurugi-linux.org/",
+  "Tracks": [
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "Giovanni 'sug4r' Rattaro",
+    "Marco 'Blackmoon' Giorgi"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

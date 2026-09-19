@@ -13,17 +13,17 @@ The repository is organized by **location** and **year**. Each tool is placed in
 tools/
 ├── USA/
 │   ├── 2023/
-│   │   ├── toolname.json
+│   │   ├── cool-exploit-framework.json
 │   │   └── README.md
 ├── Europe/
 │   └── 2024/
-│       └── toolname.json
+│       └── another-tool.json
 
 ````
 
 - Tools are grouped by **location** (`USA`, `Europe`, `Asia`, etc.).
 - Then, tools are categorized by **year** of the Black Hat event.
-- Each tool is added as a `.json` file within its respective year folder.
+- Each tool is one `.json` file in its year folder, named after the tool in kebab-case (see below).
 
 ---
 
@@ -36,18 +36,31 @@ Each `.json` file should contain the following fields:
   "Tool Name": "Cool Exploit Framework",
   "Description": "A modular post-exploitation tool for cloud environments.",
   "Github URL": "https://github.com/username/tool",
-  "Tracks": ["Track: Exploitation and Ethical Hacking"],
-  "Speakers": ["Jane Doe"]
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Jane Doe"
+  ],
+  "Year": "2026",
+  "Location": "USA"
 }
 ````
+
+Keys in exactly this order, 2-space indent, UTF-8, trailing newline — `python3 scripts/normalize.py` rewrites your file into this form and renames it, so you don't have to get it right by hand.
 
 ### Required Fields:
 
 * `Tool Name`: The name of the tool.
 * `Description`: 1–3 sentence description (avoid marketing fluff).
-* `Tracks`: List of applicable track names (e.g., `"Track: Reverse Engineering"`).
+* `Tracks`: List of track names from the list below (e.g., `"Reverse Engineering"`). Use `[]` if none fits.
 * `Speakers`: Name(s) of the presenters (can be multiple).
-* `Github URL`: Link to the tool's GitHub repository or official page (if public).
+* `Github URL`: `https://` link to the tool's repository or official page; `""` if there is none.
+* `Year`, `Location`: must match the folder the file is in (`Location` is one of `USA`, `Europe`, `Asia`, `Canada`, `MEA`).
+
+### File name
+
+`<slug>.json` where the slug is the tool name lower-cased with every run of non-alphanumerics turned into `-` (max 80 chars): `Cool Exploit Framework` → `cool-exploit-framework.json`. `scripts/normalize.py` does this for you.
 
 ---
 
@@ -84,6 +97,7 @@ If a tool doesn’t fit into any of these tracks, use an empty list (`"Tracks": 
 
 Once you add a JSON file:
 
+* **Normalize**: run `python3 scripts/normalize.py` from the repo root. It fixes key order and formatting and renames the file to the canonical slug.
 * **Validate**: run `python3 scripts/validate.py` from the repo root. It checks every file for required keys, valid track names, well-formed URLs, and that `Year`/`Location` match the folder. It must report **0 errors** (warnings are fine).
 * **README generation**: run `python3 AutoReadme.py` from the repo root. It regenerates every event README, the cross-event indexes (`tools/BY_CATEGORY.md`, `tools/BY_NAME.md`), the data files (`tools.json`, `tools.csv`) and the root README. Commit the result — never edit those files by hand.
 
@@ -109,7 +123,7 @@ git checkout -b add-tool-cool-exploit-framework
 
 ### 3. **Add the Tool JSON**
 
-* Create a new JSON file for your tool under the correct location and year (e.g., `tools/USA/2023/toolname.json`).
+* Create a new JSON file for your tool under the correct location and year (e.g., `tools/USA/2023/cool-exploit-framework.json`).
 * Ensure your file follows the correct format as explained above.
 
 ### 4. **Submit a Pull Request**

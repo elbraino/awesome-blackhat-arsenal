@@ -1,0 +1,13 @@
+{
+  "Tool Name": "DumpTheGit",
+  "Description": "DumpTheGit searches through public repositories to find sensitive information uploaded to the Github repositories.",
+  "Github URL": "https://github.com/shubhamshubhankar/DumpTheGit",
+  "Tracks": [
+    "Code Assessment"
+  ],
+  "Speakers": [
+    "Malkit Singh"
+  ],
+  "Year": "2019",
+  "Location": "Europe"
+}

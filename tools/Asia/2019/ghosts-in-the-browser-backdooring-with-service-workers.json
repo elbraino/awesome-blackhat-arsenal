@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Ghosts in the Browser: Backdooring with Service Workers",
+  "Description": "A Chrome extension that prevents Service Workers from being registered on websites, developed to mitigate browser backdooring techniques that abuse the Service Worker API.",
+  "Github URL": "https://github.com/clod81/block_service_workers",
+  "Tracks": [
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Emmanuel Law",
+    "Claudio Contin"
+  ],
+  "Year": "2019",
+  "Location": "Asia"
+}

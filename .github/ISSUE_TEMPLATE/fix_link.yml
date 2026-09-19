@@ -6,7 +6,7 @@ body:
     id: file
     attributes:
       label: Tool (or path to its JSON file)
-      placeholder: e.g. tools/USA/2013/Vega.json
+      placeholder: e.g. tools/USA/2013/vega.json
     validations:
       required: true
   - type: input

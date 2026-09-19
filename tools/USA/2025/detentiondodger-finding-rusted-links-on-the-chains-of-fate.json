@@ -1,0 +1,13 @@
+{
+  "Tool Name": "DetentionDodger: Finding rusted links on the chains of fate",
+  "Description": "DetentionDodger is a tool that automates enumeration of AWS accounts for IAM users with leaked credentials. It analyzes users under the AWSCompromisedKeyQuarantineV2 policy, determines their effective privileges, and assesses the potential impact of compromised credentials on the account.",
+  "Github URL": "https://github.com/permiso-io-tools/detentiondodger",
+  "Tracks": [
+    "Cloud Security"
+  ],
+  "Speakers": [
+    "Bleon Proko"
+  ],
+  "Year": "2025",
+  "Location": "USA"
+}

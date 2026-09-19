@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Vehicle Control Systems: Red vs Blue",
+  "Description": "A modular electronic control system for vehicles built with C++ and Qt that uses RS-485 networking to connect multiple control units and modules managing different vehicle functions.",
+  "Github URL": "https://github.com/KarlVaello/VehicleControlSystem",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Chris Sistrunk",
+    "Camille Felx Leduc"
+  ],
+  "Year": "2023",
+  "Location": "Canada"
+}

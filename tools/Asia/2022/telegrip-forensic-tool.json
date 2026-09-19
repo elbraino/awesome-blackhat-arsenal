@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Telegrip Forensic Tool",
+  "Description": "A GUI-based digital forensic application for extracting, parsing, and analyzing Telegram data from Android devices, supporting message recovery from channels, groups, and private chats with hash-verified report generation.",
+  "Github URL": "https://github.com/Telegrip/Telegrip",
+  "Tracks": [
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "Norah Alkhathlan"
+  ],
+  "Year": "2022",
+  "Location": "Asia"
+}

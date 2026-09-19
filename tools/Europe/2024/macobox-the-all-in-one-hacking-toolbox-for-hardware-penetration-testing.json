@@ -1,0 +1,15 @@
+{
+  "Tool Name": "MACOBOX - The all-in-one hacking toolbox for hardware penetration testing.",
+  "Description": "An all-in-one hacking toolbox for hardware penetration testing that enables firmware analysis and extraction from hardware interfaces like UART, SPI, I2C, and JTAG through an automated web interface.",
+  "Github URL": "https://github.com/mindstormsecurity/MACOBOX",
+  "Tracks": [
+    "Arsenal Lab",
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Matteo Mandolini",
+    "Giuseppe Compare"
+  ],
+  "Year": "2024",
+  "Location": "Europe"
+}

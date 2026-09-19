@@ -1,0 +1,13 @@
+{
+  "Tool Name": "RedTeamSimmer: A Web Based Adversary Emulation Platform and Atomic Red Team Test Orchestration",
+  "Description": "RedTeamSimmer is an open-source web platform for orchestrating Atomic Red Team tests across enterprise Windows environments, replacing memorised PowerShell syntax and per-endpoint prerequisite management with a Flask server, lightweight Go agents, and a real-time dashboard. Operators browse the full ATT&CK catalogue, run tests with automatic prerequisite handling, and watch live colour-coded output. It ships adversary emulation plans modelled on APT28, APT41, FIN7, Lazarus Group, and Wizard Spider, plus Sigma, Splunk, and Elastic detection mappings.",
+  "Github URL": "https://github.com/BreachSimRange/RedTeamSimmer",
+  "Tracks": [
+    "AI, ML & Data Science"
+  ],
+  "Speakers": [
+    "Abx"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

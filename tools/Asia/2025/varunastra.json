@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Varunastra",
+  "Description": "Varunastra is a Docker security scanner that detects misconfigurations, exposed secrets, and unpatched dependencies in Docker environments. It analyzes Dockerfiles, images, and running containers to identify security vulnerabilities and compliance issues across containerized deployments.",
+  "Github URL": "https://github.com/Devang-Solanki/Varunastra",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Devang Solanki",
+    "Bhavarth Karmarkar"
+  ],
+  "Year": "2025",
+  "Location": "Asia"
+}

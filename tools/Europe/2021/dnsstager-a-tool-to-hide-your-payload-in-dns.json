@@ -1,0 +1,13 @@
+{
+  "Tool Name": "DNSStager: A Tool to Hide Your Payload in DNS",
+  "Description": "A Python-based tool that hides and transfers payloads using DNS by creating a malicious DNS server that delivers encoded payloads through DNS queries. It generates custom agents in C or GoLang that retrieve, decode, and execute the payloads.",
+  "Github URL": "https://github.com/mhaskar/DNSStager",
+  "Tracks": [
+    "Malware Offense"
+  ],
+  "Speakers": [
+    "Mohammad Askar"
+  ],
+  "Year": "2021",
+  "Location": "Europe"
+}

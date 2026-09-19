@@ -1,0 +1,15 @@
+{
+  "Tool Name": "EMBA – The product security analysis framework",
+  "Description": "EMBA is an open-source firmware security analyser for the IoT, ICS, and OT devices that underpin modern infrastructure, where varied architectures, trimmed operating systems, and special protocols make testing hard. It automates firmware extraction and binary-level detection of known vulnerabilities, going past plain CVE matching to report which public exploits apply, and also aids discovery of unknown issues, insecure scripting, and hard-coded credentials. AI integration assists with more complex findings.",
+  "Github URL": "https://github.com/e-m-b-a/emba",
+  "Tracks": [
+    "Arsenal Lab",
+    "Internet Of Things"
+  ],
+  "Speakers": [
+    "Michael Messner",
+    "Benedikt Kühne"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

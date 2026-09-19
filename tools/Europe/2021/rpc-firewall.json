@@ -1,0 +1,14 @@
+{
+  "Tool Name": "RPC-FireWall",
+  "Description": "A security tool that audits and filters Remote Procedure Call (RPC) traffic on Windows servers to protect against lateral movement attacks and RPC-based exploits by monitoring and blocking potentially malicious RPC requests.",
+  "Github URL": "https://github.com/zeronetworks/rpcfirewall",
+  "Tracks": [
+    "Network Defense",
+    "Malware Defense"
+  ],
+  "Speakers": [
+    "Sagie Dulce"
+  ],
+  "Year": "2021",
+  "Location": "Europe"
+}

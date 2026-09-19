@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Mitre Attack Technique Detector",
+  "Description": "A knowledge base and set of tools for understanding adversary tactics and techniques based on real-world observations. It provides STIX-formatted data and a web application for navigating and annotating ATT&CK matrices.",
+  "Github URL": "https://github.com/mitre-attack",
+  "Tracks": [
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "Ezzeldin Tahoun"
+  ],
+  "Year": "2023",
+  "Location": "Canada"
+}

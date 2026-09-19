@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Attack Surface Mapper: Automate and Simplify the OSINT Process",
+  "Description": "Reconnaissance is an integral part of the testing process. Successfully scanning and footprinting the attack surface can assist Red Teamers in crafting precise attacks, but can also help defenders identify weak spots. Attack Surface Mapper aims to automates and simplify the OSINT process. It does this by taking a target domain as input, then analysing it using passive OSINT techniques and (optional) active reconnaissance methods. It expands the attack surface automatically with the aim to provide actual useful intelligence for an engagement. This means that you can plug in a target domain, make a cup of tea and come back later to collect: Email Usernames Breached Passwords Phone Numbers Linked IPs Target subdomains Website Maps Social Media Presences Open Ports This is a list of techniques that Attack Surface Mapper uses: [+] Reconnaissance: Find IPs from ASN Find Subdomains BruteForce Subdomains Port Scanning Hostname Discovery Passive & Active DNS Record capturing WHOIS records Take screenshots of web portals and remote services [+] Intel Extraction: Content Discovery (Phone Number, Addresses and Vacancy Postings) Scrap LinkedIn Employee Names & Email addresses Check Public Breaches Find AWS buckets Interesting Files (e.g PDF and XML) Interesting Strings (sensitive data such us API keys, AWS secret keys and CreditCard numbers). [+] Plugins: Support for Shodan API Support for dnsdumpster [Generate a DNS map]",
+  "Github URL": "https://github.com/superhedgy/attacksurfacemapper",
+  "Tracks": [
+    "OSINT - Open Source Intelligence"
+  ],
+  "Speakers": [
+    "Andreas Georgiou",
+    "Jacob Wilkin"
+  ],
+  "Year": "2019",
+  "Location": "USA"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "SITCH: DISTRIBUTED, COORDINATED GSM COUNTER-SURVEILLANCE - ARSENAL THEATER DEMO",
+  "Description": "SITCH uses inexpensive hardware and open-source software to create a network of sensors for detecting malicious activity in GSM wireless networks. SITCH sensors are based on the Raspberry Pi 3 platform and use inexpensive, easy-to-source software-defined, GPS, and GSM radios. One person can manage a large number of SITCH sensors, including on-the-fly configuration and firmware updates, from a web browser.",
+  "Github URL": "https://github.com/smores56/sitch",
+  "Tracks": [
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Ash Wilson"
+  ],
+  "Year": "2017",
+  "Location": "USA"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Dradis",
+  "Description": "Dradis is an extensible, cross-platform, open source collaboration framework to manage security assessments. It can import from over 15 popular tools including Nessus, Qualys, and Burp. Started in 2007, the Dradis Framework project has been growing ever since.",
+  "Github URL": "https://github.com/armel/DRADIS",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Daniel Martin"
+  ],
+  "Year": "2014",
+  "Location": "USA"
+}

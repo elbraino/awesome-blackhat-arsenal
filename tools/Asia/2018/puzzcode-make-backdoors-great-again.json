@@ -1,0 +1,13 @@
+{
+  "Tool Name": "puzzCode Make Backdoors Great Again!",
+  "Description": "puzzCode is a simple compiler based on mingw, written in C# to build windows applications in such a way that they can't be analysed by standard analysis tools (e.g. IDA, Ollydbg, x64dbg, Snowman Decompiler, etc.)puzzCode is based on MinGW to compile C/C++ source code to assembly language while also obfuscating every instruction. puzzCode transforms each original instruction into obfuscated code by breaking each function into countless pieces. The most important thing is that the executable (exe) file, once compiled by puzzCode will be undetectable by antivirus as it effectively will create a completely new application.",
+  "Github URL": "https://github.com/aaaddress1/puzzCode",
+  "Tracks": [
+    "Reverse Engineering"
+  ],
+  "Speakers": [
+    "Sheng-Hao Ma"
+  ],
+  "Year": "2018",
+  "Location": "Asia"
+}

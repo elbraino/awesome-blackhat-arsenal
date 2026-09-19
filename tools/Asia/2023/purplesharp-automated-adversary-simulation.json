@@ -1,0 +1,13 @@
+{
+  "Tool Name": "PurpleSharp: Automated Adversary Simulation",
+  "Description": "An open-source adversary simulation tool written in C# that executes MITRE ATT&CK techniques in Windows environments to generate attack telemetry, helping security teams build and validate detection capabilities.",
+  "Github URL": "https://github.com/mvelazc0/purplesharp",
+  "Tracks": [
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Mauricio Velazco"
+  ],
+  "Year": "2023",
+  "Location": "Asia"
+}

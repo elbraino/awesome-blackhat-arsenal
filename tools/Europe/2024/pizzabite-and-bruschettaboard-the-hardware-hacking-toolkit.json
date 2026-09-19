@@ -1,0 +1,14 @@
+{
+  "Tool Name": "PIZZABITE and BRUSCHETTABOARD: The Hardware Hacking Toolkit",
+  "Description": "An affordable, open-hardware PCB holder and board toolkit designed for soldering, hardware inspection, and hardware hacking workflows.",
+  "Github URL": "https://github.com/whid-injector/PIZZAbite",
+  "Tracks": [
+    "Arsenal Lab",
+    "Hardware/Embedded"
+  ],
+  "Speakers": [
+    "Luca Bongiorni"
+  ],
+  "Year": "2024",
+  "Location": "Europe"
+}

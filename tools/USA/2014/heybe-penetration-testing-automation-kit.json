@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Heybe - Penetration Testing Automation Kit",
+  "Description": "Heybe is Penetration Testing Automation Kit. It consists of modules that can be used to fully automate pen-tests and make them mode effective. With Heybe you can 0wn all systems in a target company in matter of minutes.",
+  "Github URL": "https://github.com/heybe/heybe",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Bahtiyar Bircan"
+  ],
+  "Year": "2014",
+  "Location": "USA"
+}

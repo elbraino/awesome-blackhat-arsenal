@@ -1,0 +1,13 @@
+{
+  "Tool Name": "SCoDA: Smart COntract Defender and Analyzer",
+  "Description": "SCoDA (Smart Contract Defender and Analyzer) module in LAMMA tool, written in python for solidity based smart contract scanning. The tools is a unified and python ported version of various other scanners and vulnerabilities reported on Ethereum Platform.",
+  "Github URL": "https://github.com/lex-node/scoda-simple-code-deference-agreement-",
+  "Tracks": [
+    "Code Assessment"
+  ],
+  "Speakers": [
+    "AJIT HATTI"
+  ],
+  "Year": "2018",
+  "Location": "USA"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Mandiant Redline",
+  "Description": "Redline, Mandiantâs premier free tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis, and the development of a threat assessment profile. With Redline, users can:",
+  "Github URL": "https://github.com/mandiant",
+  "Tracks": [
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "Theodore Wilson"
+  ],
+  "Year": "2013",
+  "Location": "USA"
+}

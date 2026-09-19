@@ -1,0 +1,13 @@
+{
+  "Tool Name": "kdigger: A Context Discovery Tool for Kubernetes Penetration Testing",
+  "Description": "A Kubernetes-focused penetration testing tool that runs inside pods to discover security contexts and vulnerabilities, automating checks on capabilities, namespaces, admission controllers, and available services within a cluster.",
+  "Github URL": "https://github.com/quarkslab/kdigger",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Mahé Tardy"
+  ],
+  "Year": "2022",
+  "Location": "Asia"
+}

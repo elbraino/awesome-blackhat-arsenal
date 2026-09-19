@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Hands-on Firmware Extraction, Exploiration, and Emulation",
+  "Description": "Workshop materials for hands-on firmware security analysis using unblob, a flexible firmware extractor that automatically identifies, carves, decompresses, and extracts nested file systems and archives from firmware images.",
+  "Github URL": "https://github.com/onekey-sec/firmware-workshop",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Quentin Kaiser",
+    "Florian Lukavsky"
+  ],
+  "Year": "2023",
+  "Location": "Europe"
+}

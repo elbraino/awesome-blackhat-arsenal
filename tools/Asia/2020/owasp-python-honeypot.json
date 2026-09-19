@@ -1,0 +1,14 @@
+{
+  "Tool Name": "OWASP Python Honeypot",
+  "Description": "OWASP Honeypot is an open-source software in Python language which is designed for creating honeypot and honeynet in an easy and secure way! This project is compatible with Python 2.x and 3.x and tested on Windows, Mac OS X, and Linux.",
+  "Github URL": "https://github.com/OWASP/Python-Honeypot",
+  "Tracks": [
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Sri Harsha Gajavalli",
+    "Ali Razmjoo"
+  ],
+  "Year": "2020",
+  "Location": "Asia"
+}

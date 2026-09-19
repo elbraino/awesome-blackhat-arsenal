@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Armory",
+  "Description": "Armory is a tool designed to run various existing tools, collating all of the output into a local database, and using that information for further attacks. It is extremely modular, and it is pretty easy to create custom modules and reports. Armory's purpose is to streamline client discovery and external penetration tests.",
+  "Github URL": "https://github.com/armory3d/armory",
+  "Tracks": [
+    "Network Attacks"
+  ],
+  "Speakers": [
+    "Daniel Lawson"
+  ],
+  "Year": "2018",
+  "Location": "USA"
+}

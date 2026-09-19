@@ -1,0 +1,13 @@
+{
+  "Tool Name": "KernelGoat",
+  "Description": "\"KernelGoat is a 'Vulnerable by Design' Linux kernel environment to learn and practice Kernel security issues\"",
+  "Github URL": "https://github.com/Rnalter/KernelGoat",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Shivankar Madaan"
+  ],
+  "Year": "2023",
+  "Location": "Asia"
+}

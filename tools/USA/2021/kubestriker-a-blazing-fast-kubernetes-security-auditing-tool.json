@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Kubestriker: A Blazing Fast Kubernetes Security Auditing Tool",
+  "Description": "Kubestriker performs numerous in depth checks on kubernetes infrastructure to identify any misconfigurations which make organisations an easy target for attackers and safeguards against potential attacks on Kubernetes clusters.",
+  "Github URL": "https://github.com/vchinnipilli/kubestriker",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Vasant Chinnipilli",
+    "Pralhad Chaskar"
+  ],
+  "Year": "2021",
+  "Location": "USA"
+}

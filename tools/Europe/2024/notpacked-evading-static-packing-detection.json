@@ -1,0 +1,17 @@
+{
+  "Tool Name": "NotPacked++: Evading Static Packing Detection",
+  "Description": "NotPacked++ is an adversarial weaponized tool to alter a packed executable to evade static packing detection. It is designed to be used by malware analysts to test the effectiveness of their detection mechanisms and to improve their detection capabilities. It is also useful for red teamers to test the effectiveness of their evasion techniques, and highlight potential weaknesses of a target's security mechanisms.",
+  "Github URL": "https://github.com/packing-box/packer-masking-tool",
+  "Tracks": [
+    "Malware Offense",
+    "Reverse Engineering"
+  ],
+  "Speakers": [
+    "Alexandre D'Hondt",
+    "Jaber Ramhani",
+    "Charles-Henry Bertrand Van Ouytsel",
+    "Axel Legay"
+  ],
+  "Year": "2024",
+  "Location": "Europe"
+}

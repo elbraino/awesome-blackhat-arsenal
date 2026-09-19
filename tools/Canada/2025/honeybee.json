@@ -1,6 +1,7 @@
 {
   "Tool Name": "HoneyBee",
   "Description": "HoneyBee is a misconfigured application generator that creates honeypots for cloud environments. It produces intentionally vulnerable application configurations for security training, testing, and research, helping security professionals understand common cloud misconfiguration patterns and their associated risks.",
+  "Github URL": "https://github.com/yaaras/honeybee",
   "Tracks": [
     "Cloud Security"
   ],
@@ -9,6 +10,5 @@
     "Gili Tikochinski"
   ],
   "Year": "2025",
-  "Github URL": "https://github.com/yaaras/honeybee",
   "Location": "Canada"
 }

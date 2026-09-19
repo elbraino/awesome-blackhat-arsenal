@@ -1,0 +1,13 @@
+{
+  "Tool Name": "findmytakeover - find dangling domains in a multi cloud environment",
+  "Description": "findmytakeover detects dangling DNS records across multi-cloud environments. Rather than relying on wordlists or brute-forcing DNS servers, it enumerates all DNS zones and the infrastructure present within the configured cloud service providers, across one or many accounts, and reports records whose backing infrastructure no longer exists and which are therefore exposed to subdomain takeover.",
+  "Github URL": "https://github.com/anirudhbiyani/findmytakeover",
+  "Tracks": [
+    "Cloud Security"
+  ],
+  "Speakers": [
+    "Aniruddha Biyani"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

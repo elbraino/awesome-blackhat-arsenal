@@ -1,0 +1,15 @@
+{
+  "Tool Name": "SquarePhish: Combining QR Codes and OAuth 2.0 Device Code Flow for Advanced Phishing Attacks",
+  "Description": "SquarePhish is an advanced phishing tool that uses a technique combining the OAuth Device code authentication flow and QR Codes.",
+  "Github URL": "https://github.com/secureworks/squarephish",
+  "Tracks": [
+    "Exploitation and Ethical Hacking",
+    "Human Factors"
+  ],
+  "Speakers": [
+    "Nevada Romsdahl",
+    "Kam Talebzadeh"
+  ],
+  "Year": "2022",
+  "Location": "USA"
+}

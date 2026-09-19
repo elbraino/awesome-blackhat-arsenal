@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Drozer (formerly known as Mercury)",
+  "Description": "Drozer, previously known as Mercury, is the de facto tool for vulnerability-hunting on Android phones and in marketplace apps. In these demonstrations we are launching the new version of Drozer: one that has been extended to be a full-on, open-source exploitation framework for Android.",
+  "Github URL": "https://github.com/ReversecLabs/drozer",
+  "Tracks": [
+    "Android, iOS and Mobile Hacking"
+  ],
+  "Speakers": [
+    "Tyrone Erasmus",
+    "Daniel Bradberry"
+  ],
+  "Year": "2013",
+  "Location": "USA"
+}

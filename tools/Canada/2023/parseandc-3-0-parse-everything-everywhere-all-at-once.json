@@ -1,0 +1,14 @@
+{
+  "Tool Name": "ParseAndC 3.0 – Parse Everything Everywhere All At Once",
+  "Description": "A Python-based GUI tool that parses C structure declarations and maps them to binary data files, allowing users to visualize how variables are stored in memory with hex/ASCII representations.",
+  "Github URL": "https://github.com/intel/ParseAndC",
+  "Tracks": [
+    "Reverse Engineering",
+    "Code Assessment"
+  ],
+  "Speakers": [
+    "Parbati Manna"
+  ],
+  "Year": "2023",
+  "Location": "Canada"
+}

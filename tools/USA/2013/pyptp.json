@@ -1,0 +1,13 @@
+{
+  "Tool Name": "PyPTP",
+  "Description": "PyPTP is a Python based Pointer-to-Pointer fuzzer which allows for dynamic mapping of Python modules making calls through ctypes into C/C++ DLLs",
+  "Github URL": "https://github.com/capaulson/pyptp",
+  "Tracks": [
+    "Code Assessment"
+  ],
+  "Speakers": [
+    "Matthew Bergin"
+  ],
+  "Year": "2013",
+  "Location": "USA"
+}

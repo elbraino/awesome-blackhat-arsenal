@@ -1,0 +1,15 @@
+{
+  "Tool Name": "From Breakthrough to Completeness: arkdecompiler - The Decompiler for HarmonyOS NEXT",
+  "Description": "arkdecompiler reconstructs ArkTS source code from the Panda Bytecode used by Huawei's HarmonyOS NEXT, which runs a native stack independent of AOSP. This release moves the engine from structural proof of concept to semantic completeness, adding exhaustive instruction coverage for generators, async and arrow functions, destructuring, spread-based super calls, and iterators, plus path-sensitive analysis and SSA-to-source transformation. An automated pipeline validated the decompiler across 86,150 TypeScript and JavaScript samples.",
+  "Github URL": "https://github.com/jd-opensource/arkdecompiler",
+  "Tracks": [
+    "Reverse Engineering"
+  ],
+  "Speakers": [
+    "Xiaoyu He",
+    "Qidan He",
+    "Guangxi Li"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

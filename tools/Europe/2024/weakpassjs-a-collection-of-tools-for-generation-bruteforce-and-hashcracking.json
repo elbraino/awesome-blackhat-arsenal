@@ -1,0 +1,14 @@
+{
+  "Tool Name": "WeakpassJS - a collection of tools for generation, bruteforce and hashcracking",
+  "Description": "A collection of tools for password generation, bruteforce, and hash cracking, including password generators, hash lookup utilities, and browser-based cracking capabilities.",
+  "Github URL": "https://github.com/zzzteph/weakpass",
+  "Tracks": [
+    "Cryptography",
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Ivan Iushkevich"
+  ],
+  "Year": "2024",
+  "Location": "Europe"
+}

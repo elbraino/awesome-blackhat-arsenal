@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Active Directory Cyber Deception using Huginn",
+  "Description": "An open-source tool that implements adversary deception techniques within Active Directory environments, leveraging the MITRE Engage framework to create realistic-looking but ineffective vulnerabilities designed to detect and trap attackers exploiting common AD attack paths.",
+  "Github URL": "https://github.com/am0nsec/HuginnDeception",
+  "Tracks": [
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Rohan Durve",
+    "Paul Laine"
+  ],
+  "Year": "2024",
+  "Location": "USA"
+}

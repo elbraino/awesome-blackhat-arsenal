@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Dvora",
+  "Description": "Dvora is an open-source Python tool that enhances SAST detection by identifying custom implementations of dangerous functions (e.g., strcpy) in compiled ELF binaries. It uses a Unicorn-based emulation engine to run individual functions across multiple architectures and a rule set that maps function behavior to well-known function names, then adds discovered symbols to the ELF's symbol section to improve subsequent SAST analysis.",
+  "Github URL": "https://github.com/jfrog/Dvora",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Ofri Ouzan"
+  ],
+  "Year": "2025",
+  "Location": "USA"
+}

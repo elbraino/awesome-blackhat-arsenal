@@ -1,0 +1,13 @@
+{
+  "Tool Name": "RTS: Real Time Scrapper",
+  "Description": "RTS (Realtime scrapper) is a tool developed to scrap all pasties, github, reddit, etc. in real time to identify occurrence of search terms configured. Upon match, an email will be triggered. Thus, allowing a company to react in case of leakage of code, any hacks tweeted, etc. and harden themselves against an attack before it goes viral.",
+  "Github URL": "https://github.com/RTSPlus/rts-scraper",
+  "Tracks": [
+    "OSINT - Open Source Intelligence"
+  ],
+  "Speakers": [
+    "Naveen Rudrappa"
+  ],
+  "Year": "2019",
+  "Location": "Asia"
+}

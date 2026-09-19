@@ -1,0 +1,15 @@
+{
+  "Tool Name": "EmploLeaks: Finding Leaked Employees Info for the Win",
+  "Description": "An OSINT tool that identifies company employees with compromised credentials by searching LinkedIn for employee profiles, discovering their personal email addresses through social networks, and cross-referencing those emails against leaked credentials databases.",
+  "Github URL": "https://github.com/infobyte/emploleaks",
+  "Tracks": [
+    "Exploitation and Ethical Hacking",
+    "OSINT - Open Source Intelligence"
+  ],
+  "Speakers": [
+    "Gabriel Franco",
+    "Javier Aguinaga"
+  ],
+  "Year": "2023",
+  "Location": "USA"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "tshark + ELK: Network Traffic Monitoring and Analysis",
+  "Description": "This project builds virtual machine for network traffic monitoring and analysis. It uses ELK (Elasticsearch, Logstash, Kibana) to process Wireshark decoded output (by using tshark -T ek ndjson output). The virtual appliance is built using vagrant, with pre-installed and pre-configured ELK stack. https://www.h21lab.com/tools/tshark-elasticsearch https://github.com/H21lab/tsharkVM",
+  "Github URL": "https://github.com/h21lab/tsharkvm",
+  "Tracks": [
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Martin Kacer"
+  ],
+  "Year": "2021",
+  "Location": "USA"
+}

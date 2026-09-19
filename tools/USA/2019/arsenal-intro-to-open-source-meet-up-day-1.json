@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Arsenal Intro to Open Source Meet-Up: Day 1",
+  "Description": "Visit the Arsenal Lounge for a meet-up with the Arsenal Review Board and other tool authors. This casual gathering will allow you to discuss your current projects, receive feedback from the ToolsWatch team, connect with other open source contributors, and learn about the Arsenal program and how to become a presenter!",
+  "Github URL": "https://github.com/Orange-Cyberdefense/arsenal",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Nabil Ouchn",
+    "Rachid Harrando",
+    "Maximiliano Soler"
+  ],
+  "Year": "2019",
+  "Location": "USA"
+}

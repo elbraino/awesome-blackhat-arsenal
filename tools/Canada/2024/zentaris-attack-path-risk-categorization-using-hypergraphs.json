@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Zentaris Attack Path Risk Categorization Using Hypergraphs",
+  "Description": "A cloud security tool from Zetafence that analyzes and categorizes attack paths in cloud environments using hypergraph-based risk assessment to identify and prioritize security vulnerabilities.",
+  "Github URL": "https://github.com/zetafence",
+  "Tracks": [
+    "Cloud Security",
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Sai Sitharaman"
+  ],
+  "Year": "2024",
+  "Location": "Canada"
+}

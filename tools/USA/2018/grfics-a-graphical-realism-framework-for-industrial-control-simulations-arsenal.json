@@ -1,0 +1,13 @@
+{
+  "Tool Name": "GRFICS: A Graphical Realism Framework for Industrial Control Simulations - ARSENAL THEATER DEMO",
+  "Description": "GRFICS is a graphical realism framework for industrial control simulations designed to lower the barrier to entry for learning about ICS security. This initial version of GRFICS provides a virtual chemical process control network including everything from the plant operator's human machine interface, to a vulnerable programmable logic controller, down to a realistic chemical process simulation being visualized in the Unity 3D game engine. With GRFICS, beginners in ICS security can practice exploiting common ICS vulnerabilities and vividly see the impact of their attacks on the virtual chemical reactor.",
+  "Github URL": "https://github.com/djformby/GRFICS",
+  "Tracks": [
+    "Smart Grid/Industrial Security"
+  ],
+  "Speakers": [
+    "David Formby"
+  ],
+  "Year": "2018",
+  "Location": "USA"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Windows On ARM Rootkit Detector",
+  "Description": "A utility for Windows 11 ARM64 systems that detects SSDT hooking attempts, a technique used by rootkits to intercept system calls by modifying kernel function pointers.",
+  "Github URL": "https://github.com/cyberark/woarkd",
+  "Tracks": [
+    "Malware Defense"
+  ],
+  "Speakers": [
+    "Rotem Salinas"
+  ],
+  "Year": "2023",
+  "Location": "Canada"
+}

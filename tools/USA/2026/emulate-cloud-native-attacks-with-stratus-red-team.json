@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Emulate cloud-native attacks with Stratus Red Team",
+  "Description": "Stratus Red Team lets threat detection and cloud security engineering teams reproduce common cloud attacks in a self-contained way to confirm that detection mechanisms work as expected. It supports AWS, Azure, Google Cloud, Entra ID, and Kubernetes, and each emulated technique ships with actionable detection insight describing the telemetry defenders should expect to see.",
+  "Github URL": "https://github.com/DataDog/stratus-red-team",
+  "Tracks": [
+    "Cloud Security"
+  ],
+  "Speakers": [
+    "Andrew Krug"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

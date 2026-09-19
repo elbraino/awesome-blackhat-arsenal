@@ -1,0 +1,13 @@
+{
+  "Tool Name": "FruityDC",
+  "Description": "FruityDC is focused on dynamic callbacks for re-establishing communication with C2 infrastructure and for achieving persistence, how payloads can heal themselves after being blocked including how communication can be re-established via dynamic parametric data. The methods described are code agnostic.",
+  "Github URL": "https://github.com/xtr4nge/FruityDC",
+  "Tracks": [
+    "Network Attacks"
+  ],
+  "Speakers": [
+    "xtr4nge ."
+  ],
+  "Year": "2019",
+  "Location": "Europe"
+}

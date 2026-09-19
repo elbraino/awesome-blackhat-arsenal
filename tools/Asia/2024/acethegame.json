@@ -1,0 +1,16 @@
+{
+  "Tool Name": "AceTheGame",
+  "Description": "An open-source hacking tool for manipulating the memory of Android applications, enabling users to scan and modify in-app memory values on both rooted and non-rooted devices, with features for bypassing in-app purchases through APK patching.",
+  "Github URL": "https://github.com/KuhakuPixel/AceTheGame",
+  "Tracks": [
+    "Android, iOS and Mobile Hacking"
+  ],
+  "Speakers": [
+    "Nicholas Andreas",
+    "Jeffrey Jingga",
+    "Valencia Violin",
+    "Yohan Muliono"
+  ],
+  "Year": "2024",
+  "Location": "Asia"
+}

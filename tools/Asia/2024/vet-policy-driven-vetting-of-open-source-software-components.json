@@ -1,0 +1,13 @@
+{
+  "Tool Name": "vet: Policy Driven vetting of Open Source Software Components",
+  "Description": "vet is a tool for identifying risks in open source software supply chain. It helps engineering and security teams to identify potential issues in their open source dependencies and evaluate them against codified organisational policies.",
+  "Github URL": "https://github.com/safedep/vet",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Abhisek Datta"
+  ],
+  "Year": "2024",
+  "Location": "Asia"
+}

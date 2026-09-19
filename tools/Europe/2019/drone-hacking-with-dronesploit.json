@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Drone Hacking with DroneSploit",
+  "Description": "This project is aimed to provide a Metasploit-like CLI framework tailored to drone hacking. It currently supports modules for the C-me and Flitt drones (Hobbico) but should be extended in a near future with new modules for other brands and models (i.e. Parrot and DJI).",
+  "Github URL": "https://github.com/dronesploit/dronesploit",
+  "Tracks": [
+    "Internet Of Things"
+  ],
+  "Speakers": [
+    "Alexandre D'Hondt",
+    "Yannick Pasquazzo"
+  ],
+  "Year": "2019",
+  "Location": "Europe"
+}

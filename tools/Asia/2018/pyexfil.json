@@ -1,0 +1,13 @@
+{
+  "Tool Name": "PyExfil",
+  "Description": "PyExfil is a data exfiltration package with various data exfiltration techniques for various scenarios.",
+  "Github URL": "https://github.com/ytisf/PyExfil",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Yuval Nativ"
+  ],
+  "Year": "2018",
+  "Location": "Asia"
+}

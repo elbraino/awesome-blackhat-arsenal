@@ -1,0 +1,14 @@
+{
+  "Tool Name": "The Perfect BLEnd: Reversing a Bluetooth-Controlled Smart Blender for Better Smoothies",
+  "Description": "A template repository for generating web pages that control Bluetooth Low Energy (BLE) devices through a browser interface using the Web Bluetooth API, enabling interaction with BLE devices via Chrome, Edge, or Opera.",
+  "Github URL": "https://github.com/nightlark/web-bluetooth-controller",
+  "Tracks": [
+    "Internet Of Things",
+    "Hardware/Embedded"
+  ],
+  "Speakers": [
+    "Ryan Mast"
+  ],
+  "Year": "2024",
+  "Location": "Canada"
+}

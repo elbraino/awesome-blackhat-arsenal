@@ -1,0 +1,13 @@
+{
+  "Tool Name": "WARCannon: Grep the Entire Internet for WebApp Vulnerabilities",
+  "Description": "Have you ever found a novel vulnerability in a website, framework, javascript library, or third-party integration, and wondered how many other people in the world are vulnerable, too? Have you ever wished that you could non-invasively grep the internet for a vulnerability indicator? WARCannon was built for exactly this purpose, and is fed by Common Crawl via the AWS Open Data program to allow for petabyte-scale analysis of previously-spidered websites. Security researchers and bug bounty hunters can leverage WARCannon to scale their research horizontally across the entire internet in a fast, cost-effective, and entirely non-invasive/invisible way.",
+  "Github URL": "https://github.com/c6fc/warcannon",
+  "Tracks": [
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Brad Woodward"
+  ],
+  "Year": "2021",
+  "Location": "USA"
+}

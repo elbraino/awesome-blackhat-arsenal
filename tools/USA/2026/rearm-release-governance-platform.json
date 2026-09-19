@@ -1,0 +1,13 @@
+{
+  "Tool Name": "ReARM: Release Governance Platform",
+  "Description": "ReARM — Reliza's Artifact and Release Management — is a DevSecOps and supply chain security tool that doubles as an SBOM/xBOM repository and evidence store. It organises product releases together with their metadata, including Bills of Materials in various formats and associated security findings, maintaining security documents and findings on a per-release basis.",
+  "Github URL": "https://github.com/relizaio/rearm",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Pavel Shukhman"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

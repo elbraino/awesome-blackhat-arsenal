@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Chakshu",
+  "Description": "Chakshu is a GUI-based network scanning tool that consolidates multiple CLI network security tools into a single unified interface. It simplifies network reconnaissance and security assessment by providing an accessible frontend for common scanning and enumeration operations.",
+  "Github URL": "https://github.com/Insider-HackZ/Network-Scanner-GUI",
+  "Tracks": [
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Samaksh K",
+    "Nimit Jain"
+  ],
+  "Year": "2025",
+  "Location": "Asia"
+}

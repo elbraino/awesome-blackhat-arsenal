@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Continuous Threat Modeling in Agentic AI era - tmdd",
+  "Description": "TMDD brings threat modeling into the repository so it stays current as code evolves. Using an AI agent of the user's choice, it analyses source to infer components and data flows and generates a version-controlled YAML threat model that is reviewed through pull requests. Threats and mitigations are linked to specific files for continuous validation, and the tool renders Markdown and HTML reports, surfacing undocumented attack surface and logic-level flaws.",
+  "Github URL": "https://github.com/attasec/tmdd",
+  "Tracks": [
+    "Code Assessment"
+  ],
+  "Speakers": [
+    "mik0w"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

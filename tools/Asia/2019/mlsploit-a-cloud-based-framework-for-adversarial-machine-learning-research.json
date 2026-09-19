@@ -1,0 +1,15 @@
+{
+  "Tool Name": "MLsploit: A Cloud-Based Framework for Adversarial Machine Learning Research",
+  "Description": "A cloud-based framework for interactive experimentation with adversarial machine learning research, providing a dockerized system with a REST API backend and web interface for studying ML vulnerabilities and attacks.",
+  "Github URL": "https://github.com/mlsploit",
+  "Tracks": [
+    "Malware Defense"
+  ],
+  "Speakers": [
+    "Evan Yang",
+    "Li Chen",
+    "Nilaksh Das"
+  ],
+  "Year": "2019",
+  "Location": "Asia"
+}

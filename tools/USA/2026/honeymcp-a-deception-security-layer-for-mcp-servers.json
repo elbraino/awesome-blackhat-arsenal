@@ -1,0 +1,14 @@
+{
+  "Tool Name": "HoneyMCP: A Deception Security Layer for MCP Servers",
+  "Description": "HoneyMCP is an open-source deception layer for Model Context Protocol servers that detects AI-agent attacks through one-line integration. It injects deceptive ghost tools, either statically defined or LLM-generated, to surface data exfiltration attempts and indirect prompt injection. Triggered tools emit high-fidelity AttackFingerprint telemetry covering session, tool sequence, threat category, and context, and two response modes are available: immediate lockout, or sustained deception using synthetic outputs.",
+  "Github URL": "https://github.com/barvhaim/HoneyMCP",
+  "Tracks": [
+    "AI, ML & Data Science"
+  ],
+  "Speakers": [
+    "Bar Haim",
+    "Alon Malach"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

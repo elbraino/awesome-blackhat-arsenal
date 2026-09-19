@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Streamlining Suricata Signature Writing: Mastering the Art with Suricata Language Server",
+  "Description": "A Language Server Protocol implementation that provides syntax checking, auto-completion, and real-time validation for Suricata intrusion detection signatures in code editors.",
+  "Github URL": "https://github.com/StamusNetworks/suricata-language-server",
+  "Tracks": [
+    "Network Defense",
+    "Network Attacks"
+  ],
+  "Speakers": [
+    "Eric LEBLOND"
+  ],
+  "Year": "2024",
+  "Location": "Europe"
+}

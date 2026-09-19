@@ -1,0 +1,13 @@
+{
+  "Tool Name": "SHAREM: Next-Generation Shellcode Analysis Tool",
+  "Description": "SHAREM is an NSA-funded shellcode analysis framework that emulates shellcode to recover behaviour static analysis cannot reach. It identifies more than 45,538 unique WinAPI functions and 99% of Windows syscalls, and its custom disassembler labels the actual API being invoked along with its parameters where other disassemblers show only a generic indirect call. Emulation deobfuscates self-decoding shellcode without live execution, typically in 10 to 30 seconds, and can revisit prior execution contexts to expose code beyond the obvious path.",
+  "Github URL": "https://github.com/Bw3ll/sharem",
+  "Tracks": [
+    "Reverse Engineering"
+  ],
+  "Speakers": [
+    "Dr. Bramwell Brizendine"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

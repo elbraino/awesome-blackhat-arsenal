@@ -1,0 +1,13 @@
+{
+  "Tool Name": "ShellWasp: Creating Shellcode with Windows Syscalls",
+  "Description": "ShellWasp generates Windows syscall shellcode for 32-bit WoW64, tackling problems that make pure syscall shellcode impractical: system service numbers change across OS builds, WoW64 mechanics differ between Windows 7 and Windows 10/11, and building the required structures in position-independent assembly is painful. It identifies the target build at runtime, generates a syscall array with correct SSNs, and manages reuse. Build discovery methods include PEB, User_Shared_Data, and PEB-via-r12, alongside novel non-standard WoW64 syscall invocation paths.",
+  "Github URL": "https://github.com/Bw3ll/ShellWasp",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Dr. Bramwell Brizendine"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

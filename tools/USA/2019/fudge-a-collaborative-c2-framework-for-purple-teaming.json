@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Fudge: A Collaborative C2 Framework for Purple Teaming",
+  "Description": "Fudge is a Python3/Flask web-based C2 framework and Powershell implant designed to facilitate purple teaming activities, post-campaign review and timelining. Fudges' inception is based on 3 main areas: Creating a suitable way for blue teamers to review the chronological activities a red team engagement, allowing them to assess if key alerts were missed. Finding ways to incrementally increase detection rates, allowing defenders to identify the intrusion. This provides a gauge of skill & target areas for upskilling if the intrusion is not identified. Providing a way for junior testers to experience red teaming without increasing risk to the campaign OpSec/client network. Purple teaming was born out of the need for tighter integration between offensive and defensive teams. If the red team is successful in compromise, their ability to export the campaign timeline and logging can prove invaluable insight to the blue team. Allowing defenders to review network and host logs as they follow a campaign timeline, allows for blind spots to be identified and tooling adjusted and tuned. Fudges' implant also supports varying levels and types of obfuscation to allow for varying levels of noise to be made during the engagement to help a SoC benchmark their detection skills. Lastly, Fudge is designed around team usage, which allows for a senior red teamer to allow another user to have read or read/write access to the campaign. These access controls allow a junior member to view the campaign and see the kind of commands, and techniques used in a post-exploitation environment. Fudge can be found on Github at: https://github.com/Ziconius/Fudge",
+  "Github URL": "https://github.com/Ziconius/FudgeC2",
+  "Tracks": [
+    "Network Attacks"
+  ],
+  "Speakers": [
+    "Kris Anderson"
+  ],
+  "Year": "2019",
+  "Location": "USA"
+}

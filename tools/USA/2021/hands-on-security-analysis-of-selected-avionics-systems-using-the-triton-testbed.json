@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Hands-on Security Analysis of Selected Avionics Systems Using the Triton Testbed",
+  "Description": "A Python library providing high-level exploration capabilities built on top of the Triton symbolic execution framework, enabling automated program analysis through dynamic symbolic execution with features like automatic binary loading, coverage tracking, and input handling.",
+  "Github URL": "https://github.com/quarkslab/tritondse",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Dr. Karl Koscher"
+  ],
+  "Year": "2021",
+  "Location": "USA"
+}

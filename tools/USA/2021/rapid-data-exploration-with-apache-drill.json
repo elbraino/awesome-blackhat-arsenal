@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Rapid Data Exploration With Apache Drill",
+  "Description": "Training materials and code for rapid data exploration using Apache Drill, a distributed SQL query engine that enables analysts to query and analyze diverse data sources using standard ANSI SQL for forensics and incident response investigations.",
+  "Github URL": "https://github.com/cgivre/data-exploration-with-apache-drill",
+  "Tracks": [
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "Charles Givre"
+  ],
+  "Year": "2021",
+  "Location": "USA"
+}

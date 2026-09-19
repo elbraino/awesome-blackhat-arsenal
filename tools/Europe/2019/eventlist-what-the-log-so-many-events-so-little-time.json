@@ -1,0 +1,13 @@
+{
+  "Tool Name": "EventList: What the log?! So Many Events, so Little Time...",
+  "Description": "Detecting adversaries is not always easy - especially when it comes to correlating Windows Event Logs to real-world attack patterns and techniques. EventList helps to match Windows Event Log IDs with the MITRE ATT&CK framework (and vice-versa) and offers methods to simplify the detection in corporate environments worldwide.",
+  "Github URL": "https://github.com/miriamxyra/EventList",
+  "Tracks": [
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "Miriam Wiesner"
+  ],
+  "Year": "2019",
+  "Location": "Europe"
+}

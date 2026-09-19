@@ -1,6 +1,7 @@
 {
   "Tool Name": "VSXPLOIT",
   "Description": "VSXPloit is a framework for weaponizing VS Code Remote Dev Tunnels, automating tunnel exploitation, payload generation, and covert exfiltration via GitHub.",
+  "Github URL": "https://github.com/Hijack-Everything/vsxploit",
   "Tracks": [
     "Exploitation and Ethical Hacking"
   ],
@@ -8,6 +9,5 @@
     "Suman Kumar Chakraborty"
   ],
   "Year": "2025",
-  "Github URL": "https://github.com/Hijack-Everything/vsxploit",
   "Location": "MEA"
 }

@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Mantis - Asset Discovery at Scale",
+  "Description": "An automated security framework that automates asset discovery, reconnaissance, and scanning. It accepts domain names and IP ranges as input, discovers related assets like subdomains and certificates, and conducts comprehensive vulnerability assessments.",
+  "Github URL": "https://github.com/PhonePe/mantis",
+  "Tracks": [
+    "OSINT - Open Source Intelligence"
+  ],
+  "Speakers": [
+    "Ankur Bhargava",
+    "Saddam Hussain",
+    "Prateek Thakare"
+  ],
+  "Year": "2024",
+  "Location": "Asia"
+}

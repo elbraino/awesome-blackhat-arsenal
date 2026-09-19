@@ -1,0 +1,14 @@
+{
+  "Tool Name": "AI Wargame",
+  "Description": "An AI wargame framework built around the OpenAI Gym API that enables reinforcement learning research by allowing developers to create and train intelligent agents that compete in a strategic battle environment.",
+  "Github URL": "https://play.secdim.com/",
+  "Tracks": [
+    "Arsenal Lab",
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Pedram Hayati"
+  ],
+  "Year": "2024",
+  "Location": "Canada"
+}

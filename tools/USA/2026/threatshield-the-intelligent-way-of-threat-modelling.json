@@ -1,0 +1,17 @@
+{
+  "Tool Name": "ThreatShield - The Intelligent Way of Threat Modelling",
+  "Description": "ThreatShield is an AI-powered threat modeling and security analysis tool that automates the work using an enterprise LLM API. It ingests raw material — product requirement documents, architecture diagrams, Confluence pages, Slack threads, and meeting transcripts — and produces structured STRIDE and PASTA threat models, attack trees, DREAD scoring, mitigation plans, and ASVS test cases, turning scattered design artifacts into an actionable security assessment.",
+  "Github URL": "https://github.com/threatshield/threatshield",
+  "Tracks": [
+    "Arsenal Lab",
+    "AI, ML & Data Science"
+  ],
+  "Speakers": [
+    "Satyam Nagpal",
+    "Ashwin Shenoi",
+    "Sayooj B Kumar",
+    "Aman Sapra"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}
