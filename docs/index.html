@@ -132,7 +132,13 @@
     history.replaceState(null, "", p.toString() ? "?" + p : location.pathname);
   }
 
-  fetch("../tools.json").then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }).then(data => {
+  // ../tools.json works when the repo root is served (python3 -m http.server); on GitHub Pages
+  // only docs/ is published, so fall back to the raw file on the main branch.
+  const SOURCES = ["../tools.json",
+                   "https://raw.githubusercontent.com/elbraino/awesome-blackhat-arsenal/main/tools.json"];
+  const load = i => fetch(SOURCES[i]).then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .catch(e => i + 1 < SOURCES.length ? load(i + 1) : Promise.reject(e));
+  load(0).then(data => {
     tools = data.map(t => ({ ...t, _text: [t["Tool Name"], t.Description, ...t.Speakers].join(" ").toLowerCase() }));
     fill($("region"), [...new Set(tools.map(t => t.Location))].sort());
     fill($("year"), [...new Set(tools.map(t => t.Year))].sort().reverse());
@@ -143,8 +149,8 @@
     for (const el of $("filters").elements) el.addEventListener("input", apply);
     apply();
   }).catch(e => {
-    $("count").innerHTML = `<span class="error">Could not load ../tools.json (${esc(e.message)}). ` +
-      `Serve the repository root, e.g. <code>python3 -m http.server</code>, then open /docs/.</span>`;
+    $("count").innerHTML = `<span class="error">Could not load tools.json (${esc(e.message)}). ` +
+      `For local use, serve the repository root with <code>python3 -m http.server</code> and open /docs/.</span>`;
   });
 })();
 </script>
