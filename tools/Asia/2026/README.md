@@ -60,7 +60,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>AI Wargame</strong> — Pedram Hayati, Harley Wilson</summary>
+<details><summary><strong>AI Wargame</strong> — Pedram Hayati</summary>
 
 **Track:** Arsenal Lab · **Event:** Asia 2026  
 🔗 **Link:** [https://play.secdim.com/](https://play.secdim.com/)  

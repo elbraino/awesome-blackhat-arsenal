@@ -1,11 +1,13 @@
 {
   "Tool Name": "Immunant Compiler",
-  "Description": "With the widespread adoption of DEP, code-reuse techniques such as ROP are essential parts of current exploits. ASLR randomizes the code layout to make ROP harder; unfortunately, ASLR-bypasses abound.",
+  "Description": "With the widespread adoption of DEP, code-reuse techniques such as ROP are essential parts of current exploits. ASLR randomizes the code layout to make ROP harder; unfortunately, ASLR-bypasses abound. The Immunant compiler delivers improved hardening against ROP attacks. Unlike ASLR, code randomization is done at a fine-granularity while preserving program performance. As a result, universal exploits fail and pointer leaks are no longer enough to bypass code randomization. On OS X and Linux, the Immunant compiler sits atop the production grade LLVM compiler framework. The Windows version integrates with the Visual Studio compiler suite. We will demonstrate protected versions of Firefox running on Windows, OS X, and Linux.",
   "Github URL": "https://github.com/immunant",
   "Tracks": [
     "Exploitation and Ethical Hacking"
   ],
-  "Speakers": [],
+  "Speakers": [
+    "Per Larsen"
+  ],
   "Year": "2014",
   "Location": "USA"
 }

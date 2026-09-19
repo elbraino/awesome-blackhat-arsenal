@@ -1,6 +1,6 @@
 {
   "Tool Name": "Cloud Katana",
-  "Description": "Cloud Katana is an event-driven, serverless application built on Azure Functions that automates the execution of attack simulation steps to expedite security control research and assessment in cloud and hybrid environments.",
+  "Description": "Cloud Katana empowers threat researchers to automate the execution of adversarial techniques in Azure with the help of Azure Functions with the main goal to validate detection rules and learn the underlying behavior of an attack. Azure Functions expose an API-like infrastructure which the project leverages to listen for HTTP requests and use server-less compute to execute/trigger simulations in Azure.",
   "Github URL": "https://github.com/Azure/Cloud-Katana",
   "Tracks": [
     "Network Attacks"

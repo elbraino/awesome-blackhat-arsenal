@@ -1,6 +1,6 @@
 {
   "Tool Name": "Drozer (formerly known as Mercury)",
-  "Description": "Drozer, previously known as Mercury, is the de facto tool for vulnerability-hunting on Android phones and in marketplace apps. In these demonstrations we are launching the new version of Drozer: one that has been extended to be a full-on, open-source exploitation framework for Android.",
+  "Description": "Drozer, previously known as Mercury, is the de facto tool for vulnerability-hunting on Android phones and in marketplace apps. In these demonstrations we are launching the new version of Drozer: one that has been extended to be a full-on, open-source exploitation framework for Android. Sporting remote exploits for compromising Android devices and shipped with payloads that transcend your average reverse shell, this framework is first of its breed for Android. Drozer also provides standard shellcode that can be used by exploit developers to integrate their Android exploits into the Drozer framework. Various devices will be pwned in these demonstrations, showing how Drozer can be used for initial targeted entry of a device to deploy a Drozer agent. Then, the post exploitation fun can begin: dumping of personal information, taking screenshots, stealing pictures, recording from the microphone and root are all possible. The best part about all of this work is that it is an open-source project that cherishes submissions from the community.",
   "Github URL": "https://github.com/ReversecLabs/drozer",
   "Tracks": [
     "Android, iOS and Mobile Hacking"

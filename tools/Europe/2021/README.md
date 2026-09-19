@@ -22,7 +22,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · **Event:** Europe 2021  
 🔗 **Link:** [https://github.com/google/clusterfuzz](https://github.com/google/clusterfuzz)  
-📝 **Description:** A scalable fuzzing infrastructure that finds security and stability issues in software. It powers Google OSS-Fuzz and enables automated vulnerability detection across open-source projects.
+📝 **Description:** Join us for hands-on interaction with the PD0 'Car in a box' -- a fully working test platform for automotive security including most of the ECUs from a 2014 Peugeot 208. Attendees will receive a quick introduction to CAN bus networks, how they are insecure by default, and how this can be exploited to change data and displays. All laptops will be equipped with a nano-can adapter and an instrument cluster which will have some scripts to allow fuzzing of the clusters. As a bonus, we will be using Twitter to control some of the dials on PD0 by tweeting specific information.
 
 </details>
 
@@ -30,7 +30,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · **Event:** Europe 2021  
 🔗 **Link:** [https://github.com/Forescout/project-memoria-detector](https://github.com/Forescout/project-memoria-detector)  
-📝 **Description:** We will demonstrate an attacker's journey to disrupt a model smart building - which could be a residence, an office, or any critical facility like a hospital - using only TCP/IP stack vulnerabilities, which are known to affect large numbers of devices at a time. Attendees will interact with a tool to identify the TCP/IP stack running on a target device (using techniques such as banner grabbing, ICMP querying and TCP fingerprinting), a static analysis tool to find DNS-based vulnerabilities on TCP/IP stacks, and finally an exploit scenario involving a DNS-based RCE on a development board, an FTP-based DoS on a PLC and a TCP-based DoS on the switch connecting them. The physical effects on the model building include switching on or off lighting and ventilation systems. We will also discuss how a similar exploit scenario can lead to other types of physical effects in critical infrastructure.
+📝 **Description:** We will demonstrate an attacker’s journey to disrupt a model smart building - which could be a residence, an office, or any critical facility like a hospital - using only TCP/IP stack vulnerabilities, which are known to affect large numbers of devices at a time. Attendees will interact with a tool to identify the TCP/IP stack running on a target device (using techniques such as banner grabbing, ICMP querying and TCP fingerprinting), a static analysis tool to find DNS-based vulnerabilities on TCP/IP stacks, and finally an exploit scenario involving a DNS-based RCE on a development board, an FTP-based DoS on a PLC and a TCP-based DoS on the switch connecting them. The physical effects on the model building include switching on or off lighting and ventilation systems. We will also discuss how a similar exploit scenario can lead to other types of physical effects in critical infrastructure.
 
 </details>
 
@@ -38,7 +38,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · **Event:** Europe 2021  
 🔗 **Link:** [https://github.com/ssloxford/gsextract](https://github.com/ssloxford/gsextract)  
-📝 **Description:** Tools for satellite communications security research, including GSExtract for converting satellite radio captures of internet traffic using Generic Stream Encapsulation (GSE) over DVB-S into usable pcap files.
+📝 **Description:** Satellite broadband services from geostationary orbit are often unencrypted and can leak important and sensitive information to anyone with basic hardware and software knowledge. In this lab, we'll get some hands-on experience working with modern satellite internet protocols. We'll have environments set up where you can play with satellite data in a variety of formats and use open-source tools to convert satellite traffic recordings into meaningful traffic captures. The labs are designed for diverse backgrounds and skill levels so no prior experience with programming, SATCOMs, or protocol reversing is necessary, but, if you have it, there's stuff that should be fun for you too.
 
 </details>
 
@@ -64,7 +64,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Web AppSec · **Event:** Europe 2021  
 🔗 **Link:** [https://github.com/tkmru/lazyCSRF](https://github.com/tkmru/lazyCSRF)  
-📝 **Description:** Burp Suite is an intercepting HTTP Proxy, and it is the defacto tool for performing web application security testing. The feature of Burp Suite that I like the most is `Generate CSRF PoC`. However, the function to automatically determine the content of the request is broken, and it tries to generate PoCs using `form` even for PoCs that cannot be represented by `form`, such as JSON parameters and PUT requests. In addition, multibyte characters that can be displayed in Burp Suite itself are often garbled in the generated CSRF PoC. These were the motivations for creating LazyCSRF. I have implemented a feature to solve them. It has the following features: - Automatically switch to PoC using XMLHttpRequest - In case the parameter is JSON - In case the request is a PUT/PATCH/DELETE - Support displaying multibyte characters (like Japanese) - Generating CSRF PoC with Burp Suite Community Edition (of course, it also works in Professional Edition) https://github.com/tkmru/lazyCSRF
+📝 **Description:** Burp Suite is an intercepting HTTP Proxy, and it is the defacto tool for performing web application security testing. The feature of Burp Suite that I like the most is `Generate CSRF PoC`. However, the function to automatically determine the content of the request is broken, and it tries to generate PoCs using `form` even for PoCs that cannot be represented by `form`, such as JSON parameters and PUT requests. In addition, multibyte characters that can be displayed in Burp Suite itself are often garbled in the generated CSRF PoC. These were the motivations for creating LazyCSRF. I have implemented a feature to solve them. It has the following features:- Automatically switch to PoC using XMLHttpRequest - In case the parameter is JSON - In case the request is a PUT/PATCH/DELETE- Support displaying multibyte characters (like Japanese)- Generating CSRF PoC with Burp Suite Community Edition (of course, it also works in Professional Edition) https://github.com/tkmru/lazyCSRF
 
 </details>
 
@@ -88,7 +88,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Web AppSec · Exploitation and Ethical Hacking · **Event:** Europe 2021  
 🔗 **Link:** [https://github.com/yeswehack/xsstools](https://github.com/yeswehack/xsstools)  
-📝 **Description:** An XSS development framework that provides JavaScript libraries for building cross-site scripting exploits, including tools for data exfiltration, payload generation, request manipulation, and clickjacking attacks.
+📝 **Description:** XSS is one of the most common bug found on web application but the impact is often underestimated, and I think we can blame POC doing only an alert for that. While proving arbitrary code execution seems enough for bug hunters, people with less security knowledge may fail to grasp all the thing we can do with a bit of JavaScript. It's our job to explain and prove the impact but writing custom payload for every scope can be tiresome, because a XSS can trigger it a lot of different context reusing the same attack is often impossible. Xsstools is a new exploitation framework from bug bounty hunter and red teamer. It will help you build powerful and reusable payload that can be "compiled" to work in every situation. The framework come with all the common goodies you might need: - form submission with csrf token - data exfiltration via multiple channels - click and keylogger - DOM manipulation - Clickjacking helpers - and much more New features will be released for Black Hat armory: - cache only spidering - persistent exploitation This tool is available on GitHub https://github.com/yeswehack/xsstools under GPL-3.0 License.
 
 </details>
 
@@ -98,7 +98,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Code Assessment · **Event:** Europe 2021  
 🔗 **Link:** [https://github.com/apiiro/combobulator](https://github.com/apiiro/combobulator)  
-📝 **Description:** An open-source, modular framework designed to detect and prevent dependency confusion attacks by evaluating packages across different sources and package management systems like npm and Maven.
+📝 **Description:** The Dependency Combobulator is a modular and extensible framework to detect and prevent dependency confusion leakage and potential attacks. This facilitates a holistic approach for ensure secure application releases that can be evaluated against different sources (e.g., GitHub, Artifactory) and many package management schemes (e.g., ndm, pip, maven). The framework can be used by security auditors, pentesters and even baked into an enterprise's application security program and release cycle in an automated fashion.
 
 </details>
 
@@ -126,7 +126,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** OSINT - Open Source Intelligence · **Event:** Europe 2021  
 🔗 **Link:** [https://github.com/crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)  
-📝 **Description:** An open-source security platform that detects malicious behavior through log analysis and HTTP request inspection, leveraging crowdsourced threat intelligence to provide community-driven protection against malicious IPs.
+📝 **Description:** Discover CrowdSec, the open-source & participative IPS, relying on both IP behavior analysis and IP reputation. CrowdSec analyzes visitor behavior & provides an adapted response to all kinds of attacks. The solution also enables users to protect each other. Each time an IP is blocked, all community members are informed so they can also block it. Already used in 105+ countries across 6 continents, the solution builds a real-time IP reputation database that will benefit individuals, companies, institutions etc.
 
 </details>
 
@@ -168,7 +168,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Malware Offense · **Event:** Europe 2021  
 🔗 **Link:** [https://github.com/mhaskar/DNSStager](https://github.com/mhaskar/DNSStager)  
-📝 **Description:** A Python-based tool that hides and transfers payloads using DNS by creating a malicious DNS server that delivers encoded payloads through DNS queries. It generates custom agents in C or GoLang that retrieve, decode, and execute the payloads.
+📝 **Description:** DNSStager is an open-source project based on Python used to hide and transfer your payload using DNS. DNSStager will create a malicious DNS server that handles DNS requests to your domain and return your payload as a response to specific record requests such as AAAA or TXT records after splitting it into chunks and encoding the payload using different algorithms. DNSStager can generate a custom agent written in C or GoLang that will resolve a sequence of domains, retrieve the payload, decode it and finally inject it into the memory based on any technique you want. You can edit the code of the DNSStager agent as you wish, and build it using your own custom execution techniques. The main goal of using DNSStager is to help red teamers/pentesters to deliver their payloads in a stealthy channel using DNS.
 
 </details>
 
@@ -232,7 +232,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Exploitation and Ethical Hacking · **Event:** Europe 2021  
 🔗 **Link:** [https://github.com/twistlock/whoc](https://github.com/twistlock/whoc)  
-📝 **Description:** A container image that extracts the underlying container runtime and sends it to a remote server, exploiting the exposure of runtimes through /proc/self/exe to reveal what container infrastructure CaaS providers use.
+📝 **Description:** Running your business-critical applications on the public cloud involves trust. You trust your cloud provider to separate your workloads from other customers' workloads. You trust your cloud provider to patch and update their software and hardware stack. For those of us with trust issues, blindly running our applications in the public cloud can be tough. Fortunately, trust can be earned through visibility, and that's where WhoC can help. WhoC provides a bit of visibility into how Container-as-a-Service (CaaS) offerings run our containers. WhoC (Who Contains) is a container image that upon execution extracts the underlying container runtime. It doesn't try to identify the underlying runtime based on the container's cgroup configuration, the existence of a '.dockerenv' file or any other known trick. WhoC exfiltrates the actual container runtime binary from the underlying host. In this talk Yuval will walk you through how WhoC works and show a demo in a popular CaaS offering. You'll learn a surprising truth: Linux containers can actually access one host file - the container runtime.
 
 </details>
 
@@ -292,7 +292,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Malware Defense · **Event:** Europe 2021  
 🔗 **Link:** [https://github.com/MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)  
-📝 **Description:** Mobile Security Framework (MobSF) is an automated, all-in-one mobile application security testing platform that performs static and dynamic analysis for Android, iOS, and Windows apps, with CI/CD integration via APIs.
+📝 **Description:** Emulating malware is a great way to gain insight into the behaviour of threat actors, and to fetch the newest malware samples and modules from the source. Emulating Android malware using virtual machines is a resource intensive task that does not scale well. To resolve this, I wrote the open-source Mobile Malware Mimicking framework, or m3 in short. The framework is built to easily and scalable emulate Android malware whilst using very few resources. Currently, the renowned Anubis and Cerberus families are supported within the framework. m3's architecture focuses on three main points: simplicity, security, and scalability. To simplify the implementation of new families, the framework is written in Java, which allows the usage of decompiled code snippets. Additionally, the framework provides internal APIs to simplify the workflow. Each bot contains a phone object, which contains many commonly used Android features in plain Java, optimised for emulation purposes. This way, decompiled code only needs minor tweaks before it is executable within the framework. The framework is secure, as unknown commands are logged and furthermore ignored. Due to its open-source nature, anyone can audit and improve the project. Due to the plain Java implementation of the bots, the framework requires very little memory, compared to the virtual machines that would otherwise be required. Adding more bots barely increases the memory usage, allowing a single machine to handle dozens of bots at once. To use m3, one must first create one or more bots and provide all required details, after which the bots can be emulated. Logging of activities is done per bot, in both the standard output, and a log file per bot. This provides analysts with a detailed overview of the activities that occurred over time.
 
 </details>
 
@@ -300,7 +300,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Network Defense · **Event:** Europe 2021  
 🔗 **Link:** [https://github.com/punk-security/pwnspoof](https://github.com/punk-security/pwnspoof)  
-📝 **Description:** A Python tool that generates realistic spoofed log files for common web servers with customizable attack scenarios, useful for cybersecurity training exercises and CTF competitions.
+📝 **Description:** PWNSpoof produces realistic but unique incident response logs, with plenty of customisation options and an injected attack sequence to boot. Each user session (and we produce thousands over a customisable period of time) follows a dynamic pattern, which prevents simple filtering and delivers an authentic dataset. Currently pwnSpoof generates IIS logs for dummy banking and social media applications in the standard IIS log format (W3SVC) which can be consumed by most SIEM solutions. It injects a configurable number of attacks, including login bruteforce and parameter injection. pwnSpoof randomises session times to produce a realistic pattern of activity that idles overnight and peaks during business hours. It randomises source IPs according to a weighted geo table, providing realistic iplocation patterns such as 99% UK and 1% EU. This allows us to set attacker source IPs to countries of hacking notoriety or allow it to blend in. pwnSpoof is able to generate unique log bundles every time so is perfect for incident response and threat hunting training serials. The student then has to find the attack amongst the high entropy background noise in order to find the indicators of compromise and comprehend the attackers activity. Typically a student will need to identify which account was compromised, the timestamp of a log or the source IP of the attacker. pwnSpoof produces a seperate answer file, which can be used directly by the student or ingested by CTF tool for points based scoring. There's no benefit to cheating, as every student has a different challenge.
 
 </details>
 
@@ -308,7 +308,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Malware Defense · **Event:** Europe 2021  
 🔗 **Link:** [https://github.com/aau-network-security/riotpot](https://github.com/aau-network-security/riotpot)  
-📝 **Description:** A modular hybrid-interaction honeypot focused on emulating IoT and OT protocols, functioning as a proxy service that routes incoming attacks to various internal and external honeypot services.
+📝 **Description:** With attacks against Internet of Things (IoT) and Operational Technology (OT) protocols increasing, we need proper defensive tools as well as methods for studying adversarial techniques. RIoTPot is a novel IoT/OT honeypot that is written in Go and moves beyond the traditional binary world of low vs. high interaction level. It achieves this via a modular architecture that allows for hybrid deployment of low-interaction along with high-interaction components (based on containerization techniques) as per users' preferences. RIoTPot emulates a multitude of common IoT and OT protocols such as CoAP, MQTT, Modbus, Telnet, AMQP, SSH, HTTP and UPnP.
 
 </details>
 
@@ -316,7 +316,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Network Defense · Malware Defense · **Event:** Europe 2021  
 🔗 **Link:** [https://github.com/zeronetworks/rpcfirewall](https://github.com/zeronetworks/rpcfirewall)  
-📝 **Description:** A security tool that audits and filters Remote Procedure Call (RPC) traffic on Windows servers to protect against lateral movement attacks and RPC-based exploits by monitoring and blocking potentially malicious RPC requests.
+📝 **Description:** In Windows based environments, RPC is the main underlying protocol required for remote administration and for Active Directory services. As such, it is often used by IT admins, but also by ransomware and advanced attackers to spread by creating remote services, scheduled tasks, DCOM objects, etc. It is also a major component in the persistency phase of attacks such as active directory DCSync, and even DC vulnerabilities such as Zerologon. The RPC-FireWall is a simple tool to operate, which can be used by security researchers and SOC teams. It places strategically located hooks in the Windows RPC runtime, which enables the operator to audit and control every RPC call. Security researchers can use it to trace and understand how various RPC based lateral movement techniques work. SOC teams can consume the audit information, which is stored to the Event logs, into their SIEM / XDR and use it to create numerous detection rules. The RPC-FireWall also acts as a - well, firewall - which allows defenders granular control over which RPC protocols and methods are allowed, from where, by whom, etc. while potentially malicious RPC calls could be blocked.
 
 </details>
 
@@ -324,7 +324,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Network Defense · **Event:** Europe 2021  
 🔗 **Link:** [https://github.com/punk-security/smbeagle](https://github.com/punk-security/smbeagle)  
-📝 **Description:** A cross-platform SMB file share auditing tool that scans networks for accessible files and reports their read/write permissions, with findings exportable to CSV or Elasticsearch.
+📝 **Description:** SMBeagle is executed on end-user devices with a standard domain users account. SMBeagle will then identify all connected networks using existing mapped drives, application connections, local networks and subnet masks. SMBeagle will then scan all identified network ranges for open SMB shares. Once it finds an SMB connection it will audit the file and folder structure and record the applied permissions. This information is logged in an elastic index to be dashboarded within Kibana. Giving application owners and IT operation teams greater insight into what network shares are available to users and highlight insecure network shares which are susceptible to RANSOMWARE attacks. SMBeagle can be run multiple times from multiple user contexts to identify the business risk to RANSOMWARE. SMBeagle can be used during a pentest engagement to identify business-sensitive data and system credentials in configuration files and scripts. We believe SMBeagle will become a defacto tool for all stages of pentesting, allowing low privilege windows domain accounts to find vector for privilege escalation and allowing privileged accounts to quickly identify collections of sensitive business data. Utilising elastic backend storage provides rich data filtering and analysis, with auto documentation.
 
 </details>
 
@@ -342,7 +342,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Hardware/Embedded · **Event:** Europe 2021  
 🔗 **Link:** Not Available  
-📝 **Description:** With the growth of embedded systems the ability to exploit UART has become a key component of a Hardware Vulnerability Assessment. This tool focuses on Bute Forcing UART connections on embedded devices. It allow uses to define a brute forcing process for a wide variety of embedded systems.
+📝 **Description:** With the growth of embedded systems the ability to exploit UART has become a key component of a Hardware Vulnerability Assessment. This tool focuses on Bute Forcing UART connections on embedded devices. It allow uses to define a brute forcing process for a wide variety of embedded systems
 
 </details>
 

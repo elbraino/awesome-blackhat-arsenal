@@ -1,6 +1,6 @@
 {
   "Tool Name": "kdigger: A Context Discovery Tool for Kubernetes Penetration Testing",
-  "Description": "A Kubernetes-focused penetration testing tool that runs inside pods to discover security contexts and vulnerabilities, automating checks on capabilities, namespaces, admission controllers, and available services within a cluster.",
+  "Description": "kdigger, short for \"Kubernetes digger\", is a context discovery tool for Kubernetes penetration testing. This tool is a compilation of various plugins called buckets to facilitate pentesting Kubernetes from inside a pod. The idea behind this tool is to quickly gather various information about your Kubernetes containerized environment, like a checklist, to give you, as a pentester, hints about the actual situation. For example, kdigger can help you: - notice that you are running inside a privileged container; - notice that you are running inside a container sharing the PID namespace with other container in its pod; - verify if you have a Kubernetes API token at your disposition that has interesting capabilities; - scan the admission control, if you have the right to create pods, in order to create a more privileged pod and escalate; - retrieve all the available services running inside of the cluster you are in; - scan the allowed system calls in the container.",
   "Github URL": "https://github.com/quarkslab/kdigger",
   "Tracks": [
     "Vulnerability Assessment"

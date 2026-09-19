@@ -1,0 +1,13 @@
+{
+  "Tool Name": "cot. - Agentic Observability Platform",
+  "Description": "AI agents are starting to show up everywhere, but for security teams it is still surprisingly hard to answer basic questions about what they are actually doing. cot.run is an attempt to make that easier. It gives teams visibility into the tools, MCP servers, plugins, models, external services, and permissions involved when agents perform work, helping them trace how an action happened and what systems were involved along the way. The focus is less on adding another layer of policy and more on making agent activity understandable enough to investigate, review, and secure. We will show cot.run running against real agent workflows and how this visibility can uncover risky dependencies, unexpected access, and parts of the agent stack that are otherwise easy to miss. More at cot.run",
+  "Github URL": "",
+  "Tracks": [
+    "AI, ML & Data Science"
+  ],
+  "Speakers": [
+    "Kumar Ashwin"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

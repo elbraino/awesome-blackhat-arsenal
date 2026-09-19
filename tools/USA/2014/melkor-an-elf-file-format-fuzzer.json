@@ -1,12 +1,12 @@
 {
   "Tool Name": "Melkor - An ELF File Format Fuzzer",
-  "Description": "Since its adoption as the standard binary file format for *nix systems, a variety of vulnerabilities in ELF parsers have been found and exploited in OS kernels, debuggers, libraries, etc. Most of these flaws have been found manually through code review and binary modification. Nowadays, 15 years later, common programming mistakes are still being implemented in many ELF parsers that are being released these days very often, either as debuggers, reverse engineering tools, AV analyzers, plugins or as malware (yes, malware has parsers too). Here's where ELF file format fuzzing comes into the game to help you to identify these bugs in an automated fashion.",
+  "Description": "Since its adoption as the standard binary file format for *nix systems, a variety of vulnerabilities in ELF parsers have been found and exploited in OS kernels, debuggers, libraries, etc. Most of these flaws have been found manually through code review and binary modification. Nowadays, 15 years later, common programming mistakes are still being implemented in many ELF parsers that are being released these days very often, either as debuggers, reverse engineering tools, AV analyzers, plugins or as malware (yes, malware has parsers too). Here's where ELF file format fuzzing comes into the game to help you to identify these bugs in an automated fashion. In this presentation, I will show you the security risks involved in the ELF parsing process as well as the materialization of such risks by showing different bugs found during this research. After that, I'll explain how intelligent file format fuzzing can help greatly in the flaw discovery process. Having a good background about the ELF file format and how smart fuzzing could help, I'll continue with a detailed explanation on how I mixed and implemented both concepts in Melkor - an ELF file format fuzzer. Melkor, written in C, it's an intuitive and easy-to-use ELF file format fuzzer. Its fuzzing rules were designed using three inputs: ELF specification violations, programming patterns seen in ELF parsers, and other misc ideas and considerations. In order to have higher code/branch coverage in the programs to be tested, certain metadata dependencies must be in place; I'll show you how Melkor implements these rules when creating malformed ELF files. In the end of the presentation, the code of Melkor will be released and I'll show you how to use it with some live demos where some real-world applications will be tested against fuzzed ELF files. Happy ELF fuzzing !",
   "Github URL": "https://github.com/IOActive/Melkor_ELF_Fuzzer",
   "Tracks": [
     "Reverse Engineering"
   ],
   "Speakers": [
-    "Alejandro Hernandez"
+    "Alejandro Hernández"
   ],
   "Year": "2014",
   "Location": "USA"

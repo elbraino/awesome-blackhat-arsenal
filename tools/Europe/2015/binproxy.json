@@ -1,0 +1,13 @@
+{
+  "Tool Name": "BinProxy",
+  "Description": "It has been a while since the attackers have been targeting various fields in the IT industry, including binary applications, mobile apps, embedded devices, web applications, and the like. One of the biggest problems for the whitehats that focus on defending these attacks, is \"Lack of time and manpower\". We try to compensate that issue. Basically, what it does is create an easy environment to dynamically analyze executables. We made a new framework to analyze applications called \"BinProxy\" inspired by web proxy. Our approach can be used to analyze the normal(binary) applications with a web proxy, and applied to Windows, Linux and Mac environments as well as mobile environments such as Android and iOS. Our framework solves the lack of time and manpower through the following functions without using any debugger, decompiler and other undesirable reversing and hooking tools since there is no need to learn and look up the manual how to use those tools:- Finding function needed to analyze and monitor- Modifying function parameters and return values by using web proxy- Reading/Writing memory, executing certain function and code by using web proxy- Controlling function using script languages We want to this framework be a open source project. Proof of Concept : https://www.youtube.com/playlist?list=PLNa87eQJGfPXbgj9hMGqijWlzxIHJ8brp",
+  "Github URL": "",
+  "Tracks": [],
+  "Speakers": [
+    "DongJoo Ha",
+    "Ingyu Tae",
+    "Jisun Kim"
+  ],
+  "Year": "2015",
+  "Location": "Europe"
+}

@@ -1,6 +1,6 @@
 {
   "Tool Name": "Vehicle Control System",
-  "Description": "A C-language simulation of a vehicle dashboard that models engine status, sensor data monitoring, and automatic control systems like AC and speed based on real-time conditions, used for automotive security research and training.",
+  "Description": "Real Time Operating Systems (RTOS) form the backbone for embedded systems and control units used in vehicle control technology (such as automobiles, trucks, buses, locomotives, UAVs, etc). In this session, we will get hands on red teaming a popular RTOS that's at the heart of vehicle control systems worldwide. To counter this activity, we will then provide a demo of memory extraction and data analysis following Mandiant’s Digital Forensics and Incident Response Framework for Embedded OT Systems.",
   "Github URL": "https://github.com/0maramr/vehicle-control-system",
   "Tracks": [
     "Arsenal Lab"

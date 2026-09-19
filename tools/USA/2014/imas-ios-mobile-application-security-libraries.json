@@ -1,11 +1,13 @@
 {
   "Tool Name": "iMAS - iOS Mobile Application Security Libraries",
-  "Description": "iOS App Integrity â Got Any?",
+  "Description": "iOS App Integrity – Got Any? iOS apps are vulnerable to static analysis and attack through binary code patching. Incorporating jailbreak and debugger detection algorithms can be rendered useless with a quick binary patch. Once patched the app can be further exploited, its app data stolen, and even cloned. The iMAS research team, the team that brought Encrypted CoreData (ECD) to Github open source, has your back! At this talk we will introduce open source Encrypted Code Modules (ECM) as a technique to protect sensitive enterprise iOS applications. Using ECM as the base we will demonstrate an iOS app anti-tamper technique that is considerably more resistant to patching. We will walk through this step-by-step process to make your iOS apps more secure and … authentic.",
   "Github URL": "https://github.com/project-imas",
   "Tracks": [
     "Android, iOS and Mobile Hacking"
   ],
-  "Speakers": [],
+  "Speakers": [
+    "Gregg Ganley"
+  ],
   "Year": "2014",
   "Location": "USA"
 }

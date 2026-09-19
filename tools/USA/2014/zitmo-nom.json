@@ -5,7 +5,9 @@
   "Tracks": [
     "Android, iOS and Mobile Hacking"
   ],
-  "Speakers": [],
+  "Speakers": [
+    "David Schwartzberg"
+  ],
   "Year": "2014",
   "Location": "USA"
 }

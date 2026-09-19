@@ -1,6 +1,6 @@
 {
   "Tool Name": "PyPTP",
-  "Description": "PyPTP is a Python based Pointer-to-Pointer fuzzer which allows for dynamic mapping of Python modules making calls through ctypes into C/C++ DLLs",
+  "Description": "PyPTP is a Python based Pointer-to-Pointer fuzzer which allows for dynamic mapping of Python modules making calls through ctypes into C/C++ DLLs PyPTP boasts a 90-96% code mapping feature that allows for you to easily crawl through python code and extrapolate function calls and the datatypes required to execute those functions.",
   "Github URL": "https://github.com/capaulson/pyptp",
   "Tracks": [
     "Code Assessment"

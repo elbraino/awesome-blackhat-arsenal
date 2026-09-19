@@ -1,6 +1,6 @@
 {
   "Tool Name": "Attack Surface Framework",
-  "Description": "Attack Surface Framework (ASF) discovers and monitors external and internal network assets, acting as an attack surface watchdog by enumerating services, tracking changes, and executing targeted security tests through a unified web interface.",
+  "Description": "Assuming there is an \"Object\" such as a domain, IP address or CIDR (Internal or External). ASF will discover assets or subdomains, enumerate their ports and services, track deltas and serve as a continuous and flexible, attacking and alerting framework, leveraging another layer of support against 0-day vulnerabilities with publicly available POCs. Motivation: The lack of support and flexibility to automate the discovery of dynamic assets and their associated vulnerabilities through continuous scanning or exploitation in a single pane of glass was the driving force in the creation of ASF. Current solutions built for a specific technology or program are limited in their scope. We needed a scalable solution that uses popular open source security tools for managing an entire vulnerability lifecycle. https://github.com/vmware-labs/attack-surface-framework",
   "Github URL": "https://github.com/vmware-labs/attack-surface-framework",
   "Tracks": [
     "Network Defense"

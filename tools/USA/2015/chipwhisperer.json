@@ -1,0 +1,11 @@
+{
+  "Tool Name": "ChipWhisperer",
+  "Description": "Side channel power analysis and glitching attacks have almost mythical powers - the ability to crack cryptographic implementations by exploiting fundamental flaws in the hardware running those otherwise secure algorithms. The ChipWhisperer project aims to teach everyone from computer science students to in-the-trenches embedded engineers how the attacks work, and how to perform them on real devices. This completely open-source project is a combination of hardware and software - the hardware can be built by a seasoned hardware hacker with surface mount experience, or a less seasoned hardware hacker can buy commercially for under $250. The project is complete with extensive documentation and tutorials to help teach the user about the general principles of side-channel analysis and glitching attacks. ChipWhisperer was previously a finalist in the 2014 Hackaday Prize, where it placed 2nd out of around 800 entries.",
+  "Github URL": "",
+  "Tracks": [],
+  "Speakers": [
+    "Colin O'Flynn"
+  ],
+  "Year": "2015",
+  "Location": "USA"
+}

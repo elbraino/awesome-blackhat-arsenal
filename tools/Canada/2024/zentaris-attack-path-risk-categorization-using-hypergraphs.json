@@ -1,6 +1,6 @@
 {
   "Tool Name": "Zentaris Attack Path Risk Categorization Using Hypergraphs",
-  "Description": "A cloud security tool from Zetafence that analyzes and categorizes attack paths in cloud environments using hypergraph-based risk assessment to identify and prioritize security vulnerabilities.",
+  "Description": "Zentaris is a Cloud-Agnostic Attack Path Risk Categorization tool that maps cloud attack paths playbooks to a comprehensive risk categorization system. The framework heavily utilizes graph semantics to effectively model and evaluate risk profiles. Such a tool can be utilized to discover and categorize risks across AWS, GCP, Azure infrastructures, as well as with Kubernetes clusters. The risk evaluation system enables enterprises to categorize those playbooks and evaluate by risk levels, providing enterprises with a contextual understanding, and threat priorities.",
   "Github URL": "https://github.com/zetafence/zentaris",
   "Tracks": [
     "Cloud Security",

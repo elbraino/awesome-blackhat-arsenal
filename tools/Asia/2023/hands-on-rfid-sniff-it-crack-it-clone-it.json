@@ -1,6 +1,6 @@
 {
   "Tool Name": "Hands-on RFID: Sniff it, crack it, clone it",
-  "Description": "An educational toolkit providing instructions for reading, cloning, and writing to RFID cards using devices like Proxmark3 and PN532, covering both Low Frequency and High Frequency RFID systems.",
+  "Description": "RFID technology is everywhere – used in anything from hotel room cards, office access, inventory management and more. The technology is inexpensive and versatile, but also insecure when used incorrectly. Swing by our talk to get hands-on sniffing, cloning, cracking, and emulating everyday real uses of RFID technology.",
   "Github URL": "https://github.com/b04zdotcom/rfid-hacking-cloning",
   "Tracks": [
     "Arsenal Lab"

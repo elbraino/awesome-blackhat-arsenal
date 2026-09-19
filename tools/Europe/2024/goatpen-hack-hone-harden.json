@@ -1,6 +1,6 @@
 {
   "Tool Name": "GoatPen: Hack, Hone, Harden",
-  "Description": "A security training and practice platform designed for ethical hacking exercises, allowing users to hack, hone their skills, and harden their defenses.",
+  "Description": "GoatPen is a diverse collection of vulnerable applications and infrastructure, affectionately referred to as \"goats,\" designed for learners to practice their skills. Currently, GoatPen includes AWSGoat (AWS Security), GCPGoat (GCP Security), AzureGoat (Azure Security), GearGoat (Automobile Security), and ICSGoat (ICS Security), with more in the development and concept stages. Together, these tools have garnered over 2,700 stars and 1,200 forks on GitHub, reflecting their popularity and utility in the security community. Each member of GoatPen is actively maintained and updated. Deploying these tools is made simple with GoatPen, requiring only Docker on your local system. GoatPen's built-in deployment helpers ensure a smooth setup of individual components, offering flexibility and ease of use for security professionals and developers. This platform also makes it easy for enthusiasts and learners to discover and keep up with the latest updates and additions to these security tools.",
   "Github URL": "https://github.com/code-n-designmaster/goatpen",
   "Tracks": [
     "Exploitation and Ethical Hacking"

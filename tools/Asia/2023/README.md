@@ -20,7 +20,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · **Event:** Asia 2023  
 🔗 **Link:** [https://github.com/ManhNho/Faceless](https://github.com/ManhNho/Faceless)  
-📝 **Description:** A deepfake detection system that uses convolutional neural networks to identify manipulated videos and images, providing a web interface for uploading media and receiving analysis on whether content has been artificially generated or altered.
+📝 **Description:** Deepfakes are getting easier to create and harder to detect the difference when compared to real media clips and photos. It is an unfortunate hazard of an ever-evolving world of artificial intelligence and machine learning. However, we designed Faceless as a deepfake detection system to help combat this threat. Join us to get hands-on with this user-friendly solution that reminds Internet users to stay secure against fake content.
 
 </details>
 
@@ -28,7 +28,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · **Event:** Asia 2023  
 🔗 **Link:** [https://github.com/b04zdotcom/rfid-hacking-cloning](https://github.com/b04zdotcom/rfid-hacking-cloning)  
-📝 **Description:** An educational toolkit providing instructions for reading, cloning, and writing to RFID cards using devices like Proxmark3 and PN532, covering both Low Frequency and High Frequency RFID systems.
+📝 **Description:** RFID technology is everywhere – used in anything from hotel room cards, office access, inventory management and more. The technology is inexpensive and versatile, but also insecure when used incorrectly. Swing by our talk to get hands-on sniffing, cloning, cracking, and emulating everyday real uses of RFID technology.
 
 </details>
 
@@ -62,7 +62,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Web AppSec · **Event:** Asia 2023  
 🔗 **Link:** [https://github.com/FA-PengFei/NGWAF](https://github.com/FA-PengFei/NGWAF)  
-📝 **Description:** Previously, we introduced N3XT G3N WAF (NGWAF) 1.0 at BHUSA 2022. The novel WAF 3.0 tool that seeks to relieve complex and difficult WAF detection mechanism with detection utilising a Sequential Neural Network (SNN) and traps attackers through a custom honeypotted environment. These assets are all dockerised for scalability. However, further experiments have proven that a SNN may not be the most optimal when it comes down to contextualised defence as it processes information in a step by step and sequential manner. It gets relatively cumbersome and ineffective detecting chained or contexualised attacks. Both of which are extremely common in today's attacks. Thus, we took another approach by swapping out our "brains". We revamped the SNN and went with a Recurrent Neural Network (RNN). The RNN is a much better choice for contextualised defense as the output of each layer is fed back as the input of the same layer. Thus, this allows the network to maintain a "memory" of the data it has processed. Our latest model is a RNN with a bi-directional LSTM module, it has an accuracy of 0.995 and a f1 score of 0.993. We have also upgraded NGWAF's scalability in model deployment, model maintenance and the overall detection pipeline. This is all done with cloudifying the operations of the entire Machine Learning detection module. As compared to version 1.0 where users have to install and run the entire framework on their local system, NGWAF 2.0 has employed Infrastructure-as-Code (IaC) scripts, which auto-deploys the machine learning model's training & maintenance pipeline onto AWS resources (Sagemaker). The detection module has also been shifted from local deployment to AWS Sagemaker where we are able to standardise the hardware utilised for the ML model. This also allows further decoupling of the detection module from the rest of the system and allow for greater customisability. BHUSA 2022 - Version 01: (https://www.blackhat.com/us-22/arsenal/schedule/index.html#nxt-gn-waf-ml-based-waf-with-retraining-and-detainment-through-honeypots-26609)
+📝 **Description:** Previously, we introduced N3XT G3N WAF (NGWAF) 1.0 at BHUSA 2022. The novel WAF 3.0 tool that seeks to relieve complex and difficult WAF detection mechanism with detection utilising a Sequential Neural Network (SNN) and traps attackers through a custom honeypotted environment. These assets are all dockerised for scalability. However, further experiments have proven that a SNN may not be the most optimal when it comes down to contextualised defence as it processes information in a step by step and sequential manner. It gets relatively cumbersome and ineffective detecting chained or contexualised attacks. Both of which are extremely common in today's attacks. Thus, we took another approach by swapping out our "brains". We revamped the SNN and went with a Recurrent Neural Network (RNN). The RNN is a much better choice for contextualised defense as the output of each layer is fed back as the input of the same layer. Thus, this allows the network to maintain a "memory" of the data it has processed. Our latest model is a RNN with a bi-directional LSTM module, it has an accuracy of 0.995 and a f1 score of 0.993. We have also upgraded NGWAF's scalability in model deployment, model maintenance and the overall detection pipeline. This is all done with cloudifying the operations of the entire Machine Learning detection module. As compared to version 1.0 where users have to install and run the entire framework on their local system, NGWAF 2.0 has employed Infrastructure-as-Code (IaC) scripts, which auto-deploys the machine learning model's training & maintenance pipeline onto AWS resources (Sagemaker). The detection module has also been shifted from local deployment to AWS Sagemaker where we are able to standardise the hardware utilised for the ML model. This also allows further decoupling of the detection module from the rest of the system and allow for greater customisability. BHUSA 2022 - Version 01: (https://blackhat.com/us-22/arsenal/schedule/index.html#nxt-gn-waf-ml-based-waf-with-retraining-and-detainment-through-honeypots-26609)
 
 </details>
 
@@ -70,7 +70,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Web AppSec · **Event:** Asia 2023  
 🔗 **Link:** [https://github.com/yogeshojha/rengine](https://github.com/yogeshojha/rengine)  
-📝 **Description:** An automated reconnaissance and attack surface management framework for web applications that combines subdomain discovery, vulnerability scanning, and report generation with a database-backed UI and configurable recon engines.
+📝 **Description:** reNgine is an open-source automated reconnaissance framework, that helps quickly discover the attack surface using highly customizable and powerful scan engines. reNgine also comes with some of the most innovative features such as sub scans feature, configurable scan report (both reconnaissance and vulnerability pdf report), tools arsenal which allows updating preinstalled tools and their configurations, graphical distribution of assets, WHOIS identification, and tons of actionable insights such as most common vulnerability, most common CVE IDs, etc. The most recent versions of reNgine make it more than just a recon tool! reNgine has always aimed to fix the gap in the traditional recon tools and is probably a much better alternative for some of the commercial recon and vulnerability assessment tools.
 
 </details>
 
@@ -262,7 +262,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Network Defense · **Event:** Asia 2023  
 🔗 **Link:** [https://github.com/mvelazc0/purplesharp](https://github.com/mvelazc0/purplesharp)  
-📝 **Description:** An open-source adversary simulation tool written in C# that executes MITRE ATT&CK techniques in Windows environments to generate attack telemetry, helping security teams build and validate detection capabilities.
+📝 **Description:** Defending enterprise networks against attackers continues to present a difficult challenge for blue teams. Prevention has fallen short; improving detection & response capabilities has proven to be a step in the right direction. However, without the telemetry produced by adversary behavior, building and testing detection capabilities will be a challenging task. PurpleSharp is an open-source adversary simulation tool written in C# that executes adversary techniques against Windows environments. The resulting telemetry can be leveraged to measure and improve the efficacy of a detection program. PurpleSharp executes different behavior across the attack lifecycle following the MITRE ATT&CK Framework’s tactics: execution, persistence, privilege escalation, credential access, lateral movement, etc.
 
 </details>
 

@@ -1,6 +1,6 @@
 {
   "Tool Name": "Advanced Threat Mitigation with RL + SDN",
-  "Description": "ATMoS is a framework for applying reinforcement learning to security management of Software-defined Networks (SDNs). It uses OpenDaylight and Mininet to simulate SDN infrastructure and trains RL agents to autonomously manage network security policies.",
+  "Description": "The more security tools on a network the better for observing advanced attacks, but the worse for the network bandwidth or quality of service. Ideally a hunter decides where we point our security tools at any given time to find threat actors in our networks. Since, threat investigators and hunters are rare and expensive, this is a tool that uses SDN and RL to automatically conduct threat hunting investigations, migrating suspicious users to network with more stringent security controls, such as Deep packet inspection firewall, s network intrusion prevent systems, web gateways, ssl decryption, etc. Detects and Contains threats in milliseconds.",
   "Github URL": "https://github.com/ATMoS-Waterloo/ATMoS",
   "Tracks": [
     "Network Defense"

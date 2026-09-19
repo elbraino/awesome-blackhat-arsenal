@@ -1,6 +1,6 @@
 {
   "Tool Name": "AI Wargame (Arsenal Lab)",
-  "Description": "A strategic 2-player board game where an attacker and defender battle on a grid using adversarial search algorithms, implementing minimax with alpha-beta pruning for intelligent AI opponents.",
+  "Description": "Come join a fun and educational attack and defence AI wargame. You will be given an AI chatbot. Your chatbot has a secret that should always remain a secret! Your objective is to secure your chatbot to protect its secret while attacking other players' chatbots and discovering theirs. The winner is the player whose chatbot survives the longest (king of the hill). All skill levels are welcomed, even if this is your first time seeing code, securing a chatbot, or playing in a wargame.",
   "Github URL": "https://play.secdim.com/",
   "Tracks": [
     "Arsenal Lab",

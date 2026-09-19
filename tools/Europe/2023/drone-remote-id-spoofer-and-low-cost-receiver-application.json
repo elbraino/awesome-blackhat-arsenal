@@ -1,6 +1,6 @@
 {
   "Tool Name": "Drone Remote ID Spoofer and Low Cost Receiver Application",
-  "Description": "A Python script that broadcasts spoofed drone Remote IDs over WiFi using ASD-STAN and DJI formats, supporting single or multiple spoofed drones in random or specific locations.",
+  "Description": "Get hands-on with us as we dive into the world of drone defense where we will monitor and spoof drones in real-time. We will show how to monitor various Remote IDs including popular proprietary and open formats. Next we will spoof fake drone Remote IDs which can be customized to appear as multiple drones and pilots in specific areas. No experience required – just an open mind.",
   "Github URL": "https://github.com/cyber-defence-campus/droneRemoteIDSpoofer",
   "Tracks": [
     "Arsenal Lab"

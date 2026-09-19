@@ -1,11 +1,13 @@
 {
   "Tool Name": "Cynomix",
-  "Description": "The stream of malicious software artifacts (malware) discovered daily by computer security professionals is a vital signal for threat intelligence, as malware bears telling clues about who active adversaries are, what their goals are, and how we can stop them. Unfortunately, while security operations centers collect huge volumes of malware daily, this âmalware signalâ goes underutilized as a source of defensive intelligence, because organizations lack the right tools to make sense of malware at scale.",
+  "Description": "The stream of malicious software artifacts (malware) discovered daily by computer security professionals is a vital signal for threat intelligence, as malware bears telling clues about who active adversaries are, what their goals are, and how we can stop them. Unfortunately, while security operations centers collect huge volumes of malware daily, this “malware signal” goes underutilized as a source of defensive intelligence, because organizations lack the right tools to make sense of malware at scale. To contribute to addressing this problem we will be launching Cynomix.org at the opening of Black Hat USA 2014. Cynomix will include three key, novel capabilities that we hope will broadly impact the way malware analysis is performed: In our demonstration presentation at Black Hat Arsenal we will introduce Black Hat attendees to Cynomix.org, which will host a freely available version of our system. As part of our demonstration we will give detailed explanations of our platform's visualizations and algorithms while also helping people to sign up to use the system in their own security operations work.",
   "Github URL": "",
   "Tracks": [
     "Malware Defense"
   ],
-  "Speakers": [],
+  "Speakers": [
+    "Giacomo Bergamo"
+  ],
   "Year": "2014",
   "Location": "USA"
 }

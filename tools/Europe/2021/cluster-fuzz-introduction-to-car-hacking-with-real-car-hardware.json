@@ -1,6 +1,6 @@
 {
   "Tool Name": "Cluster Fuzz, Introduction to Car Hacking With Real Car Hardware",
-  "Description": "A scalable fuzzing infrastructure that finds security and stability issues in software. It powers Google OSS-Fuzz and enables automated vulnerability detection across open-source projects.",
+  "Description": "Join us for hands-on interaction with the PD0 'Car in a box' -- a fully working test platform for automotive security including most of the ECUs from a 2014 Peugeot 208. Attendees will receive a quick introduction to CAN bus networks, how they are insecure by default, and how this can be exploited to change data and displays. All laptops will be equipped with a nano-can adapter and an instrument cluster which will have some scripts to allow fuzzing of the clusters. As a bonus, we will be using Twitter to control some of the dials on PD0 by tweeting specific information.",
   "Github URL": "https://github.com/google/clusterfuzz",
   "Tracks": [
     "Arsenal Lab"

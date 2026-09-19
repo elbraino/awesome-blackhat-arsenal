@@ -1,11 +1,13 @@
 {
   "Tool Name": "Automated Memory Analysis",
-  "Description": "Automated Memory Analysis is a set of new innovative Cuckoo Sandbox plugins that adds new dynamic and memory analysis abilities such as:",
+  "Description": "Automated Memory Analysis is a set of new innovative Cuckoo Sandbox plugins that adds new dynamic and memory analysis abilities such as: Demonstrations will cover how the plugins can help security researchers analyze advanced malware. Malware samples such as Snake (Uroburos), Stuxnet, and friends that evaded analysis will be dissected live to demonstrate the toolkit abilities.",
   "Github URL": "https://github.com/djteller/MemoryAnalysis",
   "Tracks": [
     "Reverse Engineering"
   ],
-  "Speakers": [],
+  "Speakers": [
+    "Tomer Teller"
+  ],
   "Year": "2014",
   "Location": "USA"
 }

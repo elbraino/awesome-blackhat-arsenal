@@ -1,0 +1,12 @@
+{
+  "Tool Name": "WhatsApp Privacy Guard",
+  "Description": "With the PRISM scandal, we began to question whether Microsoft, Google, Apple, and Facebook were the only companies working with governments to spy on the behavior of its citizens. Will WhatsApp be one of these companies? Does WhatsApp store its user conversations? These sorts of things make us think that users are defenseless and have no current measures to ensure the privacy of content shared on these platforms. The main objective of the research is to add new layers of security and privacy to ensure that in the exchange of information between members of a conversation both the integrity and confidentiality cannot be affected by an external attacker. This is achieved through a system to anonymize and encrypt conversations and data sent via WhatsApp, so that when they reach the servers they are not in \"plain text\" and only readable to the rightful owners. WhatsApp Privacy Guard is a tool completely transparent to the users and we will show how this technique can be used against other IM protocols and apps.",
+  "Github URL": "",
+  "Tracks": [],
+  "Speakers": [
+    "Jaime Sanchez",
+    "Pablo San Emeterio"
+  ],
+  "Year": "2014",
+  "Location": "Europe"
+}

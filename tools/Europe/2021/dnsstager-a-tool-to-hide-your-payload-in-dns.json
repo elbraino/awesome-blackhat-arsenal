@@ -1,6 +1,6 @@
 {
   "Tool Name": "DNSStager: A Tool to Hide Your Payload in DNS",
-  "Description": "A Python-based tool that hides and transfers payloads using DNS by creating a malicious DNS server that delivers encoded payloads through DNS queries. It generates custom agents in C or GoLang that retrieve, decode, and execute the payloads.",
+  "Description": "DNSStager is an open-source project based on Python used to hide and transfer your payload using DNS. DNSStager will create a malicious DNS server that handles DNS requests to your domain and return your payload as a response to specific record requests such as AAAA or TXT records after splitting it into chunks and encoding the payload using different algorithms. DNSStager can generate a custom agent written in C or GoLang that will resolve a sequence of domains, retrieve the payload, decode it and finally inject it into the memory based on any technique you want. You can edit the code of the DNSStager agent as you wish, and build it using your own custom execution techniques. The main goal of using DNSStager is to help red teamers/pentesters to deliver their payloads in a stealthy channel using DNS.",
   "Github URL": "https://github.com/mhaskar/DNSStager",
   "Tracks": [
     "Malware Offense"

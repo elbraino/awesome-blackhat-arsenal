@@ -1,6 +1,6 @@
 {
   "Tool Name": "Ghosts in the Browser: Backdooring with Service Workers",
-  "Description": "A Chrome extension that prevents Service Workers from being registered on websites, developed to mitigate browser backdooring techniques that abuse the Service Worker API.",
+  "Description": "Service Workers are all the rage for progressive web apps nowadays. This talk will take a look at Service Workers from a different perspective. We'll take a look at how they can be abused and weaponized by attackers. We'll be exploring some techniques on how an attacker can create a pseudo backdoor in the browser and ghost through a victim's browser session to sniff, manipulate, and even proxy data silently. Come find out how MITM can be done at the browser layer and what are some of its limitations. The presentation will include attack demos and we'll also introduce various mitigation mechanisms against them.",
   "Github URL": "https://github.com/clod81/block_service_workers",
   "Tracks": [
     "Web AppSec"

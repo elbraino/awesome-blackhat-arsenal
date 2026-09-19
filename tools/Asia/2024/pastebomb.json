@@ -1,6 +1,6 @@
 {
   "Tool Name": "PASTEBOMB",
-  "Description": "A remote administration tool that uses Pastebin services as a command-and-control mechanism to execute terminal commands, send DDoS attacks, download files, and open messages on compromised systems without requiring a traditional C2 server.",
+  "Description": "The PasteBomb (PB) botnet does not have any C2 (command and control) server. Instructions are received using GitHub Gist, and results are sent over a Discord Webhook. Tracing the C2 server back to the operator is the most common way in which botnet operators are compromised. This technology effectively eradicates such a possibility. When combined with robust operational security (OPSEC), this makes it extremely difficult to trace the operator. This is extremely advantageous for groups engaged in penetration testing. PasteBomb possesses the capacity to carry out Commands, launch DDoS attacks on servers, acquire and execute supplementary payloads, extract personal information from targets, and eliminate its presence without leaving any evidence (Self-Destruct).",
   "Github URL": "https://github.com/marco-liberale/PasteBomb",
   "Tracks": [
     "Malware Offense"

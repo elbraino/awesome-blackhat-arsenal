@@ -1,6 +1,6 @@
 {
   "Tool Name": "Packet Carving for SATCOMs Hackers",
-  "Description": "Tools for satellite communications security research, including GSExtract for converting satellite radio captures of internet traffic using Generic Stream Encapsulation (GSE) over DVB-S into usable pcap files.",
+  "Description": "Satellite broadband services from geostationary orbit are often unencrypted and can leak important and sensitive information to anyone with basic hardware and software knowledge. In this lab, we'll get some hands-on experience working with modern satellite internet protocols. We'll have environments set up where you can play with satellite data in a variety of formats and use open-source tools to convert satellite traffic recordings into meaningful traffic captures. The labs are designed for diverse backgrounds and skill levels so no prior experience with programming, SATCOMs, or protocol reversing is necessary, but, if you have it, there's stuff that should be fun for you too.",
   "Github URL": "https://github.com/ssloxford/gsextract",
   "Tracks": [
     "Arsenal Lab"

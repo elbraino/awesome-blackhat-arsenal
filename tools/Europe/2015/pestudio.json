@@ -1,0 +1,11 @@
+{
+  "Tool Name": "Pestudio",
+  "Description": "Pestudio is a unique tool that allows you to perform an initial assessment of a malware without even infecting a lab system or studying its code. Malicious executable often attempts to hide its malicious behavior and to evade detection. In doing so, it generally presents anomalies and suspicious patterns. The goal of Pestudio is to detect these anomalies, provide Indicators and score the Trust for the executable being analyzed. Since the executable file being analyzed is never started, you can inspect any unknown or malicious executable with no risk. Pestudio has been in the top 10 list of \"Best Security Tool\" in 2013 and 2014 by the readers of ToolsWatch.org.",
+  "Github URL": "",
+  "Tracks": [],
+  "Speakers": [
+    "Marc Ochsenmeier"
+  ],
+  "Year": "2015",
+  "Location": "Europe"
+}

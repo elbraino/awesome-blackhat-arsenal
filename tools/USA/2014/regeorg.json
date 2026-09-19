@@ -1,13 +1,12 @@
 {
   "Tool Name": "reGeorg",
-  "Description": "In 2008 we released reDuh (http://research.sensepost.com/tools/web/reduh), a network tunnelling tool that allowed port forwarding via a web-shell and HTTP/S to backend services. reDuh has since become part of any attackers standard toolkit, featuring in several books and notoriously described as \"insidious\" by HBGary in their leaked e-mails.",
+  "Description": "In 2008 we released reDuh (http://research.sensepost.com/tools/web/reduh), a network tunnelling tool that allowed port forwarding via a web-shell and HTTP/S to backend services. reDuh has since become part of any attackers standard toolkit, featuring in several books and notoriously described as \"insidious\" by HBGary in their leaked e-mails. However, when doing any sort of tunnelling, targeting multiple hosts and ports can be frustrating as it requires a tunnel to be setup for each unique host:port combination. Enter reGeorg; this is a rewrite of reDuh to support a full SOCKS4/5 proxy interface. This allows one tunnel to be used to make multiple connections, including port scans. Additionally, capabilities to take advantage of HTML5 websockets (where available) have been built for faster connections. In short, if you can get a webshell up, you can use reGorg to gain access with your favourite tool (Nmap, Metasploit, etc.) to the entire internal network range your compromised server has access to. The list of currently supported web frameworks are: ASP.NET, JSP, PHP, ASP The list of currently supported transports are: HTTP, HTTPS, HTML5 WebSockets",
   "Github URL": "https://github.com/sensepost/reGeorg",
   "Tracks": [
     "Network Attacks"
   ],
   "Speakers": [
-    "Willem Mouton",
-    "Sam Sobotka"
+    "Willem Mouton"
   ],
   "Year": "2014",
   "Location": "USA"

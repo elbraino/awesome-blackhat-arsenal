@@ -1,6 +1,6 @@
 {
   "Tool Name": "Dude, WTF in my car?",
-  "Description": "The car ECU tuning market is weird. There is little help from people already in it, and most of the equipment is expensive. Well, not anymore!",
+  "Description": "The car ECU tuning market is weird. There is little help from people already in it, and most of the equipment is expensive. Well, not anymore! We will show a tool that was built under $25, and that is able to bypass all the security in the car ECU, based of a BOSCH EDC15 and EDC16, which has RSA 256 and seed/key algorithm protection. We will show live demonstrations of how the tool works, with logic analyzer and explanation of all the processes that take place. Black Hat Arsenal gives a unique opportunity to have a close look at tools, so we will explain the most practical side of our tool instead of going deep into the low level explanation, to exploit the most of BH-Arsenal concept. All of this will help the end user to realize that even cars, have secrets that can be \"unlocked.\"",
   "Github URL": "https://github.com/fjvva/ecu-tool",
   "Tracks": [
     "Hardware/Embedded"

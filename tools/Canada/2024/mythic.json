@@ -1,6 +1,6 @@
 {
   "Tool Name": "Mythic",
-  "Description": "A cross-platform, post-exploit red teaming framework built with GoLang and Docker that provides a collaborative web UI for operators and managers to conduct authorized security assessments.",
+  "Description": "Mythic is an open-source command and control (C2) framework for offensive and defensive assessments. It leverages Docker and a microservice architecture so that new types of agents, communications profiles, and more can be easily integrated at run time. Mythic 3.3 introduced a few new features including custom authentication schemes, command augmentation containers, and an eventing engine. This allows operators to write GitHub Action-like files and register actions to be performed on cron schedules, on new callbacks, in response to tasks finishing, and even blocking tasks that aren't opsec safe. Mythic has many open-source contributors that create their own agents and communications profiles that can be found here: https://mythicmeta.github.io/overhttps://mythicmeta.github.io/overview/view/.",
   "Github URL": "https://github.com/its-a-feature/Mythic",
   "Tracks": [
     "Exploitation and Ethical Hacking",

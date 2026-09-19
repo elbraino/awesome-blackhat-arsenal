@@ -1,0 +1,11 @@
+{
+  "Tool Name": "Android Tamer",
+  "Description": "Android Tamer is a Virtual/Live Platform for Android Security professionals. This reduces the needs to configure your own environment and professional can focus on exploitation. This Environment allows people to work on large array of android security related task's ranging from Malware Analysis, Penetration Testing and Reverse Engineering. Large number of tweaks and automations are build inside the Virtual Machine to make life easy for the User.",
+  "Github URL": "",
+  "Tracks": [],
+  "Speakers": [
+    "Anant Shrivastava"
+  ],
+  "Year": "2016",
+  "Location": "Asia"
+}

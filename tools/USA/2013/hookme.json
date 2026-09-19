@@ -1,6 +1,6 @@
 {
   "Tool Name": "HookME",
-  "Description": "HookME is a software designed for intercepting communications by hooking the desired process and hooking the API calls for sending and receiving network data. HookMe provides a nice graphic user interface allowing you to change the packet content in real time, dropping or forwarding the packet. It also has a python system plugin to extend the HookMe functionality.",
+  "Description": "HookME is a software designed for intercepting communications by hooking the desired process and hooking the API calls for sending and receiving network data. HookMe provides a nice graphic user interface allowing you to change the packet content in real time, dropping or forwarding the packet. It also has a python system plugin to extend the HookMe functionality. It can be used for a lot of purposes such as:",
   "Github URL": "https://github.com/NytroRST/HookMe",
   "Tracks": [
     "Network Attacks"

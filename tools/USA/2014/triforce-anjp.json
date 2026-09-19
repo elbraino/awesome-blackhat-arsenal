@@ -1,11 +1,13 @@
 {
   "Tool Name": "TriForce ANJP",
-  "Description": "TriForce is a set of analysis tools made for those who want to go deeper. With a focus on file system journaling forensics, we make use of artifacts that allow us to turn them into a forensic time machine. With tools that cover NTFS, HFS+, and Ext3, we are pushing forward a new era of analysis based on file system journaling.",
+  "Description": "TriForce is a set of analysis tools made for those who want to go deeper. With a focus on file system journaling forensics, we make use of artifacts that allow us to turn them into a forensic time machine. With tools that cover NTFS, HFS+, and Ext3, we are pushing forward a new era of analysis based on file system journaling. The NTFS file system is our first production tool to leave beta and allows an examiner to review the master file table, metadata journal, and change the journal to determine the following: Our research continues, but we believe we can show you data that existed on your disks that you never knew to look for, which will provide you new capabilities in your work and research.",
   "Github URL": "",
   "Tracks": [
     "Data Forensics/Incident Response"
   ],
-  "Speakers": [],
+  "Speakers": [
+    "David Cowen"
+  ],
   "Year": "2014",
   "Location": "USA"
 }

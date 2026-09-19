@@ -1,6 +1,6 @@
 {
   "Tool Name": "Deepfake Detection with Faceless",
-  "Description": "A deepfake detection system that uses convolutional neural networks to identify manipulated videos and images, providing a web interface for uploading media and receiving analysis on whether content has been artificially generated or altered.",
+  "Description": "Deepfakes are getting easier to create and harder to detect the difference when compared to real media clips and photos. It is an unfortunate hazard of an ever-evolving world of artificial intelligence and machine learning. However, we designed Faceless as a deepfake detection system to help combat this threat. Join us to get hands-on with this user-friendly solution that reminds Internet users to stay secure against fake content.",
   "Github URL": "https://github.com/ManhNho/Faceless",
   "Tracks": [
     "Arsenal Lab"

@@ -3,7 +3,7 @@
   "Description": "NetRipper is a post-exploitation tool targeting Windows systems which uses API hooking in order to intercept network traffic. It also uses encryption-related functions from a low privileged user, making it able to capture both plain-text traffic and encrypted traffic before encryption/after decryption.",
   "Github URL": "https://github.com/NytroRST/NetRipper",
   "Tracks": [
-    "Exploitation and Ethical Hacking"
+    "Malware Offense"
   ],
   "Speakers": [
     "Ionut Popescu"

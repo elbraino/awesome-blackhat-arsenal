@@ -5,7 +5,9 @@
   "Tracks": [
     "Hardware/Embedded"
   ],
-  "Speakers": [],
+  "Speakers": [
+    "Mike Warner"
+  ],
   "Year": "2014",
   "Location": "USA"
 }

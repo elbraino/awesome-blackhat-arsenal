@@ -1,0 +1,11 @@
+{
+  "Tool Name": "DiffDroid",
+  "Description": "DiffDroid is a Framework which makes dynamic security assessments in android much easier with its modules for profiling, logging and modifying application logic. It's extremely user-friendly, uses javascript, makes no changes to the Operating system and is ready to go. You could use it for Malware Analysis, Security Assessments or a few points in your favorite game. :) What's New with DIFFDroid? DIFFDroid uses Frida, you write your code in javascript, a V8 Engined injected into your application runs the code and you can even make changes to your instrumentation code \"REALTIME!\" It requires you to make zero changes to your device and you could instrument the application even if you don't have root access.",
+  "Github URL": "",
+  "Tracks": [],
+  "Speakers": [
+    "Anto Joseph"
+  ],
+  "Year": "2016",
+  "Location": "Europe"
+}

@@ -1,0 +1,11 @@
+{
+  "Tool Name": "Lynis",
+  "Description": "Lynis is a nifty tool to perform in-depth security tests. It checks your systems for configuration errors, software vulnerabilities, or other weaknesses. Running on the system itself, it can uncover flaws not seen by other tools (e.g. vulnerability scanners). After finishing the scan, it will present the user with a report of the findings. Suggestions are made to enhance your security posture or help you remain compliant with security standards like PCI DSS.Lynis is written in shell script and runs on systems like Linux, macOS, and UNIX-based derivatives. The tool is ideal for those who seek to perform vulnerability assessments and penetration tests, or having to apply system hardening measures.",
+  "Github URL": "",
+  "Tracks": [],
+  "Speakers": [
+    "Michael Boelen"
+  ],
+  "Year": "2016",
+  "Location": "Europe"
+}

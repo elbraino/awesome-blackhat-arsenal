@@ -1,0 +1,11 @@
+{
+  "Tool Name": "ShinoBOT Suite",
+  "Description": "Usually, the malware used in the targeted attack does not come alone. There are exploit documents, dropper/downloader, decoy files, backdoor, and C2 server. Additional techniques used include packer, steganography, DGA, and crypto. ShinoBOT Suite is a tool kit to create and deploy such whole stuff with just a few clicks, to simulate a highly sophisticated attack campaign. The new second version of ShinoBOT Suite contains several way for the exploit (icon spoofing, extension spoofing).",
+  "Github URL": "",
+  "Tracks": [],
+  "Speakers": [
+    "Shota Shinogi"
+  ],
+  "Year": "2015",
+  "Location": "Asia"
+}

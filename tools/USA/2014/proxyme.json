@@ -1,11 +1,13 @@
 {
   "Tool Name": "ProxyMe",
-  "Description": "ProxyMe is a modular HTTP/S proxy based on plugins. It's designed and oriented for pen-testing or research purposes. It also has support for analyzing and modifying the traffic, SSL included. It can be used as a regular proxy or as a reverse proxy, supporting also transparent connections, making it perfect for combined attacks of Man In The Middle (or even as a load balancer if you want!).",
+  "Description": "ProxyMe is a modular HTTP/S proxy based on plugins. It's designed and oriented for pen-testing or research purposes. It also has support for analyzing and modifying the traffic, SSL included. It can be used as a regular proxy or as a reverse proxy, supporting also transparent connections, making it perfect for combined attacks of Man In The Middle (or even as a load balancer if you want!). Some of the current plugins allow you to perform attacks as 'Cache poison', an attack technique for browsers showed in owning \"bad\" guys {and mafia} with Javascript botnets' in Black Hat USA 2012 by Chema Alonso and Manuel Fernández. ProxyMe could also be used for the purposes of: And of course, it's freeware and open source.",
   "Github URL": "",
   "Tracks": [
     "Web AppSec"
   ],
-  "Speakers": [],
+  "Speakers": [
+    "Manuel Fernández"
+  ],
   "Year": "2014",
   "Location": "USA"
 }

@@ -1,6 +1,6 @@
 {
   "Tool Name": "Vehicle Control Systems: Red vs Blue",
-  "Description": "A modular electronic control system for vehicles built with C++ and Qt that uses RS-485 networking to connect multiple control units and modules managing different vehicle functions.",
+  "Description": "Real Time Operating Systems (RTOS) form the backbone for embedded systems and control units used in vehicle control technology (such as automobiles, trucks, buses, locomotives, UAVs, etc). In this session, we will get hands on red teaming a popular RTOS that's at the heart of vehicle control systems worldwide. To counter this activity, we will then provide a demo of memory extraction and data analysis following Mandiant's Digital Forensics and Incident Response Framework for Embedded OT Systems.",
   "Github URL": "https://github.com/KarlVaello/VehicleControlSystem",
   "Tracks": [
     "Arsenal Lab"

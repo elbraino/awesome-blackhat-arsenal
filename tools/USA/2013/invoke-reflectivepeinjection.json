@@ -1,6 +1,6 @@
 {
   "Tool Name": "Invoke-ReflectivePEInjection",
-  "Description": "PowerShell is a powerful scripting language which has the capability to run scripts on remote systems without writing to disk.",
+  "Description": "PowerShell is a powerful scripting language which has the capability to run scripts on remote systems without writing to disk. Invoke-ReflectivePEInjection is a PowerShell script which can reflectively load and execute a windows PE file such as an EXE or DLL inside the PowerShell process on a remote computer without writing to disk. This is accomplished by (partially) rewriting the Win32 functionality which loads EXEs/DLLs in PowerShell. The script allows a penetration tester to: A beta version of the script is currently available for download on Github at: https://github.com/clymb3r/PowerShell. The final version will be a part of PowerSploit (and hopefully synced in to Kali linux).",
   "Github URL": "https://github.com/clymb3r/PowerShell",
   "Tracks": [
     "Exploitation and Ethical Hacking"

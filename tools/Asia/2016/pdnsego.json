@@ -1,0 +1,13 @@
+{
+  "Tool Name": "pDNSego",
+  "Description": "Passive DNS (pDNS) provides near real-time detection of cache poisoning and fraudulent changes to domains registered for trademarks, etc by answering the following questions:",
+  "Github URL": "",
+  "Tracks": [],
+  "Speakers": [
+    "Christian Heinrich",
+    "Paul Vixie",
+    "Daniel Cuthbert"
+  ],
+  "Year": "2016",
+  "Location": "Asia"
+}

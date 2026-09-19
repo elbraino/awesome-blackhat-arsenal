@@ -1,10 +1,11 @@
 # Asia 2016
 ---
-📍 14 tools demonstrated at **Black Hat Arsenal Asia 2016**, grouped by track category. Expand a tool for its description.
+📍 18 tools demonstrated at **Black Hat Arsenal Asia 2016**, grouped by track category. Expand a tool for its description.
 
 See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../BY_NAME.md) · [main index](../../../README.md)
 
 ## 📚 Contents
+- [Others](#others) (4)
 - [🌐 Web/AppSec](#-webappsec) (1)
 - [🌐 Web/AppSec or Red Teaming](#-webappsec-or-red-teaming) (1)
 - [📱 Mobile Security](#-mobile-security) (1)
@@ -13,6 +14,40 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 - [🔴 Red Teaming / AppSec](#-red-teaming--appsec) (2)
 - [🔵 Blue Team & Detection](#-blue-team--detection) (3)
 - [🟣 Red Teaming / Embedded](#-red-teaming--embedded) (1)
+---
+## Others
+<details><summary><strong>Android Tamer</strong> — Anant Shrivastava</summary>
+
+**Track:** — · **Event:** Asia 2016  
+🔗 **Link:** Not Available  
+📝 **Description:** Android Tamer is a Virtual/Live Platform for Android Security professionals. This reduces the needs to configure your own environment and professional can focus on exploitation. This Environment allows people to work on large array of android security related task's ranging from Malware Analysis, Penetration Testing and Reverse Engineering. Large number of tweaks and automations are build inside the Virtual Machine to make life easy for the User.
+
+</details>
+
+<details><summary><strong>CrackMapExec</strong> — Marcello Salvati</summary>
+
+**Track:** — · **Event:** Asia 2016  
+🔗 **Link:** Not Available  
+📝 **Description:** CrackMapExec aims to be a one-stop-shop for pentesting Active Directory environments! Think smbexec on steroids, combining the latest and greatest techniques for AD ownage in a single tool! From enumerating logged on users and spidering SMB shares to executing psexec style attacks, concurrently auto-injecting Mimikatz/Shellcode/DLL's into memory using Powershell, dumping the NTDS.dit, querying and executing commands through MSSQL DB's and more! The biggest improvements over the current tools are:
+
+</details>
+
+<details><summary><strong>Faraday</strong> — Emilio Couto</summary>
+
+**Track:** — · **Event:** Asia 2016  
+🔗 **Link:** Not Available  
+📝 **Description:** Since collaborative pentesting is more common each day and teams become larger, sharing the information between pentesters can become a difficult task. Different tools, different formats, long outputs (in the case of having to audit a large network) can make it almost impossible. You may end up with wasted efforts, duplicated tasks, a lot of text files scrambled in your working directory. And then, you need to collect that same information from your teammates and write a report for your client, trying to be as clear as possible. The idea behind Faraday is to help you to share all the information that is generated during the pentest, without changing the way you work. You run a command, or import a report, and Faraday will normalize the results and share that with the rest of the team in real time. Faraday has more than 50 plugins available (and counting), including a lot of common tools. And if you use a tool for which Faraday doesn't have a plugin, you can create your own. During this presentation we're going to show you the latest version of the tool, and how it can be used to improve the effectiveness of your team during a penetration test.
+
+</details>
+
+<details><summary><strong>pDNSego</strong> — Christian Heinrich, Paul Vixie, Daniel Cuthbert</summary>
+
+**Track:** — · **Event:** Asia 2016  
+🔗 **Link:** Not Available  
+📝 **Description:** Passive DNS (pDNS) provides near real-time detection of cache poisoning and fraudulent changes to domains registered for trademarks, etc by answering the following questions:
+
+</details>
+
 ---
 ## 🌐 Web/AppSec
 <details><summary><strong>SAIVS (Spider Artificial Intelligence Vulnerability Scanner)</strong> — Isao Takaesu, Takeshi Terada</summary>
@@ -49,7 +84,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** OSINT - Open Source Intelligence · **Event:** Asia 2016  
 🔗 **Link:** [https://github.com/sensepost](https://github.com/sensepost)  
-📝 **Description:** The SensePost Toolset consists of numerous transforms and mini-sets of transforms. This includes OSINT, language translation, twitter monitoring, Spotify, Skype stalking and detailed in-depth foot-printing capabilities. Sense Post Toolkit:https://www.sensepost.com/discover/tools/maltego/osint/SPToolset/
+📝 **Description:** The SensePost Toolset consists of numerous transforms and mini-sets of transforms. This includes OSINT, language translation, twitter monitoring, Spotify, Skype stalking and detailed in-depth foot-printing capabilities. Sense Post Toolkit: https://www.sensepost.com/discover/tools/maltego/osint/SPToolset/
 
 </details>
 

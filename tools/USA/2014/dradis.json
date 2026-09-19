@@ -1,6 +1,6 @@
 {
   "Tool Name": "Dradis",
-  "Description": "Dradis is an extensible, cross-platform, open source collaboration framework to manage security assessments. It can import from over 15 popular tools including Nessus, Qualys, and Burp. Started in 2007, the Dradis Framework project has been growing ever since.",
+  "Description": "Dradis is an extensible, cross-platform, open source collaboration framework to manage security assessments. It can import from over 15 popular tools including Nessus, Qualys, and Burp. Started in 2007, the Dradis Framework project has been growing ever since. This year at Black Hat 2014 we want to liberate a major release: Dradis Framework 3.0 with a ground-up rewrite of all the core basic components, a new, clean, modern web interface, API layer (with client bindings), new plugins, and several enhancements that will make managing your security assessments a breeze. Come and check it out - we've got new stickers!",
   "Github URL": "https://github.com/dradis/dradis-ce",
   "Tracks": [
     "Vulnerability Assessment"

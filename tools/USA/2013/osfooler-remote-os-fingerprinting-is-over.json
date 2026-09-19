@@ -1,6 +1,6 @@
 {
   "Tool Name": "OSfooler: Remote OS Fingerprinting is over",
-  "Description": "Using commercial tools to secure your network is recommended, but it is necessary to be one step further to keep the system secure. With this technique you can give that step in order defend your servers against the first phase of all attacks Fingerprinting. This is done by intercepting all traffic that your box is sending in order to camouflage and modify in real time the flags in TCP/IP packets that discover your system.",
+  "Description": "Using commercial tools to secure your network is recommended, but it is necessary to be one step further to keep the system secure. With this technique you can give that step in order defend your servers against the first phase of all attacks Fingerprinting. This is done by intercepting all traffic that your box is sending in order to camouflage and modify in real time the flags in TCP/IP packets that discover your system. This tool is a practical approach for detecting and defeating: Some features are: Sorry guys, remote OS fingerprinting is over...",
   "Github URL": "https://github.com/segofensiva/OSfooler-ng",
   "Tracks": [
     "Network Defense"

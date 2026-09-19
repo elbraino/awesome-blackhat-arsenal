@@ -1,6 +1,6 @@
 {
   "Tool Name": "Report Writing Is Half the Battle: Finish Your Report in Less Time and Get Back to Hacking.",
-  "Description": "Source code and resources accompanying the book 'From Hacking to Report Writing' by Robert Svensson, providing examples and templates to help penetration testers efficiently produce professional security assessment reports.",
+  "Description": "A single place to hold assessment findings, notes, methodologies, tasks, and feedback from your team makes working together simpler and saves time delivering reports. Dradis combines the output of 20+ popular security tools - including Nessus, Qualys, Burp, and Nmap, along with your manual notes to keep all of your findings centralized for one click report generation. If you're reviewing scan results manually or putting together reports by hand, digging through emails and chat logs for details from teammates, or copying and pasting findings from old reports instead of having a findings database, do yourself a favor and download Dradis CE so you can get back to hacking. Started in 2007 to solve the frustrations associated with creating reports, Dradis Framework has an established track record and a full time, international team working every day so you can ditch the overhead of a traditional security assessment workflow.",
   "Github URL": "https://github.com/apress/from-hacking-to-report-writing",
   "Tracks": [
     "OSINT - Open Source Intelligence"

@@ -1,0 +1,11 @@
+{
+  "Tool Name": "NFCulT",
+  "Description": "NFCulT is an ultimate android application for exploiting and researching in NFC Mifare Ultralight security. Its first focus is against transport systems, but during the time, it has been applied to research vulnerabilities in bike sharing service, etc. It also implements the following published attacks: - Lock Attack - Time Attack - Replay Attack In this presentation, we will give a short view on the tool's new features for the release 2.0, which will be released live at Black Hat Arsenal.",
+  "Github URL": "",
+  "Tracks": [],
+  "Speakers": [
+    "Matteo Beccaro"
+  ],
+  "Year": "2014",
+  "Location": "Europe"
+}

@@ -22,7 +22,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · Code Assessment · **Event:** Europe 2024  
 🔗 **Link:** [https://play.secdim.com/](https://play.secdim.com/)  
-📝 **Description:** A strategic two-player game using adversarial search algorithms including minimax and alpha-beta pruning for AI opponents, implemented in Python.
+📝 **Description:** Come join a fun and educational attack and defence AI wargame. You will be given an AI chatbot. Your chatbot has a secret that should always remain a secret! Your objective is to secure your chatbot to protect its secret while attacking other players' chatbots and discovering theirs. The winner is the player whose chatbot survives the longest (king of the hill). All skill levels are welcomed, even if this is your first time seeing code, securing a chatbot, or playing in a wargame. Right at the start, there will be a briefing to show how to play in the wargame. Knowledge of the OpenAI Python SDK helps but is not a requirement. Each player has access to their chatbot source code repository where they can run, test, debug and push their changes.
 
 </details>
 
@@ -30,7 +30,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · Vulnerability Assessment · **Event:** Europe 2024  
 🔗 **Link:** [https://github.com/mindstormsecurity/MACOBOX](https://github.com/mindstormsecurity/MACOBOX)  
-📝 **Description:** An all-in-one hacking toolbox for hardware penetration testing that enables firmware analysis and extraction from hardware interfaces like UART, SPI, I2C, and JTAG through an automated web interface.
+📝 **Description:** Nowadays, the IoT landscape is fulfilled with a multitude of products, devices and solutions using a pletora of protocols, architectures and designs. To bring some order to this chaos, MACOBOX was developed. MACOBOX has been designed to simplify and enhance hardware penetration testing by providing a comprehensive toolset for analyzing and extracting firmware from various hardware interfaces. With a custom 3D printed case, dedicated boards, and a user-friendly interface, MACOBOX ensures a seamless and efficient testing experience. In this presentation we will review all its critical features and present some use cases and demos.
 
 </details>
 
@@ -38,7 +38,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · Hardware/Embedded · **Event:** Europe 2024  
 🔗 **Link:** [https://github.com/whid-injector/PIZZAbite](https://github.com/whid-injector/PIZZAbite)  
-📝 **Description:** An affordable, open-hardware PCB holder and board toolkit designed for soldering, hardware inspection, and hardware hacking workflows.
+📝 **Description:** In the last decade we have witnessed the emerging of a new era of connected devices. With this new trend, we also faced a security knowledge gap that in the recent years emerged respect to the (I)IoT landscape. The lack of a properly-defined workflow to approach a security audit of (I)IoT devices and the lack of technical expertise among security personnel in relation to embedded hardware security worsen this gap even further. To bring some clarity and order to this complicated and variegated matter It has been developed PIZZAbite & BRUSCHETTA-board: an all-in-one hardware hacking toolkit that can be considered the swiss-army-knife of any hardware hacker. BRUSCHETTA-board is the latest device of the so-called WHID's CyberBakery family. It all started in 2019 from a personal need. The idea was to have a board that could gather in one single solution mutliple tools used by hardware hackers to interact with IoT and Embedded targets. It is the natural evolution of the other boards already presented in the past at BlackHat Arsenal: Focaccia-Board, Burtleina-Board and NANDo-Board. It has been designed for any hardware hacker out there that is looking for a fairly-priced all-in-one debugger & programmer that supports: UART, JTAG, I2C & SPI protocols and allows to interact with different targets' voltages (i.e., 1.8, 2.5, 3.3 and 5 Volts!). PIZZAbite is a cheaper and open-hardware version of a commercial PCB holder, perfect for probing & holding your PCB while soldering or inspection. The PIZZAbite PCB probes are mounted on flexible metal arm and a powerful magnet in the base for easy positioning. The one of the kind "lift and drop" function takes away the need for annoying and complicated set screws. Thanks to the extreme flexibility of the arms connected to the PIZZAbite PCBs, the compressible needle (a.k.a. PogoPin) maintain constant pressure at the probing point so even if the board is bumped into the probe tip will always stay in position. In this presentation, we will review with practical examples how PIZZAbite & BRUSCHETTA-board work against real IoT devices.
 
 </details>
 
@@ -48,7 +48,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Web AppSec · Code Assessment · **Event:** Europe 2024  
 🔗 **Link:** [https://github.com/oxsecurity/MaskerLogger](https://github.com/oxsecurity/MaskerLogger)  
-📝 **Description:** A Python logging formatter that automatically masks sensitive information with asterisks before output, preventing accidental exposure of secrets in application logs.
+📝 **Description:** Have you ever been coding late at night, desperately trying to fix a bug before a deadline? In that mad scramble, did you accidentally log some sensitive data like a password or a customer's social security number? We've all been there. But those seemingly harmless logs can be a goldmine for attackers. The pressure to produce features can lead to what we call "tunnel vision coding." We focus on critical tasks, sometimes neglecting crucial aspects like secure logging. To troubleshoot issues quickly, developers often leave trails of breadcrumbs - log messages. However, the rush to fix problems can lead to accidentally including sensitive data in these logs. Log management systems aren't designed to handle this sensitive information, creating a gaping security hole. Imagine a hacker finding a log file with a juicy password or access token. It could be the key to a major security breach, costing your company millions in damages and reputational harm. That's where MaskerLogger comes in as your security shield. It's an open-source logging library that seamlessly integrates with popular frameworks. MaskerLogger acts as a guardian for your sensitive information. It automatically detects and masks any sensitive data a developer might unintentionally log, keeping your logs clean and security-tight. MaskerLogger isn't just about security. It saves developers valuable time by automating data masking, reducing the risk of human error. No more sifting through logs and redacting sensitive information manually.
 
 </details>
 
@@ -208,7 +208,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Exploitation and Ethical Hacking · **Event:** Europe 2024  
 🔗 **Link:** [https://github.com/code-n-designmaster/goatpen](https://github.com/code-n-designmaster/goatpen)  
-📝 **Description:** A security training and practice platform designed for ethical hacking exercises, allowing users to hack, hone their skills, and harden their defenses.
+📝 **Description:** GoatPen is a diverse collection of vulnerable applications and infrastructure, affectionately referred to as "goats," designed for learners to practice their skills. Currently, GoatPen includes AWSGoat (AWS Security), GCPGoat (GCP Security), AzureGoat (Azure Security), GearGoat (Automobile Security), and ICSGoat (ICS Security), with more in the development and concept stages. Together, these tools have garnered over 2,700 stars and 1,200 forks on GitHub, reflecting their popularity and utility in the security community. Each member of GoatPen is actively maintained and updated. Deploying these tools is made simple with GoatPen, requiring only Docker on your local system. GoatPen's built-in deployment helpers ensure a smooth setup of individual components, offering flexibility and ease of use for security professionals and developers. This platform also makes it easy for enthusiasts and learners to discover and keep up with the latest updates and additions to these security tools.
 
 </details>
 
@@ -224,7 +224,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Exploitation and Ethical Hacking · Vulnerability Assessment · **Event:** Europe 2024  
 🔗 **Link:** [https://github.com/mozilla/kitsune](https://github.com/mozilla/kitsune)  
-📝 **Description:** A unified command-and-control (C2) framework that integrates and manages multiple C2 platforms from a single interface, streamlining red team operations.
+📝 **Description:** One of the most important tools used in Ethical Hacking and Red Team campaigns, are what we call "Command and Control" tools. There are currently hundreds of them. Public, private, free or paid. Some are as famous as Cobalt Strike, while others are only known by their own creators. The main problem with these tools is the lack of compatibility between them. Despite sharing many common elements, such as communication protocols or deployment and execution methods. After working on different tools that aim to unify the chaotic world of shells and webshells, this ambitious project was born from the same need and aims to streamline and improve the work of pentesters, grouping different tools and techniques in a single graphical interface. In addition, Kitsune is capable of incorporating new functions to already known tools. Some of them, never seen before in other C2s. If you have ever had too many terminals open, forgotten where a remote shell was or missed a graphical interface for your favourite tool, this talk is for you.
 
 </details>
 
@@ -280,7 +280,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Exploitation and Ethical Hacking · **Event:** Europe 2024  
 🔗 **Link:** [https://github.com/brightio/penelope](https://github.com/brightio/penelope)  
-📝 **Description:** An advanced shell handler designed as a modern replacement for netcat during reverse shell exploitation, simplifying and optimizing post-exploitation workflows.
+📝 **Description:** Penelope is a shell handler designed to be easy to use and intended to replace netcat when exploiting RCE vulnerabilities. It is compatible with Linux and macOS and requires Python 3.6 or higher. It is a standalone script that does not require any installation or external dependencies, and it is intended to remain this way. Among the main features are: * Auto-upgrade shells to PTY (realtime resize included) * Logging interaction with the targets * Download files/folders from targets * Upload local/remote files/folders to targets * Run scripts on targets and get output on a local file in real time. * Spawn shells on multiple tabs and/or hosts * Maintain X amount of active shells per host no matter what * Multiple sessions * Multiple listeners * Can be imported by python3 exploits and get shell on the same terminal Penelope can work in conjunction with metasploit exploits by disabling the default handler with `set DisablePayloadHandler True` Currently only Unix shells are fully supported. There is only basic support for Windows shells (netcat-like interaction + logging) and the rest of the features are under way.
 
 </details>
 
@@ -312,7 +312,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Malware Offense · Malware Defense · **Event:** Europe 2024  
 🔗 **Link:** [https://github.com/permiso-io-tools/skyscalpel](https://github.com/permiso-io-tools/skyscalpel)  
-📝 **Description:** Cloud security professionals today must understand the role policies play in access management for all identities in their organizations – humans and machines alike. However, calculating an identity's effective permissions is complex due to policy inheritance (e.g. managed policies inherited from groups, roles and Service Control Principal, each with their own potential inline policies). But is a firm grasp on permissions calculation sufficient? Obfuscation of cloud policies, remote administration command scripts and various permissions parameters is an oft-overlooked attack vector with implications at several stages of the detection engineering pipeline. When "Allow" becomes "Al\u006Cow" and "iam:PassRole" becomes "iam:P*ole", are current detections evaded? Some obfuscation techniques are detectable in runtime events during creation but silently sanitized upon storage and/or later retrieval by corresponding APIs. Other techniques persist into the storage of created entities (e.g. IAM policies). These obfuscation scenarios can evade string-based detections, break policy rendering pages in Management Consoles, and even selectively overwrite policy contents of an attacker's choosing based on the defender's viewing method. Additionally, we identified subtle differences between official cloud provider tooling (CLI, SDKs, Management Console) that complicate the generation and detection of these obfuscation scenarios. In this Arsenal session we will showcase obfuscation, deobfuscation, and detection scenarios using SkyScalpel – our brand new, fully custom open-source JSON tokenizer and syntax tree parser. SkyScalpel includes highly configurable randomized JSON-level obfuscation (Unicode encoding, insignificant whitespace packing, and selective special characters like \b and  ), policy-level obfuscation at the syntactical and functional levels (e.g., wildcard expansion of ActionNames), and deobfuscation and detection mechanisms for all aforementioned obfuscation capabilities. Come see how SkyScalpel enables surgical precision in cloud offense and defense.
+📝 **Description:** Cloud security professionals today must understand the role policies play in access management for all identities in their organizations – humans and machines alike. However, calculating an identity's effective permissions is complex due to policy inheritance (e.g. managed policies inherited from groups, roles and Service Control Principal, each with their own potential inline policies). But is a firm grasp on permissions calculation sufficient? Obfuscation of cloud policies, remote administration command scripts and various permissions parameters is an oft-overlooked attack vector with implications at several stages of the detection engineering pipeline. When "Allow" becomes "Al\u006Cow" and "iam:PassRole" becomes "iam:P*ole", are current detections evaded? Some obfuscation techniques are detectable in runtime events during creation but silently sanitized upon storage and/or later retrieval by corresponding APIs. Other techniques persist into the storage of created entities (e.g. IAM policies). These obfuscation scenarios can evade string-based detections, break policy rendering pages in Management Consoles, and even selectively overwrite policy contents of an attacker's choosing based on the defender's viewing method. Additionally, we identified subtle differences between official cloud provider tooling (CLI, SDKs, Management Console) that complicate the generation and detection of these obfuscation scenarios. In this Arsenal session we will showcase obfuscation, deobfuscation, and detection scenarios using SkyScalpel – our brand new, fully custom open-source JSON tokenizer and syntax tree parser. SkyScalpel includes highly configurable randomized JSON-level obfuscation (Unicode encoding, insignificant whitespace packing, and selective special characters like \b and ), policy-level obfuscation at the syntactical and functional levels (e.g., wildcard expansion of ActionNames), and deobfuscation and detection mechanisms for all aforementioned obfuscation capabilities. Come see how SkyScalpel enables surgical precision in cloud offense and defense.
 
 </details>
 
@@ -452,7 +452,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Network Defense · Network Attacks · **Event:** Europe 2024  
 🔗 **Link:** [https://github.com/StamusNetworks/suricata-language-server](https://github.com/StamusNetworks/suricata-language-server)  
-📝 **Description:** A Language Server Protocol implementation that provides syntax checking, auto-completion, and real-time validation for Suricata intrusion detection signatures in code editors.
+📝 **Description:** Writing signatures for Suricata and other intrusion detection systems (IDS) is considered by many to be a form of art. One of the main reasons is that the rule writer needs to start by examining a network trace to identify patterns that are representative to a threat/behavior without being too broad (to avoid false positives) or too narrow (to avoid being escaped at the first change of a bit in the attack). But the language used to write signatures is the second reason. It is not really expressive and doesn't have advanced constructs. As a result signatures require complex writing to do things that could appear simple. And there are implicit conventions and structures that must be followed to guarantee correct integration in the detection engine. The open-source Suricata Language Server (SLS) has been developed to solve these problems. SLS is a Language Server Protocol implementation that allows the user to benefit from built-in Suricata diagnostic capabilities when editing rules. SLS provides advanced diagnostics as well as auto-completion. In this talk, you will see how SLS can be used and how to make sense of the error messages. You will also discover what Suricata features are used behind the scene to make this possible.
 
 </details>
 
@@ -492,7 +492,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Cryptography · Exploitation and Ethical Hacking · **Event:** Europe 2024  
 🔗 **Link:** [https://github.com/zzzteph/weakpass](https://github.com/zzzteph/weakpass)  
-📝 **Description:** A collection of tools for password generation, bruteforce, and hash cracking, including password generators, hash lookup utilities, and browser-based cracking capabilities.
+📝 **Description:** Collection of javascript tools and apps for password generation, hashcracking etc. Right. From. Your. Browser. This collection includes various snippets combined together in a standalone static web app that can be used with any browser. With it, users can generate a password list based on certain criteria and hashcat rules, subdomains for OSINT, or crack a range of hashes, including but not limited to NetNTLMv2, MD5Crypt, JWT and more.
 
 </details>
 
@@ -510,7 +510,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Internet Of Things · Vulnerability Assessment · **Event:** Europe 2024  
 🔗 **Link:** [https://github.com/penthertz/rf-swift](https://github.com/penthertz/rf-swift)  
-📝 **Description:** A containerized RF testing toolkit that deploys specialized radio frequency tools on Linux, Windows, and macOS without requiring a dedicated operating system.
+📝 **Description:** RF Swift is a multi-platforms tool written in Go designed to streamline the deployment of containers for your preferred RF tools in a box.
 
 </details>
 
@@ -528,7 +528,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Reverse Engineering · Malware Defense · **Event:** Europe 2024  
 🔗 **Link:** [https://github.com/cyberark/ByteCodeLLM](https://github.com/cyberark/ByteCodeLLM)  
-📝 **Description:** A comprehensive framework for decompiling intermediate language-based files (such as Python bytecode) back to source code using a locally-run fine-tuned LLM for both efficiency and privacy.
+📝 **Description:** In this talk, we will present a proof of concept for ByteCodeLLM, a tool designed to convert obfuscated or closed-source Python EXEs back into their original source files. Leveraging a fine-tuned Large Language Model (LLM), ByteCodeLLM offers accurate decompilation of newer Python versions such as 3.8 through 3.12. Step 1: Extraction and Decompilation Python EXEs are first extracted into .pyc and .pyd files using open-source tools like PyInstXtractor. PyCDC and PyCDAS are utilized to decompile .pyc files into partially decompiled .py format and extract the byte code representation. Step 2: Byte code to source code using a Fine-tuned LLM Model ByteCodeLLM's model is trained on a vast dataset of Python projects and fine-tuned to provide accurate decompilation. Using Ollama, users can host the LLM both locally and remotely. By calling the Ollama API, the partially decompiled Python files and their byte code are sent for processing and generated into complete, accurate, and well-formatted source files. ByteCodeLLM currently targets Python EXEs but can potentially be extended as a future framework for decompiling other byte code / virtual machine based programming languages and provides an easy-to-use command-line interface.
 
 </details>
 

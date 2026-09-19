@@ -1,6 +1,6 @@
 # USA 2025
 ---
-📍 125 tools demonstrated at **Black Hat Arsenal USA 2025**, grouped by track category. Expand a tool for its description.
+📍 126 tools demonstrated at **Black Hat Arsenal USA 2025**, grouped by track category. Expand a tool for its description.
 
 See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../BY_NAME.md) · [main index](../../../README.md)
 
@@ -8,7 +8,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 - [☁️ Cloud Security](#-cloud-security) (18)
 - [🌐 Web/AppSec](#-webappsec) (8)
 - [🌐 Web/AppSec or Red Teaming](#-webappsec-or-red-teaming) (4)
-- [🔍 OSINT](#-osint) (3)
+- [🔍 OSINT](#-osint) (4)
 - [🔴 Red Teaming](#-red-teaming) (22)
 - [🔴 Red Teaming / AppSec](#-red-teaming--appsec) (9)
 - [🔵 Blue Team & Detection](#-blue-team--detection) (30)
@@ -50,7 +50,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>CloudLens</strong> — Gaurav Joshi, Hare Krishna Rai, Malkit Singh</summary>
+<details><summary><strong>CloudLens</strong> — Gaurav Joshi, Hare Krishna Rai, Prashant Venkatesh</summary>
 
 **Track:** Cloud Security · **Event:** USA 2025  
 🔗 **Link:** [https://github.com/one2nc/cloudlens](https://github.com/one2nc/cloudlens)  
@@ -204,7 +204,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Open-Source API Firewall by Wallarm - Advanced Protection for REST and GraphQL APIs</strong> — Satinder Khasriya</summary>
+<details><summary><strong>Open-Source API Firewall by Wallarm - Advanced Protection for REST and GraphQL APIs</strong> — Satinder Khasriya, Tim Erlin</summary>
 
 **Track:** Web AppSec · **Event:** USA 2025  
 🔗 **Link:** [https://github.com/wallarm/api-firewall](https://github.com/wallarm/api-firewall)  
@@ -288,6 +288,14 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
+<details><summary><strong>ShadowHunt: Uncovering Shadow IT and Hidden Secrets</strong> — Yakir Kadkoda, Assaf Morag</summary>
+
+**Track:** OSINT - Open Source Intelligence · **Event:** USA 2025  
+🔗 **Link:** Not Available  
+📝 **Description:** ShadowHunt is a tool designed to expose one of the most dangerous blind spots in modern enterprise security: Shadow IT on GitHub. In today's decentralized, developer-driven world, employees often use personal GitHub accounts to push company code, test infrastructure, or fork internal projects—without anyone knowing. ShadowHunt identifies and maps these personal repositories back to organizational employees by analyzing public GitHub activity, commit metadata, and contributor patterns. Once linked, it scans those personal repos for leaked secrets—tokens, keys, and config files that quietly jeopardize your organization's security. Beyond Shadow IT discovery, ShadowHunt also detects secrets that evade traditional scanners by generating base64 permutations and scanning GitHub for these hidden variants. Whether you're defending your supply chain or hunting for bounty, ShadowHunt gives you visibility where it matters most—outside your perimeter.
+
+</details>
+
 ---
 ## 🔴 Red Teaming
 <details><summary><strong>Automating Red Team Operations in Windows AD with Local LLM and Multi AI Agents</strong> — Yu Terada</summary>
@@ -346,7 +354,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Introducing RAVEN - Discovering and Analyzing CI/CD Vulnerabilities in Scale</strong> — Elad Pticha, Alex Ilgayev</summary>
+<details><summary><strong>Introducing RAVEN - Discovering and Analyzing CI/CD Vulnerabilities in Scale</strong> — Elad Pticha, Jimmy Xu</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2025  
 🔗 **Link:** [https://github.com/CycodeLabs/raven](https://github.com/CycodeLabs/raven)  
@@ -370,7 +378,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>MORF – Mobile Reconnaissance Framework</strong> — Amrudesh Balakrishnan, Himanshu Kumar Das, Abhishek JM</summary>
+<details><summary><strong>MORF – Mobile Reconnaissance Framework</strong> — Amrudesh Balakrishnan, Abhishek JM</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2025  
 🔗 **Link:** [https://github.com/amrudesh1/MORF](https://github.com/amrudesh1/MORF)  
@@ -476,7 +484,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Damn Vulnerable Browser Extension (DVBE): Unmask the risks of your Browser Supplements</strong> — Abhinav Khanna</summary>
+<details><summary><strong>Damn Vulnerable Browser Extension (DVBE): Unmask the risks of your Browser Supplements</strong> — Abhinav Khanna, Krishna Chaganti</summary>
 
 **Track:** Vulnerability Assessment · **Event:** USA 2025  
 🔗 **Link:** [https://github.com/infosecak/dvbe](https://github.com/infosecak/dvbe)  
@@ -532,7 +540,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Varunastra: Securing the Depths of Docker V2</strong> — Devang Solanki</summary>
+<details><summary><strong>Varunastra: Securing the Depths of Docker V2</strong> — Devang Solanki, Kumar Ashwin</summary>
 
 **Track:** Vulnerability Assessment · **Event:** USA 2025  
 🔗 **Link:** [https://github.com/Devang-Solanki/Varunastra](https://github.com/Devang-Solanki/Varunastra)  
@@ -566,7 +574,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Detect malicious software packages with GuardDog</strong> — Christophe Tafani-Dereeper, Andrew Krug</summary>
+<details><summary><strong>Detect malicious software packages with GuardDog</strong> — Christophe Tafani-Dereeper, Kennedy Toomey</summary>
 
 **Track:** Malware Defense · **Event:** USA 2025  
 🔗 **Link:** [https://github.com/DataDog/guarddog](https://github.com/DataDog/guarddog)  
@@ -630,7 +638,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Microsoft-Extractor-Suite</strong> — Joey Rentenaar</summary>
+<details><summary><strong>Microsoft-Extractor-Suite</strong> — Joey Rentenaar, Curtis Hanson</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** USA 2025  
 🔗 **Link:** [https://github.com/invictus-ir/Microsoft-Extractor-Suite](https://github.com/invictus-ir/Microsoft-Extractor-Suite)  
@@ -646,7 +654,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Next-Generation Post-Exploitation in Cobalt Strike</strong> — Santos Salinas</summary>
+<details><summary><strong>Next-Generation Post-Exploitation in Cobalt Strike</strong> — Steve Salinas</summary>
 
 **Track:** Malware Defense · **Event:** USA 2025  
 🔗 **Link:** [https://github.com/Cobalt-Strike](https://github.com/Cobalt-Strike)  
@@ -694,7 +702,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Replay security telemetry with Logstory</strong> — Dan Dye</summary>
+<details><summary><strong>Replay security telemetry with Logstory</strong> — Dan Dye, John Stoner</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** USA 2025  
 🔗 **Link:** [https://github.com/chronicle/logstory](https://github.com/chronicle/logstory)  
@@ -784,7 +792,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 ---
 ## 🟣 Red Teaming / Embedded
-<details><summary><strong>(Evil)Doggie: A modular open-source CAN bus research and penetration testing tool</strong> — Octavio Gianatiempo, Gaston Aznarez</summary>
+<details><summary><strong>(Evil)Doggie: A modular open-source CAN bus research and penetration testing tool</strong> — Octavio Gianatiempo, Gastón Aznarez</summary>
 
 **Track:** Hardware/Embedded · Arsenal Lab · **Event:** USA 2025  
 🔗 **Link:** [https://github.com/susandoggie/doggie](https://github.com/susandoggie/doggie)  
@@ -834,7 +842,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>All Talk, AI Action: Binary Analysis Toolkit MCP Server</strong> — Wei-Chieh Chao, Tien-Chih Lin, Zhao Min Chen</summary>
+<details><summary><strong>All Talk, AI Action: Binary Analysis Toolkit MCP Server</strong> — Zhao-Min Chen, Wei Chieh Chao, Tien-Chih Lin</summary>
 
 **Track:** AI, ML & Data Science · Arsenal Lab · **Event:** USA 2025  
 🔗 **Link:** [https://github.com/cycraft-corp/bh-usa-2025-arsenal](https://github.com/cycraft-corp/bh-usa-2025-arsenal)  
@@ -850,7 +858,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>DataTrap - AI Based Data Driven Honeypot</strong> — Ori Nakar</summary>
+<details><summary><strong>DataTrap - AI Based Data Driven Honeypot</strong> — Ori Nakar, Gabriella Sharadin, Daniel Johnston</summary>
 
 **Track:** AI, ML & Data Science · **Event:** USA 2025  
 🔗 **Link:** [https://github.com/ThalesGroup/dd-honeypot](https://github.com/ThalesGroup/dd-honeypot)  
@@ -858,7 +866,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Dumpsieve</strong> — Sze Ying Tay</summary>
+<details><summary><strong>Dumpsieve</strong> — Sze Ying Tay, Ernest Lim</summary>
 
 **Track:** AI, ML & Data Science · **Event:** USA 2025  
 🔗 **Link:** Not Available  
@@ -898,7 +906,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Nemesis 2.0</strong> — Will Schroeder, Lee Chagolla-Christensen</summary>
+<details><summary><strong>Nemesis 2.0</strong> — Will Schroeder, Lee Lee Chagolla-Christensen</summary>
 
 **Track:** AI, ML & Data Science · **Event:** USA 2025  
 🔗 **Link:** [https://github.com/SpecterOps/Nemesis](https://github.com/SpecterOps/Nemesis)  
@@ -906,7 +914,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Patching at Scale - Using GenAI to keep up</strong> — Yohan Guez</summary>
+<details><summary><strong>Patching at Scale - Using GenAI to keep up</strong> — Yohan Guez, Itamar Sher, Bruce Gibson</summary>
 
 **Track:** AI, ML & Data Science · **Event:** USA 2025  
 🔗 **Link:** [https://github.com/aws-samples/gen-ai-cve-patching](https://github.com/aws-samples/gen-ai-cve-patching)  
@@ -914,7 +922,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Pentest Copilot: Cursor for Pentesters</strong> — Dhruva Goyal, Sitaraman S</summary>
+<details><summary><strong>Pentest Copilot: Cursor for Pentesters</strong> — Dhruva Goyal, Sitaraman S, Aditya Peela</summary>
 
 **Track:** AI, ML & Data Science · **Event:** USA 2025  
 🔗 **Link:** [https://github.com/bugbasesecurity/pentest-copilot](https://github.com/bugbasesecurity/pentest-copilot)  
@@ -922,7 +930,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>PERSEPTOR: Automating Detection Rule Generation with AI-Driven Threat Intelligence</strong> — Aytek AYTEMUR, Fatih ERDOGAN</summary>
+<details><summary><strong>PERSEPTOR: Automating Detection Rule Generation with AI-Driven Threat Intelligence</strong> — Aytek AYTEMUR</summary>
 
 **Track:** AI, ML & Data Science · **Event:** USA 2025  
 🔗 **Link:** [https://github.com/dipsh0v/perseptor](https://github.com/dipsh0v/perseptor)  
@@ -930,7 +938,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Promptfoo</strong> — Ian Webster, Michael D'Angelo, Vanessa Sauter</summary>
+<details><summary><strong>Promptfoo</strong> — Ian Webster, Michael D'Angelo, Vanessa Sauter, Steve Klein</summary>
 
 **Track:** AI, ML & Data Science · Arsenal Lab · **Event:** USA 2025  
 🔗 **Link:** [https://github.com/promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)  
@@ -972,7 +980,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Decompiler for HarmonyOS NEXT</strong> — Xiaoyu He</summary>
+<details><summary><strong>Decompiler for HarmonyOS NEXT</strong> — Xiaoyu He, Qidan He</summary>
 
 **Track:** Reverse Engineering · **Event:** USA 2025  
 🔗 **Link:** [https://github.com/jd-opensource/arkdecompiler](https://github.com/jd-opensource/arkdecompiler)  
@@ -996,7 +1004,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Plaguards: Open Source PowerShell Deobfuscation and IOC Detection Engine for Blue Teams.</strong> — Nadia, Bertrand Redondo Mulyono, Nicolas Saputra Gunawan, Satya Kusuma, Yohan Muliono</summary>
+<details><summary><strong>Plaguards: Open Source PowerShell Deobfuscation and IOC Detection Engine for Blue Teams.</strong> — Nadia Nadia, Bertrand Redondo Mulyono, Nicolas Saputra Gunawan, Satya Kusuma, Yohan Muliono</summary>
 
 **Track:** Reverse Engineering · **Event:** USA 2025  
 🔗 **Link:** [https://github.com/baycysec/plaguards](https://github.com/baycysec/plaguards)  

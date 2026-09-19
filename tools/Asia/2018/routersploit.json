@@ -3,7 +3,7 @@
   "Description": "RouterSploit is an exploitation framework for embedded devices written in python.",
   "Github URL": "https://github.com/threat9/routersploit",
   "Tracks": [
-    "Hardware/Embedded"
+    "Exploitation and Ethical Hacking"
   ],
   "Speakers": [
     "Marcin Bury",

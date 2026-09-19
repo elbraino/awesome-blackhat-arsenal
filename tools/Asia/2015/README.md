@@ -1,16 +1,27 @@
 # Asia 2015
 ---
-📍 11 tools demonstrated at **Black Hat Arsenal Asia 2015**, grouped by track category. Expand a tool for its description.
+📍 12 tools demonstrated at **Black Hat Arsenal Asia 2015**, grouped by track category. Expand a tool for its description.
 
 See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../BY_NAME.md) · [main index](../../../README.md)
 
 ## 📚 Contents
+- [Others](#others) (1)
 - [🌐 Web/AppSec](#-webappsec) (1)
 - [📱 Mobile Security](#-mobile-security) (1)
 - [🔴 Red Teaming](#-red-teaming) (5)
 - [🔴 Red Teaming / AppSec](#-red-teaming--appsec) (2)
 - [🔵 Blue Team & Detection](#-blue-team--detection) (1)
 - [🟣 Red Teaming / Embedded](#-red-teaming--embedded) (1)
+---
+## Others
+<details><summary><strong>ShinoBOT Suite</strong> — Shota Shinogi</summary>
+
+**Track:** — · **Event:** Asia 2015  
+🔗 **Link:** Not Available  
+📝 **Description:** Usually, the malware used in the targeted attack does not come alone. There are exploit documents, dropper/downloader, decoy files, backdoor, and C2 server. Additional techniques used include packer, steganography, DGA, and crypto. ShinoBOT Suite is a tool kit to create and deploy such whole stuff with just a few clicks, to simulate a highly sophisticated attack campaign. The new second version of ShinoBOT Suite contains several way for the exploit (icon spoofing, extension spoofing).
+
+</details>
+
 ---
 ## 🌐 Web/AppSec
 <details><summary><strong>OWASP Xenotix XSS Exploit Framework</strong> — Ajin Abraham</summary>
@@ -61,7 +72,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Exploitation and Ethical Hacking · **Event:** Asia 2015  
 🔗 **Link:** [https://github.com/pentoo/pentoo-overlay](https://github.com/pentoo/pentoo-overlay)  
-📝 **Description:** Pentoo is Linux distribution designed for penetration testing. Itincludes huge up-to-date and tested collection of tools for web, network, wireless, radio, voice, rce security assessments, and forensics investigations. It can run as a LiveUSB or installed on your permanent media. Based on Gentoo Linux, it is available as an overlay for an existing Gentoo installation and can be customized for your needs. In addition, binary profile with precompiled packages are also available. Pentoo comes hardened by default so both userspace applications and the kernel are protected against all types of memory corruption exploits including zero days.
+📝 **Description:** Pentoo is Linux distribution designed for penetration testing. It includes huge up-to-date and tested collection of tools for web, network, wireless, radio, voice, rce security assessments, and forensics investigations. It can run as a LiveUSB or installed on your permanent media. Based on Gentoo Linux, it is available as an overlay for an existing Gentoo installation and can be customized for your needs. In addition, binary profile with precompiled packages are also available. Pentoo comes hardened by default so both userspace applications and the kernel are protected against all types of memory corruption exploits including zero days.
 
 </details>
 

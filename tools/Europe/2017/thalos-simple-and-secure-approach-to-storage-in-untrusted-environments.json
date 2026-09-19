@@ -1,6 +1,6 @@
 {
   "Tool Name": "Thalos - Simple and Secure Approach to Storage in Untrusted Environments",
-  "Description": "Thalos is a secure and distributed system for file storage in untrusted environments. Thalos design makes it impossible for anyone who has physical or virtual access to the servers to decrypt files without the right key and neither to establish a connection between one file and its owner. Thalos relies on local elaborations to perform encryption. Furthermore, a smart and \"hierarchical\" key management system makes it quick and simple to use for everyone who has an internet access.SOURCE CODE: https://github.com/ecleipteon/ThalosWHITEPAPER: https://github.com/ecleipteon/Thalos/blob/master/docs/Thalos_doc.pdf",
+  "Description": "Thalos is a secure and distributed system for file storage in untrusted environments. Thalos design makes it impossible for anyone who has physical or virtual access to the servers to decrypt files without the right key and neither to establish a connection between one file and its owner. Thalos relies on local elaborations to perform encryption. Furthermore, a smart and \"hierarchical\" key management system makes it quick and simple to use for everyone who has an internet access. SOURCE CODE: https://github.com/ecleipteon/Thalos WHITEPAPER: https://github.com/ecleipteon/Thalos/blob/master/docs/Thalos_doc.pdf",
   "Github URL": "https://github.com/ecleipteon/Thalos",
   "Tracks": [
     "Cryptography"
