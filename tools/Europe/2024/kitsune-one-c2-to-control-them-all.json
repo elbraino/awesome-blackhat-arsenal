@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Kitsune: One C2 to control them all",
+  "Description": "A unified command-and-control (C2) framework that integrates and manages multiple C2 platforms from a single interface, streamlining red team operations.",
+  "Github URL": "https://github.com/mozilla/kitsune",
+  "Tracks": [
+    "Exploitation and Ethical Hacking",
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Joel Gámez Molina"
+  ],
+  "Year": "2024",
+  "Location": "Europe"
+}

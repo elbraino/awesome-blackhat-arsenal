@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Sharkcop: A Phishing Detector Using Machine Learning",
+  "Description": "Sharkcop use criterias such as ssl certifucate, domain length, domain age,... with SVM classification algorithm to determine if a url is phishing or not. Sharkcop includes a restful web server and a chrome extension to highlight malicious links on Facebook and Messenger.",
+  "Github URL": "https://github.com/caohoangtung/sharkcop",
+  "Tracks": [
+    "Human Factors"
+  ],
+  "Speakers": [
+    "Anh Ngoc",
+    "Tung Cao",
+    "Aiden Pearce"
+  ],
+  "Year": "2020",
+  "Location": "Asia"
+}

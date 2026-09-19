@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Drone Threats and Countermeasures",
+  "Description": "A computer vision project focused on discovering, detecting, recognizing, and tracking Unmanned Aerial Vehicle (UAV) targets using RGB and thermal infrared videos, with benchmark datasets and evaluation metrics.",
+  "Github URL": "https://github.com/ZhaoJ9014/Anti-UAV",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Stephen Scott",
+    "Steve Wright"
+  ],
+  "Year": "2022",
+  "Location": "Europe"
+}

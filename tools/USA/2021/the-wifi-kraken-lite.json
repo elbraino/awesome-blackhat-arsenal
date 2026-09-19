@@ -1,0 +1,13 @@
+{
+  "Tool Name": "The WiFi Kraken Lite",
+  "Description": "A WiFi monitoring and analysis platform that captures wireless traffic at scale using multiple radio interfaces, enabling security researchers to passively collect and analyze 802.11 frames for assessment and research purposes.",
+  "Github URL": "https://github.com/jasonxtn/Kraken",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Mike Spicer"
+  ],
+  "Year": "2021",
+  "Location": "USA"
+}

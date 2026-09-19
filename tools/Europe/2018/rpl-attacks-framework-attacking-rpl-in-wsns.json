@@ -1,0 +1,13 @@
+{
+  "Tool Name": "RPL Attacks Framework: Attacking RPL in WSNs",
+  "Description": "This tool is a framework for attacking the Routing Protocol for Low power and lossy networks (RPL) implementation of Contiki for Wireless Sensor Networks (WSN). Presentation: https://github.com/dhondta/rpl-attacks/raw/master/doc/bheu18-arsenal-presentation.pdf",
+  "Github URL": "https://github.com/dhondta/rpl-attacks",
+  "Tracks": [
+    "Internet Of Things"
+  ],
+  "Speakers": [
+    "Alexandre D'Hondt"
+  ],
+  "Year": "2018",
+  "Location": "Europe"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Social Engineering with Reel",
+  "Description": "Reel is a workflow-driven phishing framework supporting credential capture campaigns with optional real-time MFA relay as well as email sending. Every element is configurable through its workflow system, allowing complex multi-stage campaigns to be composed, and a plugin system lets operators extend core functionality without modifying the framework's code.",
+  "Github URL": "",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "James Williams"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

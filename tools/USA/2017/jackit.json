@@ -1,0 +1,14 @@
+{
+  "Tool Name": "JACKIT",
+  "Description": "JackIt is a wireless HID injection attack into NRF-based keyboard/mouse dongles based off the MouseJack vulnerability. It has a strong focus on providing system admins with the tools to demonstrate the attack to help promote and justify the need to move away from wireless keyboard and mice in a corporate environment.",
+  "Github URL": "https://github.com/insecurityofthings/jackit",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Alex Harvey",
+    "Devin Kinch"
+  ],
+  "Year": "2017",
+  "Location": "USA"
+}

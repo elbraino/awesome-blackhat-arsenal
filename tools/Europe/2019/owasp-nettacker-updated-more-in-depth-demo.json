@@ -1,0 +1,14 @@
+{
+  "Tool Name": "OWASP Nettacker (Updated - More in-depth Demo)",
+  "Description": "Nettacker project was created to automate for information gathering, vulnerability scanning and eventually generating a report for networks, including services, bugs, vulnerabilities, misconfigurations, and information. This software is able to use SYN, ACK, TCP, ICMP and many other protocols to detect and bypass the Firewalls/IDS/IPS and devices. By using a unique solution in Nettacker to find protected services such as SCADA, we could make a point to be one of the bests of scanners.",
+  "Github URL": "https://github.com/OWASP/Nettacker",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Paul Harragan",
+    "Sam Stepanyan"
+  ],
+  "Year": "2019",
+  "Location": "Europe"
+}

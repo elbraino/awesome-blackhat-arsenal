@@ -1,0 +1,15 @@
+{
+  "Tool Name": "StealthGuardian - Automatic TTP Analysis",
+  "Description": "A middleware platform for adversary simulation testing that forwards attack actions into a reference system and observes logfiles and alarm messages of defense tools to determine whether executed attacks would be detected before deploying them against real targets.",
+  "Github URL": "https://github.com/y-security/stealthguardian",
+  "Tracks": [
+    "Malware Offense",
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "Christian Becker",
+    "Sven Schlüter"
+  ],
+  "Year": "2024",
+  "Location": "USA"
+}

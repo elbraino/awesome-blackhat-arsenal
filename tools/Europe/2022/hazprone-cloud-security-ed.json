@@ -1,0 +1,14 @@
+{
+  "Tool Name": "HazProne: Cloud Security Ed",
+  "Description": "HazProne is a Cloud Pentesting Framework that emulates close to Real-World Scenarios by deploying Vulnerable-By-Demand AWS resources enabling you to pentest Vulnerabilities within, and hence, gain a better understanding of what could go wrong and why!!",
+  "Github URL": "https://github.com/stafordtituss/hazprone",
+  "Tracks": [
+    "Vulnerability Assessment",
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Staford Titus S"
+  ],
+  "Year": "2022",
+  "Location": "Europe"
+}

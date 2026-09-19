@@ -1,0 +1,13 @@
+{
+  "Tool Name": "ParseAndC: A Universal Parser and Data Visualization Tool for Security Testing",
+  "Description": "A Python-based tool that parses C structure and variable declarations, then maps them onto binary data files to visualize how data is organized in memory. It provides both a GUI for interactive exploration and a batch mode for automated analysis.",
+  "Github URL": "https://github.com/intel/parseandc",
+  "Tracks": [
+    "Reverse Engineering"
+  ],
+  "Speakers": [
+    "Parbati Kumar Manna"
+  ],
+  "Year": "2021",
+  "Location": "USA"
+}

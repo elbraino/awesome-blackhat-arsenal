@@ -1,0 +1,14 @@
+{
+  "Tool Name": "LogonTracer v2: Faster Malicious Windows Logon Investigations with AI Agent",
+  "Description": "LogonTracer v2 helps defenders find suspicious Windows logons buried in high-volume event data by organising authentication activity into a graph of users and hosts and reducing large event sets to a small number of high-value leads. Version 2 adds AI-assisted workflows: an agent that investigates Windows Event Logs for malicious logon patterns, LLM-based summarisation that turns complex activity into readable investigation summaries, and Sigma rule generation that converts discovered behaviour into reusable detections.",
+  "Github URL": "https://github.com/JPCERTCC/LogonTracer",
+  "Tracks": [
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "Shusei Tomonaga",
+    "Yuki Yano"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

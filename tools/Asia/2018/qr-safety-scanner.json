@@ -1,0 +1,13 @@
+{
+  "Tool Name": "QR Safety Scanner",
+  "Description": "A QR scanner that checks if the QR code contains malicious links. Recently QR codes are being use everywhere, for advertisements, payments, name cards, etc. However, if someone would to exploit these QR codes by hiding malicious links, devices will be infected with malware.",
+  "Github URL": "https://github.com/xPrinny/QrSafetyScanner",
+  "Tracks": [
+    "Malware Defense"
+  ],
+  "Speakers": [
+    "Tan Ashley"
+  ],
+  "Year": "2018",
+  "Location": "Asia"
+}

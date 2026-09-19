@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Social-Engineer Toolkit",
+  "Description": "Let's take a deep dive into the newest and brand spanking new of the Social-Engineer Toolkit (SET). This talk will demonstrate the effectiveness of targeted attacks and how easy it is to circumvent today's technology effortlessly. Learn from the creator of SET and the most effective way to perform targeted attacks.",
+  "Github URL": "https://github.com/trustedsec/social-engineer-toolkit",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "David Kennedy"
+  ],
+  "Year": "2013",
+  "Location": "USA"
+}

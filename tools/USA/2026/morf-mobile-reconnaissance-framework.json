@@ -1,0 +1,15 @@
+{
+  "Tool Name": "MORF - Mobile Reconnaissance Framework",
+  "Description": "MORF is a lightweight, platform-independent mobile security analysis tool that automatically discovers sensitive information embedded in Android and iOS applications. Built for penetration testers, security professionals, and developers, it surfaces hardcoded secrets and other exposure across an application package and reports on the overall mobile security posture.",
+  "Github URL": "https://github.com/amrudesh1/morf",
+  "Tracks": [
+    "OSINT - Open Source Intelligence"
+  ],
+  "Speakers": [
+    "Amrudesh",
+    "Abhishek JM",
+    "Himanshu Kumar Das"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

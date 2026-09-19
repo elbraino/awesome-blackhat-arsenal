@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Cloud Security in Focus: Attack Techniques and Mitigation in AWS, Azure, GCP and OCI",
+  "Description": "A curated collection of resources documenting cloud security attack techniques and mitigation strategies across AWS, Azure, GCP, and OCI, serving as a reference guide for penetration testers.",
+  "Github URL": "https://github.com/JoasASantos/Cloud-Security-Attacks",
+  "Tracks": [
+    "Cloud Security"
+  ],
+  "Speakers": [
+    "FILIPI PIRES"
+  ],
+  "Year": "2024",
+  "Location": "MEA"
+}

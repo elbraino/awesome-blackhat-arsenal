@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Surfactant - Modular Framework for File Information Extraction and SBOM Generation",
+  "Description": "Surfactant is a modular framework for extracting file information from filesystems and generating Software Bills of Materials (SBOMs). It identifies vendors and libraries associated with files, establishes relationships between software components, and supports system-level vulnerability impact analysis for IoT, Smart Grid, and ICS devices. Features include a terminal UI, archive decompression, interactive relationship visualizations, and package identification without a package manager.",
+  "Github URL": "https://github.com/llnl/Surfactant",
+  "Tracks": [
+    "Code Assessment"
+  ],
+  "Speakers": [
+    "Ryan Mast"
+  ],
+  "Year": "2025",
+  "Location": "USA"
+}

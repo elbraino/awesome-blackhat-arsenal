@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Keychecker : SSH Key based attack tool for DVCS Systems",
+  "Description": "KeyChecker is a Python CLI tool that fingerprints SSH private keys and identifies which Git hosting accounts they unlock, turning a recovered key into a scoped blast radius report. It performs local key intelligence across OpenSSH, PEM, and DER formats, detecting key type, size, passphrase protection, and fingerprints, then validates against GitHub, GitLab, Bitbucket, Codeberg, Gitea, and Hugging Face using safe handshakes and read-only git ls-remote probes. Licensed GPL 3.0 and free of write operations.",
+  "Github URL": "https://github.com/cyfinoid/keychecker",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Anant Shrivastava"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

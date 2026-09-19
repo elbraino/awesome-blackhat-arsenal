@@ -1,0 +1,13 @@
+{
+  "Tool Name": "MLOKit: MLOps Attack Toolkit",
+  "Description": "MLOKit is an open-source C# toolkit for attacking MLOps platforms through their REST APIs, taking an attack module and valid credentials for the target. It supports Azure ML, Amazon SageMaker, Google Cloud Vertex AI, MLFlow, BigML, and Palantir AIP, with modules for reconnaissance, training data theft, model theft, model poisoning, and notebook attacks. This release adds nine modules covering compute instance enumeration, SSH key implantation, malicious training jobs for code execution, credential harvesting from job variables and logs, and JupyterLab execution over WebSocket.",
+  "Github URL": "https://github.com/h4wkst3r/MLOKit",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Brett Hawkins"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

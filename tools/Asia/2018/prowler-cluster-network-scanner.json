@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Prowler - Cluster Network Scanner",
+  "Description": "Prowler is a Cluster Network Vulnerability Scanner, developed during Singapore Infosec Community Hackathon - HackSmith v1.0. It is implemented on a cluster of Raspberry Pi and it will scan a network for vulnerabilities, such as default/weak credentials, that can be easily exploited.",
+  "Github URL": "https://github.com/tlkh/prowler",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Faith See Wan Yi",
+    "Chi Seng Wong",
+    "Timothy Liu"
+  ],
+  "Year": "2018",
+  "Location": "Asia"
+}

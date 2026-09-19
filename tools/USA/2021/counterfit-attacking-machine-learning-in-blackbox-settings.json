@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Counterfit: Attacking Machine Learning in Blackbox Settings",
+  "Description": "Counterfit is a generic automation layer for assessing the security of machine learning systems, consolidating multiple adversarial frameworks into a single tool to test ML model resilience against attacks.",
+  "Github URL": "https://github.com/azure/counterfit",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Will Pearce",
+    "Raja Sekhar Rao Dheekonda"
+  ],
+  "Year": "2021",
+  "Location": "USA"
+}

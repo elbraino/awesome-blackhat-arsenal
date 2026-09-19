@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Q-TIP (QR Code Threat Inspection Platform)",
+  "Description": "**Abstract:** Q-TIP – QR Threat Inspection Protocol is an innovative, multi-layered cybersecurity tool designed to combat the emerging threat of QR code-based phishing attacks. By combining robust QR code decoding, comprehensive static URL analysis (including redirection chain tracking, WHOIS lookups, and SSL certificate validation), and advanced visual forensics using OpenCV, Q-TIP offers a granular, data-driven assessment of phishing risks. Additionally, the tool integrates threat intelligence from a continuously updated phishing artifacts database and implements suspicious file detection by securely downloading and analyzing files with malicious extensions. Its modular, scalable design supports both single-image and batch processing, generating detailed forensic reports in TXT and HTML formats that explicitly enumerate the reasons behind each phishing verdict. **Takeaways:** - **Comprehensive Analysis:** Q-TIP leverages multiple layers of analysis to assess QR code threats with high accuracy. - **Robust Reporting:** Detailed, actionable reports provide clear insights into the factors contributing to a phishing verdict. - **Scalable & Modular:** Designed for both enterprise and research applications, with support for real-time and batch processing. - **Future-Ready:** The platform is built to evolve with integrated real-time threat intelligence, machine learning enhancements, and dynamic file forensics to safeguard millions against phishing attacks. This abstract encapsulates Q-TIP's promise to revolutionize QR code phishing detection through technical rigor, innovative methodologies, and forward-thinking design—making it a compelling solution for Black Hat USA Arsenal 2025.",
+  "Github URL": "https://github.com/1nod3/Q-TIP",
+  "Tracks": [
+    "Malware Defense"
+  ],
+  "Speakers": [
+    "Rushikesh D. Nandedkar"
+  ],
+  "Year": "2025",
+  "Location": "USA"
+}

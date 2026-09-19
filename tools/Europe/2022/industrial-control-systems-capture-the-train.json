@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Industrial Control Systems: Capture the Train!",
+  "Description": "A curated collection of resources for Industrial Control System (ICS) security, including tools, honeypots, research literature, educational materials, and threat intelligence feeds relevant to securing critical infrastructure and SCADA systems.",
+  "Github URL": "https://github.com/hslatman/awesome-industrial-control-system-security",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Arnaud Soullié",
+    "Dhruv Sharan"
+  ],
+  "Year": "2022",
+  "Location": "Europe"
+}

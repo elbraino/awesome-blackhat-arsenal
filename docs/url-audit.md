@@ -24,366 +24,366 @@ issue template if you'd rather report than fix.
 
 | File | Tool | URL | Note |
 |---|---|---|---|
-| `tools/Asia/2015/CLAW.json` | CLAW | https://github.com/openclaw/openclaw | created 2025, event 2015 |
-| `tools/Asia/2016/BTA_ An Open-Source Active Directory Security Audi.json` | BTA: An Open-Source Active Directory Security Audit Framework | https://github.com/airbus-seclab/bta | created 2018, event 2016 |
-| `tools/Asia/2016/Janus.json` | Janus | https://github.com/deepseek-ai/Janus | created 2024, event 2016 |
-| `tools/Asia/2016/Pocsuite.json` | Pocsuite | https://github.com/knownsec/pocsuite3 | created 2019, event 2016 |
-| `tools/Asia/2016/SAIVS (Spider Artificial Intelligence Vulnerabilit.json` | SAIVS (Spider Artificial Intelligence Vulnerability Scanner) | https://github.com/13o-bbr-bbq/SAIVS | created 2018, event 2016 |
-| `tools/Asia/2016/Seebug.json` | Seebug | https://github.com/seishinkouki/seebug_crawler | created 2021, event 2016 |
-| `tools/Asia/2016/StackPivotChecker.json` | StackPivotChecker | https://github.com/zandi/ebpf-stack-pivot-detection | created 2024, event 2016 |
-| `tools/Asia/2016/ZoomEye - CyberSpace Search Engine.json` | ZoomEye - CyberSpace Search Engine | https://github.com/RevoltSecurities/ZoomeyeSearch | created 2025, event 2016 |
-| `tools/Asia/2017/LAMMA 1.0.json` | LAMMA 1.0 | https://github.com/SimpleBerry/LLaMA-O1 | created 2024, event 2017 |
-| `tools/Asia/2017/WiDy_ WiFi 0wnage in Under $5.json` | WiDy: WiFi 0wnage in Under $5 | https://github.com/widy-fun/widy | created 2026, event 2017 |
-| `tools/Asia/2018/WiPi-Hunter - Detects Illegal Wireless Network Act.json` | WiPi-Hunter - Detects Illegal Wireless Network Activities | https://github.com/xcod3/WiPi-Hunter-ToolKit | created 2020, event 2018 |
-| `tools/Asia/2019/IoT Hunter_ A Framework Tool for Building IoT Thre.json` | IoT Hunter: A Framework Tool for Building IoT Threat Intelligence System | https://github.com/emergingthreats/iot-hunter | created 2025, event 2019 |
-| `tools/Asia/2019/RTS_ Real Time Scrapper.json` | RTS: Real Time Scrapper | https://github.com/RTSPlus/rts-scraper | created 2023, event 2019 |
-| `tools/Asia/2019/Weapons of Office Destruction_ Prevention with Mac.json` | Weapons of Office Destruction: Prevention with Machine Learning | https://github.com/GurpreetKukkar/Weapon-Detection-using-Artificial-Intelligence | created 2023, event 2019 |
-| `tools/Asia/2020/Attack Demonstration Tool Kits for Industry 4.0 Us.json` | Attack Demonstration Tool Kits for Industry 4.0 Using AI and Cloud | https://github.com/xforcered/MLOKit | created 2025, event 2020 |
-| `tools/Asia/2020/Wi-Fi Access Point Rootkits.json` | Wi-Fi Access Point Rootkits | https://github.com/jimbon25/WIFI-TOOLKIT | created 2025, event 2020 |
-| `tools/Asia/2021/Drone Monitoring and Takedown System (DMTS).json` | Drone Monitoring and Takedown System (DMTS) | https://github.com/cyber-defence-campus/RemoteIDReceiver | created 2023, event 2021 |
-| `tools/Asia/2022/Mobile App API Penetration Platform.json` | Mobile App API Penetration Platform | https://github.com/4xyy/Mobile-Penetration-Testing-Tool | created 2024, event 2022 |
-| `tools/Asia/2023/Introducing the Operating System for Automotive Se.json` | Introducing the Operating System for Automotive Security Testing: A Hands-on Demonstration | https://github.com/frustratedresearcher/LSTM-Automotive-Security-PoC | created 2025, event 2023 |
-| `tools/Asia/2024/CloudSec Navigator.json` | CloudSec Navigator | https://github.com/eshlomo1/CloudSec | created 2026, event 2024 |
-| `tools/Canada/2023/A Ghidra Visualization is worth a Thousand GDB bre.json` | A Ghidra Visualization is worth a Thousand GDB breakpoints | https://github.com/datalocaltmp/GhidraMCP | created 2025, event 2023 |
-| `tools/Canada/2023/LLM Gateway – an OSS to Monitor LLM Interactions.json` | LLM Gateway – an OSS to Monitor LLM Interactions | https://github.com/theopenco/llmgateway | created 2025, event 2023 |
-| `tools/Europe/2014/Lights Off Hardware Demo.json` | Lights Off Hardware Demo | https://github.com/hdf1996/lights-demo | created 2017, event 2014 |
-| `tools/Europe/2014/NAFT Online.json` | NAFT Online | https://github.com/digitalsleuth/naft | created 2021, event 2014 |
-| `tools/Europe/2014/ZAP.json` | ZAP | https://github.com/uber-go/zap | created 2016, event 2014 |
-| `tools/Europe/2015/Android Device Testing Framework v.13.json` | Android Device Testing Framework v.13 | https://github.com/dipjyotimetia/MobileTestFramework | created 2018, event 2015 |
-| `tools/Europe/2015/D1c0m-X2.json` | D1c0m-X2 | https://github.com/DeimosC2/DeimosC2 | created 2020, event 2015 |
-| `tools/Europe/2015/OWASP Security Knowledge Framework.json` | OWASP Security Knowledge Framework | https://github.com/OWASP/www-project-security-knowledge-framework | created 2019, event 2015 |
-| `tools/Europe/2015/Panoptic.json` | Panoptic | https://github.com/CERES-Sorbonne/Panoptic | created 2023, event 2015 |
-| `tools/Europe/2016/APT2 - Automated Penetration Testing Toolkit.json` | APT2 - Automated Penetration Testing Toolkit | https://github.com/tatanus/apt2 | created 2018, event 2016 |
-| `tools/Europe/2016/From XSS to RCE 2.5.json` | From XSS to RCE 2.5 | https://github.com/xapax/xss-to-rce | created 2018, event 2016 |
-| `tools/Europe/2016/Nmap on Android.json` | Nmap on Android | https://github.com/ssoo2024/NmapOnAndroid | created 2020, event 2016 |
-| `tools/Europe/2016/Offense and Defense Toolkits in High_Low Frequency.json` | Offense and Defense Toolkits in High/Low Frequency | https://github.com/pugazh342/SOC-toolkit | created 2025, event 2016 |
-| `tools/Europe/2016/WarBerryPi.json` | WarBerryPi | https://github.com/readloud/WarberryPi | created 2022, event 2016 |
-| `tools/Europe/2016/Yaps.json` | Yaps | https://github.com/nickguitar/yaps | created 2021, event 2016 |
-| `tools/Europe/2017/DPAPI and DPAPI-NG - Decryption Toolkit.json` | DPAPI and DPAPI-NG - Decryption Toolkit | https://github.com/wat4r/dpapitk | created 2023, event 2017 |
-| `tools/Europe/2017/VirusBay - Don't be Afraid to Ask.json` | VirusBay - Don't be Afraid to Ask | https://github.com/larsborn/VirusBayClient | created 2020, event 2017 |
-| `tools/Europe/2018/Deep Exploit_ Fully Automatic Penetration Test Too.json` | Deep Exploit: Fully Automatic Penetration Test Tool Using Machine Learning | https://github.com/TheDreamPort/deep_exploit | created 2022, event 2018 |
-| `tools/Europe/2018/Drosera_ Using Wireless Honeypot to Protect Wirele.json` | Drosera: Using Wireless Honeypot to Protect Wireless Networks | https://github.com/0xmoei/drosera-network | created 2025, event 2018 |
-| `tools/Europe/2018/IoXT Hunter_ A Remote Discover & Pentest Tool for .json` | IoXT Hunter: A Remote Discover & Pentest Tool for IoT Devices | https://github.com/EmergingThreats/iot-hunter | created 2025, event 2018 |
-| `tools/Europe/2018/SNDBOX_ The Artificial Intelligence Malware Resear.json` | SNDBOX: The Artificial Intelligence Malware Research Platform | https://github.com/kunai-project/sandbox | created 2024, event 2018 |
-| `tools/Europe/2019/LinkTap_ New Threats are Already Around You - The .json` | LinkTap: New Threats are Already Around You - The IPV6 Attack Must be Understood | https://github.com/sh00t2kill/linktap_local_http_component | created 2023, event 2019 |
-| `tools/Europe/2019/MPFuzzer_ Fuzzing for Mini Program Vulnerabilities.json` | MPFuzzer: Fuzzing for Mini Program Vulnerabilities | https://github.com/cispa/ampfuzz | created 2022, event 2019 |
-| `tools/Europe/2019/RTTM_ Real Time Threat Monitoring Tool.json` | RTTM: Real Time Threat Monitoring Tool | https://github.com/juanmc2005/rttm-viewer | created 2022, event 2019 |
-| `tools/Europe/2020/AttackForge_ Pentest Management & Collaboration Pl.json` | AttackForge: Pentest Management & Collaboration Platform | https://github.com/attackforge/reportgen | created 2023, event 2020 |
-| `tools/Europe/2021/Disrupting OT and IoT by Exploiting TCP_IP Stacks.json` | Disrupting OT and IoT by Exploiting TCP/IP Stacks | https://github.com/MeherP2246/Exploiting-IoT-Devices | created 2023, event 2021 |
-| `tools/Europe/2021/Pentest Collaboration Framework.json` | Pentest Collaboration Framework | https://github.com/Cyberwatch/Pentest-Collaboration-Framework | created 2023, event 2021 |
-| `tools/Europe/2021/RIoTPot_ A Modular Hybrid-Interaction IoT_OT Honey.json` | RIoTPot: A Modular Hybrid-Interaction IoT/OT Honeypot | https://github.com/honeynet/riotpot | created 2023, event 2021 |
-| `tools/Europe/2021/on the fly.json` | on the fly | https://github.com/graphdeco-inria/on-the-fly-nvs | created 2025, event 2021 |
-| `tools/Europe/2022/Codecepticon - One Obfuscator to Rule Them All.json` | Codecepticon - One Obfuscator to Rule Them All | https://github.com/sadreck/Codecepticon | created 2024, event 2022 |
-| `tools/Europe/2023/CQPenetrationTesting Toolkit_ A Powerful Toolset T.json` | CQPenetrationTesting Toolkit: A Powerful Toolset That All Pentesters Want to Have | https://github.com/therealilyas/pentest-toolkit | created 2025, event 2023 |
-| `tools/Europe/2023/DetectiveSQ_ A Extension Auditing Framework.json` | DetectiveSQ: A Extension Auditing Framework | https://github.com/Phospheneser/DetectiveQA | created 2025, event 2023 |
-| `tools/USA/2013/De-Cloak.json` | De-Cloak | https://github.com/sandflysecurity/sandfly-file-decloak | created 2022, event 2013 |
-| `tools/USA/2013/HTExploit.json` | HTExploit | https://github.com/Seabreg/htexploit | created 2019, event 2013 |
-| `tools/USA/2013/HookME.json` | HookME | https://github.com/NytroRST/HookMe | created 2016, event 2013 |
-| `tools/USA/2013/Information Disclosure in Facebook Graph Api with .json` | Information Disclosure in Facebook Graph Api with A.T.H.O.S | https://github.com/maurobonfietti/api-graph-facebook | created 2017, event 2013 |
-| `tools/USA/2013/Kfuzz.json` | Kfuzz | https://github.com/jinb-park/kfuzz | created 2019, event 2013 |
-| `tools/USA/2013/OSfooler_ Remote OS Fingerprinting is over.json` | OSfooler: Remote OS Fingerprinting is over | https://github.com/segofensiva/OSfooler-ng | created 2019, event 2013 |
-| `tools/USA/2013/OWASP Broken Web Applications VM.json` | OWASP Broken Web Applications VM | https://github.com/chuckfw/owaspbwa | created 2016, event 2013 |
-| `tools/USA/2013/PyPTP.json` | PyPTP | https://github.com/capaulson/pyptp | created 2015, event 2013 |
-| `tools/USA/2013/RAFT 3.json` | RAFT 3 | https://github.com/Averroes/raft | created 2015, event 2013 |
-| `tools/USA/2013/Registry Inspector Forensics (RIF).json` | Registry Inspector Forensics (RIF) | https://github.com/AngelSayani/Advanced-Registry-Forensic-Lab | created 2025, event 2013 |
-| `tools/USA/2013/ShinoBOT_ShinoC2.json` | ShinoBOT/ShinoC2 | https://github.com/Sh1n0g1/ShinoBOT | created 2016, event 2013 |
-| `tools/USA/2013/SocialKlepto.json` | SocialKlepto | https://github.com/hellofresh/klepto | created 2017, event 2013 |
-| `tools/USA/2013/Sphere of Influence 3.2.json` | Sphere of Influence 3.2 | https://github.com/sphere-of-influence/sphere-of-influence.github.io | created 2019, event 2013 |
-| `tools/USA/2013/The cat's meow.json` | The cat's meow | https://github.com/aschmelyun/the-cats-meow | created 2015, event 2013 |
-| `tools/USA/2013/ThunderCell.json` | ThunderCell | https://github.com/thunderbird/thundercell | created 2023, event 2013 |
-| `tools/USA/2013/TinyLane.json` | TinyLane | https://github.com/rounakbharti/TinyLane | created 2025, event 2013 |
-| `tools/USA/2013/VScan.json` | VScan | https://github.com/veo/vscan | created 2021, event 2013 |
-| `tools/USA/2013/WATOBO.json` | WATOBO | https://github.com/siberas/watobo | created 2015, event 2013 |
-| `tools/USA/2013/WebVerify.json` | WebVerify | https://github.com/jahed/webverify | created 2020, event 2013 |
-| `tools/USA/2014/Cynomix.json` | Cynomix | https://github.com/Evertras/cynomys | created 2022, event 2014 |
-| `tools/USA/2014/Dependency-Check.json` | Dependency-Check | https://github.com/jeremylong/DependencyCheck | created 2025, event 2014 |
-| `tools/USA/2014/Dradis.json` | Dradis | https://github.com/armel/DRADIS | created 2023, event 2014 |
-| `tools/USA/2014/Filibuster - Filtering Testing Tool.json` | Filibuster - Filtering Testing Tool | https://github.com/filibuster-testing/filibuster | created 2021, event 2014 |
-| `tools/USA/2014/Morning Catch - Phishing Industries.json` | Morning Catch - Phishing Industries | https://github.com/joeynhieu/MorningCatch | created 2023, event 2014 |
-| `tools/USA/2014/OWASP Zed Attack Proxy (ZAP).json` | OWASP Zed Attack Proxy (ZAP) | https://github.com/pdsoftplan/zap-maven-plugin | created 2016, event 2014 |
-| `tools/USA/2014/Oops, RFIDid It Again.json` | Oops, RFIDid It Again | https://github.com/joaofbantunes/OOPsIDidItAgain | created 2021, event 2014 |
-| `tools/USA/2014/ProxyMe.json` | ProxyMe | https://github.com/jayluxferro/ProxyMe | created 2021, event 2014 |
-| `tools/USA/2014/SecureScan SaaS Free Scanner.json` | SecureScan SaaS Free Scanner | https://github.com/roshr22/SecureScan | created 2025, event 2014 |
-| `tools/USA/2014/ShinoBOT Suite.json` | ShinoBOT Suite | https://github.com/Sh1n0g1/ShinoBOT | created 2016, event 2014 |
-| `tools/USA/2014/Snoopy.json` | Snoopy | https://github.com/duantianyu/Snoopy | created 2017, event 2014 |
-| `tools/USA/2014/Spotlight Inspector - OSX Forensics.json` | Spotlight Inspector - OSX Forensics | https://github.com/a1l4m/Mac-Triage | created 2025, event 2014 |
-| `tools/USA/2014/TriForce ANJP.json` | TriForce ANJP | https://github.com/Infini-AI-Lab/TriForce | created 2024, event 2014 |
-| `tools/USA/2014/Veil-Framework.json` | Veil-Framework | https://github.com/Veil-Framework/Veil | created 2017, event 2014 |
-| `tools/USA/2014/WhatsApp Privacy Guard.json` | WhatsApp Privacy Guard | https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web | created 2018, event 2014 |
-| `tools/USA/2014/Zig Tools.json` | Zig Tools | https://github.com/NTBBloodbath/zig-tools.nvim | created 2022, event 2014 |
+| `tools/Asia/2015/claw.json` | CLAW | https://github.com/openclaw/openclaw | created 2025, event 2015 |
+| `tools/Asia/2016/bta-an-open-source-active-directory-security-audit-framework.json` | BTA: An Open-Source Active Directory Security Audit Framework | https://github.com/airbus-seclab/bta | created 2018, event 2016 |
+| `tools/Asia/2016/janus.json` | Janus | https://github.com/deepseek-ai/Janus | created 2024, event 2016 |
+| `tools/Asia/2016/pocsuite.json` | Pocsuite | https://github.com/knownsec/pocsuite3 | created 2019, event 2016 |
+| `tools/Asia/2016/saivs-spider-artificial-intelligence-vulnerability-scanner.json` | SAIVS (Spider Artificial Intelligence Vulnerability Scanner) | https://github.com/13o-bbr-bbq/SAIVS | created 2018, event 2016 |
+| `tools/Asia/2016/seebug.json` | Seebug | https://github.com/seishinkouki/seebug_crawler | created 2021, event 2016 |
+| `tools/Asia/2016/stackpivotchecker.json` | StackPivotChecker | https://github.com/zandi/ebpf-stack-pivot-detection | created 2024, event 2016 |
+| `tools/Asia/2016/zoomeye-cyberspace-search-engine.json` | ZoomEye - CyberSpace Search Engine | https://github.com/RevoltSecurities/ZoomeyeSearch | created 2025, event 2016 |
+| `tools/Asia/2017/lamma-1-0.json` | LAMMA 1.0 | https://github.com/SimpleBerry/LLaMA-O1 | created 2024, event 2017 |
+| `tools/Asia/2017/widy-wifi-0wnage-in-under-5.json` | WiDy: WiFi 0wnage in Under $5 | https://github.com/widy-fun/widy | created 2026, event 2017 |
+| `tools/Asia/2018/wipi-hunter-detects-illegal-wireless-network-activities.json` | WiPi-Hunter - Detects Illegal Wireless Network Activities | https://github.com/xcod3/WiPi-Hunter-ToolKit | created 2020, event 2018 |
+| `tools/Asia/2019/iot-hunter-a-framework-tool-for-building-iot-threat-intelligence-system.json` | IoT Hunter: A Framework Tool for Building IoT Threat Intelligence System | https://github.com/emergingthreats/iot-hunter | created 2025, event 2019 |
+| `tools/Asia/2019/rts-real-time-scrapper.json` | RTS: Real Time Scrapper | https://github.com/RTSPlus/rts-scraper | created 2023, event 2019 |
+| `tools/Asia/2019/weapons-of-office-destruction-prevention-with-machine-learning.json` | Weapons of Office Destruction: Prevention with Machine Learning | https://github.com/GurpreetKukkar/Weapon-Detection-using-Artificial-Intelligence | created 2023, event 2019 |
+| `tools/Asia/2020/attack-demonstration-tool-kits-for-industry-4-0-using-ai-and-cloud.json` | Attack Demonstration Tool Kits for Industry 4.0 Using AI and Cloud | https://github.com/xforcered/MLOKit | created 2025, event 2020 |
+| `tools/Asia/2020/wi-fi-access-point-rootkits.json` | Wi-Fi Access Point Rootkits | https://github.com/jimbon25/WIFI-TOOLKIT | created 2025, event 2020 |
+| `tools/Asia/2021/drone-monitoring-and-takedown-system-dmts.json` | Drone Monitoring and Takedown System (DMTS) | https://github.com/cyber-defence-campus/RemoteIDReceiver | created 2023, event 2021 |
+| `tools/Asia/2022/mobile-app-api-penetration-platform.json` | Mobile App API Penetration Platform | https://github.com/4xyy/Mobile-Penetration-Testing-Tool | created 2024, event 2022 |
+| `tools/Asia/2023/introducing-the-operating-system-for-automotive-security-testing-a-hands-on.json` | Introducing the Operating System for Automotive Security Testing: A Hands-on Demonstration | https://github.com/frustratedresearcher/LSTM-Automotive-Security-PoC | created 2025, event 2023 |
+| `tools/Asia/2024/cloudsec-navigator.json` | CloudSec Navigator | https://github.com/eshlomo1/CloudSec | created 2026, event 2024 |
+| `tools/Canada/2023/a-ghidra-visualization-is-worth-a-thousand-gdb-breakpoints.json` | A Ghidra Visualization is worth a Thousand GDB breakpoints | https://github.com/datalocaltmp/GhidraMCP | created 2025, event 2023 |
+| `tools/Canada/2023/llm-gateway-an-oss-to-monitor-llm-interactions.json` | LLM Gateway – an OSS to Monitor LLM Interactions | https://github.com/theopenco/llmgateway | created 2025, event 2023 |
+| `tools/Europe/2014/lights-off-hardware-demo.json` | Lights Off Hardware Demo | https://github.com/hdf1996/lights-demo | created 2017, event 2014 |
+| `tools/Europe/2014/naft-online.json` | NAFT Online | https://github.com/digitalsleuth/naft | created 2021, event 2014 |
+| `tools/Europe/2014/zap.json` | ZAP | https://github.com/uber-go/zap | created 2016, event 2014 |
+| `tools/Europe/2015/android-device-testing-framework-v-13.json` | Android Device Testing Framework v.13 | https://github.com/dipjyotimetia/MobileTestFramework | created 2018, event 2015 |
+| `tools/Europe/2015/d1c0m-x2.json` | D1c0m-X2 | https://github.com/DeimosC2/DeimosC2 | created 2020, event 2015 |
+| `tools/Europe/2015/owasp-security-knowledge-framework.json` | OWASP Security Knowledge Framework | https://github.com/OWASP/www-project-security-knowledge-framework | created 2019, event 2015 |
+| `tools/Europe/2015/panoptic.json` | Panoptic | https://github.com/CERES-Sorbonne/Panoptic | created 2023, event 2015 |
+| `tools/Europe/2016/apt2-automated-penetration-testing-toolkit.json` | APT2 - Automated Penetration Testing Toolkit | https://github.com/tatanus/apt2 | created 2018, event 2016 |
+| `tools/Europe/2016/from-xss-to-rce-2-5.json` | From XSS to RCE 2.5 | https://github.com/xapax/xss-to-rce | created 2018, event 2016 |
+| `tools/Europe/2016/nmap-on-android.json` | Nmap on Android | https://github.com/ssoo2024/NmapOnAndroid | created 2020, event 2016 |
+| `tools/Europe/2016/offense-and-defense-toolkits-in-high-low-frequency.json` | Offense and Defense Toolkits in High/Low Frequency | https://github.com/pugazh342/SOC-toolkit | created 2025, event 2016 |
+| `tools/Europe/2016/warberrypi.json` | WarBerryPi | https://github.com/readloud/WarberryPi | created 2022, event 2016 |
+| `tools/Europe/2016/yaps.json` | Yaps | https://github.com/nickguitar/yaps | created 2021, event 2016 |
+| `tools/Europe/2017/dpapi-and-dpapi-ng-decryption-toolkit.json` | DPAPI and DPAPI-NG - Decryption Toolkit | https://github.com/wat4r/dpapitk | created 2023, event 2017 |
+| `tools/Europe/2017/virusbay-don-t-be-afraid-to-ask.json` | VirusBay - Don't be Afraid to Ask | https://github.com/larsborn/VirusBayClient | created 2020, event 2017 |
+| `tools/Europe/2018/deep-exploit-fully-automatic-penetration-test-tool-using-machine-learning.json` | Deep Exploit: Fully Automatic Penetration Test Tool Using Machine Learning | https://github.com/TheDreamPort/deep_exploit | created 2022, event 2018 |
+| `tools/Europe/2018/drosera-using-wireless-honeypot-to-protect-wireless-networks.json` | Drosera: Using Wireless Honeypot to Protect Wireless Networks | https://github.com/0xmoei/drosera-network | created 2025, event 2018 |
+| `tools/Europe/2018/ioxt-hunter-a-remote-discover-pentest-tool-for-iot-devices.json` | IoXT Hunter: A Remote Discover & Pentest Tool for IoT Devices | https://github.com/EmergingThreats/iot-hunter | created 2025, event 2018 |
+| `tools/Europe/2018/sndbox-the-artificial-intelligence-malware-research-platform.json` | SNDBOX: The Artificial Intelligence Malware Research Platform | https://github.com/kunai-project/sandbox | created 2024, event 2018 |
+| `tools/Europe/2019/linktap-new-threats-are-already-around-you-the-ipv6-attack-must-be-understood.json` | LinkTap: New Threats are Already Around You - The IPV6 Attack Must be Understood | https://github.com/sh00t2kill/linktap_local_http_component | created 2023, event 2019 |
+| `tools/Europe/2019/mpfuzzer-fuzzing-for-mini-program-vulnerabilities.json` | MPFuzzer: Fuzzing for Mini Program Vulnerabilities | https://github.com/cispa/ampfuzz | created 2022, event 2019 |
+| `tools/Europe/2019/rttm-real-time-threat-monitoring-tool.json` | RTTM: Real Time Threat Monitoring Tool | https://github.com/juanmc2005/rttm-viewer | created 2022, event 2019 |
+| `tools/Europe/2020/attackforge-pentest-management-collaboration-platform.json` | AttackForge: Pentest Management & Collaboration Platform | https://github.com/attackforge/reportgen | created 2023, event 2020 |
+| `tools/Europe/2021/disrupting-ot-and-iot-by-exploiting-tcp-ip-stacks.json` | Disrupting OT and IoT by Exploiting TCP/IP Stacks | https://github.com/MeherP2246/Exploiting-IoT-Devices | created 2023, event 2021 |
+| `tools/Europe/2021/on-the-fly.json` | on the fly | https://github.com/graphdeco-inria/on-the-fly-nvs | created 2025, event 2021 |
+| `tools/Europe/2021/pentest-collaboration-framework.json` | Pentest Collaboration Framework | https://github.com/Cyberwatch/Pentest-Collaboration-Framework | created 2023, event 2021 |
+| `tools/Europe/2021/riotpot-a-modular-hybrid-interaction-iot-ot-honeypot.json` | RIoTPot: A Modular Hybrid-Interaction IoT/OT Honeypot | https://github.com/honeynet/riotpot | created 2023, event 2021 |
+| `tools/Europe/2022/codecepticon-one-obfuscator-to-rule-them-all.json` | Codecepticon - One Obfuscator to Rule Them All | https://github.com/sadreck/Codecepticon | created 2024, event 2022 |
+| `tools/Europe/2023/cqpenetrationtesting-toolkit-a-powerful-toolset-that-all-pentesters-want-to-have.json` | CQPenetrationTesting Toolkit: A Powerful Toolset That All Pentesters Want to Have | https://github.com/therealilyas/pentest-toolkit | created 2025, event 2023 |
+| `tools/Europe/2023/detectivesq-a-extension-auditing-framework.json` | DetectiveSQ: A Extension Auditing Framework | https://github.com/Phospheneser/DetectiveQA | created 2025, event 2023 |
+| `tools/USA/2013/de-cloak.json` | De-Cloak | https://github.com/sandflysecurity/sandfly-file-decloak | created 2022, event 2013 |
+| `tools/USA/2013/hookme.json` | HookME | https://github.com/NytroRST/HookMe | created 2016, event 2013 |
+| `tools/USA/2013/htexploit.json` | HTExploit | https://github.com/Seabreg/htexploit | created 2019, event 2013 |
+| `tools/USA/2013/information-disclosure-in-facebook-graph-api-with-a-t-h-o-s.json` | Information Disclosure in Facebook Graph Api with A.T.H.O.S | https://github.com/maurobonfietti/api-graph-facebook | created 2017, event 2013 |
+| `tools/USA/2013/kfuzz.json` | Kfuzz | https://github.com/jinb-park/kfuzz | created 2019, event 2013 |
+| `tools/USA/2013/osfooler-remote-os-fingerprinting-is-over.json` | OSfooler: Remote OS Fingerprinting is over | https://github.com/segofensiva/OSfooler-ng | created 2019, event 2013 |
+| `tools/USA/2013/owasp-broken-web-applications-vm.json` | OWASP Broken Web Applications VM | https://github.com/chuckfw/owaspbwa | created 2016, event 2013 |
+| `tools/USA/2013/pyptp.json` | PyPTP | https://github.com/capaulson/pyptp | created 2015, event 2013 |
+| `tools/USA/2013/raft-3.json` | RAFT 3 | https://github.com/Averroes/raft | created 2015, event 2013 |
+| `tools/USA/2013/registry-inspector-forensics-rif.json` | Registry Inspector Forensics (RIF) | https://github.com/AngelSayani/Advanced-Registry-Forensic-Lab | created 2025, event 2013 |
+| `tools/USA/2013/shinobot-shinoc2.json` | ShinoBOT/ShinoC2 | https://github.com/Sh1n0g1/ShinoBOT | created 2016, event 2013 |
+| `tools/USA/2013/socialklepto.json` | SocialKlepto | https://github.com/hellofresh/klepto | created 2017, event 2013 |
+| `tools/USA/2013/sphere-of-influence-3-2.json` | Sphere of Influence 3.2 | https://github.com/sphere-of-influence/sphere-of-influence.github.io | created 2019, event 2013 |
+| `tools/USA/2013/the-cat-s-meow.json` | The cat's meow | https://github.com/aschmelyun/the-cats-meow | created 2015, event 2013 |
+| `tools/USA/2013/thundercell.json` | ThunderCell | https://github.com/thunderbird/thundercell | created 2023, event 2013 |
+| `tools/USA/2013/tinylane.json` | TinyLane | https://github.com/rounakbharti/TinyLane | created 2025, event 2013 |
+| `tools/USA/2013/vscan.json` | VScan | https://github.com/veo/vscan | created 2021, event 2013 |
+| `tools/USA/2013/watobo.json` | WATOBO | https://github.com/siberas/watobo | created 2015, event 2013 |
+| `tools/USA/2013/webverify.json` | WebVerify | https://github.com/jahed/webverify | created 2020, event 2013 |
+| `tools/USA/2014/cynomix.json` | Cynomix | https://github.com/Evertras/cynomys | created 2022, event 2014 |
+| `tools/USA/2014/dependency-check.json` | Dependency-Check | https://github.com/jeremylong/DependencyCheck | created 2025, event 2014 |
+| `tools/USA/2014/dradis.json` | Dradis | https://github.com/armel/DRADIS | created 2023, event 2014 |
+| `tools/USA/2014/filibuster-filtering-testing-tool.json` | Filibuster - Filtering Testing Tool | https://github.com/filibuster-testing/filibuster | created 2021, event 2014 |
 | `tools/USA/2014/ice-hole.json` | Ice-Hole | https://github.com/fiedl/hole-ice-install | created 2019, event 2014 |
-| `tools/USA/2014/idb - Simplified Blackbox iOS App Pen-Testing.json` | idb - Simplified Blackbox iOS App Pen-Testing | https://github.com/kobs0N/iOS-Penetration-Test-Tools | created 2017, event 2014 |
-| `tools/USA/2014/reGeorg.json` | reGeorg | https://github.com/L-codes/Neo-reGeorg | created 2019, event 2014 |
-| `tools/USA/2015/Active Directory Backdoors_ Myth or Reality BTA_ O.json` | Active Directory Backdoors: Myth or Reality BTA: Open-Source Tool for AD Analysis | https://github.com/airbus-seclab/bta | created 2018, event 2015 |
-| `tools/USA/2015/Chellam.json` | Chellam | https://github.com/chellamn/chellam1 | created 2024, event 2015 |
-| `tools/USA/2015/D1c0m-X.json` | D1c0m-X | https://github.com/zerstoeren/dicom-scan | created 2017, event 2015 |
-| `tools/USA/2015/Intrigue.json` | Intrigue | https://github.com/shaunabanana/intrigue | created 2021, event 2015 |
-| `tools/USA/2015/PEStudio.json` | Pestudio | https://github.com/KuechA/pestudio-cli | created 2018, event 2015 |
-| `tools/USA/2015/PixelCAPTCHA - A Unicode Based CAPTCHA Scheme.json` | PixelCAPTCHA - A Unicode Based CAPTCHA Scheme | https://github.com/salesforce/pixel-captcha-project | created 2017, event 2015 |
-| `tools/USA/2015/Rudra - The Destroyer of Evil.json` | Rudra - The Destroyer of Evil | https://github.com/7h3rAm/rudra | created 2017, event 2015 |
-| `tools/USA/2015/WireEdit.json` | WireEdit | https://github.com/pipe01/wireedit | created 2018, event 2015 |
-| `tools/USA/2015/YARD Stick One.json` | YARD Stick One | https://github.com/JamesHagerman/yard-stick-one-work | created 2018, event 2015 |
-| `tools/USA/2016/AVLInsight Mobile Threat Intelligence Platform.json` | AVLInsight Mobile Threat Intelligence Platform | https://github.com/basekkelenkamp/AVInsight | created 2023, event 2016 |
-| `tools/USA/2016/Accelerating Cyber Hunting Project ASGARD.json` | Accelerating Cyber Hunting Project ASGARD | https://github.com/dalonghahaha/Asgard | created 2019, event 2016 |
-| `tools/USA/2016/Arsenal Theater Demo_ BSOD HD_ An FPGA-Based HDMI .json` | Arsenal Theater Demo: BSOD HD: An FPGA-Based HDMI Injection and Capture Tool | https://github.com/ykfre/BsodSurvivor | created 2020, event 2016 |
-| `tools/USA/2016/Arsenal Theater Demo_ Highway to the Danger Drone.json` | Arsenal Theater Demo: Highway to the Danger Drone | https://github.com/arunnthevapalan/drone-cv | created 2019, event 2016 |
-| `tools/USA/2016/Automated Penetration Testing Toolkit (APT2).json` | Automated Penetration Testing Toolkit (APT2) | https://github.com/tatanus/apt2 | created 2018, event 2016 |
-| `tools/USA/2016/BloodHound.json` | BloodHound | https://github.com/ly4k/BloodHound | created 2022, event 2016 |
-| `tools/USA/2016/Burp Extension for Non-HTTP Traffic.json` | Burp Extension for Non-HTTP Traffic | https://github.com/snoopysecurity/awesome-burp-extensions | created 2018, event 2016 |
-| `tools/USA/2016/Highway to the Danger Drone.json` | Highway to the Danger Drone | https://github.com/arunnthevapalan/drone-cv | created 2019, event 2016 |
-| `tools/USA/2016/LOG-MD.json` | LOG-MD | https://github.com/log-md/logmd | created 2025, event 2016 |
-| `tools/USA/2016/NetDB - The Network Database Project.json` | NetDB - The Network Database Project | https://github.com/EarlRamirez/netdb | created 2018, event 2016 |
-| `tools/USA/2016/Otaku.json` | Otaku | https://github.com/Goldenfreddy0703/Otaku | created 2022, event 2016 |
-| `tools/USA/2016/Threat Scanner.json` | Threat Scanner | https://github.com/0xMuhannad/ThreatScanner | created 2023, event 2016 |
-| `tools/USA/2016/WarBerryPi Troops Deployment in Red Teaming Scenar.json` | WarBerryPi Troops Deployment in Red Teaming Scenarios | https://github.com/downsway-uk/OpenPenTest | created 2021, event 2016 |
-| `tools/USA/2016/eXpose.json` | eXpose | https://github.com/exposedev/expose | created 2020, event 2016 |
+| `tools/USA/2014/idb-simplified-blackbox-ios-app-pen-testing.json` | idb - Simplified Blackbox iOS App Pen-Testing | https://github.com/kobs0N/iOS-Penetration-Test-Tools | created 2017, event 2014 |
+| `tools/USA/2014/morning-catch-phishing-industries.json` | Morning Catch - Phishing Industries | https://github.com/joeynhieu/MorningCatch | created 2023, event 2014 |
+| `tools/USA/2014/oops-rfidid-it-again.json` | Oops, RFIDid It Again | https://github.com/joaofbantunes/OOPsIDidItAgain | created 2021, event 2014 |
+| `tools/USA/2014/owasp-zed-attack-proxy-zap.json` | OWASP Zed Attack Proxy (ZAP) | https://github.com/pdsoftplan/zap-maven-plugin | created 2016, event 2014 |
+| `tools/USA/2014/proxyme.json` | ProxyMe | https://github.com/jayluxferro/ProxyMe | created 2021, event 2014 |
+| `tools/USA/2014/regeorg.json` | reGeorg | https://github.com/L-codes/Neo-reGeorg | created 2019, event 2014 |
+| `tools/USA/2014/securescan-saas-free-scanner.json` | SecureScan SaaS Free Scanner | https://github.com/roshr22/SecureScan | created 2025, event 2014 |
+| `tools/USA/2014/shinobot-suite.json` | ShinoBOT Suite | https://github.com/Sh1n0g1/ShinoBOT | created 2016, event 2014 |
+| `tools/USA/2014/snoopy.json` | Snoopy | https://github.com/duantianyu/Snoopy | created 2017, event 2014 |
+| `tools/USA/2014/spotlight-inspector-osx-forensics.json` | Spotlight Inspector - OSX Forensics | https://github.com/a1l4m/Mac-Triage | created 2025, event 2014 |
+| `tools/USA/2014/triforce-anjp.json` | TriForce ANJP | https://github.com/Infini-AI-Lab/TriForce | created 2024, event 2014 |
+| `tools/USA/2014/veil-framework.json` | Veil-Framework | https://github.com/Veil-Framework/Veil | created 2017, event 2014 |
+| `tools/USA/2014/whatsapp-privacy-guard.json` | WhatsApp Privacy Guard | https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web | created 2018, event 2014 |
+| `tools/USA/2014/zig-tools.json` | Zig Tools | https://github.com/NTBBloodbath/zig-tools.nvim | created 2022, event 2014 |
+| `tools/USA/2015/active-directory-backdoors-myth-or-reality-bta-open-source-tool-for-ad-analysis.json` | Active Directory Backdoors: Myth or Reality BTA: Open-Source Tool for AD Analysis | https://github.com/airbus-seclab/bta | created 2018, event 2015 |
+| `tools/USA/2015/chellam.json` | Chellam | https://github.com/chellamn/chellam1 | created 2024, event 2015 |
+| `tools/USA/2015/d1c0m-x.json` | D1c0m-X | https://github.com/zerstoeren/dicom-scan | created 2017, event 2015 |
+| `tools/USA/2015/intrigue.json` | Intrigue | https://github.com/shaunabanana/intrigue | created 2021, event 2015 |
+| `tools/USA/2015/pestudio.json` | Pestudio | https://github.com/KuechA/pestudio-cli | created 2018, event 2015 |
+| `tools/USA/2015/pixelcaptcha-a-unicode-based-captcha-scheme.json` | PixelCAPTCHA - A Unicode Based CAPTCHA Scheme | https://github.com/salesforce/pixel-captcha-project | created 2017, event 2015 |
+| `tools/USA/2015/rudra-the-destroyer-of-evil.json` | Rudra - The Destroyer of Evil | https://github.com/7h3rAm/rudra | created 2017, event 2015 |
+| `tools/USA/2015/wireedit.json` | WireEdit | https://github.com/pipe01/wireedit | created 2018, event 2015 |
+| `tools/USA/2015/yard-stick-one.json` | YARD Stick One | https://github.com/JamesHagerman/yard-stick-one-work | created 2018, event 2015 |
+| `tools/USA/2016/accelerating-cyber-hunting-project-asgard.json` | Accelerating Cyber Hunting Project ASGARD | https://github.com/dalonghahaha/Asgard | created 2019, event 2016 |
+| `tools/USA/2016/arsenal-theater-demo-bsod-hd-an-fpga-based-hdmi-injection-and-capture-tool.json` | Arsenal Theater Demo: BSOD HD: An FPGA-Based HDMI Injection and Capture Tool | https://github.com/ykfre/BsodSurvivor | created 2020, event 2016 |
+| `tools/USA/2016/arsenal-theater-demo-highway-to-the-danger-drone.json` | Arsenal Theater Demo: Highway to the Danger Drone | https://github.com/arunnthevapalan/drone-cv | created 2019, event 2016 |
+| `tools/USA/2016/automated-penetration-testing-toolkit-apt2.json` | Automated Penetration Testing Toolkit (APT2) | https://github.com/tatanus/apt2 | created 2018, event 2016 |
+| `tools/USA/2016/avlinsight-mobile-threat-intelligence-platform.json` | AVLInsight Mobile Threat Intelligence Platform | https://github.com/basekkelenkamp/AVInsight | created 2023, event 2016 |
+| `tools/USA/2016/bloodhound.json` | BloodHound | https://github.com/ly4k/BloodHound | created 2022, event 2016 |
+| `tools/USA/2016/burp-extension-for-non-http-traffic.json` | Burp Extension for Non-HTTP Traffic | https://github.com/snoopysecurity/awesome-burp-extensions | created 2018, event 2016 |
+| `tools/USA/2016/expose.json` | eXpose | https://github.com/exposedev/expose | created 2020, event 2016 |
+| `tools/USA/2016/highway-to-the-danger-drone.json` | Highway to the Danger Drone | https://github.com/arunnthevapalan/drone-cv | created 2019, event 2016 |
+| `tools/USA/2016/log-md.json` | LOG-MD | https://github.com/log-md/logmd | created 2025, event 2016 |
+| `tools/USA/2016/netdb-the-network-database-project.json` | NetDB - The Network Database Project | https://github.com/EarlRamirez/netdb | created 2018, event 2016 |
+| `tools/USA/2016/otaku.json` | Otaku | https://github.com/Goldenfreddy0703/Otaku | created 2022, event 2016 |
 | `tools/USA/2016/rastrea2r.json` | rastrea2r | https://github.com/rastrea2r/rastrea2r | created 2018, event 2016 |
-| `tools/USA/2017/A NEW TAKE AT PAYLOAD GENERATION_ EMPTY-NEST.json` | A NEW TAKE AT PAYLOAD GENERATION: EMPTY-NEST | https://github.com/payloadcms/payload | created 2021, event 2017 |
-| `tools/USA/2017/ANSWERING WHEN_WHERE_WHO IS MY INSIDER.json` | ANSWERING WHEN/WHERE/WHO IS MY INSIDER | https://github.com/pawamoy/insiders-project | created 2023, event 2017 |
-| `tools/USA/2017/ATTACK PASSIVE KEYLESS ENTRY SYSTEM USING HACKKEY.json` | ATTACK PASSIVE KEYLESS ENTRY SYSTEM USING HACKKEY | https://github.com/zeetwii/pke | created 2021, event 2017 |
-| `tools/USA/2017/BLOODHOUND 1.3 - ARSENAL THEATER DEMO.json` | BLOODHOUND 1.3 - ARSENAL THEATER DEMO | https://github.com/SpecterOps/BloodHound | created 2023, event 2017 |
-| `tools/USA/2017/BUILDING C2 ENVIRONMENTS WITH WARHORSE.json` | BUILDING C2 ENVIRONMENTS WITH WARHORSE | https://github.com/warhorse/docker-sliver | created 2021, event 2017 |
-| `tools/USA/2017/CAN-PICK - A VISUALIZATION TOOL FOR EVALUATING CAN.json` | CAN-PICK - A VISUALIZATION TOOL FOR EVALUATING CAN-BUS CYBERSECURITY - ARSENAL THEATER DEMO | https://github.com/Tbruno25/can-explorer | created 2021, event 2017 |
-| `tools/USA/2017/DPAPI AND DPAPI-NG_ DECRYPTION TOOLKIT.json` | DPAPI AND DPAPI-NG: DECRYPTION TOOLKIT | https://github.com/wat4r/dpapitk | created 2023, event 2017 |
-| `tools/USA/2017/LEGION - SIMPLE DISTRIBUTED COMPUTING FOR THE MASS.json` | LEGION - SIMPLE DISTRIBUTED COMPUTING FOR THE MASSES AND PENTESTERS | https://github.com/Tbruno25/can-explorer | created 2021, event 2017 |
-| `tools/USA/2017/NOPE PROXY (NON-HTTP PROXY EXTENSION).json` | NOPE PROXY (NON-HTTP PROXY EXTENSION) | https://github.com/PortSwigger/nope-proxy | created 2020, event 2017 |
-| `tools/USA/2017/OSRFRAMEWORK_ OPEN SOURCES RESEARCH FRAMEWORK.json` | OSRFRAMEWORK: OPEN SOURCES RESEARCH FRAMEWORK | https://github.com/marrocamp/osrframework | created 2019, event 2017 |
-| `tools/USA/2017/PROJECT SPLINTER - MAKE INFORMED DECISIONS BASED O.json` | PROJECT SPLINTER - MAKE INFORMED DECISIONS BASED ON CYBER THREAT INTEL | https://github.com/Project-Splinter/project-splinter.github.io | created 2020, event 2017 |
-| `tools/USA/2017/PTIOT_ AN AUTOMATED SECURITY TESTING FRAMEWORK FOR.json` | PTIOT: AN AUTOMATED SECURITY TESTING FRAMEWORK FOR THE INTERNET OF THINGS - ARSENAL THEATER DEMO | https://github.com/ThaiDuong158/PTIOT | created 2024, event 2017 |
-| `tools/USA/2017/SITCH_ DISTRIBUTED, COORDINATED GSM COUNTER-SURVEI.json` | SITCH: DISTRIBUTED, COORDINATED GSM COUNTER-SURVEILLANCE - ARSENAL THEATER DEMO | https://github.com/smores56/sitch | created 2019, event 2017 |
-| `tools/USA/2017/VT AUTO-X VEHICLE AUTOMATED SECURITY TESTING TOOL .json` | VT AUTO-X VEHICLE AUTOMATED SECURITY TESTING TOOL - ARSENAL THEATER DEMO | https://github.com/4paradigm/AutoX | created 2021, event 2017 |
-| `tools/USA/2017/_HACKER MODE_ FOR AMAZON ALEXA(TM).json` | "HACKER MODE" FOR AMAZON ALEXA(TM) | https://github.com/xssninja/HackerMode2.0 | created 2019, event 2017 |
-| `tools/USA/2018/ADA_ Android Dynamic Analysis Tool.json` | ADA: Android Dynamic Analysis Tool | https://github.com/nvlabs/stylegan2-ada | created 2020, event 2018 |
-| `tools/USA/2018/BloodHound 1.5.json` | BloodHound 1.5 | https://github.com/SpecterOps/BloodHound | created 2023, event 2018 |
-| `tools/USA/2018/ChangWei_ A Modern Fuzzing Framework for VxWorks S.json` | ChangWei: A Modern Fuzzing Framework for VxWorks System | https://github.com/cw1997/www.changwei.me | created 2024, event 2018 |
-| `tools/USA/2018/Deep Exploit.json` | Deep Exploit | https://github.com/TheDreamPort/deep_exploit | created 2022, event 2018 |
-| `tools/USA/2018/Deep Information Retrieval for Malware Searching S.json` | Deep Information Retrieval for Malware Searching System | https://github.com/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning | created 2024, event 2018 |
-| `tools/USA/2018/FireDrill_ Adversarial Simulation Platform - ARSEN.json` | FireDrill: Adversarial Simulation Platform - ARSENAL THEATER DEMO | https://github.com/fourcorelabs/firedrill | created 2021, event 2018 |
-| `tools/USA/2018/Hunting Wargames with Arthur and Merlin in IOC-Lan.json` | Hunting Wargames with Arthur and Merlin in IOC-Land | https://github.com/ZIB-IOL/merlin-arthur-classifiers | created 2024, event 2018 |
-| `tools/USA/2018/Learn How to Build Your Own Utility to Monitor Mal.json` | Learn How to Build Your Own Utility to Monitor Malicious Behaviors of Malware on macOS | https://github.com/ab2pentest/MacOSThreatTrack | created 2023, event 2018 |
-| `tools/USA/2018/MLPdf_ An Effective Machine Learning Based Approac.json` | MLPdf: An Effective Machine Learning Based Approach for PDF Malware Detection | https://github.com/arcofiero/PDF_Malware_Detection | created 2022, event 2018 |
-| `tools/USA/2018/Mafia_ Mobile Security Automation Framework for In.json` | Mafia: Mobile Security Automation Framework for Intelligent Auditing | https://github.com/mafiahub/awesome-mafia | created 2024, event 2018 |
-| `tools/USA/2018/OWASP Dependency-Check.json` | OWASP Dependency-Check | https://github.com/jeremylong/DependencyCheck | created 2025, event 2018 |
-| `tools/USA/2018/POLAR_ Accelerating the Search for Vulnerable Func.json` | POLAR: Accelerating the Search for Vulnerable Functions | https://github.com/polarsource/polar | created 2023, event 2018 |
-| `tools/USA/2018/Performing Live Forensics Without Killing Your Evi.json` | Performing Live Forensics Without Killing Your Evidence | https://github.com/Johnng007/Live-Forensicator | created 2022, event 2018 |
-| `tools/USA/2018/Project Interceptor_ Owning Anti-Drone Systems wit.json` | Project Interceptor: Owning Anti-Drone Systems with Nanodrones - ARSENAL THEATER DEMO | https://github.com/Lexicon121/Strix-Interceptor | created 2023, event 2018 |
-| `tools/USA/2018/V2X Validation Tool.json` | V2X Validation Tool | https://github.com/usnistgov/C-V2XInteroperabilityTestingTool | created 2025, event 2018 |
-| `tools/USA/2018/wpa-sec_ The Largest Online WPA Handshake Database.json` | wpa-sec: The Largest Online WPA Handshake Database | https://github.com/usagi-epta/WPA-SEC | created 2024, event 2018 |
-| `tools/USA/2019/ARSENAL LAB - Applied Hardware Attacks_ Prototypin.json` | ARSENAL LAB - Applied Hardware Attacks: Prototyping Malicious Hardware on the Cheap | https://github.com/stevemats/Hacker-Arsenal-Toolkit | created 2023, event 2019 |
-| `tools/USA/2019/Koadic_ Two Years of Mischief.json` | Koadic: Two Years of Mischief | https://github.com/offsecginger/koadic | created 2022, event 2019 |
-| `tools/USA/2019/SASTRI_ Plug and Play VM for SAST__Static Applicat.json` | SASTRI: Plug and Play VM for SAST/*Static Application Security Testing Realtime Integration*/ | https://github.com/TheCyberpunker/SAST-Resources | created 2023, event 2019 |
-| `tools/USA/2019/WTS_ Scenario-Based WiFi Network Threat Simulation.json` | WTS: Scenario-Based WiFi Network Threat Simulation | https://github.com/vipul-69-ax/Wireless-Network-Simulation | created 2024, event 2019 |
-| `tools/USA/2020/UFO_ A Security Verification Tool for IoT Device F.json` | UFO: A Security Verification Tool for IoT Device Firmware | https://github.com/kevinhwang91/nvim-ufo | created 2022, event 2020 |
-| `tools/USA/2021/All-Purpose Remote Access Trojan.json` | All-Purpose Remote Access Trojan | https://github.com/anuragpatil66/AccessWiz | created 2023, event 2021 |
-| `tools/USA/2021/Bringing the X86 Complete RE Experience to Smart C.json` | Bringing the X86 Complete RE Experience to Smart Contract | https://github.com/eznix86/smart-contracts | created 2023, event 2021 |
-| `tools/USA/2021/CQOffensiveSecurity_ The Extreme Windows Offensive.json` | CQOffensiveSecurity: The Extreme Windows Offensive Security Toolkit | https://github.com/hardsoftsecurity/Offensive-Security-Tools | created 2024, event 2021 |
-| `tools/USA/2021/HOOKA_ Deep Dive Into ART(Android RunTime) for Dyn.json` | HOOKA: Deep Dive Into ART(Android Runtime) For Dynamic Binary Analysis | https://github.com/D3Ext/Hooka | created 2023, event 2021 |
-| `tools/USA/2021/Hands-on Security Analysis of Selected Avionics Sy.json` | Hands-on Security Analysis of Selected Avionics Systems Using the Triton Testbed | https://github.com/quarkslab/tritondse | created 2023, event 2021 |
-| `tools/USA/2021/New Face, Who Dis_ Protecting Privacy in a World o.json` | New Face, Who Dis? Protecting Privacy in a World of Surveillance | https://github.com/parham1998/Facial-Privacy-Protection | created 2025, event 2021 |
-| `tools/USA/2021/Packet Sender.json` | Packet Sender | https://github.com/OwlProjects/PacketSenderWithParsing | created 2024, event 2021 |
-| `tools/USA/2021/Scanning DNA to Detect Malicious Packages in Your .json` | Scanning DNA to Detect Malicious Packages in Your Code | https://github.com/ossf/malicious-packages | created 2023, event 2021 |
-| `tools/USA/2021/The WiFi Kraken Lite.json` | The WiFi Kraken Lite | https://github.com/jasonxtn/Kraken | created 2024, event 2021 |
-| `tools/USA/2022/CQPenetrationTesting Toolkit_ Powerful Toolset Tha.json` | CQPenetrationTesting Toolkit: Powerful Toolset That All Pentesters Want to Have | https://github.com/therealilyas/pentest-toolkit | created 2025, event 2022 |
-| `tools/USA/2022/Hands-on RF Hacking 101_ From Waveforms to System .json` | Hands-on RF Hacking 101: From Waveforms to System Takeover | https://github.com/busydadsec/cyber-labs | created 2025, event 2022 |
-| `tools/USA/2022/MacAttack - A Client_Server Framework with Macro P.json` | MacAttack - A Client/Server Framework with Macro Payloads for Domain Recon and Initial Access | https://github.com/Evilvir-us/MacAttack | created 2024, event 2022 |
-| `tools/USA/2022/VulnLab Web Application Vulnerabilities Lab.json` | VulnLab Web Application Vulnerabilities Lab | https://github.com/marvelmachi/VulnLab | created 2025, event 2022 |
-| `tools/USA/2023/AI Risky Business_ Hands-on AI Payload Analysis.json` | AI Risky Business: Hands-on AI Payload Analysis | https://github.com/aliasrobotics/cai | created 2025, event 2023 |
-| `tools/USA/2023/Hands-on RF Hacking_ Your Table is (always) Ready.json` | Hands-on RF Hacking: Your Table is (always) Ready | https://github.com/busydadsec/cyber-labs | created 2025, event 2023 |
-| `tools/USA/2024/Hacking generative AI with PyRIT.json` | Hacking generative AI with PyRIT | https://github.com/Azure/PyRIT | created 2026, event 2024 |
+| `tools/USA/2016/threat-scanner.json` | Threat Scanner | https://github.com/0xMuhannad/ThreatScanner | created 2023, event 2016 |
+| `tools/USA/2016/warberrypi-troops-deployment-in-red-teaming-scenarios.json` | WarBerryPi Troops Deployment in Red Teaming Scenarios | https://github.com/downsway-uk/OpenPenTest | created 2021, event 2016 |
+| `tools/USA/2017/a-new-take-at-payload-generation-empty-nest.json` | A NEW TAKE AT PAYLOAD GENERATION: EMPTY-NEST | https://github.com/payloadcms/payload | created 2021, event 2017 |
+| `tools/USA/2017/answering-when-where-who-is-my-insider.json` | ANSWERING WHEN/WHERE/WHO IS MY INSIDER | https://github.com/pawamoy/insiders-project | created 2023, event 2017 |
+| `tools/USA/2017/attack-passive-keyless-entry-system-using-hackkey.json` | ATTACK PASSIVE KEYLESS ENTRY SYSTEM USING HACKKEY | https://github.com/zeetwii/pke | created 2021, event 2017 |
+| `tools/USA/2017/bloodhound-1-3-arsenal-theater-demo.json` | BLOODHOUND 1.3 - ARSENAL THEATER DEMO | https://github.com/SpecterOps/BloodHound | created 2023, event 2017 |
+| `tools/USA/2017/building-c2-environments-with-warhorse.json` | BUILDING C2 ENVIRONMENTS WITH WARHORSE | https://github.com/warhorse/docker-sliver | created 2021, event 2017 |
+| `tools/USA/2017/can-pick-a-visualization-tool-for-evaluating-can-bus-cybersecurity-arsenal.json` | CAN-PICK - A VISUALIZATION TOOL FOR EVALUATING CAN-BUS CYBERSECURITY - ARSENAL THEATER DEMO | https://github.com/Tbruno25/can-explorer | created 2021, event 2017 |
+| `tools/USA/2017/dpapi-and-dpapi-ng-decryption-toolkit.json` | DPAPI AND DPAPI-NG: DECRYPTION TOOLKIT | https://github.com/wat4r/dpapitk | created 2023, event 2017 |
+| `tools/USA/2017/hacker-mode-for-amazon-alexa-tm.json` | "HACKER MODE" FOR AMAZON ALEXA(TM) | https://github.com/xssninja/HackerMode2.0 | created 2019, event 2017 |
+| `tools/USA/2017/legion-simple-distributed-computing-for-the-masses-and-pentesters.json` | LEGION - SIMPLE DISTRIBUTED COMPUTING FOR THE MASSES AND PENTESTERS | https://github.com/Tbruno25/can-explorer | created 2021, event 2017 |
+| `tools/USA/2017/nope-proxy-non-http-proxy-extension.json` | NOPE PROXY (NON-HTTP PROXY EXTENSION) | https://github.com/PortSwigger/nope-proxy | created 2020, event 2017 |
+| `tools/USA/2017/osrframework-open-sources-research-framework.json` | OSRFRAMEWORK: OPEN SOURCES RESEARCH FRAMEWORK | https://github.com/marrocamp/osrframework | created 2019, event 2017 |
+| `tools/USA/2017/project-splinter-make-informed-decisions-based-on-cyber-threat-intel.json` | PROJECT SPLINTER - MAKE INFORMED DECISIONS BASED ON CYBER THREAT INTEL | https://github.com/Project-Splinter/project-splinter.github.io | created 2020, event 2017 |
+| `tools/USA/2017/ptiot-an-automated-security-testing-framework-for-the-internet-of-things.json` | PTIOT: AN AUTOMATED SECURITY TESTING FRAMEWORK FOR THE INTERNET OF THINGS - ARSENAL THEATER DEMO | https://github.com/ThaiDuong158/PTIOT | created 2024, event 2017 |
+| `tools/USA/2017/sitch-distributed-coordinated-gsm-counter-surveillance-arsenal-theater-demo.json` | SITCH: DISTRIBUTED, COORDINATED GSM COUNTER-SURVEILLANCE - ARSENAL THEATER DEMO | https://github.com/smores56/sitch | created 2019, event 2017 |
+| `tools/USA/2017/vt-auto-x-vehicle-automated-security-testing-tool-arsenal-theater-demo.json` | VT AUTO-X VEHICLE AUTOMATED SECURITY TESTING TOOL - ARSENAL THEATER DEMO | https://github.com/4paradigm/AutoX | created 2021, event 2017 |
+| `tools/USA/2018/ada-android-dynamic-analysis-tool.json` | ADA: Android Dynamic Analysis Tool | https://github.com/nvlabs/stylegan2-ada | created 2020, event 2018 |
+| `tools/USA/2018/bloodhound-1-5.json` | BloodHound 1.5 | https://github.com/SpecterOps/BloodHound | created 2023, event 2018 |
+| `tools/USA/2018/changwei-a-modern-fuzzing-framework-for-vxworks-system.json` | ChangWei: A Modern Fuzzing Framework for VxWorks System | https://github.com/cw1997/www.changwei.me | created 2024, event 2018 |
+| `tools/USA/2018/deep-exploit.json` | Deep Exploit | https://github.com/TheDreamPort/deep_exploit | created 2022, event 2018 |
+| `tools/USA/2018/deep-information-retrieval-for-malware-searching-system.json` | Deep Information Retrieval for Malware Searching System | https://github.com/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning | created 2024, event 2018 |
+| `tools/USA/2018/firedrill-adversarial-simulation-platform-arsenal-theater-demo.json` | FireDrill: Adversarial Simulation Platform - ARSENAL THEATER DEMO | https://github.com/fourcorelabs/firedrill | created 2021, event 2018 |
+| `tools/USA/2018/hunting-wargames-with-arthur-and-merlin-in-ioc-land.json` | Hunting Wargames with Arthur and Merlin in IOC-Land | https://github.com/ZIB-IOL/merlin-arthur-classifiers | created 2024, event 2018 |
+| `tools/USA/2018/learn-how-to-build-your-own-utility-to-monitor-malicious-behaviors-of-malware.json` | Learn How to Build Your Own Utility to Monitor Malicious Behaviors of Malware on macOS | https://github.com/ab2pentest/MacOSThreatTrack | created 2023, event 2018 |
+| `tools/USA/2018/mafia-mobile-security-automation-framework-for-intelligent-auditing.json` | Mafia: Mobile Security Automation Framework for Intelligent Auditing | https://github.com/mafiahub/awesome-mafia | created 2024, event 2018 |
+| `tools/USA/2018/mlpdf-an-effective-machine-learning-based-approach-for-pdf-malware-detection.json` | MLPdf: An Effective Machine Learning Based Approach for PDF Malware Detection | https://github.com/arcofiero/PDF_Malware_Detection | created 2022, event 2018 |
+| `tools/USA/2018/owasp-dependency-check.json` | OWASP Dependency-Check | https://github.com/jeremylong/DependencyCheck | created 2025, event 2018 |
+| `tools/USA/2018/performing-live-forensics-without-killing-your-evidence.json` | Performing Live Forensics Without Killing Your Evidence | https://github.com/Johnng007/Live-Forensicator | created 2022, event 2018 |
+| `tools/USA/2018/polar-accelerating-the-search-for-vulnerable-functions.json` | POLAR: Accelerating the Search for Vulnerable Functions | https://github.com/polarsource/polar | created 2023, event 2018 |
+| `tools/USA/2018/project-interceptor-owning-anti-drone-systems-with-nanodrones-arsenal-theater.json` | Project Interceptor: Owning Anti-Drone Systems with Nanodrones - ARSENAL THEATER DEMO | https://github.com/Lexicon121/Strix-Interceptor | created 2023, event 2018 |
+| `tools/USA/2018/v2x-validation-tool.json` | V2X Validation Tool | https://github.com/usnistgov/C-V2XInteroperabilityTestingTool | created 2025, event 2018 |
+| `tools/USA/2018/wpa-sec-the-largest-online-wpa-handshake-database.json` | wpa-sec: The Largest Online WPA Handshake Database | https://github.com/usagi-epta/WPA-SEC | created 2024, event 2018 |
+| `tools/USA/2019/arsenal-lab-applied-hardware-attacks-prototyping-malicious-hardware-on-the-cheap.json` | ARSENAL LAB - Applied Hardware Attacks: Prototyping Malicious Hardware on the Cheap | https://github.com/stevemats/Hacker-Arsenal-Toolkit | created 2023, event 2019 |
+| `tools/USA/2019/koadic-two-years-of-mischief.json` | Koadic: Two Years of Mischief | https://github.com/offsecginger/koadic | created 2022, event 2019 |
+| `tools/USA/2019/sastri-plug-and-play-vm-for-sast-static-application-security-testing-realtime.json` | SASTRI: Plug and Play VM for SAST/*Static Application Security Testing Realtime Integration*/ | https://github.com/TheCyberpunker/SAST-Resources | created 2023, event 2019 |
+| `tools/USA/2019/wts-scenario-based-wifi-network-threat-simulation.json` | WTS: Scenario-Based WiFi Network Threat Simulation | https://github.com/vipul-69-ax/Wireless-Network-Simulation | created 2024, event 2019 |
+| `tools/USA/2020/ufo-a-security-verification-tool-for-iot-device-firmware.json` | UFO: A Security Verification Tool for IoT Device Firmware | https://github.com/kevinhwang91/nvim-ufo | created 2022, event 2020 |
+| `tools/USA/2021/all-purpose-remote-access-trojan.json` | All-Purpose Remote Access Trojan | https://github.com/anuragpatil66/AccessWiz | created 2023, event 2021 |
+| `tools/USA/2021/bringing-the-x86-complete-re-experience-to-smart-contract.json` | Bringing the X86 Complete RE Experience to Smart Contract | https://github.com/eznix86/smart-contracts | created 2023, event 2021 |
+| `tools/USA/2021/cqoffensivesecurity-the-extreme-windows-offensive-security-toolkit.json` | CQOffensiveSecurity: The Extreme Windows Offensive Security Toolkit | https://github.com/hardsoftsecurity/Offensive-Security-Tools | created 2024, event 2021 |
+| `tools/USA/2021/hands-on-security-analysis-of-selected-avionics-systems-using-the-triton-testbed.json` | Hands-on Security Analysis of Selected Avionics Systems Using the Triton Testbed | https://github.com/quarkslab/tritondse | created 2023, event 2021 |
+| `tools/USA/2021/hooka-deep-dive-into-art-android-runtime-for-dynamic-binary-analysis.json` | HOOKA: Deep Dive Into ART(Android Runtime) For Dynamic Binary Analysis | https://github.com/D3Ext/Hooka | created 2023, event 2021 |
+| `tools/USA/2021/new-face-who-dis-protecting-privacy-in-a-world-of-surveillance.json` | New Face, Who Dis? Protecting Privacy in a World of Surveillance | https://github.com/parham1998/Facial-Privacy-Protection | created 2025, event 2021 |
+| `tools/USA/2021/packet-sender.json` | Packet Sender | https://github.com/OwlProjects/PacketSenderWithParsing | created 2024, event 2021 |
+| `tools/USA/2021/scanning-dna-to-detect-malicious-packages-in-your-code.json` | Scanning DNA to Detect Malicious Packages in Your Code | https://github.com/ossf/malicious-packages | created 2023, event 2021 |
+| `tools/USA/2021/the-wifi-kraken-lite.json` | The WiFi Kraken Lite | https://github.com/jasonxtn/Kraken | created 2024, event 2021 |
+| `tools/USA/2022/cqpenetrationtesting-toolkit-powerful-toolset-that-all-pentesters-want-to-have.json` | CQPenetrationTesting Toolkit: Powerful Toolset That All Pentesters Want to Have | https://github.com/therealilyas/pentest-toolkit | created 2025, event 2022 |
+| `tools/USA/2022/hands-on-rf-hacking-101-from-waveforms-to-system-takeover.json` | Hands-on RF Hacking 101: From Waveforms to System Takeover | https://github.com/busydadsec/cyber-labs | created 2025, event 2022 |
+| `tools/USA/2022/macattack-a-client-server-framework-with-macro-payloads-for-domain-recon-and.json` | MacAttack - A Client/Server Framework with Macro Payloads for Domain Recon and Initial Access | https://github.com/Evilvir-us/MacAttack | created 2024, event 2022 |
+| `tools/USA/2022/vulnlab-web-application-vulnerabilities-lab.json` | VulnLab Web Application Vulnerabilities Lab | https://github.com/marvelmachi/VulnLab | created 2025, event 2022 |
+| `tools/USA/2023/ai-risky-business-hands-on-ai-payload-analysis.json` | AI Risky Business: Hands-on AI Payload Analysis | https://github.com/aliasrobotics/cai | created 2025, event 2023 |
+| `tools/USA/2023/hands-on-rf-hacking-your-table-is-always-ready.json` | Hands-on RF Hacking: Your Table is (always) Ready | https://github.com/busydadsec/cyber-labs | created 2025, event 2023 |
+| `tools/USA/2024/hacking-generative-ai-with-pyrit.json` | Hacking generative AI with PyRIT | https://github.com/Azure/PyRIT | created 2026, event 2024 |
 
 ## repo name shares no word with the tool name (147)
 
 | File | Tool | URL | Note |
 |---|---|---|---|
-| `tools/Asia/2017/Damn Vulnerable SS7 Network.json` | Damn Vulnerable SS7 Network | https://github.com/akibsayyed/safeseven |  |
-| `tools/Asia/2018/Archery - Open Source Vulnerability Assessment and.json` | Archery - Open Source Vulnerability Assessment and Management | https://github.com/archerysec/archerysec |  |
-| `tools/Asia/2018/Cloud Security Suite - One Stop Tool for AWS_GCP S.json` | Cloud Security Suite - One Stop Tool for AWS/GCP Security Audit | https://github.com/SecurityFTW/cs-suite |  |
-| `tools/Asia/2018/Trape_ The Phishing Evolution.json` | Trape: The Phishing Evolution | https://github.com/GNOME/libsoup |  |
-| `tools/Asia/2019/VoIP Wireshark Attack-Defense Toolkit.json` | VoIP Wireshark Attack-Defense Toolkit | https://github.com/pentesteracademy/voipshark |  |
-| `tools/Asia/2020/USB Controlled Stress Test Tool.json` | USB Controlled Stress Test Tool | https://github.com/ncw/stressdisk |  |
-| `tools/Asia/2022/Kinstrument_ Binary-Only Instrumentation Framework.json` | Kinstrument: Binary-Only Instrumentation Framework for Linux Kernel Based on Breakpoint | https://github.com/tektronix/keithley |  |
-| `tools/Asia/2023/Backdoor Pony_ Evaluating Backdoor Attacks and Def.json` | Backdoor Pony: Evaluating Backdoor Attacks and Defenses in Different Domains | https://github.com/elseviersoftwarex/softx-d-22-00419 |  |
-| `tools/Asia/2023/Post-Quantum Cryptography Library.json` | Post-Quantum Cryptography Library | https://github.com/quininer/sarkara |  |
-| `tools/Asia/2023/RTHunter_the High-Accuracy Reverse Symbol Recovery.json` | RTHunter:the High-Accuracy Reverse Symbol Recovery and Vulnerability Scanning Tool | https://github.com/installation/rkhunter |  |
-| `tools/Asia/2023/Remove-Signature.json` | Remove-Signature | https://github.com/mvelazc0/PurpleSharp |  |
-| `tools/Asia/2024/Automated Audit Simulation.json` | Automated Audit Simulation | https://github.com/Ubaidjaffery/theauditorv2 |  |
-| `tools/Asia/2024/Catching adversaries on Azure - Deception on Cloud.json` | Catching adversaries on Azure - Deception on Cloud | https://github.com/pbssubhash/Deceptizure |  |
-| `tools/Asia/2024/Deceptively Adaptive Honey Net (dahn).json` | Deceptively Adaptive Honey Net (dahn) | https://github.com/victorkvor/honeynet-vs-deception_technologies |  |
-| `tools/Asia/2024/DetectiveSQ_ A Extension Auditing Framework Versio.json` | DetectiveSQ: A Extension Auditing Framework Version 2 | https://github.com/Phospheneser/DetectiveQA |  |
-| `tools/Asia/2024/Monitoring and Detecting Leaks with GitAlerts.json` | Monitoring and Detecting Leaks with GitAlerts | https://github.com/falcosecurity/falco |  |
-| `tools/Asia/2024/PentestMuse_ The Iron Man Suit of Offensive Securi.json` | PentestMuse: The Iron Man Suit of Offensive Security Automation | https://github.com/abstractengine/pentest-muse-cli |  |
-| `tools/Asia/2024/Secure Local Vault - Git Based Secret Manager.json` | Secure Local Vault - Git Based Secret Manager | https://github.com/amagioss/slv |  |
-| `tools/Asia/2024/Slips_ A machine-learning based, free-software, P2.json` | Slips: A machine-learning based, free-software, P2P Network Intrusion Prevention System | https://github.com/stratosphereips/StratosphereLinuxIPS |  |
-| `tools/Asia/2025/Chakshu.json` | Chakshu | https://github.com/Insider-HackZ/Network-Scanner-GUI |  |
-| `tools/Asia/2025/FZAI Fuzzer.json` | FZAI Fuzzer | https://github.com/cyberark/FuzzyAI |  |
-| `tools/Asia/2025/From Mapping to Mitigation.json` | From Mapping to Mitigation | https://github.com/projectdiscovery/nuclei |  |
-| `tools/Asia/2025/SCAGoat.json` | SCAGoat | https://github.com/harekrishnarai/Damn-vulnerable-sca |  |
-| `tools/Asia/2026/QuantumStrand (qs)_ A Structural Approach to String Analysis for Rapid Indicator Filtering.json` | QuantumStrand (qs): A Structural Approach to String Analysis for Rapid Indicator Filtering | https://github.com/mandiant/flare-floss |  |
-| `tools/Canada/2023/Advanced Threat Mitigation with RL + SDN.json` | Advanced Threat Mitigation with RL + SDN | https://github.com/ATMoS-Waterloo/ATMoS |  |
-| `tools/Canada/2023/Network Monitoring Tools for macOS.json` | Network Monitoring Tools for macOS | https://github.com/objective-see/Netiquette |  |
-| `tools/Canada/2023/Windows On ARM Rootkit Detector.json` | Windows On ARM Rootkit Detector | https://github.com/cyberark/woarkd |  |
-| `tools/Canada/2024/3P Data Risk Metric (3PDRM).json` | 3P Data Risk Metric (3PDRM) | https://github.com/mit-drl/pyrmm |  |
-| `tools/Canada/2024/Continuously Correlate & Contextualize ALL Alerts,.json` | Continuously Correlate & Contextualize ALL Alerts, Events & Logs | https://github.com/Dan-Duran/mitre-attack-mapper |  |
-| `tools/Canada/2024/Hands-on RF Hacking_ Your Table is (always) Ready.json` | Hands-on RF Hacking: Your Table is (always) Ready | https://github.com/busydadsec/cyber-labs |  |
-| `tools/Canada/2025/AI_Supply_Chain.json` | AI Supply Chain | https://github.com/GenAI-Security-Project/aibom-generator |  |
-| `tools/Canada/2025/kill_open_ports.json` | Kill Open Ports | https://github.com/atsign-foundation/noports |  |
-| `tools/Europe/2015/From XSS to RCE 20.json` | From XSS to RCE 20 | https://github.com/Varbaek/xsser |  |
-| `tools/Europe/2016/Automated Vulnerability Assessment & Penetration T.json` | Automated Vulnerability Assessment & Penetration Testing Tool | https://github.com/OWASP/Nettacker |  |
-| `tools/Europe/2017/Aktaion v2 - A Machine Learning Open-Source & Acti.json` | Aktaion v2 - A Machine Learning Open-Source & Active Defense (Orchestration) Tool | https://github.com/jzadeh/aktaion2 |  |
-| `tools/Europe/2017/CERNE - Open IDS Platform.json` | CERNE - Open IDS Platform | https://github.com/cerner/fhir.cerner.com |  |
-| `tools/Europe/2017/Cloud Security Suite - One Stop Tool for AWS Secur.json` | Cloud Security Suite - One Stop Tool for AWS Security Audit | https://github.com/SecurityFTW/cs-suite |  |
-| `tools/Europe/2018/Cloud Security Suite_ One Stop Tool forAWS_GCP_Azu.json` | Cloud Security Suite: One Stop Tool forAWS/GCP/Azure Security Audit | https://github.com/securityftw/cs-suite |  |
-| `tools/Europe/2018/Universal Radio Hacker v2_ Simulate Wireless Devic.json` | Universal Radio Hacker v2: Simulate Wireless Devices with Software Defined Radio | https://github.com/jopohl/urh |  |
-| `tools/Europe/2019/AVCLASS++_ Yet Another Massive Malware Labeling To.json` | AVCLASS++: Yet Another Massive Malware Labeling Tool | https://github.com/killvxk/avclassplusplus |  |
-| `tools/Europe/2019/Docker Security Playground.json` | Docker Security Playground | https://github.com/DockerSecurityPlayground/DSP |  |
-| `tools/Europe/2019/Zhouhe_ Threat Analysis and Detection of Network T.json` | Zhouhe: Threat Analysis and Detection of Network Traffic | https://github.com/zhouh/zhouh.github.io |  |
-| `tools/Europe/2020/0365Squatting.json` | 0365Squatting | https://github.com/O365Squad/O365-Squatting |  |
-| `tools/Europe/2020/NEW TSURUGI LINUX ACQUIRE & DIGITAL FORENSIC ACQUI.json` | NEW TSURUGI LINUX ACQUIRE & DIGITAL FORENSIC ACQUISITIONS | https://github.com/mesquidar/ForensicsTools |  |
-| `tools/Europe/2021/An Open Stack for Threat Hunting in Hybrid Cloud W.json` | An Open Stack for Threat Hunting in Hybrid Cloud With Connected Observability | https://github.com/opencybersecurityalliance/kestrel-huntbook |  |
-| `tools/Europe/2021/UART Brute Forcing.json` | UART Brute Forcing | https://github.com/firefart/UARTBruteForcer |  |
-| `tools/Europe/2022/CQSysmon Toolkit_ Advanced System Monitoring Toolk.json` | CQSysmon Toolkit: Advanced System Monitoring Toolkit | https://github.com/SwiftOnSecurity/sysmon-config |  |
-| `tools/Europe/2022/Drone Threats and Countermeasures.json` | Drone Threats and Countermeasures | https://github.com/ZhaoJ9014/Anti-UAV |  |
-| `tools/Europe/2022/Extensible Azure Security Tool.json` | Extensible Azure Security Tool | https://github.com/jsa2/EAST |  |
-| `tools/Europe/2022/Mining for Secrets_ Repos, firmware, and more.json` | Mining for Secrets: Repos, firmware, and more | https://github.com/mauricioaniche/repodriller |  |
-| `tools/Europe/2022/Reversing MCU with Firmware Emulation.json` | Reversing MCU with Firmware Emulation | https://github.com/therealsaumil/emux |  |
-| `tools/Europe/2022/a bridge to laser beam from IR remote controller.json` | a bridge to laser beam from IR remote controller | https://github.com/imaoca/irBadUSBbyButton |  |
-| `tools/Europe/2022/shrewdeye - low hanging OSINT and reconnaissance.json` | shrewdeye - low hanging OSINT and reconnaissance | https://github.com/zzzteph/sheye |  |
-| `tools/Europe/2023/AndroCop_ One Click Forensic Investigation & Data .json` | AndroCop: One Click Forensic Investigation & Data Extraction Tool | https://github.com/scorelab/ANDROPHSY |  |
-| `tools/Europe/2023/Attack Knowledge Base for Automotive.json` | Attack Knowledge Base for Automotive | https://github.com/IEEM-HsKA/AAD |  |
-| `tools/Europe/2023/Power Automate C2_ Stealth Living-Off-the-Cloud C2.json` | Power Automate C2: Stealth Living-Off-the-Cloud C2 Framework | https://github.com/NTT-Security-Japan/pac2 |  |
-| `tools/Europe/2023/Rapid Fire_ Flipper vs. All the Things.json` | Rapid Fire: Flipper vs. All the Things | https://github.com/justcallmekoko/xboxonerapidfire |  |
-| `tools/Europe/2023/SSH into any device from anywhere with ZERO Open N.json` | SSH into any device from anywhere with ZERO Open Network ports | https://github.com/shellhub-io/shellhub |  |
-| `tools/Europe/2023/Slips_ A machine-learning based, free-software, P2.json` | Slips: A machine-learning based, free-software, P2P Network Intrusion Prevention System | https://github.com/stratosphereips/StratosphereLinuxIPS |  |
-| `tools/Europe/2023/When World War II meets CDNs_ A New Class of Pulsi.json` | When World War II meets CDNs: A New Class of Pulsing DDoS Attack | https://github.com/ydj0604/Content-Distribution-Network |  |
-| `tools/Europe/2024/Campus as a Living Lab_ An Open-World Hacking Envi.json` | Campus as a Living Lab: An Open-World Hacking Environment | https://github.com/victorrey179/TFG-UAB_WASTE_MANAGEMENT |  |
-| `tools/Europe/2024/FZAI Fuzzer - Behind AI Lines_ Disrupting LLM Alig.json` | FZAI Fuzzer - Behind AI Lines: Disrupting LLM Alignment to Build Bombs, Leading to Enhanced Security | https://github.com/cyberark/FuzzyAI |  |
-| `tools/Europe/2024/Fabric_ automating cybersecurity reporting.json` | Fabric: automating cybersecurity reporting | https://github.com/blackstork-io/blackstork-cli |  |
-| `tools/Europe/2024/Open Source Tool to Shift Left Security Testing by.json` | Open Source Tool to Shift Left Security Testing by Leveraging AI | https://github.com/aliasrobotics/cai |  |
-| `tools/Europe/2025/atomic_honeypot_a_tool_that_can_hack_back_the_attackers_who_are_trying_to_connec.json` | Atomic Honeypot - A Tool That Can Hack Back the Attackers Who Are Trying to Connect to Your Database | https://github.com/paralax/awesome-honeypots |  |
-| `tools/Europe/2025/capture_the_train_purple_team_edition.json` | Capture the Train: Purple Team Edition! | https://github.com/wavestone-cdt/caldera-s7 |  |
-| `tools/Europe/2025/emfif2_electro_magnetic_fault_injection_fuzzing_framework.json` | EMFIF2 - Electro Magnetic Fault Injection Fuzzing Framework | https://github.com/Cypherock/emfi-board |  |
-| `tools/Europe/2025/from_triage_to_threat_modeling_open_source_security_llm_in_action.json` | From Triage to Threat Modeling: Open-Source Security LLM in Action | https://github.com/yacwagh/arrows |  |
-| `tools/MEA/2024/Use opensource AI to map alerts & logs into techni.json` | Use opensource AI to map alerts & logs into techniques, clusters, and killchains | https://github.com/keephq/keep |  |
-| `tools/USA/2013/Dude, WTF in my car_.json` | Dude, WTF in my car? | https://github.com/fjvva/ecu-tool |  |
-| `tools/USA/2013/Invoke-ReflectivePEInjection.json` | Invoke-ReflectivePEInjection | https://github.com/clymb3r/PowerShell |  |
-| `tools/USA/2015/Breachego.json` | Breachego | https://github.com/beego/beego |  |
-| `tools/USA/2015/Digital Disease Tracking Tool.json` | Digital Disease Tracking Tool | https://github.com/daveewall/epidigitalogy |  |
-| `tools/USA/2015/FindSecurityBugs.json` | FindSecurityBugs | https://github.com/find-sec-bugs/find-sec-bugs |  |
-| `tools/USA/2015/OWASP Broken Web Applications VM v12.json` | OWASP Broken Web Applications VM v12 | https://github.com/chuckfw/owaspbwa |  |
-| `tools/USA/2015/SAMLyze.json` | SAMLyze | https://github.com/iSECPartners/sslyze |  |
-| `tools/USA/2016/A Black Path Toward The Sun.json` | A Black Path Toward The Sun | https://github.com/nccgroup/ABPTTS |  |
-| `tools/USA/2016/BSOD HD_ An FPGA-Based HDMI Injection and Capture .json` | BSOD HD: An FPGA-Based HDMI Injection and Capture Tool | https://github.com/joegrand/bsodomizer-hd-c5g |  |
-| `tools/USA/2016/CodexGigas Malware DNA Profiling Search Engine.json` | CodexGigas Malware DNA Profiling Search Engine | https://github.com/codexgigassys/codex-backend |  |
-| `tools/USA/2016/FingerPrinTLS.json` | FingerPrinTLS | https://github.com/fingerprintjs/fingerprintjs |  |
-| `tools/USA/2016/HoneyPy & HoneyDB.json` | HoneyPy & HoneyDB | https://github.com/paralax/awesome-honeypots |  |
-| `tools/USA/2016/SkyPhenomena.json` | SkyPhenomena | https://github.com/CEFware/SkyScan |  |
-| `tools/USA/2016/pDNSego.json` | pDNSego | https://github.com/gamelinux/passivedns |  |
-| `tools/USA/2017/AKTAION V2 - OPENSOURCE MACHINE LEARNING AND ACTIV.json` | AKTAION V2 - OPENSOURCE MACHINE LEARNING AND ACTIVE DEFENSE TOOL | https://github.com/jzadeh/aktaion2 |  |
-| `tools/USA/2017/AUTOMATED COLLECTION AND ENRICHMENT PLATFORM.json` | AUTOMATED COLLECTION AND ENRICHMENT PLATFORM | https://github.com/Invoke-IR/ACE |  |
-| `tools/USA/2017/Desenmascara.me.json` | DESENMASCARA.ME | https://github.com/ecasbas/web-metadata |  |
-| `tools/USA/2017/GONE IN 59 SECONDS - HIGH SPEED BACKDOOR INJECTION.json` | GONE IN 59 SECONDS - HIGH SPEED BACKDOOR INJECTION VIA BOOTABLE USB - ARSENAL THEATER DEMO | https://github.com/Abacus-Group-RTO/legion |  |
-| `tools/USA/2017/HACK_400 AND IBMISCANNER TOOLING FOR CHECKING YOUR.json` | HACK/400 AND IBMISCANNER TOOLING FOR CHECKING YOUR IBM I (AKA AS/400) MACHINES! | https://github.com/hackthelegacy/hack400tool |  |
-| `tools/USA/2017/THE BICHO_ AN ADVANCED CAR BACKDOOR MAKER.json` | THE BICHO: AN ADVANCED CAR BACKDOOR MAKER | https://github.com/UnaPibaGeek/CBM |  |
-| `tools/USA/2017/UNIVERSAL RADIO HACKER_ INVESTIGATE WIRELESS PROTO.json` | UNIVERSAL RADIO HACKER: INVESTIGATE WIRELESS PROTOCOLS LIKE A BOSS - ARSENAL THEATER DEMO | https://github.com/jopohl/urh |  |
-| `tools/USA/2018/An Extensible Dynamic Analysis Framework for IoT D.json` | An Extensible Dynamic Analysis Framework for IoT Devices | https://github.com/DeepBitsTechnology/FirmPin |  |
-| `tools/USA/2018/Archery_ Open Source Vulnerability Assessment and .json` | Archery: Open Source Vulnerability Assessment and Management - ARSENAL THEATER DEMO | https://github.com/archerysec/archerysec |  |
-| `tools/USA/2018/CQSysmonToolkit_ Advanced System Monitoring Toolki.json` | CQSysmonToolkit: Advanced System Monitoring Toolkit | https://github.com/SwiftOnSecurity/sysmon-config |  |
-| `tools/USA/2018/Cloud Security Suite_ One Stop Tool for AWS_GCP_Az.json` | Cloud Security Suite: One Stop Tool for AWS/GCP/Azure Security Audit | https://github.com/SecurityFTW/cs-suite |  |
-| `tools/USA/2018/Damn Vulnerable iOS App_ Swift Edition.json` | Damn Vulnerable iOS App: Swift Edition | https://github.com/prateek147/DVIA-v2 |  |
-| `tools/USA/2018/Desenmascara.me_ How to Track Online Counterfeiter.json` | Desenmascara.me: How to Track Online Counterfeiters | https://github.com/ecasbas/web-metadata |  |
-| `tools/USA/2018/Eventpad_ Rapid and Cost Effective Malware Analysi.json` | Eventpad: Rapid and Cost Effective Malware Analysis Using Visual Analytics | https://github.com/AfeefaDe/event-pad-ui |  |
-| `tools/USA/2018/Firmware Audit_ Platform Firmware Security Automat.json` | Firmware Audit: Platform Firmware Security Automation for Blue Teams and DFIR | https://github.com/PreOS-Security/fwaudit |  |
-| `tools/USA/2018/OWASP Offensive Web Testing Framework.json` | OWASP Offensive Web Testing Framework | https://github.com/owtf/owtf |  |
-| `tools/USA/2019/ARSENAL LAB - ZigBee Hacking_ Smarter Home Invasio.json` | ARSENAL LAB - ZigBee Hacking: Smarter Home Invasion with ZigDiggity | https://github.com/Koenkk/zigbee2mqtt |  |
-| `tools/USA/2019/BLACKPHENIX_ Malware Analysis + Automation Framewo.json` | BLACKPHENIX: Malware Analysis + Automation Framework | https://github.com/fortinet/ips-bph-framework |  |
-| `tools/USA/2019/Cloud Security Suite_ One-Stop Tool for AWS_GCP_Az.json` | Cloud Security Suite: One-Stop Tool for AWS/GCP/Azure Security Audit | https://github.com/SecurityFTW/cs-suite |  |
-| `tools/USA/2019/Lauschgerät_ Gets in the Way of your Victim's Traf.json` | Lauschgerät: Gets in the Way of your Victim's Traffic and Out of Yours | https://github.com/SySS-Research/Lauschgeraet |  |
-| `tools/USA/2019/LoRaWAN Auditing Framework.json` | LoRaWAN Auditing Framework | https://github.com/IOActive/laf |  |
-| `tools/USA/2019/SIEMs Framework_ Open Source MultiSIEM Python Atta.json` | SIEMs Framework: Open Source MultiSIEM Python Attack Framework | https://github.com/ElevenPaths/siemframework |  |
-| `tools/USA/2020/ARP covert channel attacks by 8bit microcomputer.json` | ARP covert channel attacks by 8bit microcomputer | https://github.com/imaoca/botchipTools |  |
-| `tools/USA/2020/ATT&CK Simulator.json` | ATT&CK Simulator | https://github.com/timfrazier1/AdversarySimulation |  |
-| `tools/USA/2020/Mística_ Anything is a tunnel if you're brave enou.json` | Mística: Anything is a tunnel if you're brave enough - Covert channels for everyone! | https://github.com/telefonica/mistica-design |  |
-| `tools/USA/2020/Stantinko deobfuscation arsenal.json` | Stantinko deobfuscation arsenal | https://github.com/eset/stadeo |  |
-| `tools/USA/2021/ARP Covert Channel Attacks by 8bit Microcomputer #.json` | ARP Covert Channel Attacks by 8bit Microcomputer #2 | https://github.com/imaoca/botchipTools |  |
-| `tools/USA/2021/Capture the Signal_ Running Wireless IoT CTFs, Rem.json` | Capture the Signal: Running Wireless IoT CTFs, Remotely! | https://github.com/blackvs/awesome-cts |  |
-| `tools/USA/2021/Hacking the Digital Drone License Plate.json` | Hacking the Digital Drone License Plate | https://github.com/dronesploit/dronesploit |  |
-| `tools/USA/2021/Slips_ A Machine-Learning Based, Free-Software, Ne.json` | Slips: A Machine-Learning Based, Free-Software, Network Intrusion Prevention System | https://github.com/stratosphereips/StratosphereLinuxIPS |  |
-| `tools/USA/2021/USBsamurai_ One Cable to Pwn'em All.json` | USBsamurai: One Cable To Pwn'em All | https://github.com/xairy/usb-hacking |  |
-| `tools/USA/2021/tshark + ELK_ Network Traffic Monitoring and Analy.json` | tshark + ELK: Network Traffic Monitoring and Analysis | https://github.com/h21lab/tsharkvm |  |
-| `tools/USA/2022/Exploiting & Securing Trains.json` | Exploiting & Securing Trains | https://github.com/LiuYuancheng/Railway_Control-OT-Cyber-Attack |  |
-| `tools/USA/2022/N3XT G3N WAF_ ML based WAF with Retraining and Det.json` | N3XT G3N WAF: ML based WAF with Retraining and Detainment through Honeypots | https://github.com/FA-PengFei/NGWAF |  |
-| `tools/USA/2022/Protecting your Crypto Asset against Malicious JS .json` | Protecting your Crypto Asset against Malicious JS Phishing | https://github.com/suiet/guardians |  |
-| `tools/USA/2022/RF( Radio Frequency ) Offensive and Defense Exerci.json` | RF( Radio Frequency ) Offensive and Defense Exercise Server | https://github.com/zeetwii/RFRE |  |
-| `tools/USA/2022/Slips_ Free Software Machine Learning Tool for Net.json` | Slips: Free Software Machine Learning Tool for Network Intrusion Prevention System | https://github.com/stratosphereips/StratosphereLinuxIPS |  |
-| `tools/USA/2022/Wiretapping Tool to Sniff Packets Directly from LA.json` | Wiretapping Tool to Sniff Packets Directly from LAN Cables | https://github.com/bedangSen/Wireshark-Packet-Analysis |  |
-| `tools/USA/2023/Find Blind Spots in Your Security with Paladin Clo.json` | Find Blind Spots in Your Security with Paladin Cloud | https://github.com/PaladinCloud/CE |  |
-| `tools/USA/2023/Network Monitoring Tools for macOS.json` | Network Monitoring Tools for macOS | https://github.com/netxms/netxms |  |
-| `tools/USA/2023/Puppet Fuzz_ Discovering Critical Kernel Vulnerabi.json` | Puppet Fuzz: Discovering Critical Kernel Vulnerabilities with Innovative Approach | https://github.com/wcventure/FuzzingPaper |  |
-| `tools/USA/2023/RuleCraftLab - A Detection Rule Development Platfo.json` | RuleCraftLab - A Detection Rule Development Platform | https://github.com/elastic/detection-rules |  |
-| `tools/USA/2023/SSHook_ A Lightweight Syscall Hooking Tool for Unc.json` | SSHook: A Lightweight Syscall Hooking Tool for Uncovering Hidden Malicious Instructions | https://github.com/dgellow/sshooks |  |
-| `tools/USA/2023/Safe Scan&C2 Tool.json` | Safe Scan&C2 Tool | https://github.com/c2links/NoWhere2Hide |  |
-| `tools/USA/2023/Swimming with the (Data)Flow – Analyzing & Visuali.json` | Swimming with the (Data)Flow – Analyzing & Visualizing Web Application Data Flows for Enhanced Penetration Testing | https://github.com/Azure/SWIMDataIngestion |  |
-| `tools/USA/2024/Apeman_ The AWS Policy Evaluation Manager.json` | Apeman: The AWS Policy Evaluation Manager | https://github.com/LAC-Japan/Ghidra_AntiDebugSeeker |  |
-| `tools/USA/2024/Breaking Barriers_ PyFrida's Simplified Pythonic A.json` | Breaking Barriers: PyFrida's Simplified Pythonic Approach to Frida Scripting | https://github.com/hotnops/apeman |  |
-| `tools/USA/2024/LDAP Firewall.json` | LDAP Firewall | https://github.com/zeronetworks/ldapfw |  |
-| `tools/USA/2024/Moriarty.json` | Moriarty | https://github.com/AzizKpln/Gokboru_Intel |  |
-| `tools/USA/2024/Network Monitoring Tools for macOS.json` | Network Monitoring Tools for macOS | https://github.com/netxms/netxms |  |
-| `tools/USA/2024/Network Threat Hunting with SELKS.json` | Network Threat Hunting with SELKS | https://github.com/StamusNetworks/Clear-NDR-ISO |  |
-| `tools/USA/2024/Opening the Door_ API Key Permission Enumeration.json` | Opening the Door: API Key Permission Enumeration | https://github.com/gh0x0st/OSCP-A-Step-Forward |  |
-| `tools/USA/2024/RF Hacking on the Road_ Logging Tire Sensors.json` | RF Hacking on the Road: Logging Tire Sensors | https://github.com/busydadsec/cyber-labs |  |
-| `tools/USA/2024/Ōkami_ Advanced Binary Fingerprinting for Malware .json` | Ōkami: Advanced Binary Fingerprinting for Malware Attribution and Code Sharing Detection | https://github.com/wolfgangj/okami |  |
-| `tools/USA/2025/All Talk, AI Action_ Binary Analysis Toolkit MCP S.json` | All Talk, AI Action: Binary Analysis Toolkit MCP Server | https://github.com/erew123/alltalk_tts |  |
-| `tools/USA/2025/Decompiler for HarmonyOS NEXT.json` | Decompiler for HarmonyOS NEXT | https://github.com/jd-opensource/arkdecompiler |  |
-| `tools/USA/2025/Dumpsieve.json` | Dumpsieve | https://github.com/arthaud/git-dumper |  |
-| `tools/USA/2025/LlamaFirewall_ Guardrails for Controlling Agentic .json` | LlamaFirewall: Guardrails for Controlling Agentic AI Systems | https://github.com/meta-llama/PurpleLlama |  |
-| `tools/USA/2025/Metasploit's Latest Attack Capability and Workflow.json` | Metasploit's Latest Attack Capability and Workflow Improvements | https://github.com/mchklt/PFE |  |
-| `tools/USA/2025/TCP Fingerprint Firewall _ Recon Shield.json` | TCP Fingerprint Firewall / Recon Shield | https://github.com/NikolaiT/zardaxt |  |
-| `tools/USA/2026/CrowdSentinel_ AI-Orchestrated Threat Hunting Across Unified Security Data Sources.json` | CrowdSentinel: AI-Orchestrated Threat Hunting Across Unified Security Data Sources | https://github.com/thomasxm/CrowdSentinels-AI-MCP |  |
-| `tools/USA/2026/Medaudit, an AI assisted Tool for Auditing Hospital Networks and Pentesting Medical Devices.json` | Medaudit, an AI assisted Tool for Auditing Hospital Networks and Pentesting Medical Devices | https://github.com/anirudhduggal/medaudit2 |  |
-| `tools/USA/2026/Practical Ransomware Detection on macOS (via Math, not AI).json` | Practical Ransomware Detection on macOS (via Math, not AI) | https://github.com/objective-see/RansomWhere |  |
-| `tools/USA/2026/QuicDraw & QuicDraw-UI_ Racing and Fuzzing HTTP_3.json` | QuicDraw & QuicDraw-UI: Racing and Fuzzing HTTP/3 | https://github.com/cyberark/QuicDrawH3 |  |
+| `tools/Asia/2017/damn-vulnerable-ss7-network.json` | Damn Vulnerable SS7 Network | https://github.com/akibsayyed/safeseven |  |
+| `tools/Asia/2018/archery-open-source-vulnerability-assessment-and-management.json` | Archery - Open Source Vulnerability Assessment and Management | https://github.com/archerysec/archerysec |  |
+| `tools/Asia/2018/cloud-security-suite-one-stop-tool-for-aws-gcp-security-audit.json` | Cloud Security Suite - One Stop Tool for AWS/GCP Security Audit | https://github.com/SecurityFTW/cs-suite |  |
+| `tools/Asia/2018/trape-the-phishing-evolution.json` | Trape: The Phishing Evolution | https://github.com/GNOME/libsoup |  |
+| `tools/Asia/2019/voip-wireshark-attack-defense-toolkit.json` | VoIP Wireshark Attack-Defense Toolkit | https://github.com/pentesteracademy/voipshark |  |
+| `tools/Asia/2020/usb-controlled-stress-test-tool.json` | USB Controlled Stress Test Tool | https://github.com/ncw/stressdisk |  |
+| `tools/Asia/2022/kinstrument-binary-only-instrumentation-framework-for-linux-kernel-based-on.json` | Kinstrument: Binary-Only Instrumentation Framework for Linux Kernel Based on Breakpoint | https://github.com/tektronix/keithley |  |
+| `tools/Asia/2023/backdoor-pony-evaluating-backdoor-attacks-and-defenses-in-different-domains.json` | Backdoor Pony: Evaluating Backdoor Attacks and Defenses in Different Domains | https://github.com/elseviersoftwarex/softx-d-22-00419 |  |
+| `tools/Asia/2023/post-quantum-cryptography-library.json` | Post-Quantum Cryptography Library | https://github.com/quininer/sarkara |  |
+| `tools/Asia/2023/remove-signature.json` | Remove-Signature | https://github.com/mvelazc0/PurpleSharp |  |
+| `tools/Asia/2023/rthunter-the-high-accuracy-reverse-symbol-recovery-and-vulnerability-scanning.json` | RTHunter:the High-Accuracy Reverse Symbol Recovery and Vulnerability Scanning Tool | https://github.com/installation/rkhunter |  |
+| `tools/Asia/2024/automated-audit-simulation.json` | Automated Audit Simulation | https://github.com/Ubaidjaffery/theauditorv2 |  |
+| `tools/Asia/2024/catching-adversaries-on-azure-deception-on-cloud.json` | Catching adversaries on Azure - Deception on Cloud | https://github.com/pbssubhash/Deceptizure |  |
+| `tools/Asia/2024/deceptively-adaptive-honey-net-dahn.json` | Deceptively Adaptive Honey Net (dahn) | https://github.com/victorkvor/honeynet-vs-deception_technologies |  |
+| `tools/Asia/2024/detectivesq-a-extension-auditing-framework-version-2.json` | DetectiveSQ: A Extension Auditing Framework Version 2 | https://github.com/Phospheneser/DetectiveQA |  |
+| `tools/Asia/2024/monitoring-and-detecting-leaks-with-gitalerts.json` | Monitoring and Detecting Leaks with GitAlerts | https://github.com/falcosecurity/falco |  |
+| `tools/Asia/2024/pentestmuse-the-iron-man-suit-of-offensive-security-automation.json` | PentestMuse: The Iron Man Suit of Offensive Security Automation | https://github.com/abstractengine/pentest-muse-cli |  |
+| `tools/Asia/2024/secure-local-vault-git-based-secret-manager.json` | Secure Local Vault - Git Based Secret Manager | https://github.com/amagioss/slv |  |
+| `tools/Asia/2024/slips-a-machine-learning-based-free-software-p2p-network-intrusion-prevention.json` | Slips: A machine-learning based, free-software, P2P Network Intrusion Prevention System | https://github.com/stratosphereips/StratosphereLinuxIPS |  |
+| `tools/Asia/2025/chakshu.json` | Chakshu | https://github.com/Insider-HackZ/Network-Scanner-GUI |  |
+| `tools/Asia/2025/from-mapping-to-mitigation.json` | From Mapping to Mitigation | https://github.com/projectdiscovery/nuclei |  |
+| `tools/Asia/2025/fzai-fuzzer.json` | FZAI Fuzzer | https://github.com/cyberark/FuzzyAI |  |
+| `tools/Asia/2025/scagoat.json` | SCAGoat | https://github.com/harekrishnarai/Damn-vulnerable-sca |  |
+| `tools/Asia/2026/quantumstrand-qs-a-structural-approach-to-string-analysis-for-rapid-indicator.json` | QuantumStrand (qs): A Structural Approach to String Analysis for Rapid Indicator Filtering | https://github.com/mandiant/flare-floss |  |
+| `tools/Canada/2023/advanced-threat-mitigation-with-rl-sdn.json` | Advanced Threat Mitigation with RL + SDN | https://github.com/ATMoS-Waterloo/ATMoS |  |
+| `tools/Canada/2023/network-monitoring-tools-for-macos.json` | Network Monitoring Tools for macOS | https://github.com/objective-see/Netiquette |  |
+| `tools/Canada/2023/windows-on-arm-rootkit-detector.json` | Windows On ARM Rootkit Detector | https://github.com/cyberark/woarkd |  |
+| `tools/Canada/2024/3p-data-risk-metric-3pdrm.json` | 3P Data Risk Metric (3PDRM) | https://github.com/mit-drl/pyrmm |  |
+| `tools/Canada/2024/continuously-correlate-contextualize-all-alerts-events-logs.json` | Continuously Correlate & Contextualize ALL Alerts, Events & Logs | https://github.com/Dan-Duran/mitre-attack-mapper |  |
+| `tools/Canada/2024/hands-on-rf-hacking-your-table-is-always-ready.json` | Hands-on RF Hacking: Your Table is (always) Ready | https://github.com/busydadsec/cyber-labs |  |
+| `tools/Canada/2025/ai-supply-chain.json` | AI Supply Chain | https://github.com/GenAI-Security-Project/aibom-generator |  |
+| `tools/Canada/2025/kill-open-ports.json` | Kill Open Ports | https://github.com/atsign-foundation/noports |  |
+| `tools/Europe/2015/from-xss-to-rce-20.json` | From XSS to RCE 20 | https://github.com/Varbaek/xsser |  |
+| `tools/Europe/2016/automated-vulnerability-assessment-penetration-testing-tool.json` | Automated Vulnerability Assessment & Penetration Testing Tool | https://github.com/OWASP/Nettacker |  |
+| `tools/Europe/2017/aktaion-v2-a-machine-learning-open-source-active-defense-orchestration-tool.json` | Aktaion v2 - A Machine Learning Open-Source & Active Defense (Orchestration) Tool | https://github.com/jzadeh/aktaion2 |  |
+| `tools/Europe/2017/cerne-open-ids-platform.json` | CERNE - Open IDS Platform | https://github.com/cerner/fhir.cerner.com |  |
+| `tools/Europe/2017/cloud-security-suite-one-stop-tool-for-aws-security-audit.json` | Cloud Security Suite - One Stop Tool for AWS Security Audit | https://github.com/SecurityFTW/cs-suite |  |
+| `tools/Europe/2018/cloud-security-suite-one-stop-tool-foraws-gcp-azure-security-audit.json` | Cloud Security Suite: One Stop Tool forAWS/GCP/Azure Security Audit | https://github.com/securityftw/cs-suite |  |
+| `tools/Europe/2018/universal-radio-hacker-v2-simulate-wireless-devices-with-software-defined-radio.json` | Universal Radio Hacker v2: Simulate Wireless Devices with Software Defined Radio | https://github.com/jopohl/urh |  |
+| `tools/Europe/2019/avclass-yet-another-massive-malware-labeling-tool.json` | AVCLASS++: Yet Another Massive Malware Labeling Tool | https://github.com/killvxk/avclassplusplus |  |
+| `tools/Europe/2019/docker-security-playground.json` | Docker Security Playground | https://github.com/DockerSecurityPlayground/DSP |  |
+| `tools/Europe/2019/zhouhe-threat-analysis-and-detection-of-network-traffic.json` | Zhouhe: Threat Analysis and Detection of Network Traffic | https://github.com/zhouh/zhouh.github.io |  |
+| `tools/Europe/2020/0365squatting.json` | 0365Squatting | https://github.com/O365Squad/O365-Squatting |  |
+| `tools/Europe/2020/new-tsurugi-linux-acquire-digital-forensic-acquisitions.json` | NEW TSURUGI LINUX ACQUIRE & DIGITAL FORENSIC ACQUISITIONS | https://github.com/mesquidar/ForensicsTools |  |
+| `tools/Europe/2021/an-open-stack-for-threat-hunting-in-hybrid-cloud-with-connected-observability.json` | An Open Stack for Threat Hunting in Hybrid Cloud With Connected Observability | https://github.com/opencybersecurityalliance/kestrel-huntbook |  |
+| `tools/Europe/2021/uart-brute-forcing.json` | UART Brute Forcing | https://github.com/firefart/UARTBruteForcer |  |
+| `tools/Europe/2022/a-bridge-to-laser-beam-from-ir-remote-controller.json` | a bridge to laser beam from IR remote controller | https://github.com/imaoca/irBadUSBbyButton |  |
+| `tools/Europe/2022/cqsysmon-toolkit-advanced-system-monitoring-toolkit.json` | CQSysmon Toolkit: Advanced System Monitoring Toolkit | https://github.com/SwiftOnSecurity/sysmon-config |  |
+| `tools/Europe/2022/drone-threats-and-countermeasures.json` | Drone Threats and Countermeasures | https://github.com/ZhaoJ9014/Anti-UAV |  |
+| `tools/Europe/2022/extensible-azure-security-tool.json` | Extensible Azure Security Tool | https://github.com/jsa2/EAST |  |
+| `tools/Europe/2022/mining-for-secrets-repos-firmware-and-more.json` | Mining for Secrets: Repos, firmware, and more | https://github.com/mauricioaniche/repodriller |  |
+| `tools/Europe/2022/reversing-mcu-with-firmware-emulation.json` | Reversing MCU with Firmware Emulation | https://github.com/therealsaumil/emux |  |
+| `tools/Europe/2022/shrewdeye-low-hanging-osint-and-reconnaissance.json` | shrewdeye - low hanging OSINT and reconnaissance | https://github.com/zzzteph/sheye |  |
+| `tools/Europe/2023/androcop-one-click-forensic-investigation-data-extraction-tool.json` | AndroCop: One Click Forensic Investigation & Data Extraction Tool | https://github.com/scorelab/ANDROPHSY |  |
+| `tools/Europe/2023/attack-knowledge-base-for-automotive.json` | Attack Knowledge Base for Automotive | https://github.com/IEEM-HsKA/AAD |  |
+| `tools/Europe/2023/power-automate-c2-stealth-living-off-the-cloud-c2-framework.json` | Power Automate C2: Stealth Living-Off-the-Cloud C2 Framework | https://github.com/NTT-Security-Japan/pac2 |  |
+| `tools/Europe/2023/rapid-fire-flipper-vs-all-the-things.json` | Rapid Fire: Flipper vs. All the Things | https://github.com/justcallmekoko/xboxonerapidfire |  |
+| `tools/Europe/2023/slips-a-machine-learning-based-free-software-p2p-network-intrusion-prevention.json` | Slips: A machine-learning based, free-software, P2P Network Intrusion Prevention System | https://github.com/stratosphereips/StratosphereLinuxIPS |  |
+| `tools/Europe/2023/ssh-into-any-device-from-anywhere-with-zero-open-network-ports.json` | SSH into any device from anywhere with ZERO Open Network ports | https://github.com/shellhub-io/shellhub |  |
+| `tools/Europe/2023/when-world-war-ii-meets-cdns-a-new-class-of-pulsing-ddos-attack.json` | When World War II meets CDNs: A New Class of Pulsing DDoS Attack | https://github.com/ydj0604/Content-Distribution-Network |  |
+| `tools/Europe/2024/campus-as-a-living-lab-an-open-world-hacking-environment.json` | Campus as a Living Lab: An Open-World Hacking Environment | https://github.com/victorrey179/TFG-UAB_WASTE_MANAGEMENT |  |
+| `tools/Europe/2024/fabric-automating-cybersecurity-reporting.json` | Fabric: automating cybersecurity reporting | https://github.com/blackstork-io/blackstork-cli |  |
+| `tools/Europe/2024/fzai-fuzzer-behind-ai-lines-disrupting-llm-alignment-to-build-bombs-leading-to.json` | FZAI Fuzzer - Behind AI Lines: Disrupting LLM Alignment to Build Bombs, Leading to Enhanced Security | https://github.com/cyberark/FuzzyAI |  |
+| `tools/Europe/2024/open-source-tool-to-shift-left-security-testing-by-leveraging-ai.json` | Open Source Tool to Shift Left Security Testing by Leveraging AI | https://github.com/aliasrobotics/cai |  |
+| `tools/Europe/2025/atomic-honeypot-a-tool-that-can-hack-back-the-attackers-who-are-trying-to.json` | Atomic Honeypot - A Tool That Can Hack Back the Attackers Who Are Trying to Connect to Your Database | https://github.com/paralax/awesome-honeypots |  |
+| `tools/Europe/2025/capture-the-train-purple-team-edition.json` | Capture the Train: Purple Team Edition! | https://github.com/wavestone-cdt/caldera-s7 |  |
+| `tools/Europe/2025/emfif2-electro-magnetic-fault-injection-fuzzing-framework.json` | EMFIF2 - Electro Magnetic Fault Injection Fuzzing Framework | https://github.com/Cypherock/emfi-board |  |
+| `tools/Europe/2025/from-triage-to-threat-modeling-open-source-security-llm-in-action.json` | From Triage to Threat Modeling: Open-Source Security LLM in Action | https://github.com/yacwagh/arrows |  |
+| `tools/MEA/2024/use-opensource-ai-to-map-alerts-logs-into-techniques-clusters-and-killchains.json` | Use opensource AI to map alerts & logs into techniques, clusters, and killchains | https://github.com/keephq/keep |  |
+| `tools/USA/2013/dude-wtf-in-my-car.json` | Dude, WTF in my car? | https://github.com/fjvva/ecu-tool |  |
+| `tools/USA/2013/invoke-reflectivepeinjection.json` | Invoke-ReflectivePEInjection | https://github.com/clymb3r/PowerShell |  |
+| `tools/USA/2015/breachego.json` | Breachego | https://github.com/beego/beego |  |
+| `tools/USA/2015/digital-disease-tracking-tool.json` | Digital Disease Tracking Tool | https://github.com/daveewall/epidigitalogy |  |
+| `tools/USA/2015/findsecuritybugs.json` | FindSecurityBugs | https://github.com/find-sec-bugs/find-sec-bugs |  |
+| `tools/USA/2015/owasp-broken-web-applications-vm-v12.json` | OWASP Broken Web Applications VM v12 | https://github.com/chuckfw/owaspbwa |  |
+| `tools/USA/2015/samlyze.json` | SAMLyze | https://github.com/iSECPartners/sslyze |  |
+| `tools/USA/2016/a-black-path-toward-the-sun.json` | A Black Path Toward The Sun | https://github.com/nccgroup/ABPTTS |  |
+| `tools/USA/2016/bsod-hd-an-fpga-based-hdmi-injection-and-capture-tool.json` | BSOD HD: An FPGA-Based HDMI Injection and Capture Tool | https://github.com/joegrand/bsodomizer-hd-c5g |  |
+| `tools/USA/2016/codexgigas-malware-dna-profiling-search-engine.json` | CodexGigas Malware DNA Profiling Search Engine | https://github.com/codexgigassys/codex-backend |  |
+| `tools/USA/2016/fingerprintls.json` | FingerPrinTLS | https://github.com/fingerprintjs/fingerprintjs |  |
+| `tools/USA/2016/honeypy-honeydb.json` | HoneyPy & HoneyDB | https://github.com/paralax/awesome-honeypots |  |
+| `tools/USA/2016/pdnsego.json` | pDNSego | https://github.com/gamelinux/passivedns |  |
+| `tools/USA/2016/skyphenomena.json` | SkyPhenomena | https://github.com/CEFware/SkyScan |  |
+| `tools/USA/2017/aktaion-v2-opensource-machine-learning-and-active-defense-tool.json` | AKTAION V2 - OPENSOURCE MACHINE LEARNING AND ACTIVE DEFENSE TOOL | https://github.com/jzadeh/aktaion2 |  |
+| `tools/USA/2017/automated-collection-and-enrichment-platform.json` | AUTOMATED COLLECTION AND ENRICHMENT PLATFORM | https://github.com/Invoke-IR/ACE |  |
+| `tools/USA/2017/desenmascara-me.json` | DESENMASCARA.ME | https://github.com/ecasbas/web-metadata |  |
+| `tools/USA/2017/gone-in-59-seconds-high-speed-backdoor-injection-via-bootable-usb-arsenal.json` | GONE IN 59 SECONDS - HIGH SPEED BACKDOOR INJECTION VIA BOOTABLE USB - ARSENAL THEATER DEMO | https://github.com/Abacus-Group-RTO/legion |  |
+| `tools/USA/2017/hack-400-and-ibmiscanner-tooling-for-checking-your-ibm-i-aka-as-400-machines.json` | HACK/400 AND IBMISCANNER TOOLING FOR CHECKING YOUR IBM I (AKA AS/400) MACHINES! | https://github.com/hackthelegacy/hack400tool |  |
+| `tools/USA/2017/the-bicho-an-advanced-car-backdoor-maker.json` | THE BICHO: AN ADVANCED CAR BACKDOOR MAKER | https://github.com/UnaPibaGeek/CBM |  |
+| `tools/USA/2017/universal-radio-hacker-investigate-wireless-protocols-like-a-boss-arsenal.json` | UNIVERSAL RADIO HACKER: INVESTIGATE WIRELESS PROTOCOLS LIKE A BOSS - ARSENAL THEATER DEMO | https://github.com/jopohl/urh |  |
+| `tools/USA/2018/an-extensible-dynamic-analysis-framework-for-iot-devices.json` | An Extensible Dynamic Analysis Framework for IoT Devices | https://github.com/DeepBitsTechnology/FirmPin |  |
+| `tools/USA/2018/archery-open-source-vulnerability-assessment-and-management-arsenal-theater-demo.json` | Archery: Open Source Vulnerability Assessment and Management - ARSENAL THEATER DEMO | https://github.com/archerysec/archerysec |  |
+| `tools/USA/2018/cloud-security-suite-one-stop-tool-for-aws-gcp-azure-security-audit.json` | Cloud Security Suite: One Stop Tool for AWS/GCP/Azure Security Audit | https://github.com/SecurityFTW/cs-suite |  |
+| `tools/USA/2018/cqsysmontoolkit-advanced-system-monitoring-toolkit.json` | CQSysmonToolkit: Advanced System Monitoring Toolkit | https://github.com/SwiftOnSecurity/sysmon-config |  |
+| `tools/USA/2018/damn-vulnerable-ios-app-swift-edition.json` | Damn Vulnerable iOS App: Swift Edition | https://github.com/prateek147/DVIA-v2 |  |
+| `tools/USA/2018/desenmascara-me-how-to-track-online-counterfeiters.json` | Desenmascara.me: How to Track Online Counterfeiters | https://github.com/ecasbas/web-metadata |  |
+| `tools/USA/2018/eventpad-rapid-and-cost-effective-malware-analysis-using-visual-analytics.json` | Eventpad: Rapid and Cost Effective Malware Analysis Using Visual Analytics | https://github.com/AfeefaDe/event-pad-ui |  |
+| `tools/USA/2018/firmware-audit-platform-firmware-security-automation-for-blue-teams-and-dfir.json` | Firmware Audit: Platform Firmware Security Automation for Blue Teams and DFIR | https://github.com/PreOS-Security/fwaudit |  |
+| `tools/USA/2018/owasp-offensive-web-testing-framework.json` | OWASP Offensive Web Testing Framework | https://github.com/owtf/owtf |  |
+| `tools/USA/2019/arsenal-lab-zigbee-hacking-smarter-home-invasion-with-zigdiggity.json` | ARSENAL LAB - ZigBee Hacking: Smarter Home Invasion with ZigDiggity | https://github.com/Koenkk/zigbee2mqtt |  |
+| `tools/USA/2019/blackphenix-malware-analysis-automation-framework.json` | BLACKPHENIX: Malware Analysis + Automation Framework | https://github.com/fortinet/ips-bph-framework |  |
+| `tools/USA/2019/cloud-security-suite-one-stop-tool-for-aws-gcp-azure-security-audit.json` | Cloud Security Suite: One-Stop Tool for AWS/GCP/Azure Security Audit | https://github.com/SecurityFTW/cs-suite |  |
+| `tools/USA/2019/lauschgerat-gets-in-the-way-of-your-victim-s-traffic-and-out-of-yours.json` | Lauschgerät: Gets in the Way of your Victim's Traffic and Out of Yours | https://github.com/SySS-Research/Lauschgeraet |  |
+| `tools/USA/2019/lorawan-auditing-framework.json` | LoRaWAN Auditing Framework | https://github.com/IOActive/laf |  |
+| `tools/USA/2019/siems-framework-open-source-multisiem-python-attack-framework.json` | SIEMs Framework: Open Source MultiSIEM Python Attack Framework | https://github.com/ElevenPaths/siemframework |  |
+| `tools/USA/2020/arp-covert-channel-attacks-by-8bit-microcomputer.json` | ARP covert channel attacks by 8bit microcomputer | https://github.com/imaoca/botchipTools |  |
+| `tools/USA/2020/att-ck-simulator.json` | ATT&CK Simulator | https://github.com/timfrazier1/AdversarySimulation |  |
+| `tools/USA/2020/mistica-anything-is-a-tunnel-if-you-re-brave-enough-covert-channels-for-everyone.json` | Mística: Anything is a tunnel if you're brave enough - Covert channels for everyone! | https://github.com/telefonica/mistica-design |  |
+| `tools/USA/2020/stantinko-deobfuscation-arsenal.json` | Stantinko deobfuscation arsenal | https://github.com/eset/stadeo |  |
+| `tools/USA/2021/arp-covert-channel-attacks-by-8bit-microcomputer-2.json` | ARP Covert Channel Attacks by 8bit Microcomputer #2 | https://github.com/imaoca/botchipTools |  |
+| `tools/USA/2021/capture-the-signal-running-wireless-iot-ctfs-remotely.json` | Capture the Signal: Running Wireless IoT CTFs, Remotely! | https://github.com/blackvs/awesome-cts |  |
+| `tools/USA/2021/hacking-the-digital-drone-license-plate.json` | Hacking the Digital Drone License Plate | https://github.com/dronesploit/dronesploit |  |
+| `tools/USA/2021/slips-a-machine-learning-based-free-software-network-intrusion-prevention-system.json` | Slips: A Machine-Learning Based, Free-Software, Network Intrusion Prevention System | https://github.com/stratosphereips/StratosphereLinuxIPS |  |
+| `tools/USA/2021/tshark-elk-network-traffic-monitoring-and-analysis.json` | tshark + ELK: Network Traffic Monitoring and Analysis | https://github.com/h21lab/tsharkvm |  |
+| `tools/USA/2021/usbsamurai-one-cable-to-pwn-em-all.json` | USBsamurai: One Cable To Pwn'em All | https://github.com/xairy/usb-hacking |  |
+| `tools/USA/2022/exploiting-securing-trains.json` | Exploiting & Securing Trains | https://github.com/LiuYuancheng/Railway_Control-OT-Cyber-Attack |  |
+| `tools/USA/2022/n3xt-g3n-waf-ml-based-waf-with-retraining-and-detainment-through-honeypots.json` | N3XT G3N WAF: ML based WAF with Retraining and Detainment through Honeypots | https://github.com/FA-PengFei/NGWAF |  |
+| `tools/USA/2022/protecting-your-crypto-asset-against-malicious-js-phishing.json` | Protecting your Crypto Asset against Malicious JS Phishing | https://github.com/suiet/guardians |  |
+| `tools/USA/2022/rf-radio-frequency-offensive-and-defense-exercise-server.json` | RF( Radio Frequency ) Offensive and Defense Exercise Server | https://github.com/zeetwii/RFRE |  |
+| `tools/USA/2022/slips-free-software-machine-learning-tool-for-network-intrusion-prevention.json` | Slips: Free Software Machine Learning Tool for Network Intrusion Prevention System | https://github.com/stratosphereips/StratosphereLinuxIPS |  |
+| `tools/USA/2022/wiretapping-tool-to-sniff-packets-directly-from-lan-cables.json` | Wiretapping Tool to Sniff Packets Directly from LAN Cables | https://github.com/bedangSen/Wireshark-Packet-Analysis |  |
+| `tools/USA/2023/find-blind-spots-in-your-security-with-paladin-cloud.json` | Find Blind Spots in Your Security with Paladin Cloud | https://github.com/PaladinCloud/CE |  |
+| `tools/USA/2023/network-monitoring-tools-for-macos.json` | Network Monitoring Tools for macOS | https://github.com/netxms/netxms |  |
+| `tools/USA/2023/puppet-fuzz-discovering-critical-kernel-vulnerabilities-with-innovative-approach.json` | Puppet Fuzz: Discovering Critical Kernel Vulnerabilities with Innovative Approach | https://github.com/wcventure/FuzzingPaper |  |
+| `tools/USA/2023/rulecraftlab-a-detection-rule-development-platform.json` | RuleCraftLab - A Detection Rule Development Platform | https://github.com/elastic/detection-rules |  |
+| `tools/USA/2023/safe-scan-c2-tool.json` | Safe Scan&C2 Tool | https://github.com/c2links/NoWhere2Hide |  |
+| `tools/USA/2023/sshook-a-lightweight-syscall-hooking-tool-for-uncovering-hidden-malicious.json` | SSHook: A Lightweight Syscall Hooking Tool for Uncovering Hidden Malicious Instructions | https://github.com/dgellow/sshooks |  |
+| `tools/USA/2023/swimming-with-the-data-flow-analyzing-visualizing-web-application-data-flows.json` | Swimming with the (Data)Flow – Analyzing & Visualizing Web Application Data Flows for Enhanced Penetration Testing | https://github.com/Azure/SWIMDataIngestion |  |
+| `tools/USA/2024/apeman-the-aws-policy-evaluation-manager.json` | Apeman: The AWS Policy Evaluation Manager | https://github.com/LAC-Japan/Ghidra_AntiDebugSeeker |  |
+| `tools/USA/2024/breaking-barriers-pyfrida-s-simplified-pythonic-approach-to-frida-scripting.json` | Breaking Barriers: PyFrida's Simplified Pythonic Approach to Frida Scripting | https://github.com/hotnops/apeman |  |
+| `tools/USA/2024/ldap-firewall.json` | LDAP Firewall | https://github.com/zeronetworks/ldapfw |  |
+| `tools/USA/2024/moriarty.json` | Moriarty | https://github.com/AzizKpln/Gokboru_Intel |  |
+| `tools/USA/2024/network-monitoring-tools-for-macos.json` | Network Monitoring Tools for macOS | https://github.com/netxms/netxms |  |
+| `tools/USA/2024/network-threat-hunting-with-selks.json` | Network Threat Hunting with SELKS | https://github.com/StamusNetworks/Clear-NDR-ISO |  |
+| `tools/USA/2024/okami-advanced-binary-fingerprinting-for-malware-attribution-and-code-sharing.json` | Ōkami: Advanced Binary Fingerprinting for Malware Attribution and Code Sharing Detection | https://github.com/wolfgangj/okami |  |
+| `tools/USA/2024/opening-the-door-api-key-permission-enumeration.json` | Opening the Door: API Key Permission Enumeration | https://github.com/gh0x0st/OSCP-A-Step-Forward |  |
+| `tools/USA/2024/rf-hacking-on-the-road-logging-tire-sensors.json` | RF Hacking on the Road: Logging Tire Sensors | https://github.com/busydadsec/cyber-labs |  |
+| `tools/USA/2025/all-talk-ai-action-binary-analysis-toolkit-mcp-server.json` | All Talk, AI Action: Binary Analysis Toolkit MCP Server | https://github.com/erew123/alltalk_tts |  |
+| `tools/USA/2025/decompiler-for-harmonyos-next.json` | Decompiler for HarmonyOS NEXT | https://github.com/jd-opensource/arkdecompiler |  |
+| `tools/USA/2025/dumpsieve.json` | Dumpsieve | https://github.com/arthaud/git-dumper |  |
+| `tools/USA/2025/llamafirewall-guardrails-for-controlling-agentic-ai-systems.json` | LlamaFirewall: Guardrails for Controlling Agentic AI Systems | https://github.com/meta-llama/PurpleLlama |  |
+| `tools/USA/2025/metasploit-s-latest-attack-capability-and-workflow-improvements.json` | Metasploit's Latest Attack Capability and Workflow Improvements | https://github.com/mchklt/PFE |  |
+| `tools/USA/2025/tcp-fingerprint-firewall-recon-shield.json` | TCP Fingerprint Firewall / Recon Shield | https://github.com/NikolaiT/zardaxt |  |
+| `tools/USA/2026/crowdsentinel-ai-orchestrated-threat-hunting-across-unified-security-data.json` | CrowdSentinel: AI-Orchestrated Threat Hunting Across Unified Security Data Sources | https://github.com/thomasxm/CrowdSentinels-AI-MCP |  |
+| `tools/USA/2026/medaudit-an-ai-assisted-tool-for-auditing-hospital-networks-and-pentesting.json` | Medaudit, an AI assisted Tool for Auditing Hospital Networks and Pentesting Medical Devices | https://github.com/anirudhduggal/medaudit2 |  |
+| `tools/USA/2026/practical-ransomware-detection-on-macos-via-math-not-ai.json` | Practical Ransomware Detection on macOS (via Math, not AI) | https://github.com/objective-see/RansomWhere |  |
+| `tools/USA/2026/quicdraw-quicdraw-ui-racing-and-fuzzing-http-3.json` | QuicDraw & QuicDraw-UI: Racing and Fuzzing HTTP/3 | https://github.com/cyberark/QuicDrawH3 |  |
 
 ## user/org page whose name doesn't match the tool (21)
 
 | File | Tool | URL | Note |
 |---|---|---|---|
-| `tools/Asia/2015/SecPod Saner.json` | SecPod Saner | https://github.com/IamPreethi-S |  |
-| `tools/Asia/2017/NAD - A Tool for Performing Dynamic Runtime Analys.json` | NAD - A Tool for Performing Dynamic Runtime Analysis of Android Functions | https://github.com/hahnlee |  |
-| `tools/Asia/2018/Horus - Binary Library Security Scanning Engine.json` | Horus - Binary Library Security Scanning Engine | https://github.com/projecthorus |  |
-| `tools/Asia/2023/N3XT G3N WAF 2.0.json` | N3XT G3N WAF 2.0 | https://github.com/nxg-org |  |
-| `tools/Asia/2024/Connect to any device from anywhere with ZERO OPEN.json` | Connect to any device from anywhere with ZERO OPEN NETWORK PORTS | https://github.com/cconstab |  |
-| `tools/Asia/2025/Falco Action to the Rescue.json` | Falco Action to the Rescue | https://github.com/falcosecurity |  |
-| `tools/Canada/2023/!CVE_ A New Platform for Unacknowledged Cybersecur.json` | !CVE: A New Platform for Unacknowledged Cybersecurity !Vulnerabilities | https://github.com/cveproject |  |
-| `tools/Canada/2023/Attack & Defence AppSec Wargame.json` | Attack & Defence AppSec Wargame | https://github.com/pi3ch |  |
-| `tools/Canada/2023/Enhancing Vulnerability Research through the Use o.json` | Enhancing Vulnerability Research through the Use of Virtual Reality Workspaces | https://github.com/datalocaltmp |  |
-| `tools/Canada/2024/Zentaris Attack Path Risk Categorization Using Hyp.json` | Zentaris Attack Path Risk Categorization Using Hypergraphs | https://github.com/zetafence |  |
-| `tools/Europe/2018/PandaWar_ Hardware Security Multidimensional Attac.json` | PandaWar: Hardware Security Multidimensional Attack and Defense Toolset | https://github.com/Ming-Qin-tech |  |
-| `tools/Europe/2019/Mobile-ADSheild_ Attack Automatic Analysis and Int.json` | Mobile-ADSheild: Attack Automatic Analysis and Interception Engine in Mobile App | https://github.com/ad-shield |  |
-| `tools/Europe/2021/Packet Carving for SATCOMs Hackers.json` | Packet Carving for SATCOMs Hackers | https://github.com/pavja2 |  |
-| `tools/Europe/2023/!CVE_ A New Platform for Unacknowledged Cybersecur.json` | !CVE: A New Platform for Unacknowledged Cybersecurity !Vulnerabilities | https://github.com/cveproject |  |
-| `tools/Europe/2023/OpenSecDevOps (OSDO).json` | OpenSecDevOps (OSDO) | https://github.com/opendevsecops |  |
-| `tools/USA/2017/YALDA –AUTOMATED BULK INTELLIGENCE COLLECTION.json` | YALDA –AUTOMATED BULK INTELLIGENCE COLLECTION | https://github.com/gitaziabari |  |
-| `tools/USA/2018/BTA.json` | BTA | https://github.com/Better-than-Adventure |  |
-| `tools/USA/2019/The Go Reverse Engineering Tool Kit.json` | The Go Reverse Engineering Tool Kit | https://github.com/goretk |  |
-| `tools/USA/2022/Amini Project.json` | Amini Project | https://github.com/AminiTech |  |
-| `tools/USA/2024/VishLine.json` | VishLine | https://github.com/vizlib |  |
-| `tools/USA/2025/Realtic.json` | Realtic | https://github.com/Realtek-OpenSource |  |
+| `tools/Asia/2015/secpod-saner.json` | SecPod Saner | https://github.com/IamPreethi-S |  |
+| `tools/Asia/2017/nad-a-tool-for-performing-dynamic-runtime-analysis-of-android-functions.json` | NAD - A Tool for Performing Dynamic Runtime Analysis of Android Functions | https://github.com/hahnlee |  |
+| `tools/Asia/2018/horus-binary-library-security-scanning-engine.json` | Horus - Binary Library Security Scanning Engine | https://github.com/projecthorus |  |
+| `tools/Asia/2023/n3xt-g3n-waf-2-0.json` | N3XT G3N WAF 2.0 | https://github.com/nxg-org |  |
+| `tools/Asia/2024/connect-to-any-device-from-anywhere-with-zero-open-network-ports.json` | Connect to any device from anywhere with ZERO OPEN NETWORK PORTS | https://github.com/cconstab |  |
+| `tools/Asia/2025/falco-action-to-the-rescue.json` | Falco Action to the Rescue | https://github.com/falcosecurity |  |
+| `tools/Canada/2023/attack-defence-appsec-wargame.json` | Attack & Defence AppSec Wargame | https://github.com/pi3ch |  |
+| `tools/Canada/2023/cve-a-new-platform-for-unacknowledged-cybersecurity-vulnerabilities.json` | !CVE: A New Platform for Unacknowledged Cybersecurity !Vulnerabilities | https://github.com/cveproject |  |
+| `tools/Canada/2023/enhancing-vulnerability-research-through-the-use-of-virtual-reality-workspaces.json` | Enhancing Vulnerability Research through the Use of Virtual Reality Workspaces | https://github.com/datalocaltmp |  |
+| `tools/Canada/2024/zentaris-attack-path-risk-categorization-using-hypergraphs.json` | Zentaris Attack Path Risk Categorization Using Hypergraphs | https://github.com/zetafence |  |
+| `tools/Europe/2018/pandawar-hardware-security-multidimensional-attack-and-defense-toolset.json` | PandaWar: Hardware Security Multidimensional Attack and Defense Toolset | https://github.com/Ming-Qin-tech |  |
+| `tools/Europe/2019/mobile-adsheild-attack-automatic-analysis-and-interception-engine-in-mobile-app.json` | Mobile-ADSheild: Attack Automatic Analysis and Interception Engine in Mobile App | https://github.com/ad-shield |  |
+| `tools/Europe/2021/packet-carving-for-satcoms-hackers.json` | Packet Carving for SATCOMs Hackers | https://github.com/pavja2 |  |
+| `tools/Europe/2023/cve-a-new-platform-for-unacknowledged-cybersecurity-vulnerabilities.json` | !CVE: A New Platform for Unacknowledged Cybersecurity !Vulnerabilities | https://github.com/cveproject |  |
+| `tools/Europe/2023/opensecdevops-osdo.json` | OpenSecDevOps (OSDO) | https://github.com/opendevsecops |  |
+| `tools/USA/2017/yalda-automated-bulk-intelligence-collection.json` | YALDA –AUTOMATED BULK INTELLIGENCE COLLECTION | https://github.com/gitaziabari |  |
+| `tools/USA/2018/bta.json` | BTA | https://github.com/Better-than-Adventure |  |
+| `tools/USA/2019/the-go-reverse-engineering-tool-kit.json` | The Go Reverse Engineering Tool Kit | https://github.com/goretk |  |
+| `tools/USA/2022/amini-project.json` | Amini Project | https://github.com/AminiTech |  |
+| `tools/USA/2024/vishline.json` | VishLine | https://github.com/vizlib |  |
+| `tools/USA/2025/realtic.json` | Realtic | https://github.com/Realtek-OpenSource |  |
 
 ## repo not found (404) (14)
 
 | File | Tool | URL | Note |
 |---|---|---|---|
-| `tools/Asia/2021/SniperPhish_ The Web-Email Spear Phishing Toolkit.json` | SniperPhish: The Web-Email Spear Phishing Toolkit | https://github.com/GemGeorge/SniperPhish |  |
-| `tools/Asia/2022/Rate Unlimiter.json` | Rate Unlimiter | https://github.com/Anirban-Majumder/rate-unlimiter |  |
-| `tools/Canada/2023/Artificial Intelligence Phishing Email Detector.json` | Artificial Intelligence Phishing Email Detector | https://github.com/Click2Hack/Phishing-Email-Detection-Using-Machine-Learning |  |
-| `tools/Canada/2023/Security Attacks as Software Tests_ Building dev-o.json` | Security Attacks as Software Tests: Building dev-oriented AppSec challenges with Play open source SDK | https://github.com/CreateWithPlayApp/PlaySDK |  |
+| `tools/Asia/2021/sniperphish-the-web-email-spear-phishing-toolkit.json` | SniperPhish: The Web-Email Spear Phishing Toolkit | https://github.com/GemGeorge/SniperPhish |  |
+| `tools/Asia/2022/rate-unlimiter.json` | Rate Unlimiter | https://github.com/Anirban-Majumder/rate-unlimiter |  |
+| `tools/Canada/2023/artificial-intelligence-phishing-email-detector.json` | Artificial Intelligence Phishing Email Detector | https://github.com/Click2Hack/Phishing-Email-Detection-Using-Machine-Learning |  |
+| `tools/Canada/2023/security-attacks-as-software-tests-building-dev-oriented-appsec-challenges-with.json` | Security Attacks as Software Tests: Building dev-oriented AppSec challenges with Play open source SDK | https://github.com/CreateWithPlayApp/PlaySDK |  |
 | `tools/Canada/2025/farsight.json` | FARSIGHT | https://github.com/seedon198/Farsight |  |
-| `tools/Europe/2019/Backoori_ Tool Aided Persistence via Windows URI S.json` | Backoori: Tool Aided Persistence via Windows URI Schemes Abuse | https://github.com/giuliocomi/backoori |  |
-| `tools/Europe/2022/Defascan_ Defacement Scan and Alert.json` | Defascan: Defacement Scan and Alert | https://github.com/ramxtha/defascan |  |
-| `tools/Europe/2023/Artificial Intelligence Phishing Email Detector.json` | Artificial Intelligence Phishing Email Detector | https://github.com/Click2Hack/Phishing-Email-Detection-Using-Machine-Learning |  |
-| `tools/Europe/2023/Security Attacks as Software Tests_ Building dev-o.json` | Security Attacks as Software Tests: Building dev-oriented AppSec challenges with Play open source SDK | https://github.com/CreateWithPlayApp/PlaySDK |  |
+| `tools/Europe/2019/backoori-tool-aided-persistence-via-windows-uri-schemes-abuse.json` | Backoori: Tool Aided Persistence via Windows URI Schemes Abuse | https://github.com/giuliocomi/backoori |  |
+| `tools/Europe/2022/defascan-defacement-scan-and-alert.json` | Defascan: Defacement Scan and Alert | https://github.com/ramxtha/defascan |  |
+| `tools/Europe/2023/artificial-intelligence-phishing-email-detector.json` | Artificial Intelligence Phishing Email Detector | https://github.com/Click2Hack/Phishing-Email-Detection-Using-Machine-Learning |  |
+| `tools/Europe/2023/security-attacks-as-software-tests-building-dev-oriented-appsec-challenges-with.json` | Security Attacks as Software Tests: Building dev-oriented AppSec challenges with Play open source SDK | https://github.com/CreateWithPlayApp/PlaySDK |  |
 | `tools/MEA/2025/falconeye.json` | FalconEye | https://github.com/FalconEYE-ai/FalconEYE |  |
-| `tools/USA/2017/HASHVIEW.json` | HASHVIEW | https://github.com/hashview/hashview-old |  |
-| `tools/USA/2019/AutoMacTC_ Finding Worms in Apple Orchards - Using.json` | AutoMacTC: Finding Worms in Apple Orchards - Using AutoMacTC for macOS Incident Response | https://github.com/crowdstrike/automactc |  |
-| `tools/USA/2020/FuzzCube.json` | FuzzCube | https://github.com/FuzzCube/FuzzCube |  |
-| `tools/USA/2026/PwnSat 2.0_ The Vulnerable Satellite Hacking Platform for Learning Through Research.json` | PwnSat 2.0: The Vulnerable Satellite Hacking Platform for Learning Through Research | https://github.com/r0r0x-xx/PwnSat-2.0 |  |
+| `tools/USA/2017/hashview.json` | HASHVIEW | https://github.com/hashview/hashview-old |  |
+| `tools/USA/2019/automactc-finding-worms-in-apple-orchards-using-automactc-for-macos-incident.json` | AutoMacTC: Finding Worms in Apple Orchards - Using AutoMacTC for macOS Incident Response | https://github.com/crowdstrike/automactc |  |
+| `tools/USA/2020/fuzzcube.json` | FuzzCube | https://github.com/FuzzCube/FuzzCube |  |
+| `tools/USA/2026/pwnsat-2-0-the-vulnerable-satellite-hacking-platform-for-learning-through.json` | PwnSat 2.0: The Vulnerable Satellite Hacking Platform for Learning Through Research | https://github.com/r0r0x-xx/PwnSat-2.0 |  |

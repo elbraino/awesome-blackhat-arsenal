@@ -1,0 +1,14 @@
+{
+  "Tool Name": "EMBArk – Firmware Analysis for the Enterprise",
+  "Description": "EMBArk is a web-based enterprise front end for automated firmware security analysis, letting teams upload, analyse, track, and report on firmware vulnerabilities from a central system. It supports both single-host and distributed analysis across worker nodes, and exposes a web UI, CLI, and API so results integrate into larger supply chain workflows. The platform lets organisations verify vendor security claims for anything from a simple IoT gadget to a multi-system factory solution.",
+  "Github URL": "https://github.com/e-m-b-a/embark",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Benedikt Kuehne",
+    "Michael Messner"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

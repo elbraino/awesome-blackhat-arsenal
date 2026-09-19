@@ -1,0 +1,15 @@
+{
+  "Tool Name": "EmoLoad: Loading Emotet Modules without Emotet",
+  "Description": "A tool that executes Emotet botnet modules in isolation for security research, allocating required data structures and invoking custom entry points to enable analysis tasks like debugging and network activity monitoring without infecting the host.",
+  "Github URL": "https://github.com/vmware-labs/emotet-loader",
+  "Tracks": [
+    "Malware Offense",
+    "Reverse Engineering"
+  ],
+  "Speakers": [
+    "Oleg Boyarchuk",
+    "Stefano Ortolani"
+  ],
+  "Year": "2022",
+  "Location": "Europe"
+}

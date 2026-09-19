@@ -1,0 +1,13 @@
+{
+  "Tool Name": ".NET Unpacking: When Frida Gets the JIT out of It",
+  "Description": "Frida-based tool that hooks the .NET JIT compiler to dump the original IL of packed or obfuscated .NET assemblies as their methods are compiled, so protected samples can be unpacked at runtime without a static unpacker.",
+  "Github URL": "https://github.com/imperva/frida-jit-unpacker",
+  "Tracks": [
+    "Reverse Engineering"
+  ],
+  "Speakers": [
+    "Yohann Sillam"
+  ],
+  "Year": "2024",
+  "Location": "Asia"
+}

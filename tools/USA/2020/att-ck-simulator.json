@@ -1,0 +1,15 @@
+{
+  "Tool Name": "ATT&CK Simulator",
+  "Description": "This project provides a set of tooling for repeatedly executing and detecting adversary techniques in order to improve detection engineering. This project uses the MITRE ATT&CK Enterprise techniques taxonomy and the MITRE ATT&CK navigator web app. Once set up, you will be able to repeatedly execute specific techniques, observe the resulting events, and refine your detection rules and methodology.",
+  "Github URL": "https://github.com/timfrazier1/AdversarySimulation",
+  "Tracks": [
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Tim Frazier",
+    "Dave Herrald",
+    "Kyle Champlin"
+  ],
+  "Year": "2020",
+  "Location": "USA"
+}

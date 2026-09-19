@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Scammer Detector (NFT Scam Activities Monitoring)",
+  "Description": "We protect NFT users and the community from spam, scam and phishing attacks. In this context, we provide this with 4 main modules. (SpamEye, SpamPolice, ScamNotify, and BroExt)",
+  "Github URL": "https://github.com/wiringbits/discord-scammer-detector-bot",
+  "Tracks": [
+    "Data Forensics/Incident Response",
+    "OSINT - Open Source Intelligence"
+  ],
+  "Speakers": [
+    "Seyfullah KILIÇ",
+    "Besim ALTINOK"
+  ],
+  "Year": "2022",
+  "Location": "Europe"
+}

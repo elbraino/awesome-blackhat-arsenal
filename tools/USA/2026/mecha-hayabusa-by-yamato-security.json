@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Mecha Hayabusa by Yamato Security",
+  "Description": "Mecha Hayabusa is a Model Context Protocol server that connects the Windows event log analysis tool Hayabusa to large language models for natural-language digital forensics and threat hunting. It converts CSV-based Hayabusa timelines into a local DuckDB database and exposes structured investigation capabilities, letting an LLM run a full DFIR workflow from dataset triage and hypothesis development through attack-phase analysis, lateral movement correlation, and structured incident report generation.",
+  "Github URL": "https://github.com/Yamato-Security/mecha-hayabusa",
+  "Tracks": [
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "Tanaka Zakku",
+    "Akira Nishikawa",
+    "PINK"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

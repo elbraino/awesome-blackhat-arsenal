@@ -1,0 +1,14 @@
+{
+  "Tool Name": "ROP ROCKET: Advanced Framework for Return-Oriented Programming",
+  "Description": "An advanced code-reuse attack framework with extensive ROP chain generation capabilities, designed to automate the creation of return-oriented programming exploits.",
+  "Github URL": "https://github.com/bw3ll/rop_rocket",
+  "Tracks": [
+    "Exploitation and Ethical Hacking",
+    "Reverse Engineering"
+  ],
+  "Speakers": [
+    "Bramwell Brizendine"
+  ],
+  "Year": "2023",
+  "Location": "Europe"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "StegoScan",
+  "Description": "StegoScan automates steganography detection across websites, web servers, and local directories, combining multiple steganalysis techniques with AI-driven object and text recognition. A single command can sweep entire domains or IP ranges, scraping and deeply extracting a wide range of file formats before running layered tests — in one case recovering a message hidden in an image embedded in a PDF linked from the original page. AI models improve text recovery from media degraded by noise, distortion, or unconventional fonts.",
+  "Github URL": "https://github.com/LCBOWER33/StegoScan",
+  "Tracks": [
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "Luke Bower"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

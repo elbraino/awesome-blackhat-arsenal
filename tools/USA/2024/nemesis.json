@@ -1,0 +1,16 @@
+{
+  "Tool Name": "Nemesis",
+  "Description": "Nemesis is an offensive data enrichment pipeline and operator support system. It ingests data from a variety of different offensive C2 frameworks and performs a number of automations and analytics on both downloaded files and different types of collected data. It aims to automate a number of repetitive tasks operators encounter on engagements, empower operators' analytic capabilities and collective knowledge, and create structured and unstructured data stores of as much operational data as possible to help guide future research and facilitate offensive data analysis.",
+  "Github URL": "https://github.com/SpecterOps/Nemesis",
+  "Tracks": [
+    "Malware Offense",
+    "Network Attacks"
+  ],
+  "Speakers": [
+    "Will Schroeder",
+    "Lee Chagolla-Christensen",
+    "Maxwell Harley"
+  ],
+  "Year": "2024",
+  "Location": "USA"
+}

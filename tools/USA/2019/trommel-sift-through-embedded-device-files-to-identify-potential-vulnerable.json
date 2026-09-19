@@ -1,0 +1,13 @@
+{
+  "Tool Name": "TROMMEL: Sift Through Embedded Device Files to Identify Potential Vulnerable Indicators",
+  "Description": "TROMMEL sifts through embedded device files to identify potential vulnerable indicators. TROMMEL significantly lessens the manual analysis time of the researcher by automating much of the vulnerability discovery and analysis process.",
+  "Github URL": "https://github.com/CERTCC/trommel",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Kyle O'Meara"
+  ],
+  "Year": "2019",
+  "Location": "USA"
+}

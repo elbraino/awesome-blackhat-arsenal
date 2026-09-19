@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Catsniffer",
+  "Description": "A multiprotocol IoT security device in a portable USB stick form factor that enables sniffing, communicating, and attacking IoT devices across LoRa, Sub-1 GHz, and 2.4 GHz bands using protocols like Zigbee, Thread, and Bluetooth Low Energy.",
+  "Github URL": "https://github.com/ElectronicCats/CatSniffer",
+  "Tracks": [
+    "Arsenal Lab",
+    "Internet Of Things"
+  ],
+  "Speakers": [
+    "Paulino Calderon",
+    "Eduardo Contreras"
+  ],
+  "Year": "2024",
+  "Location": "Asia"
+}

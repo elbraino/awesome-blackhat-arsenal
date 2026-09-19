@@ -33,7 +33,8 @@ steps = [
     ("📊 Step 4: Predicting Categories with LLM", "python arsenal-builder/CategoryPredicter.py"),
     ("🔗 Step 5: Finding GitHub URLs", "python arsenal-builder/add_github_urls.py"),
     ("📁 Step 6: Flattening Folder Structure (Optional)", f"python flatten_tool_files.py {REGION}"),
-    ("✅ Step 7: Validating tool files", "python scripts/validate.py"),
+    ("🧹 Step 7: Normalizing tool files", "python scripts/normalize.py"),
+    ("✅ Step 7b: Validating tool files", "python scripts/validate.py"),
     ("📝 Step 8: Generating Final README Files", "python AutoReadme.py")
 ]
 

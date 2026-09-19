@@ -1,0 +1,13 @@
+{
+  "Tool Name": "JTAGulator: Assisted Discovery of On-Chip Debug Interfaces",
+  "Description": "An open-source hardware tool that assists in identifying on-chip debug (OCD) interfaces such as JTAG and UART from test points on electronic devices.",
+  "Github URL": "https://github.com/grandideastudio/jtagulator",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Joe Grand"
+  ],
+  "Year": "2020",
+  "Location": "Europe"
+}

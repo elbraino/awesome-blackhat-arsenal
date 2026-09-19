@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Pwnppeteer - Phishing Post {Exploi/Automa}tion at Scale",
+  "Description": "An AWS Lambda-based tool that uses Puppeteer and headless Chromium to automate phishing post-exploitation tasks at scale in a serverless environment, deploying via the Serverless Framework.",
+  "Github URL": "https://github.com/muraenateam/pwnppeteer",
+  "Tracks": [
+    "Human Factors"
+  ],
+  "Speakers": [
+    "Joffrey Czarny"
+  ],
+  "Year": "2022",
+  "Location": "Asia"
+}

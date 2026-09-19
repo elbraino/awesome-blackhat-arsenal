@@ -8,5 +8,6 @@
 
 - [ ] Tool JSON lives at `tools/<Region>/<Year>/<Tool Name>.json` and follows the format in [CONTRIBUTING.md](../CONTRIBUTING.md)
 - [ ] `Tracks` only uses names from the list in CONTRIBUTING.md
+- [ ] `python3 scripts/normalize.py` was run (canonical key order and file name)
 - [ ] `python3 scripts/validate.py` reports 0 errors
 - [ ] `python3 AutoReadme.py` was run and the regenerated README files are included in this PR

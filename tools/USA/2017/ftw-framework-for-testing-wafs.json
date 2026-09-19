@@ -1,0 +1,14 @@
+{
+  "Tool Name": "FTW: FRAMEWORK FOR TESTING WAFS",
+  "Description": "FTW is designed to be a comprehensive test suite to help provide rigorous tests for WAF rules. It uses the OWASP Core Ruleset V3 as a baseline to test rules on for various WAFs. It is designed to: Find regressions in WAF deployments by using continuous integration and issuing repeatable attacks against a WAF Provide a testing framework for new rules into the Core Rule Set, if a rule is submitted it MUST have corresponding positive & negative tests Evaluate WAFs against a common, agreeable baseline ruleset (OWASP) Test and verify custom rules for WAFs that are not leveraging the core rule set",
+  "Github URL": "https://github.com/coreruleset/ftw",
+  "Tracks": [
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Chaim Sanders",
+    "Zack Allen"
+  ],
+  "Year": "2017",
+  "Location": "USA"
+}

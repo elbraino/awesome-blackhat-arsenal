@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Falco Action to the Rescue",
+  "Description": "Falco Action integrates the Falco runtime security engine into GitHub Actions workflows to detect supply chain attacks during CI/CD execution. It monitors system calls and process behavior within workflow runners, identifying malicious activities such as secret exfiltration, unauthorized network connections, and tampered build artifacts.",
+  "Github URL": "https://github.com/falcosecurity",
+  "Tracks": [
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "Stefano Chierici",
+    "Lorenzo Susini"
+  ],
+  "Year": "2025",
+  "Location": "Asia"
+}

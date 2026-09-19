@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Penelope shell handler",
+  "Description": "An advanced shell handler designed as a modern replacement for netcat during reverse shell exploitation, simplifying and optimizing post-exploitation workflows.",
+  "Github URL": "https://github.com/brightio/penelope",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Christodoulos Lamprinos",
+    "Carlos Marquez"
+  ],
+  "Year": "2024",
+  "Location": "Europe"
+}

@@ -1,0 +1,14 @@
+{
+  "Tool Name": "ChainAlert: Alert Developers and Open Source Maintainers of Potential Supply Chain Attacks and Suspicious Package Release",
+  "Description": "A free monitoring service that scans popular packages and alerts maintainers and dependent projects of potential supply chain attacks by automatically opening GitHub issues when suspicious activity is detected on their dependencies.",
+  "Github URL": "https://github.com/checkmarx/chainalert-github-action",
+  "Tracks": [
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Lior Kaplan",
+    "Jossef Harush"
+  ],
+  "Year": "2022",
+  "Location": "Asia"
+}

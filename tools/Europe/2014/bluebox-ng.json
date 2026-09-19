@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Bluebox-ng",
+  "Description": "Bluebox-ng is a GPL VoIP/UC vulnerability scanner written using Node.js powers. My two cents is to improve security practices in these environments and to make Node.js still more awesome. During this conference, the first stable version (v0.1.0) will be presented with some bugs fixed and these cool features:- Auto VoIP/UC penetration test- Report generation- Performance enhancements",
+  "Github URL": "https://github.com/damianfral/bluebox-ng-gsick",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Jesús Pérez"
+  ],
+  "Year": "2014",
+  "Location": "Europe"
+}

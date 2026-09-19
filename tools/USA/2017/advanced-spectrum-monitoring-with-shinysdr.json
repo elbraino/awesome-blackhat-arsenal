@@ -1,0 +1,14 @@
+{
+  "Tool Name": "ADVANCED SPECTRUM MONITORING WITH SHINYSDR",
+  "Description": "ShinySDR is an advanced spectrum monitoring and analysis tool that allows us to monitor wide frequency ranges at high speed, while also drilling down in to interesting signals for real time analysis. These features are supplemented by OSINT data from regulatory bodies around the world. This is the tool that we are releasing as part of our \"What's on the Wireless? Automating RF Signal Identification.”",
+  "Github URL": "https://github.com/kpreid/shinysdr",
+  "Tracks": [
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Dominic Spill",
+    "Michael Ossmann"
+  ],
+  "Year": "2017",
+  "Location": "USA"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Information Disclosure in Facebook Graph Api with A.T.H.O.S",
+  "Description": "The Graph API is the primary way that data is retrieved or posted to Facebook. The Getting Started Guide contains an overview of the basics of the API, walks you through using the Graph API Explorer, shows you how names work, how permissions work, what connections are and puts it all together so the rest of this reference make sense.",
+  "Github URL": "https://github.com/maurobonfietti/api-graph-facebook",
+  "Tracks": [
+    "OSINT - Open Source Intelligence"
+  ],
+  "Speakers": [
+    "Michael Hudson"
+  ],
+  "Year": "2013",
+  "Location": "USA"
+}

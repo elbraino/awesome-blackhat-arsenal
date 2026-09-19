@@ -1,0 +1,13 @@
+{
+  "Tool Name": "ModSecurity",
+  "Description": "ModSecurity is an open source, cross-platform web application firewall (WAF) module. Known as the \"Swiss Army Knife\" of WAFs, it enables web application defenders to gain visibility into HTTP(S) traffic and provides a power rules language and API to implement advanced protections. Come checkout the new advancements in ModSecurity and try some hands-on evasion challenges!",
+  "Github URL": "https://github.com/owasp-modsecurity/ModSecurity",
+  "Tracks": [
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Ryan Barnett"
+  ],
+  "Year": "2014",
+  "Location": "USA"
+}

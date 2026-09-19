@@ -1,0 +1,13 @@
+{
+  "Tool Name": "DYODE - A DIY Low-Cost Data Diode for ICS",
+  "Description": "DYODE (Do Your Own Dyode) is a low cost, DIY data diode aimed at securing Industrial Control Systems. While data diodes have been used for a long time on classified networks, the high cost and complexity of implementation have kept them away from a lot of valid use cases on industrial control systems. During our assignments, we encountered many situations in which time or availability constraints were not really high -but the security risk was- and a commercial data diode way too costly.",
+  "Github URL": "https://github.com/wavestone-cdt/dyode",
+  "Tracks": [
+    "Smart Grid/Industrial Security"
+  ],
+  "Speakers": [
+    "Arnaud Soullié"
+  ],
+  "Year": "2017",
+  "Location": "Europe"
+}

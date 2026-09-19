@@ -1,0 +1,13 @@
+{
+  "Tool Name": "ARSENAL LAB - ICU-ICS: An ICS Assessment Framework Tool",
+  "Description": "ICU-ICS is an Industrial Control Systems (ICS) assessment framework tool designed to help security professionals evaluate and test the security posture of ICS and SCADA environments.",
+  "Github URL": "https://github.com/unicode-org/icu",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Jeff Gellner"
+  ],
+  "Year": "2019",
+  "Location": "USA"
+}

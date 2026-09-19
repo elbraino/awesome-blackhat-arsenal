@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Wiretapping Tool to Sniff Packets Directly from LAN Cables",
+  "Description": "Wiretapping tool to sniff packets directly from LAN cables",
+  "Github URL": "https://github.com/bedangSen/Wireshark-Packet-Analysis",
+  "Tracks": [
+    "Hardware/Embedded",
+    "Network Attacks"
+  ],
+  "Speakers": [
+    "Michihiro Imaoka"
+  ],
+  "Year": "2022",
+  "Location": "USA"
+}

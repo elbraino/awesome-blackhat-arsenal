@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Attack & Defence AppSec Wargame",
+  "Description": "SecDim Play is an open training game and toolkit for constructing security challenges covering AppSec, DevSecOps, and CloudSec. It provides a hands-on interactive platform for application security professionals to practice attack and defence scenarios.",
+  "Github URL": "https://github.com/pi3ch",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Pedram Hayati"
+  ],
+  "Year": "2023",
+  "Location": "Canada"
+}

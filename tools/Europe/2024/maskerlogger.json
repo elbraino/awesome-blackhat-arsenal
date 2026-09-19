@@ -1,0 +1,15 @@
+{
+  "Tool Name": "MaskerLogger",
+  "Description": "A Python logging formatter that automatically masks sensitive information with asterisks before output, preventing accidental exposure of secrets in application logs.",
+  "Github URL": "https://github.com/oxsecurity/MaskerLogger",
+  "Tracks": [
+    "Web AppSec",
+    "Code Assessment"
+  ],
+  "Speakers": [
+    "Eyal Paz",
+    "Tamar Galer"
+  ],
+  "Year": "2024",
+  "Location": "Europe"
+}

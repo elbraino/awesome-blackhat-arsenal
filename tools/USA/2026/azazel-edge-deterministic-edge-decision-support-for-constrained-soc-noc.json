@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Azazel-Edge : Deterministic Edge Decision Support for Constrained SOC/NOC Operations",
+  "Description": "Azazel-Edge is a deterministic edge decision appliance for small, temporary, or rapidly deployed networks where defenders work with limited infrastructure, staff, and connectivity. It evaluates operational reliability and security threat context separately, resolves them through a deterministic action arbiter, and records selected evidence, rejected alternatives, and structured explanation. Optional AI assistance is confined to operator support and never participates in action selection, targeting disaster response, field operations, and isolated networks.",
+  "Github URL": "https://github.com/01rabbit/Azazel-Edge",
+  "Tracks": [
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Makoto \"Mr. Rabbit\" SUGITA"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

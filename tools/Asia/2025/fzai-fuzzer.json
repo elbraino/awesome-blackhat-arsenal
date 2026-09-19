@@ -1,0 +1,14 @@
+{
+  "Tool Name": "FZAI Fuzzer",
+  "Description": "FuzzyAI is an open-source LLM fuzzer by CyberArk that systematically tests and disrupts AI model safety alignments to discover guardrail bypass techniques. It probes language models with adversarial inputs to identify weaknesses in content filtering and alignment mechanisms, helping improve LLM security.",
+  "Github URL": "https://github.com/cyberark/FuzzyAI",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Eran Shimony",
+    "Shai Dvash"
+  ],
+  "Year": "2025",
+  "Location": "Asia"
+}

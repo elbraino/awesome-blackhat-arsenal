@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Blue Pigeon: Bluetooth-Based Data Exfiltration and Proxy Tool for Red Teamers",
+  "Description": "Blue Pigeon is a Bluetooth-based data exfiltration and proxy tool that enables communication between a remote C2 server and a compromised host, using an Android phone as an intermediary to bypass traditional network monitoring.",
+  "Github URL": "https://github.com/bluepigeonproject/blue-pigeon",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Chia Hui Mah",
+    "Jing Loon Goh",
+    "Kang Hao Leng"
+  ],
+  "Year": "2021",
+  "Location": "USA"
+}

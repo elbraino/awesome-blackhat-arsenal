@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Magpie: An Open Source CSPM Built to Scale",
+  "Description": "An open-source Cloud Security Posture Management (CSPM) tool designed to help organizations discover, inventory, and assess the security configuration of their cloud resources at scale.",
+  "Github URL": "https://github.com/blinue/magpie",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Mark Curphey",
+    "Jason Nichols"
+  ],
+  "Year": "2021",
+  "Location": "USA"
+}

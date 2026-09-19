@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Cluster Fuzz, Introduction to Car Hacking With Real Car Hardware",
+  "Description": "A scalable fuzzing infrastructure that finds security and stability issues in software. It powers Google OSS-Fuzz and enables automated vulnerability detection across open-source projects.",
+  "Github URL": "https://github.com/google/clusterfuzz",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Ian Tabor"
+  ],
+  "Year": "2021",
+  "Location": "Europe"
+}

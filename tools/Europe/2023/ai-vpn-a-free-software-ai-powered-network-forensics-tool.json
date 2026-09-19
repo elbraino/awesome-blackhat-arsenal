@@ -1,0 +1,15 @@
+{
+  "Tool Name": "AI VPN: A Free-Software AI-Powered Network Forensics Tool",
+  "Description": "An AI-powered VPN system that protects users by automatically verifying network traffic with machine learning-based detection to block threats and prevent dangerous privacy leaks.",
+  "Github URL": "https://github.com/stratosphereips/AIVPN",
+  "Tracks": [
+    "Network Defense",
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "Veronica Valeros",
+    "Sebastian Garcia"
+  ],
+  "Year": "2023",
+  "Location": "Europe"
+}

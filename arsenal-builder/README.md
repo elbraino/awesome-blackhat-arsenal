@@ -5,8 +5,9 @@ under `tools/<Region>/<Year>/`. The final steps are always the same and run from
 the **repo root**:
 
 ```bash
+python3 scripts/normalize.py    # canonical key order, formatting and file names
 python3 scripts/validate.py     # must report 0 errors
-python3 AutoReadme.py           # regenerates README.md and every tools/<Region>/<Year>/README.md
+python3 AutoReadme.py           # regenerates every README, the indexes and tools.json/csv
 ```
 
 ## Setup
@@ -35,7 +36,7 @@ example — copy and adapt these for the next event:
 | 2. Dedupe sessions, normalize tracks, write one JSON per tool | `build_usa_2026.py` | `../tools/USA/2026/*.json` |
 | 3. Find candidate GitHub repos via the GitHub search API | `gh_candidates.py` | `Data/USA/us-26_gh_candidates.json` |
 | 4. Write the manually verified URLs and descriptions | `apply_usa_2026_urls.py`, `apply_usa_2026_descriptions.py` | updates `../tools/USA/2026/*.json` |
-| 5. Validate + regenerate | `scripts/validate.py`, `AutoReadme.py` (repo root) | READMEs |
+| 5. Normalize, validate, regenerate | `scripts/normalize.py`, `scripts/validate.py`, `AutoReadme.py` (repo root) | canonical files, READMEs, indexes, data |
 
 Track names must be one of the 20 listed in [CONTRIBUTING.md](../CONTRIBUTING.md);
 `build_usa_2026.py` shows how to map the drifting names on the BH site to them.
@@ -53,7 +54,7 @@ folder hard-coded near the top or bottom of the file — set it before running.*
 | 4 | `CategoryPredicter.py` | optional LLM track prediction |
 | 5 | `add_github_urls.py` | Serper search for a GitHub URL per tool; does a HEAD check |
 | 6 | `flatten_tool_files.py <Region>` (repo root) | strips the `0001_` prefixes and moves files into `tools/<Region>/<Year>/` |
-| 7–8 | `scripts/validate.py`, `AutoReadme.py` (repo root) | |
+| 7–8 | `scripts/normalize.py`, `scripts/validate.py`, `AutoReadme.py` (repo root) | |
 
 ## Data/
 

@@ -85,8 +85,8 @@ The whole list is available as [`tools.json`](tools.json) and [`tools.csv`](tool
 ## Contributing
 We welcome community contributions to make this list better!
 
-- 📁 Each tool is one JSON file at `tools/{LOCATION}/{YEAR}/<tool name>.json` with: Tool Name, Description, GitHub URL (if available), Tracks, Speakers.
+- 📁 Each tool is one JSON file at `tools/{LOCATION}/{YEAR}/<tool-name-slug>.json` with: Tool Name, Description, GitHub URL (if available), Tracks, Speakers.
 - 📝 Follow [CONTRIBUTING.md](CONTRIBUTING.md) for the format and the list of valid track names.
-- ✅ Run `python3 scripts/validate.py` (must report 0 errors) and `python3 AutoReadme.py` (regenerates every README, index and data file), then open a pull request.
+- ✅ Run `python3 scripts/normalize.py`, `python3 scripts/validate.py` (must report 0 errors) and `python3 AutoReadme.py` (regenerates every README, index and data file), then open a pull request.
 
 > ⚠️ All README files, the indexes and `tools.json`/`tools.csv` are generated — edit the JSON files, not these.

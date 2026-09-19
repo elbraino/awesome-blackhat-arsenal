@@ -1,6 +1,7 @@
 {
   "Tool Name": "sql-data-guard",
   "Description": "SQL Data Guard is a safety layer for LLM-to-database interactions that validates and rewrites SQL queries to enforce access restrictions and block injection payloads. It intercepts LLM-generated SQL, applies schema-aware policies, and ensures only safe, compliant queries reach database services.",
+  "Github URL": "https://github.com/ThalesGroup/sql-data-guard",
   "Tracks": [
     "Web AppSec"
   ],
@@ -9,6 +10,5 @@
     "Sarit Yerushalmi"
   ],
   "Year": "2025",
-  "Github URL": "https://github.com/ThalesGroup/sql-data-guard",
   "Location": "Asia"
 }

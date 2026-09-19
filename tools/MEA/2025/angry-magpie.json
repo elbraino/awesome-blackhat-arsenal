@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Angry Magpie",
+  "Description": "Angry Magpie is an open-source DLP bypass simulator developed by SquareX Labs that demonstrates data splicing techniques capable of evading enterprise Data Loss Prevention solutions. Designed for red and blue teams, it helps security professionals test and validate the effectiveness of their DLP controls against real-world browser-based exfiltration techniques.",
+  "Github URL": "https://github.com/SquareX-Labs/angry-magpie",
+  "Tracks": [
+    "Data Forensics/Incident Response",
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Venkata Pradyumna Cheerala",
+    "Shuvo Bardhan"
+  ],
+  "Year": "2025",
+  "Location": "MEA"
+}

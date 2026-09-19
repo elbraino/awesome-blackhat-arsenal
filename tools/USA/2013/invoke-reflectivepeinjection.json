@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Invoke-ReflectivePEInjection",
+  "Description": "PowerShell is a powerful scripting language which has the capability to run scripts on remote systems without writing to disk.",
+  "Github URL": "https://github.com/clymb3r/PowerShell",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Joe Bialek"
+  ],
+  "Year": "2013",
+  "Location": "USA"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Performing Live Forensics Without Killing Your Evidence",
+  "Description": "In a threat landscape characterized by targeted attacks, file-less malware and other advanced hacking techniques, the days of relying solely on traditional \"dead box\" forensics for investigations are, well… dead. Live forensics, a practice considered a dangerous and dark art just a decade ago, has now become the de-facto standard. However, many CSIRT teams still struggle with this type of threat hunting. This session will discuss the benefits, pitfalls to avoid and best practices for performing live box forensics as a threat hunting tool. The presenter will also introduce a free and publicly available command line tool for Windows that automates the execution and data acquisition from other live forensics tools in a more secure, easier to maintain manner.",
+  "Github URL": "https://github.com/Johnng007/Live-Forensicator",
+  "Tracks": [
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "John Moran"
+  ],
+  "Year": "2018",
+  "Location": "USA"
+}

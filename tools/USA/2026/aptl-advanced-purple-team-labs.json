@@ -1,0 +1,14 @@
+{
+  "Tool Name": "APTL: Advanced Purple Team Labs",
+  "Description": "APTL is an MIT-licensed, Docker-based purple team laboratory bundling an open-source SOC stack, Model Context Protocol servers, and a scenario system. It lets researchers pit red and blue team AI agents against one another, study their behaviour, and test enhancement strategies. The lab runs on commodity hardware with consumer-grade AI services and captures all telemetry so that experiments can be reviewed and reproduced.",
+  "Github URL": "https://github.com/Brad-Edwards/aptl",
+  "Tracks": [
+    "Arsenal Lab",
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "atomik"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

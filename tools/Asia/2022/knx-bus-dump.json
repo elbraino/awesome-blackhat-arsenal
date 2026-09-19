@@ -1,0 +1,14 @@
+{
+  "Tool Name": "KNX Bus Dump",
+  "Description": "A tool that records telegrams transmitted over a KNX building automation bus through a TPUART connection and exports them to Wireshark-compatible hex dump files for protocol and security analysis.",
+  "Github URL": "https://github.com/ChrisM09/KNX-Bus-Dump",
+  "Tracks": [
+    "Internet Of Things"
+  ],
+  "Speakers": [
+    "Christopher Morales-Gonzalez",
+    "Michael Cash"
+  ],
+  "Year": "2022",
+  "Location": "Asia"
+}

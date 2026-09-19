@@ -1,0 +1,13 @@
+{
+  "Tool Name": "WebVerify",
+  "Description": "WebVerify is a tool that aims to help in the recognition, vulnerability scanning and search patterns based on its own database. Unlike other tools, WebVerify first recognizes whether the target is a CMS to run other exploits... among its other advantages, WebVerify also provides command scripts to perform common WAF bypass techniques.",
+  "Github URL": "https://github.com/jahed/webverify",
+  "Tracks": [
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Luis Antonio Rosales Marco"
+  ],
+  "Year": "2013",
+  "Location": "USA"
+}

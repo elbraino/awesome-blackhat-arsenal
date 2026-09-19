@@ -1,6 +1,7 @@
 {
   "Tool Name": "AutoC",
   "Description": "AutoC is an automated tool designed to extract and analyze Indicators of Compromise (IoCs) from open-source threat intelligence sources. It streamlines the threat hunting process by correlating security data, identifying anomalous patterns, and investigating potential threats across enterprise environments.",
+  "Github URL": "https://github.com/barvhaim/AutoC",
   "Tracks": [
     "OSINT - Open Source Intelligence"
   ],
@@ -9,6 +10,5 @@
     "Bar Haim"
   ],
   "Year": "2025",
-  "Github URL": "https://github.com/barvhaim/AutoC",
   "Location": "Canada"
 }

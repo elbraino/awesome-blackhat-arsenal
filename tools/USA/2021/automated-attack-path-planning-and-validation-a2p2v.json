@@ -1,0 +1,17 @@
+{
+  "Tool Name": "Automated Attack Path Planning and Validation (A2P2V)",
+  "Description": "A2P2V (Automated Attack Path Planning and Validation) analyzes network vulnerabilities to automatically identify, plan, and visualize potential attack paths that adversaries could exploit in a network environment.",
+  "Github URL": "https://github.com/pentest-a2p2v/pentest-a2p2v-gui",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Fukutomo Nakanishi",
+    "Jason Youzwak",
+    "Michael Hylkema",
+    "Satoshi Aoki",
+    "Subir Das"
+  ],
+  "Year": "2021",
+  "Location": "USA"
+}

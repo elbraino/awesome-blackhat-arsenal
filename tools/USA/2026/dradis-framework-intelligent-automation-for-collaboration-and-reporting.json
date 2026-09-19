@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Dradis Framework: Intelligent Automation for collaboration and reporting",
+  "Description": "Dradis is a self-hosted, GPLv2 collaboration and reporting platform that centralises findings, evidence, and attack narratives, combining output from Nessus, Burp Suite, Nikto, and more than 47 other scanners with manual research. Recent releases add context-aware LLM assistance with bring-your-own-model support so data stays on the user's infrastructure, agents and a prompt library for repeatable AI workflows, REST API scanner uploads, inline commenting for QA, and a MITRE ATT&CK coverage calculator.",
+  "Github URL": "https://github.com/dradis/dradis-ce",
+  "Tracks": [
+    "OSINT - Open Source Intelligence"
+  ],
+  "Speakers": [
+    "Daniel Martin"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

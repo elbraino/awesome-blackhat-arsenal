@@ -1,6 +1,7 @@
 {
   "Tool Name": "fetter",
   "Description": "Fetter scans the packages actually installed across every Python virtual environment or an entire system and checks them against the OSV vulnerability database, returning detailed findings and CVSS scores. Repository controls limit what can be downloaded and tools like pip-audit examine requirements and lock files, but neither answers what vulnerable packages are really present — a gap that matters when malware such as spellcheckpy is installed outside declared dependencies. Fetter reports the highest-risk packages across an infrastructure in seconds.",
+  "Github URL": "https://github.com/fetter-io/fetter-rs",
   "Tracks": [
     "Vulnerability Assessment"
   ],
@@ -8,6 +9,5 @@
     "Christopher Ariza"
   ],
   "Year": "2026",
-  "Github URL": "https://github.com/fetter-io/fetter-rs",
   "Location": "USA"
 }

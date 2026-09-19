@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Adversary emulation for the cloud with Stratus Red Team",
+  "Description": "What attacks are used by threat actors in cloud environments? How to reproduce them easily to ensure that our threat detection mechanisms are working as expected? Stratus Red Team provides a solution to these two questions. With support for AWS, Azure, Google Cloud and Kubernetes, it allows threat detection and cloud security engineering team to reproduce common cloud attacks in a self-contained manner, along with actionable detection insights.",
+  "Github URL": "https://github.com/DataDog/stratus-red-team",
+  "Tracks": [
+    "Network Attacks"
+  ],
+  "Speakers": [
+    "Christophe Tafani-Dereeper",
+    "Andrew Krug"
+  ],
+  "Year": "2024",
+  "Location": "USA"
+}

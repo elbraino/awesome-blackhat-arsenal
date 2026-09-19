@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Suzaku by Yamato Security",
+  "Description": "Suzaku is an open-source, Sigma-based threat hunting and DFIR timeline generator for cloud logs from Yamato Security, the team behind Hayabusa. Written in Rust for memory safety and performance, it scans JSON and compressed JSON.gz log files with multithreading to surface attacker activity across large datasets. This release deepens AWS CloudTrail analysis with new API category support, improved GeoIP enrichment, and wider Sigma correlation coverage, and introduces Azure log support. Output is available as CSV, JSON, and JSONL.",
+  "Github URL": "https://github.com/Yamato-Security/suzaku",
+  "Tracks": [
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "Tanaka Zakku",
+    "Akira Nishikawa",
+    "PINK"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

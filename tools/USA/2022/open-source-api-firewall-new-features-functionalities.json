@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Open-Source API Firewall: New Features & Functionalities",
+  "Description": "The open-source API Firewall by Wallarm is a great option for API development. It offers a rich feature set, and its underlying technology is mature. The firewall's new feature of blocklisting for compromised tokens and cookies is a great way to gain visibility into threats and prevent issues. The feature is easy to set up and offers a high degree of visibility into the security posture of your APIs and services.",
+  "Github URL": "https://github.com/wallarm/api-firewall",
+  "Tracks": [
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Ivan Novikov"
+  ],
+  "Year": "2022",
+  "Location": "USA"
+}

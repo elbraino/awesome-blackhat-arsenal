@@ -1,0 +1,14 @@
+{
+  "Tool Name": "peetch - an eBPF based networking tool",
+  "Description": "peetch is a collection of tools aimed at experimenting with different aspects of eBPF to bypass TLS protocol protections.",
+  "Github URL": "https://github.com/quarkslab/peetch",
+  "Tracks": [
+    "Network Attacks",
+    "Reverse Engineering"
+  ],
+  "Speakers": [
+    "Guillaume Valadon"
+  ],
+  "Year": "2023",
+  "Location": "Europe"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "WebAgentAudit: Security Auditing of Web-Based AI Agents Through Browser Automation",
+  "Description": "WebAgentAudit is an open-source Python framework for security auditing of AI agents that expose no API — the chatbots, assistants, and LLM widgets embedded in websites, often operated by third parties. Given a URL, it locates the chat elements, builds a communication channel through browser automation, and runs probes for prompt injection, system prompt extraction, jailbreaks, and role confusion, entirely algorithmically and without consuming LLM API tokens. Built on Playwright, it handles floating widgets, iframes, and lazy-loaded panels.",
+  "Github URL": "https://github.com/atom41research/webagentaudit",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Nethanel Gelernter"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

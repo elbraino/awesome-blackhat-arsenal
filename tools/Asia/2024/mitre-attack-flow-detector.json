@@ -1,0 +1,14 @@
+{
+  "Tool Name": "MITRE ATTACK FLOW Detector",
+  "Description": "A tool that analyzes security alerts to identify attack patterns aligned with the MITRE ATT&CK framework, using correlation analysis and explainable machine learning to detect relationships between alerts and uncover stealthy attack sequences.",
+  "Github URL": "https://github.com/ezztahoun/attack_flow_detector",
+  "Tracks": [
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "ezzeldin tahoun",
+    "Lynn hamida"
+  ],
+  "Year": "2024",
+  "Location": "Asia"
+}

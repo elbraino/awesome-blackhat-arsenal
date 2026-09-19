@@ -1,0 +1,14 @@
+{
+  "Tool Name": "ThreatXtension: AI-Powered Browser Extension Security Analysis Framework",
+  "Description": "ThreatXtension automates Chrome extension security analysis by combining static application security testing with LLM-powered threat intelligence, assessing permission risk, detecting obfuscated malicious patterns, and generating natural-language threat summaries. A LangGraph pipeline orchestrates acquisition from the Chrome Web Store, manifest V2/V3 parsing, parallel analyzer execution, and result synthesis, backed by custom Semgrep rulesets mapped to MITRE ATT&CK. It supports IBM WatsonX, OpenAI, and local Ollama backends across CLI, web UI, and FastMCP interfaces.",
+  "Github URL": "https://github.com/barvhaim/ThreatXtension",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Itzik Chimino",
+    "Bar Haim"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "OWASP Broken Web Applications VM",
+  "Description": "The Open Web Application Security Project (OWASP) Broken Web Applications project (www.owaspbwa.org) provides a free and open source virtual machine loaded with web applications containing security vulnerabilities. This session will showcase the project VM and exhibit how it can be used for training, testing, and experimentation by people in a variety of roles.",
+  "Github URL": "https://github.com/chuckfw/owaspbwa",
+  "Tracks": [
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Chuck Willis"
+  ],
+  "Year": "2013",
+  "Location": "USA"
+}

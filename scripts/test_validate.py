@@ -7,6 +7,7 @@ import unittest
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import validate  # noqa: E402
+from normalize import canonical_dump, slug  # noqa: E402
 
 GOOD = {
     "Tool Name": "Example Tool",
@@ -31,10 +32,12 @@ class ValidateTests(unittest.TestCase):
     def write(self, name, data, raw=None):
         path = os.path.join(self.event_dir, name)
         with open(path, "w", encoding="utf-8") as f:
-            f.write(raw if raw is not None else json.dumps(data, indent=2))
+            f.write(raw if raw is not None else canonical_dump(data))
         return path
 
-    def check(self, data, name="tool.json", raw=None):
+    def check(self, data, name="example-tool.json", raw=None):
+        for f in os.listdir(self.event_dir):
+            os.remove(os.path.join(self.event_dir, f))
         self.write(name, data, raw)
         _count, report = validate.run([self.event_dir])
         return report
@@ -57,9 +60,27 @@ class ValidateTests(unittest.TestCase):
         self.assertTrue(any("missing required key 'Speakers'" in m for m in msgs))
         self.assertTrue(any("unknown key 'Author'" in m for m in msgs))
 
-    def test_event_key_is_optional(self):
-        r = self.check({**GOOD, "Event": "BH-US-26"})
-        self.assertEqual(self.errors(r), [])
+    def test_event_key_is_rejected(self):
+        with_event = {**GOOD, "Event": "BH-US-26"}
+        msgs = self.errors(self.check(with_event, raw=json.dumps(with_event, indent=2) + "\n"))
+        self.assertTrue(any("unknown key 'Event'" in m for m in msgs))
+
+    def test_non_canonical_form_is_error(self):
+        msgs = self.errors(self.check(GOOD, raw=json.dumps(GOOD, indent=4)))
+        self.assertTrue(any("not in canonical form" in m for m in msgs), msgs)
+        msgs = self.errors(self.check(GOOD, raw=json.dumps(GOOD, indent=2, ensure_ascii=False)))  # no trailing newline
+        self.assertTrue(any("not in canonical form" in m for m in msgs), msgs)
+
+    def test_filename_must_be_slug_of_name(self):
+        msgs = self.errors(self.check(GOOD, name="Example Tool.json"))
+        self.assertTrue(any("filename should be example-tool.json" in m for m in msgs), msgs)
+        self.assertEqual(self.errors(self.check(GOOD, name="example-tool-2.json")), [])  # collision suffix ok
+
+    def test_slug(self):
+        self.assertEqual(slug(".NET Unpacking: When Frida Gets the JIT out of It"), "net-unpacking-when-frida-gets-the-jit-out-of-it")
+        self.assertEqual(slug("Squatm3gator: 360° Cybersquatting"), "squatm3gator-360-cybersquatting")
+        self.assertEqual(slug("!!!"), "tool")
+        self.assertLessEqual(len(slug("word-" * 40)), 80)
 
     def test_unknown_track_is_error(self):
         msgs = self.errors(self.check({**GOOD, "Tracks": ["Malware"]}))
@@ -119,8 +140,8 @@ class ValidateTests(unittest.TestCase):
                             for m in self.errors(self.check({**GOOD, "Description": None}))))
 
     def test_duplicate_tool_name_in_same_event(self):
-        self.write("a.json", GOOD)
-        self.write("b.json", {**GOOD, "Tool Name": "example tool"})
+        self.write("example-tool.json", GOOD)
+        self.write("example-tool-2.json", {**GOOD, "Tool Name": "example tool"})
         _c, r = validate.run([self.event_dir])
         self.assertTrue(any("duplicate 'Tool Name'" in m for m in self.errors(r)))
 

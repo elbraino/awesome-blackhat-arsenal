@@ -1,0 +1,13 @@
+{
+  "Tool Name": "TaintedLove: Dynamic Security Analysis Tool for Ruby",
+  "Description": "TaintedLove is a dynamic security analysis tool for Ruby. It leverages Ruby's object tainting and monkey patching features to identify potentially vulnerable code paths at runtime. TaintedLove is library agnostic and provides a simple framework to extend the detection of unsafe method usage and user input tracking.",
+  "Github URL": "https://github.com/Shopify/tainted_love",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Benoit Côté-Jodoin"
+  ],
+  "Year": "2019",
+  "Location": "USA"
+}

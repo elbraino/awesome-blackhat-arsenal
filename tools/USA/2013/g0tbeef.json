@@ -1,0 +1,13 @@
+{
+  "Tool Name": "g0tbeEF",
+  "Description": "Multi-threaded Python based ARP Poisoning with an Asynchronous Queue using IPTables and QUEUE deigned to capture HTTP traffic and inject a BeEF hook.",
+  "Github URL": "https://github.com/d4rkcat/g0tbeef",
+  "Tracks": [
+    "Network Attacks"
+  ],
+  "Speakers": [
+    "Taylor Pennington"
+  ],
+  "Year": "2013",
+  "Location": "USA"
+}

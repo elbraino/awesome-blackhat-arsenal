@@ -1,0 +1,11 @@
+{
+  "Tool Name": "Zig Tools",
+  "Description": "ZigTools is a Python framework, which was developed to reduce the complexity in writing additional functionality in communicating with the Freakduino (Low cost arduino based 802.15.4 platform). Features such as initializing the radio, changing channels, sending data and processing that data can be written in just a few lines, allowing developers to focus on writing more complex applications without worrying about the low-level communications between the radio and computer.",
+  "Github URL": "https://github.com/NTBBloodbath/zig-tools.nvim",
+  "Tracks": [
+    "Hardware/Embedded"
+  ],
+  "Speakers": [],
+  "Year": "2014",
+  "Location": "USA"
+}

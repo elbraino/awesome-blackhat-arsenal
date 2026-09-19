@@ -1,0 +1,17 @@
+{
+  "Tool Name": "Plaguards: Open Source PowerShell Deobfuscation and IOC Detection Engine for Blue Teams.",
+  "Description": "Plaguards is an open-source PowerShell deobfuscation and IOC detection engine built for blue teams. It automates static deobfuscation of obfuscated PowerShell scripts commonly used in malware and ransomware attacks, extracts embedded Indicators of Compromise (IOCs) such as IP addresses and URLs, and generates templated PDF reports cross-referencing findings with threat intelligence.",
+  "Github URL": "https://github.com/baycysec/plaguards",
+  "Tracks": [
+    "Reverse Engineering"
+  ],
+  "Speakers": [
+    "Nadia",
+    "Bertrand Redondo Mulyono",
+    "Nicolas Saputra Gunawan",
+    "Satya Kusuma",
+    "Yohan Muliono"
+  ],
+  "Year": "2025",
+  "Location": "USA"
+}

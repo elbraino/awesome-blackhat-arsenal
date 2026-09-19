@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Defascan: Defacement Scan and Alert",
+  "Description": "Web server defacement is also a major problem especially for government sites. Therefore, this project intends to develop a web server defacement detection tool named DefaScan. This tool, DefaScan will detect a defaced website and notify about it.",
+  "Github URL": "https://github.com/ramxtha/defascan",
+  "Tracks": [
+    "OSINT - Open Source Intelligence",
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "Ayush Shrestha"
+  ],
+  "Year": "2022",
+  "Location": "Europe"
+}

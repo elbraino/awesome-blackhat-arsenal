@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Rickmote Controller",
+  "Description": "Take control over your neighbors' TVs like you see in the movies! Google Chromecast is a handy little gadget that lets you stream video to your TV from a variety of sources like Netflix and YouTube. It also allows streaming from nearby hackers.",
+  "Github URL": "https://github.com/BishopFox/rickmote",
+  "Tracks": [
+    "Internet Of Things"
+  ],
+  "Speakers": [
+    "Dan Petro"
+  ],
+  "Year": "2014",
+  "Location": "USA"
+}

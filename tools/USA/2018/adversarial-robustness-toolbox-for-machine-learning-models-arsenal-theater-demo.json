@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Adversarial Robustness Toolbox for Machine Learning Models - ARSENAL THEATER DEMO",
+  "Description": "Adversarial attacks of machine learning systems have become an undisputable threat. Attackers can compromise the training of machine learning models by injecting malicious data into the training set (so-called poisoning attacks), or by crafting adversarial samples that exploit the blind spots of machine learning models at test time (so-called evasion attacks). Adversarial attacks have been demonstrated in a number of different application domains, including malware detection, spam filtering, visual recognition, speech-to-text conversion, and natural language understanding. Devising comprehensive defences against poisoning and evasion attacks by adaptive adversaries is still an open challenge. We will present the Adversarial Robustness Toolbox (ART), a library which allows rapid crafting and analysis of both attacks and defence methods for machine learning models. It provides an implementation for many state-of-the-art methods for attacking and defending machine learning. Through ART, the attendees will (re)discover how to attack and defend machine learning systems.",
+  "Github URL": "https://github.com/Trusted-AI/adversarial-robustness-toolbox",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Irina Nicolae"
+  ],
+  "Year": "2018",
+  "Location": "USA"
+}

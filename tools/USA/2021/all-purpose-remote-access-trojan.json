@@ -1,0 +1,14 @@
+{
+  "Tool Name": "All-Purpose Remote Access Trojan",
+  "Description": "AccessWiz is an educational Remote Access Trojan (RAT) that enables remote control of a target computer, including screenshot capture, password retrieval, file transfer, and system information gathering through a client-server architecture.",
+  "Github URL": "https://github.com/anuragpatil66/AccessWiz",
+  "Tracks": [
+    "Malware Offense"
+  ],
+  "Speakers": [
+    "David Hunt",
+    "Alex Manners"
+  ],
+  "Year": "2021",
+  "Location": "USA"
+}

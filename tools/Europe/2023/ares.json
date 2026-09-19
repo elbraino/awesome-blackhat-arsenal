@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Ares",
+  "Description": "A cross-platform, open-source multi-system emulator focused on accuracy and preservation, supporting a wide range of classic gaming consoles and computer systems.",
+  "Github URL": "https://github.com/ares-emulator/ares",
+  "Tracks": [
+    "Cryptography"
+  ],
+  "Speakers": [
+    "Autumn Skerritt"
+  ],
+  "Year": "2023",
+  "Location": "Europe"
+}

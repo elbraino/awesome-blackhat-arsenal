@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Automated Electromechanical PIN Cracking: R2B2 and C3BO",
+  "Description": "Password and PIN systems are often encountered on mobile devices. A software approach to cracking these systems is often the simplest, but in some cases a pen tester or forensic investigator may have no better option than to start pushing buttons.",
+  "Github URL": "https://github.com/iSECPartners/R2B2",
+  "Tracks": [
+    "Android, iOS and Mobile Hacking"
+  ],
+  "Speakers": [
+    "Justin Engler"
+  ],
+  "Year": "2013",
+  "Location": "USA"
+}

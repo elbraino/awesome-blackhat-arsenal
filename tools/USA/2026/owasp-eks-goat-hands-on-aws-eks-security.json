@@ -1,0 +1,14 @@
+{
+  "Tool Name": "OWASP EKS Goat: Hands-On AWS EKS Security",
+  "Description": "OWASP EKS Goat is an open-source, intentionally vulnerable AWS EKS cluster for hands-on security testing and training. It presents realistic supply chain weaknesses that lead to compromise of EKS and ECR through cloud and RBAC misconfiguration, with scenarios covering a CVE-vulnerable application as an entry point, misconfigured IAM roles and Kubernetes RBAC, backdoored ECR images, and privilege escalation from pods to EC2 nodes. Documentation covers hardening with Kyverno, GuardDuty, and eBPF runtime security.",
+  "Github URL": "https://github.com/OWASP/www-project-eks-goat",
+  "Tracks": [
+    "Cloud Security"
+  ],
+  "Speakers": [
+    "peachycloudsecurity",
+    "Divyanshu Shukla"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

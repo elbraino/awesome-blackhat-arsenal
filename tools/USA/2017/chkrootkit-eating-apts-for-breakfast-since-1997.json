@@ -1,0 +1,13 @@
+{
+  "Tool Name": "CHKROOTKIT: EATING APTS FOR BREAKFAST SINCE 1997",
+  "Description": "Chkrootkit is a suite of posix shell script and some tools written in ansi C. It works like a charm in virtually all Unix environment without extra dependencies. It is able to detect sereval rootkits, malicios activity (some APTs included) and can do post-mortem forensics analysis to detect malicious kernel modules activities and stuff like that. This tool currentlly detects ~70 known Rootkits, Worms and many malicious activities.",
+  "Github URL": "https://github.com/magentron/chkrootkit",
+  "Tracks": [
+    "Malware Defense"
+  ],
+  "Speakers": [
+    "Nelson Murilo Rufino"
+  ],
+  "Year": "2017",
+  "Location": "USA"
+}

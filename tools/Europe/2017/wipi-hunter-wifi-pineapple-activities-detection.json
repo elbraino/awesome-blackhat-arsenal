@@ -1,0 +1,14 @@
+{
+  "Tool Name": "WiPi-Hunter - WiFi-Pineapple Activities Detection",
+  "Description": "WiPi-Hunter is WiFi Pineapple Activities Detection Kit. The WiPi kit can detect WiFi-Pineapple using the following techniques.* PineAP Module activities* OPN network density* Default values",
+  "Github URL": "https://github.com/WiPi-Hunter/PiSavar",
+  "Tracks": [
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Besim Altinok",
+    "Mustafa Altinkaynak"
+  ],
+  "Year": "2017",
+  "Location": "Europe"
+}

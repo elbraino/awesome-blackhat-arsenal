@@ -1,0 +1,15 @@
+{
+  "Tool Name": "RedCloud OS : Cloud Adversary Simulation Operating System",
+  "Description": "RedCloud OS is a Debian based Cloud Adversary Simulation Operating System for Red Teams to assess the security of leading Cloud Service Providers (CSPs). It includes tools optimised for adversary simulation tasks within Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP). Enterprises are moving / have moved to Cloud Model or Hybrid Model and since security testing is a continuous procedure, operators / engineers evaluating these environments must be well versed with updated arsenal. RedCloud OS is an platform that contains: - Custom Attack Scripts - Installed Native Cloud Provider CLI - 25+ Multi-Cloud Open-Source Tools - Tools Categorization as per MITRE ATT&CK Tactics - Support Multiple Authentication Mechanisms - In-Built PowerShell for Attacking Azure Environment - Ease to configure credentials of AWS, Azure & GCP & much more... Inside each CSP, there are three sub-categories i.e, Enumeration, Exploitation, and Post Exploitation. OS categorises tools & our custom scripts as per the above mentioned sub-categories.",
+  "Github URL": "https://github.com/redteamoperations/redcloud-os",
+  "Tracks": [
+    "Exploitation and Ethical Hacking",
+    "Network Attacks"
+  ],
+  "Speakers": [
+    "Yash Bharadwaj",
+    "Manish Kumar Gupta"
+  ],
+  "Year": "2024",
+  "Location": "USA"
+}

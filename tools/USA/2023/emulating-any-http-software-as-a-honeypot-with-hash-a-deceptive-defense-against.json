@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Emulating Any HTTP Software as a Honeypot with HASH: A Deceptive Defense Against Cyberattacks",
+  "Description": "HASH (HTTP Agnostic Software Honeypot), an open-source framework for creating and launching low interaction honeypots. With simple YAML configuration files HASH can simulate any HTTP based software with built in randomization capabilities to avoid being identified.",
+  "Github URL": "https://github.com/DataDog/HASH",
+  "Tracks": [
+    "Web AppSec",
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Eslam Salem"
+  ],
+  "Year": "2023",
+  "Location": "USA"
+}

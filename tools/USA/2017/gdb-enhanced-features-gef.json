@@ -1,0 +1,13 @@
+{
+  "Tool Name": "GDB ENHANCED FEATURES (GEF)",
+  "Description": "GEF is a set of commands for GDB, to massively boost the exploit development process on X86, ARM, MIPS, PowerPC and SPARC. GEF aims to be used mostly by exploit development and reverse-engineers, to provide greatly enhanced features to GDB heavily relying on Python API to assist during the process of dynamic analysis and exploit development.",
+  "Github URL": "https://github.com/hugsy/gef",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Chris Alladoum"
+  ],
+  "Year": "2017",
+  "Location": "USA"
+}

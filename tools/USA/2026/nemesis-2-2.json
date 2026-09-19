@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Nemesis 2.2",
+  "Description": "Nemesis is an open-source centralised data processing platform that ingests, enriches, and supports collaborative human and AI analysis of files collected during offensive security assessments. Version 2.2 adds ingestion of full disk images and large forensic containers with automatic carving, and a complete DPAPI auto-decryption pipeline spanning classic DPAPI through Chromium's v3 app-bound encryption for browser cookies and saved logins. Optional LLM agents handle finding triage, credential extraction, and document summarisation, alongside file linking and per-host reporting.",
+  "Github URL": "https://github.com/SpecterOps/Nemesis",
+  "Tracks": [
+    "AI, ML & Data Science"
+  ],
+  "Speakers": [
+    "Will Schroeder",
+    "Lee Chagolla-Christensen"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

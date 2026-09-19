@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Node Security Shield",
+  "Description": "A Runtime Application Self-Protection (RASP) tool for Node.js that enables developers to declare resource access permissions through a Resource Access Policy, monitoring and blocking unauthorized outbound network requests and command executions.",
+  "Github URL": "https://github.com/DomdogSec/NodeSecurityShield",
+  "Tracks": [
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Sukesh Pappu",
+    "Lavakumar Kuppan"
+  ],
+  "Year": "2022",
+  "Location": "Asia"
+}

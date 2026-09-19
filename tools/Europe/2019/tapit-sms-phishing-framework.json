@@ -1,0 +1,13 @@
+{
+  "Tool Name": "TapIt: SMS Phishing Framework",
+  "Description": "Email phishing is the weapon of choice for most attackers and red teamers alike for getting initial compromise on a network. Email phishing awareness is also heightened in today's cyber security atmosphere. What if I told you there's another social engineering method to achieve initial compromise that is largely unnoticed by defenders? Mobile phones and SMS are technologies that are largely unmonitored by defenders. TapIt aims to exploit scenarios and situations where SMS Phishing (SMiShing) may be used by attackers to achieve their goals, such as initial compromise, credentials harvesting & 2FA phishing. TapIt allows easy execution of large-scale SMS phishing campaigns, allowing SMS to be sent to large number of recipients, and to follow-up with tracking of these SMS. Its in-built functionality will also allow ease of setup for purpose of credentials harvesting, delivery of payloads and social engineering.",
+  "Github URL": "https://github.com/joshsoftware/tapit",
+  "Tracks": [
+    "Human Factors"
+  ],
+  "Speakers": [
+    "Samuel Pua"
+  ],
+  "Year": "2019",
+  "Location": "Europe"
+}

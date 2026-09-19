@@ -1,0 +1,15 @@
+{
+  "Tool Name": "Prowler v3 the handy multi-cloud security tool",
+  "Description": "An open-source cloud security platform that automates security assessments and compliance checks across AWS, Azure, GCP, and Kubernetes, providing hundreds of ready-to-use security checks and remediation guidance.",
+  "Github URL": "https://github.com/prowler-cloud/prowler",
+  "Tracks": [
+    "Vulnerability Assessment",
+    "Data Forensics/Incident Response"
+  ],
+  "Speakers": [
+    "Pepe Fagoaga",
+    "Nacho Rivera"
+  ],
+  "Year": "2022",
+  "Location": "Europe"
+}

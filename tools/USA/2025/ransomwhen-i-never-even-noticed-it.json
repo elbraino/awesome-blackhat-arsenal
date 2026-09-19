@@ -1,0 +1,13 @@
+{
+  "Tool Name": "RansomWhen??? I Never Even Noticed It…",
+  "Description": "RansomWhen is an open-source tool from Permiso's P0 Labs that detects AWS KMS-based ransomware TTPs in CloudTrail logs. It identifies abuse of AWS Key Management Service features that attackers can leverage to encrypt S3 bucket data as part of ransomware operations, and enumerates identities possessing privilege combinations corresponding to these attack techniques.",
+  "Github URL": "https://github.com/Permiso-io-tools/RansomWhen",
+  "Tracks": [
+    "Cloud Security"
+  ],
+  "Speakers": [
+    "Bleon Proko"
+  ],
+  "Year": "2025",
+  "Location": "USA"
+}

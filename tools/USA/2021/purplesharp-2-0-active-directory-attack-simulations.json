@@ -1,0 +1,13 @@
+{
+  "Tool Name": "PurpleSharp 2.0: Active Directory Attack Simulations",
+  "Description": "A C# adversary simulation tool that executes ATT&CK techniques to generate attack telemetry in monitored Windows environments. It enables security teams to simulate adversary techniques within Active Directory environments to test and improve detection capabilities.",
+  "Github URL": "https://github.com/mvelazc0/PurpleSharp",
+  "Tracks": [
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Mauricio Velazco"
+  ],
+  "Year": "2021",
+  "Location": "USA"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "AndroGoat: Learn Android Application Security Testing",
+  "Description": "AndroGoat is purposely developed open source vulnerable/insecure app using Kotlin. This app has a wide range of vulnerabilities related to certificate pinning, custom URL schemes, Android Network Security Configuration, WebViews, root detection and over 20 other vulnerabilities. Security Testers/Professionals/Enthusiasts, Developers...etc. can use this application to understand and defend the vulnerabilities in Android platform",
+  "Github URL": "https://github.com/satishpatnayak/AndroGoat",
+  "Tracks": [
+    "Android, iOS and Mobile Hacking"
+  ],
+  "Speakers": [
+    "Satish Patnayak"
+  ],
+  "Year": "2020",
+  "Location": "Europe"
+}

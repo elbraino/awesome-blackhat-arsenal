@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Vehicle Control System",
+  "Description": "A C-language simulation of a vehicle dashboard that models engine status, sensor data monitoring, and automatic control systems like AC and speed based on real-time conditions, used for automotive security research and training.",
+  "Github URL": "https://github.com/0maramr/vehicle-control-system",
+  "Tracks": [
+    "Arsenal Lab"
+  ],
+  "Speakers": [
+    "Shishir Gupta",
+    "Chris Sistrunk"
+  ],
+  "Year": "2022",
+  "Location": "USA"
+}

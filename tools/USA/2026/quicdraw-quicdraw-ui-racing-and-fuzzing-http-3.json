@@ -1,0 +1,13 @@
+{
+  "Tool Name": "QuicDraw & QuicDraw-UI: Racing and Fuzzing HTTP/3",
+  "Description": "QuicDraw(H3) is an Apache-2.0 licensed security research tool for fuzzing and race-condition testing of HTTP/3 servers over QUIC. It implements a mechanism called Quic-Fin-Sync that enables high-speed, single-packet race-condition testing against HTTP/3 endpoints, and ships with a companion user interface for driving and reviewing test runs.",
+  "Github URL": "https://github.com/cyberark/QuicDrawH3",
+  "Tracks": [
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Maor Abutbul"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

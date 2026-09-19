@@ -1,0 +1,14 @@
+{
+  "Tool Name": "TCP/IP Communication without Network Attack Surfaces. (No Open Ports on External Interfaces)",
+  "Description": "A cybersecurity lab demonstrating TCP/IP protocol vulnerabilities including SYN flood attacks, TCP reset attacks, session hijacking, and reverse shell creation using Docker containers to simulate network environments.",
+  "Github URL": "https://github.com/Marcokorcak/TCP-IP-Attack",
+  "Tracks": [
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Colin Constable",
+    "Xavier Chathavong"
+  ],
+  "Year": "2024",
+  "Location": "Canada"
+}

@@ -1,0 +1,14 @@
+{
+  "Tool Name": "ShellSilo",
+  "Description": "A Python-based utility that converts C syntax code into syscall assembly language and corresponding shellcode, streamlining the process of constructing structures, assigning variables, and making system calls for x64 Windows.",
+  "Github URL": "https://github.com/nixpal/shellsilo",
+  "Tracks": [
+    "Exploitation and Ethical Hacking",
+    "Reverse Engineering"
+  ],
+  "Speakers": [
+    "Tarek Ahmed"
+  ],
+  "Year": "2024",
+  "Location": "Canada"
+}

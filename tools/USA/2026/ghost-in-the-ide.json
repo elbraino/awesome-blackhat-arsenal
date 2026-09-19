@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Ghost in the IDE",
+  "Description": "Ghost in the IDE is a command-and-control platform demonstrating supply chain attacks across the JetBrains IntelliJ, Visual Studio Code, and Eclipse plugin ecosystems simultaneously. It shows how a single plugin published to a marketplace — where review relies largely on automated static analysis — can pivot through a development organisation, exfiltrating source code, harvesting cloud credentials from the clipboard, logging keystrokes, and establishing persistent backdoors with the full privileges of developer workstations.",
+  "Github URL": "",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Pardhiv",
+    "Jayaram yalla"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

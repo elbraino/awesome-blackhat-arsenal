@@ -1,0 +1,14 @@
+{
+  "Tool Name": "MAD Goat Project",
+  "Description": "MAD Goat is a deliberately insecure web application designed for learning about Modern Application Development vulnerabilities, evaluating Application Security Testing scanner effectiveness, and exploring attack vectors and mitigation strategies.",
+  "Github URL": "https://github.com/MAD-Goat-Project",
+  "Tracks": [
+    "Vulnerability Assessment",
+    "Web AppSec"
+  ],
+  "Speakers": [
+    "Luís Ventuzelos"
+  ],
+  "Year": "2023",
+  "Location": "Canada"
+}

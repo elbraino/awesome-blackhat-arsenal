@@ -1,0 +1,13 @@
+{
+  "Tool Name": "RPCExplorer",
+  "Description": "RPCExplorer maps and probes the Windows RPC attack surface at scale, turning an interface UUID into something searchable and testable. It enumerates live endpoints through the RPC Endpoint Mapper, captures bindings such as ncalrpc, named pipes, and TCP, and scans on-disk DLLs for unregistered interfaces, loading everything into an interactive web UI with full-text search and filters for SYSTEM-hosted interfaces, missing security callbacks, and risky parameter types. Symbol enrichment, an optional decompiler pipeline, and direct method invocation close the loop from discovery to validation.",
+  "Github URL": "",
+  "Tracks": [
+    "Reverse Engineering"
+  ],
+  "Speakers": [
+    "shmctl"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

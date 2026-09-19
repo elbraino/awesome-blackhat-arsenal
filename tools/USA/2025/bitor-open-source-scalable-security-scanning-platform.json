@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Bitor: Open Source Scalable Security Scanning Platform",
+  "Description": "Orbit is a self-hosted, open source security scanning platform designed to deliver scalable, efficient, and collaborative vulnerability assessments. Built with a modern Go-based backend and a SvelteKit/Tailwind CSS front end, Orbit integrates seamlessly with multiple cloud providers and the Nuclei scanning tool. It empowers security teams to manage large-scale scans, triage findings collaboratively, and harness enriched target data to drive actionable insights.",
+  "Github URL": "https://github.com/bitorscanner/Bitor",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Ralph May"
+  ],
+  "Year": "2025",
+  "Location": "USA"
+}

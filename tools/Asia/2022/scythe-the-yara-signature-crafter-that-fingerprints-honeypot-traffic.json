@@ -1,0 +1,15 @@
+{
+  "Tool Name": "SCYTHE: The Yara Signature Crafter that Fingerprints Honeypot Traffic",
+  "Description": "A YARA signature crafting tool that automatically generates YARA rules to fingerprint and detect honeypot network traffic patterns.",
+  "Github URL": "https://github.com/michaelfeathers/scythe",
+  "Tracks": [
+    "Network Defense"
+  ],
+  "Speakers": [
+    "Shashank Gangaraju",
+    "Yu Zeng",
+    "George Chen"
+  ],
+  "Year": "2022",
+  "Location": "Asia"
+}

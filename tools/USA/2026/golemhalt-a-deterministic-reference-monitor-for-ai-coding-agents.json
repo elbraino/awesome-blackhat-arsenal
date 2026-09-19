@@ -1,0 +1,15 @@
+{
+  "Tool Name": "GolemHalt: A Deterministic Reference Monitor for AI Coding Agents",
+  "Description": "GolemHalt is a reference monitor that regulates the behaviour of AI coding agents with hard, deterministic boundaries rather than system prompts or probabilistic guardrails. Rust hook binaries, the formally verifiable Cedar Policy Language, and YARA-X intercept every shell command, file operation, and web request made by Claude Code, Cursor, GitHub Copilot, Gemini CLI, and VS Code. Agent workflows are mapped into a standardised Trajectory Event Model to block irreversible actions and control information flow before execution.",
+  "Github URL": "https://github.com/sondera-ai/sondera-coding-agent-hooks",
+  "Tracks": [
+    "AI, ML & Data Science"
+  ],
+  "Speakers": [
+    "Matthew Maisel",
+    "John Brock",
+    "Adam Mondl"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

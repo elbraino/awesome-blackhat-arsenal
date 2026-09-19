@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Volatile Vault: Data Exfiltration in 2024",
+  "Description": "A secure data exfiltration platform for red team operators that encrypts all data in the browser using AES-GCM, stores files temporarily with automatic deletion, and features a plugin system supporting various storage and transport mechanisms.",
+  "Github URL": "https://github.com/molatho/volatilevault",
+  "Tracks": [
+    "Network Attacks"
+  ],
+  "Speakers": [
+    "Patrick Eisenschmidt",
+    "Moritz Thomas"
+  ],
+  "Year": "2024",
+  "Location": "Canada"
+}

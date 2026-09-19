@@ -1,0 +1,13 @@
+{
+  "Tool Name": "SocialKlepto",
+  "Description": "We will demonstrate two tools, which one can launch effective social attacks to conduct corporate espionage, and the other one can defend users from such attacks.",
+  "Github URL": "https://github.com/hellofresh/klepto",
+  "Tracks": [
+    "Human Factors"
+  ],
+  "Speakers": [
+    "Jason Ding"
+  ],
+  "Year": "2013",
+  "Location": "USA"
+}

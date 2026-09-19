@@ -1,0 +1,13 @@
+{
+  "Tool Name": "WhoC: Peeking Under the Hood of CaaS Offerings",
+  "Description": "A container image that extracts the underlying container runtime and sends it to a remote server, exploiting the exposure of runtimes through /proc/self/exe to reveal what container infrastructure CaaS providers use.",
+  "Github URL": "https://github.com/twistlock/whoc",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Yuval Avrahami"
+  ],
+  "Year": "2021",
+  "Location": "Europe"
+}

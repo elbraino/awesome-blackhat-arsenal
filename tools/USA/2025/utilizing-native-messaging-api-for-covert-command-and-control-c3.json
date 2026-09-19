@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Utilizing Native Messaging API for Covert Command and Control (C3)",
+  "Description": "Covert C2 is an advanced command and control framework that leverages the browser Native Messaging API alongside lightweight evasion techniques to establish covert communications. It uses a decentralized infrastructure where compromised machines autonomously connect to the C2 server, supports post-exploitation and lateral movement operations, and achieves near-zero detection rates against modern EDR solutions.",
+  "Github URL": "https://github.com/efchatz/Covert-C2",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Efstratios Chatzoglou"
+  ],
+  "Year": "2025",
+  "Location": "USA"
+}

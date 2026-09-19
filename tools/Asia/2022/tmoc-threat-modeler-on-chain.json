@@ -1,0 +1,16 @@
+{
+  "Tool Name": "TMoC: Threat Modeler on Chain",
+  "Description": "A blockchain-based threat modeling tool that enables decentralized and tamper-proof storage and sharing of threat models for security assessment and vulnerability analysis.",
+  "Github URL": "https://github.com/yding25/tmoc",
+  "Tracks": [
+    "Vulnerability Assessment"
+  ],
+  "Speakers": [
+    "Yejun Kim",
+    "Kwangsoo Cho",
+    "Paul Hong",
+    "Seungjoo Kim"
+  ],
+  "Year": "2022",
+  "Location": "Asia"
+}

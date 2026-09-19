@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Maltego VirusTotal",
+  "Description": "VirusTotal is a free service that analyzes suspicious files and URLs and facilitates the quick detection of all kinds of malware. Maltego is an open source intelligence and forensics application that offers gathering and mining of VirusTotal's Public API in a easy to understand format.",
+  "Github URL": "https://github.com/padfoot999/Maltego-VirusTotal",
+  "Tracks": [
+    "OSINT - Open Source Intelligence"
+  ],
+  "Speakers": [
+    "Christian Heinrich",
+    "Karl Hiramoto"
+  ],
+  "Year": "2016",
+  "Location": "USA"
+}

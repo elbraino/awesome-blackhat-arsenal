@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Ghostwriter",
+  "Description": "Ghostwriter is a free and open-source platform for offensive security operations that simplifies report writing, asset tracking, and assessment management. It manages clients, maintains a reusable findings library, and organises the infrastructure and domains used during engagements, while its reporting engine provides collaborative writing and customisable templates. Recent releases add Google Docs-style collaborative report editing, collaborative project notes, and integration with BloodHound Community Edition.",
+  "Github URL": "https://github.com/GhostManager/Ghostwriter",
+  "Tracks": [
+    "Exploitation and Ethical Hacking"
+  ],
+  "Speakers": [
+    "Christopher Maddalena"
+  ],
+  "Year": "2026",
+  "Location": "USA"
+}

@@ -1,0 +1,13 @@
+{
+  "Tool Name": "DarkWidow: Customizable Dropper Tool Targeting Windows",
+  "Description": "This is a Customizable Dropper Tool targeting Windows machine.",
+  "Github URL": "https://github.com/reveng007/DarkWidow",
+  "Tracks": [
+    "Malware Offense"
+  ],
+  "Speakers": [
+    "Soumyanil Biswas"
+  ],
+  "Year": "2024",
+  "Location": "Canada"
+}
