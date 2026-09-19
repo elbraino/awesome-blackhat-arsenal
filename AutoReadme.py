@@ -1,8 +1,8 @@
 import os
+import re
 import json
 import argparse
 from collections import defaultdict
-from datetime import datetime
 
 # -------------------------------
 # 🔧 Configuration & Constants
@@ -17,9 +17,7 @@ CATEGORY_MAP = {
     "Network Attacks": ("🔴 Red Teaming", "red"),
     "Reverse Engineering": ("🧠 Reverse Engineering", "orange"),
     "OSINT - Open Source Intelligence": ("🔍 OSINT", "lightgrey"),
-    "Internet of Things": ("🟣 Red Teaming / Embedded", "purple"),
     "Internet Of Things": ("🟣 Red Teaming / Embedded", "purple"),
-    "Hardware / Embedded": ("🟣 Red Teaming / Embedded", "purple"),
     "Code Assessment": ("🌐 Web/AppSec or Red Teaming", "blue"),
     "Web AppSec": ("🌐 Web/AppSec", "blue"),
     "Vulnerability Assessment": ("🔴 Red Teaming / AppSec", "red"),
@@ -27,19 +25,13 @@ CATEGORY_MAP = {
     "Android, iOS and Mobile Hacking": ("📱 Mobile Security", "yellow"),
     "Cryptography": ("🔵 Blue Team & Detection", "cyan"),
     "Network Defense": ("🔵 Blue Team & Detection", "cyan"),
-    "Network": ("🔵 Blue Team & Detection", "cyan"),
     "Malware Defense": ("🔵 Blue Team & Detection", "cyan"),
-    "Malware": ("🔵 Blue Team & Detection", "cyan"),
     "Data Forensics/Incident Response": ("🔵 Blue Team & Detection", "cyan"),
-    "Digital Forensics": ("🔵 Blue Team & Detection", "cyan"),
-    "Threat Hunting and Incident Response": ("🔵 Blue Team & Detection", "cyan"),
     "Arsenal Lab": ("⚙️ Miscellaneous / Lab Tools", "gray"),
     "Human Factors": ("🧠 Social Engineering / General", "pink"),
     "AI, ML & Data Science": ("🤖 AI, ML & Data Science", "brightgreen"),
     "Hardware/Embedded": ("🟣 Red Teaming / Embedded", "purple"),
     "Cloud Security": ("☁️ Cloud Security", "blue"),
-    "Risks": ("🔴 Red Teaming / AppSec", "red"),
-    "Privacy": ("🌐 Web/AppSec", "blue"),
 }
 
 # -------------------------------
@@ -67,8 +59,14 @@ def badge(text, color):
     return f"![{text}](https://img.shields.io/badge/{text.replace(' ', '%20')}-{color})"
 
 def sanitize_anchor(text):
-    """Converts text to a GitHub anchor-safe format."""
-    return text.lower().replace(" ", "-").replace("/", "").replace("&", "").replace("--", "-")
+    """Converts heading text to the anchor slug GitHub generates for it.
+
+    GitHub lowercases, drops everything except letters, digits, spaces,
+    hyphens and underscores (so emoji and punctuation vanish), then turns
+    spaces into hyphens. Consecutive hyphens are kept.
+    """
+    text = re.sub(r"[^\w\- ]", "", text.lower())
+    return text.replace(" ", "-")
 
 def die(msg, code=1):
     print(msg)
@@ -108,10 +106,9 @@ if event_filter:
 # -------------------------------
 # 🏠 Generate Main README Header
 # -------------------------------
-now = datetime.now()
-last_update = now.strftime("%B %Y").replace(" ", "%20")
+TOOL_COUNT_PLACEHOLDER = "{{TOOL_COUNT}}"  # filled in after all tools are counted
 main_readme = [
-    f"# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Last Update](https://img.shields.io/badge/Updated-{last_update}-blue)](https://github.com/elbraino/awesome-blackhat-arsenal)",
+    f"# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Tools](https://img.shields.io/badge/Tools-{TOOL_COUNT_PLACEHOLDER}-blue)](#locations)",
     "[![Project Logo](logo.png)](https://www.blackhat.com/html/arsenal.html)",
     "> 🚀 A curated list of cutting-edge cybersecurity tools showcased at the Black Hat Arsenal events — covering offensive, defensive, and research-focused security utilities.",
     "",
@@ -128,7 +125,7 @@ main_readme = [
     "## How This List Is Organized",
     "- The tools are grouped by the **location** of the Black Hat event (e.g., USA, Europe, Asia).",
     "- Under each location, tools are further organized by **year**.",
-    "- Inside the section of every year, you will find the tools organized **by track category**, each with descriptions, authors, and GitHub links (where available).",
+    "- Each year has its own README where tools are grouped **by track category**, each with description, speakers, and GitHub link (where available).",
     "---",
     "## Locations",
 ]
@@ -141,6 +138,7 @@ if not os.path.isdir(ROOT_DIR):
 
 locations = sorted(os.listdir(ROOT_DIR))
 locations_to_edit = [event_filter] if event_filter else locations
+total_tools = 0
 
 # -------------------------------
 # 📁 Traverse All Locations & Years (optionally filtered)
@@ -160,9 +158,9 @@ for location in locations:
         if not os.path.isdir(year_path):
             continue
 
-        # Use full-length links
-        rel_readme = f"https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/{ROOT_DIR}/{location}/{year}/README.md"
-        main_readme.append(f"- [{year}]({rel_readme})")
+        year_tool_count = sum(1 for f in os.listdir(year_path) if f.endswith(".json"))
+        total_tools += year_tool_count
+        main_readme.append(f"- [{year}]({ROOT_DIR}/{location}/{year}/README.md) — {year_tool_count} tools")
 
         # Skip README edit/creation if not in 'locations_to_edit'
         if location not in locations_to_edit or year not in years_to_edit:
@@ -173,7 +171,7 @@ for location in locations:
         # --------------------------------------------
         # 📄 Process JSON files under each year folder
         # --------------------------------------------
-        for file in os.listdir(year_path):
+        for file in sorted(os.listdir(year_path), key=str.lower):
             if not file.endswith(".json"):
                 continue
 
@@ -239,7 +237,8 @@ for location in locations:
             subreadme.append(f"- [{cat}](#{sanitize_anchor(cat)})")
         subreadme.append("---")
 
-        for cat, tools in tools_by_category.items():
+        for cat in sorted(tools_by_category):
+            tools = tools_by_category[cat]
             subreadme.append(f"## {cat}")
             for tool_block in tools:
                 subreadme.append(tool_block)
@@ -259,7 +258,7 @@ main_readme.extend([
     "",
     "🛠 How to Contribute:",  # Fixed to match ToC
     "- 📁 Tools are grouped by **Black Hat event location** (`USA`, `Europe`, etc.) and **year** inside `tools/`. ",
-    "- 🧠 Inside each year's folder, tools are organized by **track categories** such as `Red Teaming`, `OSINT`, `Reverse Engineering`, etc.",
+    "- 🧠 Each year's README (auto-generated) groups tools by **track category** such as `Red Teaming`, `OSINT`, `Reverse Engineering`, etc.",
     "- 📝 Each tool is defined by a structured `.json` file including:",
     "  - Tool Name",
     "  - Description",
@@ -273,7 +272,8 @@ main_readme.extend([
     "   tools/{LOCATION}/{YEAR}/tool-name.json",
     "   ```",
     "2. Follow the [CONTRIBUTING.md](CONTRIBUTING.md) for format guidelines.",
-    "3. Submit a pull request.",
+    "3. Run `python3 AutoReadme.py` to regenerate the README files.",
+    "4. Submit a pull request.",
     "",
     "> ⚠️ Keep content concise and correctly categorized. Badges and README entries are auto-generated.",
     "\n",
@@ -281,4 +281,4 @@ main_readme.extend([
 
 # 💾 Write Main README
 with open(MAIN_README, "w", encoding="utf-8") as f:
-    f.write("\n".join(main_readme))
+    f.write("\n".join(main_readme).replace(TOOL_COUNT_PLACEHOLDER, str(total_tools)))

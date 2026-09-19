@@ -2,7 +2,7 @@
   "Tool Name": "xEndity",
   "Description": "xEndity is an open-source, end-to-end IoT firmware emulation platform that turns raw firmware binaries into network-ready virtual device instances without physical hardware. Three components handle the pipeline: xQuire for firmware acquisition and indexing, xScout for binary analysis, extraction, and vulnerability scanning, and xFormation for emulation orchestration, network isolation, and telemetry collection. The result serves both as an unrestricted penetration testing range and as a high-interaction honeypot layer, with Suricata IDS and a telemetry dashboard for behavioural analysis.",
   "Tracks": [
-    "Internet of Things"
+    "Internet Of Things"
   ],
   "Speakers": [
     "Zeus Chan",

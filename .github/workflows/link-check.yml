@@ -1,0 +1,38 @@
+name: Link check
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # Mondays 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Collect tool URLs
+        run: |
+          python3 scripts/list_urls.py > urls.txt
+          echo "$(wc -l < urls.txt) unique URLs to check"
+
+      - name: Check links
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --no-progress --max-concurrency 4 --max-retries 2 --retry-wait-time 10 --timeout 30 urls.txt
+          output: lychee-report.md
+          fail: false
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Open an issue with the report
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Broken tool links (${{ github.run_started_at }})"
+          content-filepath: ./lychee-report.md
+          labels: broken-links

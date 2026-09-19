@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/imperva/frida-jit-unpacker",
-  "Description": null,
+  "Description": "Frida-based tool that hooks the .NET JIT compiler to dump the original IL of packed or obfuscated .NET assemblies as their methods are compiled, so protected samples can be unpacked at runtime without a static unpacker.",
   "Year": "2024",
   "Location": "Asia"
 }

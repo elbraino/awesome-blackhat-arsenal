@@ -2,7 +2,7 @@
   "Tool Name": "MEM-SBOM: Runtime SBOM Generation from Python Process Memory",
   "Description": "MEM-SBOM is a suite of Volatility 3 plugins that reconstructs Software Bills of Materials directly from the runtime state of Python applications. Static tools read build manifests and package files, which diverge from reality in an ecosystem full of conditional imports, lazy loading, custom loaders, and multi-process execution. By analysing process memory, MEM-SBOM recovers every loaded module, resolves package versions, and emits CycloneDX-compliant output describing what actually ran — valuable when a host has crashed, been encrypted by ransomware, or is otherwise inaccessible.",
   "Tracks": [
-    "Digital Forensics"
+    "Data Forensics/Incident Response"
   ],
   "Speakers": [
     "Hala Ali",

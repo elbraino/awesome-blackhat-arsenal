@@ -1,0 +1,33 @@
+name: Add a tool
+description: Suggest a tool that was presented at Black Hat Arsenal but is missing from the list
+labels: [add-tool]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool name
+      placeholder: e.g. Cool Exploit Framework
+    validations:
+      required: true
+  - type: input
+    id: event
+    attributes:
+      label: Event
+      description: Region and year it was presented (USA, Europe, Asia, Canada or MEA)
+      placeholder: e.g. USA 2026
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Repository / project URL
+      placeholder: https://github.com/owner/repo
+  - type: input
+    id: speakers
+    attributes:
+      label: Speaker(s)
+  - type: textarea
+    id: description
+    attributes:
+      label: Short description
+      description: 2–3 sentences on what the tool does

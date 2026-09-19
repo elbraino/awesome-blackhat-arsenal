@@ -1,6 +1,6 @@
 {
   "Tool Name": "Automated Memory Analysis",
-  "Speakers": null,
+  "Speakers": [],
   "Tracks": [
     "Reverse Engineering"
   ],

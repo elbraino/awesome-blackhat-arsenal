@@ -2,7 +2,7 @@
   "Tool Name": "LoRaCraft – Crafting Attacks for LoRaWAN Networks",
   "Description": "LoRaCraft is a LoRaWAN security assessment framework built for real audits of the smart meters, agricultural sensors, and industrial automation that rely on the protocol. It covers join request replay against LoRaWAN 1.0.x DevNonce weaknesses, AES-CTR bit-flipping, authenticated packet injection with known session keys, energy depletion through confirmed uplink flooding and MAC command abuse, and rogue gateway operation. Traffic arrives from PCAPs, MQTT subscriptions to ChirpStack or TTN, or a built-in fake gateway, with optional SDR-based jamming and PHY sniffing.",
   "Tracks": [
-    "Internet of Things"
+    "Internet Of Things"
   ],
   "Speakers": [
     "Pinar",

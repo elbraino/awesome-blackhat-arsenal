@@ -1,6 +1,6 @@
 {
   "Tool Name": "OWASP PCI Toolkit",
-  "Speakers": null,
+  "Speakers": [],
   "Tracks": [
     "Web AppSec"
   ],

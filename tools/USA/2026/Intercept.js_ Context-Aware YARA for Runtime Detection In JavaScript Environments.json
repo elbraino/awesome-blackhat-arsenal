@@ -2,7 +2,7 @@
   "Tool Name": "Intercept.js: Context-Aware YARA for Runtime Detection In JavaScript Environments",
   "Description": "Intercept.js is an open-source detection engine written in vanilla JavaScript that fuses byte-level pattern matching with runtime context in a single rule model, targeting browsers, email clients, and Office add-ins where payloads exist only as in-memory buffers. Compatible with standard YARA syntax and modules, it lets rules combine content inspection with metadata such as domain novelty, sender reputation, MIME discrepancies, and user gesture state. Aho-Corasick matching and enforced match caps keep it viable in constrained environments.",
   "Tracks": [
-    "Malware"
+    "Malware Defense"
   ],
   "Speakers": [
     "Rishi Kant"

@@ -1,0 +1,23 @@
+name: Fix a broken or wrong link
+description: A tool's GitHub URL is dead, or points to the wrong project
+labels: [broken-links]
+body:
+  - type: input
+    id: file
+    attributes:
+      label: Tool (or path to its JSON file)
+      placeholder: e.g. tools/USA/2013/Vega.json
+    validations:
+      required: true
+  - type: input
+    id: current
+    attributes:
+      label: Current URL
+  - type: input
+    id: correct
+    attributes:
+      label: Correct URL (if known)
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes

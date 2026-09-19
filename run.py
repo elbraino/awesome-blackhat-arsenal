@@ -1,12 +1,18 @@
-# run.py — One-click script to go from scraped data to auto-generated README
+# run.py — Runs the legacy import pipeline end to end (scrape → split → categorize → URLs → README).
+#
+# NOTE: each step's input/output folder is configured inside the step's own script
+# (see arsenal-builder/README.md). Set those first; this runner only chains the steps.
+# For 2026+ events the per-event scripts in arsenal-builder/ (scrape_<region>_2026.py,
+# build_usa_2026.py, gh_candidates.py, apply_usa_2026_urls.py) are the current approach.
 
 import os
+import sys
 import subprocess
 
 # -----------------------------
 # ✅ CONFIGURATION
 # -----------------------------
-REGION = "Canada"  # Change this to "Europe", "USA", "Asia", etc.
+REGION = sys.argv[1] if len(sys.argv) > 1 else "USA"  # e.g. python run.py Europe
 SCRAPE_MODE = "modern"  # Options: "modern" or "legacy"
 
 # Folder paths (can be customized if needed)
@@ -24,10 +30,11 @@ steps = [
     ("🔎 Step 1: Scraping Event Schedule Pages", f"python {SCRAPE_SCRIPT}"),
     ("🗂️ Step 2: Adding Year & Country", "python arsenal-builder/update_metadata_fields.py"),
     ("🔄 Step 3: Splitting Tools into Individual Files", "python arsenal-builder/split_tools_to_individual_files.py"),
-    ("📊 Step 4: Predicting Categories with LLM", "python arsenal-builder/CategoryPredictor.py"),
+    ("📊 Step 4: Predicting Categories with LLM", "python arsenal-builder/CategoryPredicter.py"),
     ("🔗 Step 5: Finding GitHub URLs", "python arsenal-builder/add_github_urls.py"),
-    ("📁 Step 6: Flattening Folder Structure (Optional)", "python arsenal-builder/flatten_tool_folders.py"),
-    ("📝 Step 7: Generating Final README Files", "python arsenal-builder/AutoReadme.py")
+    ("📁 Step 6: Flattening Folder Structure (Optional)", f"python flatten_tool_files.py {REGION}"),
+    ("✅ Step 7: Validating tool files", "python scripts/validate.py"),
+    ("📝 Step 8: Generating Final README Files", "python AutoReadme.py")
 ]
 
 print("""
