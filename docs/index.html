@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Black Hat Arsenal tools</title>
+<meta name="description" content="Search every tool presented at Black Hat Arsenal by name, speaker, track, region and year.">
+<style>
+  :root {
+    --bg: #ffffff; --fg: #1f2328; --muted: #59636e; --border: #d1d9e0; --card: #f6f8fa;
+    --accent: #0969da; --chip: #ddf4ff; --chip-fg: #0550ae;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0d1117; --fg: #e6edf3; --muted: #8d96a0; --border: #30363d; --card: #161b22;
+      --accent: #4493f8; --chip: #121d2f; --chip-fg: #79c0ff;
+    }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg);
+         font: 15px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  main { max-width: 960px; margin: 0 auto; padding: 24px 16px 64px; }
+  h1 { font-size: 1.6rem; margin: 0 0 4px; }
+  .sub { color: var(--muted); margin: 0 0 20px; }
+  .sub a { color: var(--accent); }
+  form { display: grid; grid-template-columns: 1fr; gap: 8px; margin-bottom: 12px; }
+  @media (min-width: 640px) { form { grid-template-columns: 2fr 1fr 1fr 1.6fr; } }
+  input, select { width: 100%; padding: 8px 10px; font: inherit; color: var(--fg); background: var(--bg);
+                  border: 1px solid var(--border); border-radius: 6px; }
+  .count { color: var(--muted); font-size: 0.9rem; margin: 0 0 12px; }
+  .count button { font: inherit; color: var(--accent); background: none; border: 0; padding: 0; cursor: pointer; }
+  .tool { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 10px 14px; margin-bottom: 8px; }
+  .tool summary { cursor: pointer; font-weight: 600; list-style: none; }
+  .tool summary::-webkit-details-marker { display: none; }
+  .tool summary::before { content: "▸ "; color: var(--muted); }
+  .tool[open] summary::before { content: "▾ "; }
+  .meta { color: var(--muted); font-size: 0.85rem; margin: 2px 0 0 1.1em; }
+  .chip { display: inline-block; background: var(--chip); color: var(--chip-fg); border-radius: 999px;
+          padding: 0 8px; font-size: 0.8rem; margin-right: 4px; }
+  .body { margin: 8px 0 4px 1.1em; }
+  .body a { color: var(--accent); word-break: break-all; }
+  .more { display: block; width: 100%; padding: 10px; margin-top: 8px; font: inherit; color: var(--accent);
+          background: var(--card); border: 1px solid var(--border); border-radius: 8px; cursor: pointer; }
+  .error { color: #d1242f; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Black Hat Arsenal tools</h1>
+  <p class="sub">Every tool presented at Black Hat Arsenal, searchable. Data:
+    <a href="../tools.json">tools.json</a> · Source: <a href="https://github.com/elbraino/awesome-blackhat-arsenal">awesome-blackhat-arsenal</a></p>
+
+  <form id="filters" onsubmit="return false">
+    <input id="q" type="search" placeholder="Search name, description, speaker…" autocomplete="off" aria-label="Search">
+    <select id="region" aria-label="Region"><option value="">All regions</option></select>
+    <select id="year" aria-label="Year"><option value="">All years</option></select>
+    <select id="track" aria-label="Track"><option value="">All tracks</option></select>
+  </form>
+  <p class="count" id="count">Loading…</p>
+  <div id="results"></div>
+</main>
+
+<script>
+(function () {
+  const $ = id => document.getElementById(id);
+  const PAGE = 200;
+  let tools = [], filtered = [], shown = 0;
+
+  function fill(select, values) {
+    for (const v of values) {
+      const o = document.createElement("option");
+      o.value = o.textContent = v;
+      select.appendChild(o);
+    }
+  }
+
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  }
+
+  function card(t) {
+    const link = t["Github URL"]
+      ? `<a href="${esc(t["Github URL"])}" rel="noopener">${esc(t["Github URL"])}</a>`
+      : "<em>no link</em>";
+    const chips = t.Tracks.map(x => `<span class="chip">${esc(x)}</span>`).join("");
+    const speakers = t.Speakers.length ? " · " + esc(t.Speakers.join(", ")) : "";
+    return `<details class="tool">
+      <summary>${esc(t["Tool Name"])}</summary>
+      <div class="meta">${esc(t.Location)} ${esc(t.Year)}${speakers}</div>
+      <div class="meta">${chips}</div>
+      <div class="body">🔗 ${link}<br>${esc(t.Description)}</div>
+    </details>`;
+  }
+
+  function renderMore() {
+    const slice = filtered.slice(shown, shown + PAGE);
+    const frag = document.createElement("div");
+    frag.innerHTML = slice.map(card).join("");
+    const old = $("results").querySelector(".more");
+    if (old) old.remove();
+    while (frag.firstChild) $("results").appendChild(frag.firstChild);
+    shown += slice.length;
+    if (shown < filtered.length) {
+      const b = document.createElement("button");
+      b.className = "more";
+      b.textContent = `Show ${Math.min(PAGE, filtered.length - shown)} more (${filtered.length - shown} left)`;
+      b.onclick = renderMore;
+      $("results").appendChild(b);
+    }
+  }
+
+  function apply() {
+    const q = $("q").value.trim().toLowerCase();
+    const region = $("region").value, year = $("year").value, track = $("track").value;
+    filtered = tools.filter(t =>
+      (!region || t.Location === region) &&
+      (!year || t.Year === year) &&
+      (!track || t.Tracks.includes(track)) &&
+      (!q || t._text.includes(q)));
+    $("results").innerHTML = "";
+    shown = 0;
+    $("count").innerHTML = `${filtered.length} of ${tools.length} tools` +
+      (q || region || year || track ? ' · <button type="button" id="clear">clear filters</button>' : "");
+    const c = $("clear");
+    if (c) c.onclick = () => { $("filters").reset(); apply(); };
+    renderMore();
+    const p = new URLSearchParams();
+    if (q) p.set("q", $("q").value.trim());
+    if (region) p.set("region", region);
+    if (year) p.set("year", year);
+    if (track) p.set("track", track);
+    history.replaceState(null, "", p.toString() ? "?" + p : location.pathname);
+  }
+
+  fetch("../tools.json").then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }).then(data => {
+    tools = data.map(t => ({ ...t, _text: [t["Tool Name"], t.Description, ...t.Speakers].join(" ").toLowerCase() }));
+    fill($("region"), [...new Set(tools.map(t => t.Location))].sort());
+    fill($("year"), [...new Set(tools.map(t => t.Year))].sort().reverse());
+    fill($("track"), [...new Set(tools.flatMap(t => t.Tracks))].sort());
+    const p = new URLSearchParams(location.search);
+    $("q").value = p.get("q") || "";
+    for (const k of ["region", "year", "track"]) if (p.get(k)) $(k).value = p.get(k);
+    for (const el of $("filters").elements) el.addEventListener("input", apply);
+    apply();
+  }).catch(e => {
+    $("count").innerHTML = `<span class="error">Could not load ../tools.json (${esc(e.message)}). ` +
+      `Serve the repository root, e.g. <code>python3 -m http.server</code>, then open /docs/.</span>`;
+  });
+})();
+</script>
+</body>
+</html>
