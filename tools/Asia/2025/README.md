@@ -19,7 +19,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 ## ⚙️ Miscellaneous / Lab Tools
 <details><summary><strong>AI Wargame</strong> — Pedram Hayati</summary>
 
-**Track:** Arsenal Lab · Code Assessment · AI, ML & Data Science · **Event:** Asia 2025  
+**Track:** Arsenal Lab · Code Assessment · **Event:** Asia 2025  
 🔗 **Link:** [https://play.secdim.com/](https://play.secdim.com/)  
 📝 **Description:** AI Wargame is an interactive attack-and-defense platform where players secure their own AI chatbot's secrets while attempting to extract secrets from opponents' chatbots. It provides a king-of-the-hill style competition for learning prompt injection, AI security hardening, and chatbot defense techniques at all skill levels.
 
@@ -35,7 +35,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 <details><summary><strong>CompatrIoT</strong> — Sreesankar S, Season Cherian</summary>
 
-**Track:** Arsenal Lab · Hardware/Embedded · Internet Of Things · **Event:** Asia 2025  
+**Track:** Arsenal Lab · Hardware/Embedded · **Event:** Asia 2025  
 🔗 **Link:** [https://github.com/traboda/CompatrIoT](https://github.com/traboda/CompatrIoT)  
 📝 **Description:** CompartIoT is an open-source hardware security training platform that serves as a dedicated target for learning real-world hardware security techniques. Built around dual microcontrollers (STM32 and ESP32) design, this training board enables security researchers, hobbyists, and students to practice protocol analysis, firmware exploitation, and hardware security assessment through comprehensive hands-on labs.
 
@@ -45,7 +45,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 ## 🌐 Web/AppSec
 <details><summary><strong>AI Goat</strong> — Ofir Yakobi, Shir Sadon</summary>
 
-**Track:** Web AppSec · AI, ML & Data Science · **Event:** Asia 2025  
+**Track:** Web AppSec · **Event:** Asia 2025  
 🔗 **Link:** [https://github.com/orcasecurity-research/AIGoat](https://github.com/orcasecurity-research/AIGoat)  
 📝 **Description:** AI Goat is an intentionally vulnerable, open-source AI infrastructure designed to educate security enthusiasts and penetration testers about AI-specific vulnerabilities, aligning with the OWASP ML Top 10. This session will introduce AI Goat, demonstrate deployment methods, and expose participants to various vulnerabilities they will learn to exploit. By engaging directly with AI Goat, attendees will gain hands-on experience in recognizing and mitigating risks in AI systems, enhancing their understanding of the AI threat landscape.
 

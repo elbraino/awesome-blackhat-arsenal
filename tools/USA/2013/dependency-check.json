@@ -1,0 +1,11 @@
+{
+  "Tool Name": "Dependency-Check",
+  "Description": "Does your application have dependencies on 3rd party libraries? Do you know if those same libraries have published CVEs? Dependency-Check, an OWASP project, can help by providing identification and monitoring of application dependencies. The core engine can scan the libraries and will create an inventory of all the dependent libraries and whether or not there are any published CVEs. Dependency-Check's new build plugins will be demonstrated as well as how the tool can be used to perform continuous monitoring of your applications and their dependencies.",
+  "Github URL": "",
+  "Tracks": [],
+  "Speakers": [
+    "Jeremy Long"
+  ],
+  "Year": "2013",
+  "Location": "USA"
+}

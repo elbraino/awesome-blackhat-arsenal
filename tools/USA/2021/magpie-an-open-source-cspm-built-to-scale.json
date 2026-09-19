@@ -1,6 +1,6 @@
 {
   "Tool Name": "Magpie: An Open Source CSPM Built to Scale",
-  "Description": "An open-source Cloud Security Posture Management (CSPM) tool designed to help organizations discover, inventory, and assess the security configuration of their cloud resources at scale.",
+  "Description": "Open Raven is an open-core cloud and data security company recently selected as a finalist for the RSA Innovation Sandbox 2021. The core of our product is an open source framework that discovers assets in AWS and analyzes their security configuration, a category of tools called CSPM's or Cloud Security Posture Managers. We have released this core as an open source project called Magpie. Magpie has been tested in massive cloud environments with hundreds of thousands of assets and along the way we have learned a lot. This talk will dive deep into why Magpie is architected the way it is, how it works and how you can write your own security rules.",
   "Github URL": "https://github.com/blinue/magpie",
   "Tracks": [
     "Vulnerability Assessment"

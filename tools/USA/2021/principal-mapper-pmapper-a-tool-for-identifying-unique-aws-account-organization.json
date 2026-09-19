@@ -1,6 +1,6 @@
 {
   "Tool Name": "Principal Mapper (PMapper): A Tool for Identifying Unique AWS Account/Organization Permissions Risks",
-  "Description": "A security analysis tool that models IAM Users and Roles in an AWS account as a directed graph to identify privilege escalation risks and unauthorized access paths. It simulates AWS authorization behavior locally to detect when principals could gain unintended access through intermediate roles.",
+  "Description": "Principal Mapper (PMapper) is an open source tool and library for assessing AWS IAM and AWS Organizations for security concerns, such as privilege escalation and resource isolation. It tracks and identifies the different ways that one given IAM User/Role (Principal) could pivot to other IAM Users or Roles by reviewing all applicable IAM Policies. After gathering this data, PMapper can perform additional analysis, querying, and visualization. The querying and analysis systems of PMapper goes beyond checking if a principal is authorized to make a specific AWS API call. It will check if the principal can go through other principals to make a specified AWS API call. In a real-world example: if a user is not authorized to get an S3 object, PMapper also checks if the user can run an EC2 instance with a role as a means of bypassing that restriction. This means that PMapper tells you the effective permissions of each IAM User and Role, and the impact of the extra access you may grant to those principals.",
   "Github URL": "https://github.com/nccgroup/Pmapper",
   "Tracks": [
     "Vulnerability Assessment"

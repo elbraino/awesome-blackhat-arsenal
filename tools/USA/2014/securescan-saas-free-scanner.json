@@ -5,7 +5,9 @@
   "Tracks": [
     "Vulnerability Assessment"
   ],
-  "Speakers": [],
+  "Speakers": [
+    "Edward Smith"
+  ],
   "Year": "2014",
   "Location": "USA"
 }

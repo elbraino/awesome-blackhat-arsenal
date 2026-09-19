@@ -1,6 +1,6 @@
 {
   "Tool Name": "Rickmote Controller",
-  "Description": "Take control over your neighbors' TVs like you see in the movies! Google Chromecast is a handy little gadget that lets you stream video to your TV from a variety of sources like Netflix and YouTube. It also allows streaming from nearby hackers.",
+  "Description": "Take control over your neighbors' TVs like you see in the movies! Google Chromecast is a handy little gadget that lets you stream video to your TV from a variety of sources like Netflix and YouTube. It also allows streaming from nearby hackers. I'll demonstrate how to hijack any Google Chromecast -- even if it's behind a secure Wi-Fi network -- to do your bidding. I’ll also be revealing a new tool to fully automate the hijacking and playing of arbitrary video to the victim's TV. Let the prank war commence.",
   "Github URL": "https://github.com/BishopFox/rickmote",
   "Tracks": [
     "Internet Of Things"

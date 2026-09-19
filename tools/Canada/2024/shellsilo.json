@@ -1,6 +1,6 @@
 {
   "Tool Name": "ShellSilo",
-  "Description": "A Python-based utility that converts C syntax code into syscall assembly language and corresponding shellcode, streamlining the process of constructing structures, assigning variables, and making system calls for x64 Windows.",
+  "Description": "SHELLSILO is a cutting-edge tool that translates custom C syntax into syscall assembly and its corresponding shellcode. It streamlines the process of constructing and utilizing structures, assigning variables, and making system calls. With this tool, integrating strings into your shellcode and initializing Unicode strings has never been easier.",
   "Github URL": "https://github.com/nixpal/shellsilo",
   "Tracks": [
     "Exploitation and Ethical Hacking",

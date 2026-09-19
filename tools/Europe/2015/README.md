@@ -1,10 +1,11 @@
 # Europe 2015
 ---
-📍 18 tools demonstrated at **Black Hat Arsenal Europe 2015**, grouped by track category. Expand a tool for its description.
+📍 31 tools demonstrated at **Black Hat Arsenal Europe 2015**, grouped by track category. Expand a tool for its description.
 
 See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../BY_NAME.md) · [main index](../../../README.md)
 
 ## 📚 Contents
+- [Others](#others) (13)
 - [🌐 Web/AppSec](#-webappsec) (6)
 - [📱 Mobile Security](#-mobile-security) (2)
 - [🔍 OSINT](#-osint) (1)
@@ -12,6 +13,112 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 - [🔴 Red Teaming / AppSec](#-red-teaming--appsec) (1)
 - [🔵 Blue Team & Detection](#-blue-team--detection) (3)
 - [🟣 Red Teaming / Embedded](#-red-teaming--embedded) (2)
+---
+## Others
+<details><summary><strong>Android Tamer</strong> — Anant Shrivastava</summary>
+
+**Track:** — · **Event:** Europe 2015  
+🔗 **Link:** Not Available  
+📝 **Description:** Android Tamer is a Virtual / Live Platform for Android Security professionals. This reduces the needs to configure your own environment. This Environment allows people to work on large array of android security related task's ranging from Malware Analysis, Penetration Testing and Reverse Engineering.
+
+</details>
+
+<details><summary><strong>BinProxy</strong> — DongJoo Ha, Ingyu Tae, Jisun Kim</summary>
+
+**Track:** — · **Event:** Europe 2015  
+🔗 **Link:** Not Available  
+📝 **Description:** It has been a while since the attackers have been targeting various fields in the IT industry, including binary applications, mobile apps, embedded devices, web applications, and the like. One of the biggest problems for the whitehats that focus on defending these attacks, is "Lack of time and manpower". We try to compensate that issue. Basically, what it does is create an easy environment to dynamically analyze executables. We made a new framework to analyze applications called "BinProxy" inspired by web proxy. Our approach can be used to analyze the normal(binary) applications with a web proxy, and applied to Windows, Linux and Mac environments as well as mobile environments such as Android and iOS. Our framework solves the lack of time and manpower through the following functions without using any debugger, decompiler and other undesirable reversing and hooking tools since there is no need to learn and look up the manual how to use those tools:- Finding function needed to analyze and monitor- Modifying function parameters and return values by using web proxy- Reading/Writing memory, executing certain function and code by using web proxy- Controlling function using script languages We want to this framework be a open source project. Proof of Concept : https://www.youtube.com/playlist?list=PLNa87eQJGfPXbgj9hMGqijWlzxIHJ8brp
+
+</details>
+
+<details><summary><strong>BTA</strong> — Joffrey Czarny</summary>
+
+**Track:** — · **Event:** Europe 2015  
+🔗 **Link:** Not Available  
+📝 **Description:** When it comes to the security of the information system, Active Directory domain controllers are, or should be, at the center of concerns, which are (normally) to ensure compliance with best practices, and during a compromise proved to explore the possibility of cleaning the information system without having to rebuild Active Directory. However, few tools implement this process and several ways exist to backdoor Active Directory. We propose to present some possible backdoors which could be set by an intruder in Active Directory to keep administration rights. For example, how to modify the AdminSDHolder container in order to reapply rights after administrator actions. Moreover, backdoors can be implemented in Active Directory to help an intruder to gain back his privileges. Then, we will present BTA, an audit tool for Active Directory databases, and our methodology for verifying the application of good practices and the absence of malicious changes in these databases. The presentation will be organized as follows:- We begin by describing the stakes around the Active Directory, centerpiece of any information system based on Microsoft technologies.- We will continue by demonstrating some backdoors in order to keep admins rights or to help an intruder to quickly recover admins rights.- We will present BTA and the methodology developed to analysis Active Directory.- We conclude with a feedback on real world usage of BTA. More information can be found on the Bitbucket repository: https: //bitbucket.org/iwseclabs/bta
+
+</details>
+
+<details><summary><strong>CuckooDroid - An Automated Malware Analysis Framework</strong> — Idan Revivo</summary>
+
+**Track:** — · **Event:** Europe 2015  
+🔗 **Link:** Not Available  
+📝 **Description:** To combat the growing problem of Android malware, we present a new solution based on the popular open source framework Cuckoo Sandbox to automate the malware investigation process. Our extension enables the use of Cuckoo's features to analyze Android malware and provides new functionality for dynamic and static analysis. Our framework is an all in one solution for malware analysis on Android. It is extensible and modular, allowing the use of new, as well as existing, tools for custom analysis. The main capabilities of our CuckooDroid include:- Dynamic Analysis - based on Dalvik API hooking- Static Analysis - Integration with Androguard- Emulator Detection Prevention- Virtualization Managers that support the popular virtualization solutions (VMware,Virtualbox, Esxi, Xen, and Kvm) and now also android emulator.- Traffic Analysis- Intelligence Gathering - Collecting information from Virustotal, Google Play etc.- Behavioral Signatures Examples of well-known malware will be used to demonstrate the framework capabilities and its usefulness in malware analysis.
+
+</details>
+
+<details><summary><strong>Exploit Pack</strong> — Juan Sacco</summary>
+
+**Track:** — · **Event:** Europe 2015  
+🔗 **Link:** Not Available  
+📝 **Description:** Exploit Pack is an open source security framework for exploit developers, pentesters and security enthusiasts. Exploit Pack uses an advanced software-defined interface that supports rapid reconfiguration to adapt exploit codes to the constantly evolving threat environment. Objectively measure threats, vulnerabilities, impact and risks associated with specific cyber-security incidents by rapidly reacting on the integration of both, offensive and defensive security.
+
+</details>
+
+<details><summary><strong>Faraday</strong> — Daniel Foguel</summary>
+
+**Track:** — · **Event:** Europe 2015  
+🔗 **Link:** Not Available  
+📝 **Description:** Since collaborative pentesting is more common each day, sharing the information generated by the pentesters between each other could become a difficult task. Different tools, different formats, long outputs (in the case of having to audit a large network) can make it almost impossible. You may end up with wasted efforts, duplicated tasks, a lot of text files scrambled in your working directory. And then, you need to collect that same information from your teammates and write a report for your client, trying to be as clear as possible. The idea of Faraday is to help you to share all the information that is generated during the pentest, without changing the way you work. You run a command, or import a report, and Faraday will normalize the result and share that with the rest of the team in real time. Faraday has most than 40 plugins (and counting) available, including a the most used tools (msf, nmap, sqlmap to name a few), and if you use a tool for which Faraday doesn't have a plugin, you can create your own. During this presentation we're going to show you the latest version of the tool, and how can be used to improve the effectiveness of your team during a penetration test.
+
+</details>
+
+<details><summary><strong>FindSecurityBugs</strong> — Philippe Arteau, David Formanek</summary>
+
+**Track:** — · **Event:** Europe 2015  
+🔗 **Link:** Not Available  
+📝 **Description:** FindSecurityBugs is a plugin for the Java static analysis tool FindBugs. This plugin consists of set rules that focus only on security weaknesses. It can be use by developers or security analysts to find vulnerabilities in their code.
+
+</details>
+
+<details><summary><strong>Lynis</strong> — Michael Boelen</summary>
+
+**Track:** — · **Event:** Europe 2015  
+🔗 **Link:** Not Available  
+📝 **Description:** Most of us have performed some level of system hardening, using checklists or custom scripts. The next level is to keep the security defenses of your systems compliant with your baselines. Lynis is an open source tool to help you with this goal. It is portable, flexible and specialized on Linux/Unix based systems. It performs an in-depth health check of your systems and tells you what additional steps you can take to lock things down. In this demo, we will see how easy it is to use, yet flexible enough to support much more than initially is visible.
+
+</details>
+
+<details><summary><strong>OSXCollector</strong> — Kuba Sendor</summary>
+
+**Track:** — · **Event:** Europe 2015  
+🔗 **Link:** Not Available  
+📝 **Description:** OSXCollector is an open source forensic evidence collection and analysis toolkit for Mac OS X. It automates the forensic evidence collection and analysis that previously Yelp's team of responders has been doing manually. We use Macs a lot at Yelp, which means that we see our fair share of Mac-specific malware alerts. Host based detectors like antivirus software will tell us about known malware infestations or weird new startup items. Network based detectors see potential CnC callouts or DNS requests to resolve suspicious domains. Sometimes our awesome employees just let us know, "Hey, I think I have like Stuxnet or conficker or something on my laptop."When alerts fire, our incident response team's first goal is to "stop the bleeding" to contain and then eradicate the threat. Next, we move to "root cause the alert" figuring out exactly what happened and how we'll prevent it in the future. One of our primary tools for root causing OS X alerts is OSXCollector. It was developed in-house at Yelp to automate the digital forensics and incident response (DFIR) based on our past experiences when dealing with the malware infections and other threats haunting Yelp's corporate network.https://github.com/Yelp/osxcollector
+
+</details>
+
+<details><summary><strong>peepdf</strong> — Jose Miguel Esparza</summary>
+
+**Track:** — · **Event:** Europe 2015  
+🔗 **Link:** Not Available  
+📝 **Description:** peepdf is a Python tool to explore PDF files in order to find out if the file can be harmful or not. The aim of this tool is to provide all the necessary components that a security researcher could need in a PDF analysis without using 3 or 4 tools to make all the tasks. With peepdf it's possible to see all the objects in the document showing the suspicious elements, supports all the most used filters and encodings, it can parse different versions of a file, object streams and encrypted files. With the installation of PyV8 and Pylibemu it provides Javascript and shellcode analysis wrappers too. Apart of this it's able to create new PDF files and modify/obfuscate existent ones.
+
+</details>
+
+<details><summary><strong>Pestudio</strong> — Marc Ochsenmeier</summary>
+
+**Track:** — · **Event:** Europe 2015  
+🔗 **Link:** Not Available  
+📝 **Description:** Pestudio is a unique tool that allows you to perform an initial assessment of a malware without even infecting a lab system or studying its code. Malicious executable often attempts to hide its malicious behavior and to evade detection. In doing so, it generally presents anomalies and suspicious patterns. The goal of Pestudio is to detect these anomalies, provide Indicators and score the Trust for the executable being analyzed. Since the executable file being analyzed is never started, you can inspect any unknown or malicious executable with no risk. Pestudio has been in the top 10 list of "Best Security Tool" in 2013 and 2014 by the readers of ToolsWatch.org.
+
+</details>
+
+<details><summary><strong>Reissue Request Scripter (Burp Plugin)</strong> — Philippe Arteau</summary>
+
+**Track:** — · **Event:** Europe 2015  
+🔗 **Link:** Not Available  
+📝 **Description:** This Burp plugin has one focus built script to replay HTTP request with various scripting languages. It supports Python, Ruby, Perl, PHP, Powershell, and JavaScript. It is the swiss knife of the custom HTTP web exploits. This plugin starts where other automated tools reach their limit. It integrates itself well with "python-paddingoracle" tool to create custom padding oracle attack. It can be used to build quickly malicious JavaScript request for XSS payload. It can be used along sqlmap to exploit second order SQL injection. The BH Arsenal demo will focus on the most common usage: Padding Oracle, SQLi and XSS payload. The Burp plugin is available for download on GitHub and on the Burp App Store:- https://github.com/h3xstream/http-script-generator- https://pro.portswigger.net/bappstore/ShowBappDetails.aspx?uuid=6e0b53d8c801471c9dc614a016d8a20d
+
+</details>
+
+<details><summary><strong>Rudra - The Destroyer of Evil</strong> — Ankur Tyagi</summary>
+
+**Track:** — · **Event:** Europe 2015  
+🔗 **Link:** Not Available  
+📝 **Description:** Rudra aims to provide a developer-friendly framework for exhaustive analysis of (PCAP and PE) files. It provides features to scan and generate reports that include file's structural properties, entropy visualization, compression ratio, theoretical minsize, etc. These details, alongwith file-format specific analysis information, help an analyst to understand the type of data embedded in a file and quickly decide if it deserves further investigation. Rudra now supports scanning PE files and can perform API scans, anti{debug, vm, sandbox} detection, packer detection, authenticode verification, alongwith Yara, shellcode, and regex detection upon them. Additionally, following new features are being added for the first beta release: - Interactive console providing access to all internal data structures and objects, exposing a rich API for users- Plugin architecture to operate upon decoded file content (usecases might be to write a decoder for a new RAT found in the wild or to write a custom unpacker for a binary stub, etc.)- Extracting subfiles and optionally scanning them if needed- Heuristics to identify suspicious network flows and exe files The report for each analyzed file can be dumped to disk as a JSON/HTML/PDF. If needed, analysis can be customized via CLI arguments, config file, or interactive console. Rudra also supports protocol identification, decoding, and normalization. It can analyze embedded URLs and IP addresses within files and gather whois/geolocation information for them. Users can view live mapping of identified hosts and correlate the results from different analysis modules to perform deeper investigation.
+
+</details>
+
 ---
 ## 🌐 Web/AppSec
 <details><summary><strong>Commix: Detecting And Exploiting Command Injection Flaws</strong> — Anastasios Stasinopoulos</summary>
@@ -86,7 +193,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** OSINT - Open Source Intelligence · **Event:** Europe 2015  
 🔗 **Link:** [https://github.com/virustotal](https://github.com/virustotal)  
-📝 **Description:** VirusTotal.com is the free online file and URL scanner that everyone knows. However there are many free features that many users don't know about such as:- IP address and domain reputation. See malware files known to be associated with a particular IP address or domain- Passive DNS info- Searching on file hash, and related files- Carbon black integration- Ctatic analysis of files, structural analysis of many file types (PE, ELF, APK, ZIP, RAR, MACHO, .NET, office, etc)- Sandbox dynamic analysis of PE, and APK files- ROMS, BIOS, and firmware files- SSDEEP, authentihash, imphash, and other similarity indexes- Certificate checks on signed files- Whitelisting of trusted files- Free desktop scanning applications for Windows, MAC, and open source for compilation on linux.
+📝 **Description:** VirusTotal.com is the free online file and URL scanner that everyone knows. However there are many free features that many users don't know about such as: - IP address and domain reputation. See malware files known to be associated with a particular IP address or domain- Passive DNS info- Searching on file hash, and related files- Carbon black integration- Ctatic analysis of files, structural analysis of many file types (PE, ELF, APK, ZIP, RAR, MACHO, .NET, office, etc)- Sandbox dynamic analysis of PE, and APK files- ROMS, BIOS, and firmware files- SSDEEP, authentihash, imphash, and other similarity indexes- Certificate checks on signed files- Whitelisting of trusted files- Free desktop scanning applications for Windows, MAC, and open source for compilation on linux.
 
 </details>
 
@@ -96,7 +203,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Malware Offense · **Event:** Europe 2015  
 🔗 **Link:** Not Available  
-📝 **Description:** In this second version of the tool, a plugin for the exploitation of ORACLE database will be added, which will become an even more attractive exploit.DICOM (Digital Imaging and Communications in Medicine) is recognized worldwide for the exchange of medical tests, designed for handling, display, storage, printing, and transmission standard. It includes defining a file format and a network communication protocol.Target:D1c0m-X.2 is a tool that is responsible for searching the TCP / IP ports of Robot surgery or x-rays, CT scans, MRI or other medical devices that use this protocol, and once found, check if the firmware is vulnerable. If they are not vulnerable, it will try to exploit using scripts, which are intended to block the connection between the server and the Robot, making a DDOS or accessing the System. Before launching the attack, D1c0m-X.2 also explores the possibility of an intrusion through the Corporative Web of the Hospital or Clinic, if the intrusion is achieved, we proceed to interact with shell console, applying different vulnerabilities, such as SQLI, Default password, etc. Finally, the DUMP of critical information of Patients, Doctors and Staff is automated.
+📝 **Description:** In this second version of the tool, a plugin for the exploitation of ORACLE database will be added, which will become an even more attractive exploit. DICOM (Digital Imaging and Communications in Medicine) is recognized worldwide for the exchange of medical tests, designed for handling, display, storage, printing, and transmission standard. It includes defining a file format and a network communication protocol. Target:D1c0m-X.2 is a tool that is responsible for searching the TCP / IP ports of Robot surgery or x-rays, CT scans, MRI or other medical devices that use this protocol, and once found, check if the firmware is vulnerable. If they are not vulnerable, it will try to exploit using scripts, which are intended to block the connection between the server and the Robot, making a DDOS or accessing the System. Before launching the attack, D1c0m-X.2 also explores the possibility of an intrusion through the Corporative Web of the Hospital or Clinic, if the intrusion is achieved, we proceed to interact with shell console, applying different vulnerabilities, such as SQLI, Default password, etc. Finally, the DUMP of critical information of Patients, Doctors and Staff is automated.
 
 </details>
 
@@ -158,7 +265,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Hardware/Embedded · **Event:** Europe 2015  
 🔗 **Link:** [https://github.com/serma-safety-security/hardsploit-gui-ruby](https://github.com/serma-safety-security/hardsploit-gui-ruby)  
-📝 **Description:** Why we chose to create HardSploit: It is clear that something is needed to help the security community to evaluate, audit and/or control the level of security in embedded systems. HardSploit is a complete tool box (hardware & software), a framework which aims to:- Facilitate the auditing of electronic systems for industry 'security' workers (consultants, auditors, pentesters, product designers, etc.)- Increase the level of security (and trust!) of new products designed by the industryHardSploit Modules & Framework:Hardsploit is an all-in-one tool hardware pentest tool with software and electronic aspects. This is a technical and modular platform (using FPGA) to perform security tests on electronic communications interfaces of embedded devices. The main hardware security audit functions are:- Sniffer- Scanner- Interact- Dump memoryHardsploit's Modules will let hardware pentesters intercept, replay and/or send data via each type of electronic bus used by the hardware target. The level of interaction that pentesters will have depends on the features of the electronic bus. Hardsploit's Modules further enable you to analyze electronic bus (serial and parallel types), JTAG, SPI, I2C's, parallel addresses & data bus on chip. Assisted Visual Wiring Function:No more stress with that tremendous part of Hardware pen testing: You will know what needs to be connected and where!We integrated into the tool an assisted visual wiring function to help you connect your wires to the hardware target:- GUI will display the pin organization (Pin OUT) of the targeted chip.- GUI will guide you throughout the wiring process between Hardsploit Connector and the target- GUI will control a set of LEDs that will turn ON and OFF to easily let you find the right Hardsploit Pin Connector to connect to your targetThe software part of the project will help to conduct an end-to-end security audit and will be compatible (integrated) with existing tools such as Metasploit. We will offer integration with other APIs in the future. Our ambition is to provide a tool equivalent to those of the company Qualys or Nessus (Vulnerability Scanner) or the Metasploit framework but in the domain of embedded systems/electronics.
+📝 **Description:** Why we chose to create HardSploit: It is clear that something is needed to help the security community to evaluate, audit and/or control the level of security in embedded systems. HardSploit is a complete tool box (hardware & software), a framework which aims to:- Facilitate the auditing of electronic systems for industry 'security' workers (consultants, auditors, pentesters, product designers, etc.)- Increase the level of security (and trust!) of new products designed by the industryHardSploit Modules & Framework: Hardsploit is an all-in-one tool hardware pentest tool with software and electronic aspects. This is a technical and modular platform (using FPGA) to perform security tests on electronic communications interfaces of embedded devices. The main hardware security audit functions are:- Sniffer- Scanner- Interact- Dump memory Hardsploit's Modules will let hardware pentesters intercept, replay and/or send data via each type of electronic bus used by the hardware target. The level of interaction that pentesters will have depends on the features of the electronic bus. Hardsploit's Modules further enable you to analyze electronic bus (serial and parallel types), JTAG, SPI, I2C's, parallel addresses & data bus on chip. Assisted Visual Wiring Function:No more stress with that tremendous part of Hardware pen testing: You will know what needs to be connected and where!We integrated into the tool an assisted visual wiring function to help you connect your wires to the hardware target:- GUI will display the pin organization (Pin OUT) of the targeted chip.- GUI will guide you throughout the wiring process between Hardsploit Connector and the target- GUI will control a set of LEDs that will turn ON and OFF to easily let you find the right Hardsploit Pin Connector to connect to your target The software part of the project will help to conduct an end-to-end security audit and will be compatible (integrated) with existing tools such as Metasploit. We will offer integration with other APIs in the future. Our ambition is to provide a tool equivalent to those of the company Qualys or Nessus (Vulnerability Scanner) or the Metasploit framework but in the domain of embedded systems/electronics.
 
 </details>
 
@@ -166,7 +273,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Hardware/Embedded · **Event:** Europe 2015  
 🔗 **Link:** [https://github.com/samratashok/Kautilya](https://github.com/samratashok/Kautilya)  
-📝 **Description:** Kautilya is a framework which enables using Human Interface Devices (HIDs) in Penetration Testing. Kautilya is capable of generating ready-to-use payloads for a HID.In this demonstration, you will see how Kautilya could be used to get access to a computer, dumping system secrets in plain, data, executing shellcode in memory, installing backdoors, dropping malicious files and much more. New payloads to backdoor a Windows machine will be released in this presentation.
+📝 **Description:** Kautilya is a framework which enables using Human Interface Devices (HIDs) in Penetration Testing. Kautilya is capable of generating ready-to-use payloads for a HID. In this demonstration, you will see how Kautilya could be used to get access to a computer, dumping system secrets in plain, data, executing shellcode in memory, installing backdoors, dropping malicious files and much more. New payloads to backdoor a Windows machine will be released in this presentation.
 
 </details>
 

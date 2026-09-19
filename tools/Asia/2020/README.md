@@ -93,7 +93,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Exploitation and Ethical Hacking · **Event:** Asia 2020  
 🔗 **Link:** [https://github.com/01rabbit/PAKURI](https://github.com/01rabbit/PAKURI)  
-📝 **Description:** PAKURI is a semi-automated, user-friendly framework for penetration testing tools. Using only the keypad, you can use the penetration test tool like a game. It's also a great introductory tool for beginners. Learn the flow of penetration testing with PAKURI without having to wrestle with confusing command lines and tools. https://github.com/01rabbit/PAKURI
+📝 **Description:** PAKURI is a semi-automated, user-friendly framework for penetration testing tools. Using only the keypad, you can use the penetration test tool like a game. It's also a great introductory tool for beginners. Learn the flow of penetration testing with PAKURI without having to wrestle with confusing command lines and tools.https://github.com/01rabbit/PAKURI
 
 </details>
 
@@ -105,7 +105,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>PEsidious: Creating Chaos with Evasive Mutative Malware</strong> — Bedang Sen, Chandni Vaya</summary>
+<details><summary><strong>PEsidious: Creating Chaos with Evasive Mutative Malware</strong> — Bedang Sen, Chandni  Vaya</summary>
 
 **Track:** Malware Offense · **Event:** Asia 2020  
 🔗 **Link:** [https://github.com/cyberforce/pesidious](https://github.com/cyberforce/pesidious)  
@@ -221,7 +221,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Reverse Engineering · **Event:** Asia 2020  
 🔗 **Link:** [https://github.com/qilingframework/qiling](https://github.com/qilingframework/qiling)  
-📝 **Description:** Analyzing binaries mostly rely on high level user tools. At the same time, you need to run the binary on the same target architecture & platform. These restrictions limit advanced automatic analysis, require special hardware resources (such as for IoT analysis), and also expose against malicious binaries. QIling is a sandbox framework that focuses on providing high level Python API to enable users to build highly customizable analysis tool on top. Using emulator technology inside, our engine can run any machine code on any target platforms. This allows analyzing Windows malware on Linux Arm64, or running IoT firmware based on Mips on MacOS, and so on. This research introduces a comprehensive overview on the Qiling. We will present all the technical issues we had to deal with, including emualating operating system layers such as syscalls, loader and linker, how qiling supports all executable file formats (PE, MachO, ELF, UEFI and MBR), and finally how we provide a framework for users to easily build their analysis tools on top of this foundation. To conclude the presentation, we will show some cool live demos, such as: Run IDA on top of Qiling of with Qiling's IDA scriptable plugin Emulate, debug and instrument MBR from Qiling Framework
+📝 **Description:** Analyzing binaries mostly rely on high level user tools. At the same time, you need to run the binary on the same target architecture & platform. These restrictions limit advanced automatic analysis, require special hardware resources (such as for IoT analysis), and also expose against malicious binaries. QIling is a sandbox framework that focuses on providing high level Python API to enable users to build highly customizable analysis tool on top. Using emulator technology inside, our engine can run any machine code on any target platforms. This allows analyzing Windows malware on Linux Arm64, or running IoT firmware based on Mips on MacOS, and so on. This research introduces a comprehensive overview on the Qiling. We will present all the technical issues we had to deal with, including emualating operating system layers such as syscalls, loader and linker, how qiling supports all executable file formats (PE, MachO, ELF, UEFI and MBR), and finally how we provide a framework for users to easily build their analysis tools on top of this foundation. To conclude the presentation, we will show some cool live demos, such as:Run IDA on top of Qiling of with Qiling's IDA scriptable pluginEmulate, debug and instrument MBR from Qiling Framework
 
 </details>
 

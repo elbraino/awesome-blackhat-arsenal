@@ -1,0 +1,11 @@
+{
+  "Tool Name": "Koodous",
+  "Description": "Koodous is a collaborative web platform for Android malware research that combines the power of online analysis tools with social interactions between the analysts over a vast APK repository (at this time, more than 10 million). It also features an Android antivirus app and a public API. Some of the features included in the tool:",
+  "Github URL": "",
+  "Tracks": [],
+  "Speakers": [
+    "Daniel Vaca"
+  ],
+  "Year": "2016",
+  "Location": "Europe"
+}

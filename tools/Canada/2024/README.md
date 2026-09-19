@@ -20,7 +20,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Cloud Security · Vulnerability Assessment · **Event:** Canada 2024  
 🔗 **Link:** [https://github.com/permiso-io-tools/detentiondodger](https://github.com/permiso-io-tools/detentiondodger)  
-📝 **Description:** A security assessment tool that identifies AWS IAM users whose credentials have been compromised by searching for users with quarantine policies and analyzing their permissions against known attack scenarios.
+📝 **Description:** AWSCompromisedKeyQuarantineV2 (v3 was released during the creation of this article) is an AWS policy that attaches to identities whose credentials are leaked. It denies access to certain actions, applied by the AWS team in the event that an IAM user's credentials have been compromised or exposed publicly. AWS recently modified their public documentation to include the following: While it is not the intended use of the policy, many see it as the first line of defense for an exposed access key. In fact, we have observed several organizations preemptively assign this policy to sensitive identities to limit actions that can occur. DetentionDodger was built as a tool to automate the process of enumerating the account for users with leaked credentials and finding out their privileges and the impact they will have on the account.
 
 </details>
 
@@ -28,7 +28,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Cloud Security · Vulnerability Assessment · **Event:** Canada 2024  
 🔗 **Link:** [https://github.com/zetafence/zentaris](https://github.com/zetafence/zentaris)  
-📝 **Description:** A cloud security tool from Zetafence that analyzes and categorizes attack paths in cloud environments using hypergraph-based risk assessment to identify and prioritize security vulnerabilities.
+📝 **Description:** Zentaris is a Cloud-Agnostic Attack Path Risk Categorization tool that maps cloud attack paths playbooks to a comprehensive risk categorization system. The framework heavily utilizes graph semantics to effectively model and evaluate risk profiles. Such a tool can be utilized to discover and categorize risks across AWS, GCP, Azure infrastructures, as well as with Kubernetes clusters. The risk evaluation system enables enterprises to categorize those playbooks and evaluate by risk levels, providing enterprises with a contextual understanding, and threat priorities.
 
 </details>
 
@@ -38,7 +38,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · Web AppSec · **Event:** Canada 2024  
 🔗 **Link:** [https://play.secdim.com/](https://play.secdim.com/)  
-📝 **Description:** An AI wargame framework built around the OpenAI Gym API that enables reinforcement learning research by allowing developers to create and train intelligent agents that compete in a strategic battle environment.
+📝 **Description:** Come join a fun and educational attack and defence AI wargame. You will be given an AI chatbot. Your chatbot has a secret that should always remain a secret! Your objective is to secure your chatbot to protect its secret while attacking other players' chatbots and discovering theirs. The winner is the player whose chatbot survives the longest (king of the hill). All skill levels are welcomed, even if this is your first time seeing code, securing a chatbot, or playing in a wargame. Right at the start, there will be a briefing to show how to play in the wargame. Knowledge of the OpenAI Python SDK helps but is not a requirement. Each player has access to their chatbot source code repository where they can run, test, debug and push their changes.
 
 </details>
 
@@ -54,7 +54,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · Data Forensics/Incident Response · **Event:** Canada 2024  
 🔗 **Link:** [https://github.com/falcosecurity/falco](https://github.com/falcosecurity/falco)  
-📝 **Description:** A cloud-native runtime security tool for Linux that monitors kernel events like syscalls and alerts on abnormal behavior in real-time, with support for container and Kubernetes metadata enrichment.
+📝 **Description:** Cloud attacks are fast. After finding an exploitable asset, malicious actors need less than 10 minutes on average to execute an attack. Although identity and access management, vulnerability management, and other preventive controls are common in cloud environments, no organization can stay safe without a threat detection and response program for addressing zero-day exploits, insider threats, and other malicious behavior. That's why Runtime Security is critical for organizations to fortify their cloud security against evolving cyber threats. Luckily we have Falco, which is an open-source runtime security tool designed to monitor, detect, and respond to abnormal behaviors in applications and containers within cloud-native environments. It provides real-time insights into system activities, allowing organizations to identify and mitigate security threats effectively. In this workshop, we will harness Falco's capabilities for runtime detection within Kubernetes and Cloud environments and combine it with the power and flexibility of Event-Driven Ansible to leverage it as a response engine to promptly address and mitigate security incidents in real time. We invite you to join us on this journey, where we will generate security events, detect them with Falco and automatically remediate them in real time with Event-Driven Ansible.
 
 </details>
 
@@ -106,7 +106,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Exploitation and Ethical Hacking · **Event:** Canada 2024  
 🔗 **Link:** [https://github.com/mbrg/power-pwn](https://github.com/mbrg/power-pwn)  
-📝 **Description:** An offensive and defensive security toolset for Microsoft 365 Power Platform that provides modules for tenant scanning, Copilot security testing, discovering misconfigured bots, and identifying data exposure risks.
+📝 **Description:** powerpwn, first introduced at blackhat last year, showcases various capabilities, from enumeration, to data exfiltration, command execution and phishing. These are all enabled by utilizing built-in capabilities within Power Platform, a low-code / no-code platform built into Office365. With the new upcoming release, powerpwn V2 allows easy unauthorized access to a broader-than-ever array of business data and services inside the Microsoft 365 ecosystem, as well as direct visibility into a variety of secrets and credentials. This is possible by scraping secrets hanging in logs or embedded in applications and without any external tools or exploits - only by capitalizing on your tenant's settings. powerpwn allows you to exploit Azure AD guest accounts, which were previously wrongly perceived as allowing restrictive access to external parties. It does so by using a series of undocumented internal APIs and common misconfigurations in Microsoft 365 which can allow data exfiltration, backdoor creation, acting upon targets for various attacks (e.g., running ransomware), and unauthorized access to sensitive business data and applications, including corporate SQL servers, Blob storages, Azure tables, and more. Red teamers can use powerpwn to conveniently maintain persistence within a Microsoft tenant using the inherent platform features, thereby ensuring continuous access to a tenant, even if their account has been disabled. It can also allow you to create, execute, and delete arbitrary commands, as well as credential harvesting & leakage to the outside world. Equally important, powerpwn V2 leverages the growing adoption of AI in business applications to demonstrate how to further attack users and extract sensitive business data through an understanding of AI mechanics, dynamic analysis and GenAI manipulation. All features are fully operational with the default Office 365 and Azure AD configuration.
 
 </details>
 
@@ -114,7 +114,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Exploitation and Ethical Hacking · Malware Offense · **Event:** Canada 2024  
 🔗 **Link:** [https://github.com/its-a-feature/Mythic](https://github.com/its-a-feature/Mythic)  
-📝 **Description:** A cross-platform, post-exploit red teaming framework built with GoLang and Docker that provides a collaborative web UI for operators and managers to conduct authorized security assessments.
+📝 **Description:** Mythic is an open-source command and control (C2) framework for offensive and defensive assessments. It leverages Docker and a microservice architecture so that new types of agents, communications profiles, and more can be easily integrated at run time. Mythic 3.3 introduced a few new features including custom authentication schemes, command augmentation containers, and an eventing engine. This allows operators to write GitHub Action-like files and register actions to be performed on cron schedules, on new callbacks, in response to tasks finishing, and even blocking tasks that aren't opsec safe. Mythic has many open-source contributors that create their own agents and communications profiles that can be found here: https://mythicmeta.github.io/overhttps://mythicmeta.github.io/overview/view/.
 
 </details>
 
@@ -122,7 +122,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Exploitation and Ethical Hacking · **Event:** Canada 2024  
 🔗 **Link:** [https://github.com/CyberDataLab/nebula](https://github.com/CyberDataLab/nebula)  
-📝 **Description:** A platform for training federated learning models within both centralized and decentralized architectures, enabling privacy-preserving collaborative machine learning across distributed devices without requiring a central server.
+📝 **Description:** Nebula is a Cloud Penetration Testing framework. It is build with modules for each provider and each functionality. It covers AWS, Azure (both Graph and Management API, which includes Entra, Azure Subscription based resources and Office365) and DigitalOcean. Currently covers: - Public Reconnaissance - Phishing - Brute-force and Password Spray - Enumeration of internal resources after initial access - Lateral Movement and Privilege Escalation - Persistence Ever since I pushed the last update, the tool has changed drastically. Now you will get a teamserver based tool, with a client and server split, authentication to access the tool, user management and a MongoDB database to save the results into.
 
 </details>
 
@@ -130,7 +130,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Malware Offense · **Event:** Canada 2024  
 🔗 **Link:** [https://github.com/gosecure/pyrdp](https://github.com/gosecure/pyrdp)  
-📝 **Description:** A Python-based RDP man-in-the-middle tool that intercepts Remote Desktop Protocol connections to capture credentials, monitor user activity, record sessions, and extract files transferred over RDP.
+📝 **Description:** PyRDP is a Remote Desktop Protocol (RDP) monster-in-the-middle (MITM) tool and library useful in intrusion testing, and protocol and malware research. Its out-of-the-box offensive capabilities can be divided into three broad categories: client-side, MITM-side and server-side. On the client-side, PyRDP can actively steal any clipboard activity, crawl mapped drives and collect all keystrokes. On the MITM-side PyRDP records everything on the wire in several formats (logs, JSON events), captures the user's hashes on-the-fly to enable hash cracking, it also allows an attacker to take control of an active session and performs a recording of the RDP session. On the server-side, on-logon PowerShell or command injection can be performed when a legitimate client connects. As a research tool, PyRDP can be used as part of a fully interactive honeypot. It can be placed in front of a Windows RDP server to intercept malicious sessions. It can replace the credentials provided in the connection sequence with working credentials to accelerate compromise and malicious behavior collection. It also saves a visual and textual recording of each RDP session, which is useful for investigation or to generate IOCs. Additionally, PyRDP saves a copy of the files that are transferred via the drive redirection feature, allowing it to collect malicious payloads. This tool is continuously maintained and used to gather information about adversaries. We think you should deploy it to learn more about who is after you. You'll be surprised what RDP can reveal.
 
 </details>
 
@@ -138,7 +138,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Exploitation and Ethical Hacking · Reverse Engineering · **Event:** Canada 2024  
 🔗 **Link:** [https://github.com/nixpal/shellsilo](https://github.com/nixpal/shellsilo)  
-📝 **Description:** A Python-based utility that converts C syntax code into syscall assembly language and corresponding shellcode, streamlining the process of constructing structures, assigning variables, and making system calls for x64 Windows.
+📝 **Description:** SHELLSILO is a cutting-edge tool that translates custom C syntax into syscall assembly and its corresponding shellcode. It streamlines the process of constructing and utilizing structures, assigning variables, and making system calls. With this tool, integrating strings into your shellcode and initializing Unicode strings has never been easier.
 
 </details>
 
@@ -154,7 +154,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Network Attacks · **Event:** Canada 2024  
 🔗 **Link:** [https://github.com/molatho/volatilevault](https://github.com/molatho/volatilevault)  
-📝 **Description:** A secure data exfiltration platform for red team operators that encrypts all data in the browser using AES-GCM, stores files temporarily with automatic deletion, and features a plugin system supporting various storage and transport mechanisms.
+📝 **Description:** In the dynamic realm of red team operations, selecting the right tools for data exfiltration is critical, yet comes with obstacles such as triggering Data Exfiltration Prevention (DEP) systems. We present "Volatile Vault" as a solution, a custom-built platform tailored to evade DEP detection. Our tool encrypts the data on the client-side and then provides a modular approach for uploading said data. Some of the currently implemented upload strategies are chunked HTTP uploads to multiple domain fronted endpoints (AWS) or QUIC as an alternative protocol.
 
 </details>
 
@@ -262,7 +262,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Network Defense · **Event:** Canada 2024  
 🔗 **Link:** [https://github.com/Marcokorcak/TCP-IP-Attack](https://github.com/Marcokorcak/TCP-IP-Attack)  
-📝 **Description:** A cybersecurity lab demonstrating TCP/IP protocol vulnerabilities including SYN flood attacks, TCP reset attacks, session hijacking, and reverse shell creation using Docker containers to simulate network environments.
+📝 **Description:** - instead of "managing" attack surfaces, you can have ZERO network attack surfaces? In other words, nothing to attack with no network ports open! - instead of giving full visibility into your ecosystem, you could make everything invisible by default, granting access only to a select few who require it? - when a hacker scans the networks, there is nothing to attack? How is this all possible? Atsign's new open-source protocol brings this vision to life..Built on the principles of Networking 2.0, it ensures edge-to-edge data encryption, keeps all keys at the edge, and cryptographically signs everything, preventing any form of snooping, even by us.
 
 </details>
 
@@ -292,7 +292,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Reverse Engineering · **Event:** Canada 2024  
 🔗 **Link:** [https://github.com/Quantumite/NopEmulator](https://github.com/Quantumite/NopEmulator)  
-📝 **Description:** A Ghidra script that emulates Intel x64 instructions to determine if a NOP sled is present in a binary by executing code sequences and comparing execution context before and after, useful for malware analysis and exploit detection.
+📝 **Description:** The NopEmulator is a Ghidra Script developed for the purpose of emulation Intel x64 instructions to determine if a Nop Sled is present in the binary. This tool originated from prior research that only used the ability to execute or parse the code as the only heuristic for valid Nop Sleds being present. This tool takes it one step further to emulate the instructions and validate if the resulting execution context is truly a Nop Sled. The tool can be applied to reverse engineering, malware analysis, and even to detecting exploits in network traffic that use Nop Sleds to transfer execution. While using the tool, the analyst has the option to configure how the script operates based on analysis need. This includes modifying the registers being analyzed by ignoring unimportant ones or specific ones based on their analysis needs. The script can also run from start-to-end, address-to-addresd, address for a length of bytes, or full analysis. The full analysis does a full bruteforce pass of every possible start and end value looking for Nop Sleds hidden within the bytes. In addition, when found, a comment is added to the starting and ending addresses to make analysis easier.
 
 </details>
 

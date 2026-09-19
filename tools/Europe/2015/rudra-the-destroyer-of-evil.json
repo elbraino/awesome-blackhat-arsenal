@@ -1,0 +1,11 @@
+{
+  "Tool Name": "Rudra - The Destroyer of Evil",
+  "Description": "Rudra aims to provide a developer-friendly framework for exhaustive analysis of (PCAP and PE) files. It provides features to scan and generate reports that include file's structural properties, entropy visualization, compression ratio, theoretical minsize, etc. These details, alongwith file-format specific analysis information, help an analyst to understand the type of data embedded in a file and quickly decide if it deserves further investigation. Rudra now supports scanning PE files and can perform API scans, anti{debug, vm, sandbox} detection, packer detection, authenticode verification, alongwith Yara, shellcode, and regex detection upon them. Additionally, following new features are being added for the first beta release: - Interactive console providing access to all internal data structures and objects, exposing a rich API for users- Plugin architecture to operate upon decoded file content (usecases might be to write a decoder for a new RAT found in the wild or to write a custom unpacker for a binary stub, etc.)- Extracting subfiles and optionally scanning them if needed- Heuristics to identify suspicious network flows and exe files The report for each analyzed file can be dumped to disk as a JSON/HTML/PDF. If needed, analysis can be customized via CLI arguments, config file, or interactive console. Rudra also supports protocol identification, decoding, and normalization. It can analyze embedded URLs and IP addresses within files and gather whois/geolocation information for them. Users can view live mapping of identified hosts and correlate the results from different analysis modules to perform deeper investigation.",
+  "Github URL": "",
+  "Tracks": [],
+  "Speakers": [
+    "Ankur Tyagi"
+  ],
+  "Year": "2015",
+  "Location": "Europe"
+}

@@ -1,6 +1,6 @@
 {
   "Tool Name": "Industrial Control Systems: Capture the Train!",
-  "Description": "A curated collection of resources for Industrial Control System (ICS) security, including tools, honeypots, research literature, educational materials, and threat intelligence feeds relevant to securing critical infrastructure and SCADA systems.",
+  "Description": "Are you curious about Industrial Control System security? Join us to get hands-on in the one and only Capture The Flag (CTF) where you are literally capturing the flag from a moving (model) train. No prior experience is required because we will teach you to scan and interact with programmable logic controllers (PLCs) that control a train and crane.",
   "Github URL": "https://github.com/hslatman/awesome-industrial-control-system-security",
   "Tracks": [
     "Arsenal Lab"

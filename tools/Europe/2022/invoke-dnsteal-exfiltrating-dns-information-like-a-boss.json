@@ -1,6 +1,6 @@
 {
   "Tool Name": "Invoke-DNSteal: Exfiltrating DNS information \"Like a Boss\"",
-  "Description": "A tool for exfiltrating data through the DNS protocol via UDP and TCP connections, with configurable query sizes, random delays, and randomized domain names to help avoid detection.",
+  "Description": "One of the most common problems during Red Team and Ethical Hacking exercises is the possibility of sending information outside the perimeter of an organization without being detected. Currently, there are a multitude of tools and techniques to perform this task (via HTTP/S, TCP, etc.) as well as the use of covert channels. These covert channels, allow us to send and receive information through protocols designed for other purposes, with the aim of disguising our traffic so as not to be discovered. In this talk, we will discuss the advantages and disadvantages of using the DNS protocol in an audit, the automation of this process from scratch, and even a new way of use never seen before or used by any other tool of this type. Based on a true success history, it will be explained in detail how it was possible to bypass the security measures implemented by a leading international manufacturer thanks to this tool and other free resources.",
   "Github URL": "https://github.com/JoelGMSec/Invoke-DNSteal",
   "Tracks": [
     "Exploitation and Ethical Hacking",

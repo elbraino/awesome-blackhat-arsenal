@@ -1,0 +1,11 @@
+{
+  "Tool Name": "WATOBO - The Web Application Toolbox",
+  "Description": "WATOBO is a security tool for testing web applications. It is intended to enable security professionals to perform efficient (semi-automated) web application security audits. Most important features are: WATOBO is written in (FX)Ruby and was initially released in May 2010 as an open source project on SourceForge (http://watobo.sourceforge.net).",
+  "Github URL": "",
+  "Tracks": [],
+  "Speakers": [
+    "Andreas Schmidt"
+  ],
+  "Year": "2014",
+  "Location": "USA"
+}

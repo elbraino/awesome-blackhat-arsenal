@@ -1,0 +1,13 @@
+{
+  "Tool Name": "Ethical Hacking Tools for Agentic AI: OWASP CTF – FinBot",
+  "Description": "The OWASP Agentic AI CTF – FinBot is the first open source educational tool designed to demonstrate the security risks of AI agents in enterprise workflows. OWASP FinBot is like the OWASP JuiceShop, but for Agentic AI. In this Arsenal session, participants will witness a live demo of the goal manipulation challenge, where adversaries can influence FinBot—an AI finance assistant for invoice processing and fraud detection—to act against its intended purpose. A series of challenge flags illustrate how subtle manipulations can override safeguards and lead to unsafe autonomy. Join this session to learn, through an open source CTF, how agentic AI can be subverted and what mitigations are needed to secure it.",
+  "Github URL": "",
+  "Tracks": [
+    "AI, ML & Data Science"
+  ],
+  "Speakers": [
+    "Helen Oakley"
+  ],
+  "Year": "2025",
+  "Location": "Canada"
+}

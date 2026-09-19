@@ -1,6 +1,6 @@
 {
   "Tool Name": "Attack & Defence AppSec Wargame",
-  "Description": "SecDim Play is an open training game and toolkit for constructing security challenges covering AppSec, DevSecOps, and CloudSec. It provides a hands-on interactive platform for application security professionals to practice attack and defence scenarios.",
+  "Description": "Come join our capture the flag game (of all skill levels) designed to improve your AppSec/DevSecOps skills and have fun doing it. Attack others by exploiting their apps and defend your app by securing it. The winner is the player whose app survives the longest. We will also explore a range of other AppSec challenges where the goal is to fix (not exploit) the vulnerability. All skill levels are welcome even if this is your first time seeing code or playing in a security game.",
   "Github URL": "https://play.secdim.com/",
   "Tracks": [
     "Arsenal Lab"

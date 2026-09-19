@@ -1,6 +1,6 @@
 {
   "Tool Name": "RPC-FireWall",
-  "Description": "A security tool that audits and filters Remote Procedure Call (RPC) traffic on Windows servers to protect against lateral movement attacks and RPC-based exploits by monitoring and blocking potentially malicious RPC requests.",
+  "Description": "In Windows based environments, RPC is the main underlying protocol required for remote administration and for Active Directory services. As such, it is often used by IT admins, but also by ransomware and advanced attackers to spread by creating remote services, scheduled tasks, DCOM objects, etc. It is also a major component in the persistency phase of attacks such as active directory DCSync, and even DC vulnerabilities such as Zerologon. The RPC-FireWall is a simple tool to operate, which can be used by security researchers and SOC teams. It places strategically located hooks in the Windows RPC runtime, which enables the operator to audit and control every RPC call. Security researchers can use it to trace and understand how various RPC based lateral movement techniques work. SOC teams can consume the audit information, which is stored to the Event logs, into their SIEM / XDR and use it to create numerous detection rules. The RPC-FireWall also acts as a - well, firewall - which allows defenders granular control over which RPC protocols and methods are allowed, from where, by whom, etc. while potentially malicious RPC calls could be blocked.",
   "Github URL": "https://github.com/zeronetworks/rpcfirewall",
   "Tracks": [
     "Network Defense",

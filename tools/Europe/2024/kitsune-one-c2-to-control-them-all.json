@@ -1,6 +1,6 @@
 {
   "Tool Name": "Kitsune: One C2 to control them all",
-  "Description": "A unified command-and-control (C2) framework that integrates and manages multiple C2 platforms from a single interface, streamlining red team operations.",
+  "Description": "One of the most important tools used in Ethical Hacking and Red Team campaigns, are what we call \"Command and Control\" tools. There are currently hundreds of them. Public, private, free or paid. Some are as famous as Cobalt Strike, while others are only known by their own creators. The main problem with these tools is the lack of compatibility between them. Despite sharing many common elements, such as communication protocols or deployment and execution methods. After working on different tools that aim to unify the chaotic world of shells and webshells, this ambitious project was born from the same need and aims to streamline and improve the work of pentesters, grouping different tools and techniques in a single graphical interface. In addition, Kitsune is capable of incorporating new functions to already known tools. Some of them, never seen before in other C2s. If you have ever had too many terminals open, forgotten where a remote shell was or missed a graphical interface for your favourite tool, this talk is for you.",
   "Github URL": "https://github.com/mozilla/kitsune",
   "Tracks": [
     "Exploitation and Ethical Hacking",

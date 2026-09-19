@@ -1,0 +1,11 @@
+{
+  "Tool Name": "ice-hole",
+  "Description": "Ice-Hole 1.4 is a new update for the tool which brings BYOD targeting via user agents, scheduling of phishing emails from a bank of templates, executable injection via javascript, and can clone websites based upon a URL to include keystroke logging. Ice-Hole is a phishing awareness email program. It is designed to help security analysts/System Administrators keep track and test end users. The tool can be used in conjunction with various third party software like SET for further leverage.",
+  "Github URL": "",
+  "Tracks": [],
+  "Speakers": [
+    "Darren Manners"
+  ],
+  "Year": "2013",
+  "Location": "USA"
+}

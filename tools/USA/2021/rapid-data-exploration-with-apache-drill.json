@@ -1,6 +1,6 @@
 {
   "Tool Name": "Rapid Data Exploration With Apache Drill",
-  "Description": "Training materials and code for rapid data exploration using Apache Drill, a distributed SQL query engine that enables analysts to query and analyze diverse data sources using standard ANSI SQL for forensics and incident response investigations.",
+  "Description": "One of the major challenges any security analyst faces is working with data. Apache Drill is an extremely powerful, but not well known tool which enables an analyst to rapidly query and join data sets using standard SQL and without moving the data. In this presentation, Mr. Givre will demonstrate how to uncover insights in raw network data as well as how to rapidly join multiple security data sets without ETL or coding.",
   "Github URL": "https://github.com/cgivre/data-exploration-with-apache-drill",
   "Tracks": [
     "Data Forensics/Incident Response"

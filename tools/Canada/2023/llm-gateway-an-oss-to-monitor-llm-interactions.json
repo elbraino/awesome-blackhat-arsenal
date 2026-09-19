@@ -1,6 +1,6 @@
 {
   "Tool Name": "LLM Gateway – an OSS to Monitor LLM Interactions",
-  "Description": "As the LLM landscape evolves businesses will need tools to help monitor and mitigate vulnerabilities these new technologies introduce. The LLM Gateway Framework acts as a proxy, frontend, and logging services to monitor and manage LLM interactions across any providers.",
+  "Description": "As the LLM landscape evolves businesses will need tools to help monitor and mitigate vulnerabilities these new technologies introduce. The LLM Gateway Framework acts as a proxy, frontend, and logging services to monitor and manage LLM interactions across any providers. LLM gateway can be found here on Github",
   "Github URL": "",
   "Tracks": [
     "Vulnerability Assessment"

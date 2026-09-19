@@ -1,11 +1,13 @@
 {
   "Tool Name": "idb - Simplified Blackbox iOS App Pen-Testing",
-  "Description": "More than ever, mobile apps are used to manage and store sensitive data by both corporations and individuals. During this Arsenal demonstration, we show how our new tool called 'idb' can be used to efficiently test iOS apps for a range of common flaws.",
+  "Description": "More than ever, mobile apps are used to manage and store sensitive data by both corporations and individuals. During this Arsenal demonstration, we show how our new tool called 'idb' can be used to efficiently test iOS apps for a range of common flaws. In order to enable this, idb's graphical user interface greatly simplifies the interaction with an iDevice as it automates a large number of previously tedious and manual tasks. Based on this, we demonstrate how to use idb in order to quickly and easily uncover flaws involving data storage, inter-process communication, network communications, and user input handling as seen in real-world applications. This will illustrate how apps commonly fail to safeguard sensitive data and show how idb can arm security professionals and developers with the means necessary to find these flaws from a black-box perspective. idb is open source and available on Github at https://github.com/dmayer/idb",
   "Github URL": "https://github.com/dmayer/idb",
   "Tracks": [
     "Android, iOS and Mobile Hacking"
   ],
-  "Speakers": [],
+  "Speakers": [
+    "Daniel Mayer"
+  ],
   "Year": "2014",
   "Location": "USA"
 }

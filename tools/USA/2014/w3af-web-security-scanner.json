@@ -1,12 +1,12 @@
 {
   "Tool Name": "w3af: Web Security Scanner",
-  "Description": "w3af is a Web Application Attack and Audit Framework. The projectâs goal is to create a framework to help you secure your web applications by finding and exploiting all web application vulnerabilities.",
+  "Description": "w3af is a Web Application Attack and Audit Framework. The project’s goal is to create a framework to help you secure your web applications by finding and exploiting all web application vulnerabilities. Our framework is proudly developed using Python to be easy to use and extend, and licensed under GPLv2.0.",
   "Github URL": "https://github.com/andresriancho/w3af",
   "Tracks": [
     "Web AppSec"
   ],
   "Speakers": [
-    "Andres Riancho"
+    "Andrés Riancho"
   ],
   "Year": "2014",
   "Location": "USA"

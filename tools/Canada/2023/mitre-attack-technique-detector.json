@@ -1,6 +1,6 @@
 {
   "Tool Name": "Mitre Attack Technique Detector",
-  "Description": "A knowledge base and set of tools for understanding adversary tactics and techniques based on real-world observations. It provides STIX-formatted data and a web application for navigating and annotating ATT&CK matrices.",
+  "Description": "Using Natural Language Processing models, enrich any alert with its relevant attack techniques. The model detects the techniques using contextual, and situational awareness as well as its linguistic cyber expertise. In real time this model can save your operations endless hours of tagging incidents with their mitre techniques.",
   "Github URL": "https://github.com/mitre-attack",
   "Tracks": [
     "Data Forensics/Incident Response"

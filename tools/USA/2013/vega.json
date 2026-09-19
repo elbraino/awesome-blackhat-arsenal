@@ -1,6 +1,6 @@
 {
   "Tool Name": "Vega",
-  "Description": "We will be exhibiting Vega 1.0.",
+  "Description": "We will be exhibiting Vega 1.0. Vega is a GUI-based, multi-platform, free and open source web security scanner that can be used to find instances of SQL injection, cross-site scripting (XSS), and other vulnerabilities in your web applications. Vega also includes an intercepting/scanning proxy for interactive web application debugging and fuzzing. One of the most interesting features about Vega is that the modules (fuzzing, signature detection) are written in Javascript, users can easily modify them or write their own. The Vega web vulnerability scanner runs on Linux, Windows, and OS X. Vega is released under the EPL 1.0 and can be downloaded from the Subgraph website, http://www.subgraph.com.",
   "Github URL": "https://github.com/vega/vega",
   "Tracks": [
     "Web AppSec"

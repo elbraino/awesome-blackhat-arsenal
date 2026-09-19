@@ -1,6 +1,6 @@
 {
   "Tool Name": "Information Disclosure in Facebook Graph Api with A.T.H.O.S",
-  "Description": "The Graph API is the primary way that data is retrieved or posted to Facebook. The Getting Started Guide contains an overview of the basics of the API, walks you through using the Graph API Explorer, shows you how names work, how permissions work, what connections are and puts it all together so the rest of this reference make sense.",
+  "Description": "The Graph API is the primary way that data is retrieved or posted to Facebook. The Getting Started Guide contains an overview of the basics of the API, walks you through using the Graph API Explorer, shows you how names work, how permissions work, what connections are and puts it all together so the rest of this reference make sense. Disclosure Anyone can access the data from ANY user due to the release of information that produces the \"Graph API\" because of the functionality they have given to this API for developers. The \"excess\" functionality provided in this API make data users are exposed without any need for it any malicious attacker and make a compilation of information from the target It is possible to identify people according to their id as will be seen in the proof of concept and insecure http protocol also makes it vulnerable to a brute force attack",
   "Github URL": "",
   "Tracks": [
     "OSINT - Open Source Intelligence"

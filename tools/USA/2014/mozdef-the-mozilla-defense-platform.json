@@ -1,6 +1,6 @@
 {
   "Tool Name": "MozDef the Mozilla Defense Platform",
-  "Description": "Attackers have all the fun. With slick, integrated, real-time, open suites like metasploit, armitage, SET, and lair they quickly seek out targets, share exploits, gain footholds, and usually win.",
+  "Description": "Attackers have all the fun. With slick, integrated, real-time, open suites like metasploit, armitage, SET, and lair they quickly seek out targets, share exploits, gain footholds, and usually win. The time has come for defense to get the same capabilities in an open source platform dedicated to defense and based on modern technology. To this end the operations security group at Mozilla has developed MozDef: The Mozilla Defense Platform to take on traditional SIEM functionality of event management, alerting and correlation, and expand the real-time capabilities of the defender into automated defense and shared incident response. Come take a look at what we are building and join in won't you?!",
   "Github URL": "https://github.com/mozilla/MozDef",
   "Tracks": [
     "Exploitation and Ethical Hacking"

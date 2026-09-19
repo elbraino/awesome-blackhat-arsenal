@@ -1,6 +1,6 @@
 {
   "Tool Name": "SocialKlepto",
-  "Description": "We will demonstrate two tools, which one can launch effective social attacks to conduct corporate espionage, and the other one can defend users from such attacks.",
+  "Description": "We will demonstrate two tools, which one can launch effective social attacks to conduct corporate espionage, and the other one can defend users from such attacks. The first toolkit SocialKlepto can collect valuable competitive intelligence and steal your competitors’ customers without infiltrating their computer networks. SocialKelpto can monitor every social activity of your competitors or any company using a controlled network of fake social accounts, REST APIs, database search, and data analysis. Specifically, the SocialKlepto system can build effective fake LinkedIn accounts, establish trust within business circles, send bulk of persuasive invitations, and monitor every activity of your competitors. Finally, using big data analysis, it can extract valuable information that can turn into sales opportunities and revenue. The second tool is an open and free Chrome plugin for LinkedIn privacy settings. We will release this defensive tool that easily help LinkedIn users check and set their privacy settings, in order to protect them from such social attacks.",
   "Github URL": "",
   "Tracks": [
     "Human Factors"

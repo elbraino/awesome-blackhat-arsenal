@@ -1,6 +1,6 @@
 {
   "Tool Name": "Prowler v3 the handy multi-cloud security tool",
-  "Description": "An open-source cloud security platform that automates security assessments and compliance checks across AWS, Azure, GCP, and Kubernetes, providing hundreds of ready-to-use security checks and remediation guidance.",
+  "Description": "Prowler is an Open Source security tool to perform AWS, Azure, GCP and OCI security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
   "Github URL": "https://github.com/prowler-cloud/prowler",
   "Tracks": [
     "Vulnerability Assessment",

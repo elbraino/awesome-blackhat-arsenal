@@ -1,6 +1,6 @@
 {
   "Tool Name": "AI VPN: A Free-Software AI-Powered Network Forensics Tool",
-  "Description": "An AI-powered VPN system that protects users by automatically verifying network traffic with machine learning-based detection to block threats and prevent dangerous privacy leaks.",
+  "Description": "The AI VPN is an AI-based traffic analysis tool to detect and block threats, ensuring enhanced privacy protection automatically. It offers modular management of VPN accounts, automated network traffic analysis, and incident reporting. Using the free-software IDS system, Slips, the AI VPN employs machine learning and threat intelligence for comprehensive traffic analysis. Multiple VPN technologies, such as OpenVPN and Wireguard, are supported, and in-line blocking technologies like Pi-hole provide additional protection. The AI VPN was built to help journalists, activists and NGOs against targeted digital attacks. The goal of the tool is to provide an easy-to-use, fast, automated service to perform network forensics on any type of device without physical access to it. The user seamlessly connects to the Internet as with any other VPN while the traffic analysis and reporting happens on the AI VPN server. The AI VPN is designed as a modular collection of micro-services using Docker technology. The AI VPN currently has ten modules taking care of the following functionalities: management, database, communication, VPNs, PiHole, Slips and reporting.",
   "Github URL": "https://github.com/stratosphereips/AIVPN",
   "Tracks": [
     "Network Defense",

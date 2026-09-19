@@ -1,11 +1,13 @@
 {
   "Tool Name": "Taintless",
-  "Description": "Research in taint tracking and taint inference is hot in the scientific community. We have studied all tools and ideas developed for automated SQL injection prevention using scientific methods, and in an attempt to evaluate them, broken them all down.",
+  "Description": "Research in taint tracking and taint inference is hot in the scientific community. We have studied all tools and ideas developed for automated SQL injection prevention using scientific methods, and in an attempt to evaluate them, broken them all down. This tool summarizes methods to detect and break all these methods, such as Diglossia (2013), Prof. Sekar's Negative Taint Inference (2011) and etc. On top of that, we have created Joza (2014), a new hybrid system that automatically detects and prevents all SQL injection attack with zero false positives. This research and tool is patented, and will be published shortly. Finally, Taintless will demonstrate how to break Joza; though, the process is rigorous and requires multiple layers of intelligence in the tool, it proves that all these approaches are not bullet proof and need improvement.",
   "Github URL": "https://github.com/abiusx/taintless",
   "Tracks": [
     "Web AppSec"
   ],
-  "Speakers": [],
+  "Speakers": [
+    "Abbas Naderi Afooshteh"
+  ],
   "Year": "2014",
   "Location": "USA"
 }

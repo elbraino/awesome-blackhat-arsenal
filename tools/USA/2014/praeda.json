@@ -1,11 +1,13 @@
 {
   "Tool Name": "Praeda",
-  "Description": "Praeda - Latin for \"plunder, spoils of war, booty\". Praeda is an automated data/information harvesting tool designed to gather critical information from various embedded devices.",
+  "Description": "Praeda - Latin for \"plunder, spoils of war, booty\". Praeda is an automated data/information harvesting tool designed to gather critical information from various embedded devices. Praeda leverages various implementation weaknesses and vulnerabilities found on multifunction printers (MFP) and extracts Active directory credentials from MFP configurations such as SMTP, LDAP, POP3 and SMB settings. Praeda also test for default passwords on targeted devices and gathers SNMP community strings from network cameras, sans, UPSs and other embedded devices on the network. During demonstration we will introduce everyone to the features and functions of this tool and how to effectively leverage it during internal penetrations testing to gather credentials that can be used to gain access to critical internal system.",
   "Github URL": "https://github.com/percx/Praeda",
   "Tracks": [
     "Hardware/Embedded"
   ],
-  "Speakers": [],
+  "Speakers": [
+    "Deral Heiland"
+  ],
   "Year": "2014",
   "Location": "USA"
 }

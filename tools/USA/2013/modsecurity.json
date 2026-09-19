@@ -1,0 +1,11 @@
+{
+  "Tool Name": "ModSecurity",
+  "Description": "ModSecurity is a cross-platform (Apache, IIS and Nginx), open source web application firewall module maintained by Trustwave SpiderLabs Research Team. It's popularity is mainly due to its powerful rules language which provides security personnel a means to quickly develop defenses for emerging attack scenarios or virtual patching for identified web application vulnerabilities. Along with its Lua API and data modification capabilities, it provides unparalleled flexibility for custom integrations and security logic. This Arsenal Demo includes many live setups where Black Hat attendees will be able to play with the ModSecurity defenses and try and evade its detections.",
+  "Github URL": "",
+  "Tracks": [],
+  "Speakers": [
+    "Ryan Barnett"
+  ],
+  "Year": "2013",
+  "Location": "USA"
+}

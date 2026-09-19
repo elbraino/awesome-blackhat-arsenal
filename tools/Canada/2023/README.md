@@ -38,7 +38,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · **Event:** Canada 2023  
 🔗 **Link:** [https://play.secdim.com/](https://play.secdim.com/)  
-📝 **Description:** SecDim Play is an open training game and toolkit for constructing security challenges covering AppSec, DevSecOps, and CloudSec. It provides a hands-on interactive platform for application security professionals to practice attack and defence scenarios.
+📝 **Description:** Come join our capture the flag game (of all skill levels) designed to improve your AppSec/DevSecOps skills and have fun doing it. Attack others by exploiting their apps and defend your app by securing it. The winner is the player whose app survives the longest. We will also explore a range of other AppSec challenges where the goal is to fix (not exploit) the vulnerability. All skill levels are welcome even if this is your first time seeing code or playing in a security game.
 
 </details>
 
@@ -46,7 +46,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · **Event:** Canada 2023  
 🔗 **Link:** [https://github.com/PacktPublishing/Hands-On-IoT-Solutions-with-Blockchain](https://github.com/PacktPublishing/Hands-On-IoT-Solutions-with-Blockchain)  
-📝 **Description:** Code examples and resources for hands-on IoT solutions, demonstrating practical applications combining Internet of Things platforms with blockchain technology, including projects using hardware like Intel Edison modules and Raspberry Pi devices.
+📝 **Description:** CatSniffer is an original multiprotocol, multiband, and open-source board made for sniffing, communicating, and attacking IoT (Internet of Things) devices. Join us to get hands-on with this swiss army knife causing a bit of BlueTooth mahem and also attacking real-world devices such a property trackers. Our interactive demos only scratch the surface of what is possible with this portable tool which also works with third-party sniffers such as SmartRF Packet Sniffer, Sniffle, zigbee2mqtt, Z-Stack-firmware, Ubiqua Protocol Analyzer, and our custom firmware. The extensibility makes it fun for beginners and experts alike.
 
 </details>
 
@@ -54,7 +54,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · **Event:** Canada 2023  
 🔗 **Link:** [https://github.com/KarlVaello/VehicleControlSystem](https://github.com/KarlVaello/VehicleControlSystem)  
-📝 **Description:** A modular electronic control system for vehicles built with C++ and Qt that uses RS-485 networking to connect multiple control units and modules managing different vehicle functions.
+📝 **Description:** Real Time Operating Systems (RTOS) form the backbone for embedded systems and control units used in vehicle control technology (such as automobiles, trucks, buses, locomotives, UAVs, etc). In this session, we will get hands on red teaming a popular RTOS that's at the heart of vehicle control systems worldwide. To counter this activity, we will then provide a demo of memory extraction and data analysis following Mandiant's Digital Forensics and Incident Response Framework for Embedded OT Systems.
 
 </details>
 
@@ -72,7 +72,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Web AppSec · **Event:** Canada 2023  
 🔗 **Link:** [https://github.com/secdim/play-sdk](https://github.com/secdim/play-sdk)  
-📝 **Description:** This talk focuses on the unique process of transforming security attacks into software tests for building secure programming challenges using an open-source SDK, 'Play'. A practical workshop where we explore the mechanics of choosing real-world-inspired security vulnerabilities, and transforming them into cloud-native apps with integrated security tests which can then be played as challenges. These challenge provides a new dimension to the traditional Capture The Flag experiences, emphasizing not just the identification but the remediation of vulnerabilities.
+📝 **Description:** This talk focuses on the unique process of transforming security attacks into software tests for building secure programming challenges using an open-source SDK, 'Play'. A practical workshop where we explore the mechanics of choosing real-world-inspired security vulnerabilities, and transforming them into cloud-native apps with integrated security tests which can then be played as challenges. These challenge provides a new dimension to the traditional Capture The Flag experiences, emphasizing not just the identification but the remediation of vulnerabilities
 
 </details>
 
@@ -118,7 +118,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Exploitation and Ethical Hacking · Network Attacks · **Event:** Canada 2023  
 🔗 **Link:** [https://github.com/vulncheck-oss/go-exploit](https://github.com/vulncheck-oss/go-exploit)  
-📝 **Description:** A Go-based framework that helps exploit developers create small, self-contained, portable exploits with built-in functionality for target verification, version detection, exploitation, and command-and-control operations.
+📝 **Description:** go-exploit is an exploit development framework for Go. The framework helps exploit developers create small, self-contained, portable, and consistent exploits. Many proof-of-concept exploits rely on interpreted languages with complicated packaging systems. They implement wildly differing user interfaces, and have limited ability to be executed within a target network. Some exploits are integrated into massive frameworks that are burdened by years of features and dependencies which overwhelm developers and hinder the attacker's ability to deploy the exploits from unconventional locations. To overcome these challenges, go-exploit offers a lightweight framework with minimal dependencies, written in Go—a language renowned for its portability and cross-compilation capabilities. The framework strikes a balance between simplicity for rapid proof-of-concept development and the inclusion of sophisticated built-in features for operational use.
 
 </details>
 
@@ -168,7 +168,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Vulnerability Assessment · **Event:** Canada 2023  
 🔗 **Link:** Not Available  
-📝 **Description:** As the LLM landscape evolves businesses will need tools to help monitor and mitigate vulnerabilities these new technologies introduce. The LLM Gateway Framework acts as a proxy, frontend, and logging services to monitor and manage LLM interactions across any providers.
+📝 **Description:** As the LLM landscape evolves businesses will need tools to help monitor and mitigate vulnerabilities these new technologies introduce. The LLM Gateway Framework acts as a proxy, frontend, and logging services to monitor and manage LLM interactions across any providers. LLM gateway can be found here on Github
 
 </details>
 
@@ -176,7 +176,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Vulnerability Assessment · Web AppSec · **Event:** Canada 2023  
 🔗 **Link:** [https://github.com/MAD-Goat-Project](https://github.com/MAD-Goat-Project)  
-📝 **Description:** MAD Goat is a deliberately insecure web application designed for learning about Modern Application Development vulnerabilities, evaluating Application Security Testing scanner effectiveness, and exploring attack vectors and mitigation strategies.
+📝 **Description:** Modern Application Development (MAD) makes use of a series of building blocks, like microservices, containerized applications, infrastructure as code, open-source software, and API communication. In today's landscape, a single application can have dozens of independent services communicating with one another, and the relation between all these services can be hard to grasp for the security testing tools available in the market. Application security testing (AST) tools like SAST, DAST, SCA, or SCS can help companies to protect the software they produce. However, with the increased complexity of software applications and their interoperability with diverse systems, it becomes harder for individual AST tools to discover vulnerabilities in a complete application. The main objective of the MAD Goat project is to develop a web-based software application that takes into consideration all the MAD building blocks, while offering a vulnerable application by nature. This vulnerable application will serve as a security benchmark project to understand the quality of different security test scanners. The application has also an educational focus in its nature, offering its users an interactive learning experience. Through engaging lessons, users can enhance their understanding of the main vulnerabilities associated with MAD and develop mitigation strategies.
 
 </details>
 
@@ -186,7 +186,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Network Defense · **Event:** Canada 2023  
 🔗 **Link:** [https://github.com/ATMoS-Waterloo/ATMoS](https://github.com/ATMoS-Waterloo/ATMoS)  
-📝 **Description:** ATMoS is a framework for applying reinforcement learning to security management of Software-defined Networks (SDNs). It uses OpenDaylight and Mininet to simulate SDN infrastructure and trains RL agents to autonomously manage network security policies.
+📝 **Description:** The more security tools on a network the better for observing advanced attacks, but the worse for the network bandwidth or quality of service. Ideally a hunter decides where we point our security tools at any given time to find threat actors in our networks. Since, threat investigators and hunters are rare and expensive, this is a tool that uses SDN and RL to automatically conduct threat hunting investigations, migrating suspicious users to network with more stringent security controls, such as Deep packet inspection firewall, s network intrusion prevent systems, web gateways, ssl decryption, etc. Detects and Contains threats in milliseconds.
 
 </details>
 
@@ -202,7 +202,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Malware Defense · **Event:** Canada 2023  
 🔗 **Link:** [https://github.com/falcosecurity/falco](https://github.com/falcosecurity/falco)  
-📝 **Description:** Falco is a cloud-native runtime security tool that monitors Linux systems for abnormal behavior and threats in real-time. It observes kernel events such as syscalls based on custom rules and enriches them with container and Kubernetes metadata for security analysis.
+📝 **Description:** Containers are the most popular technology for deploying modern applications. SPOILER ALERT: bypassing well-known security controls is also popular. In this talk, we explain how to use the recent updates in Falco, a CNCF open-source container security tool, to detect drifts and fileless malware in containerized environments. As a best practice, containers should be considered immutable. Early this year, Falco introduced new features to detect container drift via OverlayFS, which can spot if binaries are added or modified after the container's deployment. New binaries are often a sign of an ongoing attack. Of course, attackers can also use more advanced evasion techniques to stay hidden. By using in-memory, fileless execution, attackers can bypass most of the security controls such as drift detection and still reach their goals with no stress. To combat fileless attacks, Falco has also added memfd-based fileless execution thanks to its visibility superpowers on Linux kernel system calls. Combining Falco's existing runtime security capabilities with these two new detection layers forms the foundation of a defense in depth strategy for cloud-native workloads. We will walk you through real-world scenarios based on recent threats and malware, demoing how Falco can help detect and respond to these malicious behaviors and comparing both drift and fileless attack paths.
 
 </details>
 
@@ -210,7 +210,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Data Forensics/Incident Response · AI, ML & Data Science · **Event:** Canada 2023  
 🔗 **Link:** [https://github.com/ezztahoun/attack_flow_detector](https://github.com/ezztahoun/attack_flow_detector)  
-📝 **Description:** A Python-based security analysis tool that identifies potential attack patterns by correlating security alerts and mapping them to the MITRE ATT&CK framework. It uses explainable machine learning to detect contextual groupings and causal sequences hiding in alerts.
+📝 **Description:** Using correlation and clustering models, turn tons of alerts into mitre attack flows. The model finds the attack flows, using its ability to evaluate alerts temporal proximity, kill chain sequentiality, shared entities and similar attributes to other alerts of interest, among others. In real time this model can save your operations endless hours of correlating incidents and finding noteworthy attack flows, that if not detected in time would lead to breaches.
 
 </details>
 
@@ -218,7 +218,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Data Forensics/Incident Response · **Event:** Canada 2023  
 🔗 **Link:** [https://github.com/mitre-attack](https://github.com/mitre-attack)  
-📝 **Description:** A knowledge base and set of tools for understanding adversary tactics and techniques based on real-world observations. It provides STIX-formatted data and a web application for navigating and annotating ATT&CK matrices.
+📝 **Description:** Using Natural Language Processing models, enrich any alert with its relevant attack techniques. The model detects the techniques using contextual, and situational awareness as well as its linguistic cyber expertise. In real time this model can save your operations endless hours of tagging incidents with their mitre techniques.
 
 </details>
 
@@ -268,7 +268,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Reverse Engineering · Code Assessment · **Event:** Canada 2023  
 🔗 **Link:** [https://github.com/intel/ParseAndC](https://github.com/intel/ParseAndC)  
-📝 **Description:** A Python-based GUI tool that parses C structure declarations and maps them to binary data files, allowing users to visualize how variables are stored in memory with hex/ASCII representations.
+📝 **Description:** This is the 3.0 version of the ParseAndC tool that was presented in BH and DEFCON last year, with many new features added. The 1.0 version was capable of mapping any C structure(s) to any datastream, and then visually displaying the 1:1 correspondence between the variables and the data in a very colorful, intuitive display so that it was very easy to understand which field had what value. In 2.0 version, we essentially expand the C language so that C structures alone has the same power as full-fledged C programs. We introduce Dynamic structure, which changes depending on what data it has seen till now. It supports variable-sized array, variable-sized bitfield, and addition/deletion of struct members depending on what value the previous struct members have. Suppose we are parsing the network packets, and after we decode the IP header, depending on the protocol field this tool can automatically decode the next header as either the TCP or UDP. We also add speculative execution, where user just provides the key expected values of certain fields (like magic numbers, mentioned by C initializations), and the tool automatically finds out from which offset to map so that all fields indeed have the expected value. This tool is extremely portable – it's a single Python 1MB text file, is cross-platform (Windows/Mac/Unix), and also works in the terminal /batch mode without GUI or Internet connection. The tool is self-contained - it doesn't import anything, to the extent that it implements its own C compiler (front-end) from scratch!! This tool is useful for both security- and non-security testing alike (reverse engineering, network traffic analyzing, packet processing etc.). It is currently being used at Intel widely. The author of this tool led many security hackathons at Intel and there this tool was found to be very useful.
 
 </details>
 

@@ -5,7 +5,9 @@
   "Tracks": [
     "Web AppSec"
   ],
-  "Speakers": [],
+  "Speakers": [
+    "Johanna Curiel"
+  ],
   "Year": "2014",
   "Location": "USA"
 }

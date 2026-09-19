@@ -1,0 +1,11 @@
+{
+  "Tool Name": "Needle",
+  "Description": "Assessing the security of an iOS application typically requires a plethora of tools, each developed for a specific need and all with different modes of operation and syntax. The Android ecosystem has tools like \"drozer\" that have solved this problem and aim to be a \"one stop shop\" for the majority of use cases, however iOS does not have an equivalent. \"Needle\" is an open source modular framework which aims to streamline the entire process of conducting security assessments of iOS applications, and acts as a central point from which to do so. Given its modular approach, Needle is easily extensible and new modules can be added in the form of python scripts. Needle is intended to be useful not only for security professionals, but also for developers looking to secure their code. A few examples of testing areas covered by Needle include: data storage, inter-process communication, network communications, static code analysis, hooking and binary protections.â€' The only requirement in order to run Needle effectively is a jailbroken device. The tool's architecture, capabilities and roadmap will be described. A demonstration will also be performed of how Needle can be used to find vulnerabilities in iOS applications from both a black-box and white-box perspective (if source code is provided).",
+  "Github URL": "",
+  "Tracks": [],
+  "Speakers": [
+    "Marco Lancini"
+  ],
+  "Year": "2016",
+  "Location": "Europe"
+}

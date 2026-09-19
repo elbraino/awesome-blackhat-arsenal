@@ -1,6 +1,6 @@
 {
   "Tool Name": "StealthGuardian - Automatic TTP Analysis",
-  "Description": "A middleware platform for adversary simulation testing that forwards attack actions into a reference system and observes logfiles and alarm messages of defense tools to determine whether executed attacks would be detected before deploying them against real targets.",
+  "Description": "StealthGuardian is a middleware layer that can be combined with adversary simulation tools to verify the resistance, detection level and behaviour detection of executed actions against defined defence mechanisms. Based upon the results the tool decides if it would be safe to execute the action or let the Red Team know that the action has been detected. The tool has been developed to assist Red Teams during adversary simulations and automatically executes actions against a sandbox, e.g. integrating the same defence mechanisms as the target, and analyse the detection level of the executed action by observing logfiles and alarm messages of defence tools. In our demo we will present an integration for Fortra's Cobalt Strike threat emulation tool.",
   "Github URL": "https://github.com/y-security/stealthguardian",
   "Tracks": [
     "Malware Offense",

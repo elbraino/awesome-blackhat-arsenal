@@ -1,6 +1,6 @@
 {
   "Tool Name": "iocwriter_11",
-  "Description": "With the impending release of the OpenIOC 1.1 format for sharing threat intelligence, Mandiant will be releasing a set of open source tools for creating and manipulating OpenIOC objects and moving data in and out of the OpenIOC format.",
+  "Description": "With the impending release of the OpenIOC 1.1 format for sharing threat intelligence, Mandiant will be releasing a set of open source tools for creating and manipulating OpenIOC objects and moving data in and out of the OpenIOC format. Demonstrations will cover how the tools can be used to create and modify OpenIOC documents, show how it is possible to store Snort and Yara signatures in OpenIOC format and convert those OpenIOC documents back into their native formats. In addition, the integration of these tools into other open source applications will be demonstrated with tools that can automatically extract IOCs from unstructured content.",
   "Github URL": "https://github.com/mandiant/ioc_writer",
   "Tracks": [
     "OSINT - Open Source Intelligence"

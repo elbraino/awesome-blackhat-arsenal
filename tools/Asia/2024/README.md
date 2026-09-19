@@ -21,7 +21,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · Code Assessment · **Event:** Asia 2024  
 🔗 **Link:** [https://play.secdim.com/](https://play.secdim.com/)  
-📝 **Description:** A strategic 2-player board game where an attacker and defender battle on a grid using adversarial search algorithms, implementing minimax with alpha-beta pruning for intelligent AI opponents.
+📝 **Description:** Come join a fun and educational attack and defence AI wargame. You will be given an AI chatbot. Your chatbot has a secret that should always remain a secret! Your objective is to secure your chatbot to protect its secret while attacking other players' chatbots and discovering theirs. The winner is the player whose chatbot survives the longest (king of the hill). All skill levels are welcomed, even if this is your first time seeing code, securing a chatbot, or playing in a wargame.
 
 </details>
 
@@ -29,7 +29,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · Internet Of Things · **Event:** Asia 2024  
 🔗 **Link:** [https://github.com/ElectronicCats/CatSniffer](https://github.com/ElectronicCats/CatSniffer)  
-📝 **Description:** A multiprotocol IoT security device in a portable USB stick form factor that enables sniffing, communicating, and attacking IoT devices across LoRa, Sub-1 GHz, and 2.4 GHz bands using protocols like Zigbee, Thread, and Bluetooth Low Energy.
+📝 **Description:** Delve into the fascinating world of IoT (Internet of Things) with the CatSniffer - a powerful, multi-protocol, multi-band, and open-source board crafted for exploring, interacting, and potentially compromising IoT devices. This workshop offers an immersive, hands-on experience, teaching you how to create chaos among IoT devices and challenge real-world devices like property trackers. Our engaging demonstrations are merely the tip of the iceberg of what you can achieve with the CatSniffer. The tool's exceptional flexibility allows the use of different tools for your security auditing needs, and our unique firmware broadens your learning horizon and amplifies the fun factor, irrespective of whether you're a novice or a seasoned expert in the field. We invite you to join us on this journey of discovery, where we will harness the boundless capabilities of CatSniffer, fine-tuning your skills and transforming you into a maestro of IoT security auditing.
 
 </details>
 
@@ -37,7 +37,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · Android, iOS and Mobile Hacking · **Event:** Asia 2024  
 🔗 **Link:** [https://github.com/crazyhottommy/ChIP-seq-analysis](https://github.com/crazyhottommy/ChIP-seq-analysis)  
-📝 **Description:** A collection of resources and analysis tools for ChIP-seq (Chromatin Immunoprecipitation sequencing) data processing, covering quality control, peak calling, differential binding analysis, and downstream applications like motif discovery.
+📝 **Description:** Chip-off forensics is an advanced digital data extraction and analysis technique which involves physically removing flash memory chips (IC) from a subject device and then acquiring the raw data using specialized equipment. Apart from the rework station, it should have a suitable reader or device to retrieve the data/firmware from the chip. It is an new developed device which can recognize the chip detailed information. During the lab, the audiences would have opportunity to analyze the common eMMC / UFS chips and discover the secret from it.
 
 </details>
 
@@ -113,7 +113,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Code Assessment · **Event:** Asia 2024  
 🔗 **Link:** [https://github.com/lambdasec/autofix](https://github.com/lambdasec/autofix)  
-📝 **Description:** AutoFix combines static analysis with large language models to automatically detect and fix security vulnerabilities in code. It uses Semgrep for vulnerability detection and LLMs to generate corrective patches, supporting multiple programming languages.
+📝 **Description:** AutoFix is an innovative open-source tool that marries static analysis with advanced Large Language Models (LLMs) to automate the detection and remediation of software vulnerabilities. Utilizing cutting-edge models like StarCoder and Salesforce CodeGen2, AutoFix excels in generating precise patches for a wide range of vulnerabilities, identified through robust static analysis methods including Semgrep. Designed for developers, security professionals, and DevSecOps teams, AutoFix streamlines security integration in software development, balancing speed and accuracy in patch deployment. As a community-driven tool, it evolves continuously, embodying the future of automated, secure coding practices.
 
 </details>
 
@@ -129,7 +129,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Code Assessment · **Event:** Asia 2024  
 🔗 **Link:** [https://github.com/dcodx/gitarmor](https://github.com/dcodx/gitarmor)  
-📝 **Description:** A security tool that enforces policy-as-code for GitHub environments by validating repository and organization settings against security policies, with support for CLI and GitHub Action modes and reporting mapped to frameworks like SLSA and the Microsoft DevOps threat matrix.
+📝 **Description:** DevOps security does not only mean protecting the code, but also safeguarding the entire DevOps platform against supply chain attacks, integrity failures, pipelines injections, outsider permissions, worst practices, missing policies and more. DevOps platforms like GitHub can easily grow in repos, actions, tokens, users, organizations, issues, PRs, branches, runners, teams, wiki, making admins' life impossible. This means also lowering the security of such environment. GitArmor is a policy as code tool, that helps companies,teams and open-source creators, evaluate and enforce their GitHub (only for now) security posture at repository or organization level. Using policies defined using yml, GitArmor can run as CLI, GitHub action or GitHub App, to unify visibility into DevOps security posture and strengthen resource configurations as part of the development cycle.
 
 </details>
 
@@ -155,7 +155,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Android, iOS and Mobile Hacking · **Event:** Asia 2024  
 🔗 **Link:** [https://github.com/KuhakuPixel/AceTheGame](https://github.com/KuhakuPixel/AceTheGame)  
-📝 **Description:** An open-source hacking tool for manipulating the memory of Android applications, enabling users to scan and modify in-app memory values on both rooted and non-rooted devices, with features for bypassing in-app purchases through APK patching.
+📝 **Description:** Ace The Game is an open-source hacking tool designed for manipulating the memory of Android applications enabling users to change and freeze memory values. This tool also has an interesting feature which enables users to bypass payment methods seamlessly. Notably, this tool boasts compatibility with both rooted and non-rooted Android devices.
 
 </details>
 
@@ -197,7 +197,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** OSINT - Open Source Intelligence · **Event:** Asia 2024  
 🔗 **Link:** [https://github.com/PhonePe/mantis](https://github.com/PhonePe/mantis)  
-📝 **Description:** An automated security framework that automates asset discovery, reconnaissance, and scanning. It accepts domain names and IP ranges as input, discovers related assets like subdomains and certificates, and conducts comprehensive vulnerability assessments.
+📝 **Description:** Mantis is an asset inventory framework that has the capability to distribute a single scan across multiple machines, provides easy customization, dashboard support, and advanced alerting capabilities. We have not reinvented the wheel. Rather, we have tried to design an architecture that provides the essential features for a framework that involves the complexity of integrating multiple tools that are outside our control.
 
 </details>
 
@@ -207,7 +207,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Exploitation and Ethical Hacking · **Event:** Asia 2024  
 🔗 **Link:** [https://github.com/SikretaLabs/BlueMap](https://github.com/SikretaLabs/BlueMap)  
-📝 **Description:** An interactive exploitation toolkit for Azure security testing that helps penetration testers and red teamers perform Azure auditing, discovery, enumeration, and exploitation in interactive mode.
+📝 **Description:** As demonstrated in BlackHat UK & USA 2022 - BlueMap helps cloud red teamers and security researchers identify IAM misconfigurations, information gathering, and abuse of managed identities in interactive mode without ANY third-party dependencies. No more painful installations on the customer's environment, and No more need to custom the script to avoid SIEM detection! The tool leaves minimum traffic in the network logs to help during red team engagements from on-prem to the cloud. Developed in Python and implemented all Azure integrations from scratch with zero dependencies on Powershell stuff. The idea behind the tool is to let security researchers and red team members have the ability to focus on more Opsec rather than DevOps stuff.
 
 </details>
 
@@ -223,7 +223,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Malware Offense · **Event:** Asia 2024  
 🔗 **Link:** [https://github.com/marco-liberale/PasteBomb](https://github.com/marco-liberale/PasteBomb)  
-📝 **Description:** A remote administration tool that uses Pastebin services as a command-and-control mechanism to execute terminal commands, send DDoS attacks, download files, and open messages on compromised systems without requiring a traditional C2 server.
+📝 **Description:** The PasteBomb (PB) botnet does not have any C2 (command and control) server. Instructions are received using GitHub Gist, and results are sent over a Discord Webhook. Tracing the C2 server back to the operator is the most common way in which botnet operators are compromised. This technology effectively eradicates such a possibility. When combined with robust operational security (OPSEC), this makes it extremely difficult to trace the operator. This is extremely advantageous for groups engaged in penetration testing. PasteBomb possesses the capacity to carry out Commands, launch DDoS attacks on servers, acquire and execute supplementary payloads, extract personal information from targets, and eliminate its presence without leaving any evidence (Self-Destruct).
 
 </details>
 
@@ -247,7 +247,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Exploitation and Ethical Hacking · **Event:** Asia 2024  
 🔗 **Link:** [https://github.com/vulncheck-oss/go-exploit](https://github.com/vulncheck-oss/go-exploit)  
-📝 **Description:** A Go-based framework for creating small, portable exploits for large-scale scanning and exploitation, providing a structured workflow for target verification, version detection, exploitation, and C2 operations with built-in payloads and proxy support.
+📝 **Description:** The Go-Exploit framework helps exploit developers rapidly develop advanced exploits in the Go programming language. In this talk, we will demonstrate advanced features of the framework such as integration with Shodan, scanning and exploiting through a proxy (including Tor), using Meterpreter and Sliver payloads, using the built-in encrypted reverse shell, adding custom C2, spinning up LDAP JNDI infrastructure, and easily cross compiling to different OS and architectures. This talk will focus on real-world exploitation and, as such, we will release go-exploit exploits for CVE-2023-46604 (ActiveMQ), CVE-2023-25194 (Druid), and CVE-2022-47966 (Various Manage Engine).
 
 </details>
 
@@ -321,7 +321,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Vulnerability Assessment · **Event:** Asia 2024  
 🔗 **Link:** [https://github.com/RAJANAGORI/Nightingale](https://github.com/RAJANAGORI/Nightingale)  
-📝 **Description:** A comprehensive Dockerized environment for penetration testing and vulnerability assessment, pre-configured with security tools and accessible via browser for web application, network, mobile, API, OSINT, and forensics assessments.
+📝 **Description:** Penetration testing is a critical aspect of ensuring the security of any organization's IT infrastructure. However, setting up a testing environment can be time-consuming and complex, requiring the installation of multiple tools, frameworks, and programming languages. Additionally, maintaining consistency across different testing environments can be challenging. As a result, organizations often struggle to effectively perform penetration testing and identify vulnerabilities in their systems. Nightingale is an open-source tool that aims to address this problem by providing a ready-to-use environment for pentesters. By building on top of Docker, Nightingale eliminates the need to install multiple programming languages and modules, allowing for faster booting and more efficient resource usage on the host machine. Additionally, Nightingale includes a variety of pre-installed penetration testing tools and frameworks, making it easy for organizations to perform vulnerability assessments and penetration testing of any scope.
 
 </details>
 
@@ -387,7 +387,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Data Forensics/Incident Response · **Event:** Asia 2024  
 🔗 **Link:** [https://github.com/janieldary/elfiescanner](https://github.com/janieldary/elfiescanner)  
-📝 **Description:** ELFieScanner looks to address the relative scarcity and immaturity of non-invasive portable in-memory malware scanning capabilities on Linux. It provides detections with greater context and thus value to the investigative capabilities of blue teams. ELFieScanner inspects live process memory to detect a number of malicious techniques used by threat actors and in particular those which have been incorporated into Linux based user-mode rootkits. ELFieScanner inspects every running process (both x86/x64) and its corresponding loaded shared objects (libraries) to look for evil. It then outputs resultant detection telemetry into a format that can be easily ingested into a SEIM and viewed by Threat hunters or IR consultants. It has been designed to be both low impact and portable to work across numerous Linux distributions both old and new. ELFieScanner uses 43 custom built and configurable memory heuristics that are constructed through live in-depth binary analysis of both the process image and a corresponding disk backed binary (if present), using this to identify malevolence. It offers four main detection capabilities that identify: • Shared Object injection techniques. • Entry point manipulation techniques. • Shellcode injection and Process hollowing. • API Hooking. The scanner uses a low impact technique of memory collection that doesn't require interrupts to be sent to remote processes, thereby remaining passive and overcoming ptrace() anti-debug techniques used by malware. The configurability of the binary heuristics provides Blue teams a way to tailor the sensitivity of the detections for their particular environment if used as a persistent monitoring solution; or for incident responders to amass as many suspicious events as possible in one-time collection scenarios. In addition, a portable build is also provided overcoming the unwanted and intrusive default Linux behaviour of building tools on host.
+📝 **Description:** ELFieScanner looks to address the relative scarcity and immaturity of non-invasive portable in-memory malware scanning capabilities on Linux. It provides detections with greater context and thus value to the investigative capabilities of blue teams. ELFieScanner inspects live process memory to detect a number of malicious techniques used by threat actors and in particular those which have been incorporated into Linux based user-mode rootkits. ELFieScanner inspects every running process (both x86/x64) and its corresponding loaded shared objects (libraries) to look for evil. It then outputs resultant detection telemetry into a format that can be easily ingested into a SEIM and viewed by Threat hunters or IR consultants. It has been designed to be both low impact and portable to work across numerous Linux distributions both old and new. ELFieScanner uses 43 custom built and configurable memory heuristics that are constructed through live in-depth binary analysis of both the process image and a corresponding disk backed binary (if present), using this to identify malevolence. It offers four main detection capabilities that identify: •	Shared Object injection techniques. •	Entry point manipulation techniques. •	Shellcode injection and Process hollowing. •	API Hooking. The scanner uses a low impact technique of memory collection that doesn't require interrupts to be sent to remote processes, thereby remaining passive and overcoming ptrace() anti-debug techniques used by malware. The configurability of the binary heuristics provides Blue teams a way to tailor the sensitivity of the detections for their particular environment if used as a persistent monitoring solution; or for incident responders to amass as many suspicious events as possible in one-time collection scenarios. In addition, a portable build is also provided overcoming the unwanted and intrusive default Linux behaviour of building tools on host.
 
 </details>
 
@@ -419,7 +419,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Data Forensics/Incident Response · **Event:** Asia 2024  
 🔗 **Link:** [https://github.com/ezztahoun/attack_flow_detector](https://github.com/ezztahoun/attack_flow_detector)  
-📝 **Description:** A tool that analyzes security alerts to identify attack patterns aligned with the MITRE ATT&CK framework, using correlation analysis and explainable machine learning to detect relationships between alerts and uncover stealthy attack sequences.
+📝 **Description:** Converting all kinds of SOC alerts to mitre attack techniques and then finding those few alerts that form a mitre attack flow, seems like a lot of manual work. But using a Large Language Model, Knowledge Graph, Temporal Graph Embedding, Density Clustering, and a Markov Model, its now possible to do it automatically in real time.
 
 </details>
 
@@ -435,7 +435,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Data Forensics/Incident Response · **Event:** Asia 2024  
 🔗 **Link:** [https://github.com/cyberark/white-phoenix](https://github.com/cyberark/white-phoenix)  
-📝 **Description:** A tool that recovers content from files encrypted by ransomware using intermittent encryption techniques, supporting multiple file formats including PDFs, Office documents, archives, and encrypted virtual machine files.
+📝 **Description:** White Phoenix tool's goal is to help victims of ransomware attacks recover some of their precious lost data. The tool can successfully recover data from encrypted files by ransomware that uses the Intermittent Encryption method (aka Partial Encryption) in the attack. The tool is free and can be used automatically as a service or manually by taking the code from the tool's GitHub repository. The Tool's Website: https://getmyfileback.com/ The Tool's GitHub: https://github.com/cyberark/White-Phoenix
 
 </details>
 
@@ -487,7 +487,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Reverse Engineering · **Event:** Asia 2024  
 🔗 **Link:** [https://github.com/imperva/frida-jit-unpacker](https://github.com/imperva/frida-jit-unpacker)  
-📝 **Description:** Frida-based tool that hooks the .NET JIT compiler to dump the original IL of packed or obfuscated .NET assemblies as their methods are compiled, so protected samples can be unpacked at runtime without a static unpacker.
+📝 **Description:** .NET-based malware families (like AgentTesla, CrimsonRat, and MassLogger, to list a few) can include obfuscation or packing that would harden analysts' work to understand and mitigate these threats effectively. Several options exist for researchers to tackle this challenge such as (but not limited to ) De4Dot, JITM (Mandiant 2020), DotDumper (Black Hat 2022), or JitHook (JSAC 2023) ... However, those solutions either don't cover the case where CLR APIs are intercepted by the packer, or do it in a very limited way. Our new tool has been developed to address this issue, adding some notable advancements that hopefully will prove its utility in the field of malware analysis. Our Frida-Jit-unPacker (FJP) tool uses a passive, less intrusive approach than previous tools, making it less likely to be detected by anti-unpacking-features. It is developed using Python3 and Frida and doesn't impose restrictions on the .NET framework version associated with the sample. The tool is not focused on specific packers, making it generic and flexible. One of its improvements compared to previously listed tools is its ability to also recover and fix original tokens from encrypted ones. In addition, this tool employs several strategies to be more covert in its operations compared to existing solutions. It achieves this by focusing on intercepting lower-level functions, less likely to set off anti-unpacking mechanisms typically employed by packers. This stealthy approach is further enhanced by disassembling the Common Language Runtime (CLR) - strategically placing hooks just before or after likely monitoring points, tactically reducing the chances of triggering packers' anti-unpacking mechanisms. These enhancements aim to assist analysts and researchers in the evolving 'cat and mouse' game of malware code protection. Hopefully, the tool will prove to be a valuable addition to the researchers' arsenal.
 
 </details>
 

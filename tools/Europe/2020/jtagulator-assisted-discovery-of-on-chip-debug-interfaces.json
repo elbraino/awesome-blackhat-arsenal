@@ -1,6 +1,6 @@
 {
   "Tool Name": "JTAGulator: Assisted Discovery of On-Chip Debug Interfaces",
-  "Description": "An open-source hardware tool that assists in identifying on-chip debug (OCD) interfaces such as JTAG and UART from test points on electronic devices.",
+  "Description": "The JTAGulator is an open source hardware hacking tool that assists in identifying on-chip debug interfaces of an electronic device. These interfaces are often used by engineers, researchers, and hackers to extract program code, modify memory contents, or affect device operation on-the-fly. The JTAGulator bridges the gap between gaining access to a device's circuitry and exploiting the interfaces. Depending on the complexity of the device, it can save a significant amount of effort compared to traditional reverse engineering techniques. Aided by community contributions, the JTAGulator continues to incorporate new features to make hardware hacking easier. In this virtual session, Joe will host live demonstrations of the JTAGulator and its recent additions, including logic analyzer and OpenOCD support.",
   "Github URL": "https://github.com/grandideastudio/jtagulator",
   "Tracks": [
     "Arsenal Lab"

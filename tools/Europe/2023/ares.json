@@ -1,6 +1,6 @@
 {
   "Tool Name": "Ares",
-  "Description": "A cross-platform, open-source multi-system emulator focused on accuracy and preservation, supporting a wide range of classic gaming consoles and computer systems.",
+  "Description": "Ares is the next generation of automatic cipher cracking, built by the same people that brought you Ciphey. Give it some encoded text and Ares will tell you what it's encoded with and what the plaintext is. It's 8800% faster than the previous iteration Ciphey.",
   "Github URL": "https://github.com/ares-emulator/ares",
   "Tracks": [
     "Cryptography"

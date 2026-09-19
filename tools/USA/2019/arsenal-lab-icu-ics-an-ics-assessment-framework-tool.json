@@ -1,6 +1,6 @@
 {
   "Tool Name": "ARSENAL LAB - ICU-ICS: An ICS Assessment Framework Tool",
-  "Description": "ICU-ICS is an Industrial Control Systems (ICS) assessment framework tool designed to help security professionals evaluate and test the security posture of ICS and SCADA environments.",
+  "Description": "Have you ever wanted to hack an Industrial Control System (ICS) environment without going to the federal penitentiary? Now is your chance. Join us for a one of a kind hands-on experience learning how to fully engage, interact, enumerate, and hack real-world ICS gear. This simulated environment is driven by industry standard equipment to help participants understand the needs and challenges in the fun and exciting world of ICS security.",
   "Github URL": "https://github.com/unicode-org/icu",
   "Tracks": [
     "Arsenal Lab"

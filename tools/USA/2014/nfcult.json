@@ -1,12 +1,13 @@
 {
   "Tool Name": "NFCulT",
-  "Description": "NFCulT stands for NFC ultralight Toolkit. It is the ultimate open source Android app that will let you research and exploit vulnerabilities in ultralight implementations.",
+  "Description": "NFCulT stands for NFC ultralight Toolkit. It is the ultimate open source Android app that will let you research and exploit vulnerabilities in ultralight implementations. It is very useful for finding bugs in transport system all over the world where Mifare Ultralight is very common. It will allow the user the possibility to see, change, and edit every single bit of a ticket to gain an in-depth understanding on how their own utralight implementation works. It has been used to find the three major vulnerabilities in ultralight implementations for transport systems in the past year.",
   "Github URL": "https://github.com/securenetwork/NFCulT",
   "Tracks": [
     "Android, iOS and Mobile Hacking"
   ],
   "Speakers": [
-    "Matteo Beccaro"
+    "Matteo Beccaro",
+    "Matteo Collura"
   ],
   "Year": "2014",
   "Location": "USA"

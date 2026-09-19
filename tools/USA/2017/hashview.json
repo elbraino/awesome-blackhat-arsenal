@@ -1,6 +1,6 @@
 {
   "Tool Name": "HASHVIEW",
-  "Description": "Hashview is a web front-end to hashcat with many powerful features geared towards penetration testers. Leverage task automation and real-time analytics for increased results and fancy reports. Hashview includes the following features: Automate workflow methodologies Create custom password cracking tasks Use data from previous jobs to increase cracking speeds Fancy analytics useful for client reports Distributed cracking Email/SMS Notifications Retroactively crack hashes from previous jobs Advanced searching of hashes, usernames, and plains Smart wordlists Optional community integration for accelerated cracking",
+  "Description": "Hashview is a web front-end to hashcat with many powerful features geared towards penetration testers. Leverage task automation and real-time analytics for increased results and fancy reports. Hashview includes the following features: Automate workflow methodologiesCreate custom password cracking tasksUse data from previous jobs to increase cracking speedsFancy analytics useful for client reportsDistributed cracking Email/SMS NotificationsRetroactively crack hashes from previous jobsAdvanced searching of hashes, usernames, and plainsSmart wordlistsOptional community integration for accelerated cracking",
   "Github URL": "https://github.com/hashview/hashview",
   "Tracks": [
     "Cryptography"

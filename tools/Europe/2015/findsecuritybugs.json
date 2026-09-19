@@ -1,0 +1,12 @@
+{
+  "Tool Name": "FindSecurityBugs",
+  "Description": "FindSecurityBugs is a plugin for the Java static analysis tool FindBugs. This plugin consists of set rules that focus only on security weaknesses. It can be use by developers or security analysts to find vulnerabilities in their code.",
+  "Github URL": "",
+  "Tracks": [],
+  "Speakers": [
+    "Philippe Arteau",
+    "David Formanek"
+  ],
+  "Year": "2015",
+  "Location": "Europe"
+}

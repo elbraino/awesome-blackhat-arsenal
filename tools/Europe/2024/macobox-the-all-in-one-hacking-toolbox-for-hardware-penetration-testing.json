@@ -1,6 +1,6 @@
 {
   "Tool Name": "MACOBOX - The all-in-one hacking toolbox for hardware penetration testing.",
-  "Description": "An all-in-one hacking toolbox for hardware penetration testing that enables firmware analysis and extraction from hardware interfaces like UART, SPI, I2C, and JTAG through an automated web interface.",
+  "Description": "Nowadays, the IoT landscape is fulfilled with a multitude of products, devices and solutions using a pletora of protocols, architectures and designs. To bring some order to this chaos, MACOBOX was developed. MACOBOX has been designed to simplify and enhance hardware penetration testing by providing a comprehensive toolset for analyzing and extracting firmware from various hardware interfaces. With a custom 3D printed case, dedicated boards, and a user-friendly interface, MACOBOX ensures a seamless and efficient testing experience. In this presentation we will review all its critical features and present some use cases and demos.",
   "Github URL": "https://github.com/mindstormsecurity/MACOBOX",
   "Tracks": [
     "Arsenal Lab",

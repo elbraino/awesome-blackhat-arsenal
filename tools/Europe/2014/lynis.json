@@ -1,0 +1,11 @@
+{
+  "Tool Name": "Lynis",
+  "Description": "Lynis is a free and open source security and auditing tool. It runs on Unix, Mac and Linux based systems. Lynis helps DevOps and security professionals detect vulnerabilities and configuration management weaknesses. When running the tool, an in-depth scan of the system will be performed. Therefore it is much more thorough than network based vulnerability scanners. It starts with the boot loader and goes up to installed software packages. After the analysis, it provides the discovered findings, including hints to further secure the system.",
+  "Github URL": "",
+  "Tracks": [],
+  "Speakers": [
+    "Michael Boelen"
+  ],
+  "Year": "2014",
+  "Location": "Europe"
+}

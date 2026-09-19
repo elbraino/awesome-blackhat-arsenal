@@ -1,6 +1,6 @@
 {
   "Tool Name": "Mitre Attack Flow Detector",
-  "Description": "A Python-based security analysis tool that identifies potential attack patterns by correlating security alerts and mapping them to the MITRE ATT&CK framework. It uses explainable machine learning to detect contextual groupings and causal sequences hiding in alerts.",
+  "Description": "Using correlation and clustering models, turn tons of alerts into mitre attack flows. The model finds the attack flows, using its ability to evaluate alerts temporal proximity, kill chain sequentiality, shared entities and similar attributes to other alerts of interest, among others. In real time this model can save your operations endless hours of correlating incidents and finding noteworthy attack flows, that if not detected in time would lead to breaches.",
   "Github URL": "https://github.com/ezztahoun/attack_flow_detector",
   "Tracks": [
     "Data Forensics/Incident Response",

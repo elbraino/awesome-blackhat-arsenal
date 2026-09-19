@@ -1,6 +1,6 @@
 {
   "Tool Name": "VScan",
-  "Description": "Usually, after we performed a Vulnerability Assessment in our organisation, we continue our work with the development of an plan of security improvements with the ultimate goal of reducing the risk and threats and be in conformity with security politics and requirements.",
+  "Description": "Usually, after we performed a Vulnerability Assessment in our organisation, we continue our work with the development of an plan of security improvements with the ultimate goal of reducing the risk and threats and be in conformity with security politics and requirements. This security improvements plan can be difficult to carry out in time, if we cannot in a simple way measure our progress and simplify the process of resolution of vulnerabilities. To address these issues we developed VScan, an open source Vulnerability Management System.",
   "Github URL": "",
   "Tracks": [
     "Vulnerability Assessment"

@@ -3,7 +3,7 @@
   "Description": "Trape is a recognition tool that allows you to track people and make phishing attacks in real time; the information you can get is very detailed. The objective is to teach the world the possible outcomes through this strategy -- the big Internet companies could be monitoring you, getting information beyond your IP, such as the sessions of your sites or Internet services.",
   "Github URL": "https://github.com/jofpin/trape",
   "Tracks": [
-    "Exploitation and Ethical Hacking"
+    "OSINT - Open Source Intelligence"
   ],
   "Speakers": [
     "Jose Pino",

@@ -5,9 +5,9 @@
 See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../BY_NAME.md) · [main index](../../../README.md)
 
 ## 📚 Contents
-- [☁️ Cloud Security](#-cloud-security) (3)
+- [☁️ Cloud Security](#-cloud-security) (2)
 - [⚙️ Miscellaneous / Lab Tools](#-miscellaneous--lab-tools) (3)
-- [🌐 Web/AppSec](#-webappsec) (9)
+- [🌐 Web/AppSec](#-webappsec) (10)
 - [🌐 Web/AppSec or Red Teaming](#-webappsec-or-red-teaming) (7)
 - [📱 Mobile Security](#-mobile-security) (4)
 - [🔍 OSINT](#-osint) (2)
@@ -19,14 +19,6 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 - [🧠 Social Engineering / General](#-social-engineering--general) (1)
 ---
 ## ☁️ Cloud Security
-<details><summary><strong>BlueMap - An Interactive Tool for Azure Exploitation</strong> — Maor Tal</summary>
-
-**Track:** Cloud Security · Web AppSec · **Event:** USA 2023  
-🔗 **Link:** [https://github.com/SikretaLabs/BlueMap](https://github.com/SikretaLabs/BlueMap)  
-📝 **Description:** As demonstrated in BlackHat UK & Asia - BlueMap helps cloud red teamers and security researchers identify IAM misconfigurations, information gathering, and abuse of managed identities in interactive mode without ANY third-party dependencies. No more painful installations on the customer's environment, and No more need to custom the script to avoid SIEM detection! The tool leaves minimum traffic in the network logs to help during red team engagements from on-prem to the cloud. Developed in Python and implemented all Azure integrations from scratch with zero dependencies on Powershell stuff. The idea behind the tool is to let security researchers and red team members have the ability to focus on more Opsec rather than DevOps stuff.
-
-</details>
-
 <details><summary><strong>BucketLoot - An Automated S3 Bucket Inspector</strong> — Umair Nehri, Owais Shaikh</summary>
 
 **Track:** Cloud Security · **Event:** USA 2023  
@@ -65,7 +57,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Arsenal Lab · **Event:** USA 2023  
 🔗 **Link:** [https://github.com/practical-iot-hacking/practical-iot-hacking.github.io](https://github.com/practical-iot-hacking/practical-iot-hacking.github.io)  
-📝 **Description:** A companion website and resource hub for practical IoT hacking workshops, providing materials for multi-band wireless hacking using the CatSniffer tool to analyze and interact with IoT protocols across different radio frequencies.
+📝 **Description:** Delve into the fascinating world of IoT (Internet of Things) with the CatSniffer - a powerful, multi-protocol, multi-band, and open-source board crafted for exploring, interacting, and potentially compromising IoT devices. This workshop offers an immersive, hands-on experience, teaching you how to create chaos among IoT devices and challenge real-world devices like property trackers. Our engaging demonstrations are merely the tip of the iceberg of what you can achieve with the CatSniffer. The tool's exceptional flexibility allows the use of different tools for your security auditing needs, and our unique firmware broadens your learning horizon and amplifies the fun factor, irrespective of whether you're a novice or a seasoned expert in the field. We invite you to join us on this journey of discovery, where we will harness the boundless capabilities of CatSniffer, fine-tuning your skills and transforming you into a maestro of IoT security auditing.
 
 </details>
 
@@ -84,6 +76,14 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 **Track:** Web AppSec · Vulnerability Assessment · **Event:** USA 2023  
 🔗 **Link:** [https://github.com/meliht/AppSecLens](https://github.com/meliht/AppSecLens)  
 📝 **Description:** AppSecLens is an innovative web application security tool, specifically designed to assist organizations in proactively managing their attack surface, identifying vulnerabilities, and prioritizing remediation efforts with a focus on Application Risk Ranking. Inspired by VulnHero, AppSecLens identifies related web applications using domain knowledge, conducts context-based discoveries, and employs AI-powered algorithms to assign application risk rankings. The tool evaluates web applications based on criteria such as potential business risks, presence of PII/NPI/HPI data, authentication structure, underlying technology stack, patch cadence, and security posture. AppSecLens's AI-driven algorithm assigns automatic tags and labels accordingly, enabling efficient risk prioritization. By integrating with third-party APIs and threat intelligence databases, AppSecLens remains up-to-date with the latest vulnerabilities and exploits. The tool also supports seamless collaboration with other security tools and systems, facilitating coordinated remediation efforts. Its customizable dashboards and reporting options empower users to monitor and manage risks effectively, ensuring a more robust and secure web application environment.
+
+</details>
+
+<details><summary><strong>BlueMap - An Interactive Tool for Azure Exploitation</strong> — Maor Tal</summary>
+
+**Track:** Web AppSec · **Event:** USA 2023  
+🔗 **Link:** [https://github.com/SikretaLabs/BlueMap](https://github.com/SikretaLabs/BlueMap)  
+📝 **Description:** As demonstrated in BlackHat UK & Asia - BlueMap helps cloud red teamers and security researchers identify IAM misconfigurations, information gathering, and abuse of managed identities in interactive mode without ANY third-party dependencies. No more painful installations on the customer's environment, and No more need to custom the script to avoid SIEM detection! The tool leaves minimum traffic in the network logs to help during red team engagements from on-prem to the cloud. Developed in Python and implemented all Azure integrations from scratch with zero dependencies on Powershell stuff. The idea behind the tool is to let security researchers and red team members have the ability to focus on more Opsec rather than DevOps stuff.
 
 </details>
 
@@ -139,7 +139,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 **Track:** Web AppSec · **Event:** USA 2023  
 🔗 **Link:** [https://github.com/roottusk/vapi](https://github.com/roottusk/vapi)  
-📝 **Description:** A self-hostable, intentionally vulnerable API application built on PHP and Laravel that mimics OWASP API Top 10 scenarios as exercises, enabling security professionals and students to practice identifying and exploiting common API vulnerabilities.
+📝 **Description:** vAPI is a Vulnerable Interface in a Lab like environment that mimics the scenarios from OWASP API Top 10 and helps the user understand and exploit the vulnerabilities according to OWASP API Top 10 2019. Apart from that, the lab consists some more exercises/challenges related to advanced topics related to Authorization and Access Control
 
 </details>
 

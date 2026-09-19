@@ -1,6 +1,6 @@
 {
   "Tool Name": "Volatile Vault: Data Exfiltration in 2024",
-  "Description": "A secure data exfiltration platform for red team operators that encrypts all data in the browser using AES-GCM, stores files temporarily with automatic deletion, and features a plugin system supporting various storage and transport mechanisms.",
+  "Description": "In the dynamic realm of red team operations, selecting the right tools for data exfiltration is critical, yet comes with obstacles such as triggering Data Exfiltration Prevention (DEP) systems. We present \"Volatile Vault\" as a solution, a custom-built platform tailored to evade DEP detection. Our tool encrypts the data on the client-side and then provides a modular approach for uploading said data. Some of the currently implemented upload strategies are chunked HTTP uploads to multiple domain fronted endpoints (AWS) or QUIC as an alternative protocol.",
   "Github URL": "https://github.com/molatho/volatilevault",
   "Tracks": [
     "Network Attacks"

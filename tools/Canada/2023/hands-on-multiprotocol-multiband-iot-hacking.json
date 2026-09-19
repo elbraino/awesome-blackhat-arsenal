@@ -1,6 +1,6 @@
 {
   "Tool Name": "Hands-on Multiprotocol Multiband IoT Hacking",
-  "Description": "Code examples and resources for hands-on IoT solutions, demonstrating practical applications combining Internet of Things platforms with blockchain technology, including projects using hardware like Intel Edison modules and Raspberry Pi devices.",
+  "Description": "CatSniffer is an original multiprotocol, multiband, and open-source board made for sniffing, communicating, and attacking IoT (Internet of Things) devices. Join us to get hands-on with this swiss army knife causing a bit of BlueTooth mahem and also attacking real-world devices such a property trackers. Our interactive demos only scratch the surface of what is possible with this portable tool which also works with third-party sniffers such as SmartRF Packet Sniffer, Sniffle, zigbee2mqtt, Z-Stack-firmware, Ubiqua Protocol Analyzer, and our custom firmware. The extensibility makes it fun for beginners and experts alike.",
   "Github URL": "https://github.com/PacktPublishing/Hands-On-IoT-Solutions-with-Blockchain",
   "Tracks": [
     "Arsenal Lab"

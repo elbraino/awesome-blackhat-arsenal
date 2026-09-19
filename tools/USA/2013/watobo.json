@@ -1,6 +1,6 @@
 {
   "Tool Name": "WATOBO",
-  "Description": "WATOBO is a security tool for web applications. It is intended to enable security professionals to perform efficient (semi-automated) web application security audits.",
+  "Description": "WATOBO is a security tool for web applications. It is intended to enable security professionals to perform efficient (semi-automated) web application security audits. Most important features:",
   "Github URL": "https://github.com/siberas/watobo",
   "Tracks": [
     "Web AppSec"

@@ -1,6 +1,6 @@
 {
   "Tool Name": "RIoTPot: A Modular Hybrid-Interaction IoT/OT Honeypot",
-  "Description": "A modular hybrid-interaction honeypot focused on emulating IoT and OT protocols, functioning as a proxy service that routes incoming attacks to various internal and external honeypot services.",
+  "Description": "With attacks against Internet of Things (IoT) and Operational Technology (OT) protocols increasing, we need proper defensive tools as well as methods for studying adversarial techniques. RIoTPot is a novel IoT/OT honeypot that is written in Go and moves beyond the traditional binary world of low vs. high interaction level. It achieves this via a modular architecture that allows for hybrid deployment of low-interaction along with high-interaction components (based on containerization techniques) as per users' preferences. RIoTPot emulates a multitude of common IoT and OT protocols such as CoAP, MQTT, Modbus, Telnet, AMQP, SSH, HTTP and UPnP.",
   "Github URL": "https://github.com/aau-network-security/riotpot",
   "Tracks": [
     "Malware Defense"

@@ -1,6 +1,6 @@
 {
   "Tool Name": "Chip In-depth Analysis - Where is the Key?",
-  "Description": "A collection of resources and analysis tools for ChIP-seq (Chromatin Immunoprecipitation sequencing) data processing, covering quality control, peak calling, differential binding analysis, and downstream applications like motif discovery.",
+  "Description": "Chip-off forensics is an advanced digital data extraction and analysis technique which involves physically removing flash memory chips (IC) from a subject device and then acquiring the raw data using specialized equipment. Apart from the rework station, it should have a suitable reader or device to retrieve the data/firmware from the chip. It is an new developed device which can recognize the chip detailed information. During the lab, the audiences would have opportunity to analyze the common eMMC / UFS chips and discover the secret from it.",
   "Github URL": "https://github.com/crazyhottommy/ChIP-seq-analysis",
   "Tracks": [
     "Arsenal Lab",

@@ -1,6 +1,6 @@
 {
   "Tool Name": "TCP/IP Communication without Network Attack Surfaces. (No Open Ports on External Interfaces)",
-  "Description": "A cybersecurity lab demonstrating TCP/IP protocol vulnerabilities including SYN flood attacks, TCP reset attacks, session hijacking, and reverse shell creation using Docker containers to simulate network environments.",
+  "Description": "- instead of \"managing\" attack surfaces, you can have ZERO network attack surfaces? In other words, nothing to attack with no network ports open! - instead of giving full visibility into your ecosystem, you could make everything invisible by default, granting access only to a select few who require it? - when a hacker scans the networks, there is nothing to attack? How is this all possible? Atsign's new open-source protocol brings this vision to life..Built on the principles of Networking 2.0, it ensures edge-to-edge data encryption, keeps all keys at the edge, and cryptographically signs everything, preventing any form of snooping, even by us.",
   "Github URL": "https://github.com/Marcokorcak/TCP-IP-Attack",
   "Tracks": [
     "Network Defense"

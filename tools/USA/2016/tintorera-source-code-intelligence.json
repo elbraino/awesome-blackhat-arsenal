@@ -1,0 +1,11 @@
+{
+  "Tool Name": "Tintorera: Source Code Intelligence",
+  "Description": "Tintorera is a new static analysis tool developed in Python that uses the GCC compiler to build C projects aiming to obtain intelligence from them. GCC offers a powerful plugin architecture that allows tapping into its internals, and static analysis tools can benefit from it to gather information of the source code while compiling. Some Tintorera features that a code auditor can benefit from:",
+  "Github URL": "",
+  "Tracks": [],
+  "Speakers": [
+    "Simon Roses"
+  ],
+  "Year": "2016",
+  "Location": "USA"
+}

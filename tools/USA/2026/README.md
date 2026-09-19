@@ -1,6 +1,6 @@
 # USA 2026
 ---
-📍 100 tools demonstrated at **Black Hat Arsenal USA 2026**, grouped by track category. Expand a tool for its description.
+📍 101 tools demonstrated at **Black Hat Arsenal USA 2026**, grouped by track category. Expand a tool for its description.
 
 See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../BY_NAME.md) · [main index](../../../README.md)
 
@@ -14,7 +14,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 - [🔴 Red Teaming / AppSec](#-red-teaming--appsec) (9)
 - [🔵 Blue Team & Detection](#-blue-team--detection) (24)
 - [🟣 Red Teaming / Embedded](#-red-teaming--embedded) (6)
-- [🤖 AI, ML & Data Science](#-ai-ml--data-science) (11)
+- [🤖 AI, ML & Data Science](#-ai-ml--data-science) (12)
 - [🧠 Reverse Engineering](#-reverse-engineering) (4)
 ---
 ## ☁️ Cloud Security
@@ -66,7 +66,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>OWASP EKS Goat: Hands-On AWS EKS Security</strong> — peachycloudsecurity, Divyanshu Shukla</summary>
+<details><summary><strong>OWASP EKS Goat: Hands-On AWS EKS Security</strong> — Anjali Shukla, Divyanshu Shukla</summary>
 
 **Track:** Cloud Security · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/OWASP/www-project-eks-goat](https://github.com/OWASP/www-project-eks-goat)  
@@ -74,7 +74,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Pathrunner: An AWS Privilege Escalation Framework</strong> — Seth Art (sethsec)</summary>
+<details><summary><strong>Pathrunner: An AWS Privilege Escalation Framework</strong> — Seth Art</summary>
 
 **Track:** Cloud Security · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/DataDog/pathrunner](https://github.com/DataDog/pathrunner)  
@@ -92,7 +92,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Anthropic-Cybersecurity-Skills</strong> — Mahipal</summary>
+<details><summary><strong>Anthropic-Cybersecurity-Skills</strong> — Mahipal Mahipal</summary>
 
 **Track:** Arsenal Lab · AI, ML & Data Science · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)  
@@ -100,7 +100,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>APTL: Advanced Purple Team Labs</strong> — atomik</summary>
+<details><summary><strong>APTL: Advanced Purple Team Labs</strong> — Brad Edwards</summary>
 
 **Track:** Arsenal Lab · Exploitation and Ethical Hacking · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/Brad-Edwards/aptl](https://github.com/Brad-Edwards/aptl)  
@@ -124,7 +124,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Hecate: a trivial UART tool</strong> — . maxi, Joe FitzPatrick, Nyx</summary>
+<details><summary><strong>Hecate: a trivial UART tool</strong> — . maxi, Joe FitzPatrick, Nyx nyx</summary>
 
 **Track:** Arsenal Lab · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/tigard-tools/hecate](https://github.com/tigard-tools/hecate)  
@@ -166,7 +166,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Precogly: Open Source Threat Modeling for AI-Assisted Security</strong> — Vikram Narayan</summary>
+<details><summary><strong>Precogly: Open Source Threat Modeling for AI-Assisted Security</strong> — Vikramaditya Narayan</summary>
 
 **Track:** Web AppSec · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/precogly/precogly](https://github.com/precogly/precogly)  
@@ -192,7 +192,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 ---
 ## 🌐 Web/AppSec or Red Teaming
-<details><summary><strong>Continuous Threat Modeling in Agentic AI era - tmdd</strong> — mik0w</summary>
+<details><summary><strong>Continuous Threat Modeling in Agentic AI era - tmdd</strong> — Mikolaj Kowalczyk</summary>
 
 **Track:** Code Assessment · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/attasec/tmdd](https://github.com/attasec/tmdd)  
@@ -242,7 +242,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>MORF - Mobile Reconnaissance Framework</strong> — Amrudesh, Abhishek JM, Himanshu Kumar Das</summary>
+<details><summary><strong>MORF - Mobile Reconnaissance Framework</strong> — Amrudesh Balakrishnan, Abhishek JM, Himanshu Das</summary>
 
 **Track:** OSINT - Open Source Intelligence · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/amrudesh1/morf](https://github.com/amrudesh1/morf)  
@@ -260,7 +260,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 ---
 ## 🔴 Red Teaming
-<details><summary><strong>Brutus: Modern Multi-Protocol Credential Testing in Go</strong> — UNC1739</summary>
+<details><summary><strong>Brutus: Modern Multi-Protocol Credential Testing in Go</strong> — Adam Crosser</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/praetorian-inc/brutus](https://github.com/praetorian-inc/brutus)  
@@ -268,7 +268,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>ConfigManBearPig - Identify, Visualize, and Navigate SCCM Attack Paths in BloodHound</strong> — Mayyhem</summary>
+<details><summary><strong>ConfigManBearPig - Identify, Visualize, and Navigate SCCM Attack Paths in BloodHound</strong> — Chris Thompson</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/SpecterOps/ConfigManBearPig](https://github.com/SpecterOps/ConfigManBearPig)  
@@ -292,7 +292,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Ghost in the IDE</strong> — Pardhiv, Jayaram yalla</summary>
+<details><summary><strong>Ghost in the IDE</strong> — Pardhiv Reddy, Venkata jayaram yalla</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2026  
 🔗 **Link:** Not Available  
@@ -308,7 +308,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>JS-Tap v3: JavaScript Post-Exploitation Moves to the Endpoint</strong> — Hoodoer</summary>
+<details><summary><strong>JS-Tap v3: JavaScript Post-Exploitation Moves to the Endpoint</strong> — Drew Kirkpatrick</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/hoodoer/JS-Tap](https://github.com/hoodoer/JS-Tap)  
@@ -324,7 +324,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>MSCodePhish - Dynamic Device Code Phishing Framework</strong> — Raunak Parmar, 3xpl01tc0d3r</summary>
+<details><summary><strong>MSCodePhish - Dynamic Device Code Phishing Framework</strong> — Raunak Parmar, Chirag Savla</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/TROUBLE-1/MSCodePhish](https://github.com/TROUBLE-1/MSCodePhish)  
@@ -332,7 +332,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>MSSQLHound - Identify, Visualize, and Navigate MSSQL Attack Paths in BloodHound</strong> — Mayyhem, Javier Azofra</summary>
+<details><summary><strong>MSSQLHound - Identify, Visualize, and Navigate MSSQL Attack Paths in BloodHound</strong> — Chris Thompson, Javier Azofra</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/SpecterOps/MSSQLHound](https://github.com/SpecterOps/MSSQLHound)  
@@ -356,7 +356,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>ROP ROCKET: New ASLR Bypass Mini-Tool & Automating Advanced ROP Attacks</strong> — Dr. Bramwell Brizendine, Shiva Shashank Kusuma</summary>
+<details><summary><strong>ROP ROCKET: New ASLR Bypass Mini-Tool & Automating Advanced ROP Attacks</strong> — Bramwell Brizendine, Shiva Shashank Kusuma</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/Bw3ll/ROP_ROCKET](https://github.com/Bw3ll/ROP_ROCKET)  
@@ -364,7 +364,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>ShellWasp: Creating Shellcode with Windows Syscalls</strong> — Dr. Bramwell Brizendine</summary>
+<details><summary><strong>ShellWasp: Creating Shellcode with Windows Syscalls</strong> — Bramwell Brizendine</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/Bw3ll/ShellWasp](https://github.com/Bw3ll/ShellWasp)  
@@ -380,7 +380,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>The Metasploit Framework 6.5: Malleable C2 Payloads, New Relay Capability and Protocol Session Upgrades</strong> — Jack Heysel, zeroSteiner</summary>
+<details><summary><strong>The Metasploit Framework 6.5: Malleable C2 Payloads, New Relay Capability and Protocol Session Upgrades</strong> — Jack Heysel, Spencer McIntyre</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)  
@@ -388,7 +388,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Trajan: Cross-Platform CI/CD Security Scanner</strong> — Rahul Saranjame, Ranganatha Rao Sridhar, Tanishq Rupaal</summary>
+<details><summary><strong>Trajan: Cross-Platform CI/CD Security Scanner</strong> — Rahul Saranjame, Rao Sridhar, Tanishq Rupaal</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/praetorian-inc/trajan](https://github.com/praetorian-inc/trajan)  
@@ -472,7 +472,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 ---
 ## 🔵 Blue Team & Detection
-<details><summary><strong>AC Scanner - QubitAC Automated Post-Quantum Cryptography Discovery Tool</strong> — Anurag Swarnim Yadav, hachinijuku</summary>
+<details><summary><strong>AC Scanner - QubitAC Automated Post-Quantum Cryptography Discovery Tool</strong> — Anurag Swarnim Yadav, Joseph Wilson</summary>
 
 **Track:** Cryptography · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/qubitac/AC-Scanner](https://github.com/qubitac/AC-Scanner)  
@@ -488,7 +488,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Azazel-Edge : Deterministic Edge Decision Support for Constrained SOC/NOC Operations</strong> — Makoto "Mr. Rabbit" SUGITA</summary>
+<details><summary><strong>Azazel-Edge : Deterministic Edge Decision Support for Constrained SOC/NOC Operations</strong> — Makoto SUGITA</summary>
 
 **Track:** Network Defense · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/01rabbit/Azazel-Edge](https://github.com/01rabbit/Azazel-Edge)  
@@ -552,7 +552,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>KEIP: Kernel-Enforced Install-Time Policies</strong> — otsmane ahmed</summary>
+<details><summary><strong>KEIP: Kernel-Enforced Install-Time Policies</strong> — ahmed otsmane</summary>
 
 **Track:** Malware Defense · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/Otsmane-Ahmed/KEIP](https://github.com/Otsmane-Ahmed/KEIP)  
@@ -576,7 +576,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Mecha Hayabusa by Yamato Security</strong> — Tanaka Zakku, Akira Nishikawa, PINK</summary>
+<details><summary><strong>Mecha Hayabusa by Yamato Security</strong> — Zach Mathis, Akira Nishikawa, Shota Nakajima</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/Yamato-Security/mecha-hayabusa](https://github.com/Yamato-Security/mecha-hayabusa)  
@@ -592,7 +592,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Nogitsune: eBPF-Based Anti-VM Detection for Linux Malware Analysis</strong> — t0x1n, Harsh Ramjibhai</summary>
+<details><summary><strong>Nogitsune: eBPF-Based Anti-VM Detection for Linux Malware Analysis</strong> — Sumukh Chitloor, Harsh Ramjibhai</summary>
 
 **Track:** Malware Defense · **Event:** USA 2026  
 🔗 **Link:** Not Available  
@@ -648,7 +648,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Suzaku by Yamato Security</strong> — Tanaka Zakku, Akira Nishikawa, PINK</summary>
+<details><summary><strong>Suzaku by Yamato Security</strong> — Zach Mathis, Akira Nishikawa, Shota Nakajima</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/Yamato-Security/suzaku](https://github.com/Yamato-Security/suzaku)  
@@ -656,7 +656,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>TSURUGI LINUX - the sharpest weapon in your DFIR arsenal</strong> — Giovanni 'sug4r' Rattaro, Marco 'Blackmoon' Giorgi</summary>
+<details><summary><strong>TSURUGI LINUX - the sharpest weapon in your DFIR arsenal</strong> — Giovanni Rattaro, Marco GIorgi</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** USA 2026  
 🔗 **Link:** [https://tsurugi-linux.org/](https://tsurugi-linux.org/)  
@@ -674,7 +674,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>LoRaCraft – Crafting Attacks for LoRaWAN Networks</strong> — Pinar, musana</summary>
+<details><summary><strong>LoRaCraft – Crafting Attacks for LoRaWAN Networks</strong> — Pınar Sadioğlu, Musa Şana</summary>
 
 **Track:** Internet Of Things · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/pinarsadioglu/loracraft](https://github.com/pinarsadioglu/loracraft)  
@@ -690,7 +690,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>SafeScribe - Edge Device AI Meeting Notetaker</strong> — Syed Hadi</summary>
+<details><summary><strong>SafeScribe - Edge Device AI Meeting Notetaker</strong> — Syed Abdul Hadi</summary>
 
 **Track:** Hardware/Embedded · **Event:** USA 2026  
 🔗 **Link:** Not Available  
@@ -724,11 +724,19 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Bastet: An Infrastructure for Benchmarking LLM Smart Contract Auditing</strong> — Alice Hsu, SunSec</summary>
+<details><summary><strong>Bastet: An Infrastructure for Benchmarking LLM Smart Contract Auditing</strong> — Wan Hsuan Hsu, Wei Hao Huang</summary>
 
 **Track:** AI, ML & Data Science · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/OneSavieLabs/Bastet](https://github.com/OneSavieLabs/Bastet)  
 📝 **Description:** Bastet pairs a curated dataset of common DeFi smart contract vulnerabilities with an AI-driven automated detection process. It concentrates on flaws that static analysis tools miss but that are routinely rated medium to high severity in audit competitions and frequently cause financial loss. The dataset draws on real-world issues observed on-chain and in competitions, and tailored detection workflows benchmark and improve LLM accuracy across development, auditing, and ongoing monitoring.
+
+</details>
+
+<details><summary><strong>cot. - Agentic Observability Platform</strong> — Kumar Ashwin</summary>
+
+**Track:** AI, ML & Data Science · **Event:** USA 2026  
+🔗 **Link:** Not Available  
+📝 **Description:** AI agents are starting to show up everywhere, but for security teams it is still surprisingly hard to answer basic questions about what they are actually doing. cot.run is an attempt to make that easier. It gives teams visibility into the tools, MCP servers, plugins, models, external services, and permissions involved when agents perform work, helping them trace how an action happened and what systems were involved along the way. The focus is less on adding another layer of policy and more on making agent activity understandable enough to investigate, review, and secure. We will show cot.run running against real agent workflows and how this visibility can uncover risky dependencies, unexpected access, and parts of the agent stack that are otherwise easy to miss. More at cot.run
 
 </details>
 
@@ -748,7 +756,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>MCParasite: Universal MCP Worm Security Testing Framework</strong> — Utku YILDIRIM, Ozzy</summary>
+<details><summary><strong>MCParasite: Universal MCP Worm Security Testing Framework</strong> — Utku YILDIRIM, Ozgun Kultekin</summary>
 
 **Track:** AI, ML & Data Science · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/Y1LD1R1M-1337/mcparasite](https://github.com/Y1LD1R1M-1337/mcparasite)  
@@ -772,7 +780,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>RedTeamSimmer: A Web Based Adversary Emulation Platform and Atomic Red Team Test Orchestration</strong> — Abx</summary>
+<details><summary><strong>RedTeamSimmer: A Web Based Adversary Emulation Platform and Atomic Red Team Test Orchestration</strong> — Abhijith B R</summary>
 
 **Track:** AI, ML & Data Science · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/BreachSimRange/RedTeamSimmer](https://github.com/BreachSimRange/RedTeamSimmer)  
@@ -796,7 +804,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>unrelabel: how to destroy an ML model</strong> — Ozzy</summary>
+<details><summary><strong>unrelabel: how to destroy an ML model</strong> — Ozgun Kultekin</summary>
 
 **Track:** AI, ML & Data Science · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/oz9un/unrelabel](https://github.com/oz9un/unrelabel)  
@@ -814,7 +822,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>RPCExplorer</strong> — shmctl</summary>
+<details><summary><strong>RPCExplorer</strong> — Shahak Morag</summary>
 
 **Track:** Reverse Engineering · **Event:** USA 2026  
 🔗 **Link:** Not Available  
@@ -830,7 +838,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>SHAREM: Next-Generation Shellcode Analysis Tool</strong> — Dr. Bramwell Brizendine</summary>
+<details><summary><strong>SHAREM: Next-Generation Shellcode Analysis Tool</strong> — Bramwell Brizendine</summary>
 
 **Track:** Reverse Engineering · **Event:** USA 2026  
 🔗 **Link:** [https://github.com/Bw3ll/sharem](https://github.com/Bw3ll/sharem)  

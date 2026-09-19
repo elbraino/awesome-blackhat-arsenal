@@ -1,11 +1,13 @@
 {
   "Tool Name": "Spotlight Inspector - OSX Forensics",
-  "Description": "Spotlight Inspector is a free application for computer forensic investigation of Mac OS X computers. Until now, there has never been an effective cross-platform forensics tool for accessing Spotlight internal data from Mac OS X systems â which is where all of the information about files indexed on a computer can be accessed by forensic investigators. This information gathering is crucial to digital investigators.",
+  "Description": "Spotlight Inspector is a free application for computer forensic investigation of Mac OS X computers. Until now, there has never been an effective cross-platform forensics tool for accessing Spotlight internal data from Mac OS X systems – which is where all of the information about files indexed on a computer can be accessed by forensic investigators. This information gathering is crucial to digital investigators. Spotlight is the name of Apple OS X’s desktop search functionality. It indexes all the files on a volume storing metadata about file system object (e.g. file, directory) in an effort to provide fast and extensive file searching capabilities. The metadata stored includes familiar file system metadata, as in MAC times as well as file-internal metadata like image dimensions and color model and file usage count. Spotlight allows users to search for documents with the Author tag \"Snowden,\" for example. These databases are created by OS X on each volume the machine can access, including flash drives. Spotlight Inspector parses Spotlight metadata databases and provides functionality to work with the internal data in a clean and useful way.",
   "Github URL": "",
   "Tracks": [
     "Data Forensics/Incident Response"
   ],
-  "Speakers": [],
+  "Speakers": [
+    "Joe T. Sylve"
+  ],
   "Year": "2014",
   "Location": "USA"
 }

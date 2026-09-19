@@ -1,6 +1,6 @@
 # Canada 2025
 ---
-📍 34 tools demonstrated at **Black Hat Arsenal Canada 2025**, grouped by track category. Expand a tool for its description.
+📍 35 tools demonstrated at **Black Hat Arsenal Canada 2025**, grouped by track category. Expand a tool for its description.
 
 See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../BY_NAME.md) · [main index](../../../README.md)
 
@@ -9,11 +9,11 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 - [⚙️ Miscellaneous / Lab Tools](#-miscellaneous--lab-tools) (3)
 - [🌐 Web/AppSec](#-webappsec) (1)
 - [🌐 Web/AppSec or Red Teaming](#-webappsec-or-red-teaming) (1)
-- [🔍 OSINT](#-osint) (2)
+- [🔍 OSINT](#-osint) (1)
 - [🔴 Red Teaming](#-red-teaming) (3)
 - [🔴 Red Teaming / AppSec](#-red-teaming--appsec) (4)
-- [🔵 Blue Team & Detection](#-blue-team--detection) (6)
-- [🤖 AI, ML & Data Science](#-ai-ml--data-science) (5)
+- [🔵 Blue Team & Detection](#-blue-team--detection) (7)
+- [🤖 AI, ML & Data Science](#-ai-ml--data-science) (6)
 - [🧠 Reverse Engineering](#-reverse-engineering) (1)
 ---
 ## ☁️ Cloud Security
@@ -83,7 +83,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 ---
 ## ⚙️ Miscellaneous / Lab Tools
-<details><summary><strong>Promptfoo</strong> — Michael D'Angelo, Vanessa Sauter, Lily Liu, Guangshuo Zang, Will</summary>
+<details><summary><strong>Promptfoo</strong> — Michael D'Angelo, Vanessa Sauter, Lily Liu, Guangshuo Zang, Will .</summary>
 
 **Track:** Arsenal Lab · **Event:** Canada 2025  
 🔗 **Link:** [https://github.com/promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)  
@@ -129,14 +129,6 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 ---
 ## 🔍 OSINT
-<details><summary><strong>AutoC</strong> — Itzhak Chimino, Bar Haim</summary>
-
-**Track:** OSINT - Open Source Intelligence · **Event:** Canada 2025  
-🔗 **Link:** [https://github.com/barvhaim/AutoC](https://github.com/barvhaim/AutoC)  
-📝 **Description:** AutoC is an automated tool designed to extract and analyze Indicators of Compromise (IoCs) from open-source threat intelligence sources. It streamlines the threat hunting process by correlating security data, identifying anomalous patterns, and investigating potential threats across enterprise environments.
-
-</details>
-
 <details><summary><strong>FARSIGHT</strong> — Prashant KV, Mohd. Arif, Adlin DSouza, Sumit Sehgal</summary>
 
 **Track:** OSINT - Open Source Intelligence · **Event:** Canada 2025  
@@ -207,6 +199,14 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 ---
 ## 🔵 Blue Team & Detection
+<details><summary><strong>AutoC</strong> — Itzhak Chimino, Bar Haim</summary>
+
+**Track:** Data Forensics/Incident Response · **Event:** Canada 2025  
+🔗 **Link:** [https://github.com/barvhaim/AutoC](https://github.com/barvhaim/AutoC)  
+📝 **Description:** AutoC is an automated tool designed to extract and analyze Indicators of Compromise (IoCs) from open-source threat intelligence sources. It streamlines the threat hunting process by correlating security data, identifying anomalous patterns, and investigating potential threats across enterprise environments.
+
+</details>
+
 <details><summary><strong>Azazel System</strong> — Makoto SUGITA</summary>
 
 **Track:** Network Defense · **Event:** Canada 2025  
@@ -273,7 +273,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 
 </details>
 
-<details><summary><strong>Attack Flow Detector</strong> — Ezzeldin Tahoun</summary>
+<details><summary><strong>Attack Flow Detector</strong> — ezz tahoun</summary>
 
 **Track:** AI, ML & Data Science · **Event:** Canada 2025  
 🔗 **Link:** [https://github.com/ezztahoun/attack_flow_detector](https://github.com/ezztahoun/attack_flow_detector)  
@@ -286,6 +286,14 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 **Track:** AI, ML & Data Science · **Event:** Canada 2025  
 🔗 **Link:** Not Available  
 📝 **Description:** CADDIE is an AI-powered compliance tool built to help organizations automate regulatory gap analysis, policy generation, and secure AI deployment. Designed by cybersecurity veteran Brennan Lodge (HSBC, Goldman Sachs), CADDIE leverages a fine-tuned BERT model and a proprietary Model Context Protocol (MCP) to enable Retrieval-Augmented Generation (RAG) workflows that are explainable, secure, and adaptable across industries. Unlike traditional GRC platforms, CADDIE supports offline and air-gapped deployments, offers token-based consumption pricing, and allows integration with proprietary regulatory and policy corpora.
+
+</details>
+
+<details><summary><strong>Ethical Hacking Tools for Agentic AI: OWASP CTF – FinBot</strong> — Helen Oakley</summary>
+
+**Track:** AI, ML & Data Science · **Event:** Canada 2025  
+🔗 **Link:** Not Available  
+📝 **Description:** The OWASP Agentic AI CTF – FinBot is the first open source educational tool designed to demonstrate the security risks of AI agents in enterprise workflows. OWASP FinBot is like the OWASP JuiceShop, but for Agentic AI. In this Arsenal session, participants will witness a live demo of the goal manipulation challenge, where adversaries can influence FinBot—an AI finance assistant for invoice processing and fraud detection—to act against its intended purpose. A series of challenge flags illustrate how subtle manipulations can override safeguards and lead to unsafe autonomy. Join this session to learn, through an open source CTF, how agentic AI can be subverted and what mitigations are needed to secure it.
 
 </details>
 
