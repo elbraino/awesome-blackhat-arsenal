@@ -31,7 +31,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 ![USA 2014](https://img.shields.io/badge/USA%202014-black) ![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-blue) ![Alex Lauerman](https://img.shields.io/badge/Alex%20Lauerman-informational)
 
 🔗 **Link:** [BReWSki (Burp Rhino Web Scanner)](https://github.com/Burp-BReWSki/BReWSki)  
-📝 **Description:** BReWSki (Burp Rhino Web Scanner) is an extension to the Burp Suite scanning and reporting functionality. BReWSki provides Burp Suite users with a JavaScript interface to write custom scanner insertion points, passive, and active scan definitions for Burp quickly without having to understand the internals of the Burp API.  BReWSki comes with useful checks to help identify application vulnerabilities.
+📝 **Description:** BReWSki (Burp Rhino Web Scanner) is an extension to the Burp Suite scanning and reporting functionality. BReWSki provides Burp Suite users with a JavaScript interface to write custom scanner insertion points, passive, and active scan definitions for Burp quickly without having to understand the internals of the Burp API. BReWSki comes with useful checks to help identify application vulnerabilities.
 
 </details>
 
@@ -40,7 +40,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 ![USA 2014](https://img.shields.io/badge/USA%202014-black) ![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-blue) ![Ryan Barnett](https://img.shields.io/badge/Ryan%20Barnett-informational)
 
 🔗 **Link:** [ModSecurity](https://github.com/owasp-modsecurity/ModSecurity)  
-📝 **Description:** ModSecurity is an open source, cross-platform web application firewall (WAF) module. Known as the "Swiss Army Knife" of WAFs, it enables web application defenders to gain visibility into HTTP(S) traffic and provides a power rules language and API to implement advanced protections.  Come checkout the new advancements in ModSecurity and try some hands-on evasion challenges!
+📝 **Description:** ModSecurity is an open source, cross-platform web application firewall (WAF) module. Known as the "Swiss Army Knife" of WAFs, it enables web application defenders to gain visibility into HTTP(S) traffic and provides a power rules language and API to implement advanced protections. Come checkout the new advancements in ModSecurity and try some hands-on evasion challenges!
 
 </details>
 
@@ -96,7 +96,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 ![USA 2014](https://img.shields.io/badge/USA%202014-black) ![Category: 📱 Mobile Security](https://img.shields.io/badge/Category:%20📱%20Mobile%20Security-yellow) 
 
 🔗 **Link:** [Android Device Testing Framework](https://github.com/android/android-test)  
-📝 **Description:** The Android Device Testing Framework ("dtf") is a data collection and analysis framework to help individuals answer the question: "Where are the vulnerabilities on this mobile device?"  Dtf provides a modular approach and built-in APIs that allows testers to quickly create scripts to interact with their Android devices.  The default download of dtf comes with multiple modules that allow testers to obtain information from their Android device, process this information into databases, and then start searching for vulnerabilities (all without requiring root privileges).  These modules help you focus on changes made to AOSP components such as applications, frameworks, system services, as well as lower-level components such as binaries, libraries, and device drivers.  In addition, youâll be able to analyze new functionality implemented by the OEMs and other parties to find vulnerabilities.
+📝 **Description:** The Android Device Testing Framework ("dtf") is a data collection and analysis framework to help individuals answer the question: "Where are the vulnerabilities on this mobile device?" Dtf provides a modular approach and built-in APIs that allows testers to quickly create scripts to interact with their Android devices. The default download of dtf comes with multiple modules that allow testers to obtain information from their Android device, process this information into databases, and then start searching for vulnerabilities (all without requiring root privileges). These modules help you focus on changes made to AOSP components such as applications, frameworks, system services, as well as lower-level components such as binaries, libraries, and device drivers. In addition, youâll be able to analyze new functionality implemented by the OEMs and other parties to find vulnerabilities.
 
 </details>
 
@@ -123,7 +123,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 ![USA 2014](https://img.shields.io/badge/USA%202014-black) ![Category: 📱 Mobile Security](https://img.shields.io/badge/Category:%20📱%20Mobile%20Security-yellow) 
 
 🔗 **Link:** [iSpy](https://github.com/ispysoftware/iSpy)  
-📝 **Description:** Frustrated with the lack of mature tools for iOS security assessment?  Wouldnât you like an integrated toolchain to pull together many of the existing tools, but also integrate new and interesting tools? Perhaps youâd like to use some more advanced iOS hacking/reversing/debugging but donât have time on the job to learn gdb.  Maybe you just want to pick up iOS hacking fast and would like a mature toolchain to help you.
+📝 **Description:** Frustrated with the lack of mature tools for iOS security assessment? Wouldnât you like an integrated toolchain to pull together many of the existing tools, but also integrate new and interesting tools? Perhaps youâd like to use some more advanced iOS hacking/reversing/debugging but donât have time on the job to learn gdb. Maybe you just want to pick up iOS hacking fast and would like a mature toolchain to help you.
 
 </details>
 
@@ -181,8 +181,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 ![USA 2014](https://img.shields.io/badge/USA%202014-black) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Wade Alcorn](https://img.shields.io/badge/Wade%20Alcorn-informational)
 
 🔗 **Link:** [BeEF](https://github.com/beefproject/beef)  
-📝 **Description:** A bag of fresh and juicy 0days is certainly something you would love to get
-as a Christmas present, but it would probably be just a dream you had one of those drunken nights.
+📝 **Description:** A bag of fresh and juicy 0days is certainly something you would love to get as a Christmas present, but it would probably be just a dream you had one of those drunken nights.
 
 </details>
 
@@ -208,7 +207,7 @@ as a Christmas present, but it would probably be just a dream you had one of tho
 
 ![USA 2014](https://img.shields.io/badge/USA%202014-black) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Bahtiyar Bircan](https://img.shields.io/badge/Bahtiyar%20Bircan-informational)
 
-🔗 **Link:** [Heybe - Penetration Testing Automation Kit](https://github.com/BahtiyarB/heybe)  
+🔗 **Link:** [Heybe - Penetration Testing Automation Kit](https://github.com/heybe/heybe)  
 📝 **Description:** Heybe is Penetration Testing Automation Kit. It consists of modules that can be used to fully automate pen-tests and make them mode effective. With Heybe you can 0wn all systems in a target company in matter of minutes.
 
 </details>
@@ -263,7 +262,7 @@ as a Christmas present, but it would probably be just a dream you had one of tho
 ![USA 2014](https://img.shields.io/badge/USA%202014-black) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) 
 
 🔗 **Link:** [Oops, RFIDid It Again](https://github.com/joaofbantunes/OOPsIDidItAgain)  
-📝 **Description:** Last year, we delivered the definitive guide for pen-testers on hacking low frequency (LF - 125KHz) RFID badge systems to gain unauthorized access to buildings and other secure areas.  In this second installment, weâre raising the stakes, peeling back the onion even further, and directly confronting the RFID elephant in the room â hacking High Frequency (HF - 13.56 MHz) and Ultra-High Frequency (UHF â 840-960 MHz).
+📝 **Description:** Last year, we delivered the definitive guide for pen-testers on hacking low frequency (LF - 125KHz) RFID badge systems to gain unauthorized access to buildings and other secure areas. In this second installment, weâre raising the stakes, peeling back the onion even further, and directly confronting the RFID elephant in the room â hacking High Frequency (HF - 13.56 MHz) and Ultra-High Frequency (UHF â 840-960 MHz).
 
 </details>
 
@@ -348,7 +347,7 @@ as a Christmas present, but it would probably be just a dream you had one of tho
 ![USA 2014](https://img.shields.io/badge/USA%202014-black) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) 
 
 🔗 **Link:** [Cynomix](https://github.com/Evertras/cynomys)  
-📝 **Description:** The stream of malicious software artifacts (malware) discovered daily by computer security professionals is a vital signal for threat intelligence, as malware bears telling clues about who active adversaries are, what their goals are, and how we can stop them.  Unfortunately, while security operations centers collect huge volumes of malware daily, this âmalware signalâ goes underutilized as a source of defensive intelligence, because organizations lack the right tools to make sense of malware at scale.
+📝 **Description:** The stream of malicious software artifacts (malware) discovered daily by computer security professionals is a vital signal for threat intelligence, as malware bears telling clues about who active adversaries are, what their goals are, and how we can stop them. Unfortunately, while security operations centers collect huge volumes of malware daily, this âmalware signalâ goes underutilized as a source of defensive intelligence, because organizations lack the right tools to make sense of malware at scale.
 
 </details>
 
@@ -404,7 +403,7 @@ as a Christmas present, but it would probably be just a dream you had one of tho
 ![USA 2014](https://img.shields.io/badge/USA%202014-black) ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Aditya K Sood](https://img.shields.io/badge/Aditya%20K%20Sood-informational)
 
 🔗 **Link:** [C-SCAD: Assessing Security Flaws in ClearSCADA Web-X Client!](https://github.com/adityaks/c-scad)  
-📝 **Description:** C-SCAD is an information gathering and penetration testing tool written to assess the security issues present in the Web-X (Internet Explorer-based web interface)  client used to interact with the ClearSCADA server.  Web-X client is hosted on the embedded web server which is shipped as a part of complete ClearSCADA architecture. Primarily, the Web-X client is restricted to perform any configuration changes but it can reveal potential information about the ClearSCADA server and associated components. Insecure deployments of WEB-X client can reveal potential information about the various functions such as alarm pages, SQL lists, and diagnostic checks including various reports. C-SCAD is authored in Python and is capable of the following:
+📝 **Description:** C-SCAD is an information gathering and penetration testing tool written to assess the security issues present in the Web-X (Internet Explorer-based web interface) client used to interact with the ClearSCADA server. Web-X client is hosted on the embedded web server which is shipped as a part of complete ClearSCADA architecture. Primarily, the Web-X client is restricted to perform any configuration changes but it can reveal potential information about the ClearSCADA server and associated components. Insecure deployments of WEB-X client can reveal potential information about the various functions such as alarm pages, SQL lists, and diagnostic checks including various reports. C-SCAD is authored in Python and is capable of the following:
 
 </details>
 

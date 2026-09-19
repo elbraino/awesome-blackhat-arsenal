@@ -395,8 +395,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 ![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Rahul Sunder](https://img.shields.io/badge/Rahul%20Sunder-informational) ![Yadhu Krishna](https://img.shields.io/badge/Yadhu%20Krishna-informational) ![Hritik Vijay](https://img.shields.io/badge/Hritik%20Vijay-informational) ![Sourav Kumar](https://img.shields.io/badge/Sourav%20Kumar-informational)
 
 🔗 **Link:** [SupplyShield: Protecting Your Software Supply Chain](https://github.com/supplyshield/supplyshield)  
-📝 **Description:** SupplyShield is a robust security framework designed to protect against complex software supply chain attacks. It helps organizations seamlessly integrate supply chain security into their Software Development Lifecycle (SDLC), addressing the challenges of managing hundreds of microservices and thousands of daily builds.
-SupplyShield focuses on generating a Software Bill of Materials (SBOM) and performing Software Composition Analysis (SCA) for microservices.
+📝 **Description:** SupplyShield is a robust security framework designed to protect against complex software supply chain attacks. It helps organizations seamlessly integrate supply chain security into their Software Development Lifecycle (SDLC), addressing the challenges of managing hundreds of microservices and thousands of daily builds. SupplyShield focuses on generating a Software Bill of Materials (SBOM) and performing Software Composition Analysis (SCA) for microservices.
 
 </details>
 
@@ -442,7 +441,7 @@ SupplyShield focuses on generating a Software Bill of Materials (SBOM) and perfo
 
 ![Europe 2025](https://img.shields.io/badge/Europe%202025-blue) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Jinto Antony](https://img.shields.io/badge/Jinto%20Antony-informational)
 
-🔗 **Link:** [The Only 'Kanvas' You Need When Responding to Security Incidents](https://github.com/WithSecureLabs/Kanvas)  
+🔗 **Link:** [The Only 'Kanvas' You Need When Responding to Security Incidents](https://github.com/WithSecureOpenSource/Kanvas)  
 📝 **Description:** KANVAS is an open-source IR (Incident Response) case management tool with an intuitive desktop interface, built using Python. It provides a unified workspace for investigators working with SOD (Spreadsheet of Doom) or similar spreadsheets, enabling key workflows to be completed without switching between multiple applications. Kanvas supports many external lookups, making it easier to add context during investigations.
 
 </details>

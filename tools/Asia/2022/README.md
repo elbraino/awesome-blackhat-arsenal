@@ -37,18 +37,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 ![Asia 2022](https://img.shields.io/badge/Asia%202022-green) ![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-blue) ![Binit Ghimire](https://img.shields.io/badge/Binit%20Ghimire-informational)
 
 🔗 **Link:** [NtHiM (Now, the Host is Mine!): Super Fast Sub-Domain Takeover Detection](https://github.com/TheBinitGhimire/NtHiM)  
-📝 **Description:** NtHiM, which stands for "Now, the Host is Mine!" is a Rust-based systems project, which enables security enthusiasts to discover subdomain takeover vulnerabilities in hostnames (domains and subdomains) from different organizations.
-
-
-In this session, I will be discussing about the following things, apart from an introduction of myself as the project maintainer and your presenter for this session.
-
-Project Overview
-Brief Introduction (what this project actually is)
-Initiation Story (how I decided to start working on this project)
-Brief Logic Explanation (understanding the project workflow with a simple pseudocode)
-Project Features (getting to know about all of the things built into the project)
-User-level Video Documentation (Demonstration; including guides for the end-users of this project)
-Developer-level Video Documentation (Demonstration; including guides on how you can get started with extending or contributing to this project)
+📝 **Description:** NtHiM, which stands for "Now, the Host is Mine!" is a Rust-based systems project, which enables security enthusiasts to discover subdomain takeover vulnerabilities in hostnames (domains and subdomains) from different organizations. In this session, I will be discussing about the following things, apart from an introduction of myself as the project maintainer and your presenter for this session. Project Overview Brief Introduction (what this project actually is) Initiation Story (how I decided to start working on this project) Brief Logic Explanation (understanding the project workflow with a simple pseudocode) Project Features (getting to know about all of the things built into the project) User-level Video Documentation (Demonstration; including guides for the end-users of this project) Developer-level Video Documentation (Demonstration; including guides on how you can get started with extending or contributing to this project)
 
 </details>
 
@@ -90,10 +79,7 @@ Developer-level Video Documentation (Demonstration; including guides on how you 
 ![Asia 2022](https://img.shields.io/badge/Asia%202022-green) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Stjepan Picek](https://img.shields.io/badge/Stjepan%20Picek-informational)
 
 🔗 **Link:** [AISY: A Framework for Deep Learning-Based Side-Channel Analysis](https://github.com/AISyLab/AISY_Framework)  
-📝 **Description:** Profiling side-channel attacks (SCA) allow evaluators to verify the worst-case security scenario of their products. Nowadays, deep learning has become the state-of-the-art method for profiling SCA as deep neural networks show the ability to learn side-channel leakages from protected implementations. While deep learning is a powerful technique for security evaluations, it offers numerous possibilities for neural network configurations and optimization techniques. Selecting the best setup for each evaluated product is far from trivial and requires expertise in SCA and deep learning fields. To improve SCA methods, and at the same time to be able to investigate the resistance of the product to more complex attack scenarios, researchers continuously propose new techniques.
-Unfortunately, several obstacles are making the acceptance of such techniques a challenge. Security evaluators from the industry face difficulties following up on new promising methods. What is more, certification bodies also must be aware of new SCA techniques to issue the certifications. Indeed, one of the main issues is the lack of publicly available, easy-to-use frameworks that allow powerful and reliable side-channel analysis. Moreover, due to the absence of the uniformed evaluation/implementation method, the reproducibility of the outcomes is not easy to ensure.
-
-We propose AISY as a tool to allow state-of-the-art deep learning-based SCA. AISY is a python-based open-source framework, and it provides state-of-the-art functionalities for profiling SCA with easy usage, extensibility, reproducibility, integrated database, and user interface. We envision a system where the user can efficiently run the attacks with few lines of code and based on state-of-the-art but also extend those functionalities to support new developments. AISY supports the complete development cycle for deep learning-based SCA: from dataset preparation to the automated development of new models and their assessment concerning the side-channel metrics.
+📝 **Description:** Profiling side-channel attacks (SCA) allow evaluators to verify the worst-case security scenario of their products. Nowadays, deep learning has become the state-of-the-art method for profiling SCA as deep neural networks show the ability to learn side-channel leakages from protected implementations. While deep learning is a powerful technique for security evaluations, it offers numerous possibilities for neural network configurations and optimization techniques. Selecting the best setup for each evaluated product is far from trivial and requires expertise in SCA and deep learning fields. To improve SCA methods, and at the same time to be able to investigate the resistance of the product to more complex attack scenarios, researchers continuously propose new techniques. Unfortunately, several obstacles are making the acceptance of such techniques a challenge. Security evaluators from the industry face difficulties following up on new promising methods. What is more, certification bodies also must be aware of new SCA techniques to issue the certifications. Indeed, one of the main issues is the lack of publicly available, easy-to-use frameworks that allow powerful and reliable side-channel analysis. Moreover, due to the absence of the uniformed evaluation/implementation method, the reproducibility of the outcomes is not easy to ensure. We propose AISY as a tool to allow state-of-the-art deep learning-based SCA. AISY is a python-based open-source framework, and it provides state-of-the-art functionalities for profiling SCA with easy usage, extensibility, reproducibility, integrated database, and user interface. We envision a system where the user can efficiently run the attacks with few lines of code and based on state-of-the-art but also extend those functionalities to support new developments. AISY supports the complete development cycle for deep learning-based SCA: from dataset preparation to the automated development of new models and their assessment concerning the side-channel metrics.
 
 </details>
 
@@ -120,16 +106,7 @@ We propose AISY as a tool to allow state-of-the-art deep learning-based SCA. AIS
 ![Asia 2022](https://img.shields.io/badge/Asia%202022-green) ![Category: 🔴 Red Teaming / AppSec](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming%20/%20AppSec-red) ![Sili Luo](https://img.shields.io/badge/Sili%20Luo-informational)
 
 🔗 **Link:** [Kinstrument: Binary-Only Instrumentation Framework for Linux Kernel Based on Breakpoint](https://github.com/tektronix/keithley)  
-📝 **Description:** For regular Linux kernels, we can use qemu or vmware, and then use gdb to debug the kernel, but for some special embedded devices, such as Android phones, it is difficult to debug and instrument the kernel. In order to debug the kernel, it often needs to recompile the kernel and use additional hardware.
-
-The characteristics of kinstrument are as follows:
-
-1. The kernel only needs to support the insertion of the ko module, the kernel does not need to be recompiled, and no additional hardware is required.
-2. Support instrumentation basic blocks, and get basic block coverage of kernel code
-3. Use the breakpoint mechanism to hook and debug arbitrary instructions.
-
-
-Kinstrument can be used for kernel debugging and Fuzz.
+📝 **Description:** For regular Linux kernels, we can use qemu or vmware, and then use gdb to debug the kernel, but for some special embedded devices, such as Android phones, it is difficult to debug and instrument the kernel. In order to debug the kernel, it often needs to recompile the kernel and use additional hardware. The characteristics of kinstrument are as follows: 1. The kernel only needs to support the insertion of the ko module, the kernel does not need to be recompiled, and no additional hardware is required. 2. Support instrumentation basic blocks, and get basic block coverage of kernel code 3. Use the breakpoint mechanism to hook and debug arbitrary instructions. Kinstrument can be used for kernel debugging and Fuzz.
 
 </details>
 
@@ -194,12 +171,7 @@ Kinstrument can be used for kernel debugging and Fuzz.
 ![Asia 2022](https://img.shields.io/badge/Asia%202022-green) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Giovanni Rattaro](https://img.shields.io/badge/Giovanni%20Rattaro-informational) ![Marco Giorgi](https://img.shields.io/badge/Marco%20Giorgi-informational)
 
 🔗 **Link:** [Tsurugi Linux Project: The Right Tool in the Wrong Time](https://github.com/project-tsurugi)  
-📝 **Description:** Any DFIR analyst knows that everyday in many companies, it doesn't matter the size, it's not easy to perform forensics investigations often due to lack of internal information (like mastery all IT architecture, have the logs or the right one...) and ready to use DFIR tools.
-
-As DFIR professionals we have faced these problems many times and so we decided last year to create something that can help who will need the right tool in the "wrong time" (during a security incident).
-
-And the answer is the Tsurugi Linux project that, of course, can be used also for educational purposes.
-After more than a year since the last release, a Tsurugi Linux special BLACK HAT EDITION with this major release will be shared with the participants before the public release.
+📝 **Description:** Any DFIR analyst knows that everyday in many companies, it doesn't matter the size, it's not easy to perform forensics investigations often due to lack of internal information (like mastery all IT architecture, have the logs or the right one...) and ready to use DFIR tools. As DFIR professionals we have faced these problems many times and so we decided last year to create something that can help who will need the right tool in the "wrong time" (during a security incident). And the answer is the Tsurugi Linux project that, of course, can be used also for educational purposes. After more than a year since the last release, a Tsurugi Linux special BLACK HAT EDITION with this major release will be shared with the participants before the public release.
 
 </details>
 
@@ -210,11 +182,7 @@ After more than a year since the last release, a Tsurugi Linux special BLACK HAT
 ![Asia 2022](https://img.shields.io/badge/Asia%202022-green) ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Michael Messner](https://img.shields.io/badge/Michael%20Messner-informational) ![Pascal Eckmann](https://img.shields.io/badge/Pascal%20Eckmann-informational)
 
 🔗 **Link:** [EMBA: Open-Source Firmware Security Testing](https://github.com/e-m-b-a/emba)  
-📝 **Description:** IoT (Internet of Things) and OT (Operational Technology) are the current buzzwords for networked devices on which our modern society is based on. In this area, the used operating systems are summarized with the term firmware. The devices themselves, also called embedded devices, are essential in the private and industrial environments as well as in the so-called critical infrastructure.
-
-Penetration testing of these systems is quite complex as we have to deal with different architectures, optimized operating systems, and special protocols. EMBA is an open-source firmware analyzer with the goal to simplify and optimize the complex task of firmware security analysis. EMBA supports the penetration tester with the automated detection of 1-day vulnerabilities on binary level. This goes far beyond the plain CVE detection: With EMBA you always know which public exploits are available for the target firmware. Besides the detection of already known vulnerabilities, EMBA also supports the tester on the next 0-day. For this, EMBA identifies critical binary functions, protection mechanisms and services with network behavior on a binary level. There are many other features built into EMBA, such as fully automated firmware extraction, finding file system vulnerabilities, hard-coded credentials, and more.
-
-EMBA is the open-source firmware scanner, created by penetration testers for penetration testers.
+📝 **Description:** IoT (Internet of Things) and OT (Operational Technology) are the current buzzwords for networked devices on which our modern society is based on. In this area, the used operating systems are summarized with the term firmware. The devices themselves, also called embedded devices, are essential in the private and industrial environments as well as in the so-called critical infrastructure. Penetration testing of these systems is quite complex as we have to deal with different architectures, optimized operating systems, and special protocols. EMBA is an open-source firmware analyzer with the goal to simplify and optimize the complex task of firmware security analysis. EMBA supports the penetration tester with the automated detection of 1-day vulnerabilities on binary level. This goes far beyond the plain CVE detection: With EMBA you always know which public exploits are available for the target firmware. Besides the detection of already known vulnerabilities, EMBA also supports the tester on the next 0-day. For this, EMBA identifies critical binary functions, protection mechanisms and services with network behavior on a binary level. There are many other features built into EMBA, such as fully automated firmware extraction, finding file system vulnerabilities, hard-coded credentials, and more. EMBA is the open-source firmware scanner, created by penetration testers for penetration testers.
 
 </details>
 

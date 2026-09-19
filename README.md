@@ -1,4 +1,4 @@
-# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Tools](https://img.shields.io/badge/Tools-2030-blue)](#locations)
+# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Tools](https://img.shields.io/badge/Tools-2026-blue)](#locations)
 [![Project Logo](logo.png)](https://www.blackhat.com/html/arsenal.html)
 > 🚀 A curated list of cutting-edge cybersecurity tools showcased at the Black Hat Arsenal events — covering offensive, defensive, and research-focused security utilities.
 
@@ -19,7 +19,7 @@ Whether you're in red teaming, blue teaming, appsec, or OSINT — this list help
 ---
 ## Locations
 ### Asia
-- [2015](tools/Asia/2015/README.md) — 15 tools
+- [2015](tools/Asia/2015/README.md) — 11 tools
 - [2016](tools/Asia/2016/README.md) — 14 tools
 - [2017](tools/Asia/2017/README.md) — 16 tools
 - [2018](tools/Asia/2018/README.md) — 23 tools

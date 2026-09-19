@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/elseviersoftwarex/softx-d-22-00419",
-  "Description": "Outsourced training and crowdsourced datasets lead to a new threat for deep\nlearning models: the backdoor attack. In this attack, the adversary inserts a\nsecret functionality in a model, activated through malicious inputs. Backdoor\nattacks represent an active research area due to diverse settings where they\nrepresent a real threat. Still, there is no framework to evaluate existing\nattacks and defenses in different domains. Only a few toolboxes have been\nimplemented, but most of them focus on computer vision and are difficult\nto use. To bridge this gap, we present Backdoor Pony, a framework for\nevaluating attacks and defenses in different domains through a user-friendly\nGUI.",
+  "Description": "Outsourced training and crowdsourced datasets lead to a new threat for deep learning models: the backdoor attack. In this attack, the adversary inserts a secret functionality in a model, activated through malicious inputs. Backdoor attacks represent an active research area due to diverse settings where they represent a real threat. Still, there is no framework to evaluate existing attacks and defenses in different domains. Only a few toolboxes have been implemented, but most of them focus on computer vision and are difficult to use. To bridge this gap, we present Backdoor Pony, a framework for evaluating attacks and defenses in different domains through a user-friendly GUI.",
   "Year": "2023",
   "Location": "Asia"
 }

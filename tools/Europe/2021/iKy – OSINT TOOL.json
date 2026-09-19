@@ -1,5 +1,5 @@
 {
-  "Tool Name": "iKy \u2013 OSINT TOOL",
+  "Tool Name": "iKy – OSINT TOOL",
   "Speakers": [
     "Kenn Bro"
   ],
@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/kennbroorg/iKy",
-  "Description": "iKy is an Open Source project. From an e-mail or other selectors (username, twitter, instagram, etc) it tries to collect data to later convert them into visual information\nOSINT tools are many and varied. But with iKY it was sought, apart from a good performance, an attractive graphic visual supported by the fact that neuroscientifically the brain interprets images better and faster than numbers and letters",
+  "Description": "iKy is an Open Source project. From an e-mail or other selectors (username, twitter, instagram, etc) it tries to collect data to later convert them into visual information OSINT tools are many and varied. But with iKY it was sought, apart from a good performance, an attractive graphic visual supported by the fact that neuroscientifically the brain interprets images better and faster than numbers and letters",
   "Year": "2021",
   "Location": "Europe"
 }

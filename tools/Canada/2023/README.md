@@ -29,16 +29,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 ![Canada 2023](https://img.shields.io/badge/Canada%202023-purple) ![Category: ☁️ Cloud Security](https://img.shields.io/badge/Category:%20☁️%20Cloud%20Security-blue) ![Dustin Decker](https://img.shields.io/badge/Dustin%20Decker-informational)
 
 🔗 **Link:** [Fortifying GCP Security: Open Source Just-In-Time access and Audit Log Monitoring](https://github.com/kartverket/google-jit-access)  
-📝 **Description:** Google does not make cloud security easy. The tool we're open sourcing doesn't make it easy either, but it makes it about 10% less painful than the existential dread the default GCP policies have infected on your organization.
-
-
-In this talk, we'll guide you through setting up an audit log sink and evaluating events against Open Policy Agent (OPA) Rego policies. We'll discuss the included MITRE ATT&CK tactics policies and demonstrate how to create new custom policies using the OPA engine. We'll also cover how to make least privilege access control work for your organization with Just-In-Time access provisioning.
-
-
-Our presentation aims to empower GCP users with the knowledge and tools necessary for effective large-scale monitoring of their environments' security and actions. We'll share some experience and insights on the current state of controls within GCP, and how infrastructure providers can enable more powerful tooling.
-
-
-By the end of this talk, attendees will have gained practical knowledge in leveraging open source software to strengthen their GCP security posture. Don't miss this opportunity to stay ahead in the world of cloud security and enhance the protection of your GCP environment.
+📝 **Description:** Google does not make cloud security easy. The tool we're open sourcing doesn't make it easy either, but it makes it about 10% less painful than the existential dread the default GCP policies have infected on your organization. In this talk, we'll guide you through setting up an audit log sink and evaluating events against Open Policy Agent (OPA) Rego policies. We'll discuss the included MITRE ATT&CK tactics policies and demonstrate how to create new custom policies using the OPA engine. We'll also cover how to make least privilege access control work for your organization with Just-In-Time access provisioning. Our presentation aims to empower GCP users with the knowledge and tools necessary for effective large-scale monitoring of their environments' security and actions. We'll share some experience and insights on the current state of controls within GCP, and how infrastructure providers can enable more powerful tooling. By the end of this talk, attendees will have gained practical knowledge in leveraging open source software to strengthen their GCP security posture. Don't miss this opportunity to stay ahead in the world of cloud security and enhance the protection of your GCP environment.
 
 </details>
 
@@ -98,14 +89,7 @@ By the end of this talk, attendees will have gained practical knowledge in lever
 ![Canada 2023](https://img.shields.io/badge/Canada%202023-purple) ![Category: 🌐 Web/AppSec or Red Teaming](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec%20or%20Red%20Teaming-blue) ![Kyle Quest](https://img.shields.io/badge/Kyle%20Quest-informational)
 
 🔗 **Link:** [Slim (Toolkit)](https://github.com/slimtoolkit/slim)  
-📝 **Description:** Slim's mission is to secure your software supply chain — automatically.
-DevSecOps teams at BigID, Airbus, and Confluent implement Slim's prescriptive framework to secure their applications and automatically remove vulnerabilities before they get to production. The result? Faster remediation with a more comprehensive security solution.
-
-With SlimToolkit, CISOs and CTOs to trust in the software their teams deliver while using their preferred systems, software, or base images. We analyze and secure millions of containers a year and can start your team down the road to "Vuln0" in minutes.
-
-Our prescriptive open source framework and CNCF sandbox tool, guides teams in mapping their software ecosystem and proactively prioritizing and eliminating vulnerabilities. We provide continuous monitoring of threats, real-time policy enforcement, and clear lines of ownership and accountability.
-
-Whether you are a small team aiming to establish a strong security foundation or a large regulated enterprise seeking to meet rigorous compliance standards, Slim is here to support you every step of the way.
+📝 **Description:** Slim's mission is to secure your software supply chain — automatically. DevSecOps teams at BigID, Airbus, and Confluent implement Slim's prescriptive framework to secure their applications and automatically remove vulnerabilities before they get to production. The result? Faster remediation with a more comprehensive security solution. With SlimToolkit, CISOs and CTOs to trust in the software their teams deliver while using their preferred systems, software, or base images. We analyze and secure millions of containers a year and can start your team down the road to "Vuln0" in minutes. Our prescriptive open source framework and CNCF sandbox tool, guides teams in mapping their software ecosystem and proactively prioritizing and eliminating vulnerabilities. We provide continuous monitoring of threats, real-time policy enforcement, and clear lines of ownership and accountability. Whether you are a small team aiming to establish a strong security foundation or a large regulated enterprise seeking to meet rigorous compliance standards, Slim is here to support you every step of the way.
 
 </details>
 
@@ -127,16 +111,7 @@ Whether you are a small team aiming to establish a strong security foundation or
 ![Canada 2023](https://img.shields.io/badge/Canada%202023-purple) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Sanjiv Kawa](https://img.shields.io/badge/Sanjiv%20Kawa-informational)
 
 🔗 **Link:** [Abusing Microsoft SQL Server with SQLRecon](https://github.com/skahwah/SQLRecon)  
-📝 **Description:** In November 2022, Kaspersky Lab publicly released research which outlined that reoccurring attacks against Microsoft SQL Server rose by 56% (https://usa.kaspersky.com/about/press-releases/2022_kaspersky-finds-reoccurring-attacks-using-microsoft-sql-server-rise-by-56-in-2022).
-
-
-I'd like to share a tool I wrote called SQLRecon, which will demonstrate how adversaries are leveraging Microsoft SQL services to facilitate with furthering their presence within enterprise networks through privilege escalation and lateral movement. I will also share defensive considerations which organizations can practically implement to mitigate attacks. I feel that this will add a fresh perspective on the various ancillary services within enterprise Windows networks which are under less scrutiny, however still ripe for abuse.
-
-
-For red team operators, SQLRecon helps address the post-exploitation tooling gap by modernizing the approach operators can take when attacking SQL Servers. The tool is written in C#, rather than long-standing existing tools that use PowerShell or Python. SQLRecon has been designed with operational security and detection avoidance in mind – with a special focus on stealth, reconnaissance, lateral movement, and privilege escalation. The tool was designed to be modular, allowing for ease of extensibility from the hacker community. SQLRecon is compatible stand-alone or within a diverse set of command and control (C2) frameworks (Cobalt Strike, Nighthawk, Mythic, PoshC2, Sliver, Havoc, etc). When using the latter, SQLRecon can be executed either in-process, or through traditional fork and run.
-
-
-Furthermore, I will be releasing a new version, one that is currently only used internally on advanced red team engagements by IBM X-Force Red's Adversary Services team.
+📝 **Description:** In November 2022, Kaspersky Lab publicly released research which outlined that reoccurring attacks against Microsoft SQL Server rose by 56% (https://usa.kaspersky.com/about/press-releases/2022_kaspersky-finds-reoccurring-attacks-using-microsoft-sql-server-rise-by-56-in-2022). I'd like to share a tool I wrote called SQLRecon, which will demonstrate how adversaries are leveraging Microsoft SQL services to facilitate with furthering their presence within enterprise networks through privilege escalation and lateral movement. I will also share defensive considerations which organizations can practically implement to mitigate attacks. I feel that this will add a fresh perspective on the various ancillary services within enterprise Windows networks which are under less scrutiny, however still ripe for abuse. For red team operators, SQLRecon helps address the post-exploitation tooling gap by modernizing the approach operators can take when attacking SQL Servers. The tool is written in C#, rather than long-standing existing tools that use PowerShell or Python. SQLRecon has been designed with operational security and detection avoidance in mind – with a special focus on stealth, reconnaissance, lateral movement, and privilege escalation. The tool was designed to be modular, allowing for ease of extensibility from the hacker community. SQLRecon is compatible stand-alone or within a diverse set of command and control (C2) frameworks (Cobalt Strike, Nighthawk, Mythic, PoshC2, Sliver, Havoc, etc). When using the latter, SQLRecon can be executed either in-process, or through traditional fork and run. Furthermore, I will be releasing a new version, one that is currently only used internally on advanced red team engagements by IBM X-Force Red's Adversary Services team.
 
 </details>
 
@@ -163,13 +138,7 @@ Furthermore, I will be releasing a new version, one that is currently only used 
 ![Canada 2023](https://img.shields.io/badge/Canada%202023-purple) ![Category: 🔴 Red Teaming](https://img.shields.io/badge/Category:%20🔴%20Red%20Teaming-red) ![Michael Bargury](https://img.shields.io/badge/Michael%20Bargury-informational) ![Lana Salameh](https://img.shields.io/badge/Lana%20Salameh-informational)
 
 🔗 **Link:** [PowerGuest: AAD Guest Exploitation Beyond Enumeration](https://github.com/Kiosec/AD-Exploitation)  
-📝 **Description:** Azure AD guest accounts are widely used to grant external parties limited access to enterprise resources, with the assumption that these accounts pose little security risk. As you're about to see, this assumption is dangerously wrong.
-
-
-PowerGuest is a new tool that allows you to achieve the full potential of a guest in Azure AD by exploiting a series of undocumented internal APIs and common misconfiguration for collecting privileges, and using those for data exfiltration and actions on target, leaving no traces behind. The tool operates by leveraging shared credentials shared over Power Platform, a low-code / no-code platform built into Office365.
-
-
-PowerGuest allows gaining unauthorized access to sensitive business data and capabilities including corporate SQL servers, SharePoint sites, and KeyVault secrets. Furthermore, it allows guests to create and control internal business applications to move laterally within the organization. All capabilities are fully operational with the default Office 365 and Azure AD configuration.
+📝 **Description:** Azure AD guest accounts are widely used to grant external parties limited access to enterprise resources, with the assumption that these accounts pose little security risk. As you're about to see, this assumption is dangerously wrong. PowerGuest is a new tool that allows you to achieve the full potential of a guest in Azure AD by exploiting a series of undocumented internal APIs and common misconfiguration for collecting privileges, and using those for data exfiltration and actions on target, leaving no traces behind. The tool operates by leveraging shared credentials shared over Power Platform, a low-code / no-code platform built into Office365. PowerGuest allows gaining unauthorized access to sensitive business data and capabilities including corporate SQL servers, SharePoint sites, and KeyVault secrets. Furthermore, it allows guests to create and control internal business applications to move laterally within the organization. All capabilities are fully operational with the default Office 365 and Azure AD configuration.
 
 </details>
 
@@ -245,13 +214,7 @@ PowerGuest allows gaining unauthorized access to sensitive business data and cap
 ![Canada 2023](https://img.shields.io/badge/Canada%202023-purple) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Peter Adkins](https://img.shields.io/badge/Peter%20Adkins-informational) ![Melissa Hardware](https://img.shields.io/badge/Melissa%20Hardware-informational)
 
 🔗 **Link:** [Grove: An Open-Source Log Collection Framework](https://github.com/hashicorp-forge/grove)  
-📝 **Description:** Grove is a log collection framework designed to support a unified way of collecting, storing, and routing logs from Software as a Service (SaaS) providers which do not natively support log streaming.
-
-
-This is performed by periodically collecting logs from configured sources, and writing them to arbitrary destinations.
-
-
-Grove enables teams to collect security related events from their vendors in a reliable and consistent way, while allowing this data to be stored and analyzed with existing tools.
+📝 **Description:** Grove is a log collection framework designed to support a unified way of collecting, storing, and routing logs from Software as a Service (SaaS) providers which do not natively support log streaming. This is performed by periodically collecting logs from configured sources, and writing them to arbitrary destinations. Grove enables teams to collect security related events from their vendors in a reliable and consistent way, while allowing this data to be stored and analyzed with existing tools.
 
 </details>
 
@@ -287,22 +250,7 @@ Grove enables teams to collect security related events from their vendors in a r
 ![Canada 2023](https://img.shields.io/badge/Canada%202023-purple) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Patrick Wardle](https://img.shields.io/badge/Patrick%20Wardle-informational)
 
 🔗 **Link:** [Network Monitoring Tools for macOS](https://github.com/objective-see/Netiquette)  
-📝 **Description:** As the majority of malware contains networking capabilities, it is well understood that detecting unauthorized network access is a powerful detection heuristic. However, while the concepts of network traffic analysis and monitoring to detect malicious code are well established and widely implemented on platforms such as Windows, there remains a dearth of such capabilities on macOS.
-
-
-Here, we will present various tools capable of enumerating network state, statistics, and traffic, directly on a macOS host. We will showcase open-source tools that leverage low-level APIs, private frameworks, and user-mode extensions that provide insight into all networking activity on macOS:
-
-
-Specifically we'll demonstrate:
-
-
-* A network monitor that allows one to explore all network sockets and connections, either via an interactive UI, or from the commandline.
-
-
-* A DNS monitor that uses Apple's Network Extension Framework to monitors DNS requests and responses directly from the Terminal.
-
-
-* A firewall that monitors and filters all network traffic, giving users with the ability to block unknown/unauthorized outgoing connections.
+📝 **Description:** As the majority of malware contains networking capabilities, it is well understood that detecting unauthorized network access is a powerful detection heuristic. However, while the concepts of network traffic analysis and monitoring to detect malicious code are well established and widely implemented on platforms such as Windows, there remains a dearth of such capabilities on macOS. Here, we will present various tools capable of enumerating network state, statistics, and traffic, directly on a macOS host. We will showcase open-source tools that leverage low-level APIs, private frameworks, and user-mode extensions that provide insight into all networking activity on macOS: Specifically we'll demonstrate: * A network monitor that allows one to explore all network sockets and connections, either via an interactive UI, or from the commandline. * A DNS monitor that uses Apple's Network Extension Framework to monitors DNS requests and responses directly from the Terminal. * A firewall that monitors and filters all network traffic, giving users with the ability to block unknown/unauthorized outgoing connections.
 
 </details>
 
@@ -311,13 +259,7 @@ Specifically we'll demonstrate:
 ![Canada 2023](https://img.shields.io/badge/Canada%202023-purple) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Matan Hart](https://img.shields.io/badge/Matan%20Hart-informational) ![Shay Yaish](https://img.shields.io/badge/Shay%20Yaish-informational)
 
 🔗 **Link:** [SinCity: Build Your Dream Lab Environment](https://github.com/tenable/sincity)  
-📝 **Description:** Security practitioners are still wasting time today building and maintaining lab environments through "manual" and cumbersome processes. In doing so, they are missing out on the potential DevOps methodologies and Infrastructure-as-Code (IaC) practices offer. This daunting work must end now.
-
-
-This arsenal demonstration will introduce SinCity, a GPT-powered, MITRE ATT&CK-based tool which automates the provisioning and management of an IT environment in a conversational way. SinCity reduces the efforts needed to build a full-blown lab environment from months to minutes by providing an abstraction layer for customizing network topologies, crafting attack scenarios, and tuning security controls.
-
-
-Attendees who frequently sandbox malware, analyze TTPs, or evaluate detection capabilities - this arsenal will save you precious time.
+📝 **Description:** Security practitioners are still wasting time today building and maintaining lab environments through "manual" and cumbersome processes. In doing so, they are missing out on the potential DevOps methodologies and Infrastructure-as-Code (IaC) practices offer. This daunting work must end now. This arsenal demonstration will introduce SinCity, a GPT-powered, MITRE ATT&CK-based tool which automates the provisioning and management of an IT environment in a conversational way. SinCity reduces the efforts needed to build a full-blown lab environment from months to minutes by providing an abstraction layer for customizing network topologies, crafting attack scenarios, and tuning security controls. Attendees who frequently sandbox malware, analyze TTPs, or evaluate detection capabilities - this arsenal will save you precious time.
 
 </details>
 
@@ -346,14 +288,7 @@ Attendees who frequently sandbox malware, analyze TTPs, or evaluate detection ca
 ![Canada 2023](https://img.shields.io/badge/Canada%202023-purple) ![Category: 🧠 Reverse Engineering](https://img.shields.io/badge/Category:%20🧠%20Reverse%20Engineering-orange) ![John McIntosh](https://img.shields.io/badge/John%20McIntosh-informational)
 
 🔗 **Link:** [Ghidriff: Ghidra Binary Diffing Engine](https://github.com/clearbluejar/ghidriff)  
-📝 **Description:** "As seen in most security blog posts today, binary diffing tools are essential for reverse engineering, vulnerability research, and malware analysis. Patch diffing is a technique widely used to identify changes across versions of binaries as related to security patches. By diffing two binaries, a security researcher can dig deeper into the latest CVEs and patched vulnerabilities to understand their root cause.
-
-
-Ghidriff is a new open-source Python package that offers a command line binary diffing capability leveraging the power of the Ghidra Software Reverse Engineering (SRE) Framework with a fresh take on the standard patch diffing workflow.
-Like other binary diffing solutions, Ghidriff relies on SRE tooling to distill complex binaries into objects and relationships that can be compared. Unlike other tools, Ghidriff offers a command line experience, simplifying the entire patch diffing workflow to only a single step, significantly reducing analysis time. Additionally, the results of the diff are rendered as concise markdown files that can be shared on GitHub, GitLab, blogs, or almost anywhere.
-
-
-Come check out Ghidriff's unique features, and let's learn together how to patch diff modern CVEs."
+📝 **Description:** "As seen in most security blog posts today, binary diffing tools are essential for reverse engineering, vulnerability research, and malware analysis. Patch diffing is a technique widely used to identify changes across versions of binaries as related to security patches. By diffing two binaries, a security researcher can dig deeper into the latest CVEs and patched vulnerabilities to understand their root cause. Ghidriff is a new open-source Python package that offers a command line binary diffing capability leveraging the power of the Ghidra Software Reverse Engineering (SRE) Framework with a fresh take on the standard patch diffing workflow. Like other binary diffing solutions, Ghidriff relies on SRE tooling to distill complex binaries into objects and relationships that can be compared. Unlike other tools, Ghidriff offers a command line experience, simplifying the entire patch diffing workflow to only a single step, significantly reducing analysis time. Additionally, the results of the diff are rendered as concise markdown files that can be shared on GitHub, GitLab, blogs, or almost anywhere. Come check out Ghidriff's unique features, and let's learn together how to patch diff modern CVEs."
 
 </details>
 

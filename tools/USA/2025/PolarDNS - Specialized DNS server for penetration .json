@@ -8,7 +8,7 @@
   ],
   "Event": "BH-ARSENAL",
   "Github URL": "https://github.com/oryxlabs/PolarDNS",
-  "Description": "PolarDNS is a specialized authoritative DNS server written in Python, which allows the operator to produce fully custom DNS responses, suitable for DNS protocol security testing and vulnerability research.\n\nPolarDNS can be used for testing of:\n\n- DNS resolvers (server-side)\n- DNS clients\n- DNS libraries\n- DNS parsers and dissectors\n- any software handling DNS information\n\nIt supports both UDP and TCP protocols, and it gives the operator full control over the DNS protocol layer.\n\nPolarDNS server can produce variety of non-standard and non-compliant DNS responses, DNS responses violating the RFC specifications, including highly abnormal and malformed DNS responses.\n\nThis can be useful for:\n\n- Functional testing\n- RFC compliance\n- Vulnerability research",
+  "Description": "PolarDNS is a specialized authoritative DNS server written in Python, which allows the operator to produce fully custom DNS responses, suitable for DNS protocol security testing and vulnerability research. PolarDNS can be used for testing of: - DNS resolvers (server-side) - DNS clients - DNS libraries - DNS parsers and dissectors - any software handling DNS information It supports both UDP and TCP protocols, and it gives the operator full control over the DNS protocol layer. PolarDNS server can produce variety of non-standard and non-compliant DNS responses, DNS responses violating the RFC specifications, including highly abnormal and malformed DNS responses. This can be useful for: - Functional testing - RFC compliance - Vulnerability research",
   "Year": "2025",
   "Location": "USA"
 }

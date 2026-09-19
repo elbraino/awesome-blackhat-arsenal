@@ -28,7 +28,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![MEA 2024](https://img.shields.io/badge/MEA%202024-orange) ![Category: ☁️ Cloud Security](https://img.shields.io/badge/Category:%20☁️%20Cloud%20Security-blue) ![FILIPI PIRES](https://img.shields.io/badge/FILIPI%20PIRES-informational)
 
-🔗 **Link:** [Cloud Security in Focus: Attack Techniques and Mitigation in AWS, Azure, GCP and OCI](https://github.com/CyberSecurityUP/Cloud-Security-Attacks)  
+🔗 **Link:** [Cloud Security in Focus: Attack Techniques and Mitigation in AWS, Azure, GCP and OCI](https://github.com/JoasASantos/Cloud-Security-Attacks)  
 📝 **Description:** A curated collection of resources documenting cloud security attack techniques and mitigation strategies across AWS, Azure, GCP, and OCI, serving as a reference guide for penetration testers.
 
 </details>

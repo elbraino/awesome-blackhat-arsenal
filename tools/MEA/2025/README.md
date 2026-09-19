@@ -69,7 +69,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![MEA 2025](https://img.shields.io/badge/MEA%202025-orange) ![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Filipi Pires](https://img.shields.io/badge/Filipi%20Pires-informational)
 
-🔗 **Link:** [Black Bird](https://github.com/p1ngul1n0/blackbird)  
+🔗 **Link:** [Black Bird](https://github.com/antoniaci/blackbird)  
 📝 **Description:** Blackbird is an open-source OSINT tool for reverse account lookup by username and email across a wide range of online platforms. Integrated with the WhatsMyName project, it covers more than 600 sites and delivers verifiable evidence for digital investigations and online footprint mapping. Alongside its robust search and export features, Blackbird includes a *built-in AI analysis tool with a free daily quota*, allowing investigators to quickly interpret results and uncover patterns with zero extra setup.
 
 </details>
@@ -136,7 +136,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![MEA 2025](https://img.shields.io/badge/MEA%202025-orange) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Jinto Antony](https://img.shields.io/badge/Jinto%20Antony-informational)
 
-🔗 **Link:** [Kanvas](https://github.com/WithSecureLabs/Kanvas)  
+🔗 **Link:** [Kanvas](https://github.com/WithSecureOpenSource/Kanvas)  
 📝 **Description:** Kanvas is an open-source, Python-based DFIR case management tool for tracking and documenting investigations. It provides incident timeline visualization, attack chain mapping, threat intelligence lookups for IPs, domains, hashes, and CVEs, MITRE ATT&CK and D3FEND framework mapping, one-click data sanitization, and built-in Markdown note-taking. Built on the Spreadsheet of Doom (SOD) framework with Excel as the backend, it runs entirely locally with no web server required, enabling collaboration via shared drives without vendor lock-in.
 
 </details>

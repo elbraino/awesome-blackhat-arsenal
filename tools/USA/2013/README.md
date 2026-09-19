@@ -39,7 +39,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 ![USA 2013](https://img.shields.io/badge/USA%202013-black) ![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-blue) ![Chuck Willis](https://img.shields.io/badge/Chuck%20Willis-informational)
 
 🔗 **Link:** [OWASP Broken Web Applications VM](https://github.com/chuckfw/owaspbwa)  
-📝 **Description:** The Open Web Application Security Project (OWASP) Broken Web Applications project (www.owaspbwa.org) provides a free and open source virtual machine loaded with web applications containing security vulnerabilities.  This session will showcase the project VM and exhibit how it can be used for training, testing, and experimentation by people in a variety of roles.
+📝 **Description:** The Open Web Application Security Project (OWASP) Broken Web Applications project (www.owaspbwa.org) provides a free and open source virtual machine loaded with web applications containing security vulnerabilities. This session will showcase the project VM and exhibit how it can be used for training, testing, and experimentation by people in a variety of roles.
 
 </details>
 
@@ -66,7 +66,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 ![USA 2013](https://img.shields.io/badge/USA%202013-black) ![Category: 🌐 Web/AppSec](https://img.shields.io/badge/Category:%20🌐%20Web/AppSec-blue) ![Aditya K Sood](https://img.shields.io/badge/Aditya%20K%20Sood-informational)
 
 🔗 **Link:** [SPARTY](https://github.com/0xdevalias/sparty)  
-📝 **Description:** Sparty is an open source tool written in python to audit web applications using sharepoint and frontpage architecture. The motivation behind this tool is to provide an easy and robust way to scrutinize the security configurations of sharepoint and frontpage based web applications. Due to the complex nature of these web administration software, it is required to have a simple and efficient tool that gathers information, check access permissions, dump critical information from default files and perform automated exploitation if security risks are identified.  A number of automated scanners fall short of this and Sparty is a solution to that .  In the first release, Sparty is capable of performing following tasks:
+📝 **Description:** Sparty is an open source tool written in python to audit web applications using sharepoint and frontpage architecture. The motivation behind this tool is to provide an easy and robust way to scrutinize the security configurations of sharepoint and frontpage based web applications. Due to the complex nature of these web administration software, it is required to have a simple and efficient tool that gathers information, check access permissions, dump critical information from default files and perform automated exploitation if security risks are identified. A number of automated scanners fall short of this and Sparty is a solution to that . In the first release, Sparty is capable of performing following tasks:
 
 </details>
 
@@ -124,7 +124,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 ![USA 2013](https://img.shields.io/badge/USA%202013-black) ![Category: 📱 Mobile Security](https://img.shields.io/badge/Category:%20📱%20Mobile%20Security-yellow) ![Justin Engler](https://img.shields.io/badge/Justin%20Engler-informational)
 
 🔗 **Link:** [Automated Electromechanical PIN Cracking: R2B2 and C3BO](https://github.com/iSECPartners/R2B2)  
-📝 **Description:** Password and PIN systems are often encountered on mobile devices.  A software approach to cracking these systems is often the simplest, but in some cases a pen tester or forensic investigator may have no better option than to start pushing buttons.
+📝 **Description:** Password and PIN systems are often encountered on mobile devices. A software approach to cracking these systems is often the simplest, but in some cases a pen tester or forensic investigator may have no better option than to start pushing buttons.
 
 </details>
 
@@ -180,7 +180,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 ![USA 2013](https://img.shields.io/badge/USA%202013-black) ![Category: 🔍 OSINT](https://img.shields.io/badge/Category:%20🔍%20OSINT-lightgrey) ![Darren Manners](https://img.shields.io/badge/Darren%20Manners-informational)
 
 🔗 **Link:** [Sphere of Influence 3.2](https://github.com/sphere-of-influence/sphere-of-influence.github.io)  
-📝 **Description:** The purpose of sphere of influence was to address the shortcomings of visualizations with regards to a tactical awareness. The IP address-to-geographical location and organization was designed to aid in the removal of false positives.  It also provides details about location, latitude/longitude and organizational information.  It addressed the fact that the majority of attacks were coming from the United States and China or from countries with high levels of broadband access.
+📝 **Description:** The purpose of sphere of influence was to address the shortcomings of visualizations with regards to a tactical awareness. The IP address-to-geographical location and organization was designed to aid in the removal of false positives. It also provides details about location, latitude/longitude and organizational information. It addressed the fact that the majority of attacks were coming from the United States and China or from countries with high levels of broadband access.
 
 </details>
 
@@ -321,7 +321,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 ![USA 2013](https://img.shields.io/badge/USA%202013-black) ![Category: 🔵 Blue Team & Detection](https://img.shields.io/badge/Category:%20🔵%20Blue%20Team%20&%20Detection-cyan) ![Theodore Wilson](https://img.shields.io/badge/Theodore%20Wilson-informational)
 
 🔗 **Link:** [Mandiant Redline](https://github.com/mandiant)  
-📝 **Description:** Redline, Mandiantâs premier free tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis, and the development of a threat assessment profile.  With Redline, users can:
+📝 **Description:** Redline, Mandiantâs premier free tool, provides host investigative capabilities to users to find signs of malicious activity through memory and file analysis, and the development of a threat assessment profile. With Redline, users can:
 
 </details>
 
@@ -377,7 +377,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 ![USA 2013](https://img.shields.io/badge/USA%202013-black) ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Michael Ossmann](https://img.shields.io/badge/Michael%20Ossmann-informational) ![Jared Boone](https://img.shields.io/badge/Jared%20Boone-informational)
 
 🔗 **Link:** [HackRF](https://github.com/greatscottgadgets/hackrf)  
-📝 **Description:** The HackRF project is developing an open source hardware design for a low cost Software Defined Radio (SDR) transceiver platform.  SDR technology allows a single piece of equipment to implement virtually any wireless technology (Bluetooth, GSM, ZigBee, etc.), and we hope the availability of a low cost SDR platform will revolutionize wireless communication security research and development throughout the information security community.  Having distributed hundreds of beta units (HackRF Jawbreaker) and soliciting feedback, Black Hat Arsenal Tools USA 2013 is the first chance to see the next generation hardware design in person.
+📝 **Description:** The HackRF project is developing an open source hardware design for a low cost Software Defined Radio (SDR) transceiver platform. SDR technology allows a single piece of equipment to implement virtually any wireless technology (Bluetooth, GSM, ZigBee, etc.), and we hope the availability of a low cost SDR platform will revolutionize wireless communication security research and development throughout the information security community. Having distributed hundreds of beta units (HackRF Jawbreaker) and soliciting feedback, Black Hat Arsenal Tools USA 2013 is the first chance to see the next generation hardware design in person.
 
 </details>
 
