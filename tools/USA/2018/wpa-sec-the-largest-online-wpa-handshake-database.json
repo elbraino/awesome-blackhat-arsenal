@@ -1,7 +1,7 @@
 {
   "Tool Name": "wpa-sec: The Largest Online WPA Handshake Database",
   "Description": "Started as pet project in 2011, wpa-sec collects WPA handshake captures from all over the world. Contributors use client script to download handshakes and special crafted dictionaries to initiate attack against PSKs. With more than 115 GB captures from 240,000 submissions, collected samples represent invaluable source for wireless security research. This includes: Many improvements for emerging wireless security tools like hcxtools suite (https://github.com/ZerBea/hcxtools) Identified default PSK key generation algorithms, used by various ISPs. Those, along with fixes for current implementations get in RouterKeygen project (https://github.com/routerkeygen/routerkeygenPC). Many more to come, based on current research activities Performance optimizations for WPA crackers Identified some linux kernel driver bugs Live installation: https://wpa-sec.stanev.org GitHub: https://github.com/RealEnder/dwpa﻿ Presentation: https://alex.stanev.org/presentations/en/BlackHatUSA2018_DEFCON26-PHV_wpa-sec_AlexStanev.pdf",
-  "Github URL": "https://github.com/usagi-epta/WPA-SEC",
+  "Github URL": "https://wpa-sec.stanev.org/",
   "Tracks": [
     "Network Defense"
   ],

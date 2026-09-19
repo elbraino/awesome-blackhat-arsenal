@@ -1,7 +1,7 @@
 {
   "Tool Name": "PandaWar: Hardware Security Multidimensional Attack and Defense Toolset",
   "Description": "This is a hardware attack and defense tool platform. It will help you quickly master and implement a variety of hardware attack methods. It includes ultrasonic attacks, RFID attacks, power side channel attacks, and radio defense etc. All open source, design idea, design concept, design method, code, schematic, PCB.",
-  "Github URL": "https://github.com/Ming-Qin-tech",
+  "Github URL": "",
   "Tracks": [
     "Hardware/Embedded"
   ],

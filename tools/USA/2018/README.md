@@ -69,7 +69,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>OWASP Dependency-Check</strong> — Jeremy Long</summary>
 
 **Track:** Code Assessment · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)  
+🔗 **Link:** [https://github.com/dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck)  
 📝 **Description:** With the number of critical vulnerabilities in FOSS libraries that have affected so many applications over the last few years - Software Composition Analysis is a critical component to maintaining the security of your custom application. From Struts to Spring to jackson-databind, etc. the list of libraries that have had vulnerabilities that lead to remote code execution in the applications using the libraries goes on and on. As does the list of sites that have been compromised by these vulnerabilities. OWASP dependency-check is an open source Software Composition Analysis tool that provides a solution the `OWASP Top 10 2017: A9 - Using Components with Known Vulnerabilities`.
 
 </details>
@@ -103,7 +103,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Mafia: Mobile Security Automation Framework for Intelligent Auditing</strong> — Ankur Bhargava, Mohan Kallepalli, Sagar Popat</summary>
 
 **Track:** Android, iOS and Mobile Hacking · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/mafiahub/awesome-mafia](https://github.com/mafiahub/awesome-mafia)  
+🔗 **Link:** Not Available  
 📝 **Description:** Mobile applications are critical when it comes to vulnerabilities in production environment. The only option to remove a product issue is to force update the app, which isn't a good user experience, especially when the app download size is high. With this project, we aim to automate the manual security testing and leverage developers with a tool which helps them identify bugs well in advance. The goal of MAFIA is to perform end to end security testing for a given mobile app and create a self serve tool for developers and security engineers.
 
 </details>
@@ -171,7 +171,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>BloodHound 1.5</strong> — Andy Robbins, Rohan Vazarkar, Will Schroeder</summary>
 
 **Track:** Malware Offense · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound)  
+🔗 **Link:** [https://github.com/SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy)  
 📝 **Description:** BloodHound is a single page Javascript web application, built on top of Linkurious, compiled with Electron, with a Neo4j database fed by a PowerShell ingestor. BloodHound uses graph theory to reveal the hidden and often unintended relationships within an Active Directory environment. Attackers can use BloodHound to easily identify highly complex attack paths that would otherwise be impossible to quickly identify. Defenders can use BloodHound to identify and eliminate those same attack paths. Both blue and red teams can use BloodHound to easily gain a deeper understanding of privilege relationships in an Active Directory environment. BloodHound is developed by @_wald0, @CptJesus, and @harmj0y.
 
 </details>
@@ -211,7 +211,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>FireDrill: Adversarial Simulation Platform - ARSENAL THEATER DEMO</strong> — Stephan Chenette</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/fourcorelabs/firedrill](https://github.com/fourcorelabs/firedrill)  
+🔗 **Link:** [https://www.attackiq.com/](https://www.attackiq.com/)  
 📝 **Description:** AttackIQ has released a free Community Edition of it's AttackIQ FireDrill Adversarial Simulation Platform. An open platform, where contributors can create attack scenarios, share and discuss those scenarios in the community and test those scenarios using the Community Edition of our platform. All scenarios are written in python and there is an extensive development community with documentation, videos and other community members to support each other in building scenarios that help validate and test defensive technologies, processes, tools and people against Attacker TTPs. The Community edition gives you full access to the development community and scenarios that have been developed by that community. Useful for both red team/blue team exercises as well as truly being able to test, measure and improve your defensive security controls we're proud to be showcasing the AttackIQ Community Edition at Black Hat this year!
 
 </details>
@@ -259,7 +259,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>POLAR: Accelerating the Search for Vulnerable Functions</strong> — Ezra Caltum</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/polarsource/polar](https://github.com/polarsource/polar)  
+🔗 **Link:** Not Available  
 📝 **Description:** When developing exploits for complex platforms, finding function relationships between dynamically compiled binaries and its libraries, and representing them in a Graph Database, we can quickly identify exploitation points. In this presentation, I'll discuss Graphs, Binary Relationships and Vulnerable Functions.
 
 </details>
@@ -293,7 +293,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>ADA: Android Dynamic Analysis Tool</strong> — Anelkaos *</summary>
 
 **Track:** Vulnerability Assessment · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/nvlabs/stylegan2-ada](https://github.com/nvlabs/stylegan2-ada)  
+🔗 **Link:** [https://github.com/ANELKAOS/ada](https://github.com/ANELKAOS/ada)  
 📝 **Description:** ADA analyzes the dynamic behavior of an Android application in runtime. ADA discovers the attack surface that is not shown during the static analysis and performs a rapid vulnerability assessment of the application. ADA discovers the best attack path to follow to compromise the application. The automated dynamic analysis is focused on discovering the security measures implemented in the application. In this way, ADA shows the best attack path to compromise the application. Some of the features that ADA detects are whether the application uses certificate pinning, JNI libraries, SQL database discovery, KeyStores identification, hardware-backed KeyStore (TEE), etc.
 
 </details>
@@ -325,7 +325,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>BTA</strong> — Joffrey CZARNY</summary>
 
 **Track:** Vulnerability Assessment · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/Better-than-Adventure](https://github.com/Better-than-Adventure)  
+🔗 **Link:** [https://github.com/airbus-seclab/bta](https://github.com/airbus-seclab/bta)  
 📝 **Description:** When it comes to the security of the information system, Active Directory domain controllers are, or should be, at the center of concerns, which are (normally) to ensure compliance with best practices, and during a compromise proved to explore the possibility of cleaning the information system without having to rebuild Active Directory. However, few tools implement this process; there are more and more offensive tools to target Active Directory and several ways exist to backdoor Active Directory. We propose to present some possible backdoors which could be set by an intruder in Active Directory to keep administration rights. For example, how to modify the AdminSDHolder container in order to reapply rights after administrator actions. Moreover, backdoors can be implemented in Active Directory to help an intruder to gain back his privileges. Then, we will present the last features in BTA, which help to detected all mis-configurations that can be abused to bypass Administrative Forest Design Approach "ESAE", as DCsync rights, Exchange privileges... The presentation will be organized as follows: We begin by demonstrating some backdoors in order to keep admins rights or to help an intruder to quickly recover admins rights. We will continue by describing all mis-configurations that can be abused to bypass ESAE design, as DCsync rights, Exchange privileges... We conclude with a feedback on real world usage of BTA. More information can be found on the Bitbucket repository: https://github.com/airbus-seclab/bta
 
 </details>
@@ -333,7 +333,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Deep Exploit</strong> — Isao Takaesu</summary>
 
 **Track:** Vulnerability Assessment · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/TheDreamPort/deep_exploit](https://github.com/TheDreamPort/deep_exploit)  
+🔗 **Link:** [https://github.com/13o-bbr-bbq/machine_learning_security](https://github.com/13o-bbr-bbq/machine_learning_security)  
 📝 **Description:** DeepExploit is fully automated penetration tool linked with Metasploit. It identifies the status of all opened ports on the target server and executes the exploit at pinpoint using Machine Learning. Deep Exploit's key features are the following: Self-learning: DeepExploit can learn how to exploitation by itself (uses reinforcement learning). It is not necessary for humans to prepare learning data. Efficiently execute exploit: DeepExploit can execute exploits at pinpoint (minimum 1 attempt) using self-learned data. Deep penetration: If DeepExploit succeeds the exploit to the target server, it further executes the exploit to other internal servers. Operation is very easy: Your only operation is to input one command. It is very easy! Learning time is very fast: DeepExploit uses distributed learning by multi agents. So, we adopted an advanced machine learning model called A3C. Current Deep Exploit's version is a beta, but it can fully automatically execute following actions: Intelligence gathering Threat modeling Vulnerability analysis Exploitation Post-Exploitation Reporting By using our DeepExploit, you will benefit from the following: For pentesters: (a) They can greatly improve the test efficiency; (b) The more pentesters use DeepExploit, DeepExploit learns how to method of exploitation using machine learning. As a result, accuracy of test can be improve. For Information Security Officers: (c) They can quickly identify vulnerabilities of own servers. As a result, prevent that attackers attack to your servers using vulnerabilities, and protect your reputation by avoiding the negative media coverage after breach. Because attack methods to servers are evolving day by day, there is no guarantee that yesterday's security countermeasures are safety today. It is necessary to quickly find vulnerabilities and take countermeasures. Our DeepExploit will contribute greatly to keep your safety. Source Code: https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit Document: https://github.com/13o-bbr-bbq/machine_learning_security/blob/master/DeepExploit/doc/BHUSA2018Arsenal_20180802.pdf﻿
 
 </details>
@@ -373,7 +373,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>V2X Validation Tool</strong> — Jonathan Petit, Raashid Ansari</summary>
 
 **Track:** Vulnerability Assessment · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/usnistgov/C-V2XInteroperabilityTestingTool](https://github.com/usnistgov/C-V2XInteroperabilityTestingTool)  
+🔗 **Link:** Not Available  
 📝 **Description:** The V2X Validation Tool (called dsrcvt because focused on DSRC technology) facilitates penetration testing on automotive On-Board Units (OBUs) used for Vehicle-to-X communication. Currently, dsrcvt is capable of sending unsigned or signed Basic Safety Messages (BSMs) by re-signing a recorded BSM sent for automotive onboard units. Using these BSMs it tries to cause a surge in an OBU's processing power. It also attempts to bypass the security checks posed by the IEEE 1609.2 security layer. An enhanced version of dsrcvt (dsrcvt-crafter) facilitates crafting entirely custom BSMs from scratch, conforming to the IEEE 1609 standards family. dsrcvt also comes as an OBU fuzzer that can fuzz user-selected fields of a BSM to pen-test OBU implementations.
 
 </details>
@@ -423,7 +423,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>CQSysmonToolkit: Advanced System Monitoring Toolkit</strong> — Paula Januszkiewicz</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/SwiftOnSecurity/sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config)  
+🔗 **Link:** Not Available  
 📝 **Description:** Our toolkit has proven to be useful in the 25000 computers environment. It relies on a free Sysmon deployment and its goal is to boost information delivered by the original tool. CQSysmon Toolkit allows you to extract information about what processes have been running in the operating system, get their hashes and submit them into Virus Total for the forensic information about the malware cases. It also allows to extract information into spreadsheet about what types of network connections have been made: what is the destination IP address, which process was responsible for it and who is the owner of IP. The toolkit also allows to extract information about the current system configuration and compare it with the other servers and much more that allows to become familiar of what is going on in your operating system. There is a special bonus tool in a toolkit that allows to bypass some parts of the Sysmon with another tool that allows to spot that situation so that everything stays in control. CQSysmon Toolkit allows you to established detailed monitoring of the situation on your servers and it is a great complement to the existing forensic tools in your organization.
 
 </details>
@@ -447,7 +447,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Deep Information Retrieval for Malware Searching System</strong> — Hyeongjin Byeon, Junyeon Weon, Uijung Chung, Wonkyung Lee</summary>
 
 **Track:** Malware Defense · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning](https://github.com/0xfke/Malware-Detection-and-Analysis-using-Machine-Learning)  
+🔗 **Link:** Not Available  
 📝 **Description:** More than 300,000 new malware samples are generated everyday, and it is well known that traditional malware detection based on file hash and rules is very vulnerable to variants. It is also getting harder to categorize unknown malware samples because the cost of finding similar samples is increasing. Therefore, the necessity of malware information retrieval system has emerged. Several attempts have been researched to perform this task, but they have limitations in terms of polymorphism, complexity, ambiguity, novelty and so on. This research seeks to remedy these problems by introducing a deep metric learning method and proposes a new malware retrieval system which has learned a semantic similarities of malware samples. This system could retrieve information from perceptually similar samples as well as structurally similar samples. It could deal with new samples rapidly and roles as a good feature extractor for another tasks like malware classification or categorization. This approach can be easily adapted to other neural network models because it doesn't change the structure of the original network. In this presentation, we describe the problems that arise when creating a malware retrieval system, and how we solve them. Also we visualize the embedding vectors of malware samples and show the retrieval results to prove the synchronization between our perception on malware and embedding space.
 
 </details>
@@ -479,7 +479,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Eventpad: Rapid and Cost Effective Malware Analysis Using Visual Analytics</strong> — Bram Cappers</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/AfeefaDe/event-pad-ui](https://github.com/AfeefaDe/event-pad-ui)  
+🔗 **Link:** Not Available  
 📝 **Description:** The analysis of malware behavior in network activity and event logs is a costly and time-consuming task. Even with automated techniques, inspection of network traffic in tools such as Wireshark is often tedious and overwhelming due to the many packet details. We need faster techniques to speedup the discovery of malware activity and gain insight in our event logs by combining machine learning and visualization together. To this end we developed "Eventpad - the notepad editor for event data", a tool that enables analysts to quickly analyze network traffic by exploiting the human mind. Eventpad is a visual analytics tool that enables analysts to visually inspect system events as blocks on a screen. Just like a notepad editor find&replace, conditional formatting, and rewrite functionality can be used to accurately search and highlight system vulnerabilities in these block collections. Together with automated techniques such as clustering and multiple sequence alignment analysts can quickly drill down and extract nontrivial patterns and threat indicators from network conversations and event logs. We demonstrate how we can use Eventpad to quickly discover patterns in PCAP DPI traffic. In particular, we give live demos on how we can use the tool to discover protocol misusage in VoIP traffic and reverse engineer Ransomware viruses in back office environments.
 
 </details>
@@ -495,7 +495,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Hunting Wargames with Arthur and Merlin in IOC-Land</strong> — Lior Kolnik</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/ZIB-IOL/merlin-arthur-classifiers](https://github.com/ZIB-IOL/merlin-arthur-classifiers)  
+🔗 **Link:** Not Available  
 📝 **Description:** APT reports and IOC updates are flowing in, piling up in your inbox. You forward them to your IR team, or curate and compile a digest if you are lucky enough to have a budget for a dedicated threat intel team. Everyone talks about tracking bad guys and creating threat intel, but - how many organizations are equipped to consume threat intel today? Everyone is pitching new IOCs but is how many are really catching? The real question is - if you got all the answers to the APT riddle right now, would you be able to scope and respond effectively? Do you have the tools and process in place, and trained your people to be able to leverage threat intel the moment it becomes available, and how can you know for sure that you are prepared and it will all work at the moment of truth? And how do you verify that your queries, rules and IOC scans would actually find anything? This presentation will release a new automated system for testing the IOC consumption capability of an enterprise. Borrowing a page or two from modern software development and computer science theory, this system is built in the model of a prover (Merlin) and a verifier (Arthur). The presentation will include a live demo of the system on a real environment. Finally, the code to implement this process will be open sourced on Github, so that the community can use it, expand on the initial features and contribute their improvements.
 
 </details>
@@ -511,7 +511,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Learn How to Build Your Own Utility to Monitor Malicious Behaviors of Malware on macOS</strong> — Kai Lu</summary>
 
 **Track:** Malware Defense · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/ab2pentest/MacOSThreatTrack](https://github.com/ab2pentest/MacOSThreatTrack)  
+🔗 **Link:** Not Available  
 📝 **Description:** The landscape of macOS malware has changed dramatically in the past couple of years. Threats are becoming more complex, more varied, and more numerous. As a malware analyst or security researcher, having a powerful dynamic analysis utility is vital to be effective and efficient. This utility can enable us to understand malware capabilities and quickly analyze the malicious behaviors of malware. Want to know how to build your own arsenal? I will detail the implementation to monitor kinds of malicious behaviors of malware on macOS. The capabilities of the utility cover monitoring process execution with command line arguments, file system events (including all common file operations, such as open, read, write, delete, rename operations), dylib loading event, network activities (including UDP, TCP, ICMP, DNS query and response). The Mandatory Access Control Framework is the substrate on top of which all of Apple's securities, both macOS and iOS, are implemented. I will discuss how to monitor process execution, file system events, and dylib loading events using MACF on macOS. Next, I'll provide the details for monitoring network activities using Socket Filters. The utility can also record some basic info including process name, parent process name, pid, ppid, uid besides the specific details for each event. For DNS response, this utility can parse the data of DNS response and record the IP:URL mappings. The utility consists of two parts, one is the KEXT(core component) in kernel, the other one is a client program in user space, which involves the communication between kernel space and user space. After discussing some communication mechanisms, I'll choose the kernel control API, which is a socket-based API that allows you to communicate with and receive broadcast notifications from the KEXT. The client program is intended to receive the data from the KEXT and display it to users. In this presentation, I provide an advanced solution to monitor kinds of malicious behaviors of malware in kernel on macOS. I will also provide all involved key technical details for the implementation of monitoring all common malicious behaviors of malware on macOS. This utility is designed to dynamically analyze the malicious behaviors of malware on macOS, helping analysts or security researchers more efficiently analyze malware. You can build your own utility for fun! Source Code: https://fortinetweb.s3.amazonaws.com/fortiguard/research/fortiappmonitor_1.0.0_release.pkg Presentation: https://fortinetweb.s3.amazonaws.com/fortiguard/research/Learn_How_to_Build_Your_Own_Utility_to_Monitor_Malicious_Behaviors_of_Malware_on%20macOS_KaiLu.pdf
 
 </details>
@@ -543,7 +543,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>MLPdf: An Effective Machine Learning Based Approach for PDF Malware Detection</strong> — Jason Zhang</summary>
 
 **Track:** Malware Defense · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/arcofiero/PDF_Malware_Detection](https://github.com/arcofiero/PDF_Malware_Detection)  
+🔗 **Link:** Not Available  
 📝 **Description:** Due to the popularity of portable document format (PDF) and increasing number of vulnerabilities in major PDF viewer applications, malware writers continue to use it to deliver malware via web downloads, email attachments and other methods in both targeted and non-targeted attacks. The topic on how to effectively block malicious PDF documents has received huge research interests in both cyber security industry and academia with no sign of slowing down. In this work, we propose and demonstrate a novel approach based on a multilayer perceptron (MLP) neural network model, termed MLPdf, for the detection of PDF based malware. More specifically, the MLPdf model uses a backpropagation algorithm with stochastic gradient decent search for model update. A group of high quality features are extracted from two real-world datasets which comprise around 105000 benign and malicious PDF documents. Evaluation results indicate that the proposed MLPdf approach exhibits excellent performance which significantly outperforms all evaluated eight well known commercial anti-virus scanners with a much higher true positive rate (TPR) of 95.12% achieved while maintaining a very low false positive rate of 0.08%. Of the evaluated commercial AV scanners, the best scanner only has a TPR of 84.53%, which is over 10% lower than the proposed MLPdf model. In the demonstration, we will first manually analyze a malicious PDF document , then show how it can be automatically detected by the proposed ML approach. Presentation: https://github.com/cyberML/MLPdf/blob/master/BlackHatUSA2018_MLPdf_slides.pdf Paper: https://arxiv.org/abs/1808.06991
 
 </details>
@@ -575,7 +575,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Performing Live Forensics Without Killing Your Evidence</strong> — John Moran</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/Johnng007/Live-Forensicator](https://github.com/Johnng007/Live-Forensicator)  
+🔗 **Link:** Not Available  
 📝 **Description:** In a threat landscape characterized by targeted attacks, file-less malware and other advanced hacking techniques, the days of relying solely on traditional "dead box" forensics for investigations are, well… dead. Live forensics, a practice considered a dangerous and dark art just a decade ago, has now become the de-facto standard. However, many CSIRT teams still struggle with this type of threat hunting. This session will discuss the benefits, pitfalls to avoid and best practices for performing live box forensics as a threat hunting tool. The presenter will also introduce a free and publicly available command line tool for Windows that automates the execution and data acquisition from other live forensics tools in a more secure, easier to maintain manner.
 
 </details>
@@ -599,7 +599,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>wpa-sec: The Largest Online WPA Handshake Database</strong> — Alex Stanev</summary>
 
 **Track:** Network Defense · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/usagi-epta/WPA-SEC](https://github.com/usagi-epta/WPA-SEC)  
+🔗 **Link:** [https://wpa-sec.stanev.org/](https://wpa-sec.stanev.org/)  
 📝 **Description:** Started as pet project in 2011, wpa-sec collects WPA handshake captures from all over the world. Contributors use client script to download handshakes and special crafted dictionaries to initiate attack against PSKs. With more than 115 GB captures from 240,000 submissions, collected samples represent invaluable source for wireless security research. This includes: Many improvements for emerging wireless security tools like hcxtools suite (https://github.com/ZerBea/hcxtools) Identified default PSK key generation algorithms, used by various ISPs. Those, along with fixes for current implementations get in RouterKeygen project (https://github.com/routerkeygen/routerkeygenPC). Many more to come, based on current research activities Performance optimizations for WPA crackers Identified some linux kernel driver bugs Live installation: https://wpa-sec.stanev.org GitHub: https://github.com/RealEnder/dwpa﻿ Presentation: https://alex.stanev.org/presentations/en/BlackHatUSA2018_DEFCON26-PHV_wpa-sec_AlexStanev.pdf
 
 </details>
@@ -633,7 +633,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>ChangWei: A Modern Fuzzing Framework for VxWorks System</strong> — Jiashui Wang, Wei Wang, Yu Zhou</summary>
 
 **Track:** Smart Grid/Industrial Security · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/cw1997/www.changwei.me](https://github.com/cw1997/www.changwei.me)  
+🔗 **Link:** Not Available  
 📝 **Description:** VxWorks is the industry's leading real-time operating system. It has been widely used in various industry scenarios, which require real-time, deterministic performance and, in many cases, safety and security certification. Since VxWorks has so much importance in industry, more and more people are working on security problems around it. Fuzzing is an effective technique to discovery vulnerabilities. Feedback-guided fuzzing, such as AFL(American Fuzzy Lop), has proven its excellent ability in finding vulnerabilities of complex programs. Fuzzing tools using this technique have been widely applied to Linux, MacOS and even Windows, but never to VxWorks. According to the current situation, we design a feedback-guided fuzzing tool named "ChangWei" especially for VxWorks. We take advantage of the instrumentation API of Bochs emulator to measure and extract target coverage in a persistent fuzzing mode, and then generate input samples with the help of AFL mutation engine. We are going to utilize this tool to assist developers to test their code and find hidden vulnerabilities before they are discovered by malicious attackers. Apart from that, we'd like anyone who has interest in this to help us optimize it and build a powerful tool for the security industry.
 
 </details>
@@ -697,7 +697,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Project Interceptor: Owning Anti-Drone Systems with Nanodrones - ARSENAL THEATER DEMO</strong> — David Melendez</summary>
 
 **Track:** Hardware/Embedded · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/Lexicon121/Strix-Interceptor](https://github.com/Lexicon121/Strix-Interceptor)  
+🔗 **Link:** Not Available  
 📝 **Description:** This tool provides a new vision about drone protection against anti-drone systems, using WiFi side/hidden channel communication, fallback control by variable modulation radio with SDR, and hacking capabilities. All embedded into a hand-sized aircraft to make detection and mitigation a pain, called "Project Interceptor". This drone is based on Vocore2, the smallest Linux board available. Taking into account all the anti-drone process stages, this small aircraft, is designed to make much more difficult detection, due to a hand-sized design, very low radar signature, and very flexible radio signatures, combined with a fallback SDR based communication protocol, keeping most hacking capabilities of any other drone, at a very low cost ($70).
 
 </details>

@@ -7,6 +7,10 @@ reason, for manual review:
   python3 scripts/audit_urls.py > url-audit.md
   python3 scripts/audit_urls.py --check-age > url-audit.md   # also query GitHub (needs `gh auth`)
 
+Entries listed in docs/url-audit-reviewed.json ({"<file>": "<url>"}) are skipped
+as long as the file still has that URL — add a row there once a human has
+confirmed the link is right. A changed URL is audited again.
+
 --check-age looks each repo up via the GitHub API and additionally flags repos
 that return 404, were renamed/transferred, or were created more than a year
 after the event (a strong sign the automated URL fill matched the wrong project).
@@ -72,6 +76,14 @@ def classify(name, url):
 
 
 CACHE_PATH = os.path.join(REPO_ROOT, ".cache", "gh-repos.json")
+REVIEWED_PATH = os.path.join(REPO_ROOT, "docs", "url-audit-reviewed.json")
+
+
+def load_reviewed():
+    if not os.path.exists(REVIEWED_PATH):
+        return {}
+    with open(REVIEWED_PATH, encoding="utf-8") as f:
+        return json.load(f)
 
 
 def gh_repo(owner_repo):
@@ -143,7 +155,12 @@ def main():
                        if urlparse(u).netloc == "github.com" and len([x for x in urlparse(u).path.split("/") if x]) >= 2})
         cache = lookup_repos(keys)
 
+    reviewed = load_reviewed()
+    skipped = 0
     for rel, name, url, year in records:
+        if reviewed.get(rel) == url:
+            skipped += 1
+            continue
         hit = age_reason(url, year, cache) if check_age else None
         if not hit:
             reason = classify(name, url)
@@ -152,7 +169,8 @@ def main():
             flagged[hit[0]].append((rel, name, url, hit[1]))
 
     n = sum(len(v) for v in flagged.values())
-    print(f"# URL accuracy audit\n\n{n} of {total} URLs flagged for manual review. "
+    print(f"# URL accuracy audit\n\n{n} of {total} URLs flagged for manual review "
+          f"({skipped} already reviewed and skipped). "
           "Heuristics only — a flagged URL may be correct (e.g. a repo named after a codename).\n")
     for reason, rows in sorted(flagged.items(), key=lambda kv: -len(kv[1])):
         print(f"\n## {reason} ({len(rows)})\n")

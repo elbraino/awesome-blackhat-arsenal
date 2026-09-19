@@ -86,7 +86,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>SecPod Saner</strong> — Preeti Subramanian</summary>
 
 **Track:** Vulnerability Assessment · **Event:** Asia 2015  
-🔗 **Link:** [https://github.com/IamPreethi-S](https://github.com/IamPreethi-S)  
+🔗 **Link:** [https://www.secpod.com/](https://www.secpod.com/)  
 📝 **Description:** A free vulnerability scanner and compliance scanner with remediation. Most malware makes use of loopholes in the system and targets desktops and end-user applications. The anti-malware products that are available in the market focus on cleaning an already infected system based on known malware signatures. It is reported that 67% of malware is unnoticed by anti-virus or anti-malware products because of their polymorphic nature. Hardening the security posture of the system, knowing the loopholes, and applying fixes is a very effective and proven defense system. Although prevalent in the enterprise segment, home and mobile users do not get the benefit of effective vulnerability and configuration management. SecPod Saner is a lightweight, easy to use, enterprise-grade security solution for proactively assessing and securing your personal computer. It identifies security loopholes, misconfiguration, and remediates to ensure systems remain secure.
 
 </details>
@@ -106,7 +106,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>CLAW</strong> — Joe Cummins</summary>
 
 **Track:** Smart Grid/Industrial Security · **Event:** Asia 2015  
-🔗 **Link:** [https://github.com/openclaw/openclaw](https://github.com/openclaw/openclaw)  
+🔗 **Link:** Not Available  
 📝 **Description:** Red Tiger Labs Control Layer Assessment Workstation is looking to redefine the way that ICS SCADA and other critical infrastructure utilities examine their cybersecurity posture. Developed in partnership with the Canadian Federal Government, under the direction of ICS experts, the toolset takes a passive approach to cybersecurity by learning to "look, listen, and feel" each network. Building into its suite of cutting-edge technologies developed with the brightest minds in Canadian InfoSec, CLAW combines visualization, mitigation, and remediation activities into one cohesive view of the entire network. The audience will learn not only how this toolset is effectively raising the bar from both an enterprise and control systems perspective, but also real world instances of incident response, vulnerability assessment, and early detection of gaps and overlaps within existing deployments.
 
 </details>

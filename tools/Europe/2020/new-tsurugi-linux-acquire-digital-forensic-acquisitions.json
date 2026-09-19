@@ -1,7 +1,7 @@
 {
   "Tool Name": "NEW TSURUGI LINUX ACQUIRE & DIGITAL FORENSIC ACQUISITIONS",
   "Description": "Tsurugi ACQUIRE is a dedicated Linux OS to perform DIGITAL FORENSIC acquisition before to start post mortem DFIR investigations.",
-  "Github URL": "https://github.com/mesquidar/ForensicsTools",
+  "Github URL": "https://tsurugi-linux.org/",
   "Tracks": [
     "Data Forensics/Incident Response"
   ],

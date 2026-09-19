@@ -38,7 +38,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Janus</strong> — Chen Yexuan, Tang Zhushou</summary>
 
 **Track:** Android, iOS and Mobile Hacking · **Event:** Asia 2016  
-🔗 **Link:** [https://github.com/deepseek-ai/Janus](https://github.com/deepseek-ai/Janus)  
+🔗 **Link:** Not Available  
 📝 **Description:** Janus is feedback-driven, interactive Android security analysis platform that facilitates a collection of advanced security analysis tools with the capabilities from vulnerability discovery to malicious application detection. Its main purpose is to enable large scale Android application security analysis by integrating automated, customizable analysis results and human interventions. Specifically, Janus works as follows. First, Janus leverages lightweight malware scanners, similarity detection tools, and vulnerability detection tools to help researchers diagnose whether a given Android application is malicious or vulnerable. Next, Janus provides a set of tools to perform more fine-grained and heavier analyses, including dynamic taint analysis, program slicing, and machine learning, etc. In particular, security researchers are involved in this phase. By integrating these automated analyses and human interventions, Janus will confirm the detection results, filter false positives, and also extract the features of the application. These features will be used to guide subsequent analyses to quickly find similar vulnerabilities or malicious applications. We will demonstrate Janus with a number of real world malicious and vulnerable applications.
 
 </details>
@@ -56,7 +56,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>ZoomEye - CyberSpace Search Engine</strong> — Zhou Yang</summary>
 
 **Track:** OSINT - Open Source Intelligence · **Event:** Asia 2016  
-🔗 **Link:** [https://github.com/RevoltSecurities/ZoomeyeSearch](https://github.com/RevoltSecurities/ZoomeyeSearch)  
+🔗 **Link:** [https://www.zoomeye.org/](https://www.zoomeye.org/)  
 📝 **Description:** ZoomEye is a cyberspace search engine released in 2013. Unlike Shodan which only crawls the port fingerprints of Internet-connected devices and does less work on fingerprint parsing, ZoomEye crawls on not only Internet-connected devices, but also websites to get the fingerprints. All of these fingerprints are powered by our two major engines Xmap and Wmap. Xmap is specialized to port scanning, and Wmap focuses on Web Application fingerprint crawling and parsing. We distribute the crawlers running 7/24 across the world, providing both host device and web application searches to the public by crawling and indexing. Users can also achieve integration and automation with our platform API.This talk covers a basic introduction on our crawling and analyzing architecture, some thoughts on scanning crawling strategies, and the major process on parsing and analyzing devices and website fingerprints. To better understand the complexity of the cyberspace, we work hard on fingerprint parsing and analysis to get more detailed and complete metadata. We think that more accurate and formatted data will do great help to our research. Besides, some cases will be demonstrated in comparison with Shodan and Censys.io to prove our strengths. The ZoomEye 101 section introduces how ZoomEye helps to enhance our research or do some hacking stuff. The audience will learn not only the revolution history of ZoomEye, but also some helpful Internet research methodologies.
 
 </details>
@@ -82,7 +82,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>StackPivotChecker</strong> — Xiaoning Li, Haifei Li</summary>
 
 **Track:** Malware Offense · **Event:** Asia 2016  
-🔗 **Link:** [https://github.com/zandi/ebpf-stack-pivot-detection](https://github.com/zandi/ebpf-stack-pivot-detection)  
+🔗 **Link:** Not Available  
 📝 **Description:** StackPivotChecker is a tool to provide instruction level inspection on stack pivoting behavior from 0-day. It provides rapid 0-day analysis capability. This lightweight tool to help research to address first stack pivoting point from complex 0-day execution path; it addressed real 0-day such as CVE-2013-0640.
 
 </details>
@@ -100,7 +100,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Seebug</strong> — Zhong Chenming</summary>
 
 **Track:** Vulnerability Assessment · **Event:** Asia 2016  
-🔗 **Link:** [https://github.com/seishinkouki/seebug_crawler](https://github.com/seishinkouki/seebug_crawler)  
+🔗 **Link:** [https://www.seebug.org/](https://www.seebug.org/)  
 📝 **Description:** Seebug is an open vulnerability platform based on vulnerability and PoC/Exp sharing communities. So far, it already has 50,000+ vulnerabilities and 40,000+ PoC/Exps.On this platform, users can submit new vulnerabilities or update information of existing ones that are lacking of details such as summaries, PoC/Exps, solutions, CVE-ID and other basic fields. In exchange, we will reward you with KBs, which can be used to buy other submissions (such as PoCs) or converted into RMB directly (1 KB is equivalent to RMB 5 Yuan currently). Seebug provides an opportunity for vulnerability learning. We plan to open BBS and CFP columns in the near future so that users can submit their technical articles, ideas, and communicate with each other on vulnerability mining issues. Besides, each vulnerability is accompanied by a lifeline, recording all the relevant events during this process and offering a complete picture about the vulnerability development course. With the help of ZoomEye, the latest vulnerabilities across the world can be detected timely and displayed on the vulnerability detail page. Based on the result, we can effectively conduct emergency response activities and provide online detection tools, affected vendor lists and early warning upon necessary.
 
 </details>

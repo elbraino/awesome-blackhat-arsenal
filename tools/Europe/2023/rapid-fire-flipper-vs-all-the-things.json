@@ -1,7 +1,7 @@
 {
   "Tool Name": "Rapid Fire: Flipper vs. All the Things",
   "Description": "Arduino/ATtiny85-based rapid fire modification device for Xbox One controllers, demonstrated alongside Flipper Zero hardware hacking capabilities.",
-  "Github URL": "https://github.com/justcallmekoko/xboxonerapidfire",
+  "Github URL": "https://github.com/flipperdevices/flipperzero-firmware",
   "Tracks": [
     "Arsenal Lab"
   ],

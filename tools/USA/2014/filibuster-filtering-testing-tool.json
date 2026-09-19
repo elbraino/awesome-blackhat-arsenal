@@ -1,7 +1,7 @@
 {
   "Tool Name": "Filibuster - Filtering Testing Tool",
   "Description": "Filibuster is used to map port filtering / protocol filtering devices and is useful for both red and blue team engagements.",
-  "Github URL": "https://github.com/filibuster-testing/filibuster",
+  "Github URL": "https://github.com/subinacls/Filibuster",
   "Tracks": [
     "Network Attacks"
   ],

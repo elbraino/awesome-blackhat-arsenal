@@ -1,7 +1,7 @@
 {
   "Tool Name": "Artificial Intelligence Phishing Email Detector",
   "Description": "A machine learning system that classifies emails as phishing or legitimate using Natural Language Processing with TF-IDF vectorization and a Random Forest classifier to identify suspicious messages based on learned text patterns.",
-  "Github URL": "https://github.com/Click2Hack/Phishing-Email-Detection-Using-Machine-Learning",
+  "Github URL": "",
   "Tracks": [
     "Vulnerability Assessment",
     "Human Factors"

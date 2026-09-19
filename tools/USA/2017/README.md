@@ -168,7 +168,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>NOPE PROXY (NON-HTTP PROXY EXTENSION)</strong> — Ian Maxwell</summary>
 
 **Track:** Android, iOS and Mobile Hacking · **Event:** USA 2017  
-🔗 **Link:** [https://github.com/PortSwigger/nope-proxy](https://github.com/PortSwigger/nope-proxy)  
+🔗 **Link:** [https://github.com/summitt/Nope-Proxy](https://github.com/summitt/Nope-Proxy)  
 📝 **Description:** This burp extension adds two new features to BurpSuite. A Non-HTTP MiTM Intercepting proxy - this extension allows you to create multiple listening ports that can MiTM server side services. It also uses Burp's CA cert so that if the browser or mobile device is already configured to access SSL/TLS requests using this cert then the encrypted binary protocols will be able to connect without generating errors too. It also provides the ability to automatically match and replace hex or strings as they pass through the proxy or you can use custom python code to manipulate the traffic. A configurable DNS server - this will route all DNS requests to Burp or preconfigured hosts. It makes it easier to send mobile or thick client traffic to Burp. You need to create invisible proxy listeners in BurpSuite for the Burp to intercept HTTP traffic or you can use the second feature of this extension to intercept binary/non-http protocols.
 
 </details>
@@ -210,7 +210,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>PROJECT SPLINTER - MAKE INFORMED DECISIONS BASED ON CYBER THREAT INTEL</strong> — Nicolas Kseib, Shimon Modi</summary>
 
 **Track:** OSINT - Open Source Intelligence · **Event:** USA 2017  
-🔗 **Link:** [https://github.com/Project-Splinter/project-splinter.github.io](https://github.com/Project-Splinter/project-splinter.github.io)  
+🔗 **Link:** Not Available  
 📝 **Description:** Indicators of Compromise (IoCs) form a core component of a security analyst's decision making process, but there is very little emphasis paid to recognizing their dynamic nature in the overall analysis. Adversaries are dynamic entities that adapt to their environment and change their tactics and techniques with time. Our goal is to bring a scientific approach to cyber threat analysis by utilizing Bayesian inference to reduce uncertainty in decision making. We will present a tool that calculates statistical probabilities for assigning classification labels to campaign or malware families based on observed IoC's. This tool also allows analysts to take into account temporal quantity of the observations to strengthen this statistical inference. To demonstrate the capabilities of the tool we will use the Fidelis Barncat Threat Intelligence dataset. The Barncat dataset represents an acceptable ground truth for the past state of the world, which can be used to informed new observations. We will show how the tool allows to backtest classification models using this dataset and propose security centric decision metrics for identifying the most optimal model.
 
 </details>
@@ -220,7 +220,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>A NEW TAKE AT PAYLOAD GENERATION: EMPTY-NEST</strong> — James Cook, Tom Steele</summary>
 
 **Track:** Malware Offense · **Event:** USA 2017  
-🔗 **Link:** [https://github.com/payloadcms/payload](https://github.com/payloadcms/payload)  
+🔗 **Link:** Not Available  
 📝 **Description:** As the evolution of endpoint, egress, and network security controls continues, adversaries and pentesters are finding it increasingly more difficult to execute malicious payloads within properly-hardened enterprise networks. Although tools currently exist to aid in circumventing these controls, the current state fails to properly account for some of newest techniques used by these controls. Enter Empty-Nest, a command-and-control (C2) toolset created with circumvention in mind. Empty-Nest was designed to provide a flexible payload-generation mechanism and pluggable interface to enable adversaries to easily customize payloads for targeted security control bypass. Our presentation shows the Empty-Nest toolset, demonstrating how to leverage the pluggable interface to create keyed payloads capable of bypassing new-age, cloud-based binary analysis, unloading endpoint software DLLs from running processes, customizing C2 transports, and more.
 
 </details>
@@ -236,7 +236,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>BLOODHOUND 1.3 - ARSENAL THEATER DEMO</strong> — Andy Robbins, Rohan Vazarkar, Will Schroeder</summary>
 
 **Track:** Network Attacks · **Event:** USA 2017  
-🔗 **Link:** [https://github.com/SpecterOps/BloodHound](https://github.com/SpecterOps/BloodHound)  
+🔗 **Link:** [https://github.com/SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy)  
 📝 **Description:** Released on-stage at DEF CON 24 last year, BloodHound fundamentally changed the way penetration testers and red teamers approach escalating rights in Active Directory domains. By combining the concepts of derivative local admin and graph theory, coupled with a powerful data ingestion and front-end analysis capability, BloodHound simplified the tedious, repetitive task of escalating rights, saving days, weeks, and sometimes months of manual processing. In 2017, the BloodHound attack graph schema, data ingestor, and front-end were overhauled to provide greater speed, easier analysis, and brand new attack paths never discovered before. By adding object control edges to the attack graph, a brand new attack landscape was unveiled, allowing attackers and defenders to identify attacks which rely solely on Active Directory object manipulation. These attack paths require no malware, no pivoting, and can always be executed as long as the attacker can communicate with at least one domain controller. From the defender's perspective, identifying and measuring such attack paths was nigh impossible. Now, defenders can also quickly identify and remediate those same attack paths before an attacker can find and exploit them.
 
 </details>
@@ -244,7 +244,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>BUILDING C2 ENVIRONMENTS WITH WARHORSE</strong> — Ralph May</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2017  
-🔗 **Link:** [https://github.com/warhorse/docker-sliver](https://github.com/warhorse/docker-sliver)  
+🔗 **Link:** [https://github.com/warhorse/warhorse](https://github.com/warhorse/warhorse)  
 📝 **Description:** Building full featured command-and-control (C2) environments can be a major undertaking, taking significant time and effort. However, deployment or proper infrastructure is key to avoiding detection and maintaining proper operational security during offensive engagements. In many instances, once a C2 environment is operational, it's utilized for a short period then destroyed. There are many different tools used within these C2 environments, with most tools requiring significant amounts of manual configuration. In recent years, API-based, on-demand cloud infrastructure has reduced the cost of building a C2 environment while also exposing functionality that encourages process automation. Combine these on-demand cloud services with the rapid development of Docker containers, and you have the building blocks to create and deploy C2 environments on the fly. Warhorse has been designed to build these C2 environments with only minimal configuration. Warhorse enables pentesters to focus on tactics instead of managing C2 infrastructure. Warhorse approaches this creation of a C2 environment with a few unique features. First, it uses a module-based approach to everything that it creates. This way, any new tactics or tools can be added as a module to utilize in creating a C2 environment. Second, Warhorse is vendor-agnostic and can be used with any cloud service provider. This allows C2 environments to live in multiple data centers and utilize multiple vendors. Lastly, Warhorse employs a two-zone approach to limit backend C2 exposure. Systems that communicate directly with the target are treated as expendable and can have very short life spans. These features combined not only help with rapid deployment but also allow pentesters to build environments with the latest tactics and techniques that can evolve on the fly and be moved whenever required.
 
 </details>
@@ -292,7 +292,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>GONE IN 59 SECONDS - HIGH SPEED BACKDOOR INJECTION VIA BOOTABLE USB - ARSENAL THEATER DEMO</strong> — Michael Wrzesniak, Piotr Marszalik</summary>
 
 **Track:** Malware Offense · **Event:** USA 2017  
-🔗 **Link:** [https://github.com/Abacus-Group-RTO/legion](https://github.com/Abacus-Group-RTO/legion)  
+🔗 **Link:** Not Available  
 📝 **Description:** Gaining physical access was trivial, but now the computer is locked (or off) and time is running out…the "SmuggleBus" allows us to take advantage of unencrypted drives to quickly collect local password hashes and implant the backdoor of our choice without modifying any system binaries - all from a bootable USB and in a matter of seconds.
 
 </details>
@@ -316,7 +316,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>LEGION - SIMPLE DISTRIBUTED COMPUTING FOR THE MASSES AND PENTESTERS</strong> — Adam Compton, Bill Harshbarger</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2017  
-🔗 **Link:** [https://github.com/Tbruno25/can-explorer](https://github.com/Tbruno25/can-explorer)  
+🔗 **Link:** Not Available  
 📝 **Description:** At its core, Legion is a distributed computing application. It is written in python and designed from the ground up to fulfill various IT related needs. Whether you need a way to logically distribute large or complex commands across multiple systems, or if you need a way to remotely administer 1 or more other systems, Legion can help. Legion goes beyond a typical Master/Manager/Slave architecture and makes use of a MeshNetworking approach to help to dynamically route around failed nodes and networking issues. Additionally, it has the ability to allow remote shell access to any node as well as send individual commands to 1 or all of the nodes within the mesh. And of course all the communications are encrypted between the nodes. If you want to learn more or just want to see the demo, please stop by.
 
 </details>
@@ -424,7 +424,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>ANSWERING WHEN/WHERE/WHO IS MY INSIDER</strong> — Chema Garcia</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** USA 2017  
-🔗 **Link:** [https://github.com/pawamoy/insiders-project](https://github.com/pawamoy/insiders-project)  
+🔗 **Link:** Not Available  
 📝 **Description:** This tool automates the process of creating logon relations from MS Windows Security Events by showing a graphical relation among users domains, source and destination logons, session duration, who was logged on the systems in a given datetime, etc. It is able to integrate and provides different output modes such as CSV output, Neo4j, SQLite, Gephi and Graphviz.
 
 </details>
@@ -480,7 +480,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>DPAPI AND DPAPI-NG: DECRYPTION TOOLKIT</strong> — Paula Januszkiewicz</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** USA 2017  
-🔗 **Link:** [https://github.com/wat4r/dpapitk](https://github.com/wat4r/dpapitk)  
+🔗 **Link:** Not Available  
 📝 **Description:** CQMasterKeyAD (CQTools) allows decryption ofDPAPI protected data by leveraging usage of the private key stored as a LSA Secret on a domain controller (we have called it a 'backup key,' and it is a key corresponding to the backup public key stored in the domain user's profile). The backup key allows decrypting literally all of the domain user's secrets (passwords / private keys / information stored by the browser). In other words, someone who has the backup key is able to take over all of the identities and their secrets within the whole enterprise. Tool represents CQURE's breakthrough DPAPI discovery. CQDPAPINGPFXDecrypter (CQTools) leverages DPAPI-NG used in the SID-protected PFX files and when with the previous tool CQURE Team is able to get access to user's secrets, here it is a bit different! Tool allows to decrypt SID-protected PFX files even without access to user's password but just by generating the SID and user's token. CQDPAPIKeePassDBDecryptor (CQTools) allows to decrypt Keepass database by using DPAPI data that is possessed from the domain. It provides access to all users' Keepass databases and it uses DPAPI data levereaged by CQMasterKeyAD. Tool uses decrypted Master Key of the user in order to decrypt key that encrypts Keepass database. CQURE tool affects Windows 7, Windows 8, Windows 8.1, Windows 10 and related Windows Server versions. Tool represents CQURE's breakthrough DPAPI discovery.
 
 </details>
@@ -504,7 +504,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>HASHVIEW</strong> — Casey Cammilleri, Hans Lakhan</summary>
 
 **Track:** Cryptography · **Event:** USA 2017  
-🔗 **Link:** [https://github.com/hashview/hashview-old](https://github.com/hashview/hashview-old)  
+🔗 **Link:** [https://github.com/hashview/hashview](https://github.com/hashview/hashview)  
 📝 **Description:** Hashview is a web front-end to hashcat with many powerful features geared towards penetration testers. Leverage task automation and real-time analytics for increased results and fancy reports. Hashview includes the following features: Automate workflow methodologies Create custom password cracking tasks Use data from previous jobs to increase cracking speeds Fancy analytics useful for client reports Distributed cracking Email/SMS Notifications Retroactively crack hashes from previous jobs Advanced searching of hashes, usernames, and plains Smart wordlists Optional community integration for accelerated cracking
 
 </details>
@@ -584,7 +584,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>SITCH: DISTRIBUTED, COORDINATED GSM COUNTER-SURVEILLANCE - ARSENAL THEATER DEMO</strong> — Ash Wilson</summary>
 
 **Track:** Network Defense · **Event:** USA 2017  
-🔗 **Link:** [https://github.com/smores56/sitch](https://github.com/smores56/sitch)  
+🔗 **Link:** [https://github.com/sitch-io/sensor](https://github.com/sitch-io/sensor)  
 📝 **Description:** SITCH uses inexpensive hardware and open-source software to create a network of sensors for detecting malicious activity in GSM wireless networks. SITCH sensors are based on the Raspberry Pi 3 platform and use inexpensive, easy-to-source software-defined, GPS, and GSM radios. One person can manage a large number of SITCH sensors, including on-the-fly configuration and firmware updates, from a web browser.
 
 </details>
@@ -616,7 +616,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>YALDA –AUTOMATED BULK INTELLIGENCE COLLECTION</strong> — Gita Ziabari</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** USA 2017  
-🔗 **Link:** [https://github.com/gitaziabari](https://github.com/gitaziabari)  
+🔗 **Link:** [https://github.com/gitaziabari/Yalda](https://github.com/gitaziabari/Yalda)  
 📝 **Description:** Yalda is an automated tool for data mining and scanning files. The tool analyzes and decodes the given files and categories them with a score from 1 to 5 (1 standing for clear and 5 standing for very malicious). It also extracts data such as malicious domains, malicious URLs and embedded objects from each file. Results of the scan would include detailed information on the file such as sha256, severity, file type, file size, embedded objects, severity, etc. Following are the proposed domains for using the tool: Data mining tool for extracting malicious data such as URLs, Domains and embedded objects. File Scanner for detecting if a file is malicious or suspicious and getting detailed information about the file. Tool to obtain categorized data based on file format. Base tool in any research that requires categorized information on the given file. Testing tool to analyze detection ratio of malicious data in a product. Please note that Yalda is not an AV engine. Yalda is a free tool available for download at Fideliscyber github.
 
 </details>
@@ -634,7 +634,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>ATTACK PASSIVE KEYLESS ENTRY SYSTEM USING HACKKEY</strong> — Chaoran Wang, Jun Li, Qing Yang, Yingtao Zeng, Yunding Jian</summary>
 
 **Track:** Hardware/Embedded · **Event:** USA 2017  
-🔗 **Link:** [https://github.com/zeetwii/pke](https://github.com/zeetwii/pke)  
+🔗 **Link:** Not Available  
 📝 **Description:** PKE (passive keyless entry) system allows the driver to unlock cars without taking out their key fob - just by being in the proximity of the vehicle or by touching the door handle. PKE systems use both low frequency and high frequency radio links to perform two-way authentication. We have implemented a relay attack using two very low-cost radios and have extended the range further than any previous research. We have already extended the attack range to a few hundred meters and can unlock your car in the parking lot while your key fob is in your pocket - on the top floor of your office building - or drive your car away while you are shopping in the mall.
 
 </details>
@@ -666,7 +666,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>PTIOT: AN AUTOMATED SECURITY TESTING FRAMEWORK FOR THE INTERNET OF THINGS - ARSENAL THEATER DEMO</strong> — Jie Li, Kaixiang Zhang, Mei Wang, Yangdong Wang, Yihan Lian</summary>
 
 **Track:** Internet Of Things · **Event:** USA 2017  
-🔗 **Link:** [https://github.com/ThaiDuong158/PTIOT](https://github.com/ThaiDuong158/PTIOT)  
+🔗 **Link:** Not Available  
 📝 **Description:** With the Internet of Everything era coming and millions of IoT devices becoming interconnected via the Internet, security issues caused by the IoT devices are increasingly serious more than any time before. Different from traditional security problems, there are no specific cognitions or orientations on the technology of security defense. Only if we knew our evil enemy and understood the means they used to attack, would we be able to build an efficient defense system. PtIoT is an automated security testing framework for the Internet of Things, and it has already been used on 360 IoT devices' productive process. It is combined with 360GearTeam's daily security practice and understanding of the attack pattern the malicious frequently used. It contains grey box-based security tests on external ports, compilation options, communication encryption, OS check runtime program check, web application check, etc. It is used to test ROMs on the products' version iteration process. At present, the security test covers products like 360 Smart Camera, 360Safe Wifi Router, 360 Driver Recoder and so on.
 
 </details>
@@ -690,7 +690,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>VT AUTO-X VEHICLE AUTOMATED SECURITY TESTING TOOL - ARSENAL THEATER DEMO</strong> — Wayne Yen</summary>
 
 **Track:** Internet Of Things · **Event:** USA 2017  
-🔗 **Link:** [https://github.com/4paradigm/AutoX](https://github.com/4paradigm/AutoX)  
+🔗 **Link:** Not Available  
 📝 **Description:** Currently, there are some research works on vehicle cybersecurity testing. Many of them are open-source projects, such as CANTact and GoodThopter. CANTact is a popular open-source toolkit available for purchase online that uses SocketCAN to communicate with a CAN bus. Since SocketCAN extends the Berkeley sockets API in Linux by introducing a new protocol family, it is easy to write script languages for CAN message injections. Python is one of the most widely-used script languages for SocketCAN programming. GoodThopter is another recent device targeted at hackers and hobbyists, but is not ready for use as a turn-key solution. The drawbacks of these open-source tools are that they are not stable and do not work well under heavy-traffic testing scenarios. Also, open-source contributions may not meet the rigorous control and validation requirements of auto industry software practices. We found that it was possible to crash or lock up such tools when injecting them with bursty CAN traffic. For example, CANTact has limited buffer size which may cause buffer overflows. GoodThopter's timeout parameters and configuration file make it hard to work. In our case, we used the serial port for communications and Java as the programming language. Java is preferred over Python as it is faster, more stable, requires strict coding rules, and is better suited to remote control applications. Cybersecurity testing focuses on finding and identifying unwanted weaknesses or vulnerabilities hiding inside vehicle software. Our goal is to develop an automated and black-box testing tool for OEMs and tier providers to test their vehicles or ECUs with consistent results, which requires no prior detailed knowledge of the testing workflow. Automation means the tester only needs to follow pre-defined test scenarios one-by-one to finish the whole testing process. Even if the tester does not have prior security testing knowledge or background, he or she can still operate the test device and detect security vulnerabilities by following the automated steps. Black-box testing strategies should have no prior knowledge of system commands, CAN bus command databases, or the specific manufacturer's practices within the vehicle or system under testing protocols. In this way, OEMs may feel more comfortable with black-box testing since they don't need to release too much of what they may consider to be proprietary system information to internal, outside, or third-party testers. We have developed the automated automotive cybersecurity testing tool (named VT Auto-X) which has successfully detected serious security vulnerabilities in a number of production vehicles, and has helped several OEMs identify and correct these issues before they became expensive and embarrassing recall programs. It is a black-box test with no prior knowledge of vehicle CAN bus information. Live demonstrations of Auto-X have proven its ability to quickly find software and security vulnerabilities in most of the cars tested. Auto-X is portable, and can easily connect to a vehicle's CAN bus. The device has a panel which has various types of connection interfaces, including OBD (SAE J1979/J1962) ports and multiple CAN High and CAN Low ports. It incorporates standard banana sockets to facilitate connecting to various vehicle CAN bus accessible points, as well as several power supply options for testing flexibility (bench, garage, mobile). Other connection arrangements are also possible for use when testing individual systems, ECUs, or bench testing components. A USB 2.0 port is provided to connect to laptops or other computers. Power can also be provided directly via the OBD II connection, by direct 12V DC connection, or via an AC mains adapter power supply. Auto-X also contains several communication modules, such as WIFI, Bluetooth, and 3G, for both short-range and long-range communications making it easy to communicate with remote cloud or smart mobile phones. Auto-X performs an automated sequence of test scenarios using either the local or cloud-based testing portal. Each scenario test time can range from minutes to hours, which varies depending on the vehicle configuration and equipment. The tool injects CAN traffic into the vehicle CAN bus. By monitoring and recording CAN traffic and responses, the testing portal then analyzes the logs and responses aiming to detect unexpected, unwanted, or potentially harmful security issues. Auto-X acts as an interface between the entity being tested (an entire vehicle, a single CAN bus, multiple CAN buses, or a component, such as a specific Electronic Control Unit or ECU) and the secure cloud test portal (where the testing scripts reside). It also connects to the user's laptop to control and monitor activity during testing. Once connected to the vehicle, Auto-X can run a series of test scripts or protocols from the cloud portal.
 
 </details>
@@ -708,7 +708,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>CAN-PICK - A VISUALIZATION TOOL FOR EVALUATING CAN-BUS CYBERSECURITY - ARSENAL THEATER DEMO</strong> — Bin Guo, Jianhao Liu, Minrui Yan</summary>
 
 **Track:** Reverse Engineering · **Event:** USA 2017  
-🔗 **Link:** [https://github.com/Tbruno25/can-explorer](https://github.com/Tbruno25/can-explorer)  
+🔗 **Link:** Not Available  
 📝 **Description:** With the development of automotive technology, vehicles become more electronic and intelligent on the basis of inner bus communication network, and they draw more attention to the study of automotive cybersecurity. To facilitate this process, we developed a tool that evaluates the cybersecurity of the CAN-bus, which can be used for black-box tests by security researchers and automotive engineers. This tool is capable of sniffing CAN-bus packets, analyzing UDS, as well as launching fuzzing attacks, and brute-force attacks. Fuzzing attack has two modes; we can combine id with data or single one to fuzz CAN-bus packet. By visualizing the changes from different packets, it can help us to identify id and value range related with function quickly. And we can easily find out which data is encrypted, so that it’ll more convenient to guess encrypt algorithm. Users can also share their programmable examples within the tool. This talk will introduce the reverse engineering of CAN-bus and present the "CAN-Pick" tool by demonstrations of injecting CAN-bus packets on a car. We will show some videos to prove the results of our work. This tool can also be used as a remote access tool, which can realize full control over the car without adding any actuators on the vehicle in some modern car via Telematics system.
 
 </details>

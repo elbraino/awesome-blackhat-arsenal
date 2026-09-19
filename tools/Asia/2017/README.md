@@ -16,7 +16,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>NAD - A Tool for Performing Dynamic Runtime Analysis of Android Functions</strong> — Han Lee</summary>
 
 **Track:** Android, iOS and Mobile Hacking · **Event:** Asia 2017  
-🔗 **Link:** [https://github.com/hahnlee](https://github.com/hahnlee)  
+🔗 **Link:** Not Available  
 📝 **Description:** Android application penetration testing goes further than testing the client to server communication. In order to get a holistic view on the risk exposure, a thorough analysis of the application has to be done to understand how the application works. This is also imperative to be able to bypass jailbreak detection, SSL pinning, or figure out how the application is handling encryption (e.g. being able to decrypt certain values). There are several approaches available:The application can be decompiled, modified and recompiled. This approach however may not always work due to errors while decompiling. Patch the application by utilizing method hooks and overriding the original method. In order to identify the correct code and method to patch, the penetration tester has to go through the very time consuming process of figuring out the correct methods. Adding to the frustration, most applications in release mode produce minified and obfuscated code. The above-mentioned problems makes analyzing an Android application a very tedious process, even before the actual analysis of the application has started. Currently there are no tools available for Android that allow for easy method hooking. This is why I started developing NAD, a tool which allows testers to perform on the fly method hooks. This talk aims to demonstrate an Android tool built upon the Xposed framework. This tool is an attempt to be the "Burp suite" for Android application methods. It provides the user with several abilities to ease such frustration and make life easier:Perform trace method callsIntercept all methods of the Android applicationPause the applicationModify the input parameters of the hooked methodModify the return value of the hooked methodMy goal for developing this tool is to save time and provide more insight into compiled Android applications.DOWNLOAD: https://github.com/HanLee/Not-a-debugger
 
 </details>
@@ -112,7 +112,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>LAMMA 1.0</strong> — Ajit Hatti</summary>
 
 **Track:** Cryptography · **Event:** Asia 2017  
-🔗 **Link:** [https://github.com/SimpleBerry/LLaMA-O1](https://github.com/SimpleBerry/LLaMA-O1)  
+🔗 **Link:** Not Available  
 📝 **Description:** LAMMA 1.0 is an attempt to create a Swiss-Army-Knife for security and quality Assessment of Cryptographic implementations. This major update of LAMMA has all new modules for testing trust stores, source code analysis and logical flaws in crypto-coding.LAMMA 1.0 with new features & fixes makes crypto-testing more effective and smoother even for large scale implementations. You can use and enhance LAMMA 1.0, as it's a FREE and OPEN SOURCE.
 
 </details>
@@ -146,7 +146,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>WiDy: WiFi 0wnage in Under $5</strong> — Vivek Ramachandran, Nishant Sharma, Ashish Bhangale</summary>
 
 **Track:** Internet Of Things · **Event:** Asia 2017  
-🔗 **Link:** [https://github.com/widy-fun/widy](https://github.com/widy-fun/widy)  
+🔗 **Link:** Not Available  
 📝 **Description:** WiDy is an open source Wi-Fi Attack and Defense platform created to run on the extremely cheap ESP8266 (<$5) IoT platform. We've written a simple framework which you can hack and create your own tools or automate attack/defense tasks. Among the attacks WiDy is able to perform out of the box, include:Honeypot AttacksCaptive Portal AttacksServing Exploits to browsers using DNS redirectionWi-Fi ScannerWi-Fi Be Gone (similar to TV-be-gone)Sniffing and InjectionBeacon Floods like MDKDeauthentication & DisasscoationClient monitoringWiFi IDS/IPS functionalityâ¦ other interesting applicationsThe key advantage of using the ESP8266 to recreate Wi-Fi attack/defense functionality is that anyone can now build these tools and physically deploy them in under $5 in the field! One can only imagine the kind of projects the community can create once the core code is available to modify and hack. We have also used the Arduino based platform to make it easier to work with our code. Of course, experienced developers can recreate/port this code to work with the manufacturer SDKs or with the Open ESP SDK. The code is written entirely in C.All code and scripts will be open sourced under MIT license and launched at Black Hat Asia Arsenal!
 
 </details>

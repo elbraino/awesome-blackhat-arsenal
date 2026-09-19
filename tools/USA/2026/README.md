@@ -351,7 +351,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>PwnSat 2.0: The Vulnerable Satellite Hacking Platform for Learning Through Research</strong> — Romel Marin, Eduardo Contreras</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2026  
-🔗 **Link:** [https://github.com/r0r0x-xx/PwnSat-2.0](https://github.com/r0r0x-xx/PwnSat-2.0)  
+🔗 **Link:** [https://github.com/r0r0x-xx/PWNCUBE](https://github.com/r0r0x-xx/PWNCUBE)  
 📝 **Description:** PwnSat 2.0 is an open-source, vulnerable-by-design aerospace cybersecurity platform combining a physical 1U CubeSat, a LoRa/FSK ground station, and native support for an enterprise-grade command, control, and communications environment. Where version 1.0 covered RF attacks, this release adds full-chain mission compromise: lateral movement from a compromised ground station backend to unauthorised satellite control, live exploitation of CCSDS and AX.25, firmware memory corruption on the flight computer, and telemetry stream hijacking, mapped to the SPARTA framework.
 
 </details>

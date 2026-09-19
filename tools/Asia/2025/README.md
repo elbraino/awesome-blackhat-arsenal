@@ -386,7 +386,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Falco Action to the Rescue</strong> — Stefano Chierici, Lorenzo Susini</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** Asia 2025  
-🔗 **Link:** [https://github.com/falcosecurity](https://github.com/falcosecurity)  
+🔗 **Link:** [https://github.com/falcosecurity/falco-actions](https://github.com/falcosecurity/falco-actions)  
 📝 **Description:** Falco Action integrates the Falco runtime security engine into GitHub Actions workflows to detect supply chain attacks during CI/CD execution. It monitors system calls and process behavior within workflow runners, identifying malicious activities such as secret exfiltration, unauthorized network connections, and tampered build artifacts.
 
 </details>

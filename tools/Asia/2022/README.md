@@ -52,7 +52,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Mobile App API Penetration Platform</strong> — Yifeng Zhang</summary>
 
 **Track:** Android, iOS and Mobile Hacking · **Event:** Asia 2022  
-🔗 **Link:** [https://github.com/4xyy/Mobile-Penetration-Testing-Tool](https://github.com/4xyy/Mobile-Penetration-Testing-Tool)  
+🔗 **Link:** Not Available  
 📝 **Description:** There are many protections being applied to mobile applications nowadays, and most penetration testing engineer use primitive methods to crack them. Therefore, if we can modify the data or insert the payload of the vulnerability before the protection is processed, all the protections will be transparent to the penetration testers and there will be no concern about their implementation, making app API testing purer.
 
 </details>
@@ -62,7 +62,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Rate Unlimiter</strong> — George Chen, Zheng Wei Chen</summary>
 
 **Track:** Network Attacks · **Event:** Asia 2022  
-🔗 **Link:** [https://github.com/Anirban-Majumder/rate-unlimiter](https://github.com/Anirban-Majumder/rate-unlimiter)  
+🔗 **Link:** Not Available  
 📝 **Description:** A tool designed to test and bypass rate limiting mechanisms in web applications, helping security researchers identify weaknesses in rate limit implementations.
 
 </details>
@@ -96,7 +96,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Kinstrument: Binary-Only Instrumentation Framework for Linux Kernel Based on Breakpoint</strong> — Sili Luo</summary>
 
 **Track:** Vulnerability Assessment · **Event:** Asia 2022  
-🔗 **Link:** [https://github.com/tektronix/keithley](https://github.com/tektronix/keithley)  
+🔗 **Link:** Not Available  
 📝 **Description:** For regular Linux kernels, we can use qemu or vmware, and then use gdb to debug the kernel, but for some special embedded devices, such as Android phones, it is difficult to debug and instrument the kernel. In order to debug the kernel, it often needs to recompile the kernel and use additional hardware. The characteristics of kinstrument are as follows: 1. The kernel only needs to support the insertion of the ko module, the kernel does not need to be recompiled, and no additional hardware is required. 2. Support instrumentation basic blocks, and get basic block coverage of kernel code 3. Use the breakpoint mechanism to hook and debug arbitrary instructions. Kinstrument can be used for kernel debugging and Fuzz.
 
 </details>

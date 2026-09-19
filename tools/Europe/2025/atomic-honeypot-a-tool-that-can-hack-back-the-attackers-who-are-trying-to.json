@@ -1,7 +1,7 @@
 {
   "Tool Name": "Atomic Honeypot - A Tool That Can Hack Back the Attackers Who Are Trying to Connect to Your Database",
   "Description": "Atomic Honeypot is an active defense tool that exploits vulnerabilities in MySQL and PostgreSQL client libraries to counter-attack adversaries attempting to compromise your databases. It leverages CVEs in database backup tools (mysqldump, pg_dump, pg_restore) to turn the tables on attackers, supporting both MySQL and PostgreSQL deception scenarios.",
-  "Github URL": "https://github.com/paralax/awesome-honeypots",
+  "Github URL": "",
   "Tracks": [
     "Malware Defense"
   ],

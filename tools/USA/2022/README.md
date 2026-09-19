@@ -21,7 +21,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Exploiting & Securing Trains</strong> — Amine Amri, Daniel dos Santos</summary>
 
 **Track:** Arsenal Lab · **Event:** USA 2022  
-🔗 **Link:** [https://github.com/LiuYuancheng/Railway_Control-OT-Cyber-Attack](https://github.com/LiuYuancheng/Railway_Control-OT-Cyber-Attack)  
+🔗 **Link:** Not Available  
 📝 **Description:** A city simulator with railway components that demonstrates various cyberattacks such as false data injection and blackout attacks on operational technology (OT) PLC systems, designed for cybersecurity training and research purposes.
 
 </details>
@@ -29,7 +29,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Hands-on RF Hacking 101: From Waveforms to System Takeover</strong> — Paul Clark</summary>
 
 **Track:** Arsenal Lab · **Event:** USA 2022  
-🔗 **Link:** [https://github.com/busydadsec/cyber-labs](https://github.com/busydadsec/cyber-labs)  
+🔗 **Link:** Not Available  
 📝 **Description:** A collection of hands-on cybersecurity lab materials covering RF hacking, wireless security, and SDR signal manipulation using tools like HackRF One, designed for practical training in radio frequency security assessment.
 
 </details>
@@ -87,7 +87,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>VulnLab Web Application Vulnerabilities Lab</strong> — Ahmet Emin Horasanlı, Okan Avci</summary>
 
 **Track:** Web AppSec · **Event:** USA 2022  
-🔗 **Link:** [https://github.com/marvelmachi/VulnLab](https://github.com/marvelmachi/VulnLab)  
+🔗 **Link:** [https://github.com/Yavuzlar/VulnLab](https://github.com/Yavuzlar/VulnLab)  
 📝 **Description:** VulnLab is a lab environment to learn various Web vulnerabilities and test different exploitation techniques developed with PHP and runs on Docker container. The main reason we created Vulnlab is that there are already well-known applications with similar content but these applications are getting out of date day by day. In order to solve this problem, VulnLab will be updated by our community when a new vulnerability has been found such as spring4shell or log4j. Currently, Vulnlab only includes the OWASP TOP 10 vulnerabilities.
 
 </details>
@@ -247,7 +247,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>CQPenetrationTesting Toolkit: Powerful Toolset That All Pentesters Want to Have</strong> — Paula Januszkiewicz, Mike Jankowski-Lorek</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2022  
-🔗 **Link:** [https://github.com/therealilyas/pentest-toolkit](https://github.com/therealilyas/pentest-toolkit)  
+🔗 **Link:** Not Available  
 📝 **Description:** CQ Penetration Testing Toolkit supports you in performing complex penetration tests as well as shows the ways to use them, and the situations in which they apply. It guides you through the process of gathering intel about network, workstations, and servers. Common technics for antimalware avoidance and bypass, lateral movement, and credential harvesting. The toolkit allows also for decrypting RSA keys and EFS protected files as well as blobs and objects protected by DPAPI and DPAPI-NG. This powerful toolkit is useful for those who are interested in penetration testing and professionals engaged in pen-testing working in the areas of database, system, network, or application administration. Among published presented tools are CQARPSpoofer, CQCat, CQDPAPIBlobDecrypter, CQMasterKeyDecrypt, CQReverseShellGen, and many more.
 
 </details>
@@ -263,7 +263,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>MacAttack - A Client/Server Framework with Macro Payloads for Domain Recon and Initial Access</strong> — Chris Nevin</summary>
 
 **Track:** Network Attacks · Exploitation and Ethical Hacking · **Event:** USA 2022  
-🔗 **Link:** [https://github.com/Evilvir-us/MacAttack](https://github.com/Evilvir-us/MacAttack)  
+🔗 **Link:** Not Available  
 📝 **Description:** While using macros for malicious purposes is nothing new, this tool provides a suite of payloads ideal for initial recon and footholds that will not burn other methods of attack. MacAttack is a framework that generates payloads for use in Excel and includes client/server communication to perform dynamic alterations at runtime and collate received data. The payloads included in MacAttack cover a number of areas that have not been published before, including a new stealth technique for hiding payloads, methods for retrieving a user's hash, and performing common recon/early stages attacks such as As-Rep roasting, retrieving documents, browser credentials, password spraying the domain, enumerating users, and domain fronting. The client/server communication and GUI will allow for dynamic checks such as only allowing a password spray to run once or once within a certain time period even if multiple targets enable the payload at the same time, and will provide a visual representation of the enumerated information. Part of the benefit of this tool is that this information is retrievable from a "zero foothold" position - a phishing campaign may be detected or blocked - but this does not burn any existing beacons and the potential rewards can be as great as multiple sets of credentials for users and relevant authentication portals. Microsoft are rolling out changes to macros that have still not been fully deployed by the time of the deadline - and research into these changes and impacts will be included in the discussion. It looks like these changes will only affect O365 to begin with and will include a "recommended policy" to implement.
 
 </details>
@@ -531,7 +531,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Protecting your Crypto Asset against Malicious JS Phishing</strong> — Jordan Garzon, Asaf Nadler</summary>
 
 **Track:** Network Defense · Malware Defense · **Event:** USA 2022  
-🔗 **Link:** [https://github.com/suiet/guardians](https://github.com/suiet/guardians)  
+🔗 **Link:** Not Available  
 📝 **Description:** Cryptocurrencies and NFT are taking over with predictions of 90% of the population holding at least one of them by the end of the decade. Users that want to facilitate these new assets, trade them and sell them typically do that using wallets, and in particular hot wallets that are easy-to-use. The most popular hot wallets today (e.g., MetaMask) are browser based and are thus vulnerable to phishing and scams made possible through malicious JavaScript, such as a recent campaign carried out by the Lazarus group which resulted in more than 400M$ worth of stolen cryptocurrencies. We release our internal tool used by the Security Operation and the research at Akamai to scan the JS from any website. It includes a Python recursive crawler that extracts every JS from any domain (written within the HTML or imported), analyzes it with a model and heuristics - that we provide -, and brings metadata ( from VT, publicwww…) It finally gives a score to every piece of code running on any URL of a specified domain. The code works also as a Web App and exposes a REST API as well. We will finish by presenting some real detection we caught with this tool and explaining them.
 
 </details>
@@ -645,7 +645,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>RF( Radio Frequency ) Offensive and Defense Exercise Server</strong> — Michihiro Imaoka</summary>
 
 **Track:** Hardware/Embedded · Internet Of Things · **Event:** USA 2022  
-🔗 **Link:** [https://github.com/zeetwii/RFRE](https://github.com/zeetwii/RFRE)  
+🔗 **Link:** Not Available  
 📝 **Description:** We believe that cyber security should not only cover the Internet space but also the RF (radio frequency) space. In the radio space, interception, decryption, tampering, jamming, and spoofing are actively practiced against hostile countries.　For example, the Russian Красуха-4 is a well-known electronic warfare weapon. In fact, it has a longer history than the Internet, and there is much to learn from it. However, there are not so many RF training environments that can be easily used.
 
 </details>
@@ -653,7 +653,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Wiretapping Tool to Sniff Packets Directly from LAN Cables</strong> — Michihiro Imaoka</summary>
 
 **Track:** Hardware/Embedded · Network Attacks · **Event:** USA 2022  
-🔗 **Link:** [https://github.com/bedangSen/Wireshark-Packet-Analysis](https://github.com/bedangSen/Wireshark-Packet-Analysis)  
+🔗 **Link:** Not Available  
 📝 **Description:** Wiretapping tool to sniff packets directly from LAN cables
 
 </details>
@@ -681,7 +681,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Amini Project</strong> — Salvador Mendoza</summary>
 
 **Track:** Human Factors · Hardware/Embedded · **Event:** USA 2022  
-🔗 **Link:** [https://github.com/AminiTech](https://github.com/AminiTech)  
+🔗 **Link:** Not Available  
 📝 **Description:** The AirTag IoT device is a tracking tool developed by Apple and designed to help people find misplaced objects. However, even when Apple states that AirTag technology is solely used for tracking items, a growing number of malicious individuals are taking advantage for the simplicity to install it and set up to track unaware targets, in other words, people. Amini is a specialized open-source hardware project to scan, detect, spoof, and play a sound for AirTag devices. This project is part of "Spy-wear: Misuse of Apple AirTags" research where we analyzed a privacy concern about AirTag misuse for tracking capabilities. It was designed to be implemented with Arduino environment, for flexible designs, and to be used in any Arduino-supported devices with BLE capabilities.
 
 </details>

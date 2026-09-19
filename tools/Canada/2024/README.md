@@ -27,7 +27,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Zentaris Attack Path Risk Categorization Using Hypergraphs</strong> — Sai Sitharaman</summary>
 
 **Track:** Cloud Security · Vulnerability Assessment · **Event:** Canada 2024  
-🔗 **Link:** [https://github.com/zetafence](https://github.com/zetafence)  
+🔗 **Link:** [https://github.com/zetafence/zentaris](https://github.com/zetafence/zentaris)  
 📝 **Description:** A cloud security tool from Zetafence that analyzes and categorizes attack paths in cloud environments using hypergraph-based risk assessment to identify and prioritize security vulnerabilities.
 
 </details>
@@ -45,7 +45,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Hands-on RF Hacking: Your Table is (always) Ready</strong> — Paul Clark</summary>
 
 **Track:** Arsenal Lab · Reverse Engineering · **Event:** Canada 2024  
-🔗 **Link:** [https://github.com/busydadsec/cyber-labs](https://github.com/busydadsec/cyber-labs)  
+🔗 **Link:** Not Available  
 📝 **Description:** A collection of hands-on cybersecurity labs focused on RF hacking, Wi-Fi exploitation, SDR (HackRF), mobile forensics, and Android app testing conducted in isolated lab environments for educational purposes.
 
 </details>
@@ -237,7 +237,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Continuously Correlate & Contextualize ALL Alerts, Events & Logs</strong> — Ezzeldin Tahoun, Lynn Hamida, Nidheesh Panchal, Kevin Shi</summary>
 
 **Track:** Data Forensics/Incident Response · AI, ML & Data Science · **Event:** Canada 2024  
-🔗 **Link:** [https://github.com/Dan-Duran/mitre-attack-mapper](https://github.com/Dan-Duran/mitre-attack-mapper)  
+🔗 **Link:** Not Available  
 📝 **Description:** Using correlation and clustering models, turn tons of alerts into mitre attack flows. The model finds the attack flows, using its ability to evaluate alerts temporal proximity, kill chain sequentiality, shared entities and similar attributes to other alerts of interest, among others. In real time this model can save your operations endless hours of correlating incidents and finding noteworthy attack flows, that if not detected in time would lead to breaches.
 
 </details>
@@ -281,7 +281,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>3P Data Risk Metric (3PDRM)</strong> — Thomas Lee</summary>
 
 **Track:** AI, ML & Data Science · Vulnerability Assessment · **Event:** Canada 2024  
-🔗 **Link:** [https://github.com/mit-drl/pyrmm](https://github.com/mit-drl/pyrmm)  
+🔗 **Link:** Not Available  
 📝 **Description:** A Python library for developing neural network models that predict risk metrics such as probability of failure for kinodynamic systems, enabling risk prediction for autonomous systems operating in complex environments.
 
 </details>

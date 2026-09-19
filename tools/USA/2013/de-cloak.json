@@ -1,7 +1,7 @@
 {
   "Tool Name": "De-Cloak",
   "Description": "De-Cloak is designed to extract HTTP user agents from PCAP files and store known user agents in a database. Hackers often hide wget or http requests by using known user agents. However, if we change our own user agents (perhaps via a GPO) we can start to investigate what starts to stand out. Simple but effective.",
-  "Github URL": "https://github.com/sandflysecurity/sandfly-file-decloak",
+  "Github URL": "",
   "Tracks": [
     "Network Defense"
   ],

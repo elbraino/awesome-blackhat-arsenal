@@ -62,7 +62,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>CloudSec Navigator</strong> — Takuho MITSUNAGA, Koki Watarai, Satoshi OKADA, Ruka NEGISHI</summary>
 
 **Track:** Web AppSec · **Event:** Asia 2024  
-🔗 **Link:** [https://github.com/eshlomo1/CloudSec](https://github.com/eshlomo1/CloudSec)  
+🔗 **Link:** Not Available  
 📝 **Description:** Security incidents on cloud platforms such as AWS are occurring frequently, and many of them are caused by misconfigurations or inappropriate use of features. For the purpose of incident prevention, developers need to read a large amount of documentation, including important security guidelines and best practices. The tool uses Retrieval-Augmented Generation (RAG) and Large Language Models (LLM) vector searches to provide highly accurate, customized security advice and referenced guidelines based on the information retrieved. and best practices information. This allows developers to focus on more efficient and secure software development instead of reading large amounts of documentation.
 
 </details>
@@ -136,7 +136,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Monitoring and Detecting Leaks with GitAlerts</strong> — Nikhil Mittal</summary>
 
 **Track:** Code Assessment · **Event:** Asia 2024  
-🔗 **Link:** [https://github.com/falcosecurity/falco](https://github.com/falcosecurity/falco)  
+🔗 **Link:** Not Available  
 📝 **Description:** Most organisations put significant effort into maintaining their public GitHub repositories. They safeguard these repositories against various security vulnerabilities and routinely scan for sensitive information, ensuring thorough checks have been carried out before making anything public. However, an aspect that is often overlooked is the monitoring of the public activities of their organisation's users. Developers within organisations frequently experiment and test ideas in a public setting, which may inadvertently include sensitive code, hardcoded credentials, secrets, internal URLs, and other proprietary information. This oversight can lead to significant security risks, making it crucial for organisations to monitor such activities to prevent potential data breaches. Recent studies on data breaches reveal a startling trend. The leakage of secrets and sensitive information often occurs via individual repositories, rather than organisational ones. This fact underscores the importance of monitoring not just the organisation's repositories but also those created and maintained by individual users. This talk aims to shed light on such cases related to GitHub. We will delve into real-world examples, discuss the common pitfalls, and suggest effective strategies to guard against these potential security risks.
 
 </details>
@@ -296,7 +296,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>DetectiveSQ: A Extension Auditing Framework Version 2</strong> — Govind Krishna Lal Balaji, Xian Xiang Chang</summary>
 
 **Track:** Vulnerability Assessment · **Event:** Asia 2024  
-🔗 **Link:** [https://github.com/Phospheneser/DetectiveQA](https://github.com/Phospheneser/DetectiveQA)  
+🔗 **Link:** Not Available  
 📝 **Description:** In the modern digital realm, internet browsers, particularly Chrome, have transcended traditional boundaries, becoming hubs of multifunctional extensions that offer everything from AI-integrated chatbots to sophisticated digital wallets. This surge, however, comes with an underbelly of cyber vulnerabilities. Hidden behind the guise of innovation, malicious extensions lurk, often camouflaged as benign utilities. These deceptive extensions not only infringe upon user privacy and security but also exploit users with unasked-for ads, skewed search results, and misleading links. Such underhanded strategies, targeting the unsuspecting user, have alarmingly proliferated. In this talk, we will introduce DetectiveSQ Version 2, an enhanced tool revolutionizing the analysis of Chrome extensions. Building on its proven foundation, it now features integrated AI and GPT models for dynamic analysis, sentiment analysis, and sophisticated static analysis capabilities for permissions, local JavaScript, and HTML files. This dual approach offers a comprehensive evaluation, pinpointing potential security and privacy risks within extensions. DetectiveSQ Version 2 will be open source and made available after the talk.
 
 </details>
@@ -362,7 +362,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Connect to any device from anywhere with ZERO OPEN NETWORK PORTS</strong> — Colin Constable</summary>
 
 **Track:** Network Defense · **Event:** Asia 2024  
-🔗 **Link:** [https://github.com/cconstab](https://github.com/cconstab)  
+🔗 **Link:** [https://github.com/atsign-foundation/noports](https://github.com/atsign-foundation/noports)  
 📝 **Description:** Imagine connecting to a device remotely from anywhere on the planet without having to open any network ports on either end - that translates to having ZERO NETWORK ATTACK SURFACES. This is made possible with Atsign's open source No Ports Product suite which is build on the patented Networking 2.0 technology.
 
 </details>
@@ -370,7 +370,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Deceptively Adaptive Honey Net (dahn)</strong> — George Chen, Chee Peng Tan, Ri-Sheng Tan</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** Asia 2024  
-🔗 **Link:** [https://github.com/victorkvor/honeynet-vs-deception_technologies](https://github.com/victorkvor/honeynet-vs-deception_technologies)  
+🔗 **Link:** [https://github.com/geo-chen/dahn](https://github.com/geo-chen/dahn)  
 📝 **Description:** Traditional honey nets offer static infrastructure and static responses. In DAHN, the infrastructure is abstracted, with lambda/gpt API (prompts stipulated) returning seemingly native responses to the threat actor, depending on the complexity index defined by the administrator. In other words, responses are dynamically crafted to entrap and retain threat actors, internal and external, in this environment for as long as possible, giving them a balance of false hope and realistic obstacles as they pass through our simulated layers of defense. Our AI-powered honey net mimics a given corporate environment to create a fictitious digital twin and embeds a controlled-level of simulated vulnerabilities/weaknesses to attract, distract, learn from, and attribute threat actors. The outputs are decoys, diversion, fingerprints, IoCs and IoAs, attributes, TTPs and behaviors, and used to augment threat detection and cyber defense strategies.
 
 </details>

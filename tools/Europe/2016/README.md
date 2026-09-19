@@ -23,7 +23,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>From XSS to RCE 2.5</strong> — Hans-Michael Varbaek</summary>
 
 **Track:** Web AppSec · **Event:** Europe 2016  
-🔗 **Link:** [https://github.com/xapax/xss-to-rce](https://github.com/xapax/xss-to-rce)  
+🔗 **Link:** [https://github.com/Varbaek/xsser](https://github.com/Varbaek/xsser)  
 📝 **Description:** This presentation demonstrates how an attacker can utilise XSS to execute arbitrary code on the web server when an administrative user inadvertently triggers a hidden XSS payload. Custom tools and payloads integrated with Metasploit's Meterpreter in a highly automated approach will be demonstrated live, including post-exploitation scenarios and interesting data that can be obtained from compromised web applications. This version includes cool notifications and new attack vectors!
 
 </details>
@@ -47,7 +47,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Yaps</strong> — Fabio Nigi</summary>
 
 **Track:** Web AppSec · **Event:** Europe 2016  
-🔗 **Link:** [https://github.com/nickguitar/yaps](https://github.com/nickguitar/yaps)  
+🔗 **Link:** Not Available  
 📝 **Description:** The number one security hole is a weak password. Companies are growing without a complete control over exposed services; most of the servers are deployed with default password. Most of the tools today are single host-based, without competing on a cloud/global environment. Configuration and deployment are getting faster -all the services are going in pipeline with automation and scalability focus. Infosec tools need to evolve. The project goal of Yaps *yet another password scanner:*Create a new scanner to work in pipeline with nmap and other source (json, xml, csv) port mapper and enable a scalable full feature weak password scanner, analyse in a flow the port, create a history status based on the history of scan and result, evade incidents and avoid stressful and lockdown test on production servers and giving the users full flexibility to decrease false positive reports. Highly scalable container based (docker, mesos, chronos, python)Modular concept with multi protocol support and fully automated.
 
 </details>
@@ -65,7 +65,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Nmap on Android</strong> — Vlatko Kosturjak</summary>
 
 **Track:** Android, iOS and Mobile Hacking · **Event:** Europe 2016  
-🔗 **Link:** [https://github.com/ssoo2024/NmapOnAndroid](https://github.com/ssoo2024/NmapOnAndroid)  
+🔗 **Link:** [https://github.com/kost/nmap-android](https://github.com/kost/nmap-android)  
 📝 **Description:** Network Mapper is Android frontend for well known Nmap scanner. Frontend will help you to download, install and run Nmap on Android-based phone. It is also a collection of tools to build all known Android architectures: arm, mips and x86 in 32/64 bit architectures. Shiny new 2.0 release will be presented with easy interface and mobile specific scans.
 
 </details>
@@ -107,7 +107,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>WarBerryPi</strong> — Yiannis Ioannides</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** Europe 2016  
-🔗 **Link:** [https://github.com/readloud/WarberryPi](https://github.com/readloud/WarberryPi)  
+🔗 **Link:** [https://github.com/secgroundzero/warberry](https://github.com/secgroundzero/warberry)  
 📝 **Description:** What if the only requirements for taking down a corporate network are 60 minutes and $35? Traditional hacking techniques and corporate espionage have evolved. Advanced attacks nowadays include a combination of social engineering, physical security penetration and logical security hacking. It is our job as security professionals to think outside the box and think about the different ways that hackers might use to infiltrate corporate networks. The WarBerry is a customized RaspBerryPi hacking dropbox which is used in Red Teaming engagements with the sole purpose of performing reconnaissance and mapping of an internal network and providing access to the remote hacking team while remaining covert and bypassing security mechanisms. The outcome of these red teaming exercises is the demonstration that if a low cost microcomputer loaded with python code can bypass security access controls and enumerate and gather such a significant amount of information about the infrastructure network which is located at, then what dedicated hackers with a large capital can do is beyond conception. The talk will be comprised of slides and a demonstration of the WarBerry's capabilities in a virtual network.
 
 </details>
@@ -117,7 +117,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Automated Vulnerability Assessment & Penetration Testing Tool</strong> — Shaan Mulchandani, Ravi Keerthi</summary>
 
 **Track:** Vulnerability Assessment · **Event:** Europe 2016  
-🔗 **Link:** [https://github.com/OWASP/Nettacker](https://github.com/OWASP/Nettacker)  
+🔗 **Link:** Not Available  
 📝 **Description:** As application, network, and product complexity grow, so do the attack surface and likelihood of vulnerabilities. Highly-skilled pen testers do not scale exponentially, and findings don't make it into secure coding practices or DevOps overnight. How can we enable pen testers to focus on what matters: adversary-oriented penetration testing to detect the most difficult vulnerabilities and exploits? What correlations exist between successful exploits and underlying application or network characteristics? And how can we ensure findings actually make it back into the development lifecycle in a meaningful way?Our research, and Python-based VAPT framework seeks to address these questions, and automates certain tasks to assist pen testers:For each application or network update, network reconnaissance and application/network vulnerability assessments are performed using NMap, Nessus, OpenVAS, and W3AFIdentified vulnerabilities, and their CVEs, are used for retrieving relevant exploits from ExploitDBPenetration tests are performed using W3AF and MetasploitResults obtained at each stage are stored and correlated as part of a (Neo4j-based) knowledge graph, which can be maintained across several (application) releases and tool runs. This allows for:Pen Testers to easily visualize vulnerabilities discovered, and successful/failed exploits - in order to rapidly gain context of additional potential exploits that may be run or vulnerabilities that may be discoverable through sophisticated, manual techniquesDevelopers to visualize vulnerabilities that are persistent across multiple parts of their product/application, and/or across multiple successive releasesWe will demo this initial version at Arsenal, however the extensible nature of our framework allows for integration of additional vulnerability assessment & penetration testing tools or (pre-deployment) code security review tools and their findings as well.
 
 </details>
@@ -151,7 +151,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Offense and Defense Toolkits in High/Low Frequency</strong> — Haoqi Shan, Yunding Jian, YANG Qing</summary>
 
 **Track:** Hardware/Embedded · **Event:** Europe 2016  
-🔗 **Link:** [https://github.com/pugazh342/SOC-toolkit](https://github.com/pugazh342/SOC-toolkit)  
+🔗 **Link:** Not Available  
 📝 **Description:** RFID and contact-less smart cards have become pervasive technologies nowadays. IC/RFID cards are generally used in security systems such as airport and military bases that require access control. This presentation introduces the details of contact-less card security risk firstly, then the principles of low frequency(125KHz) attack tool, HackID Pro, will be explained. This tool contains an Android App and a hardware which can be controlled by your phone. HackID Pro can emulate/clone any low frequency IC card to help you break into security system, just type few numbers on your phone. After 125KHz, this presentation will show you how to steal personal information from EMV bank card, whose carrier frequency is high frequency, 13.56MHz, just sitting around you. In the end, our defense tool, Card Defender, will be dissected to explain how this product can protect your card and information in both high/low frequencies. And a little bit tricks that this defense tool can make. This presentation includes three demonstrations. The first demonstration will show how we can use the self-made hardware, HackID Pro, to clone and emulate common seen low frequency ID card, different from the hardware we used - HackID Pro contains an Android App and a module which inject into your phone by audio interface. Second, we will show people how to steal people's privacy information from their EMV card, just walked by them. Finally, we introduce how can we protect that information by our defense tool, Card Defender, and we will explain the principle detailed. This toolkit is developed by Qihoo 360 UnicornTeam, which has many genius hardware/wireless security researcher. UnicornTeam focuses on embedded device vulnerability mining, 2/3/4G communication security, GPS signal faking, smart car security, etc. Members of UnicornTeam also had presentations on DEFCON, Black Hat, Cansecwest, Ruxcon, HITB, Syscan360 and some other international security conference.
 
 </details>

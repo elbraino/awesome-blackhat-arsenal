@@ -1,7 +1,7 @@
 {
   "Tool Name": "Packet Carving for SATCOMs Hackers",
   "Description": "Tools for satellite communications security research, including GSExtract for converting satellite radio captures of internet traffic using Generic Stream Encapsulation (GSE) over DVB-S into usable pcap files.",
-  "Github URL": "https://github.com/pavja2",
+  "Github URL": "https://github.com/ssloxford/gsextract",
   "Tracks": [
     "Arsenal Lab"
   ],

@@ -1,7 +1,7 @@
 {
   "Tool Name": "RIoTPot: A Modular Hybrid-Interaction IoT/OT Honeypot",
   "Description": "A modular hybrid-interaction honeypot focused on emulating IoT and OT protocols, functioning as a proxy service that routes incoming attacks to various internal and external honeypot services.",
-  "Github URL": "https://github.com/honeynet/riotpot",
+  "Github URL": "https://github.com/aau-network-security/riotpot",
   "Tracks": [
     "Malware Defense"
   ],

@@ -43,7 +43,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Horus - Binary Library Security Scanning Engine</strong> — Qin Chen, Jiashui Wang</summary>
 
 **Track:** Android, iOS and Mobile Hacking · **Event:** Asia 2018  
-🔗 **Link:** [https://github.com/projecthorus](https://github.com/projecthorus)  
+🔗 **Link:** Not Available  
 📝 **Description:** Horus is a scanning engine for mobile security mainly used to detect security risks of binary library, including detection of binary vulnerabilities and malicious behavior. Horus is currently used within Alipay Inc. It is designed as a rule-based framework. As many mobile apps use a large number of third-party libraries - such as libopenssl, libffmpeg and so on - Horus supports security detection of various types of binary libraries. New product or new task connects to it by calling the interface. By adding and removing defined rules (CVE,patch,txt), the user will get a distribution or matching statistic for vulnerability, backdoor or malicious activity, etc. Now,It matches rules at different level: binary function level, binary pattern level and binary instruction level. Horus has resolved thousands of application security risks and help us improve the security of applications effectively and reliably. We want to open this security scanning engine through Arsenal. We hope to improve matching algorithms and performance of Horus in the future with more ai power inside. We also hope more and more security developers can work together to improve Horus.
 
 </details>
@@ -101,7 +101,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Trape: The Phishing Evolution</strong> — Jose Pino, Jhonathan Espinosa</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** Asia 2018  
-🔗 **Link:** [https://github.com/GNOME/libsoup](https://github.com/GNOME/libsoup)  
+🔗 **Link:** [https://github.com/jofpin/trape](https://github.com/jofpin/trape)  
 📝 **Description:** Trape is a recognition tool that allows you to track people and make phishing attacks in real time; the information you can get is very detailed. The objective is to teach the world the possible outcomes through this strategy -- the big Internet companies could be monitoring you, getting information beyond your IP, such as the sessions of your sites or Internet services.
 
 </details>
@@ -161,7 +161,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>WiPi-Hunter - Detects Illegal Wireless Network Activities</strong> — Mehmet Kutlay Kocer, Besim Altinok</summary>
 
 **Track:** Network Defense · **Event:** Asia 2018  
-🔗 **Link:** [https://github.com/xcod3/WiPi-Hunter-ToolKit](https://github.com/xcod3/WiPi-Hunter-ToolKit)  
+🔗 **Link:** [https://github.com/WiPi-Hunter](https://github.com/WiPi-Hunter)  
 📝 **Description:** WipiHunter is developed for detecting illegal wireless network activities; howver, it shouldn't be seen only as a piece of code. Instead, actually it is a philosophy. You can infer from this project new wireless network illegal activity detection methods. New methods, new ideas and different point of views can be obtained from this project. Example: WiFi Pineapple attacks, Fruitywifi, mana-toolkit, karma attack. WiPi-Hunter Modules:PiSavar: Detects activities of PineAP module and starts deauthentication attack (for fake access points - WiFi Pineapple Activities Detection)PiFinger: Searches for illegal wireless activities in networks you are connected and calculate wireless network security score (detect wifi pineapple and other fakeAPs)PiDense: Monitor illegal wireless network activities. (Fake Access Points)PiKarma: Detects wireless network attacks performed by KARMA module (fake AP). Starts deauthentication attack (for fake access points)PiNokyo: If threats like wifi pineapple attacks or karma attacks are active around, users will be informed about these threats.
 
 </details>

@@ -171,7 +171,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Use opensource AI to map alerts & logs into techniques, clusters, and killchains</strong> — AHMAD FOUAD, EZZ TAHOUN</summary>
 
 **Track:** AI, ML & Data Science · **Event:** MEA 2024  
-🔗 **Link:** [https://github.com/keephq/keep](https://github.com/keephq/keep)  
+🔗 **Link:** Not Available  
 📝 **Description:** An open-source AIOps and alert management platform that centralizes alerts from 100+ monitoring tools, provides AI-powered correlation and deduplication, and enables workflow automation for incident response.
 
 </details>

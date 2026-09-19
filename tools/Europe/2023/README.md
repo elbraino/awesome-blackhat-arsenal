@@ -36,7 +36,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Rapid Fire: Flipper vs. All the Things</strong> — Pavlo Zhovner</summary>
 
 **Track:** Arsenal Lab · **Event:** Europe 2023  
-🔗 **Link:** [https://github.com/justcallmekoko/xboxonerapidfire](https://github.com/justcallmekoko/xboxonerapidfire)  
+🔗 **Link:** [https://github.com/flipperdevices/flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)  
 📝 **Description:** Arduino/ATtiny85-based rapid fire modification device for Xbox One controllers, demonstrated alongside Flipper Zero hardware hacking capabilities.
 
 </details>
@@ -62,7 +62,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Security Attacks as Software Tests: Building dev-oriented AppSec challenges with Play open source SDK</strong> — Pedram Hayati</summary>
 
 **Track:** Web AppSec · Vulnerability Assessment · **Event:** Europe 2023  
-🔗 **Link:** [https://github.com/CreateWithPlayApp/PlaySDK](https://github.com/CreateWithPlayApp/PlaySDK)  
+🔗 **Link:** [https://github.com/secdim/play-sdk](https://github.com/secdim/play-sdk)  
 📝 **Description:** This talk focuses on the unique process of transforming security attacks into software tests for building secure programming challenges using an open-source SDK, 'Play'. A practical workshop where we explore the mechanics of choosing real-world-inspired security vulnerabilities, and transforming them into cloud-native apps with integrated security tests which can then be played as challenges. These challenge provides a new dimension to the traditional Capture The Flag experiences, emphasizing not just the identification but the remediation of vulnerabilities
 
 </details>
@@ -90,7 +90,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>AndroCop: One Click Forensic Investigation & Data Extraction Tool</strong> — Abhinand N, Aswin M Guptha, Varun Nair</summary>
 
 **Track:** Android, iOS and Mobile Hacking · Data Forensics/Incident Response · **Event:** Europe 2023  
-🔗 **Link:** [https://github.com/scorelab/ANDROPHSY](https://github.com/scorelab/ANDROPHSY)  
+🔗 **Link:** Not Available  
 📝 **Description:** AndroCop is a powerful and streamlined tool for in-depth forensic analysis and data extraction from Android devices, delivering rapid insights and efficient data export. The application, written in Java, streamlines the process of forensic investigation and data retrieval, eliminating the need for external utilities. With a single click, AndroCop aggregates and exports a diverse array of data, encompassing call records, text messages, contacts, application usage records, device information, image captures, and screenshots. The tool enriches forensic investigation by facilitating the identification of potentially harmful Android applications, deciphering app usage patterns, extracting valuable call history insights, and revealing visited locations. Moreover, AndroCop helps users to export forensic findings and data in multiple formats such as PDFs, XLSX spreadsheets, and CSV files. All the gathered information, along with images and other related data, will be consolidated into a singular ZIP file, streamlining the process of smooth data transmission. The gathered content is placed in the AndroCop directory within the internal storage, prepared for effortless transfer whenever required. AndroCop is also designed to be user-friendly, with a simple and intuitive interface that makes it easy to use for both novice and experienced users. It helps users quickly extract and analyze data from Android devices, making it an important addition to any forensic investigator's toolkit.
 
 </details>
@@ -100,7 +100,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>!CVE: A New Platform for Unacknowledged Cybersecurity !Vulnerabilities</strong> — Hector Marco, Samuel Arevalo</summary>
 
 **Track:** OSINT - Open Source Intelligence · Vulnerability Assessment · **Event:** Europe 2023  
-🔗 **Link:** [https://github.com/cveproject](https://github.com/cveproject)  
+🔗 **Link:** [https://www.notcve.org/](https://www.notcve.org/)  
 📝 **Description:** In the ever-evolving cybersecurity landscape, the identification and acknowledgment of vulnerabilities through the Common Vulnerabilities and Exposures (CVE) system play a crucial role. However, vendor discretion in determining whether a security issue warrants a CVE assignment often results in overlooked vulnerabilities that pose significant risks. This presentation introduces the !CVE initiative, a groundbreaking platform that addresses this critical gap by identifying, tracking, and sharing unacknowledged cybersecurity vulnerabilities. Our presentation begins with an overview of the CVE system and the challenges security researchers face in dealing with unacknowledged vulnerabilities. We discuss real-world examples of security issues ignored by vendors and explore the potential consequences of these hidden threats. We then delve into the !CVE platform, detailing its mission, features, and collaborative approach to empower the security community. Through case studies, we demonstrate the value of the !CVE initiative in strengthening the cybersecurity ecosystem, highlighting the significance of addressing vulnerabilities not recognized by vendors. We also showcase the reporting process, expert panel, and public availability of !CVE reports, fostering a transparent and inclusive environment for vulnerability tracking and sharing. Join us in exploring the world of unacknowledged cybersecurity vulnerabilities and learn how the !CVE initiative is bridging the gap between vendor discretion and community-driven security efforts. By raising awareness and fostering collaboration, we can create a more secure and resilient digital landscape for all.
 
 </details>
@@ -134,7 +134,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>CQPenetrationTesting Toolkit: A Powerful Toolset That All Pentesters Want to Have</strong> — Paula Januszkiewicz, Mike Jankowski-Lorek</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** Europe 2023  
-🔗 **Link:** [https://github.com/therealilyas/pentest-toolkit](https://github.com/therealilyas/pentest-toolkit)  
+🔗 **Link:** Not Available  
 📝 **Description:** CQ Penetration Testing Toolkit supports you in performing complex penetration tests, shows you their possible application, and highlights the situations in which they apply. It guides you through the process of gathering intel about network, workstations, and servers, and showcases common techniques for antimalware avoidance and bypass, lateral movement, and credential harvesting. The toolkit also allows decrypting RSA keys and EFS-protected files as well as blobs and objects protected by DPAPI and DPAPI NG. This powerful toolkit is useful for those who are interested in penetration testing and professionals engaged in pen-testing who work in the areas of databases, systems, networks, or application administration.
 
 </details>
@@ -246,7 +246,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>When World War II meets CDNs: A New Class of Pulsing DDoS Attack</strong> — Jianjun Chen, Run Guo, Yihang Wang, Keran Mu, Baojun Liu, Xiang Li, Chao Zhang, Haixin Duan, Jianping Wu</summary>
 
 **Track:** Network Attacks · Web AppSec · **Event:** Europe 2023  
-🔗 **Link:** [https://github.com/ydj0604/Content-Distribution-Network](https://github.com/ydj0604/Content-Distribution-Network)  
+🔗 **Link:** Not Available  
 📝 **Description:** Content Delivery Networks (CDNs) are commonly believed to offer their customers protection against denial of service (DoS) attacks. However, our research reveals a novel architecture vulnerability in CDNs, enabling attackers to turn globally distributed CDN Infrastructure into powerful DDoS amplifiers. In this talk, we draw the analogy to a military tactic used in World War II and introduce a new class of pulsing denial-of-service attacks. We demonstrate how CDNs can be exploited to concentrate low-rate attacking requests into short, high-bandwidth pulse waves, resulting in a pulsing DDoS attack to saturate targeted TCP services periodically. We tested five leading CDN vendors and found all of them are susceptible to this attack. By mounting an attack against our own Web site, we show that attackers can use it to achieve peak bandwidths over 1000 times greater than their upload bandwidth, seriously degrading the performance and availability of target services. We have reported our findings to all tested CDNs and received positive feedback. As this problem is rooted in the inherent nature of CDN forwarding networks, it is difficult to eliminate entirely. We discuss possible mitigation strategies for this emerging threat. We believe it is important that CDN operators and their customers be aware of this attack so that they can protect themselves accordingly.
 
 </details>
@@ -256,7 +256,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Artificial Intelligence Phishing Email Detector</strong> — Waqar Ahmed</summary>
 
 **Track:** Vulnerability Assessment · Human Factors · **Event:** Europe 2023  
-🔗 **Link:** [https://github.com/Click2Hack/Phishing-Email-Detection-Using-Machine-Learning](https://github.com/Click2Hack/Phishing-Email-Detection-Using-Machine-Learning)  
+🔗 **Link:** Not Available  
 📝 **Description:** An artificial intelligence-based phishing email detector that analyses emails and its content, vocabulary, sender, subject etc and detects if it's a phishing email even if it was not flagged as one by an email gateway based on the analysis of collection of phishing emails.
 
 </details>
@@ -264,7 +264,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Attack Knowledge Base for Automotive</strong> — Tien-Chih Lin</summary>
 
 **Track:** Vulnerability Assessment · Internet Of Things · **Event:** Europe 2023  
-🔗 **Link:** [https://github.com/IEEM-HsKA/AAD](https://github.com/IEEM-HsKA/AAD)  
+🔗 **Link:** Not Available  
 📝 **Description:** Ensuring cybersecurity in the automotive sector is more crucial than ever, especially with the rising intricacies and susceptibilities of vehicle-connected systems. The ISO/SAE 21434 standard serves as a beacon in this endeavor. However, compliance with this standard reveals discernible information disparities across its V-model phases: Concept & Design, Implementation, and Verification & Validation. Addressing these gaps is paramount for cohesive vehicle cybersecurity. To tackle these hurdles, we introduce the "Attack Knowledge Base for Automotive." Inspired and aligned with the ATT&CK framework, this tool aids in seamless compliance with the ISO/SAE 21434 standard. We will demonstrate its efficacy in delivering a thorough and objective outcome during Threat Analysis and Risk Assessment (TARA). Moreover, it bridges information lacunas across the lifecycle, enabling the red team to synergize insights from earlier stages with our Attack Knowledge Base, ensuring holistic automotive cybersecurity.
 
 </details>
@@ -296,7 +296,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>DetectiveSQ: A Extension Auditing Framework</strong> — Jeswin Mathai, Shourya Pratap Singh</summary>
 
 **Track:** Vulnerability Assessment · Code Assessment · **Event:** Europe 2023  
-🔗 **Link:** [https://github.com/Phospheneser/DetectiveQA](https://github.com/Phospheneser/DetectiveQA)  
+🔗 **Link:** Not Available  
 📝 **Description:** In the modern digital realm, internet browsers, particularly Chrome, have transcended traditional boundaries, becoming hubs of multifunctional extensions that offer everything from AI-integrated chatbots to sophisticated digital wallets. This surge, however, comes with an underbelly of cyber vulnerabilities. Hidden behind the guise of innovation, malicious extensions lurk, often camouflaged as benign utilities. These deceptive extensions not only infringe upon user privacy and security but also exploit users with unasked-for ads, skewed search results, and misleading links. Such underhanded strategies, targeting the unsuspecting user, have alarmingly proliferated. Addressing this conundrum, we present DetectiveSQ - an advanced command-line interface designed to rigorously audit Chrome extensions. At its core, DetectiveSQ is engineered to be compatible with both Manifest V2 (MV2) and Manifest V3 (MV3) architecture, ensuring a wide-ranging applicability across extensions of different generations. Through an intricate examination of permissions - delving deep into how they're invoked and utilized within the extension's codebase - DetectiveSQ brings forth potential security and privacy breaches. The tool not only assesses permissions but also correlates them with actual behaviors, scripts, and external calls, offering a holistic evaluation. DetectiveSQ will be open source and made available after the talk.
 
 </details>
@@ -320,7 +320,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>OpenSecDevOps (OSDO)</strong> — Rafael Otal Simal, Antonio Jose Juanilla Hernandez</summary>
 
 **Track:** Vulnerability Assessment · Code Assessment · **Event:** Europe 2023  
-🔗 **Link:** [https://github.com/opendevsecops](https://github.com/opendevsecops)  
+🔗 **Link:** [https://github.com/opensecdevops](https://github.com/opensecdevops)  
 📝 **Description:** Join us to easily build a fortified software development lifecycle (SDLC) using open source tools. Find out how these powerful resources can improve the security of your software applications and improve your development process. We'll explore popular open source tools like Gitlab, Harbor, defectdojo... Seamlessly integrating them into your workflow to enforce strong security policies, detect vulnerabilities, and ensure compliance with industry best practices. Through hands-on exercises and real-world examples, you'll learn how to mitigate security risks, harden your code, and adopt security best practices, resulting in secure, scalable, and resilient software applications. Don't miss this transformative opportunity to unlock the potential of open source tools in your SDLC and strengthen your organization's overall security posture. All the information will be published on opensecdevops.com for the community to use and improve on the day of the presentation, in addition to integrating the different tools, an app will be shown to facilitate said integration according to your needs.
 
 </details>
@@ -418,7 +418,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>SSH into any device from anywhere with ZERO Open Network ports</strong> — Colin Constable, Anthony Prakash</summary>
 
 **Track:** Network Defense · **Event:** Europe 2023  
-🔗 **Link:** [https://github.com/shellhub-io/shellhub](https://github.com/shellhub-io/shellhub)  
+🔗 **Link:** [https://github.com/atsign-foundation/noports](https://github.com/atsign-foundation/noports)  
 📝 **Description:** SSH to Any Device with No Ports Open Make your devices reachable while eliminating network attack surfaces & reducing administrative overhead. Atsign's patent pending core technology is engineered to deliver the following benefits: Addressability Atsign's core technology uses identifiers which replace the need to manage IP addresses. If you remember the atSign (Atsign's version of an address), you can look up the IP address and port in the atDirectory which manages this information for you. Reachability ‍Atsign's core technology provides each device with its own microserver which makes it reachable from anywhere on the internet. No open ports (no network attack surface) on the device Connections are always made from the device to the microserver, meaning that no ports ever need to be opened on devices using this technology. End-to-end encrypted Information is automatically encrypted on the edge devices before it is sent over Atsign's control plane. Zero Trust Atsign's technology is designed such that cryptographic keys are only stored at the edge device. No third party or intermediary ever possesses the decryption keys which are required to access the information. You don't need to trust any of the microservers, because they never see information in the clear. In other words, sending information using Atsign's control plane requires no open ports and is fully edge-to-edge encrypted, all without needing to know the IP address of the device!
 
 </details>

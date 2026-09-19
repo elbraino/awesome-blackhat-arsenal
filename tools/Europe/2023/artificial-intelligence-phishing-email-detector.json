@@ -1,7 +1,7 @@
 {
   "Tool Name": "Artificial Intelligence Phishing Email Detector",
   "Description": "An artificial intelligence-based phishing email detector that analyses emails and its content, vocabulary, sender, subject etc and detects if it's a phishing email even if it was not flagged as one by an email gateway based on the analysis of collection of phishing emails.",
-  "Github URL": "https://github.com/Click2Hack/Phishing-Email-Detection-Using-Machine-Learning",
+  "Github URL": "",
   "Tracks": [
     "Vulnerability Assessment",
     "Human Factors"

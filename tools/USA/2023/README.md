@@ -48,7 +48,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>AI Risky Business: Hands-on AI Payload Analysis</strong> — Hyrum Anderson, Sagar Samtani, Christina Liaghati</summary>
 
 **Track:** Arsenal Lab · Vulnerability Assessment · **Event:** USA 2023  
-🔗 **Link:** [https://github.com/aliasrobotics/cai](https://github.com/aliasrobotics/cai)  
+🔗 **Link:** Not Available  
 📝 **Description:** A lightweight, open-source framework that empowers security professionals to build and deploy AI-powered offensive and defensive automation, enabling users to create specialized AI agents for vulnerability discovery, exploitation, and security assessment.
 
 </details>
@@ -56,7 +56,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Hands-on RF Hacking: Your Table is (always) Ready</strong> — Paul Clark</summary>
 
 **Track:** Arsenal Lab · **Event:** USA 2023  
-🔗 **Link:** [https://github.com/busydadsec/cyber-labs](https://github.com/busydadsec/cyber-labs)  
+🔗 **Link:** Not Available  
 📝 **Description:** A collection of hands-on cybersecurity lab materials covering RF hacking, wireless security, and SDR signal manipulation using tools like HackRF One, designed for practical training in radio frequency security assessment.
 
 </details>
@@ -130,7 +130,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Swimming with the (Data)Flow – Analyzing & Visualizing Web Application Data Flows for Enhanced Penetration Testing</strong> — Florian Haag, Henry Wischerath, Matthias Göhring</summary>
 
 **Track:** Web AppSec · **Event:** USA 2023  
-🔗 **Link:** [https://github.com/Azure/SWIMDataIngestion](https://github.com/Azure/SWIMDataIngestion)  
+🔗 **Link:** Not Available  
 📝 **Description:** Imagine pentesting a large web application with hundreds of pages and forms, as well as user roles and tenants. You discover that your chosen username is reflected in many locations inside the application, but you don't have a detailed overview. You want to test whether the chosen username is handled properly or allows for injection attacks, such as Cross-Site Scripting or Server-Site Template Injection. Now you face the challenge of finding all locations where your payloads appear when injecting into the username. In large applications, you'll likely miss some, potentially leaving vulnerabilities undetected. This is where FlowMate comes into play, our novel tool to detect data flows in applications for enhanced vulnerability assessments. FlowMate consists of two components: A BurpSuite plugin and a data flow graph based on Neo4j. It records inputs to the application as you go through the pages. In contrast to existing tools that require server-side access, FlowMate works from a black-box perspective by observing HTTP request and response pairs. Thereby FlowMate records all input parameters and locations as well as user-supplied values. In parallel, all HTTP responses from the server are matched against the central store of already identified parameter values to find occurrences of known input parameters. This results in a data graph, mapping inputs to outputs simply while using the application. Understanding the data flow results in a significant improvement of test coverage in web app pentests, as all input and output occurrences of parameters can be systematically tested for vulnerabilities. More precisely, analysts can use FlowMate in the following ways: First, for a given input parameter, FlowMate shows all output locations, thus enabling verification of output filtering and encoding, even across role, tenant, and session boundaries. Second, for a given form, FlowMate visualizes all parameters and their respective output locations across the application.
 
 </details>
@@ -230,7 +230,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>SSHook: A Lightweight Syscall Hooking Tool for Uncovering Hidden Malicious Instructions</strong> — Zixi Liao, Bin Ma</summary>
 
 **Track:** Android, iOS and Mobile Hacking · Malware Defense · **Event:** USA 2023  
-🔗 **Link:** [https://github.com/dgellow/sshooks](https://github.com/dgellow/sshooks)  
+🔗 **Link:** Not Available  
 📝 **Description:** Most Android hook ways aim at watching APIs for Java or Native code. However, some malicious apps try to escape hooking and access sensitive data using syscall directly, so it is crucial in order to uncover hidden code that some malicious apps use to bypass standard hooking techniques and access sensitive data directly through system calls. We have implemented a syscall hooking tool based on Seccomp-BPF named SSHook, which gives better balance between performance and compatibility. Seccomp-BPF was introduced into Linux kenel to filter syscalls and their arguments, we transform this security feature into a syscall hook framework which support devices range from Android 8.1 to Android 13. Our tool SSHook combined Seccomp-BPF with throwing an exception to catch syscall, and resuming instructions for normal execution by preparing additional threads earlier, which avoids frequent interruptions and possible risks like deadlocks, suspensions, or crashes. For performance improvement, we have implemented a flag that determines whether to resume execution using either the inactive parameter or the higher 4 bytes of an integer type, but the program can still run normally without any impact. Besides, SSHook is a lightweight framework but performs efficiently and robustly compared with other invasive or complicated solutions, which keep stable and reliable by standing on the shoulders of kernel features. SSHook can help to identify suspicious behavior in malicious Apps which abuse syscall to steal privacy files or collect sensitive data like MAC, applist, which can be integrated into sandbox environment to conduct more complete dynamic analysis. Furthermore, SSHook allows us to replace syscall arguments and bypass hooking tools to evade detection, which is particularly useful in preventing the collection of device fingerprints and protecting user privacy against tracking.
 
 </details>
@@ -566,7 +566,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Network Monitoring Tools for macOS</strong> — Patrick Wardle</summary>
 
 **Track:** Malware Defense · Network Defense · **Event:** USA 2023  
-🔗 **Link:** [https://github.com/netxms/netxms](https://github.com/netxms/netxms)  
+🔗 **Link:** [https://github.com/objective-see/Netiquette](https://github.com/objective-see/Netiquette)  
 📝 **Description:** As the majority of malware contains networking capabilities, it is well understood that detecting unauthorized network access is a powerful detection heuristic. However, while the concepts of network traffic analysis and monitoring to detect malicious code are well established and widely implemented on platforms such as Windows, there remains a dearth of such capabilities on macOS. Here, we will present various tools capable of enumerating network state, statistics, and traffic, directly on a macOS host. We will showcase open-source tools that leverage low-level APIs, private frameworks, and user-mode extensions that provide insight into all networking activity on macOS: Specifically we'll demonstrate: * A network monitor that allows one to explore all network sockets and connections, either via an interactive UI, or from the commandline. * A DNS monitor that uses Apple's Network Extension Framework to monitors DNS requests and responses directly from the Terminal. * A firewall that monitors and filters all network traffic, giving users with the ability to block unknown/unauthorized outgoing connections.
 
 </details>
@@ -590,7 +590,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>RuleCraftLab - A Detection Rule Development Platform</strong> — Numan Mete Ozaltin, Eren Karabacak</summary>
 
 **Track:** Data Forensics/Incident Response · Malware Defense · **Event:** USA 2023  
-🔗 **Link:** [https://github.com/elastic/detection-rules](https://github.com/elastic/detection-rules)  
+🔗 **Link:** Not Available  
 📝 **Description:** "RuleCraftLab" is an open-source platform that provides SOC engineers, security researchers, and detection engineers with a robust environment for developing and testing detection content using real threat logs from actual systems. As the landscape of threats continues to evolve and diversify, there is a growing need for accurate and effective rules to detect and mitigate these threats. However, traditional rule development methods often lack real-world context, relying on blog posts or public rules without thorough testing. "RuleCraftLab" addresses these challenges by offering a dedicated playground where users can develop and test their rules in a realistic environment to streamline the rule development process.
 
 </details>
@@ -704,7 +704,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Puppet Fuzz: Discovering Critical Kernel Vulnerabilities with Innovative Approach</strong> — Siqi Chen, Minghang Shen, Chunyang Han, Xin Wang</summary>
 
 **Track:** Hardware/Embedded · Exploitation and Ethical Hacking · **Event:** USA 2023  
-🔗 **Link:** [https://github.com/wcventure/FuzzingPaper](https://github.com/wcventure/FuzzingPaper)  
+🔗 **Link:** Not Available  
 📝 **Description:** Internet of Things (IoT) devices have become an integral part of our lives, but their security vulnerabilities pose a significant risk to our privacy and security. While previous research has focused on user space components of embedded firmware, we have discovered that kernel vulnerabilities in these complex devices are particularly high-risk, potentially leading to full system compromise. Kernel modules are typically tightly bound to the kernel, but because different IoT devices use different kernel versions and compile options, it is difficult to load them correctly in other simulated environments. However, true device-based fuzz testing is very time-consuming and resource-intensive. Additionally, unlike user-level programs, kernel-level programs require a device reboot after every crash, which further limits the development of IoT kernel fuzz testing. To address these challenges, we propose a novel approach that abstracts closed-source kernel modules code to execute on a stable Linux kernel environment that we have constructed by using our aspect oriented system. This platform allows us to transfer library function calls and stack management, enabling us to detect kernel-level vulnerabilities that were previously difficult to identify. In addition, due to our front-end and back-end separation design, the platform can easily support IoT drivers of multiple architectures. Our approach has enabled us to discover a multitude of issues across devices from top manufacturers such as Netgear, Cisco, Asus, HP,TPLink,DLink and Western Digital etc. In this talk, we will show our method and present one such universal kernel hardware module vulnerability, demonstrating how we were able to exploit a kernel driver vulnerability to achieve remote command execution on the device. Our platform provides a replicable and stable environment that forms the basis for efficient and effective kernel fuzz testing, ultimately improving the security of IoT devices and protecting the privacy of their users.
 
 </details>
@@ -712,7 +712,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Safe Scan&C2 Tool</strong> — Weichao Zhou</summary>
 
 **Track:** Internet Of Things · Hardware/Embedded · **Event:** USA 2023  
-🔗 **Link:** [https://github.com/c2links/NoWhere2Hide](https://github.com/c2links/NoWhere2Hide)  
+🔗 **Link:** Not Available  
 📝 **Description:** In the process of security attack and defense, as well as penetration testing, there are two prominent issues. First, the attack scanning is often detected by the security systems of the defense side, resulting in the scanning IP being blocked. Second, when the defense side is controlled and assets are connected back to the command and control (C2) server, it may be detected by security devices, leading to countermeasures against the penetration testers. In order to safely and conveniently conduct asset detection during the attack and defense process, as well as secure connection back to the controlled assets on the defense side, we have improved the Kademlia protocol and developed a distributed hash table (DHT) technology. We have also developed a networking tool that consists of a large number of Internet nodes, which dynamically updates IDs and node tree structures at regular intervals. This allows each session to initiate requests from a different node during the scanning process, preventing IP blocking due to high-frequency scanning. Additionally, during the controlled asset's connection back to the C2 server, nodes are randomly selected based on user-selected hop count, effectively preventing penetration testers from being traced, thus improving the penetration testing process.
 
 </details>

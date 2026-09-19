@@ -75,7 +75,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>AttackForge: Pentest Management & Collaboration Platform</strong> — Fil Filiposki, Stas Filshtinskiy</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** Europe 2020  
-🔗 **Link:** [https://github.com/attackforge/reportgen](https://github.com/attackforge/reportgen)  
+🔗 **Link:** [https://github.com/AttackForge](https://github.com/AttackForge)  
 📝 **Description:** AttackForge.com is a free-to-use platform to manage your pentesting projects & programs, and to collaborate with everyone who needs to be involved - reducing overheads and pain for Customers, 3rd parties and Pentest Teams. This is what makes AttackForge unique and different to other pentest management & collaboration solutions. It goes beyond automated reporting and issue library. It brings everyone together in one place and gives them tools and workflows to initiate & deliver a pentest from start to end, and also manage remediation testing - with integrations into other industry tools & platforms. Pentesters love to break things. They don't like manual, repetitive, boring tasks such copy/paste vulnerability write-up templates from old reports. AttackForge provides a rich issue library with over 1300 issues already built in that you can keyword search and select on your pentest. You can import vulnerabilities from your favourite tools such as Nessus & BURP, or even directly via the API. Reports can be generated on-demand and in PDF, DOCX, HTML, CSV, JSON. You can even use your own DOCX templates with the ReportGen tool to create fully customized and localised reports in minutes! AttackForge.com also helps people to start a career in penetration testing. AttackForge provides a secure online environment to create a portfolio of pentests to reflect skills, knowledge, and communication ability in an industry-standard way – to demonstrate to recruiters and future employers that they are ready for the workforce. This may also help to reduce the shortage of supply and skills-gap our industry is currently facing.
 
 </details>
@@ -159,7 +159,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>NEW TSURUGI LINUX ACQUIRE & DIGITAL FORENSIC ACQUISITIONS</strong> — Giovanni Rattaro, Marco Giorgi</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** Europe 2020  
-🔗 **Link:** [https://github.com/mesquidar/ForensicsTools](https://github.com/mesquidar/ForensicsTools)  
+🔗 **Link:** [https://tsurugi-linux.org/](https://tsurugi-linux.org/)  
 📝 **Description:** Tsurugi ACQUIRE is a dedicated Linux OS to perform DIGITAL FORENSIC acquisition before to start post mortem DFIR investigations.
 
 </details>
