@@ -140,7 +140,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>FARSIGHT</strong> — Prashant KV, Mohd. Arif, Adlin DSouza, Sumit Sehgal</summary>
 
 **Track:** OSINT - Open Source Intelligence · **Event:** Canada 2025  
-🔗 **Link:** [https://github.com/seedon198/Farsight](https://github.com/seedon198/Farsight)  
+🔗 **Link:** Not Available  
 📝 **Description:** FARSIGHT is a CLI-based reconnaissance and threat intelligence framework designed for automated reconnaissance and data analysis. It streamlines the process of collecting and analyzing open-source intelligence about targets, threats, and attack surfaces through a command-line interface.
 
 </details>

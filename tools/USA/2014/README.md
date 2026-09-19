@@ -19,7 +19,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Morning Catch - Phishing Industries</strong></summary>
 
 **Track:** Arsenal Lab · **Event:** USA 2014  
-🔗 **Link:** [https://github.com/joeynhieu/MorningCatch](https://github.com/joeynhieu/MorningCatch)  
+🔗 **Link:** Not Available  
 📝 **Description:** Morning Catch is a Virtual Machine environment, similar to Metasploitable, to demonstrate and teach about targeted client-side attacks. Morning Catch is a fictitious seafood company with a website, self-contained email infrastructure to receive phishing emails, and two desktop environments. One desktop environment is a vulnerable Linux client-side attack surface. The other desktop environment is a vulnerable Windows client-side attack surface. Yes, you'll get to attack a Windows software target and use Windows payloads against this virtual environment. This Arsenal session will demonstrate some of the things you can do with the Morning Catch environment.
 
 </details>
@@ -53,7 +53,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>OWASP Zed Attack Proxy (ZAP)</strong> — Simon Bennetts</summary>
 
 **Track:** Web AppSec · **Event:** USA 2014  
-🔗 **Link:** [https://github.com/pdsoftplan/zap-maven-plugin](https://github.com/pdsoftplan/zap-maven-plugin)  
+🔗 **Link:** [https://github.com/zaproxy/zaproxy](https://github.com/zaproxy/zaproxy)  
 📝 **Description:** The Zed Attack Proxy (ZAP) is currently the most active open source web application security tool and competes effectively with commercial tools.
 
 </details>
@@ -61,7 +61,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>ProxyMe</strong></summary>
 
 **Track:** Web AppSec · **Event:** USA 2014  
-🔗 **Link:** [https://github.com/jayluxferro/ProxyMe](https://github.com/jayluxferro/ProxyMe)  
+🔗 **Link:** Not Available  
 📝 **Description:** ProxyMe is a modular HTTP/S proxy based on plugins. It's designed and oriented for pen-testing or research purposes. It also has support for analyzing and modifying the traffic, SSL included. It can be used as a regular proxy or as a reverse proxy, supporting also transparent connections, making it perfect for combined attacks of Man In The Middle (or even as a load balancer if you want!).
 
 </details>
@@ -95,7 +95,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>idb - Simplified Blackbox iOS App Pen-Testing</strong></summary>
 
 **Track:** Android, iOS and Mobile Hacking · **Event:** USA 2014  
-🔗 **Link:** [https://github.com/kobs0N/iOS-Penetration-Test-Tools](https://github.com/kobs0N/iOS-Penetration-Test-Tools)  
+🔗 **Link:** [https://github.com/dmayer/idb](https://github.com/dmayer/idb)  
 📝 **Description:** More than ever, mobile apps are used to manage and store sensitive data by both corporations and individuals. During this Arsenal demonstration, we show how our new tool called 'idb' can be used to efficiently test iOS apps for a range of common flaws.
 
 </details>
@@ -145,7 +145,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Snoopy</strong> — Glenn Wilkinson</summary>
 
 **Track:** OSINT - Open Source Intelligence · **Event:** USA 2014  
-🔗 **Link:** [https://github.com/duantianyu/Snoopy](https://github.com/duantianyu/Snoopy)  
+🔗 **Link:** [https://github.com/sensepost/snoopy-ng](https://github.com/sensepost/snoopy-ng)  
 📝 **Description:** Snoopy is a distributed tracking, data interception, and profiling framework. The software can run on small, cost-effective hardware (BeagleBone, RaspberryPi) and be deployed over a large area (we call these 'drones'). Each Snoopy drone passively or actively collects information on people who walk past from the array of wireless (Wi-Fi, Bluetooth, etc.) devices that they carry on their person. This information is synchronized to a central server where we can visually explore it with tools like Maltego.
 
 </details>
@@ -153,7 +153,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>WhatsApp Privacy Guard</strong></summary>
 
 **Track:** OSINT - Open Source Intelligence · **Event:** USA 2014  
-🔗 **Link:** [https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web](https://github.com/LukasLen/Privacy-Extension-For-WhatsApp-Web)  
+🔗 **Link:** Not Available  
 📝 **Description:** With the PRISM scandal, we began to question whether Microsoft, Google, Apple, and Facebook were the only companies working with governments to spy on the behavior of its citizens. Will WhatsApp be one of these companies? Does WhatsApp store its user conversations? These sort of things make us think that users are defenseless and have no current measures to ensure the privacy of content shared on these platforms.
 
 </details>
@@ -171,7 +171,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Filibuster - Filtering Testing Tool</strong></summary>
 
 **Track:** Network Attacks · **Event:** USA 2014  
-🔗 **Link:** [https://github.com/filibuster-testing/filibuster](https://github.com/filibuster-testing/filibuster)  
+🔗 **Link:** [https://github.com/subinacls/Filibuster](https://github.com/subinacls/Filibuster)  
 📝 **Description:** Filibuster is used to map port filtering / protocol filtering devices and is useful for both red and blue team engagements.
 
 </details>
@@ -195,7 +195,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Ice-Hole</strong></summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2014  
-🔗 **Link:** [https://github.com/fiedl/hole-ice-install](https://github.com/fiedl/hole-ice-install)  
+🔗 **Link:** Not Available  
 📝 **Description:** Ice-Hole is a phishing awareness email program. It is designed to help security analysts/system administrators keep track and test end users. The tool can be used in conjunction with various third party software, like SET, for further leverage. 1.7 has some new features and enhancements like IRC triggers, integrating with a new portal feature, automatic times, dates, and sending reports on a schedule.
 
 </details>
@@ -235,7 +235,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Oops, RFIDid It Again</strong></summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2014  
-🔗 **Link:** [https://github.com/joaofbantunes/OOPsIDidItAgain](https://github.com/joaofbantunes/OOPsIDidItAgain)  
+🔗 **Link:** Not Available  
 📝 **Description:** Last year, we delivered the definitive guide for pen-testers on hacking low frequency (LF - 125KHz) RFID badge systems to gain unauthorized access to buildings and other secure areas. In this second installment, weâre raising the stakes, peeling back the onion even further, and directly confronting the RFID elephant in the room â hacking High Frequency (HF - 13.56 MHz) and Ultra-High Frequency (UHF â 840-960 MHz).
 
 </details>
@@ -251,7 +251,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>reGeorg</strong> — Willem Mouton, Sam Sobotka</summary>
 
 **Track:** Network Attacks · **Event:** USA 2014  
-🔗 **Link:** [https://github.com/L-codes/Neo-reGeorg](https://github.com/L-codes/Neo-reGeorg)  
+🔗 **Link:** [https://github.com/sensepost/reGeorg](https://github.com/sensepost/reGeorg)  
 📝 **Description:** In 2008 we released reDuh (http://research.sensepost.com/tools/web/reduh), a network tunnelling tool that allowed port forwarding via a web-shell and HTTP/S to backend services. reDuh has since become part of any attackers standard toolkit, featuring in several books and notoriously described as "insidious" by HBGary in their leaked e-mails.
 
 </details>
@@ -285,7 +285,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Dependency-Check</strong> — Jeremy Long</summary>
 
 **Track:** Vulnerability Assessment · **Event:** USA 2014  
-🔗 **Link:** [https://github.com/jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck)  
+🔗 **Link:** [https://github.com/dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck)  
 📝 **Description:** Does your application have dependencies on third party libraries? Do you know if those same libraries have published CVEs? OWASP Dependency-Check can help by providing identification and monitoring of the libraries your application uses, notifying you that vulnerabilities (CVEs) have been published for third party code your application uses. Jeremy will be demonstrating the tool and the various ways enterprises can use the tool to perform continuous monitoring of their applicationsâ dependent libraries.
 
 </details>
@@ -293,7 +293,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Dradis</strong> — Daniel Martin</summary>
 
 **Track:** Vulnerability Assessment · **Event:** USA 2014  
-🔗 **Link:** [https://github.com/armel/DRADIS](https://github.com/armel/DRADIS)  
+🔗 **Link:** [https://github.com/dradis/dradis-ce](https://github.com/dradis/dradis-ce)  
 📝 **Description:** Dradis is an extensible, cross-platform, open source collaboration framework to manage security assessments. It can import from over 15 popular tools including Nessus, Qualys, and Burp. Started in 2007, the Dradis Framework project has been growing ever since.
 
 </details>
@@ -301,7 +301,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>SecureScan SaaS Free Scanner</strong></summary>
 
 **Track:** Vulnerability Assessment · **Event:** USA 2014  
-🔗 **Link:** [https://github.com/roshr22/SecureScan](https://github.com/roshr22/SecureScan)  
+🔗 **Link:** Not Available  
 📝 **Description:** Tripwire SecureScanâ¢ is a free, cloud-based vulnerability management service for up to 100 Internet Protocol (IP) addresses on internal networks. This new tool makes vulnerability management easily accessible to small and medium-sized businesses that may not have the resources for enterprise-grade security technology â and it detects the Heartbleed vulnerability among many others. Fast, free, and simple to use - no license required.
 
 </details>
@@ -311,7 +311,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Cynomix</strong></summary>
 
 **Track:** Malware Defense · **Event:** USA 2014  
-🔗 **Link:** [https://github.com/Evertras/cynomys](https://github.com/Evertras/cynomys)  
+🔗 **Link:** Not Available  
 📝 **Description:** The stream of malicious software artifacts (malware) discovered daily by computer security professionals is a vital signal for threat intelligence, as malware bears telling clues about who active adversaries are, what their goals are, and how we can stop them. Unfortunately, while security operations centers collect huge volumes of malware daily, this âmalware signalâ goes underutilized as a source of defensive intelligence, because organizations lack the right tools to make sense of malware at scale.
 
 </details>
@@ -335,7 +335,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Spotlight Inspector - OSX Forensics</strong></summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** USA 2014  
-🔗 **Link:** [https://github.com/a1l4m/Mac-Triage](https://github.com/a1l4m/Mac-Triage)  
+🔗 **Link:** Not Available  
 📝 **Description:** Spotlight Inspector is a free application for computer forensic investigation of Mac OS X computers. Until now, there has never been an effective cross-platform forensics tool for accessing Spotlight internal data from Mac OS X systems â which is where all of the information about files indexed on a computer can be accessed by forensic investigators. This information gathering is crucial to digital investigators.
 
 </details>
@@ -343,7 +343,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>TriForce ANJP</strong></summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** USA 2014  
-🔗 **Link:** [https://github.com/Infini-AI-Lab/TriForce](https://github.com/Infini-AI-Lab/TriForce)  
+🔗 **Link:** Not Available  
 📝 **Description:** TriForce is a set of analysis tools made for those who want to go deeper. With a focus on file system journaling forensics, we make use of artifacts that allow us to turn them into a forensic time machine. With tools that cover NTFS, HFS+, and Ext3, we are pushing forward a new era of analysis based on file system journaling.
 
 </details>
@@ -401,7 +401,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Zig Tools</strong></summary>
 
 **Track:** Hardware/Embedded · **Event:** USA 2014  
-🔗 **Link:** [https://github.com/NTBBloodbath/zig-tools.nvim](https://github.com/NTBBloodbath/zig-tools.nvim)  
+🔗 **Link:** Not Available  
 📝 **Description:** ZigTools is a Python framework, which was developed to reduce the complexity in writing additional functionality in communicating with the Freakduino (Low cost arduino based 802.15.4 platform). Features such as initializing the radio, changing channels, sending data and processing that data can be written in just a few lines, allowing developers to focus on writing more complex applications without worrying about the low-level communications between the radio and computer.
 
 </details>

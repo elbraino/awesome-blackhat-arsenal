@@ -37,7 +37,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Attack & Defence AppSec Wargame</strong> — Pedram Hayati</summary>
 
 **Track:** Arsenal Lab · **Event:** Canada 2023  
-🔗 **Link:** [https://github.com/pi3ch](https://github.com/pi3ch)  
+🔗 **Link:** [https://play.secdim.com/](https://play.secdim.com/)  
 📝 **Description:** SecDim Play is an open training game and toolkit for constructing security challenges covering AppSec, DevSecOps, and CloudSec. It provides a hands-on interactive platform for application security professionals to practice attack and defence scenarios.
 
 </details>
@@ -71,7 +71,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Security Attacks as Software Tests: Building dev-oriented AppSec challenges with Play open source SDK</strong> — Pedram Hayati</summary>
 
 **Track:** Web AppSec · **Event:** Canada 2023  
-🔗 **Link:** [https://github.com/CreateWithPlayApp/PlaySDK](https://github.com/CreateWithPlayApp/PlaySDK)  
+🔗 **Link:** [https://github.com/secdim/play-sdk](https://github.com/secdim/play-sdk)  
 📝 **Description:** An open-source SDK that enables developers to model security attacks as software tests, allowing dev-oriented application security challenges to be integrated into the development workflow.
 
 </details>
@@ -91,7 +91,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>!CVE: A New Platform for Unacknowledged Cybersecurity !Vulnerabilities</strong> — Hector Marco, Samuel Arevalo</summary>
 
 **Track:** OSINT - Open Source Intelligence · **Event:** Canada 2023  
-🔗 **Link:** [https://github.com/cveproject](https://github.com/cveproject)  
+🔗 **Link:** [https://www.notcve.org/](https://www.notcve.org/)  
 📝 **Description:** The CVE Program identifies, defines, and catalogs publicly disclosed cybersecurity vulnerabilities. It maintains the official CVE List and develops supporting infrastructure like the CVE Services API, JSON schema specifications, and the CVE.ORG website.
 
 </details>
@@ -143,7 +143,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Artificial Intelligence Phishing Email Detector</strong> — Waqur Ahmed</summary>
 
 **Track:** Vulnerability Assessment · Human Factors · **Event:** Canada 2023  
-🔗 **Link:** [https://github.com/Click2Hack/Phishing-Email-Detection-Using-Machine-Learning](https://github.com/Click2Hack/Phishing-Email-Detection-Using-Machine-Learning)  
+🔗 **Link:** Not Available  
 📝 **Description:** A machine learning system that classifies emails as phishing or legitimate using Natural Language Processing with TF-IDF vectorization and a Random Forest classifier to identify suspicious messages based on learned text patterns.
 
 </details>
@@ -151,7 +151,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Enhancing Vulnerability Research through the Use of Virtual Reality Workspaces</strong> — datalocaltmp .</summary>
 
 **Track:** Vulnerability Assessment · Reverse Engineering · **Event:** Canada 2023  
-🔗 **Link:** [https://github.com/datalocaltmp](https://github.com/datalocaltmp)  
+🔗 **Link:** Not Available  
 📝 **Description:** A project exploring the use of virtual reality workspaces to enhance vulnerability research workflows, integrating tools for binary analysis, reverse engineering, and systems-level security research into immersive VR environments.
 
 </details>
@@ -167,7 +167,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>LLM Gateway – an OSS to Monitor LLM Interactions</strong> — Jeff Schwartzentruber, Nik Kershaw</summary>
 
 **Track:** Vulnerability Assessment · **Event:** Canada 2023  
-🔗 **Link:** [https://github.com/theopenco/llmgateway](https://github.com/theopenco/llmgateway)  
+🔗 **Link:** Not Available  
 📝 **Description:** LLM Gateway is an open-source API gateway that routes requests to multiple LLM providers while providing unified management of API keys, usage tracking, and performance analytics across different AI services.
 
 </details>
@@ -251,7 +251,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>A Ghidra Visualization is worth a Thousand GDB breakpoints</strong> — datalocaltmp .</summary>
 
 **Track:** Reverse Engineering · **Event:** Canada 2023  
-🔗 **Link:** [https://github.com/datalocaltmp/GhidraMCP](https://github.com/datalocaltmp/GhidraMCP)  
+🔗 **Link:** Not Available  
 📝 **Description:** GhidraMCP is a Model Context Protocol server that allows LLMs to autonomously reverse engineer applications. It bridges Ghidra with AI systems, enabling automated binary analysis, method renaming, and code examination through standardized MCP connections.
 
 </details>

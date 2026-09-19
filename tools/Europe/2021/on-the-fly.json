@@ -1,7 +1,7 @@
 {
   "Tool Name": "on the fly",
   "Description": "The 'on-the-fly' tool intends to give the pentester an 'all-in-one' tool by deploying different functionalities applicable across the three domains of work: IoT, ICS & IT. The present work introduces a new framework in which enough functionalities will be provided to discover, evaluate, and audit technologies from the three mentioned domains.",
-  "Github URL": "https://github.com/graphdeco-inria/on-the-fly-nvs",
+  "Github URL": "https://github.com/Telefonica/on-the-fly",
   "Tracks": [
     "Network Attacks"
   ],

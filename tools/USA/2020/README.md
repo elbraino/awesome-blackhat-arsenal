@@ -156,7 +156,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Mística: Anything is a tunnel if you're brave enough - Covert channels for everyone!</strong> — Carlos Fernández, Raúl Caro Teixidó</summary>
 
 **Track:** Network Attacks · **Event:** USA 2020  
-🔗 **Link:** [https://github.com/telefonica/mistica-design](https://github.com/telefonica/mistica-design)  
+🔗 **Link:** Not Available  
 📝 **Description:** From exposing internal network ports in restricted environments to the internet to controlling a meterpreter implant via DNS, everything is possible with protocol encapsulation. To prove this, we have developed Mística, a tool that allows us to finely tune how we want to create a tunnel over protocols like HTTP, DNS and more, and combine this encapsulation with custom applicatrions like io, shell or port redirection. Mística allows to embed data into other protocol fields, with the goal of establishing a bi-directional channel for arbitrary communications. Mística has a modular design, built around a custom transport protocol, called SOTP (Simple Overlay Transport Protocol). Data is encrypted, chunked and put into SOTP packets. SOTP packets are encoded and embedded into the desired field of the application protocol, and sent to the other end. During this talk, we will talk about how to quickly design and create covert channels over different protocols and for different purposes. This is both useful for red teams that need new ways to hide their traffic and blue teams that want to easily test their monitoring capabilities. We will do several demos, where we showcase how encapsulation works and how we can end up tunneling a RAT (meterpreter, in this case) connection over DNS. We will also showcase how to expose any port over the desired covert channel to combine it with tools like Evil-WinRM, for instance. Mística is available at https://github.com/IncideDigital/Mistica under the GPLv3 license
 
 </details>
@@ -206,7 +206,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>FuzzCube</strong> — Anto Joseph</summary>
 
 **Track:** Vulnerability Assessment · **Event:** USA 2020  
-🔗 **Link:** [https://github.com/FuzzCube/FuzzCube](https://github.com/FuzzCube/FuzzCube)  
+🔗 **Link:** Not Available  
 📝 **Description:** Fuzzing over the ages has improved in tooling, logic, and process, but is still a number-crunching problem! You are improving your odds by throwing more CPU power at it. How do we make it happen without hacking through custom solutions that cannot be reused? Enter FuzzCube - Batteries Included! FuzzCube comes with State Sharing Features, Mutation Engines and Crash Verification tools that you could leverage in your projects. It leverages Kubernetes for its infrastructure orchestration capabilities. Using Kubernetes operators, we abstract the complexity of deploying a fuzzing infrastructure with distributed high throughput workloads, fault tolerance, storage orchestration, and high scalability. We will practise distributed fuzzing in the era of Cloud Native Computing and use our new skills to find some 0days ;)
 
 </details>
@@ -410,7 +410,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>UFO: A Security Verification Tool for IoT Device Firmware</strong> — Tsungta Tsai</summary>
 
 **Track:** Internet Of Things · **Event:** USA 2020  
-🔗 **Link:** [https://github.com/kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo)  
+🔗 **Link:** Not Available  
 📝 **Description:** UFO is an IoT firmware security assessment tool that helps firmware developers or security researchers assess the security level of IoT device firmware. UFO profiles the IoT firmware in many surfaces, like known vulnerabilities, sensitive data, cracked passwords, and hidden backdoors. It saves penetration testers time to gather information and help create attack vectors. Meanwhile, as a handy tool, UFO exposes vulnerabilities as early as possible to mitigate attacks from IoT malware like the notorious Mirai, which also collected default passwords of IoT devices from firmware. We did leverage UFO to pwn two COTS network cameras by discovering their backdoors and default passwords. Main features of UFO are: - Known 3rd Party Suite CVE Risk Report: Post-scan report based on the Common Vulnerability Scoring System (CVSS) which is an open industry standard for assessing the severity of computer system security vulnerabilities. - Sensitive Data Statistics: Assessment of the email, IP, URL, private or password vulnerabilities. - Cracked Passwords and Certificates Review: Check if your passwords or certificates are vulnerable. - Shell Dependency Backdoor Paths: Produces a visual guide of backdoor paths. A full circle of scenarios of using UFO to analysis IoT firmware will be demonstrated. Among the above features, the source code used to trace shell dependency has been released on Github: https://github.com/dayanuyim/shdep. The promotional video: https://youtu.be/0XupD3PAbuo
 
 </details>

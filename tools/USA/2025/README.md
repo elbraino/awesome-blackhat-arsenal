@@ -365,7 +365,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Metasploit's Latest Attack Capability and Workflow Improvements</strong> — Spencer McIntyre, Jack Heysel</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2025  
-🔗 **Link:** [https://github.com/mchklt/PFE](https://github.com/mchklt/PFE)  
+🔗 **Link:** [https://github.com/rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)  
 📝 **Description:** Metasploit continues to expand support for Active Directory Certificate Services (AD CS) attacks, as well as its protocol relaying capability and attack workflows for evergreen vulnerabilities. This year, we added support for SMB-to-LDAP relaying and SMB-to-HTTP relaying, as well as support to identify and exploit a number of AD CS flaws (i.e., ESC vulnerabilities). We've also added the new "PoolParty" process injection capability to Windows Meterpreter sessions, along with support for System Center Configuration Manager (SCCM) attack workflows. This demo will focus on obtaining an LDAP session via SMB relaying, which can then be used to identify ESC vulnerabilities through Metasploit's expanded ldap_vulnerable_cert_finder module. Using the results from the vulnerable cert finder module, we will demonstrate how to detect and exploit ESC15 (the newest ESC vulnerable certificate template flaw) in order to obtain a certificate that can be used to open a Windows Meterpreter session. While opening the Meterpreter session we will demonstrate using Sysmon how the Windows Meterpreter no longer makes calls to CreateRemoteThread and instead uses the PoolParty injection technique to more effectively inject into the target process. Going back to our LDAP session, we will run a query to identify SCCM servers in the target Active Directory environment. Once identified, we will demonstrate Metasploit's new SCCM attack workflow, which leverages new SMB-to-HTTP relaying capabilities. Using Metasploit's SMB-to-HTTP relay server, we will relay an NTLM authentication attempt for a newly created computer account to the SCCM HTTP authentication server. After successfully authenticating, we will retrieve Network Access Account (NAA) credentials from the SCCM server, as these are often found in domain environments with higher privileges than they require making them a prime target for lateral movement.
 
 </details>
@@ -689,7 +689,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Realtic</strong> — Sohan Simha Prabhakar, Samarth Bhaskar Bhat, Danindu Gammanpilage</summary>
 
 **Track:** Cryptography · **Event:** USA 2025  
-🔗 **Link:** [https://github.com/Realtek-OpenSource](https://github.com/Realtek-OpenSource)  
+🔗 **Link:** Not Available  
 📝 **Description:** Realtic is a flexible cybersecurity tool with a graphical user interface built on top of PyQt. By combining several specialist tools into a single, integrated program, it simplifies cryptographic operations and vulnerability evaluations. The design places a high value on efficiency and simplicity, which makes it perfect for security enthusiasts and professionals who want to perform rapid scans and analysis without having to deal with multiple different command-line tools.
 
 </details>
@@ -737,7 +737,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>TCP Fingerprint Firewall / Recon Shield</strong> — Vlad Iliushin, Ken Webster</summary>
 
 **Track:** Network Defense · **Event:** USA 2025  
-🔗 **Link:** [https://github.com/NikolaiT/zardaxt](https://github.com/NikolaiT/zardaxt)  
+🔗 **Link:** [https://github.com/ELLIO-Technology/tcp-fingerprint-firewall](https://github.com/ELLIO-Technology/tcp-fingerprint-firewall)  
 📝 **Description:** TCP Fingerprint Firewall is a high-performance, eBPF-based network security tool that leverages TCP fingerprinting to detect and block malicious and promiscuous network scanners with high speed and accuracy. This open-source solution combines the power of XDP (eXpress Data Path) for inline packet processing with MuonFP's advanced TCP fingerprinting capabilities, allowing security professionals to identify and block reconnaissance activities before they can map your network infrastructure. Unlike traditional firewalls that operate on simple port/IP rules, TCP Fingerprint Firewall uses MuonFP-based fingerprints - subtle TCP header characteristics that identify scanning tools like Nmap, ZMap, and Masscan, as well as specific operating systems or device fingerprints. The innovative pattern matching engine supports wildcards, allowing both precise fingerprint targeting and broader pattern recognition with minimal performance overhead.
 
 </details>
@@ -837,7 +837,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>All Talk, AI Action: Binary Analysis Toolkit MCP Server</strong> — Wei-Chieh Chao, Tien-Chih Lin, Zhao Min Chen</summary>
 
 **Track:** AI, ML & Data Science · Arsenal Lab · **Event:** USA 2025  
-🔗 **Link:** [https://github.com/erew123/alltalk_tts](https://github.com/erew123/alltalk_tts)  
+🔗 **Link:** [https://github.com/cycraft-corp/bh-usa-2025-arsenal](https://github.com/cycraft-corp/bh-usa-2025-arsenal)  
 📝 **Description:** In the fields of cybersecurity and reverse engineering, traditional integrations of Large Language Models (LLMs) with tools like IDA Pro have faced significant challenges. Existing solutions not only heavily depend on manual intervention—requiring time-consuming, function-by-function analysis via the IDA Pro GUI—but also fail to effectively combine static and dynamic analysis. By exclusively focusing on static analysis, these methods risk overlooking crucial insights that dynamic analysis could reveal, resulting in a limited and fragmented approach. To overcome these limitations, we propose an innovative framework centered around an MCP Server, serving as a unified interface. This approach transforms the LLM into a fully autonomous intelligent agent capable of managing a complete binary analysis workflow while drastically reducing human effort. Unlike traditional methods, our framework seamlessly integrates both static and dynamic analysis tools into a collaborative pipeline, ensuring a comprehensive examination of binary files. Additionally, utilizing the MCP Server enhances code reusability and scalability, aligning the process more closely with professional reverse engineering practices. Key Points: - Automation: Delegates the entire analysis process to the LLM with minimal human intervention. - Comprehensive Analysis: Combines static and dynamic analysis to uncover deeper insights. - Tool Reusability: Leverages a unified MCP Server interface to improve portability and scalability. This paradigm shift in tool integration not only addresses the inherent shortcomings of traditional methods but also paves the way for a more efficient and thorough binary analysis system.
 
 </details>
@@ -861,7 +861,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Dumpsieve</strong> — Sze Ying Tay</summary>
 
 **Track:** AI, ML & Data Science · **Event:** USA 2025  
-🔗 **Link:** [https://github.com/arthaud/git-dumper](https://github.com/arthaud/git-dumper)  
+🔗 **Link:** Not Available  
 📝 **Description:** During data leakage incident, time is taking to sieve through the data dump to identify if the leaked is relevant to the organisation. Time is crucial in investigation in order to perform impact and risk assessment for the organisation. Hence, the team has created a data dump tool named "Dumpsieve" which utilises AI to expedite the investigation.
 
 </details>

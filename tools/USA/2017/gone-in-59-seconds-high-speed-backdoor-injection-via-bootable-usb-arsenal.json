@@ -1,7 +1,7 @@
 {
   "Tool Name": "GONE IN 59 SECONDS - HIGH SPEED BACKDOOR INJECTION VIA BOOTABLE USB - ARSENAL THEATER DEMO",
   "Description": "Gaining physical access was trivial, but now the computer is locked (or off) and time is running out…the \"SmuggleBus\" allows us to take advantage of unencrypted drives to quickly collect local password hashes and implant the backdoor of our choice without modifying any system binaries - all from a bootable USB and in a matter of seconds.",
-  "Github URL": "https://github.com/Abacus-Group-RTO/legion",
+  "Github URL": "",
   "Tracks": [
     "Malware Offense"
   ],

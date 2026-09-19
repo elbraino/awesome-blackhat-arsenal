@@ -47,7 +47,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Mobile-ADSheild: Attack Automatic Analysis and Interception Engine in Mobile App</strong> — Shijie Cao, Hao Zhao</summary>
 
 **Track:** Android, iOS and Mobile Hacking · **Event:** Europe 2019  
-🔗 **Link:** [https://github.com/ad-shield](https://github.com/ad-shield)  
+🔗 **Link:** [https://github.com/SecurityLife/mobile-adsheild-attack-automatic-analysis-and-interception-engine-in-mobile-app](https://github.com/SecurityLife/mobile-adsheild-attack-automatic-analysis-and-interception-engine-in-mobile-app)  
 📝 **Description:** Mobile-ADSheild is a mobile app active defense engine that defends against most vulnerability exploits. We will introduces the Mobile-ADSheild engine, which can be freely integrated into any app and can be used to launch the app's self-protection capabilities through a simple API interface. The engine does not require the mobile developer to make too many changes, just need to start the engine, it will run itself after the app is launched.
 
 </details>
@@ -55,7 +55,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>MPFuzzer: Fuzzing for Mini Program Vulnerabilities</strong> — Wenjie LI, Guoyong YI</summary>
 
 **Track:** Android, iOS and Mobile Hacking · **Event:** Europe 2019  
-🔗 **Link:** [https://github.com/cispa/ampfuzz](https://github.com/cispa/ampfuzz)  
+🔗 **Link:** Not Available  
 📝 **Description:** Mini programs are lightweight apps that run inside another app. They don't need to be downloaded or upgraded through app stores. They make it possible for one app to perform the service of many apps add up and have over one billion users in China, which brings new mobile security challenges. Hackers can bypass the security defenses of Mini programs in various ways(like string truncation, whitelist bypass, malformed label). A successful exploit of bypassing may lead to arbitrary code execution or leak of sensitive data. Security workers are struggling to discover and fix vulnerabilities in the workflow of the mini program. It results in a greater need for automated mini-program fuzz testing tools. We will introduce the MPFuzzer, the first fuzz testing tool which finds vulnerabilities in mini program technology stacks automatically by trying different strategies. MPFuzzer can fuzz any mini program platform in the field by configuring a simple config file without writing any code. The key inside our work is to quickly generate large numbers of mini program code and mutate them to test as many mini program technology stacks as possible. As a practical impact, our tool has detected more than ten mini program critical vulnerabilities.
 
 </details>
@@ -65,7 +65,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>RTTM: Real Time Threat Monitoring Tool</strong> — Naveen Rudrappa, Murali Krishna Segu</summary>
 
 **Track:** OSINT - Open Source Intelligence · **Event:** Europe 2019  
-🔗 **Link:** [https://github.com/juanmc2005/rttm-viewer](https://github.com/juanmc2005/rttm-viewer)  
+🔗 **Link:** [https://github.com/NaveenRudra/RTTM](https://github.com/NaveenRudra/RTTM)  
 📝 **Description:** Monitoring possible threats of your company on the Internet is an impossible task to be achieved manually. Hence, many threats of the company go unnoticed until it becomes viral in public - thus causing monetary/reputation damage. This is where RTTM comes into action. RTTM (Real-Time Threat Monitoring Tool) is a tool developed to scrap all pasties, GitHub,reddit..etc in real-time to identify an occurrence of search terms configured. Upon a match, an email will be triggered. Thus allowing the company to react in case of leakage of code, any hacks tweeted..etc.. and harden themselves against an attack before it goes viral. Over the past 2 years, the tool has evolved from a simple search. Artificial intelligence has been implemented to perform a better search. If regex is needed even that is supported. Thus, behavior is close to human and reduces false positives. The best part of the tool is that alert will be sent to email in less than 60 seconds from the time threat has made it to the internet. Thus allowing response in real-time to happen. The same tool in malicious user hands can be used offensively to get an update on any latest hacks, code leakage, etc..
 
 </details>
@@ -91,7 +91,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Backoori: Tool Aided Persistence via Windows URI Schemes Abuse</strong> — Giulio Comi</summary>
 
 **Track:** Malware Offense · **Event:** Europe 2019  
-🔗 **Link:** [https://github.com/giuliocomi/backoori](https://github.com/giuliocomi/backoori)  
+🔗 **Link:** [https://github.com/gavz/backoori](https://github.com/gavz/backoori)  
 📝 **Description:** The widespread adoption of custom URI protocols to launch specific Universal App can be diverted to nefarious purposes. The URI schemes in Windows 10 can be abused in such a way to maintain persistence via fileless technique. Backdooring a compromised user (Administrator privileges not required) is a matter of seconds. The attack is transparent to the unaware victim that won't be able to identify the attack and to the antivirus solutions that are currently not monitoring the specific Registry keys involved. These subtle fileless payloads can be triggered in many contexts, from the Narrator in the Windows logon screen (a novel Accessibility Feature abuse discovered by Giulio right before deciding to implement Backoori) to the classical web attack surface. The payloads can also be dropped in gadgets that can interact between each other by abusing, once again, the Windows URI protocols.
 
 </details>
@@ -155,7 +155,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>LinkTap: New Threats are Already Around You - The IPV6 Attack Must be Understood</strong> — Kunzhe Chai, YongTao Wang, Jinglun Li</summary>
 
 **Track:** Network Attacks · **Event:** Europe 2019  
-🔗 **Link:** [https://github.com/sh00t2kill/linktap_local_http_component](https://github.com/sh00t2kill/linktap_local_http_component)  
+🔗 **Link:** Not Available  
 📝 **Description:** Due to the exhaustion of IPv4 free address space, the use of IPv6 on the Internet is gradually increasing. All Windows operating systems since Windows Vista have IPv6 enabled by default. IPv6 brings a series of improvements compared to IPV4, but these improvements are also put a double-edged sword. Recently, we have been focusing on "IPv6" attack research and found that in the IPV6 environment, there are many attack points, such as Iptables will fail, use IPV6 to bypass the Web defense strategy and abuse IPV6-specific protocols for man-in-the-middle attacks, and Other attack ideas! In this presentation, I will disclose the attack methods and ideas I have found for IPV6, and will also release tools for IPV6 attacks.
 
 </details>
@@ -279,7 +279,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Zhouhe: Threat Analysis and Detection of Network Traffic</strong> — Rui Xiao, Rui Zhang</summary>
 
 **Track:** Network Defense · **Event:** Europe 2019  
-🔗 **Link:** [https://github.com/zhouh/zhouh.github.io](https://github.com/zhouh/zhouh.github.io)  
+🔗 **Link:** Not Available  
 📝 **Description:** Today, the malicious behavior of hackers is aimed at all kinds of terminals, servers, and websites. Sadly, when the hacker came, did something, and took away what we didn't know, in many cases. However, no matter what the hacker did, his behavior in the network could not be erased. Zhouhe is a free tool/platform, it has detection rules and machine learning algorithms maintained by a team of experts to detect threats, it provides network threat analysis and detection capabilities. You only need to upload traffic files to let you quickly understand the threats and malicious behaviors in the network.
 
 </details>

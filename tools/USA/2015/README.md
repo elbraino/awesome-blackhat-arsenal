@@ -94,7 +94,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>SAMLyze</strong> — Jon Barber</summary>
 
 **Track:** Web AppSec · **Event:** USA 2015  
-🔗 **Link:** [https://github.com/iSECPartners/sslyze](https://github.com/iSECPartners/sslyze)  
+🔗 **Link:** Not Available  
 📝 **Description:** Have you ever been faced with a Security Assertion Markup Language (SAML) Service Provider and dreaded the development effort required to attack it? Have you ever crafted custom SAML payloads and wondered why no one had written this tool before? SAMLyze is a new tool that makes pentesting SAML Service Providers fast and easy. It streamlines the attack process by providing preconfigured payloads for testing against XXE, DTD and automatically performs a variety of SAML validations. The web interface makes configuration of custom assertions and modification of any SAML response values simple. Additionally, the SAMLyze workflow allows for integration with web proxies such as Burp Suite and Zed Attack Proxy.
 
 </details>
@@ -156,7 +156,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Breachego</strong> — Christian Heinrich</summary>
 
 **Track:** OSINT - Open Source Intelligence · **Event:** USA 2015  
-🔗 **Link:** [https://github.com/beego/beego](https://github.com/beego/beego)  
+🔗 **Link:** Not Available  
 📝 **Description:** Maltego Remote Transforms for Abusix, haveibeenpwned and BreachAlarm to perform link analysis and intrusion detection of compromised aliases, e-mail addresses, domains, plaintext and hashed passwords posted to Pastebin, Slexy, QuickLeak, Pastie, and Ghostbin.
 
 </details>
@@ -164,7 +164,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Intrigue</strong> — Jonathan Cran</summary>
 
 **Track:** OSINT - Open Source Intelligence · **Event:** USA 2015  
-🔗 **Link:** [https://github.com/shaunabanana/intrigue](https://github.com/shaunabanana/intrigue)  
+🔗 **Link:** Not Available  
 📝 **Description:** Whether you're a penetration tester hunting easy targets, a bug bounty hunter looking to find bugs faster, or in charge of security for an enterprise network ... you need OSINT baked into your security processes. Join us for the world-wide release of Intrigue, an API-first framework for intelligence gathering and vulnerability discovery. The author will demo Intrigue, detail its architecture, and present results from IG experiments. Attendees will walk away with a scalable open-source framework for OSINT.
 
 </details>
@@ -254,7 +254,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>WireEdit</strong> — Michael Sukhar</summary>
 
 **Track:** Network Attacks · **Event:** USA 2015  
-🔗 **Link:** [https://github.com/pipe01/wireedit](https://github.com/pipe01/wireedit)  
+🔗 **Link:** [https://wireedit.com/](https://wireedit.com/)  
 📝 **Description:** Text editors give us means to manipulate text documents without knowing the character encoding schemes and formatting mechanisms. Vector graphics editors allow us to edit vector based pictures without understanding the underlying vector math. We love Wireshark. It does a fantastic job capturing, decoding and analyzing network packets. But what if you want to edit them?WireEdit is a WYSIWYG editor for network packets. It allows editing network packets at any stack layer without knowing anything about their syntax and encoding rules.
 
 </details>
@@ -282,7 +282,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Chellam</strong> — Vivek Ramachandran</summary>
 
 **Track:** Network Defense · **Event:** USA 2015  
-🔗 **Link:** [https://github.com/chellamn/chellam1](https://github.com/chellamn/chellam1)  
+🔗 **Link:** Not Available  
 📝 **Description:** Chellam is a Wi-Fi IDS/Firewall for Windows. Chellam can detect Wi-Fi attacks, such as Honeypots, Evil Twins, Mis-association, and Hosted Network based backdoors etc., against a Windows based client without the need of custom hardware or drivers. The tool also allows you to create Firewall like rule sets for Wi-Fi networks and create alerts etc. when there is a rule mismatch.
 
 </details>
@@ -354,7 +354,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Pestudio</strong> — Marc Ochsenmeier</summary>
 
 **Track:** Malware Defense · **Event:** USA 2015  
-🔗 **Link:** [https://github.com/KuechA/pestudio-cli](https://github.com/KuechA/pestudio-cli)  
+🔗 **Link:** [https://www.winitor.com/](https://www.winitor.com/)  
 📝 **Description:** Pestudio is a unique tool that allows you to perform an initial assessment of a malware without even infecting a lab system or studying its code. Malicious executable often attempts to hide its malicious behavior and to evade detection. In doing so, it generally presents anomalies and suspicious patterns. The goal of Pestudio is to detect these anomalies, provide Indicators and score the Trust for the executable being analyzed. Since the executable file being analyzed is never started, you can inspect any unknown or malicious executable with no risk. Pestudio has been in the top 10 list of "Best Security Tool" in 2013 and 2014 by the readers of ToolsWatch.org.
 
 </details>
@@ -404,7 +404,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>D1c0m-X</strong> — Michael Hudson</summary>
 
 **Track:** Smart Grid/Industrial Security · **Event:** USA 2015  
-🔗 **Link:** [https://github.com/zerstoeren/dicom-scan](https://github.com/zerstoeren/dicom-scan)  
+🔗 **Link:** Not Available  
 📝 **Description:** DICOM (Digital Imaging and Communications in Medicine) is recognized worldwide for the exchange of medical tests, designed for handling, display, storage, printing, and transmission standard. It includes defining a file format and a network communication protocol. Target:D1c0m-X is a tool that is responsible for searching the TCP / IP port Robot surgery or x-rays, CT scans, MRI or other medical device that use this protocol, and once found, check if the firmware is vulnerable, if not vulnerable, try to exploit the same way using scripts, which are intended to block the connection between the server and the Robot, making a DDOS or accessing the System. Before launching the attack, D1c0m-X also explores the possibility of an intrusion through the Corporative Web of the Hospital or Clinic, if the intrusion is achieved, we proceed to interact with shell console, applying different vulnerabilities, such as SQLI, Default password, etc. Finally, the DUMP of critical information of Patients, Doctors and Staff is automated.
 
 </details>
@@ -420,7 +420,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>YARD Stick One</strong> — Michael Ossmann, Taylor Streetman</summary>
 
 **Track:** Hardware/Embedded · **Event:** USA 2015  
-🔗 **Link:** [https://github.com/JamesHagerman/yard-stick-one-work](https://github.com/JamesHagerman/yard-stick-one-work)  
+🔗 **Link:** [https://greatscottgadgets.com/yardstickone/](https://greatscottgadgets.com/yardstickone/)  
 📝 **Description:** YARD Stick One is a sub-1 GHz wireless transceiver controlled directly from your computer. It uses the same radio circuit as the popular IM-Me. The radio functions that are possible by customizing IM-Me firmware are now at your fingertips when you attach YARD Stick One to a computer via USB.YARD Stick One (Yet Another Radio Dongle) comes with RfCat firmware installed, courtesy of atlas. RfCat allows you to control the wireless transceiver from an interactive Python shell or your own program running on your computer. The device also has CC Bootloader installed, so you can upgrade RFCat or install your own firmware without any additional programming hardware. Featuring an external antenna connector, transmit and receive amplification, and plenty of expansion options, YARD Stick One is the most powerful CC1111 board available. Unlike previous devices based on the CC1111 transceiver, it operates effectively over the entire frequency range of the transceiver IC, and it is open source hardware.
 
 </details>

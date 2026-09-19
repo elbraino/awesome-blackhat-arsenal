@@ -1,7 +1,7 @@
 {
   "Tool Name": "Packet Sender",
   "Description": "An open-source utility for sending and receiving network packets across TCP, UDP, and SSL protocols, with added parsing capabilities for analyzing received packets using custom DLL-based packet parsers.",
-  "Github URL": "https://github.com/OwlProjects/PacketSenderWithParsing",
+  "Github URL": "https://github.com/dannagle/PacketSender",
   "Tracks": [
     "Reverse Engineering"
   ],

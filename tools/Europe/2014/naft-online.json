@@ -1,7 +1,7 @@
 {
   "Tool Name": "NAFT Online",
   "Description": "Memory forensics is the next step the forensic community has taken. With NAFT Online, you can learn memory forensics for Cisco IOS. Learn how to use the Network Appliance Forensic Toolkit with a real Cisco IOS router.",
-  "Github URL": "https://github.com/digitalsleuth/naft",
+  "Github URL": "https://blog.didierstevens.com/programs/naft/",
   "Tracks": [
     "Data Forensics/Incident Response"
   ],

@@ -141,7 +141,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Deep Exploit: Fully Automatic Penetration Test Tool Using Machine Learning</strong> — Isao Takaesu</summary>
 
 **Track:** Vulnerability Assessment · **Event:** Europe 2018  
-🔗 **Link:** [https://github.com/TheDreamPort/deep_exploit](https://github.com/TheDreamPort/deep_exploit)  
+🔗 **Link:** [https://github.com/13o-bbr-bbq/machine_learning_security](https://github.com/13o-bbr-bbq/machine_learning_security)  
 📝 **Description:** DeepExploit is fully automated penetration tool linked with Metasploit. It identifies the status of all opened ports on the target server and executes the exploit at pinpoint using Machine Learning. Deep Exploit's key features are the following: Efficiently execute exploit: DeepExploit can execute exploits at pinpoint (minimum 1 attempt) using self-learned data. Deep penetration: If DeepExploit succeeds the exploit to the target server, then it further executes the exploit to other internal servers. Self-learning: DeepExploit can learn how to exploitation by itself (uses reinforcement learning). It is not necessary for humans to prepare learning data. Powerful intelligence gathering. To gather the information of software operated on the target server is very important for successful the exploitation. DeepExploit can identify product name and version using following methods. + Port scanning; Machine Learning (Analyze HTTP responses gathered by Web crawling); Google Hacking Current Deep Exploit's version is a beta, but it can fully automatically execute following actions: Intelligence gathering Threat modeling Vulnerability analysis Exploitation Post-Exploitation Reporting By using our DeepExploit, you will benefit from the following: For pentesters: (a) They can greatly improve the test efficiency; (b) The more pentesters use DeepExploit, DeepExploit learns how to method of exploitation using machine learning. As a result, accuracy of test can be improve. For Information Security Officers: (c) They can quickly identify vulnerabilities of own servers. As a result, prevent that attackers attack to your servers using vulnerabilities, and protect your reputation by avoiding the negative media coverage after breach. Because attack methods to servers are evolving day by day, there is no guarantee that yesterday's security countermeasures are safety today. It is necessary to quickly find vulnerabilities and take countermeasures. Our DeepExploit will contribute greatly to maintaining your safety. Presentation: https://www.slideshare.net/babaroa/deep-exploitblack-hat-europe-2018-arsenal Source Code:: https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit
 
 </details>
@@ -215,7 +215,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Drosera: Using Wireless Honeypot to Protect Wireless Networks</strong> — Yunfei Yang, Yongtao Wang, Hongjian Cao</summary>
 
 **Track:** Network Defense · **Event:** Europe 2018  
-🔗 **Link:** [https://github.com/0xmoei/drosera-network](https://github.com/0xmoei/drosera-network)  
+🔗 **Link:** Not Available  
 📝 **Description:** Drosera is a wireless honeypot platform for discovering wireless intrusion attacks and intruders identification. In wireless attacks, hackers are often attacking vulnerable wireless hotspots as a breakthrough. This means that a wireless network with obvious flaws will be the primary target for an attacker. When an attacker targets our wireless honeypot network, Drosera will record all actions before and after the attacker connects the network, including the process of attempting to connect to the network at the 802.11 frame level and further attacks after entering the honeypot network. Drosera can accurately identify the attack, and the first time to generate an alarm. We are equipped with high-interactive Windows and Linux honeypots in the network, which simulate normal business systems to confuse the attacker and delay the attack process. They will also help us get information about the hacker like the goals, the attack methods, and the skill level.
 
 </details>
@@ -239,7 +239,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>SNDBOX: The Artificial Intelligence Malware Research Platform</strong> — Ran Dubin, Ariel Koren</summary>
 
 **Track:** Malware Defense · **Event:** Europe 2018  
-🔗 **Link:** [https://github.com/kunai-project/sandbox](https://github.com/kunai-project/sandbox)  
+🔗 **Link:** Not Available  
 📝 **Description:** SNDBOX is the world's first Artificial Intelligence (AI) malware research platform designed to scale up research time. Developed by researchers for researchers, SNDBOX offers never-seen-before malware analysis visibility powered by kernel mode next generation sandbox. Multiple AI detection vectors work alongside our big data malware similarity engine to reduce false positive classification errors. Behavioral signatures, multi-vector deep learning classifiers and multiple AI similarity search engines seamlessly work together to provide high visibility and data-driven explanations to scale malware research capabilities and reduce research time. Furthermore, with full access to our data, all levels of your team can leverage information necessary for complete malware remediation and new research possibilities, while sharing insights, public samples and IOC's through our community platform.
 
 </details>
@@ -289,7 +289,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>IoXT Hunter: A Remote Discover & Pentest Tool for IoT Devices</strong> — Hao Zhao</summary>
 
 **Track:** Internet Of Things · **Event:** Europe 2018  
-🔗 **Link:** [https://github.com/EmergingThreats/iot-hunter](https://github.com/EmergingThreats/iot-hunter)  
+🔗 **Link:** Not Available  
 📝 **Description:** IoXT Hunter is an open source, extendable, large-scale IoT device remote discovery and pentest tool. It is designed to discover all known IoT devices for a specified range of network addresses and to perform security testing on related IoT devices using generic or targeted payloads. If you are a security administrator for a complex or large-scale IoT network (such as an industrial IoT network or a medical IoT network), IoXT Hunter will be your powerful tool. It can help you discover and record all your IoT device assets and perform full remote security testing of your IoT devices. IoXT Hunter also supports writing and loading your own plugins extensions. If you are an IoT security researcher and have discovered the security vulnerabilities of a kind of IoT device. You can write the appropriate discovery and pentest scripts to scan and evaluate the status of the IoT device on the public network through the IoXT Hunter.
 
 </details>
@@ -297,7 +297,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>PandaWar: Hardware Security Multidimensional Attack and Defense Toolset</strong> — JIE FU, Mingchuang Qin, Kunzhe Chai</summary>
 
 **Track:** Hardware/Embedded · **Event:** Europe 2018  
-🔗 **Link:** [https://github.com/Ming-Qin-tech](https://github.com/Ming-Qin-tech)  
+🔗 **Link:** Not Available  
 📝 **Description:** This is a hardware attack and defense tool platform. It will help you quickly master and implement a variety of hardware attack methods. It includes ultrasonic attacks, RFID attacks, power side channel attacks, and radio defense etc. All open source, design idea, design concept, design method, code, schematic, PCB.
 
 </details>

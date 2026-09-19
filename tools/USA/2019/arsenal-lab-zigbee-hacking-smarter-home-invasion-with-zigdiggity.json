@@ -1,7 +1,7 @@
 {
   "Tool Name": "ARSENAL LAB - ZigBee Hacking: Smarter Home Invasion with ZigDiggity",
   "Description": "ZigDiggity is a ZigBee hacking toolkit for testing the security of ZigBee-based smart home devices, enabling security researchers to identify vulnerabilities in ZigBee network implementations.",
-  "Github URL": "https://github.com/Koenkk/zigbee2mqtt",
+  "Github URL": "https://github.com/BishopFox/zigdiggity",
   "Tracks": [
     "Arsenal Lab"
   ],

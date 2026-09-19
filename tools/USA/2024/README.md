@@ -60,7 +60,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>RF Hacking on the Road: Logging Tire Sensors</strong> — Paul Clark</summary>
 
 **Track:** Arsenal Lab · **Event:** USA 2024  
-🔗 **Link:** [https://github.com/busydadsec/cyber-labs](https://github.com/busydadsec/cyber-labs)  
+🔗 **Link:** Not Available  
 📝 **Description:** Build an SDR-based scanner to log transmissions from tire sensors! Nearly every tire on every vehicle produced the last few decades contains a digital radio with a unique signature. By scanning, receiving, and logging these Tire Pressure Monitor (TPM) sensor transmissions, you can essentially fingerprint individual tires. Such a TPM logger allows you to determine information about when and how often unique vehicles pass through a given location. You can also extract some information on the make of each vehicle and a rough estimate of its year of manufacture. In this lab, you'll learn how and when TPM sensors transmit their data and how you can capture and log their communications. You'll then put together some Python code blocks to build a simple, SDR-based logger and test it on real TPM sensors.
 
 </details>
@@ -188,7 +188,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Hacking generative AI with PyRIT</strong> — Raja Sekhar Rao Dheekonda</summary>
 
 **Track:** OSINT - Open Source Intelligence · Cryptography · **Event:** USA 2024  
-🔗 **Link:** [https://github.com/Azure/PyRIT](https://github.com/Azure/PyRIT)  
+🔗 **Link:** [https://github.com/microsoft/PyRIT](https://github.com/microsoft/PyRIT)  
 📝 **Description:** In today's digital landscape, generative AI (GenAI) systems are ubiquitous, powering everything from simple chatbots to sophisticated decision-making systems. These technologies have revolutionized our daily interactions with digital platforms, enhancing user experiences and productivity. Despite their widespread utility, these advanced AI models are susceptible to a range of security and safety risks, such as data exfiltration, remote code execution, and the generation of harmful content. Addressing these challenges, PyRIT (Python Risk Identification Toolkit for generative AI), developed by the Microsoft AI Red Team, stands out as a pioneering tool designed to identify these risks associated with generative AI systems. PyRIT empowers security professionals and machine learning engineers to proactively identify risks within their generative AI systems, enabling the assessment of potential risks before they materialize into real-world threats. Traditional methods of manual probing for uncovering vulnerabilities are not only time-consuming but also lack the precision and comprehensiveness required in the fast-evolving landscape of AI security. PyRIT addresses this gap by providing an efficient, effective, and extensible framework for identifying security and safety risks, thereby ensuring the responsible deployment of generative AI systems. It is important to note that PyRIT is not a replacement for manual red teaming of generative AI systems. Instead, it enhances the process by allowing red team operators to concentrate on tasks that require greater creativity. PyRIT helps to assess the robustness of these generative AI models against different responsible AI harm categories such as fabrication/ungrounded content (e.g., hallucination), misuse (e.g., bias), and prohibited content (e.g., harassment). By the end of this talk, you will understand the presence of security and safety risks within generative AI systems. Through demonstrations, I'll show how PyRIT can effectively identify these risks in AI systems, including those based on text and multi-modal models. This session is designed for security experts involved in red teaming generative AI models and for software/machine learning professionals developing foundational models, equipping them with the necessary tools to detect security and safety vulnerabilities. Key Features of PyRIT include: 1. Scanning of GenAI models utilizing prompt injection techniques. 2. Support for various attack strategies, including single-turn and multi-turn engagements. 3. Compatibility with Azure OpenAI LLM endpoints, enabling targeted assessments. Easy to extend to custom targets. 4. Prompt Converters: Probe the GenAI endpoint with a variety of converted prompts (Ex., Base64, ASCII). 5. Memory: Utilizes DuckDB for efficient and scalable storage of conversational data, facilitating the storage and retrieval of chat histories, as well as supporting analytics and reporting.
 
 </details>
@@ -342,7 +342,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Moriarty</strong> — Anthony Rose, Jake Krasnov</summary>
 
 **Track:** Exploitation and Ethical Hacking · Malware Offense · **Event:** USA 2024  
-🔗 **Link:** [https://github.com/AzizKpln/Gokboru_Intel](https://github.com/AzizKpln/Gokboru_Intel)  
+🔗 **Link:** [https://github.com/BC-SECURITY/Moriarty](https://github.com/BC-SECURITY/Moriarty)  
 📝 **Description:** Moriarty is a.NET tool designed to identify vulnerabilities for privilege escalation in Windows environments. Building upon Watson and Sherlock, Moriarty extends their capabilities by incorporating advanced scanning techniques for newer vulnerabilities and integrating additional checks. This tool supports a wide range of Windows versions, from Windows 10 to Windows 11, and Server versions 2016, 2019, and 2022. Moriarty differentiates itself by its ability to enumerate missing KBs and detect various vulnerabilities linked to privilege escalation, offering suggestions for potential exploits. The tool's extensive database includes well-known vulnerabilities such as PrintNightmare (CVE-2021-1675), Log4Shell (CVE-2021-44228), and SMBGhost (CVE-2020-0796), among others.
 
 </details>
@@ -382,7 +382,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Opening the Door: API Key Permission Enumeration</strong> — Joe Leon</summary>
 
 **Track:** Exploitation and Ethical Hacking · Vulnerability Assessment · **Event:** USA 2024  
-🔗 **Link:** [https://github.com/gh0x0st/OSCP-A-Step-Forward](https://github.com/gh0x0st/OSCP-A-Step-Forward)  
+🔗 **Link:** [https://github.com/trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog)  
 📝 **Description:** You're a bug bounty hunter and find a live API key - how do you demonstrate the impact of that key leaking? You're an IT administrator and find a hardcoded secret in a PowerShell script - how do you identify the permissions that key holds? Most SaaS providers make it difficult to enumerate the access granted to a particular credential. In this talk, we're open-sourcing a new tool to enumerate the permissions and access associated with a leaked credential, without requiring access to the provider's UI. We'll walk through the meticulous steps we took to accurately assess each SaaS providers' scopes, as well as share the logic behind how we enumerate permissions, including string analysis, brute forcing and more.
 
 </details>
@@ -446,7 +446,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>VishLine</strong> — Matthew Jackoski, Mitchel Jordan</summary>
 
 **Track:** Exploitation and Ethical Hacking · Human Factors · **Event:** USA 2024  
-🔗 **Link:** [https://github.com/vizlib](https://github.com/vizlib)  
+🔗 **Link:** Not Available  
 📝 **Description:** Our telephonic phishing simulation tool is a cutting-edge, web-based platform designed to empower cybersecurity teams to create, manage, and execute complex telephonic phishing campaigns without requiring coding skills. This tool uniquely combines customizable Interactive Voice Response (IVR) systems with a collaborative, real-time operational environment, enabling the rapid deployment of simulated phishing attacks to test and enhance organizational defenses. By providing a realistic simulation of various telephonic phishing techniques, our tool assists in identifying vulnerabilities, refining response strategies, and ultimately strengthening the cybersecurity posture against one of the most challenging vectors for security breaches.
 
 </details>
@@ -456,7 +456,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Apeman: The AWS Policy Evaluation Manager</strong> — Daniel Heinsen</summary>
 
 **Track:** Vulnerability Assessment · Web AppSec · **Event:** USA 2024  
-🔗 **Link:** [https://github.com/LAC-Japan/Ghidra_AntiDebugSeeker](https://github.com/LAC-Japan/Ghidra_AntiDebugSeeker)  
+🔗 **Link:** [https://github.com/hotnops/apeman](https://github.com/hotnops/apeman)  
 📝 **Description:** Apeman is a tool designed to simplify the understanding of permissions and potential attack paths within an AWS (Amazon Web Services) environment for both attackers and defenders. AWS's permission model is inherently complex, featuring a detailed policy evaluation system, fine-grained policies, potentially conflicting statements, and various conditions. This complexity can make it challenging to manually determine which principals (users, roles, etc.) have permissions to perform certain actions, leading to a process that is not only tedious but also prone to errors. Apeman addresses this issue by modeling the AWS permission structure within a graph database. This approach enables it to provide an intuitive interface for users to navigate and obtain clear, precise answers about which principals can execute specific actions within the AWS environment. Essentially, it translates the intricate web of AWS permissions into a more understandable and visually navigable format. Furthermore, Apeman offers the capability to dynamically categorize principals into different tiers based on their permissions. Specifically, it can identify which principals or groups of principals are considered "Tier 0." This categorization is crucial because it highlights the principals with the most significant level of access or potential impact, thereby giving users a clearer understanding of the security posture of their AWS environment. By identifying these high-risk entities, Apeman can help identify which access points are the most crucial for securing or attacking an AWS environment.
 
 </details>
@@ -618,7 +618,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Network Monitoring Tools for macOS</strong> — Patrick Wardle</summary>
 
 **Track:** Malware Defense · Network Defense · **Event:** USA 2024  
-🔗 **Link:** [https://github.com/netxms/netxms](https://github.com/netxms/netxms)  
+🔗 **Link:** [https://github.com/objective-see/Netiquette](https://github.com/objective-see/Netiquette)  
 📝 **Description:** As the majority of malware contains networking capabilities, it is well understood that detecting unauthorized network access is a powerful detection heuristic. However, while the concepts of network traffic analysis and monitoring to detect malicious code are well established and widely implemented on platforms such as Windows, there remains a dearth of such capabilities on macOS. Here, we will present various tools capable of enumerating network state, statistics, and traffic, directly on a macOS host. We will showcase open-source tools that leverage low-level APIs, private frameworks, and user-mode extensions that provide insight into all networking activity on macOS: Specifically we'll demonstrate: * A network monitor that allows one to explore all network sockets and connections, either via an interactive UI, or from the commandline. * A DNS monitor that uses Apple's Network Extension Framework to monitors DNS requests and responses directly from the Terminal. * A firewall that monitors and filters all network traffic, giving users with the ability to block unknown/unauthorized outgoing connections.
 
 </details>
@@ -674,7 +674,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Ōkami: Advanced Binary Fingerprinting for Malware Attribution and Code Sharing Detection</strong> — Vishal Thakur, Benjamyn Whiteman</summary>
 
 **Track:** Malware Defense · Data Forensics/Incident Response · **Event:** USA 2024  
-🔗 **Link:** [https://github.com/wolfgangj/okami](https://github.com/wolfgangj/okami)  
+🔗 **Link:** Not Available  
 📝 **Description:** Okami is a cutting-edge tool designed to enhance malware research and cybersecurity analysis. The core functionality of Okami lies in its ability to export and individually hash all subroutines within a binary. These hashes serve as a unique fingerprint, enabling a comprehensive comparison against a database of known binaries. It empowers researchers to meticulously use disassembled code to build a database of malicious files and then use the tool to compare new samples against that database for attribution. Okami works with renowned frameworks like Capstone and Ghidra. The tool will be released at BlackHat 2024, USA and will be fully open-sourced with the entire codebase available on GitHub.
 
 </details>
@@ -734,7 +734,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Breaking Barriers: PyFrida's Simplified Pythonic Approach to Frida Scripting</strong> — Rui Cheng, Guoshuai Zhao, Jiacheng Hu, Chengao Zhang</summary>
 
 **Track:** Reverse Engineering · Android, iOS and Mobile Hacking · **Event:** USA 2024  
-🔗 **Link:** [https://github.com/hotnops/apeman](https://github.com/hotnops/apeman)  
+🔗 **Link:** Not Available  
 📝 **Description:** Frida is a widely-used binary instrumentation framework. When using Frida, the typical workflow involves writing Frida scripts in JS and injecting them into the target process using frida-tools or Frida's python bindings. This workflow presents several inconveniences, such as: * Inability to debug Frida scripts in real-time. * Integration of Frida scripts into projects requires mechanisms like RPC or Socket. * In the binary security field, Python is more popular than JS, which many users must familiarize themselves with before starting to write Frida scripts. To address these issues, we developed the PyFrida framework, enabling Frida scripts to be written in Python. It works by implementing a virtual machine in JS and dynamically converting Python code into a sequence of instructions to execute on the virtual machine. With PyFrida, users can write and debug Frida scripts in Python and easily integrate them into Python projects.
 
 </details>

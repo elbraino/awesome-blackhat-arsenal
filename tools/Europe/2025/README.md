@@ -364,7 +364,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Atomic Honeypot - A Tool That Can Hack Back the Attackers Who Are Trying to Connect to Your Database</strong> — Dan Gardner, Martin Rakhmanov, Alexander Rubin</summary>
 
 **Track:** Malware Defense · **Event:** Europe 2025  
-🔗 **Link:** [https://github.com/paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots)  
+🔗 **Link:** Not Available  
 📝 **Description:** Atomic Honeypot is an active defense tool that exploits vulnerabilities in MySQL and PostgreSQL client libraries to counter-attack adversaries attempting to compromise your databases. It leverages CVEs in database backup tools (mysqldump, pg_dump, pg_restore) to turn the tables on attackers, supporting both MySQL and PostgreSQL deception scenarios.
 
 </details>
@@ -414,7 +414,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>EMFIF2 - Electro Magnetic Fault Injection Fuzzing Framework</strong> — Luca Bongiorni, Andrea Bissoli</summary>
 
 **Track:** Hardware/Embedded · **Event:** Europe 2025  
-🔗 **Link:** [https://github.com/Cypherock/emfi-board](https://github.com/Cypherock/emfi-board)  
+🔗 **Link:** Not Available  
 📝 **Description:** EMFIF2 (Electro Magnetic Fault Injection Fuzzing Framework) automates hardware fault injection attacks using CNC-positioned electromagnetic pulse (EMP) generators. It provides a modular, scriptable approach to fuzzing embedded systems through targeted EM glitching, enabling researchers to discover hardware vulnerabilities with minimal manual intervention and observe device fault responses in real-time.
 
 </details>

@@ -22,7 +22,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>ZAP</strong> — Zakaria Rachid</summary>
 
 **Track:** Web AppSec · **Event:** Europe 2014  
-🔗 **Link:** [https://github.com/uber-go/zap](https://github.com/uber-go/zap)  
+🔗 **Link:** [https://github.com/zaproxy/zaproxy](https://github.com/zaproxy/zaproxy)  
 📝 **Description:** The Zed Attack Proxy (ZAP) is currently the most active open source web application security tool and competes effectively with commercial tools. While it is an ideal tool for people new to appsec, it also has many features specifically intended for advanced penetration testing. Zack will give a quick introduction to ZAP and then dive into the more advanced features, presenting some useful scripts as well as giving an overview of where its heading.
 
 </details>
@@ -42,7 +42,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>NAFT Online</strong> — Didier Stevens</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** Europe 2014  
-🔗 **Link:** [https://github.com/digitalsleuth/naft](https://github.com/digitalsleuth/naft)  
+🔗 **Link:** [https://blog.didierstevens.com/programs/naft/](https://blog.didierstevens.com/programs/naft/)  
 📝 **Description:** Memory forensics is the next step the forensic community has taken. With NAFT Online, you can learn memory forensics for Cisco IOS. Learn how to use the Network Appliance Forensic Toolkit with a real Cisco IOS router.
 
 </details>
@@ -52,7 +52,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Lights Off Hardware Demo</strong> — Javier Vazquez Vidal</summary>
 
 **Track:** Hardware/Embedded · **Event:** Europe 2014  
-🔗 **Link:** [https://github.com/hdf1996/lights-demo](https://github.com/hdf1996/lights-demo)  
+🔗 **Link:** Not Available  
 📝 **Description:** Are you interested in the "Lights Off! The Darkness of the Smart Meters" talk that will be presented at Black Hat Europe? Then you should check this out! Since Arsenal brings the invaluable opportunity of allowing the attendees to get a closer look at researchers work, we want to show you the real stuff. We want you to be able to see, feel and touch the process of reversing we experienced, and show you the tools we used. There will be IDA, Logic Analysers, GDB, Arduino, blown hardware (literally!) and a lot of wires!
 
 </details>

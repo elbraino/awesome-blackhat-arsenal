@@ -84,7 +84,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>WebVerify</strong> — Luis Antonio Rosales Marco</summary>
 
 **Track:** Web AppSec · **Event:** USA 2013  
-🔗 **Link:** [https://github.com/jahed/webverify](https://github.com/jahed/webverify)  
+🔗 **Link:** Not Available  
 📝 **Description:** WebVerify is a tool that aims to help in the recognition, vulnerability scanning and search patterns based on its own database. Unlike other tools, WebVerify first recognizes whether the target is a CMS to run other exploits... among its other advantages, WebVerify also provides command scripts to perform common WAF bypass techniques.
 
 </details>
@@ -136,7 +136,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>ThunderCell</strong> — Georgia Weidman</summary>
 
 **Track:** Android, iOS and Mobile Hacking · **Event:** USA 2013  
-🔗 **Link:** [https://github.com/thunderbird/thundercell](https://github.com/thunderbird/thundercell)  
+🔗 **Link:** Not Available  
 📝 **Description:** ThunderCell is a new all encompassing mobile security distribution providing the most comprehensive toolset for mobile vulnerability research, exploitation, forensics, and application auditing. The included tools span multiple mobile platforms including Android, iPhone, Windows Phone, BlackBerry, and Software Defined Radio, among others. Created and maintained by mobile researchers, ThunderCell is developed with mobile security practitioners in mind, with everything you need for your next engagement, class, or research project.
 
 </details>
@@ -146,7 +146,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Information Disclosure in Facebook Graph Api with A.T.H.O.S</strong> — Michael Hudson</summary>
 
 **Track:** OSINT - Open Source Intelligence · **Event:** USA 2013  
-🔗 **Link:** [https://github.com/maurobonfietti/api-graph-facebook](https://github.com/maurobonfietti/api-graph-facebook)  
+🔗 **Link:** Not Available  
 📝 **Description:** The Graph API is the primary way that data is retrieved or posted to Facebook. The Getting Started Guide contains an overview of the basics of the API, walks you through using the Graph API Explorer, shows you how names work, how permissions work, what connections are and puts it all together so the rest of this reference make sense.
 
 </details>
@@ -162,7 +162,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Sphere of Influence 3.2</strong> — Darren Manners</summary>
 
 **Track:** OSINT - Open Source Intelligence · **Event:** USA 2013  
-🔗 **Link:** [https://github.com/sphere-of-influence/sphere-of-influence.github.io](https://github.com/sphere-of-influence/sphere-of-influence.github.io)  
+🔗 **Link:** Not Available  
 📝 **Description:** The purpose of sphere of influence was to address the shortcomings of visualizations with regards to a tactical awareness. The IP address-to-geographical location and organization was designed to aid in the removal of false positives. It also provides details about location, latitude/longitude and organizational information. It addressed the fact that the majority of attacks were coming from the United States and China or from countries with high levels of broadband access.
 
 </details>
@@ -204,7 +204,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Kfuzz</strong> — Matthew Bergin</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2013  
-🔗 **Link:** [https://github.com/jinb-park/kfuzz](https://github.com/jinb-park/kfuzz)  
+🔗 **Link:** Not Available  
 📝 **Description:** Kfuzz was my take on kernel level device driver fuzzing with Python. I used Python's ctypes module to interact with the OS kernel and from there manage memory and make subsequent calls to the driver loaded into the kernel.
 
 </details>
@@ -236,7 +236,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>The cat's meow</strong> — Taylor Pennington</summary>
 
 **Track:** Malware Offense · **Event:** USA 2013  
-🔗 **Link:** [https://github.com/aschmelyun/the-cats-meow](https://github.com/aschmelyun/the-cats-meow)  
+🔗 **Link:** Not Available  
 📝 **Description:** The Cat's Meow is a tool used during our penetration testing which analyzes the most common password scheme seen during our decoding and decryption stage of post exploitation. The tool reads in a password list of already obtained cleartext passwords and produces the most commonly seen Hashcat Masks which can then in turn be used to more quickly reverse other passwords.
 
 </details>
@@ -262,7 +262,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>VScan</strong> — Federico Massa</summary>
 
 **Track:** Vulnerability Assessment · **Event:** USA 2013  
-🔗 **Link:** [https://github.com/veo/vscan](https://github.com/veo/vscan)  
+🔗 **Link:** Not Available  
 📝 **Description:** Usually, after we performed a Vulnerability Assessment in our organisation, we continue our work with the development of an plan of security improvements with the ultimate goal of reducing the risk and threats and be in conformity with security politics and requirements.
 
 </details>
@@ -280,7 +280,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>De-Cloak</strong> — Darren Manners</summary>
 
 **Track:** Network Defense · **Event:** USA 2013  
-🔗 **Link:** [https://github.com/sandflysecurity/sandfly-file-decloak](https://github.com/sandflysecurity/sandfly-file-decloak)  
+🔗 **Link:** Not Available  
 📝 **Description:** De-Cloak is designed to extract HTTP user agents from PCAP files and store known user agents in a database. Hackers often hide wget or http requests by using known user agents. However, if we change our own user agents (perhaps via a GPO) we can start to investigate what starts to stand out. Simple but effective.
 
 </details>
@@ -304,7 +304,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Registry Inspector Forensics (RIF)</strong> — Lodovico Marziale</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** USA 2013  
-🔗 **Link:** [https://github.com/AngelSayani/Advanced-Registry-Forensic-Lab](https://github.com/AngelSayani/Advanced-Registry-Forensic-Lab)  
+🔗 **Link:** Not Available  
 📝 **Description:** Registry Inspector Forensics (RIF), based on the widely used Registry Decoder, is a powerful registry forensics platform. It features the ability to acquire and analyze numerous registry hives simultaneously, intelligent search, a plugin-based architecture, both GUI and full command line support and the ability to parse and analyze memory-resident hive files including the volatile hives. This functionality is perfectly suited for forensic investigations, malware analysis, and incident response scenarios. The project is free and open source and under active development.
 
 </details>
@@ -312,7 +312,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>TinyLane</strong> — Rob Bathurst</summary>
 
 **Track:** Cryptography · **Event:** USA 2013  
-🔗 **Link:** [https://github.com/rounakbharti/TinyLane](https://github.com/rounakbharti/TinyLane)  
+🔗 **Link:** Not Available  
 📝 **Description:** The TinyLANEâ¢ is a small mobile encryption device developed by Peak Security, Inc. to allow individuals and businesses to create instant AES256 point-to-point tunnels between two or more TinyLANEs utilizing individual keys for each connection. The TinyLANEâ¢ is capable of functioning on most hardware platforms including ARM, x86, and 64-bit based processors in addition to throughput at near line speed on most connects up to 10 Gigabit.
 
 </details>
@@ -366,7 +366,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>SocialKlepto</strong> — Jason Ding</summary>
 
 **Track:** Human Factors · **Event:** USA 2013  
-🔗 **Link:** [https://github.com/hellofresh/klepto](https://github.com/hellofresh/klepto)  
+🔗 **Link:** Not Available  
 📝 **Description:** We will demonstrate two tools, which one can launch effective social attacks to conduct corporate espionage, and the other one can defend users from such attacks.
 
 </details>

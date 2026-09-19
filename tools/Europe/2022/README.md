@@ -20,7 +20,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Drone Threats and Countermeasures</strong> — Stephen Scott, Steve Wright</summary>
 
 **Track:** Arsenal Lab · **Event:** Europe 2022  
-🔗 **Link:** [https://github.com/ZhaoJ9014/Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV)  
+🔗 **Link:** Not Available  
 📝 **Description:** A computer vision project focused on discovering, detecting, recognizing, and tracking Unmanned Aerial Vehicle (UAV) targets using RGB and thermal infrared videos, with benchmark datasets and evaluation metrics.
 
 </details>
@@ -36,7 +36,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Mining for Secrets: Repos, firmware, and more</strong> — Anthony Paimany</summary>
 
 **Track:** Arsenal Lab · **Event:** Europe 2022  
-🔗 **Link:** [https://github.com/mauricioaniche/repodriller](https://github.com/mauricioaniche/repodriller)  
+🔗 **Link:** Not Available  
 📝 **Description:** A Java framework for mining software repositories that helps researchers extract data from Git repos including commits, developers, modifications, and source code, with CSV export capabilities.
 
 </details>
@@ -92,7 +92,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Defascan: Defacement Scan and Alert</strong> — Ayush Shrestha</summary>
 
 **Track:** OSINT - Open Source Intelligence · Data Forensics/Incident Response · **Event:** Europe 2022  
-🔗 **Link:** [https://github.com/ramxtha/defascan](https://github.com/ramxtha/defascan)  
+🔗 **Link:** Not Available  
 📝 **Description:** Web server defacement is also a major problem especially for government sites. Therefore, this project intends to develop a web server defacement detection tool named DefaScan. This tool, DefaScan will detect a defaced website and notify about it.
 
 </details>
@@ -118,7 +118,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Codecepticon - One Obfuscator to Rule Them All</strong> — Pavel Tsakalidis</summary>
 
 **Track:** Malware Offense · Malware Defense · **Event:** Europe 2022  
-🔗 **Link:** [https://github.com/sadreck/Codecepticon](https://github.com/sadreck/Codecepticon)  
+🔗 **Link:** [https://github.com/Accenture/Codecepticon](https://github.com/Accenture/Codecepticon)  
 📝 **Description:** Codecepticon is an obfuscator that works with C#, PowerShell, and VBA (macros), and has been battle-tested for the last 1.5yr against modern ERD and AV technologies with great success. It supports a variety of obfuscation techniques such as renaming classes, and functions, rewriting strings and the tool's command line arguments, and even generating "English sounding" variable names using Markov chains. Instead of targeting compiled executables/assemblies, it focuses on the source code and utilizes Roslyn for C#, PS Automation for PowerShell, and ANTLR for VBA, in order to achieve the best possible result.
 
 </details>
@@ -234,7 +234,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>CQSysmon Toolkit: Advanced System Monitoring Toolkit</strong> — Paula Januszkiewicz, Mike Jankowski-Lorek</summary>
 
 **Track:** Cryptography · **Event:** Europe 2022  
-🔗 **Link:** [https://github.com/SwiftOnSecurity/sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config)  
+🔗 **Link:** Not Available  
 📝 **Description:** Our toolkit has proven to be useful in the 25000 computers environment. It relies on a free Sysmon deployment and its goal is to boost information delivered by the original tool. CQSysmon Toolkit allows you to extract information about what processes have been running in the operating system, get their hashes and submit them into Virus Total for the forensic information about the malware cases. It also allows to extract information into spreadsheet about what types of network connections have been made: what is the destination IP address, which process was responsible for it and who is the owner of IP. The toolkit also allows to extract information about the current system configuration and compare it with the other servers and much more that allows to become familiar of what is going on in your operating system. There is a special bonus tool in a toolkit that allows to bypass some parts of the Sysmon with another tool that allows to spot that situation so that everything stays in control. CQSysmon Toolkit allows you to established detailed monitoring of the situation on your servers and it is a great complement to the existing forensic tools in your organization.
 
 </details>
@@ -308,7 +308,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Reversing MCU with Firmware Emulation</strong> — KAI JERN LAU, MuChen Su, Zheng Yu, Anh Quynh NGUYEN</summary>
 
 **Track:** Hardware/Embedded · Reverse Engineering · **Event:** Europe 2022  
-🔗 **Link:** [https://github.com/therealsaumil/emux](https://github.com/therealsaumil/emux)  
+🔗 **Link:** [https://github.com/qilingframework/qiling](https://github.com/qilingframework/qiling)  
 📝 **Description:** A microcontroller unit (MCU) is a small computer on a single metal-oxide-semiconductor (MOS) integrated circuit (IC) chip. It is widely used in various types of devices, appliances, automobiles, and many more. Recently MCU security has been raised as a major concern among users and operators, as MCU vulnerabilities can be catastrophic. For this reason, it is important to audit MCU code for security issues. Unfortunately, due to the limited resources on MCU, the on-device test for MCU is not feasible. Besides, there are no emulation solutions able to provide a full instrumentation analysis platform for MCU firmware. On the other hand, the tight coupling between MCU and hardware peripherals makes it difficult to build an MCU firmware emulator. This greatly hinders the application of dynamic analysis tools in firmware analysis, such as fuzzing. This talk discusses how we emulated MCU emulation without real peripheral hardware. This requires to model peripheral's registers and interrupts, and implements their internal logic based on the official peripheral documentation and hardware abstraction layer (HAL). We can now emulate widely used MCU chips from top MCU vendors such as STM, Atmel, NXP, and so on. Each of them includes a diverse set of peripherals, including UART, I2C, SPI, ADC, Ethernet, SD Card, Timer, etc. Upon our emulation, we built several analysis tools for various firmware formats, such as ELF, Binary, and Intel Hex, which are widely used in MCU libraries (RTOS, Arduino, Protocol Stack, etc). We are able to perform advanced tasks, such as: - Instrument and hijack MCU's activities (e.g, reads and writes to peripherals). - Save and restore current peripheral/execution states (e.g. register and interrupts). - Supports multi-threaded firmware, such as RTOS. - Hijack the interrupts from peripherals, so users can control the scheduling policy of multi-threaded firmware. To demonstrate the power of our work, we will have live demos to show some exciting cases: - Emulate MCU with external devices via SPI. UART and I2C - Fuzz MCU firmware to find 0days with a customized AFL fuzzer. - Password brute forcing for MCU firmware - To solve some MCU challenges on CTFs New code and demo will be released after the talk.
 
 </details>

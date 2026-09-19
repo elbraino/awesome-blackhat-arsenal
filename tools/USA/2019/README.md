@@ -37,7 +37,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>ARSENAL LAB - Applied Hardware Attacks: Prototyping Malicious Hardware on the Cheap</strong> — Joe FitzPatrick, Mike Grover, Chris Gammell, Piotr Esden-Tempski</summary>
 
 **Track:** Arsenal Lab · **Event:** USA 2019  
-🔗 **Link:** [https://github.com/stevemats/Hacker-Arsenal-Toolkit](https://github.com/stevemats/Hacker-Arsenal-Toolkit)  
+🔗 **Link:** Not Available  
 📝 **Description:** A hands-on Arsenal Lab workshop teaching participants how to prototype malicious hardware implants on the cheap, covering hardware attack techniques for security research and penetration testing.
 
 </details>
@@ -61,7 +61,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>ARSENAL LAB - ZigBee Hacking: Smarter Home Invasion with ZigDiggity</strong> — Francis Brown, Matthew Gleason</summary>
 
 **Track:** Arsenal Lab · **Event:** USA 2019  
-🔗 **Link:** [https://github.com/Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)  
+🔗 **Link:** [https://github.com/BishopFox/zigdiggity](https://github.com/BishopFox/zigdiggity)  
 📝 **Description:** ZigDiggity is a ZigBee hacking toolkit for testing the security of ZigBee-based smart home devices, enabling security researchers to identify vulnerabilities in ZigBee network implementations.
 
 </details>
@@ -121,7 +121,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>SASTRI: Plug and Play VM for SAST/*Static Application Security Testing Realtime Integration*/</strong> — Rushikesh D. Nandedkar, Lalit Bhandari</summary>
 
 **Track:** Code Assessment · **Event:** USA 2019  
-🔗 **Link:** [https://github.com/TheCyberpunker/SAST-Resources](https://github.com/TheCyberpunker/SAST-Resources)  
+🔗 **Link:** Not Available  
 📝 **Description:** Abiding by the new hot concept of "Secure By Design," SASTRI is project carved out of the experiences/struggles/conflicts of product security engineers. It is an in-house SAST capability (plug and play VM) we are proposing, to make security engineers' inputs more receivable and reachable to the product developers and the decision-makers - while making our products more and more secure. This will save a lot of security engineers' and DevOps experts' time when it coms to setting up and fine tuning the SAST tools. Highlights of SASTRI are: Open source (hence free to edit and reconfigure) Presently capable of scanning Python, C, C++ programs Almost zero understanding of security principles is required to "run" SASTRI. (For bug resolution, yes definitely a deep understanding is required) Automated bug reporting Email alert for the issues reported Same email contains attachment of report where buggy code snippet is mentioned along with the exact position of bug Easy to integrate approach SASTRI is an effort towards making SAST tools available right at the time of unit testing of code, in an automated way. The reason being, in most of Agile flavors of development, security testing is done in the end of the sprint, leaving very little to no time for bug fixes. Also, the smaller time window for security testing results in "not so in depth security testing" and "superficial fixes." However, on the other hand, introducing security testing right at the programming phase in SDLC, can help in: Finding vulnerabilities which are easy to exploit but difficult to mitigate Finding vulnerabilities which are present due to complicated execution paths Finding vulnerabilities specific to insecure configuration Setting up basic secure code development principles amongst developers (Trust me this is the trickiest task, as most of the Devs are super possessive about their code and coding styles. Also, this effort can help reduce apprehensions of security engineers when uploading source code on some vendors server which they do not trust. The list of advantages is huge; we have tried generalize them to the least count possible.
 
 </details>
@@ -415,7 +415,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>WTS: Scenario-Based WiFi Network Threat Simulation</strong> — Besim Altinok, Legendary Nacar, Can Kurnaz</summary>
 
 **Track:** Network Attacks · **Event:** USA 2019  
-🔗 **Link:** [https://github.com/vipul-69-ax/Wireless-Network-Simulation](https://github.com/vipul-69-ax/Wireless-Network-Simulation)  
+🔗 **Link:** Not Available  
 📝 **Description:** The WiFi Network Threat Simulation project is designed to perform scenario-based wifi network security tests. Thanks to the modules inside, you can test both the user and AP devices as well as the wireless IDS and IPS devices.
 
 </details>
@@ -499,7 +499,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>AutoMacTC: Finding Worms in Apple Orchards - Using AutoMacTC for macOS Incident Response</strong> — Kshitij Kumar, Jai Musunuri</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** USA 2019  
-🔗 **Link:** [https://github.com/crowdstrike/automactc](https://github.com/crowdstrike/automactc)  
+🔗 **Link:** [https://github.com/shmz/automactc](https://github.com/shmz/automactc)  
 📝 **Description:** The recent rise of macOS in enterprise environments has not gone unnoticed by adversaries, who often take advantage of unmanaged and unsupervised Mac assets for their misdeeds. A traditional forensic approach can no longer support enterprise investigations – they require rapid triage and response, often due to resource constraints and a pressing need for answers and remediation. Performing forensic imaging and deep-dive analysis can be incredibly time-consuming and induce data fatigue in analysts, who may only need a select number of artifacts to identify leads and start finding answers. The resources-to-payoff ratio is impractical. In this presentation, we will discuss AutoMacTC: an open-source Python framework that can be quickly deployed to gather forensic data on macOS devices, from the artifacts that matter most to you and your investigation. Incident response in the macOS world requires that analysts know where to look for evil, gather the relevant data quickly, and know how to discern the malicious from the innocuous. AutoMacTC captures sufficient data into a singular location, equipping responders with all of the above.
 
 </details>
@@ -727,7 +727,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>The Go Reverse Engineering Tool Kit</strong> — Joakim Kennedy</summary>
 
 **Track:** Reverse Engineering · **Event:** USA 2019  
-🔗 **Link:** [https://github.com/goretk](https://github.com/goretk)  
+🔗 **Link:** [https://github.com/goretk/gore](https://github.com/goretk/gore)  
 📝 **Description:** The Go Reverse Engineering Tool Kit (go-re.tk) is a new open source toolset for analyzing Go binaries. The tool is designed to extract as much metadata as possible from stripped binaries to aid both reverse engineering and malware analysis. Gore can, for example, detect the compiler version used, extract type information and recover function information, including source code line numbers for functions and source tree structure. The core library is written in Go, but the tool kit includes C-bindings and a library implementation in Python. When using the C-bindings or the Python library, it is possible to write plugins for other analysis tools such as IDA Pro and Ghidra. The toolset also includes "redress", a command line tool to "re-dress" stripped Go binaries. It can both be used standalone to print out extracted information from the binary or as a radare2 plugin to reconstruct stripped symbols and type information. The goal with the tool kit is to lower the bar to enter for anyone that wants to analyze programs written in Go. Source Code: https://github.com/goretk
 
 </details>

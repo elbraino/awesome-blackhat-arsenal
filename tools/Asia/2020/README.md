@@ -134,7 +134,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>USB Controlled Stress Test Tool</strong> — William Yang, Qian Wenhao</summary>
 
 **Track:** Vulnerability Assessment · **Event:** Asia 2020  
-🔗 **Link:** [https://github.com/ncw/stressdisk](https://github.com/ncw/stressdisk)  
+🔗 **Link:** Not Available  
 📝 **Description:** Windows anti-forensics USB monitoring tool for stress test.
 
 </details>
@@ -202,7 +202,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Attack Demonstration Tool Kits for Industry 4.0 Using AI and Cloud</strong> — Wataru Matsuda, Mariko Fujimoto, Takuho MItsunaga</summary>
 
 **Track:** Smart Grid/Industrial Security · **Event:** Asia 2020  
-🔗 **Link:** [https://github.com/xforcered/MLOKit](https://github.com/xforcered/MLOKit)  
+🔗 **Link:** Not Available  
 📝 **Description:** Industry 4.0 is a new concept of automation data exchange in manufacturing, and technologies and structures are significantly different from the current general ICS. Autonomous judgment and execution are required, and it is based on information exchange using AI and cloud technologies. Devices are supposed to connect interactively that can create new attack surfaces and risks of cyber-attacks. For instance, if AI on the cloud is used for controlling the ICS, attackers could change parameters for controlling ICS by contaminating the judgment of AI. In such a situation, attackers could compromise ICS without accessing the ICS network. Detecting such attacks is quite challenging if operators rely on AI to judge the desirable parameters of ICS. Therefore, it is important to instruct cyber risks of ICS in Industry 4.0. We introduce attack demonstration took kits for Industry 4.0 using actual machines (water supply pump system). This tool kit is portable, and easy to prepare, so is useful for instructing the cyber-risks of ICS whenever and whenever we want. In aspects of Industry 4.0, we especially focus on the security risks of ICS in the following aspects: - When computers and devices are connected interactively - When AI on the cloud is used for controlling the ICS We will show you a demonstration of attacks: the attacker can change the physical status of ICS without accessing the ICS network through an attack against AI.
 
 </details>
@@ -210,7 +210,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Wi-Fi Access Point Rootkits</strong> — Nishant Sharma, Jeswin Mathai</summary>
 
 **Track:** Internet Of Things · **Event:** Asia 2020  
-🔗 **Link:** [https://github.com/jimbon25/WIFI-TOOLKIT](https://github.com/jimbon25/WIFI-TOOLKIT)  
+🔗 **Link:** Not Available  
 📝 **Description:** Wi-Fi access point (AP) security is one of the most important aspects when it comes to securing networks. The compromise of a Wi-FI AP (which mostly also double-up as a router in SOHO environments) can lead to several secondary attacks. There are multiple vectors that are used to compromise the WiFi AP ranging from default passwords to sophisticated 0-days. But, after compromising the device, avoiding detection and maintaining access are the most important areas which eventually dictate the impact of the compromise. We are going to release a set of code snippets along with the documentation making it easy for people who want to understand the working of Kernel rootkits for IoT devices like Wi-Fi APs. The code will cover hiding a process, renaming a process, blocking kill command on certain processes, network stack based RAT and much more. The code will be released under GPL v2.
 
 </details>

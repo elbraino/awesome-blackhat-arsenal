@@ -1,7 +1,7 @@
 {
   "Tool Name": "EMFIF2 - Electro Magnetic Fault Injection Fuzzing Framework",
   "Description": "EMFIF2 (Electro Magnetic Fault Injection Fuzzing Framework) automates hardware fault injection attacks using CNC-positioned electromagnetic pulse (EMP) generators. It provides a modular, scriptable approach to fuzzing embedded systems through targeted EM glitching, enabling researchers to discover hardware vulnerabilities with minimal manual intervention and observe device fault responses in real-time.",
-  "Github URL": "https://github.com/Cypherock/emfi-board",
+  "Github URL": "",
   "Tracks": [
     "Hardware/Embedded"
   ],

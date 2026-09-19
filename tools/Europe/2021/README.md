@@ -29,7 +29,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Disrupting OT and IoT by Exploiting TCP/IP Stacks</strong> — Stanislav Dashevskyi, Daniel dos Santos</summary>
 
 **Track:** Arsenal Lab · **Event:** Europe 2021  
-🔗 **Link:** [https://github.com/MeherP2246/Exploiting-IoT-Devices](https://github.com/MeherP2246/Exploiting-IoT-Devices)  
+🔗 **Link:** [https://github.com/Forescout/project-memoria-detector](https://github.com/Forescout/project-memoria-detector)  
 📝 **Description:** A project that investigates vulnerabilities in IoT smart devices by testing denial-of-service and deauthentication attacks to evaluate their security protocols and communication vulnerabilities.
 
 </details>
@@ -37,7 +37,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Packet Carving for SATCOMs Hackers</strong> — James Pavur</summary>
 
 **Track:** Arsenal Lab · **Event:** Europe 2021  
-🔗 **Link:** [https://github.com/pavja2](https://github.com/pavja2)  
+🔗 **Link:** [https://github.com/ssloxford/gsextract](https://github.com/ssloxford/gsextract)  
 📝 **Description:** Tools for satellite communications security research, including GSExtract for converting satellite radio captures of internet traffic using Generic Stream Encapsulation (GSE) over DVB-S into usable pcap files.
 
 </details>
@@ -199,7 +199,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>on the fly</strong> — Pablo Gonzalez, Luis Eduardo Alvarez</summary>
 
 **Track:** Network Attacks · **Event:** Europe 2021  
-🔗 **Link:** [https://github.com/graphdeco-inria/on-the-fly-nvs](https://github.com/graphdeco-inria/on-the-fly-nvs)  
+🔗 **Link:** [https://github.com/Telefonica/on-the-fly](https://github.com/Telefonica/on-the-fly)  
 📝 **Description:** The 'on-the-fly' tool intends to give the pentester an 'all-in-one' tool by deploying different functionalities applicable across the three domains of work: IoT, ICS & IT. The present work introduces a new framework in which enough functionalities will be provided to discover, evaluate, and audit technologies from the three mentioned domains.
 
 </details>
@@ -207,7 +207,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Pentest Collaboration Framework</strong> — Ilya Shaposhnikov, Sergey Bliznyuk, Maksim Lebedev, Sofia Marakhovich</summary>
 
 **Track:** Network Attacks · **Event:** Europe 2021  
-🔗 **Link:** [https://github.com/Cyberwatch/Pentest-Collaboration-Framework](https://github.com/Cyberwatch/Pentest-Collaboration-Framework)  
+🔗 **Link:** [https://gitlab.com/invuls/pentest-projects/pcf](https://gitlab.com/invuls/pentest-projects/pcf)  
 📝 **Description:** Pentest Collaboration Framework - An opensource, cross-platform and portable toolkit that allows you to exchange information on the penetration testing process. It also contains a model of differentiation of rights for use by several teams or independent researchers. One of latest major updates from previous Black Hat conference is a new feature - issue templates library which allow pentesters to create issues much more faster!
 
 </details>
@@ -267,7 +267,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>An Open Stack for Threat Hunting in Hybrid Cloud With Connected Observability</strong> — Xiaokui Shu, Frederico Araujo, Teryl Taylor, Jiyong Jang</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** Europe 2021  
-🔗 **Link:** [https://github.com/opencybersecurityalliance/kestrel-huntbook](https://github.com/opencybersecurityalliance/kestrel-huntbook)  
+🔗 **Link:** [https://github.com/opencybersecurityalliance/kestrel-lang](https://github.com/opencybersecurityalliance/kestrel-lang)  
 📝 **Description:** We present a cloud-native threat hunting architecture built on open-source technologies. The security architecture integrates SysFlow and Kestrel to provide connected endpoint observability, edge analytics, and a cyber-reasoning stack that enables threat hunters to quickly and uniformly perform threat hunting and investigation across cloud and premise environments. This facilitates a new threat discovery methodology in which declarative hunting flows automate the search for behavioral attack patterns and indicators of compromise in telemetry data streams that are automatically tagged with attack TTPs. We show how these two open-source frameworks can deploy and scale natively on cloud environments to discover attacks and security breaches against cloud services and container infrastructures. SysFlow is an open observability framework that lifts and normalizes the representation of system activities into a compact entity-relational format that records workload behaviors by connecting single-event and volumetric flow representations of process control flows, file interactions, and network communications. It drastically reduces data footprints over existing approaches and is particularly suitable for large scale cloud-wide monitoring and forensic investigation of sophisticated cyber-attacks that may not be discovered for long periods of time. Kestrel is a threat hunting language for creating composable, reusable, and shareable hunt flows. It brings two key innovations to the security community: (i) a composable way of expressing hunting knowledge for threat hypothesis development and reasoning over entity-relational data abstractions, and (ii) an open-source language runtime to compute how to perform hunting steps and execute them in a distributed fashion at the local hunting site, remote data sources, and in the cloud. We will demonstrate through live threat hunting scenarios how the two open-source projects can help create a powerful open platform for gaining operational awareness and alleviating key pain points in integrating security solutions into a "single-pane-of-glass" for effective and shareable threat hunting in the cloud.
 
 </details>
@@ -307,7 +307,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>RIoTPot: A Modular Hybrid-Interaction IoT/OT Honeypot</strong> — Emmanouil Vasilomanolakis, Shreyas Srinivasa, Abhimanyu Rawat</summary>
 
 **Track:** Malware Defense · **Event:** Europe 2021  
-🔗 **Link:** [https://github.com/honeynet/riotpot](https://github.com/honeynet/riotpot)  
+🔗 **Link:** [https://github.com/aau-network-security/riotpot](https://github.com/aau-network-security/riotpot)  
 📝 **Description:** A modular hybrid-interaction honeypot focused on emulating IoT and OT protocols, functioning as a proxy service that routes incoming attacks to various internal and external honeypot services.
 
 </details>
@@ -341,7 +341,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>UART Brute Forcing</strong> — Andrew Blyth</summary>
 
 **Track:** Hardware/Embedded · **Event:** Europe 2021  
-🔗 **Link:** [https://github.com/firefart/UARTBruteForcer](https://github.com/firefart/UARTBruteForcer)  
+🔗 **Link:** Not Available  
 📝 **Description:** A Python script that brute-forces login credentials via a serial (UART) connection on embedded devices.
 
 </details>

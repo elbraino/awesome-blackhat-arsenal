@@ -27,7 +27,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Highway to the Danger Drone</strong> — Francis Brown, Dan Petro, David Latimer</summary>
 
 **Track:** Arsenal Lab · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/arunnthevapalan/drone-cv](https://github.com/arunnthevapalan/drone-cv)  
+🔗 **Link:** Not Available  
 📝 **Description:** Do you feel the needâ¦ the need for speed? Then check out our brand new penetration testing drone. This Raspberry Pi based copter is both cheap and easy to create on your own, making it the first practical drone solution for your pentesting needs. Drones have emerged as the prevailing weapon of choice in modern warfare, so it's only logical that we'd also explore the potential applications of this formidable tool in cyber warfare. While there have been presentations before on weaponizing drones for the purposes of pentesting, these efforts were not easily replicated by anyone other than experienced drone aficionados with several thousands of dollars to spend â ultimately resulting in somewhat clunky, partial solutions. Conditions have finally matured enough to where pentesters who are inexperienced with drones can get up and running fairly quickly and spending only a couple hundred dollars on a Raspberry Pi based drone copter solution. Our talk will be aimed at this target audience, helping equip pentesters with drone tools of the future. In this talk, we'll demonstrate how this drone can be used to perform aerial recon, attack wireless infrastructure and clients, land on a target facility roof, and serve as a persistent backdoor. In fact, we'll show you how to attack 'over the air' protocols such as RFID, ZigBee, Bluetooth, Wi-Fi, and more. We'll even demo a special edition "RickMote Danger Drone" that you can use to patrol your neighborhood and rickroll Google Chromecast-connected TVs.Additionally, we will showcase the best-of-breed in hardware and software that you'll need. This will include the release of our custom Raspberry Pi SD card image, parts list, 3D print objects, and necessary instructions for you to create a Danger Drone of your own. We'll also be giving away a fully functional Danger Drone to one lucky audience member - guaranteed to leave your friends feeling peanut butter and jealous! This DEMO-rich presentation will benefit both newcomers and seasoned professionals of drone and physical penetration testing fields. Someone better call Kenny Loggins, because you're in the Danger Drone.â¦No, no boys, there's two 'O's in Bishop Fox.
 
 </details>
@@ -85,7 +85,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Otaku</strong> — Yoshinori Matsumoto, Ryoma Teraoka</summary>
 
 **Track:** Web AppSec · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/Goldenfreddy0703/Otaku](https://github.com/Goldenfreddy0703/Otaku)  
+🔗 **Link:** Not Available  
 📝 **Description:** We've developed a tool gathering attack vectors against web application such as XSS, SQLi, CSRF, etc. First, We prepared a web server as a decoy based on a famous CMS, WordPress, and built Mod Secrity to collect all logs regarding to HTTP requests including POST body data. Generally speaking, a decoy web server needs web access to some degree as to attract users and attackers. We deployed a system named OTAKU-BOT which automatically collects and posts random information about Japanese ANIME and MANGA(cartoon) into the decoy web server. Very characteristic point of this system is that we can find whether Japanese ANIME is likely to be targeted or not by attackers. (or No correlation between them). Furthermore, We developed another web application "WP Portal", which visualizes these attacks in a real-time. This application enable us to monitor attack trend. WP Portal also has a vulnerability scanner for WordPress. You can start the scanner and view vulnerability reports on WP Portal. Dictionary Files for the scanner is created from honeypots and are updating daily. We will demonstrate this bot and the visualization tool. Participants can got attack vectors via WP Portal! Furthermore, our demo will show honeypots, a website, and analysis of attacks against WordPress.
 
 </details>
@@ -101,7 +101,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>SkyPhenomena</strong> — Wen Tao Tang, Zhang Lu, Li Fu, RenXu Ye</summary>
 
 **Track:** Web AppSec · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/CEFware/SkyScan](https://github.com/CEFware/SkyScan)  
+🔗 **Link:** Not Available  
 📝 **Description:** SkyPhenomen aims to monitor the web threat and weakness in web respect of a company by simulating the hacker's penetrating ideas,it mainly includes the following features:First Stage -- asset gathering:1. Domain gathering. Including DNS zone transfer, brother domains, sub-domian bruteforcing, web crawler gathering, search engine, github, etcâ¦2. Port scanning and middleware fingerprint recognition3. Site carwl and web application fingerprint recognitionSecond Stage -- information associating:1. IP addresses locating and confirming C class network segment which belonging to the target.2. Generating customized user&password dicts base on public information gathered in the previous stage and other leak databases.3. The third party threat information base on relavent keyword matching and target site employee's relation at GitHub or other source platform. Last stage -- vulnerability discovery:1. Scanning common vulnerability in web service and interfaces(SQLi,XSS,RCE,etcâ¦).2. Scanning universal vulnerability in collected fingerprints.3. Automatic bruteforcing of middlewares,web applications that need authentication and form of background login page,base on the customized dicts.4. Scanning sensitive files and folders in web service with high accuracy and compatibility.
 
 </details>
@@ -177,7 +177,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>AVLInsight Mobile Threat Intelligence Platform</strong> — Tom Pan</summary>
 
 **Track:** Android, iOS and Mobile Hacking · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/basekkelenkamp/AVInsight](https://github.com/basekkelenkamp/AVInsight)  
+🔗 **Link:** Not Available  
 📝 **Description:** AVLInsight Mobile Threat Intelligence Platform that aggregate multiple threat intelligence sources and several analysis tools to help mobile threat researchers easier to analyze mobile threat activities, find the relations between them. AVLInsight Mobile Threat Intelligence Platform will open multiple sources to researchers: mobile malware information source, mobile OSINT source, structured mobile TTP source. Mobile researchers can search keyword in each source which they expected, or can link to the other source for search the relations.AVL Insight also provides a set of threat analysis tools: Smaliviewer for malware sample static analysis and RMS for dynamic analysis, Spoof Apps Analysis Tool, and a graphic threat analysis tool supported TTP analysis. We will demonstrate AVLInsight with several mobile threats to show how to discover these kinds of threats and the relations between them.
 
 </details>
@@ -185,7 +185,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Burp Extension for Non-HTTP Traffic</strong> — Josh Huston</summary>
 
 **Track:** Android, iOS and Mobile Hacking · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/snoopysecurity/awesome-burp-extensions](https://github.com/snoopysecurity/awesome-burp-extensions)  
+🔗 **Link:** [https://github.com/summitt/Nope-Proxy](https://github.com/summitt/Nope-Proxy)  
 📝 **Description:** The Burp Non-HTTP proxy is specifically designed to help in testing thick client and mobile applications. It adds to BurpSuite a DNS server to help test applications that are difficult to route through proxies and adds interceptors to manipulate/mangle binary and non-HTTP protocols. The tool stores traffic in a sqlite database that can be exported or imported to save and analyze later. It can intercept and modify traffic automatically based on rules you assign or it can be modified manually as the traffic hits the proxy server. The tool also support SSL/TLS and signs certificates based on Burps CA certificate. If your testing on a mobile device that already has Burp's CA cert then the traffic will be seamlessly decrypted without errors into the tool for you to mangle before sending it on to the outgoing server. This tool arouse out of the need to test applications that were switching to more realtime protocols in both mobile applications and some web based Silverlight applications I had been testing. I wrote this tool as an easy extension to add to burp that would also be platform/OS independent vs some other tools out there that did similar functions.
 
 </details>
@@ -243,7 +243,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>pDNSego</strong> — Christian Heinrich, Eric Ziegast</summary>
 
 **Track:** OSINT - Open Source Intelligence · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/gamelinux/passivedns](https://github.com/gamelinux/passivedns)  
+🔗 **Link:** Not Available  
 📝 **Description:** Passive DNS (pDNS) provides near real-time detection of cache poisoning and fraudulent changes to domains registered for trademarks, etc by answering the following questions: Where did this DNS Record point to in the past? What domains are hosted on a specific nameserver? What domains resolve into a given network? What subdomains exist below a certain domain name? pDNSego is a set of Maltego Transforms that perform link analysis of pDNS datasets based on a Fully Qualified Domain Name (FQDN), IP Address, Name Server (NS) or Mail eXchange (MX) DNS Record.
 
 </details>
@@ -309,7 +309,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>BloodHound</strong> — Andy Robbins</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/ly4k/BloodHound](https://github.com/ly4k/BloodHound)  
+🔗 **Link:** [https://github.com/SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy)  
 📝 **Description:** Active Directory domain privilege escalation is a critical component of most penetration tests and red team assessments, but standard methodology dictates a manual and often tedious process â gather credentials, analyze new systems we now have admin rights on, pivot, and repeat until we reach our objective. Then -- and only then -- we can look back and see the path we took in its entirety. But that may not be the only, nor shortest path we could have taken. By combining the concept of derivative admin (the chaining or linking of administrative rights), existing tools, and graph theory, we have developed a capability called BloodHound, which can reveal the hidden and unintended relationships in Active Directory domains. BloodHound is operationally-focused, providing an easy-to-use web interface and PowerShell ingestor for memory-resident data collection and offline analysis. BloodHound offers several advantages to both attackers and defenders. Otherwise invisible, high-level organizational relationships are exposed. Most possible escalation paths can be efficiently and swiftly identified. Simplified data aggregation accelerates blue and red team analysis. BloodHound has the power and the potential to dramatically change the way you think about and approach Active Directory domain security.
 
 </details>
@@ -357,7 +357,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>FingerPrinTLS</strong> — Lee Brotherston</summary>
 
 **Track:** Network Attacks · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs)  
+🔗 **Link:** [https://github.com/LeeBrotherston/tls-fingerprinting](https://github.com/LeeBrotherston/tls-fingerprinting)  
 📝 **Description:** FingerprinTLS is a tool which leverages TLS client fingerprinting techniques to passively identify clients realtime via a network tap or offline via pcap files. This allows network administrators to identify clients with TLS enabled malware installed, rogue installations of cloud storage solutions, unauthorised Tor connections, etc. Organisations which expose APIs can determine if unwanted clients, such as attack tools are accessing their APIs. The tool has an internal database of fingerprints which have already been discovered and automates the process of adding your own. FingerprinTLS is distributed as an opensource project and has been tested to work on Linux, OS X, and BSD based systems.
 
 </details>
@@ -457,7 +457,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Accelerating Cyber Hunting Project ASGARD</strong> — Joshua Patterson, Michael Wendt</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/dalonghahaha/Asgard](https://github.com/dalonghahaha/Asgard)  
+🔗 **Link:** Not Available  
 📝 **Description:** Rethinking the cyber security problem as a data-centric problem led Accenture Labs Cyber Security team to use best of breed open source big-data tools and emerging technologies to accelerate detection, response, and hunting. Project ASGARD, utilizing new approaches such as graph databases and analysis, GPUs, and Spark, exploits the connected nature of cyber security data to give cyber analyst more efficient and effective tools to combat evolving cyber threats. ASGARD allows organization to store more data than ever, while still gaining 2-3 orders of magnitude more speed and performance than traditional SIEMS. In this talk you can watch us analyze data real-time, learn more about our cluster and architecture, and see how we've integrated leading big data technologies to outperform expensive appliances with a fraction of the cost. In addition, we will demonstrate how advanced data science can be used to identify threats and accelerate cyber analysis, instead of just adding more noise.
 
 </details>
@@ -529,7 +529,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>eXpose</strong> — Joshua Saxe</summary>
 
 **Track:** Malware Defense · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/exposedev/expose](https://github.com/exposedev/expose)  
+🔗 **Link:** [https://github.com/joshsaxe/eXposeDeepNeuralNetwork](https://github.com/joshsaxe/eXposeDeepNeuralNetwork)  
 📝 **Description:** From hiding their tools in innocuous-looking file paths to creating registry keys that hide malicious commands to inviting users to visit deceptive URLs, attackers frequently use deception to penetrate and hide on our networks. Currently our community uses URL blacklists and rule-based detection mechanisms to detect such deception. The eXpose deep neural network, which we will be releasing as free software simultaneously with Blackhat USA 2016, goes beyond these simple methods to provide artificial intelligence driven detection of these objects, detecting upwards of 90% of previously unseen malicious URLs, malicious file paths, and malicious registry keys at low false positive rates.eXpose's approach is based on recent advances in deep learning research, and uses neural network primitives such as character-level embeddings, heterogenously-sized convolutional filters, dropout, and batch normalization to achieve a high detection rate. We compared eXpose to conventional machine learning methods and found that eXpose achieves a significant boost in detection accuracy. In our presentation we will explain how eXpose works, demonstrate how to use it both from the command line and as a Python module, demonstrate its ability to detect new malicious URLs, file paths, and registry keys, and challenge our audience to beat eXpose at guessing which previously-unseen objects are malicious or not.
 
 </details>
@@ -553,7 +553,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>HoneyPy & HoneyDB</strong> — Phillip Maddux</summary>
 
 **Track:** Network Defense · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots)  
+🔗 **Link:** [https://github.com/foospidy/HoneyPy](https://github.com/foospidy/HoneyPy)  
 📝 **Description:** HoneyPy is a low interaction honeypot with the capability to be more of a medium interaction honeypot. HoneyPy is written in Python and is intended to be easy to: deploy, extend functionality with plugins, and apply custom configurations. The level of interaction is determined by the functionality of its plugins. Plugins can be created to emulate UDP or TCP based services. All activity is logged to a file by default, but posting honeypot activity to Twitter, a Slack channel, or a web service endpoint can be configured as well. HoneyPy is ideal as a production honeypot on an internal network or as a research honeypot on the Internet. HoneyDB is a web site dedicated to publishing honeypot data from HoneyPy sensors on the Internet. It also offers honeypot data for download via a REST API. Web site users can also log into HoneyDB and maintain a ThreatBin, which is custom list of honeypot session data bookmarked by the user. Future features include consolidated threat information from other honeypot Twitter accounts, and expanding the API.
 
 </details>
@@ -577,7 +577,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>LOG-MD</strong> — Michael Gough, Brian Boettcher</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/log-md/logmd](https://github.com/log-md/logmd)  
+🔗 **Link:** [https://log-md.com/](https://log-md.com/)  
 📝 **Description:** LOG-MD is designed for Windows based systems to audit log and advanced audit policy settings and guide users to enable and configure the audit settings based on industry audit standards like CIS, USGCB, AU ACSC and the 'Windows Logging Cheat Sheets' to help push and encourage moving security and detection of audit logging forward. LOG-MD was also designed to gather the artifacts from malicious activity, referred to as "Malicious Discovery", more easily than the standard methods many professionals use today. LOG-MD is designed to speed up the investigation of a suspect system, or help validate it is good, and to speed up evaluating malware in a lab environment. Malicious Discovery is a challenge for many and the Mean Time to Detection (MTTD) from a compromise or worse yet, a breach is still close to a year for most companies. LOG-MD is designed to help small, medium, large, and enterprise businesses improve their Malicious Discovery with a tool that can be run manually or distributed across the environment.LOG-MD replaces or augments several security and forensic tools that have not been updated in years, combing many features professionals rely on, into one easy to use tool. LOG-MD audits the system at each run for audit log related settings, and harvests security related log events. LOG-MD performs hashes of the full filesystem and compares it to a baseline or Master-Digest of trusted files to reduce files that need to be investigated. LOG-MD performs a full baseline of the registry and compares it to a trusted baseline, and searches for special artifacts like the null byte character used in registry keys to hide malware artifacts and large registry keys where malware hides. LOG-MD also harvests PowerShell activity and can harvest optional Sysmon and Windows Logging Service (WLS) events as well for more detailed analysis of system activity. LOG-MD utilizes whitelists to filter down the results of known good and trusted results to make Malicious Discovery easier and faster. In addition LOG-MD can take the artifact details of IP addresses and perform a WhoIs lookup to gain ownership and country information and run files and IP's through VirusTotal for artifact evaluation. Additionally, special artifacts hunting and reporting are being added to LOG-MD as malware authors create them, what we refer to as Malware Management, which is what LOG-MD is based on.
 
 </details>
@@ -625,7 +625,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Threat Scanner</strong> — Brian Codde</summary>
 
 **Track:** Malware Defense · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/0xMuhannad/ThreatScanner](https://github.com/0xMuhannad/ThreatScanner)  
+🔗 **Link:** Not Available  
 📝 **Description:** Threatscanner is an endpoint IOC scanner. It consumes OpenIOC and Yara rules and scans Windows machines, matching the rules. It produces a report for any matches detailing all the information about the matched items. In addition, it details the logic path used to arrive at the match - showing which predicates in the rule matched and which were missed. The system has many performance optimizations; such as aggregating rules so each potential item is only evaluated once regardless of the number of rules tested. This means that the running time for a single rule roughly matches the running time for 1000s of rules.
 
 </details>
@@ -643,7 +643,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Arsenal Theater Demo: BSOD HD: An FPGA-Based HDMI Injection and Capture Tool</strong> — Joe Grand, Zoz Brooks</summary>
 
 **Track:** Hardware/Embedded · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/ykfre/BsodSurvivor](https://github.com/ykfre/BsodSurvivor)  
+🔗 **Link:** [https://github.com/joegrand/bsodomizer-hd-c5g](https://github.com/joegrand/bsodomizer-hd-c5g)  
 📝 **Description:** BSODomizer HD is an open source, FPGA-based, covert electronic device that injects and captures HDMI signals. Currently a proof-of-concept design, this much anticipated follow-up to the original BSODomizer released in 2008 (www.bsodomizer.com) improves on the graphics interception and triggering features, and can capture screenshots of any non-HDCP target up to 1080p resolution. Uses of the tool include penetration testing, video display calibration, mischievous acts, or as a reference design for exploration into the mystical world of FPGAs.Co-developed by Joe Grand (aka Kingpin) of Grand Idea Studio and Zoz of Cannytrophic Design.
 
 </details>
@@ -667,7 +667,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Arsenal Theater Demo: Highway to the Danger Drone</strong> — Francis Brown, Dan Petro, David Latimer</summary>
 
 **Track:** Hardware/Embedded · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/arunnthevapalan/drone-cv](https://github.com/arunnthevapalan/drone-cv)  
+🔗 **Link:** Not Available  
 📝 **Description:** Do you feel the needâ¦ the need for speed? Then check out our brand new penetration testing drone. This Raspberry Pi based copter is both cheap and easy to create on your own, making it the first practical drone solution for your pentesting needs. Drones have emerged as the prevailing weapon of choice in modern warfare, so it's only logical that we'd also explore the potential applications of this formidable tool in cyber warfare. While there have been presentations before on weaponizing drones for the purposes of pentesting, these efforts were not easily replicated by anyone other than experienced drone aficionados with several thousands of dollars to spend â ultimately resulting in somewhat clunky, partial solutions. Conditions have finally matured enough to where pentesters who are inexperienced with drones can get up and running fairly quickly and spending only a couple hundred dollars on a Raspberry Pi based drone copter solution. Our talk will be aimed at this target audience, helping equip pentesters with drone tools of the future. In this talk, we'll demonstrate how this drone can be used to perform aerial recon, attack wireless infrastructure and clients, land on a target facility roof, and serve as a persistent backdoor. In fact, we'll show you how to attack 'over the air' protocols such as RFID, ZigBee, Bluetooth, Wi-Fi, and more. We'll even demo a special edition "RickMote Danger Drone" that you can use to patrol your neighborhood and rickroll Google Chromecast-connected TVs.Additionally, we will showcase the best-of-breed in hardware and software that you'll need. This will include the release of our custom Raspberry Pi SD card image, parts list, 3D print objects, and necessary instructions for you to create a Danger Drone of your own. We'll also be giving away a fully functional Danger Drone to one lucky audience member - guaranteed to leave your friends feeling peanut butter and jealous! This DEMO-rich presentation will benefit both newcomers and seasoned professionals of drone and physical penetration testing fields. Someone better call Kenny Loggins, because you're in the Danger Drone.â¦No, no boys, there's two 'O's in Bishop Fox.
 
 </details>
@@ -699,7 +699,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>NetDB - The Network Database Project</strong> — Bertin Bervis, James Jara</summary>
 
 **Track:** Internet Of Things · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/EarlRamirez/netdb](https://github.com/EarlRamirez/netdb)  
+🔗 **Link:** [https://netdb.io/](https://netdb.io/)  
 📝 **Description:** NetDB is an Internet of things Search engine created in 2014 by Bertin Bervis and James Jara. Using agents(crawlers) distributed in several countries, Netdb is scanning all Internet searching randomly 24 hours a day, indexing and parsing data based on responses. For each device, we are storing all banners and fingerprints but we are focused mostly in SSL Information of the device. We will cover basic information about our architecture, query builder, API and enterprise access and finally about the future of NetDB with Machine learning plus IoT infosecurity.
 
 </details>
@@ -723,7 +723,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>WarBerryPi Troops Deployment in Red Teaming Scenarios</strong> — Yiannis Ioannides</summary>
 
 **Track:** Hardware/Embedded · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/downsway-uk/OpenPenTest](https://github.com/downsway-uk/OpenPenTest)  
+🔗 **Link:** [https://github.com/secgroundzero/warberry](https://github.com/secgroundzero/warberry)  
 📝 **Description:** What if the only requirements for taking down a corporate network are a bit of smooth talking, 60 minutes and $35? Traditional hacking techniques and corporate espionage have evolved. Advanced attacks nowadays include a combination of social engineering, physical security penetration and logical security hacking. It is our job as security professionals to think outside the box and think about the different ways that hackers might use to infiltrate corporate networks. The WarBerryPi is a customized RaspBerryPi hacking dropbox which is used in Red Teaming engagements with the sole purpose of performing reconnaissance and mapping of an internal network and providing access to the remote hacking team. The outcome of these red teaming exercises is the demonstration that if a low cost microcomputer loaded with python code can bypass security access controls and enumerate and gather such a significant amount of information about the infrastructure network which is located at; then what dedicated hackers with a large capital can do is beyond conception.
 
 </details>

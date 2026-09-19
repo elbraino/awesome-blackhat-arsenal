@@ -1,7 +1,7 @@
 {
   "Tool Name": "RF( Radio Frequency ) Offensive and Defense Exercise Server",
   "Description": "We believe that cyber security should not only cover the Internet space but also the RF (radio frequency) space. In the radio space, interception, decryption, tampering, jamming, and spoofing are actively practiced against hostile countries.　For example, the Russian Красуха-4 is a well-known electronic warfare weapon. In fact, it has a longer history than the Internet, and there is much to learn from it. However, there are not so many RF training environments that can be easily used.",
-  "Github URL": "https://github.com/zeetwii/RFRE",
+  "Github URL": "",
   "Tracks": [
     "Hardware/Embedded",
     "Internet Of Things"

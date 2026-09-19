@@ -57,7 +57,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>OWASP Security Knowledge Framework</strong> — Riccardo ten Cate, Glenn ten Cate</summary>
 
 **Track:** Web AppSec · **Event:** Europe 2015  
-🔗 **Link:** [https://github.com/OWASP/www-project-security-knowledge-framework](https://github.com/OWASP/www-project-security-knowledge-framework)  
+🔗 **Link:** [https://github.com/blabla1337/skf-flask](https://github.com/blabla1337/skf-flask)  
 📝 **Description:** Over 10 years of experience in web application security bundled into a single application. The Security Knowledge Framework is a vital asset to the coding toolkit of you and your development team. Use SKF to learn and integrate security by design in your web application. In a nutshell:- Training developers in writing secure code- Security support pre-development (Security by design, early feedback of possible security issues- Security support post-development(Double check your code by means of the OWASP ASVS checklists)- Code examples for secure coding
 
 </details>
@@ -67,7 +67,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Android Device Testing Framework v.13</strong> — Jake Valletta</summary>
 
 **Track:** Android, iOS and Mobile Hacking · **Event:** Europe 2015  
-🔗 **Link:** [https://github.com/dipjyotimetia/MobileTestFramework](https://github.com/dipjyotimetia/MobileTestFramework)  
+🔗 **Link:** [https://github.com/android-dtf/dtf](https://github.com/android-dtf/dtf)  
 📝 **Description:** The Android Device Testing Framework ("dtf") project started back in 2014 as a collection of scripts and utilities that aimed to help individuals answer the question: "Where are the vulnerabilities on this mobile device?" Since then, dtf has grown into a robust and extensive data collection and analysis framework with over 30 modules that allow testers to obtain information from their Android device, process this information into databases, and then start searching for vulnerabilities (all without requiring root privileges). These modules help you focus on changes made to AOSP components such as applications, frameworks, system services, as well as lower-level components such as binaries, libraries, and device drivers. In addition, you'll be able to analyze new functionality implemented by the OEMs and other parties to find vulnerabilities.
 
 </details>
@@ -95,7 +95,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>D1c0m-X2</strong> — Michael Hudson</summary>
 
 **Track:** Malware Offense · **Event:** Europe 2015  
-🔗 **Link:** [https://github.com/DeimosC2/DeimosC2](https://github.com/DeimosC2/DeimosC2)  
+🔗 **Link:** Not Available  
 📝 **Description:** In this second version of the tool, a plugin for the exploitation of ORACLE database will be added, which will become an even more attractive exploit.DICOM (Digital Imaging and Communications in Medicine) is recognized worldwide for the exchange of medical tests, designed for handling, display, storage, printing, and transmission standard. It includes defining a file format and a network communication protocol.Target:D1c0m-X.2 is a tool that is responsible for searching the TCP / IP ports of Robot surgery or x-rays, CT scans, MRI or other medical devices that use this protocol, and once found, check if the firmware is vulnerable. If they are not vulnerable, it will try to exploit using scripts, which are intended to block the connection between the server and the Robot, making a DDOS or accessing the System. Before launching the attack, D1c0m-X.2 also explores the possibility of an intrusion through the Corporative Web of the Hospital or Clinic, if the intrusion is achieved, we proceed to interact with shell console, applying different vulnerabilities, such as SQLI, Default password, etc. Finally, the DUMP of critical information of Patients, Doctors and Staff is automated.
 
 </details>
@@ -111,7 +111,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Panoptic</strong> — Roberto Salgado</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** Europe 2015  
-🔗 **Link:** [https://github.com/CERES-Sorbonne/Panoptic](https://github.com/CERES-Sorbonne/Panoptic)  
+🔗 **Link:** [https://github.com/lightos/Panoptic](https://github.com/lightos/Panoptic)  
 📝 **Description:** Since it's debut 2 years ago, Panoptic has become the go-to open source penetration testing tool for automating the process of search and retrieval of common log and config files through path traversal vulnerabilities. For the brand new release, Panoptic will have new and enhanced capabilities, such as being able to automate the escalation of a Local File Inclusion (LFI) vulnerability to Remote Code Execution (RCE) and even spawn a meterpretrer session.
 
 </details>

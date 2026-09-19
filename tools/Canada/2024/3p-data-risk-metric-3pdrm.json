@@ -1,7 +1,7 @@
 {
   "Tool Name": "3P Data Risk Metric (3PDRM)",
   "Description": "A Python library for developing neural network models that predict risk metrics such as probability of failure for kinodynamic systems, enabling risk prediction for autonomous systems operating in complex environments.",
-  "Github URL": "https://github.com/mit-drl/pyrmm",
+  "Github URL": "",
   "Tracks": [
     "AI, ML & Data Science",
     "Vulnerability Assessment"

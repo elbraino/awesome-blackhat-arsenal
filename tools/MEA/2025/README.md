@@ -46,7 +46,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>FalconEye</strong> — Rajanish Pathak</summary>
 
 **Track:** Code Assessment · **Event:** MEA 2025  
-🔗 **Link:** [https://github.com/FalconEYE-ai/FalconEYE](https://github.com/FalconEYE-ai/FalconEYE)  
+🔗 **Link:** Not Available  
 📝 **Description:** FalconEye is an AI-powered security code analyzer that uses locally hosted LLMs via Ollama for semantic vulnerability detection. Unlike traditional SAST tools that rely on pattern matching, FalconEye employs multi-agent collaboration to build dynamic knowledge graphs, form hypotheses, and conduct targeted investigations across codebases. It supports Python, JavaScript, TypeScript, Go, Rust, C/C++, Java, and more. Its privacy-first design ensures all analysis stays local, and it accumulates knowledge across sessions for progressively deeper audits.
 
 </details>

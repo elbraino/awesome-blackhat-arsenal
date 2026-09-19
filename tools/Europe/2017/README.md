@@ -130,7 +130,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>DPAPI and DPAPI-NG - Decryption Toolkit</strong> — Paula Januszkiewicz</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** Europe 2017  
-🔗 **Link:** [https://github.com/wat4r/dpapitk](https://github.com/wat4r/dpapitk)  
+🔗 **Link:** Not Available  
 📝 **Description:** CQMasterKeyAD (CQTools) allows decryption of DPAPI-protected data by leveraging usage of the private key stored as a LSA Secret on a domain controller (we have called it a 'backup key' and it is a key corresponding to the backup public key stored in the domain user's profile). The backup key allows decrypting literally all of the domain user's secrets (passwords / private keys / information stored by the browser). In other words, someone who has the backup key is able to take over all of the identities and their secrets in the whole enterprise. Tool represents CQURE's breakthrough DPAPI discovery.CQDPAPINGPFXDecrypter (CQTools) leverages DPAPI-NG used in the SID-protected PFX files, and when with the previous tool CQURE Team is able to get access to user's secrets, here it is a bit different! Tool allows to decrypt SID-protected PFX files even without access to user's password but just by generating the SID and user's token.CQDPAPIKeePassDBDecryptor (CQTools) allows decryption of Keepass database by using DPAPI data that is possessed from the domain. It provides access to all users' Keepass databases and it uses DPAPI data levereaged by CQMasterKeyAD. Tool uses decrypted Master Key of the user in order to decrypt key that encrypts Keepass database.CQURE tool affects Windows 7, Windows 8, Windows 8.1, Windows 10 and related Windows Server versions. Tool represents CQURE's breakthrough DPAPI discovery.
 
 </details>
@@ -146,7 +146,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>VirusBay - Don't be Afraid to Ask</strong> — Dani Goland, Ido Naor</summary>
 
 **Track:** Malware Offense · **Event:** Europe 2017  
-🔗 **Link:** [https://github.com/larsborn/VirusBayClient](https://github.com/larsborn/VirusBayClient)  
+🔗 **Link:** Not Available  
 📝 **Description:** VirusBay is a one-stop-shop for security researchers to ask, download and investigate malware samples together. VirusBay takes world-changing features from the outside world and reformats them to adhere to the methodology of incident response and malware analysis. Features:Credit model - for every action made the user is being creditedCommunity - work together on a malware case, drag & drop IOCsMaltivity - Trace log that enumerates the malware uploads and co-opsQ&A - A place to ask questions and get answers, the StackOverflow style1ClickCFP - submit a paper based on the research conducted in the platform - drag & drop your research, abstract and details and ship it to the best conferences in the world. Free samples download and uploadand more and more...
 
 </details>
@@ -222,7 +222,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>CERNE - Open IDS Platform</strong> — Dominic Smith</summary>
 
 **Track:** Network Defense · **Event:** Europe 2017  
-🔗 **Link:** [https://github.com/cerner/fhir.cerner.com](https://github.com/cerner/fhir.cerner.com)  
+🔗 **Link:** Not Available  
 📝 **Description:** The CERNE is a powerful, open IDS platform with on demand capture, delivering IDS alerts using the widely supports Suricata and complete TCP or UDP session data, containing suspected threats for rapid incident response analysis.
 
 </details>
