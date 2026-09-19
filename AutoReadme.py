@@ -1,7 +1,23 @@
+#!/usr/bin/env python3
+"""Generate every derived file from tools/<Region>/<Year>/*.json:
+
+  README.md                       root index
+  tools/<Region>/<Year>/README.md one page per event, grouped by category
+  tools/BY_CATEGORY.md            every tool, grouped by track, across all events
+  tools/BY_NAME.md                every tool A–Z, with all events it was presented at
+  tools.json, tools.csv           machine-readable aggregate
+
+Output is deterministic (sorted, no timestamps) so CI can diff it.
+
+  python3 AutoReadme.py                          # regenerate everything
+  python3 AutoReadme.py --event USA --year 2026  # only rewrite that event page
+                                                 # (indexes and root are always full)
+"""
+import argparse
+import csv
+import json
 import os
 import re
-import json
-import argparse
 from collections import defaultdict
 
 # -------------------------------
@@ -9,8 +25,13 @@ from collections import defaultdict
 # -------------------------------
 ROOT_DIR = "tools"                # Root directory containing event/year folders
 MAIN_README = "README.md"         # Path for the main README
+BY_CATEGORY = os.path.join(ROOT_DIR, "BY_CATEGORY.md")
+BY_NAME = os.path.join(ROOT_DIR, "BY_NAME.md")
+TOOLS_JSON = "tools.json"
+TOOLS_CSV = "tools.csv"
 
-# Category → (Label, Badge Color)
+# Track → (Category label, badge colour).  Keys are the 20 canonical track names;
+# scripts/validate.py reads this dict by name to check they stay in sync.
 CATEGORY_MAP = {
     "Exploitation and Ethical Hacking": ("🔴 Red Teaming", "red"),
     "Malware Offense": ("🔴 Red Teaming", "red"),
@@ -33,30 +54,19 @@ CATEGORY_MAP = {
     "Hardware/Embedded": ("🟣 Red Teaming / Embedded", "purple"),
     "Cloud Security": ("☁️ Cloud Security", "blue"),
 }
+OTHERS = "Others"
 
 # -------------------------------
 # 🧩 Utility Functions
 # -------------------------------
 
-def extract_track_label(track_entry):
-    """Cleans up track entry text."""
-    if not isinstance(track_entry, str):
-        return ""
-    return track_entry.replace("Track:", "").strip()
+def category_for(tracks):
+    """First canonical track decides the category; no tracks → Others."""
+    for track in tracks:
+        if track in CATEGORY_MAP:
+            return CATEGORY_MAP[track][0]
+    return OTHERS
 
-def determine_category(track_list):
-    """Maps track to a standard category using CATEGORY_MAP."""
-    if not track_list or not isinstance(track_list, list):
-        return ("Others", "lightgrey")
-    for track in track_list:
-        track_clean = extract_track_label(track)
-        if track_clean in CATEGORY_MAP:
-            return CATEGORY_MAP[track_clean]
-    return ("Others", "lightgrey")
-
-def badge(text, color):
-    """Generates a Shields.io badge markdown string."""
-    return f"![{text}](https://img.shields.io/badge/{text.replace(' ', '%20')}-{color})"
 
 def sanitize_anchor(text):
     """Converts heading text to the anchor slug GitHub generates for it.
@@ -68,217 +78,309 @@ def sanitize_anchor(text):
     text = re.sub(r"[^\w\- ]", "", text.lower())
     return text.replace(" ", "-")
 
+
+def md_escape(text):
+    """Escape characters that would break a Markdown list line."""
+    return text.replace("|", "\\|").replace("\n", " ")
+
+
+def link_line(url):
+    return f"🔗 **Link:** [{url}]({url})" if url else "🔗 **Link:** Not Available"
+
+
+def write(path, lines):
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines).rstrip("\n") + "\n")
+
+
 def die(msg, code=1):
     print(msg)
     raise SystemExit(code)
 
-# -------------------------------
-# 🧰 CLI Args
-# -------------------------------
-parser = argparse.ArgumentParser(description="Generate Awesome Black Hat Arsenal READMEs.")
-parser.add_argument(
-    "--event",
-    help="Only process the subfolders inside tools/<event> (e.g., tools/USA, tools/Europe).",
-)
-parser.add_argument(
-    "--year",
-    help="Only process tools/<event>/<year>. Requires --event.",
-)
-args = parser.parse_args()
-
-if args.year and not args.event:
-    die("Error: --year requires --event (expected tools/<event>/<year>).")
-
-# Validate paths based on options
-event_filter = args.event
-year_filter = args.year
-
-if event_filter:
-    event_path = os.path.join(ROOT_DIR, event_filter)
-    if not os.path.isdir(event_path):
-        die(f"Error: event folder does not exist: {event_path}")
-
-    if year_filter:
-        year_path = os.path.join(event_path, year_filter)
-        if not os.path.isdir(year_path):
-            die(f"Error: year folder does not exist: {year_path}")
 
 # -------------------------------
-# 🏠 Generate Main README Header
+# 📥 Load
 # -------------------------------
-TOOL_COUNT_PLACEHOLDER = "{{TOOL_COUNT}}"  # filled in after all tools are counted
-main_readme = [
-    f"# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Tools](https://img.shields.io/badge/Tools-{TOOL_COUNT_PLACEHOLDER}-blue)](#locations)",
-    "[![Project Logo](logo.png)](https://www.blackhat.com/html/arsenal.html)",
-    "> 🚀 A curated list of cutting-edge cybersecurity tools showcased at the Black Hat Arsenal events — covering offensive, defensive, and research-focused security utilities.",
-    "",
-    "Whether you're in red teaming, blue teaming, appsec, or OSINT — this list helps you explore and leverage the best tools demonstrated live by security professionals across the world.",
-    "",
-    "## Contents",
-    "1. [How This List Is Organized](#how-this-list-is-organized)",
-    "2. [Locations](#locations)",
-    "   - [Asia](#asia)",
-    "   - [Canada](#canada)",
-    "   - [Europe](#europe)",
-    "   - [MEA](#mea)",
-    "   - [USA](#usa)",
-    "## How This List Is Organized",
-    "- The tools are grouped by the **location** of the Black Hat event (e.g., USA, Europe, Asia).",
-    "- Under each location, tools are further organized by **year**.",
-    "- Each year has its own README where tools are grouped **by track category**, each with description, speakers, and GitHub link (where available).",
-    "---",
-    "## Locations",
-]
 
-# -------------------------------
-# 📁 Decide what to edit
-# -------------------------------
-if not os.path.isdir(ROOT_DIR):
-    die(f"Error: ROOT_DIR does not exist or is not a directory: {ROOT_DIR}")
-
-locations = sorted(os.listdir(ROOT_DIR))
-locations_to_edit = [event_filter] if event_filter else locations
-total_tools = 0
-
-# -------------------------------
-# 📁 Traverse All Locations & Years (optionally filtered)
-# -------------------------------
-for location in locations:
-    loc_path = os.path.join(ROOT_DIR, location)
-    if not os.path.isdir(loc_path):
-        continue
-
-    main_readme.append(f"### {location}")
-
-    years = sorted(os.listdir(loc_path))
-    years_to_edit = [year_filter] if year_filter and event_filter else years
-
-    for year in years:
-        year_path = os.path.join(loc_path, year)
-        if not os.path.isdir(year_path):
+def load_tools():
+    """Every tool as a flat record, sorted by (location, year, name)."""
+    records = []
+    for location in sorted(os.listdir(ROOT_DIR)):
+        loc_path = os.path.join(ROOT_DIR, location)
+        if not os.path.isdir(loc_path):
             continue
-
-        year_tool_count = sum(1 for f in os.listdir(year_path) if f.endswith(".json"))
-        total_tools += year_tool_count
-        main_readme.append(f"- [{year}]({ROOT_DIR}/{location}/{year}/README.md) — {year_tool_count} tools")
-
-        # Skip README edit/creation if not in 'locations_to_edit'
-        if location not in locations_to_edit or year not in years_to_edit:
-            continue
-
-        tools_by_category = defaultdict(list)
-
-        # --------------------------------------------
-        # 📄 Process JSON files under each year folder
-        # --------------------------------------------
-        for file in sorted(os.listdir(year_path), key=str.lower):
-            if not file.endswith(".json"):
+        for year in sorted(os.listdir(loc_path)):
+            year_path = os.path.join(loc_path, year)
+            if not os.path.isdir(year_path):
                 continue
+            for file in os.listdir(year_path):
+                if not file.endswith(".json"):
+                    continue
+                path = os.path.join(year_path, file)
+                with open(path, encoding="utf-8") as f:
+                    try:
+                        tool = json.load(f)
+                    except json.JSONDecodeError as e:
+                        die(f"Error while loading JSON file '{path}': {e}")
+                speakers = tool.get("Speakers") or []
+                tracks = tool.get("Tracks") or []
+                records.append({
+                    "location": location,
+                    "year": year,
+                    "path": path.replace(os.sep, "/"),
+                    "name": (tool.get("Tool Name") or "Unnamed Tool").strip(),
+                    "url": (tool.get("Github URL") or "").strip(),
+                    "description": (tool.get("Description") or "No description provided.").strip(),
+                    "tracks": [t for t in tracks if isinstance(t, str)],
+                    "speakers": [s for s in speakers if isinstance(s, str)],
+                })
+    records.sort(key=lambda r: (r["location"], r["year"], r["name"].lower(), r["path"]))
+    return records
 
-            json_path = os.path.join(year_path, file)
-            with open(json_path, "r", encoding="utf-8") as f:
-                try:
-                    data = json.load(f)
-                except Exception:
-                    print(f"Error while loading JSON file '{json_path}'")
-                    raise SystemExit(1)
-
-            if not isinstance(data, list):
-                data = [data]
-
-            # ✍️ Parse each tool entry
-            for tool in data:
-                badge_color = {
-                    "USA": "black",
-                    "Europe": "blue",
-                    "Asia": "green",
-                    "MEA": "orange",
-                    "Canada": "purple"
-                }.get(location, "gray")
-
-                loc_year_badge = badge(f"{location} {year}", badge_color)
-
-                name = tool.get("Tool Name", "Unnamed Tool")
-                url = (tool.get("Github URL") or "").strip()
-                description = tool.get("Description", "No description provided.")
-                tracks = tool.get("Tracks", [])
-                speakers_raw = tool.get("Speakers", [])
-                speakers = speakers_raw if isinstance(speakers_raw, list) else [str(speakers_raw)]
-
-                # Determine category and style
-                category, color = determine_category(tracks)
-                speaker_tags = " ".join([badge(s, "informational") for s in speakers])
-                category_tag = badge(f"Category: {category}", color)
-                link_line = f"🔗 **Link:** [{name}]({url})" if url else "🔗 **Link:** Not Available"
-
-                # Final tool block
-                entry = (
-                    f"<details><summary><strong>{name}</strong></summary>\n\n"
-                    f"{loc_year_badge} {category_tag} {speaker_tags}\n\n"
-                    f"{link_line}  \n"
-                    f"📝 **Description:** {description}\n\n"
-                    f"</details>\n"
-                )
-                tools_by_category[category].append(entry)
-
-        # -------------------------------
-        # 📄 Generate Sub README per Year
-        # -------------------------------
-        subreadme = [
-            f"# {location} {year}",
-            "---",
-            f"📍 This document lists cybersecurity tools demonstrated during the **Black Hat Arsenal {year}** event held in **{location}**.",
-            "Tools are categorized based on their **track theme**, such as Red Teaming, OSINT, Reverse Engineering, etc.",
-            "",
-            "## 📚 Contents"
-        ]
-
-        for cat in sorted(tools_by_category):
-            subreadme.append(f"- [{cat}](#{sanitize_anchor(cat)})")
-        subreadme.append("---")
-
-        for cat in sorted(tools_by_category):
-            tools = tools_by_category[cat]
-            subreadme.append(f"## {cat}")
-            for tool_block in tools:
-                subreadme.append(tool_block)
-            subreadme.append("---")
-
-        # 💾 Write sub-README
-        with open(os.path.join(year_path, "README.md"), "w", encoding="utf-8") as f:
-            f.write("\n".join(subreadme))
 
 # -------------------------------
-# 🧾 Finalize Main README Footer
+# 📄 Event page
 # -------------------------------
-main_readme.append("---")
-main_readme.extend([
-    "## Contributing",  # Fixed to match ToC
-    "We welcome community contributions to make this list better!",
-    "",
-    "🛠 How to Contribute:",  # Fixed to match ToC
-    "- 📁 Tools are grouped by **Black Hat event location** (`USA`, `Europe`, etc.) and **year** inside `tools/`. ",
-    "- 🧠 Each year's README (auto-generated) groups tools by **track category** such as `Red Teaming`, `OSINT`, `Reverse Engineering`, etc.",
-    "- 📝 Each tool is defined by a structured `.json` file including:",
-    "  - Tool Name",
-    "  - Description",
-    "  - GitHub URL (if available)",
-    "  - Tracks",
-    "  - Speaker(s)",
-    "",
-    "📄 To Add a Tool:",  # Fixed to match ToC
-    "1. Create a JSON file inside the appropriate folder:",
-    "   ```",
-    "   tools/{LOCATION}/{YEAR}/tool-name.json",
-    "   ```",
-    "2. Follow the [CONTRIBUTING.md](CONTRIBUTING.md) for format guidelines.",
-    "3. Run `python3 AutoReadme.py` to regenerate the README files.",
-    "4. Submit a pull request.",
-    "",
-    "> ⚠️ Keep content concise and correctly categorized. Badges and README entries are auto-generated.",
-    "\n",
-])
 
-# 💾 Write Main README
-with open(MAIN_README, "w", encoding="utf-8") as f:
-    f.write("\n".join(main_readme).replace(TOOL_COUNT_PLACEHOLDER, str(total_tools)))
+def render_event_readme(location, year, records):
+    by_category = defaultdict(list)
+    for r in records:
+        by_category[category_for(r["tracks"])].append(r)
+
+    lines = [
+        f"# {location} {year}",
+        "---",
+        f"📍 {len(records)} tools demonstrated at **Black Hat Arsenal {location} {year}**, "
+        "grouped by track category. Expand a tool for its description.",
+        "",
+        "See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../BY_NAME.md) · "
+        "[main index](../../../README.md)",
+        "",
+        "## 📚 Contents",
+    ]
+    for cat in sorted(by_category):
+        lines.append(f"- [{cat}](#{sanitize_anchor(cat)}) ({len(by_category[cat])})")
+    lines.append("---")
+
+    for cat in sorted(by_category):
+        lines.append(f"## {cat}")
+        for r in by_category[cat]:
+            speakers = ", ".join(r["speakers"])
+            summary = f"<strong>{r['name']}</strong>" + (f" — {speakers}" if speakers else "")
+            tracks = " · ".join(r["tracks"]) if r["tracks"] else "—"
+            lines.append(
+                f"<details><summary>{summary}</summary>\n\n"
+                f"**Track:** {tracks} · **Event:** {location} {year}  \n"
+                f"{link_line(r['url'])}  \n"
+                f"📝 **Description:** {r['description']}\n\n"
+                f"</details>\n"
+            )
+        lines.append("---")
+
+    write(os.path.join(ROOT_DIR, location, year, "README.md"), lines)
+
+
+# -------------------------------
+# 📚 Cross-event indexes
+# -------------------------------
+
+def event_link(r):
+    return f"[{r['location']} {r['year']}]({r['location']}/{r['year']}/README.md)"
+
+
+def render_by_category(records):
+    by_track = defaultdict(list)
+    for r in records:
+        for t in (r["tracks"] or [OTHERS]):
+            by_track[t if t in CATEGORY_MAP else OTHERS].append(r)
+    sections = [t for t in list(CATEGORY_MAP) + [OTHERS] if by_track.get(t)]
+
+    lines = [
+        "# All tools by track",
+        "",
+        f"Every tool from every Black Hat Arsenal event ({len(records)} presentations), grouped by track. "
+        "Tools with several tracks appear under each. See also [all tools A–Z](BY_NAME.md).",
+        "",
+        "## Contents",
+    ]
+    lines += [f"- [{t}](#{sanitize_anchor(t)}) ({len(by_track[t])})" for t in sections]
+    for t in sections:
+        lines += ["", f"## {t}", ""]
+        for r in sorted(by_track[t], key=lambda r: (r["name"].lower(), r["year"], r["location"])):
+            link = f" · [repo]({r['url']})" if r["url"] else ""
+            lines.append(f"- **{md_escape(r['name'])}** — {event_link(r)}{link}")
+    write(BY_CATEGORY, lines)
+
+
+def render_by_name(records):
+    groups = defaultdict(list)
+    for r in records:
+        groups[r["name"].lower()].append(r)
+
+    def initial(name):
+        c = name[:1].upper()
+        return c if c.isascii() and c.isalpha() else "0-9"
+
+    by_letter = defaultdict(list)
+    for rs in groups.values():
+        by_letter[initial(rs[0]["name"])].append(rs)
+    letters = sorted(by_letter)  # "0-9" sorts before "A"
+
+    recurring = sum(1 for rs in groups.values() if len(rs) > 1)
+    lines = [
+        "# All tools A–Z",
+        "",
+        f"{len(groups)} distinct tools across {len(records)} presentations; {recurring} were presented at more "
+        "than one event. Tools are grouped by name, so a tool shown at several events is one line with every event listed. "
+        "See also [all tools by track](BY_CATEGORY.md).",
+        "",
+        "## Contents",
+        " · ".join(f"[{c}](#{sanitize_anchor(c)})" for c in letters),
+    ]
+    for c in letters:
+        lines += ["", f"## {c}", ""]
+        for rs in sorted(by_letter[c], key=lambda rs: rs[0]["name"].lower()):
+            rs = sorted(rs, key=lambda r: (r["year"], r["location"]))
+            latest = rs[-1]
+            events = ", ".join(event_link(r) for r in rs)
+            link = f" · [repo]({latest['url']})" if latest["url"] else ""
+            lines.append(f"- **{md_escape(latest['name'])}** — {events}{link}")
+    write(BY_NAME, lines)
+
+
+# -------------------------------
+# 🗃️ Aggregates
+# -------------------------------
+
+def write_aggregates(records):
+    rows = [{
+        "Tool Name": r["name"],
+        "Description": r["description"],
+        "Github URL": r["url"],
+        "Tracks": r["tracks"],
+        "Speakers": r["speakers"],
+        "Year": r["year"],
+        "Location": r["location"],
+        "Path": r["path"],
+    } for r in records]
+    with open(TOOLS_JSON, "w", encoding="utf-8") as f:
+        json.dump(rows, f, indent=1, ensure_ascii=False)
+        f.write("\n")
+    with open(TOOLS_CSV, "w", encoding="utf-8", newline="") as f:
+        w = csv.writer(f, lineterminator="\n")
+        w.writerow(["Tool Name", "Location", "Year", "Tracks", "Speakers", "Github URL", "Description", "Path"])
+        for r in rows:
+            w.writerow([r["Tool Name"], r["Location"], r["Year"], "; ".join(r["Tracks"]),
+                        "; ".join(r["Speakers"]), r["Github URL"], r["Description"], r["Path"]])
+
+
+# -------------------------------
+# 🏠 Root README
+# -------------------------------
+
+def render_root_readme(records):
+    per_location = defaultdict(lambda: defaultdict(int))
+    for r in records:
+        per_location[r["location"]][r["year"]] += 1
+    total = len(records)
+
+    def loc_heading(loc):
+        return f"{loc} ({sum(per_location[loc].values())} tools)"
+
+    lines = [
+        f"# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) "
+        f"[![Tools](https://img.shields.io/badge/Tools-{total}-blue)](#locations)",
+        "[![Project Logo](logo.png)](https://www.blackhat.com/html/arsenal.html)",
+        "> 🚀 A curated list of cutting-edge cybersecurity tools showcased at the Black Hat Arsenal events — "
+        "covering offensive, defensive, and research-focused security utilities.",
+        "",
+        "Whether you're in red teaming, blue teaming, appsec, or OSINT — this list helps you explore and leverage "
+        "the best tools demonstrated live by security professionals across the world.",
+        "",
+        "## Contents",
+        "- [How This List Is Organized](#how-this-list-is-organized)",
+        "- [Browse](#browse)",
+        "- [Locations](#locations)",
+    ]
+    lines += [f"  - [{loc}](#{sanitize_anchor(loc_heading(loc))})" for loc in sorted(per_location)]
+    lines += [
+        "- [Data](#data)",
+        "- [Contributing](#contributing)",
+        "",
+        "## How This List Is Organized",
+        "- Tools are grouped by the **location** of the Black Hat event (USA, Europe, Asia, Canada, MEA), then by **year**.",
+        "- Each year has its own page where tools are grouped **by track category**, with description, speakers and "
+        "repository link.",
+        "- Two cross-event indexes let you browse the whole collection by track or by name.",
+        "",
+        "## Browse",
+        f"- 🗂️ [All tools by track](tools/BY_CATEGORY.md) — the {len(CATEGORY_MAP)} Arsenal tracks, every event",
+        "- 🔤 [All tools A–Z](tools/BY_NAME.md) — one line per tool, with every event it was presented at",
+        "",
+        "## Locations",
+    ]
+    for loc in sorted(per_location):
+        lines.append(f"### {loc_heading(loc)}")
+        lines += [f"- [{y}]({ROOT_DIR}/{loc}/{y}/README.md) — {n} tools" for y, n in sorted(per_location[loc].items())]
+        lines.append("")
+    lines += [
+        "## Data",
+        f"The whole list is available as [`tools.json`](tools.json) and [`tools.csv`](tools.csv) "
+        f"({total} rows: name, description, URL, tracks, speakers, year, location). Both are regenerated from "
+        "the per-tool JSON files under `tools/` — treat them as read-only.",
+        "",
+        "## Contributing",
+        "We welcome community contributions to make this list better!",
+        "",
+        "- 📁 Each tool is one JSON file at `tools/{LOCATION}/{YEAR}/<tool name>.json` with: Tool Name, Description, "
+        "GitHub URL (if available), Tracks, Speakers.",
+        "- 📝 Follow [CONTRIBUTING.md](CONTRIBUTING.md) for the format and the list of valid track names.",
+        "- ✅ Run `python3 scripts/validate.py` (must report 0 errors) and `python3 AutoReadme.py` "
+        "(regenerates every README, index and data file), then open a pull request.",
+        "",
+        "> ⚠️ All README files, the indexes and `tools.json`/`tools.csv` are generated — edit the JSON files, not these.",
+    ]
+    write(MAIN_README, lines)
+
+
+# -------------------------------
+# 🚀 Main
+# -------------------------------
+
+def main():
+    parser = argparse.ArgumentParser(description="Generate Awesome Black Hat Arsenal READMEs, indexes and data files.")
+    parser.add_argument("--event", help="Only rewrite event pages under tools/<event> (e.g. USA).")
+    parser.add_argument("--year", help="Only rewrite tools/<event>/<year>. Requires --event.")
+    args = parser.parse_args()
+
+    if args.year and not args.event:
+        die("Error: --year requires --event (expected tools/<event>/<year>).")
+    if not os.path.isdir(ROOT_DIR):
+        die(f"Error: ROOT_DIR does not exist or is not a directory: {ROOT_DIR}")
+    if args.event and not os.path.isdir(os.path.join(ROOT_DIR, args.event)):
+        die(f"Error: event folder does not exist: {os.path.join(ROOT_DIR, args.event)}")
+    if args.year and not os.path.isdir(os.path.join(ROOT_DIR, args.event, args.year)):
+        die(f"Error: year folder does not exist: {os.path.join(ROOT_DIR, args.event, args.year)}")
+
+    records = load_tools()
+
+    by_event = defaultdict(list)
+    for r in records:
+        by_event[(r["location"], r["year"])].append(r)
+    for (location, year), rs in sorted(by_event.items()):
+        if args.event and location != args.event:
+            continue
+        if args.year and year != args.year:
+            continue
+        render_event_readme(location, year, rs)
+
+    render_by_category(records)
+    render_by_name(records)
+    write_aggregates(records)
+    render_root_readme(records)
+    print(f"Generated {len(by_event)} event pages, 2 indexes, {TOOLS_JSON}, {TOOLS_CSV} and {MAIN_README} "
+          f"from {len(records)} tools.")
+
+
+if __name__ == "__main__":
+    main()

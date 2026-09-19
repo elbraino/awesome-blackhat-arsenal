@@ -85,7 +85,7 @@ If a tool doesn’t fit into any of these tracks, use an empty list (`"Tracks": 
 Once you add a JSON file:
 
 * **Validate**: run `python3 scripts/validate.py` from the repo root. It checks every file for required keys, valid track names, well-formed URLs, and that `Year`/`Location` match the folder. It must report **0 errors** (warnings are fine).
-* **README generation**: run `python3 AutoReadme.py` from the repo root to regenerate the README files, and commit the result.
+* **README generation**: run `python3 AutoReadme.py` from the repo root. It regenerates every event README, the cross-event indexes (`tools/BY_CATEGORY.md`, `tools/BY_NAME.md`), the data files (`tools.json`, `tools.csv`) and the root README. Commit the result — never edit those files by hand.
 
 CI runs both checks on every pull request and fails if the READMEs are out of date.
 

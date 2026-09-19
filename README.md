@@ -5,20 +5,28 @@
 Whether you're in red teaming, blue teaming, appsec, or OSINT — this list helps you explore and leverage the best tools demonstrated live by security professionals across the world.
 
 ## Contents
-1. [How This List Is Organized](#how-this-list-is-organized)
-2. [Locations](#locations)
-   - [Asia](#asia)
-   - [Canada](#canada)
-   - [Europe](#europe)
-   - [MEA](#mea)
-   - [USA](#usa)
+- [How This List Is Organized](#how-this-list-is-organized)
+- [Browse](#browse)
+- [Locations](#locations)
+  - [Asia](#asia-358-tools)
+  - [Canada](#canada-97-tools)
+  - [Europe](#europe-432-tools)
+  - [MEA](#mea-37-tools)
+  - [USA](#usa-1102-tools)
+- [Data](#data)
+- [Contributing](#contributing)
+
 ## How This List Is Organized
-- The tools are grouped by the **location** of the Black Hat event (e.g., USA, Europe, Asia).
-- Under each location, tools are further organized by **year**.
-- Each year has its own README where tools are grouped **by track category**, each with description, speakers, and GitHub link (where available).
----
+- Tools are grouped by the **location** of the Black Hat event (USA, Europe, Asia, Canada, MEA), then by **year**.
+- Each year has its own page where tools are grouped **by track category**, with description, speakers and repository link.
+- Two cross-event indexes let you browse the whole collection by track or by name.
+
+## Browse
+- 🗂️ [All tools by track](tools/BY_CATEGORY.md) — the 20 Arsenal tracks, every event
+- 🔤 [All tools A–Z](tools/BY_NAME.md) — one line per tool, with every event it was presented at
+
 ## Locations
-### Asia
+### Asia (358 tools)
 - [2015](tools/Asia/2015/README.md) — 11 tools
 - [2016](tools/Asia/2016/README.md) — 14 tools
 - [2017](tools/Asia/2017/README.md) — 16 tools
@@ -31,11 +39,13 @@ Whether you're in red teaming, blue teaming, appsec, or OSINT — this list help
 - [2024](tools/Asia/2024/README.md) — 58 tools
 - [2025](tools/Asia/2025/README.md) — 51 tools
 - [2026](tools/Asia/2026/README.md) — 49 tools
-### Canada
+
+### Canada (97 tools)
 - [2023](tools/Canada/2023/README.md) — 30 tools
 - [2024](tools/Canada/2024/README.md) — 33 tools
 - [2025](tools/Canada/2025/README.md) — 34 tools
-### Europe
+
+### Europe (432 tools)
 - [2014](tools/Europe/2014/README.md) — 5 tools
 - [2015](tools/Europe/2015/README.md) — 18 tools
 - [2016](tools/Europe/2016/README.md) — 17 tools
@@ -48,10 +58,12 @@ Whether you're in red teaming, blue teaming, appsec, or OSINT — this list help
 - [2023](tools/Europe/2023/README.md) — 55 tools
 - [2024](tools/Europe/2024/README.md) — 64 tools
 - [2025](tools/Europe/2025/README.md) — 59 tools
-### MEA
+
+### MEA (37 tools)
 - [2024](tools/MEA/2024/README.md) — 18 tools
 - [2025](tools/MEA/2025/README.md) — 19 tools
-### USA
+
+### USA (1102 tools)
 - [2013](tools/USA/2013/README.md) — 42 tools
 - [2014](tools/USA/2014/README.md) — 49 tools
 - [2015](tools/USA/2015/README.md) — 51 tools
@@ -66,28 +78,15 @@ Whether you're in red teaming, blue teaming, appsec, or OSINT — this list help
 - [2024](tools/USA/2024/README.md) — 93 tools
 - [2025](tools/USA/2025/README.md) — 125 tools
 - [2026](tools/USA/2026/README.md) — 100 tools
----
+
+## Data
+The whole list is available as [`tools.json`](tools.json) and [`tools.csv`](tools.csv) (2026 rows: name, description, URL, tracks, speakers, year, location). Both are regenerated from the per-tool JSON files under `tools/` — treat them as read-only.
+
 ## Contributing
 We welcome community contributions to make this list better!
 
-🛠 How to Contribute:
-- 📁 Tools are grouped by **Black Hat event location** (`USA`, `Europe`, etc.) and **year** inside `tools/`. 
-- 🧠 Each year's README (auto-generated) groups tools by **track category** such as `Red Teaming`, `OSINT`, `Reverse Engineering`, etc.
-- 📝 Each tool is defined by a structured `.json` file including:
-  - Tool Name
-  - Description
-  - GitHub URL (if available)
-  - Tracks
-  - Speaker(s)
+- 📁 Each tool is one JSON file at `tools/{LOCATION}/{YEAR}/<tool name>.json` with: Tool Name, Description, GitHub URL (if available), Tracks, Speakers.
+- 📝 Follow [CONTRIBUTING.md](CONTRIBUTING.md) for the format and the list of valid track names.
+- ✅ Run `python3 scripts/validate.py` (must report 0 errors) and `python3 AutoReadme.py` (regenerates every README, index and data file), then open a pull request.
 
-📄 To Add a Tool:
-1. Create a JSON file inside the appropriate folder:
-   ```
-   tools/{LOCATION}/{YEAR}/tool-name.json
-   ```
-2. Follow the [CONTRIBUTING.md](CONTRIBUTING.md) for format guidelines.
-3. Run `python3 AutoReadme.py` to regenerate the README files.
-4. Submit a pull request.
-
-> ⚠️ Keep content concise and correctly categorized. Badges and README entries are auto-generated.
-
+> ⚠️ All README files, the indexes and `tools.json`/`tools.csv` are generated — edit the JSON files, not these.
