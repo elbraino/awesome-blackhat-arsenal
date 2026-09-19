@@ -314,6 +314,8 @@ def render_root_readme(records):
         "- Two cross-event indexes let you browse the whole collection by track or by name.",
         "",
         "## Browse",
+        "- 🔎 [Search](https://elbraino.github.io/awesome-blackhat-arsenal/) — filter every tool by name, speaker, "
+        "region, year and track",
         f"- 🗂️ [All tools by track](tools/BY_CATEGORY.md) — the {len(CATEGORY_MAP)} Arsenal tracks, every event",
         "- 🔤 [All tools A–Z](tools/BY_NAME.md) — one line per tool, with every event it was presented at",
         "",

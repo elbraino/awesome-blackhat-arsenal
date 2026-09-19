@@ -22,6 +22,7 @@ Whether you're in red teaming, blue teaming, appsec, or OSINT — this list help
 - Two cross-event indexes let you browse the whole collection by track or by name.
 
 ## Browse
+- 🔎 [Search](https://elbraino.github.io/awesome-blackhat-arsenal/) — filter every tool by name, speaker, region, year and track
 - 🗂️ [All tools by track](tools/BY_CATEGORY.md) — the 20 Arsenal tracks, every event
 - 🔤 [All tools A–Z](tools/BY_NAME.md) — one line per tool, with every event it was presented at
 
