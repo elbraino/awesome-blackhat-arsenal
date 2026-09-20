@@ -20,7 +20,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Needle</strong> — Marco Lancini</summary>
 
 **Track:** — · **Event:** USA 2016  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/ReversecLabs/needle](https://github.com/ReversecLabs/needle)  
 📝 **Description:** Assessing the security of an iOS application typically requires a plethora of tools, each developed for a specific need and all with different modes of operation and syntax. The Android ecosystem has tools like "drozer" that have solved this problem and aim to be a 'one stop shop' for the majority of use cases, however iOS does not have an equivalent. "Needle" is an open source modular framework which aims to streamline the entire process of conducting security assessments of iOS applications, and acts as a central point from which to do so. Given its modular approach, Needle is easily extensible and new modules can be added in the form of python scripts. Needle is intended to be useful not only for security professionals, but also for developers looking to secure their code. A few examples of testing areas covered by Needle include: data storage, inter-process communication, network communications, static code analysis, hooking and binary protections.​ The only requirement in order to run Needle effectively is a jailbroken device. We will be releasing the tool and describing its architecture, capabilities and roadmap. We will also demonstrate how Needle can be used to find vulnerabilities in iOS applications from both a black-box and white-box perspective (if source code is provided).
 
 </details>
@@ -28,7 +28,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Serpico</strong> — Willis Vandevanter, Peter Arzamendi</summary>
 
 **Track:** — · **Event:** USA 2016  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/BuffaloWill/Serpico](https://github.com/BuffaloWill/Serpico)  
 📝 **Description:** SERPICO is a simple and intuitive report generation and collaboration tool; the primary function is to cut down on the amount of time it takes to write a penetration testing report. When building a report the user adds "findings" from the template database to the report. When there are enough findings, the user clicks 'Generate Report' to create the document of the report. New Report templates can be added through the UI making the reports easy to customize. The Report Templates themselves use a custom Markup Language that includes common variables (example, finding name, customer name, customer address) along with more complex requirements. We are excited to be back at Arsenal and releasing a new version of Serpico! There are some exciting features to show off including new data imports, a bundled version for quicker reporting, and findings trending. Serpico was built by penetration testers with a pen-testers methodology in mind. It might make you hate report writing just a little bit less.
 
 </details>
@@ -492,7 +492,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Accelerating Cyber Hunting Project ASGARD</strong> — Joshua Patterson, Michael Wendt</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** USA 2016  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/accenturelabs/blackhat-arsenal-2016](https://github.com/accenturelabs/blackhat-arsenal-2016)  
 📝 **Description:** Rethinking the cyber security problem as a data-centric problem led Accenture Labs Cyber Security team to use best of breed open source big-data tools and emerging technologies to accelerate detection, response, and hunting. Project ASGARD, utilizing new approaches such as graph databases and analysis, GPUs, and Spark, exploits the connected nature of cyber security data to give cyber analyst more efficient and effective tools to combat evolving cyber threats. ASGARD allows organization to store more data than ever, while still gaining 2-3 orders of magnitude more speed and performance than traditional SIEMS. In this talk you can watch us analyze data real-time, learn more about our cluster and architecture, and see how we've integrated leading big data technologies to outperform expensive appliances with a fraction of the cost. In addition, we will demonstrate how advanced data science can be used to identify threats and accelerate cyber analysis, instead of just adding more noise.
 
 </details>

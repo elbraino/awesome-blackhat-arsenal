@@ -1,7 +1,7 @@
 {
   "Tool Name": "CrackMapExec",
   "Description": "CrackMapExec aims to be a one-stop-shop for pentesting Active Directory environments! Think smbexec on steroids, combining the latest and greatest techniques for AD ownage in a single tool! From enumerating logged on users and spidering SMB shares to executing psexec style attacks, concurrently auto-injecting Mimikatz/Shellcode/DLL's into memory using Powershell, dumping the NTDS.dit, querying and executing commands through MSSQL DB's and more! The biggest improvements over the current tools are:",
-  "Github URL": "",
+  "Github URL": "https://github.com/byt3bl33d3r/CrackMapExec",
   "Tracks": [],
   "Speakers": [
     "Marcello Salvati"

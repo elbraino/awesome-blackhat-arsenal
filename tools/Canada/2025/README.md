@@ -300,7 +300,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Noizr</strong> — Marat Salakhutdinov, Aleksandr Varlamov</summary>
 
 **Track:** AI, ML & Data Science · **Event:** Canada 2025  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/noizr/noizr](https://github.com/noizr/noizr)  
 📝 **Description:** Noizr is a Universal SOC AI Plugin that integrates with runtime threat detection tools to reduce alert fatigue. It filters false positives, prioritizes threats by severity and context, and aggregates events into a unified threat picture. Features include a flexible API interface for custom integrations and webhook support for automated response via external systems, enabling faster and more informed triage across any SOC environment.
 
 </details>

@@ -1,7 +1,7 @@
 {
   "Tool Name": "Serpico",
   "Description": "SERPICO is a simple and intuitive report generation and collaboration tool; the primary function is to cut down on the amount of time it takes to write a penetration testing report. When building a report the user adds \"findings\" from the template database to the report. When there are enough findings, the user clicks 'Generate Report' to create the document of the report. New Report templates can be added through the UI making the reports easy to customize. The Report Templates themselves use a custom Markup Language that includes common variables (example, finding name, customer name, customer address) along with more complex requirements. We are excited to be back at Arsenal and releasing a new version of Serpico! There are some exciting features to show off including new data imports, a bundled version for quicker reporting, and findings trending. Serpico was built by penetration testers with a pen-testers methodology in mind. It might make you hate report writing just a little bit less.",
-  "Github URL": "",
+  "Github URL": "https://github.com/BuffaloWill/Serpico",
   "Tracks": [],
   "Speakers": [
     "Willis Vandevanter",

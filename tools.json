@@ -197,7 +197,7 @@
  {
   "Tool Name": "CrackMapExec",
   "Description": "CrackMapExec aims to be a one-stop-shop for pentesting Active Directory environments! Think smbexec on steroids, combining the latest and greatest techniques for AD ownage in a single tool! From enumerating logged on users and spidering SMB shares to executing psexec style attacks, concurrently auto-injecting Mimikatz/Shellcode/DLL's into memory using Powershell, dumping the NTDS.dit, querying and executing commands through MSSQL DB's and more! The biggest improvements over the current tools are:",
-  "Github URL": "",
+  "Github URL": "https://github.com/byt3bl33d3r/CrackMapExec",
   "Tracks": [],
   "Speakers": [
    "Marcello Salvati"
@@ -209,7 +209,7 @@
  {
   "Tool Name": "Faraday",
   "Description": "Since collaborative pentesting is more common each day and teams become larger, sharing the information between pentesters can become a difficult task. Different tools, different formats, long outputs (in the case of having to audit a large network) can make it almost impossible. You may end up with wasted efforts, duplicated tasks, a lot of text files scrambled in your working directory. And then, you need to collect that same information from your teammates and write a report for your client, trying to be as clear as possible. The idea behind Faraday is to help you to share all the information that is generated during the pentest, without changing the way you work. You run a command, or import a report, and Faraday will normalize the results and share that with the rest of the team in real time. Faraday has more than 50 plugins available (and counting), including a lot of common tools. And if you use a tool for which Faraday doesn't have a plugin, you can create your own. During this presentation we're going to show you the latest version of the tool, and how it can be used to improve the effectiveness of your team during a penetration test.",
-  "Github URL": "",
+  "Github URL": "https://github.com/infobyte/faraday",
   "Tracks": [],
   "Speakers": [
    "Emilio Couto"
@@ -463,7 +463,7 @@
  {
   "Tool Name": "LAMMA 1.0",
   "Description": "LAMMA 1.0 is an attempt to create a Swiss-Army-Knife for security and quality Assessment of Cryptographic implementations. This major update of LAMMA has all new modules for testing trust stores, source code analysis and logical flaws in crypto-coding. LAMMA 1.0 with new features & fixes makes crypto-testing more effective and smoother even for large scale implementations. You can use and enhance LAMMA 1.0, as it's a FREE and OPEN SOURCE.",
-  "Github URL": "",
+  "Github URL": "https://github.com/smxlabs/LAMMA-beta",
   "Tracks": [
    "Cryptography"
   ],
@@ -520,7 +520,7 @@
  {
   "Tool Name": "NAD - A Tool for Performing Dynamic Runtime Analysis of Android Functions",
   "Description": "Android application penetration testing goes further than testing the client to server communication. In order to get a holistic view on the risk exposure, a thorough analysis of the application has to be done to understand how the application works. This is also imperative to be able to bypass jailbreak detection, SSL pinning, or figure out how the application is handling encryption (e.g. being able to decrypt certain values). There are several approaches available: The application can be decompiled, modified and recompiled. This approach however may not always work due to errors while decompiling. Patch the application by utilizing method hooks and overriding the original method. In order to identify the correct code and method to patch, the penetration tester has to go through the very time consuming process of figuring out the correct methods. Adding to the frustration, most applications in release mode produce minified and obfuscated code. The above-mentioned problems makes analyzing an Android application a very tedious process, even before the actual analysis of the application has started. Currently there are no tools available for Android that allow for easy method hooking. This is why I started developing NAD, a tool which allows testers to perform on the fly method hooks. This talk aims to demonstrate an Android tool built upon the Xposed framework. This tool is an attempt to be the \"Burp suite\" for Android application methods. It provides the user with several abilities to ease such frustration and make life easier: Perform trace method callsIntercept all methods of the Android applicationPause the applicationModify the input parameters of the hooked methodModify the return value of the hooked method My goal for developing this tool is to save time and provide more insight into compiled Android applications. DOWNLOAD: https://github.com/HanLee/Not-a-debugger",
-  "Github URL": "",
+  "Github URL": "https://github.com/HanLee/Not-a-debugger",
   "Tracks": [
    "Android, iOS and Mobile Hacking"
   ],
@@ -2851,7 +2851,7 @@
  {
   "Tool Name": "Remove-Signature",
   "Description": "Remove-Signature is a tool designed to automate the process of generating a payload that can bypass anti-virus detection. During red team testing, red team operators often need to prepare a payload that will not be detected by anti-virus software in order to be successful. One way to do this is to identify where the signatures used by anti-virus software are located in the payload, and then modifies bytes of the locations so that the modified payload will not be detected as malicious. This process can be time-consuming. Remove-Signature aims to automate this process by identifying the signatures in the payload, and modifying a single byte of the signatures location in a way that will bypass anti-virus detection, while still maintaining the functionality of the payload. The tool understands the PE file format and only makes modifications that will not affect the payload's functionality. Unlike other existing tools that can only identify signatures, Remove-Signature is able to automatically generate a modified payload that can evade anti-virus detection. The use of Remove-Signature can help to reduce the workload of red team operators and allow them to focus on other aspects of the red team engagement.",
-  "Github URL": "",
+  "Github URL": "https://github.com/temp43487580/Remove-Signature",
   "Tracks": [
    "Malware Offense"
   ],
@@ -3270,7 +3270,7 @@
  {
   "Tool Name": "CloudSec Navigator",
   "Description": "Security incidents on cloud platforms such as AWS are occurring frequently, and many of them are caused by misconfigurations or inappropriate use of features. For the purpose of incident prevention, developers need to read a large amount of documentation, including important security guidelines and best practices. The tool uses Retrieval-Augmented Generation (RAG) and Large Language Models (LLM) vector searches to provide highly accurate, customized security advice and referenced guidelines based on the information retrieved. and best practices information. This allows developers to focus on more efficient and secure software development instead of reading large amounts of documentation.",
-  "Github URL": "",
+  "Github URL": "https://github.com/Uki-Wata/CloudSec-Navigator",
   "Tracks": [
    "Web AppSec"
   ],
@@ -4798,7 +4798,7 @@
  {
   "Tool Name": "BugHound MCP",
   "Description": "BugHound MCP is a Model Context Protocol-based security automation framework that streamlines bug bounty hunting through natural language commands. It orchestrates specialized security tools across reconnaissance, scanning, and analysis domains, translating simple prompts into coordinated security workflows so researchers can run comprehensive assessments through conversational interactions instead of complex command chains.",
-  "Github URL": "",
+  "Github URL": "https://github.com/binderlabs/BugHound-MCP",
   "Tracks": [
    "Web AppSec"
   ],
@@ -6605,7 +6605,7 @@
  {
   "Tool Name": "Noizr",
   "Description": "Noizr is a Universal SOC AI Plugin that integrates with runtime threat detection tools to reduce alert fatigue. It filters false positives, prioritizes threats by severity and context, and aggregates events into a unified threat picture. Features include a flexible API interface for custom integrations and webhook support for automated response via external systems, enabling faster and more informed triage across any SOC environment.",
-  "Github URL": "",
+  "Github URL": "https://github.com/noizr/noizr",
   "Tracks": [
    "AI, ML & Data Science"
   ],
@@ -6902,7 +6902,7 @@
  {
   "Tool Name": "Lynis",
   "Description": "Lynis is a free and open source security and auditing tool. It runs on Unix, Mac and Linux based systems. Lynis helps DevOps and security professionals detect vulnerabilities and configuration management weaknesses. When running the tool, an in-depth scan of the system will be performed. Therefore it is much more thorough than network based vulnerability scanners. It starts with the boot loader and goes up to installed software packages. After the analysis, it provides the discovered findings, including hints to further secure the system.",
-  "Github URL": "",
+  "Github URL": "https://github.com/CISOfy/lynis",
   "Tracks": [],
   "Speakers": [
    "Michael Boelen"
@@ -6928,7 +6928,7 @@
  {
   "Tool Name": "NFCulT",
   "Description": "NFCulT is an ultimate android application for exploiting and researching in NFC Mifare Ultralight security. Its first focus is against transport systems, but during the time, it has been applied to research vulnerabilities in bike sharing service, etc. It also implements the following published attacks: - Lock Attack - Time Attack - Replay Attack In this presentation, we will give a short view on the tool's new features for the release 2.0, which will be released live at Black Hat Arsenal.",
-  "Github URL": "",
+  "Github URL": "https://github.com/securenetwork/NFCulT",
   "Tracks": [],
   "Speakers": [
    "Matteo Beccaro"
@@ -6952,7 +6952,7 @@
  {
   "Tool Name": "reGeorg",
   "Description": "In 2008, we released reDuh (http://research.sensepost.com/tools/web/reduh), a network-tunneling tool that allowed port forwarding via a web-shell and HTTP/S to backend services. reDuh has since become part of any attackers standard toolkit, featured in several books and notoriously described as \"insidious\" by HBGary in their leaked e-mails. However, when doing any sort of tunneling, targeting multiple hosts and ports can be frustrating as it requires a tunnel to be setup for each unique host:port combination. Enter reGeorg; this is a rewrite of reDuh to support a full SOCKS4/5 proxy interface. This allows one tunnel to be used to make multiple connections, including port scans. Additionally, capabilities to take advantage of HTML5 websockets (where available) have been built for faster connections. In short, if you can get a webshell up, you can use reGeorg to gain access with your favorite tool (Nmap, Metasploit, etc.) to the entire internal network range your compromised server has access to. The list of currently supported web frameworks are: ASP.NET, JSP, PHP, ASP. The list of currently supported transports are: HTTP, HTTPS, HTML5 WebSockets.",
-  "Github URL": "",
+  "Github URL": "https://github.com/sensepost/reGeorg",
   "Tracks": [],
   "Speakers": [
    "Willem Mouton"
@@ -7059,7 +7059,7 @@
  {
   "Tool Name": "BTA",
   "Description": "When it comes to the security of the information system, Active Directory domain controllers are, or should be, at the center of concerns, which are (normally) to ensure compliance with best practices, and during a compromise proved to explore the possibility of cleaning the information system without having to rebuild Active Directory. However, few tools implement this process and several ways exist to backdoor Active Directory. We propose to present some possible backdoors which could be set by an intruder in Active Directory to keep administration rights. For example, how to modify the AdminSDHolder container in order to reapply rights after administrator actions. Moreover, backdoors can be implemented in Active Directory to help an intruder to gain back his privileges. Then, we will present BTA, an audit tool for Active Directory databases, and our methodology for verifying the application of good practices and the absence of malicious changes in these databases. The presentation will be organized as follows:- We begin by describing the stakes around the Active Directory, centerpiece of any information system based on Microsoft technologies.- We will continue by demonstrating some backdoors in order to keep admins rights or to help an intruder to quickly recover admins rights.- We will present BTA and the methodology developed to analysis Active Directory.- We conclude with a feedback on real world usage of BTA. More information can be found on the Bitbucket repository: https: //bitbucket.org/iwseclabs/bta",
-  "Github URL": "",
+  "Github URL": "https://github.com/airbus-seclab/bta",
   "Tracks": [],
   "Speakers": [
    "Joffrey Czarny"
@@ -7099,7 +7099,7 @@
  {
   "Tool Name": "CuckooDroid - An Automated Malware Analysis Framework",
   "Description": "To combat the growing problem of Android malware, we present a new solution based on the popular open source framework Cuckoo Sandbox to automate the malware investigation process. Our extension enables the use of Cuckoo's features to analyze Android malware and provides new functionality for dynamic and static analysis. Our framework is an all in one solution for malware analysis on Android. It is extensible and modular, allowing the use of new, as well as existing, tools for custom analysis. The main capabilities of our CuckooDroid include:- Dynamic Analysis - based on Dalvik API hooking- Static Analysis - Integration with Androguard- Emulator Detection Prevention- Virtualization Managers that support the popular virtualization solutions (VMware,Virtualbox, Esxi, Xen, and Kvm) and now also android emulator.- Traffic Analysis- Intelligence Gathering - Collecting information from Virustotal, Google Play etc.- Behavioral Signatures Examples of well-known malware will be used to demonstrate the framework capabilities and its usefulness in malware analysis.",
-  "Github URL": "",
+  "Github URL": "https://github.com/idanr1986/cuckoo-droid",
   "Tracks": [],
   "Speakers": [
    "Idan Revivo"
@@ -7165,7 +7165,7 @@
  {
   "Tool Name": "Faraday",
   "Description": "Since collaborative pentesting is more common each day, sharing the information generated by the pentesters between each other could become a difficult task. Different tools, different formats, long outputs (in the case of having to audit a large network) can make it almost impossible. You may end up with wasted efforts, duplicated tasks, a lot of text files scrambled in your working directory. And then, you need to collect that same information from your teammates and write a report for your client, trying to be as clear as possible. The idea of Faraday is to help you to share all the information that is generated during the pentest, without changing the way you work. You run a command, or import a report, and Faraday will normalize the result and share that with the rest of the team in real time. Faraday has most than 40 plugins (and counting) available, including a the most used tools (msf, nmap, sqlmap to name a few), and if you use a tool for which Faraday doesn't have a plugin, you can create your own. During this presentation we're going to show you the latest version of the tool, and how can be used to improve the effectiveness of your team during a penetration test.",
-  "Github URL": "",
+  "Github URL": "https://github.com/infobyte/faraday",
   "Tracks": [],
   "Speakers": [
    "Daniel Foguel"
@@ -7177,7 +7177,7 @@
  {
   "Tool Name": "FindSecurityBugs",
   "Description": "FindSecurityBugs is a plugin for the Java static analysis tool FindBugs. This plugin consists of set rules that focus only on security weaknesses. It can be use by developers or security analysts to find vulnerabilities in their code.",
-  "Github URL": "",
+  "Github URL": "https://github.com/find-sec-bugs/find-sec-bugs",
   "Tracks": [],
   "Speakers": [
    "Philippe Arteau",
@@ -7275,7 +7275,7 @@
  {
   "Tool Name": "Lynis",
   "Description": "Most of us have performed some level of system hardening, using checklists or custom scripts. The next level is to keep the security defenses of your systems compliant with your baselines. Lynis is an open source tool to help you with this goal. It is portable, flexible and specialized on Linux/Unix based systems. It performs an in-depth health check of your systems and tells you what additional steps you can take to lock things down. In this demo, we will see how easy it is to use, yet flexible enough to support much more than initially is visible.",
-  "Github URL": "",
+  "Github URL": "https://github.com/CISOfy/lynis",
   "Tracks": [],
   "Speakers": [
    "Michael Boelen"
@@ -7301,7 +7301,7 @@
  {
   "Tool Name": "OSXCollector",
   "Description": "OSXCollector is an open source forensic evidence collection and analysis toolkit for Mac OS X. It automates the forensic evidence collection and analysis that previously Yelp's team of responders has been doing manually. We use Macs a lot at Yelp, which means that we see our fair share of Mac-specific malware alerts. Host based detectors like antivirus software will tell us about known malware infestations or weird new startup items. Network based detectors see potential CnC callouts or DNS requests to resolve suspicious domains. Sometimes our awesome employees just let us know, \"Hey, I think I have like Stuxnet or conficker or something on my laptop.\"When alerts fire, our incident response team's first goal is to \"stop the bleeding\" to contain and then eradicate the threat. Next, we move to \"root cause the alert\" figuring out exactly what happened and how we'll prevent it in the future. One of our primary tools for root causing OS X alerts is OSXCollector. It was developed in-house at Yelp to automate the digital forensics and incident response (DFIR) based on our past experiences when dealing with the malware infections and other threats haunting Yelp's corporate network.https://github.com/Yelp/osxcollector",
-  "Github URL": "",
+  "Github URL": "https://github.com/YelpArchive/osxcollector",
   "Tracks": [],
   "Speakers": [
    "Kuba Sendor"
@@ -7342,7 +7342,7 @@
  {
   "Tool Name": "peepdf",
   "Description": "peepdf is a Python tool to explore PDF files in order to find out if the file can be harmful or not. The aim of this tool is to provide all the necessary components that a security researcher could need in a PDF analysis without using 3 or 4 tools to make all the tasks. With peepdf it's possible to see all the objects in the document showing the suspicious elements, supports all the most used filters and encodings, it can parse different versions of a file, object streams and encrypted files. With the installation of PyV8 and Pylibemu it provides Javascript and shellcode analysis wrappers too. Apart of this it's able to create new PDF files and modify/obfuscate existent ones.",
-  "Github URL": "",
+  "Github URL": "https://github.com/jesparza/peepdf",
   "Tracks": [],
   "Speakers": [
    "Jose Miguel Esparza"
@@ -7366,7 +7366,7 @@
  {
   "Tool Name": "Reissue Request Scripter (Burp Plugin)",
   "Description": "This Burp plugin has one focus built script to replay HTTP request with various scripting languages. It supports Python, Ruby, Perl, PHP, Powershell, and JavaScript. It is the swiss knife of the custom HTTP web exploits. This plugin starts where other automated tools reach their limit. It integrates itself well with \"python-paddingoracle\" tool to create custom padding oracle attack. It can be used to build quickly malicious JavaScript request for XSS payload. It can be used along sqlmap to exploit second order SQL injection. The BH Arsenal demo will focus on the most common usage: Padding Oracle, SQLi and XSS payload. The Burp plugin is available for download on GitHub and on the Burp App Store:- https://github.com/h3xstream/http-script-generator- https://pro.portswigger.net/bappstore/ShowBappDetails.aspx?uuid=6e0b53d8c801471c9dc614a016d8a20d",
-  "Github URL": "",
+  "Github URL": "https://github.com/h3xstream/http-script-generator",
   "Tracks": [],
   "Speakers": [
    "Philippe Arteau"
@@ -7378,7 +7378,7 @@
  {
   "Tool Name": "Rudra - The Destroyer of Evil",
   "Description": "Rudra aims to provide a developer-friendly framework for exhaustive analysis of (PCAP and PE) files. It provides features to scan and generate reports that include file's structural properties, entropy visualization, compression ratio, theoretical minsize, etc. These details, alongwith file-format specific analysis information, help an analyst to understand the type of data embedded in a file and quickly decide if it deserves further investigation. Rudra now supports scanning PE files and can perform API scans, anti{debug, vm, sandbox} detection, packer detection, authenticode verification, alongwith Yara, shellcode, and regex detection upon them. Additionally, following new features are being added for the first beta release: - Interactive console providing access to all internal data structures and objects, exposing a rich API for users- Plugin architecture to operate upon decoded file content (usecases might be to write a decoder for a new RAT found in the wild or to write a custom unpacker for a binary stub, etc.)- Extracting subfiles and optionally scanning them if needed- Heuristics to identify suspicious network flows and exe files The report for each analyzed file can be dumped to disk as a JSON/HTML/PDF. If needed, analysis can be customized via CLI arguments, config file, or interactive console. Rudra also supports protocol identification, decoding, and normalization. It can analyze embedded URLs and IP addresses within files and gather whois/geolocation information for them. Users can view live mapping of identified hosts and correlate the results from different analysis modules to perform deeper investigation.",
-  "Github URL": "",
+  "Github URL": "https://github.com/7h3rAm/rudra",
   "Tracks": [],
   "Speakers": [
    "Ankur Tyagi"
@@ -7418,7 +7418,7 @@
  {
   "Tool Name": ".NET Security Guard",
   "Description": ".NET Security Guard is a code analyzer using the brand new Roslyn API, a framework built to develop analyzers, refactoring tools and build tools. It allows developers to scan their C# and VB.net code for potential vulnerabilities directly from Visual Studio. The analyzers are able to find a wide range of vulnerabilities from injection flaws to cryptographic weaknesses. Example of vulnerable applications will be analyzed in a live demonstration.",
-  "Github URL": "",
+  "Github URL": "https://github.com/dotnet-security-guard/roslyn-security-guard",
   "Tracks": [],
   "Speakers": [
    "Philippe Arteau"
@@ -7430,7 +7430,7 @@
  {
   "Tool Name": "Aktaion",
   "Description": "Crypto Ransomware has become a popular attack vector used by malicious actors to quickly turn infections into profits. From a defensive perspective, the detection of new ransomware variants relies heavily on signatures, point solution posture and binary level indicators of compromise (IOC). This approach is inefficient at protecting targets against the rapid changes in tactics and delivery mechanisms typical of modern ransomware campaigns. We propose a novel approach for blending multiple signals (called micro behaviors) to detect ransomware with more flexibility than using IOC matching alone. The goal of the approach is to provide expressive mechanisms for detection via contextual indicators and micro behaviors that correlate to attacker tactics, even if they evolve with time. The presenters will provide open source code that will allow users and fellow researchers to replicate the use of these techniques. We will conclude with a focus on how to tie this approach to active defense measures and existing infrastructure. This tool will be applied to PCAPS and will then mine and display relationships of Micro Behaviors particular to ransomware traffic. Built with Spark notebook https://github.com/andypetrella/spark-notebook we are leveraging Apache Spark (http://spark.apache.org/) for scalable data processing and MlLib for an analytics API (http://spark.apache.org/mllib/). Thenotebook will provide an interface for the ingestion of heterogenous data and the ability to build a combination of behavior based risk indictors combined with classic signatures. Prototype examples of different risk profiles will be demonstrated with the API via spark notebook but the libraries themselves should be usable in any Java backed code base.",
-  "Github URL": "",
+  "Github URL": "https://github.com/jzadeh/aktaion",
   "Tracks": [],
   "Speakers": [
    "Joseph Zadeh",
@@ -7443,7 +7443,7 @@
  {
   "Tool Name": "AMIRA: Automated Malware Incident Response and Analysis for MacOS",
   "Description": "Even for a big incident response team handling all of the repetitive tasks related to malware infections is a tedious task. Early on, we automated some of the collection and analysis using our own open source OSXCollector. This helped us quickly identify suspicious domains, URLs and file hashes. But our approach to the analysis still required manual steps that was consuming lots of attention from malware responders. Enter automation: Further reducing the repetitive tasks will help you deal faster with the incident discovery, forensic collection and analysis, with fewer possibilities to make a mistake. We have turned our OSXCollector toolkit into AMIRA: Automated Malware Incident Response and Analysis service. AMIRA turns the forensic information gathered by OSXCollector into an actionable response plan, suggesting the infection source as well as suspicious files and domains requiring a closer look. Furthermore, we integrated AMIRA with our incident response platform, making sure that as little interaction as necessary is required from the analyst to trigger the collection of the forensic artifacts. Thanks to that, the incident response team members can focus on what they excel at: finding the unusual patterns and discovering the novel ways that malware was trying to sneak into the corporate infrastructure.",
-  "Github URL": "",
+  "Github URL": "https://github.com/Yelp/amira",
   "Tracks": [],
   "Speakers": [
    "Jakub (Kuba) Sendor"
@@ -7499,7 +7499,7 @@
  {
   "Tool Name": "BloodHound",
   "Description": "Active Directory domain privilege escalation is a critical component of most penetration tests and red team assessments, but standard methodology dictates a manual and often tedious process - gather credentials, analyze new systems we now have admin rights on, pivot, and repeat until we reach our objective. Then - and only then - we can look back and see the path we took in its entirety. But that may not be the only, nor shortest path we could have taken. By combining the concept of derivative admin (the chaining or linking of administrative rights), existing tools, and graph theory, we have developed a capability called BloodHound, which can reveal the hidden and unintended relationships in Active Directory domains. BloodHound is operationally-focused, providing an easy-to-use web interface and PowerShell ingestor for memory-resident data collection and offline analysis. BloodHound offers several advantages to both attackers and defenders. Otherwise invisible, high-level organizational relationships are exposed. Most possible escalation paths can be efficiently and swiftly identified. Simplified data aggregation accelerates blue and red team analysis. BloodHound has the power and the potential to dramatically change the way you think about and approach Active Directory domain security. At Black Hat Europe 2016, we will unveil the newest addition to BloodHound: object ACL control relationships. We will also unveil new defensive analytics and automated analysis possible only with BloodHound.",
-  "Github URL": "",
+  "Github URL": "https://github.com/SpecterOps/BloodHound-Legacy",
   "Tracks": [],
   "Speakers": [
    "Andy Robbins"
@@ -7511,7 +7511,7 @@
  {
   "Tool Name": "CodexGigas Malware DNA Profiling Search Engine",
   "Description": "Next generation threats are becoming more sophisticated and stealthy, and incident response teams require more advanced tools to respond to such attacks. CodexGigas is a malware profiling search engine that allows malware hunters and analysts to really interrogate the internals of malware and perform searches over a large number of file characteristics. For instance, instead of relying on file-level hashes, we can compute other features such as imported functions, strings, constants, file segments, code regions, or anything that is defined in the file type specification, and that provides us with more than 150 possible searchable patterns, that can be combined. Similar to human fingerprints, every malware has its own unique digital fingerprint that differentiates it from others. As a result, malware will always attempt to hide its true self by deleting or changing this information to avoid detection by antivirus companies and malware researchers. Since malware developers go to great lengths to obfuscate their characteristics, it is often difficult for by researchers and malware analysts to identify multiple characteristics and correlation points. By analyzing malware internals, the algorithm is able to build characteristic families to which a new sample can be categorized and therefore identified for specific behavior, enabling early detection of new malware by comparing against existing malware. Come to see how CodexGigas could be used to enhance your malware hunting capabilities. Link: https://twitter.com/codexgigassys; link: https://github.com/codexgigassys/",
-  "Github URL": "",
+  "Github URL": "https://github.com/codexgigassys/codex-backend",
   "Tracks": [],
   "Speakers": [
    "Luciano Martins",
@@ -7592,7 +7592,7 @@
  {
   "Tool Name": "FakeNet-NG",
   "Description": "FakeNet-NG is a next generation dynamic network analysis tool for malware analysts and penetration testers. FakeNet-NG was inspired by the original FakeNet tool developed by Andrew Honig and Michael Sikorski. FakeNet-NG implements all the old features and many new ones; plus, it is open source and designed to run on modern versions of Windows. FakeNet-NG allows you to intercept and redirect all or specific network traffic while simulating legitimate network services. Using FakeNet-NG, malware analysts can quickly identify malware's functionality and capture network signatures. Penetration testers and bug hunters will find FakeNet-NG's configurable interception engine and modular framework highly useful when testing application's specific functionality and prototyping PoCs. During the tool session attendees will learn the following practical skills:",
-  "Github URL": "",
+  "Github URL": "https://github.com/mandiant/flare-fakenet-ng",
   "Tracks": [],
   "Speakers": [
    "Peter Kacherginsky"
@@ -7604,7 +7604,7 @@
  {
   "Tool Name": "Faraday",
   "Description": "Since collaborative pentesting is more common each day and teams become larger, sharing the information between pentesters can become a difficult task. Different tools, different formats, long outputs (in the case of having to audit a large network) can make it almost impossible. You may end up with wasted efforts, duplicated tasks, a lot of text files scrambled in your working directory. And then, you need to collect that same information from your teammates and write a report for your client, trying to be as clear as possible. The idea behind Faraday is to help you to share all the information that is generated during the pentest, without changing the way you work. You run a command, or import a report, and Faraday will normalize the results and share that with the rest of the team in real time. Faraday has more than 50 plugins available (and counting), including a lot of common tools. And if you use a tool for which Faraday doesn't have a plugin, you can create your own. During this presentation we're going release Faraday v2.0 with all the new features that we were working on for the last couple of months.",
-  "Github URL": "",
+  "Github URL": "https://github.com/infobyte/faraday",
   "Tracks": [],
   "Speakers": [
    "Juan Pablo Daniel Borgna"
@@ -7630,7 +7630,7 @@
  {
   "Tool Name": "FLOSS",
   "Description": "The FireEye Labs Obfuscated String Solver (FLOSS) is an open source tool that automatically detects, extracts, and decodes obfuscated strings in Windows Portable Executable (PE) files. Malware analysts, forensic investigators, and incident responders can use FLOSS to quickly extract sensitive strings to identify indicators of compromise (IOCs). Malware authors encode strings in their programs to hide malicious capabilities and impede reverse engineering. Even simple encoding schemes defeat the 'strings' tool and complicate static and dynamic analysis. FLOSS uses advanced static analysis techniques, such as emulation, to deobfuscate encoded strings. FLOSS is extremely easy to use and works against a large corpus of malware. It follows a similar invocation as the 'strings' tool. Users that understand how to interpret the strings found in a binary will understand FLOSS's output. FLOSS extracts higher value strings, as strings that are obfuscated typically contain the most sensitive configuration resources â€\" including C2 server addresses, names of dynamically resolved imports, suspicious file paths, and other IOCs. I will describe the computer science that powers the tool, and why it works. I will also show how to use FLOSS and demonstrate the decoding of strings from a wide variety of malware families.",
-  "Github URL": "",
+  "Github URL": "https://github.com/mandiant/flare-floss",
   "Tracks": [],
   "Speakers": [
    "Moritz Raabe"
@@ -7670,7 +7670,7 @@
  {
   "Tool Name": "JTAGulator",
   "Description": "JTAGulator is an open source hardware hacking tool that assists in identifying on-chip debug interfaces from test points, vias, or component pads on a circuit board. It currently supports the detection of JTAG and asynchronous serial/UART interfaces. The tool can save a tremendous amount of time during reverse engineering, particularly for those who don't have the skill and/or equipment required for traditional processes. Black Hat Arsenal Europe 2016 will mark the release of a new firmware version and Joe will provide demonstrations of the tool's expanded functionality.",
-  "Github URL": "",
+  "Github URL": "https://github.com/grandideastudio/jtagulator",
   "Tracks": [],
   "Speakers": [
    "Joe Grand"
@@ -7694,7 +7694,7 @@
  {
   "Tool Name": "Lynis",
   "Description": "Lynis is a nifty tool to perform in-depth security tests. It checks your systems for configuration errors, software vulnerabilities, or other weaknesses. Running on the system itself, it can uncover flaws not seen by other tools (e.g. vulnerability scanners). After finishing the scan, it will present the user with a report of the findings. Suggestions are made to enhance your security posture or help you remain compliant with security standards like PCI DSS.Lynis is written in shell script and runs on systems like Linux, macOS, and UNIX-based derivatives. The tool is ideal for those who seek to perform vulnerability assessments and penetration tests, or having to apply system hardening measures.",
-  "Github URL": "",
+  "Github URL": "https://github.com/CISOfy/lynis",
   "Tracks": [],
   "Speakers": [
    "Michael Boelen"
@@ -7706,7 +7706,7 @@
  {
   "Tool Name": "Needle",
   "Description": "Assessing the security of an iOS application typically requires a plethora of tools, each developed for a specific need and all with different modes of operation and syntax. The Android ecosystem has tools like \"drozer\" that have solved this problem and aim to be a \"one stop shop\" for the majority of use cases, however iOS does not have an equivalent. \"Needle\" is an open source modular framework which aims to streamline the entire process of conducting security assessments of iOS applications, and acts as a central point from which to do so. Given its modular approach, Needle is easily extensible and new modules can be added in the form of python scripts. Needle is intended to be useful not only for security professionals, but also for developers looking to secure their code. A few examples of testing areas covered by Needle include: data storage, inter-process communication, network communications, static code analysis, hooking and binary protections.â€' The only requirement in order to run Needle effectively is a jailbroken device. The tool's architecture, capabilities and roadmap will be described. A demonstration will also be performed of how Needle can be used to find vulnerabilities in iOS applications from both a black-box and white-box perspective (if source code is provided).",
-  "Github URL": "",
+  "Github URL": "https://github.com/ReversecLabs/needle",
   "Tracks": [],
   "Speakers": [
    "Marco Lancini"
@@ -7762,7 +7762,7 @@
  {
   "Tool Name": "OWASP ZAP",
   "Description": "The Zed Attack Proxy (ZAP) is currently the most active open source web application security tool and was voted the top security tool in the last Toolswatch annual survey. While it is an ideal tool for people new to appsec, it also has many features specifically intended for advanced penetration testing.",
-  "Github URL": "",
+  "Github URL": "https://github.com/zaproxy/zaproxy",
   "Tracks": [],
   "Speakers": [
    "Simon Bennetts"
@@ -7846,7 +7846,7 @@
  {
   "Tool Name": "Yasuo",
   "Description": "Yasuo is a ruby framework that scans for vulnerable 3rd-party web applications. While working on a network security assessment (internal, external, redteam gigs etc.), we often come across vulnerable 3rd-party web applications or web front-ends that allow us to compromise the remote server by exploiting publicly known vulnerabilities. Some of the common & favorite applications are Apache Tomcat administrative interface, JBoss jmx-console, Hudson Jenkins and so on. Searching Exploit-db will reveal over 10,000 remotely exploitable vulnerabilities that exist in tons of web applications/front-ends and could allow an attacker to completely compromise the back-end server. These vulnerabilities range from RCE to malicious file uploads to SQL injection to RFI/LFI etc. Yasuo is built to quickly scan the network for such vulnerable applications. Currently, it supports around 150 vulnerable applications. In addition to discovering the vulnerable applications through their unique signature, it also detects if the app requires authentication. If it does, Yasuo performs a brute-force attack against them. In the end, it outputs the IP, vulnerable app url, login status and credentials, if found. Currently, many new features are being added to Yasuo, like smart brute-forcing, internal network pentest mode, new signatures etc.",
-  "Github URL": "",
+  "Github URL": "https://github.com/0xsauby/yasuo",
   "Tracks": [],
   "Speakers": [
    "Saurabh Harit"
@@ -11031,7 +11031,7 @@
  {
   "Tool Name": "Akto - Open Source API Security Tool",
   "Description": "We released Open source Akto in Feb '23 & we have 310 stars on Github. This tool is mainly focuses on solving the problems below: - Tough api inventory for both testers, compliance and developers - Testing with complex chained apis - Multi step authentication, refresh/access token etc. - Automated testing of APIs - Both OWASP Top 10 and some business logic tests Our tool Akto focuses on solving the above problems by providing: 1. Provide automated API inventory - 1.a) Automated - Akto can populate inventory automatically from traffic sources like Burp Proxy, Postman or even Chrome HAR files. 1.b) All formats - Akto also covers different formats of APIs such as JSON, GraphQL, gRPC, JSONP, forms. 2. Inspects traffic & provides alerts on suspicious apis - 2.a) Sensitive data - Akto comes with an in-built library for sensitive data patterns. Akto can tell which APIs are sharing sensitive data such as SSN, email, Phone number etc. Users can add their own patterns too. 2.b) Alerts - Users can set up daily alerts using Slack and Webhooks to get alerts about new sensitive data/APIs found 3. Automated API testing which covers OWASP Top 10 & some business logic testing 3.a) OWASP Coverage - Akto has 130+ tests to cover for OWASP Top 10 3.b) Business logic tests - Akto also supports business logic tests such as BOLA, Broken Function Level Authorization, Broken Authentication etc. 3.c) Add your own - Users can also add their own tests. This tool will be very interesting for: - Bugbounty Hunters - has a blackbox feature where complex apis can be uploaded from Burp history & can be useful for chained requests. - Pentesters & testing teams in appsec - getting accurate api collection is complex & time consuming. Provides a one stop solution for getting the inventory. Tests like BOLA and BFLA will be especially interesting for them. - Blue teamers/infra security - Getting an automated API inventory and getting alerts for any new sensitive APIs. They can also get a view of all sensitive PII data being shared across all their services and across all their APIs. They can check unauthenticated APIs, download the swagger file and use it in other security apps too.",
-  "Github URL": "",
+  "Github URL": "https://github.com/akto-api-security/akto",
   "Tracks": [
    "Web AppSec",
    "Vulnerability Assessment"
@@ -11217,7 +11217,7 @@
  {
   "Tool Name": "CrowdSec - the network effect of cybersecurity",
   "Description": "Discover CrowdSec, an open-source and collaborative intrusion prevention and detection system relying on IP behavior analysis and IP reputation. CrowdSec analyzes visitor behavior & provides an adapted response to all kinds of attacks. The solution also enables users to protect each other. Each time an IP is blocked, all community members are informed, so they can also block it. Already used in 160+ countries, the solution builds a crowd-sourced CTI database to secure individuals, companies, institutions etc. The recent release of CrowdSec Security Engine 1.5 brings new features to the table: - Polling API Integration - Real-time decisions management - New Blocklist API and Premium Blocklists - Kubernetes audit acquisition - S3 audit acquisition - Auditd support - CrowdSec CTI API helpers - AWS Cloudtrail Scenarios",
-  "Github URL": "",
+  "Github URL": "https://github.com/crowdsecurity/crowdsec",
   "Tracks": [
    "Data Forensics/Incident Response",
    "Network Defense"
@@ -11449,7 +11449,7 @@
  {
   "Tool Name": "ICS Forensics Tools",
   "Description": "Open Source ICS Forensics Toolkit This cutting-edge toolkit is designed for in-depth analysis of Industrial PLC metadata and project files, providing an essential resource for cybersecurity experts in the industrial control systems (ICS) sector. Our ICS Forensics Tools stand out by enabling thorough investigation of ICS environments, aiding in the detection of anomalies and compromised devices during critical incident responses or routine checks. This exciting arsenal presentation will not only introduce the new protocols but also feature live demonstrations that showcase its capabilities in real-time scenarios. Attendees will receive a concise, user-friendly forensics guide to leverage the full potential of the tool effectively. And there's more – attendees will have exclusive, immediate access to this groundbreaking tool right as the session begins. Don't miss out on this opportunity to enhance your ICS forensics capabilities with our latest open-source solution! https://github.com/microsoft/ics-forensics-tools",
-  "Github URL": "",
+  "Github URL": "https://github.com/microsoft/ics-forensics-tools",
   "Tracks": [
    "Smart Grid/Industrial Security",
    "Data Forensics/Incident Response"
@@ -11557,7 +11557,7 @@
  {
   "Tool Name": "Mobile Security Framework - MobSF",
   "Description": "Mobile Security Framework - MobSF is an automated mobile application security testing environment designed to help security engineers, researchers, developers, and penetration testers to identify security vulnerabilities, malicious behaviors and privacy concerns in mobile applications using static and dynamic analysis. It supports all the popular mobile application binaries and source code formats built for Android and iOS devices. In addition to automated security assessment, it also offers an interactive testing environment to build and execute scenario based test/fuzz cases against the application. Visit our Arsenal station to witness: * Brand new MobSF iOS Dynamic Analyzer * Live Pentest of Android/iOS apps * Solving Mobile app CTF challenges * Reverse engineering and runtime analysis of Mobile malware * How to shift left and integrate MobSF/mobsfscan in your build pipeline",
-  "Github URL": "",
+  "Github URL": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
   "Tracks": [
    "Android, iOS and Mobile Hacking",
    "Exploitation and Ethical Hacking"
@@ -11572,7 +11572,7 @@
  {
   "Tool Name": "MORF - Mobile Reconnaissance Framework",
   "Description": "MORF - Mobile Reconnaissance Framework is a powerful, lightweight, and platform-independent offensive mobile security tool designed to help hackers and developers identify and address sensitive information within mobile applications. It is like a Swiss army knife for mobile application security, as it uses heuristics-based techniques to search through the codebase, creating a comprehensive repository of sensitive information it finds. This makes it easy to identify and address any potentially sensitive data leak. One of the prominent features of MORF is its ability to automatically detect and extract sensitive information from various sources, including source code, resource files, and native libraries. It also collects a large amount of metadata from the application, which can be used to create data science models that can predict and detect potential security threats. MORF also looks into all previous versions of the application, bringing transparency to the security posture of the application. The tool boasts a user-friendly interface and an easy-to-use reporting system that makes it simple for hackers and security professionals to review and address any identified issues. With MORF, you can know that your mobile application's security is in good hands. Overall, MORF is a Swiss army knife for offensive mobile application security, as it saves a lot of time, increases efficiency, enables a data-driven approach, allows for transparency in the security posture of the application by looking into all previous versions, and minimizes the risk of data breaches related to sensitive information, all this by using heuristics-based techniques.",
-  "Github URL": "",
+  "Github URL": "https://github.com/amrudesh1/morf",
   "Tracks": [
    "Android, iOS and Mobile Hacking"
   ],
@@ -14170,7 +14170,7 @@
  {
   "Tool Name": "FalconEye",
   "Description": "FalconEye is an AI-powered security code analyzer that uses locally hosted LLMs via Ollama for semantic vulnerability detection. Unlike traditional SAST tools that rely on pattern matching, FalconEye employs multi-agent collaboration to build dynamic knowledge graphs, form hypotheses, and conduct targeted investigations across codebases. It supports Python, JavaScript, TypeScript, Go, Rust, C/C++, Java, and more. Its privacy-first design ensures all analysis stays local, and it accumulates knowledge across sessions for progressively deeper audits.",
-  "Github URL": "",
+  "Github URL": "https://github.com/Everlastdg/FalconEYE",
   "Tracks": [
    "Code Assessment"
   ],
@@ -14254,7 +14254,7 @@
  {
   "Tool Name": "Noizr",
   "Description": "Noizr is a Universal SOC AI Plugin that integrates with runtime threat detection tools to reduce alert fatigue. It filters false positives, prioritizes threats by severity and context, and aggregates events into a unified threat picture. Features include a flexible API interface for custom integrations and webhook support for automated response via external systems, enabling faster and more informed triage across any SOC environment.",
-  "Github URL": "",
+  "Github URL": "https://github.com/noizr/noizr",
   "Tracks": [
    "Network Defense"
   ],
@@ -14436,7 +14436,7 @@
  {
   "Tool Name": "Dependency-Check",
   "Description": "Does your application have dependencies on 3rd party libraries? Do you know if those same libraries have published CVEs? Dependency-Check, an OWASP project, can help by providing identification and monitoring of application dependencies. The core engine can scan the libraries and will create an inventory of all the dependent libraries and whether or not there are any published CVEs. Dependency-Check's new build plugins will be demonstrated as well as how the tool can be used to perform continuous monitoring of your applications and their dependencies.",
-  "Github URL": "",
+  "Github URL": "https://github.com/dependency-check/DependencyCheck",
   "Tracks": [],
   "Speakers": [
    "Jeremy Long"
@@ -14629,7 +14629,7 @@
  {
   "Tool Name": "Kfuzz",
   "Description": "Kfuzz was my take on kernel level device driver fuzzing with Python. I used Python's ctypes module to interact with the OS kernel and from there manage memory and make subsequent calls to the driver loaded into the kernel.",
-  "Github URL": "",
+  "Github URL": "https://github.com/xshield360/Kfuzz",
   "Tracks": [
    "Exploitation and Ethical Hacking"
   ],
@@ -14671,7 +14671,7 @@
  {
   "Tool Name": "ModSecurity",
   "Description": "ModSecurity is a cross-platform (Apache, IIS and Nginx), open source web application firewall module maintained by Trustwave SpiderLabs Research Team. It's popularity is mainly due to its powerful rules language which provides security personnel a means to quickly develop defenses for emerging attack scenarios or virtual patching for identified web application vulnerabilities. Along with its Lua API and data modification capabilities, it provides unparalleled flexibility for custom integrations and security logic. This Arsenal Demo includes many live setups where Black Hat attendees will be able to play with the ModSecurity defenses and try and evade its detections.",
-  "Github URL": "",
+  "Github URL": "https://github.com/owasp-modsecurity/ModSecurity",
   "Tracks": [],
   "Speakers": [
    "Ryan Barnett"
@@ -14796,7 +14796,7 @@
  {
   "Tool Name": "SimpleRisk",
   "Description": "As security professionals, almost every action we take comes down to making a risk-based decision. Web application vulnerabilities, malware infections, physical vulnerabilities, and much more all boils down to some combination of the likelihood of an event happening and the impact of that event. Risk management is a relatively simple concept to grasp, but the place where many practitioners fall down is in the tool set. The lucky security professionals work for companies who can afford expensive GRC tools to aide in managing risk. The unlucky majority out there usually end up spending countless hours managing risk via spreadsheets. It's cumbersome, time consuming, and just plain sucks. After starting a Risk Management program from scratch at a $1B/yr company, I ran into these same barriers and where budget wouldn't let me go down the GRC route, I finally decided to do something about it. At BlackHat 2013, I would like to formally debut SimpleRisk, a simple and free tool to perform risk management activities. Based entirely on open source technologies and sporting a Mozilla Public License 2.0, a SimpleRisk instance can be stood up in minutes and instantly provides the security professional with the ability to submit risks, plan mitigations, facilitate management reviews, prioritize for project planning, and track regular reviews. It is highly configurable and includes dynamic reporting and the ability to tweak risk formulas on the fly. It is under active development with new features being added all the time and can be downloaded at http://www.simplerisk.org. SimpleRisk is truly Enterprise Risk Management simplified.",
-  "Github URL": "",
+  "Github URL": "https://github.com/simplerisk/code",
   "Tracks": [],
   "Speakers": [
    "Josh Sokol"
@@ -14892,7 +14892,7 @@
  {
   "Tool Name": "ThreadFix",
   "Description": "ThreadFix is a software vulnerability aggregation and management system that reduces the time it takes to fix software vulnerabilities. It imports the results from dynamic, static, and manual testing to provide a centralized view of software security defects across development teams and applications. The system allows companies to correlate testing results and streamline software remediation efforts by simplifying feeds to software issue trackers. By auto-generating application firewall rules, this tool allows organizations to continue remediation work uninterrupted. ThreadFix empowers managers with vulnerability trending reports that show progress over time, giving them justification for their efforts.",
-  "Github URL": "",
+  "Github URL": "https://github.com/denimgroup/threadfix",
   "Tracks": [],
   "Speakers": [
    "Dan Cornell"
@@ -15538,7 +15538,7 @@
  {
   "Tool Name": "Serpico",
   "Description": "Serpico is a report generation and collaboration tool. Serpico’s primary function is to cut down on the amount of time it takes to write a penetration testing report. When building a report the user adds \"findings\" from the template database to the report. When there are enough findings, the user clicks 'Generate Report' to create the docx of the report. New Report templates can be added through the UI making the reports easy to customize. The Report Templates themselves use a custom Markup Language that includes common variables (i.e. finding name, customer name, customer address, etc.) along with more complex requirements. It is meant to be simple and intuitive. Serpico is already in use by a number of consultants, but we think it is time to get the word out. Serpico was built by penetration testers with a pen-testers methodology in mind. It might make you hate report writing just a little bit less.",
-  "Github URL": "",
+  "Github URL": "https://github.com/BuffaloWill/Serpico",
   "Tracks": [],
   "Speakers": [
    "Will Vandevanter",
@@ -15565,7 +15565,7 @@
  {
   "Tool Name": "SimpleRisk",
   "Description": "As security professionals, almost every action we take comes down to making a risk-based decision. Web application vulnerabilities, malware infections, physical vulnerabilities, and much more all boils down to some combination of the likelihood of an event happening and the impact of that event. Risk management is a relatively simple concept to grasp, but the place where many practitioners fall down is in the tool set. The lucky security professionals work for companies who can afford expensive GRC tools to aide in managing risk. The unlucky majority out there usually end up spending countless hours managing risk via spreadsheets. It's cumbersome, time consuming, and just plain sucks. After starting a Risk Management program from scratch at a $1B/yr company, I ran into these same barriers and where budget wouldn't let me go down the GRC route, I finally decided to do something about it. After officially debuting at Black Hat 2013, SimpleRisk, a simple and free tool to perform risk management activities, is back with many significant improvements. Based entirely on open source technologies and sporting a Mozilla Public License 2.0, a SimpleRisk instance can be stood up in minutes and instantly provides the security professional with the ability to submit risks, plan mitigations, facilitate management reviews, prioritize for project planning, and track regular reviews. It is highly configurable and includes dynamic reporting and the ability to tweak risk formulas on the fly. It is under active development with new features being added all the time and can be downloaded at http://www.simplerisk.org. SimpleRisk is truly Enterprise Risk Management simplified.",
-  "Github URL": "",
+  "Github URL": "https://github.com/simplerisk/code",
   "Tracks": [],
   "Speakers": [
    "Josh Sokol"
@@ -15633,7 +15633,7 @@
  {
   "Tool Name": "ThreadFix",
   "Description": "ThreadFix is a software vulnerability aggregation and management system that helps organizations aggregate vulnerability data, generate virtual patches, and interact with software defect tracking systems.",
-  "Github URL": "",
+  "Github URL": "https://github.com/denimgroup/threadfix",
   "Tracks": [],
   "Speakers": [
    "Dan Cornell"
@@ -15701,7 +15701,7 @@
  {
   "Tool Name": "Voyeur",
   "Description": "VOYEUR's main purpose is to generate a fast (and pretty) Active Directory report. The tool is developed entirely in PowerShell (a powerful scripting language) without dependencies (just .Net Framework 3.5 and Ofiice Excel if you want an useful and pretty report). The generated report is a perfect starting point for well-established forensic, incident response team, or security researchers who want to quickly analyze threats in Active Directory Services. The main capabilities of VOYEUR tool are:",
-  "Github URL": "",
+  "Github URL": "https://github.com/silverhack/voyeur",
   "Tracks": [],
   "Speakers": [
    "Juan Garrido"
@@ -15727,7 +15727,7 @@
  {
   "Tool Name": "WATOBO - The Web Application Toolbox",
   "Description": "WATOBO is a security tool for testing web applications. It is intended to enable security professionals to perform efficient (semi-automated) web application security audits. Most important features are: WATOBO is written in (FX)Ruby and was initially released in May 2010 as an open source project on SourceForge (http://watobo.sourceforge.net).",
-  "Github URL": "",
+  "Github URL": "https://github.com/siberas/watobo",
   "Tracks": [],
   "Speakers": [
    "Andreas Schmidt"
@@ -15753,7 +15753,7 @@
  {
   "Tool Name": "Zig Tools",
   "Description": "ZigTools is a Python framework, which was developed to reduce the complexity in writing additional functionality in communicating with the Freakduino (Low cost arduino based 802.15.4 platform). Features such as initializing the radio, changing channels, sending data and processing that data can be written in just a few lines, allowing developers to focus on writing more complex applications without worrying about the low-level communications between the radio and computer.",
-  "Github URL": "",
+  "Github URL": "https://github.com/iSECPartners/ZigTools",
   "Tracks": [
    "Hardware/Embedded"
   ],
@@ -15881,7 +15881,7 @@
  {
   "Tool Name": "ChipWhisperer",
   "Description": "Side channel power analysis and glitching attacks have almost mythical powers - the ability to crack cryptographic implementations by exploiting fundamental flaws in the hardware running those otherwise secure algorithms. The ChipWhisperer project aims to teach everyone from computer science students to in-the-trenches embedded engineers how the attacks work, and how to perform them on real devices. This completely open-source project is a combination of hardware and software - the hardware can be built by a seasoned hardware hacker with surface mount experience, or a less seasoned hardware hacker can buy commercially for under $250. The project is complete with extensive documentation and tutorials to help teach the user about the general principles of side-channel analysis and glitching attacks. ChipWhisperer was previously a finalist in the 2014 Hackaday Prize, where it placed 2nd out of around 800 entries.",
-  "Github URL": "",
+  "Github URL": "https://github.com/newaetech/chipwhisperer",
   "Tracks": [],
   "Speakers": [
    "Colin O'Flynn"
@@ -16020,7 +16020,7 @@
  {
   "Tool Name": "Faraday",
   "Description": "Since collaborative pentesting is more common each day and teams become larger, sharing the information between pentesters can become a difficult task. Different tools, different formats, long outputs (in the case of having to audit a large network) can make it almost impossible. You may end up with wasted efforts, duplicated tasks, a lot of text files scrambled in your working directory. And then, you need to collect that same information from your teammates and write a report for your client, trying to be as clear as possible. The idea behind Faraday is to help you to share all the information that is generated during the pentest, without changing the way you work. You run a command, or import a report, and Faraday will normalize the results and share that with the rest of the team in real time. Faraday has more than 40 plugins available (and counting), including a lot of common tools. And if you use a tool for which Faraday doesn't have a plugin, you can create your own. During this presentation we're going to show you the latest version of the tool, and how it can be used to improve the effectiveness of your team during a penetration test.",
-  "Github URL": "",
+  "Github URL": "https://github.com/infobyte/faraday",
   "Tracks": [],
   "Speakers": [
    "Federico Kirschbaum"
@@ -16243,7 +16243,7 @@
  {
   "Tool Name": "OWASP Dependency-Check",
   "Description": "Does your application have dependencies on third party libraries? Do you know if those same libraries have published CVEs? OWASP dependency-check can help by providing identification and monitoring of the libraries your application uses, notifying you that vulnerabilities (CVEs) have been published for third party code your application uses. Jeremy will be demonstrating the tool and the various ways enterprises can use the tool to perform continuous monitoring of their applications' dependent libraries.",
-  "Github URL": "",
+  "Github URL": "https://github.com/dependency-check/DependencyCheck",
   "Tracks": [],
   "Speakers": [
    "Jeremy Long"
@@ -16397,7 +16397,7 @@
  {
   "Tool Name": "SERPICO",
   "Description": "SERPICO is a simple and intuitive report generation and collaboration tool; the primary function is to cut down on the amount of time it takes to write a penetration testing report. When building a report the user adds \"findings\" from the template database to the report. When there are enough findings, the user clicks 'Generate Report' to create the document of the report. New Report templates can be added through the UI making the reports easy to customize. The Report Templates themselves use a custom Markup Language that includes common variables (example, finding name, customer name, customer address) along with more complex requirements. We've had a lot of growth since the last Arsenal and we are back to show off some of the exciting new features including the ability to import Nessus scans, automated presentation generation, new findings, and more. SERPICO was built by penetration testers with a pen-testers methodology in mind. It might make you hate report writing just a little bit less.",
-  "Github URL": "",
+  "Github URL": "https://github.com/BuffaloWill/Serpico",
   "Tracks": [],
   "Speakers": [
    "Willis Vandevanter",
@@ -16410,7 +16410,7 @@
  {
   "Tool Name": "ShinoBOT",
   "Description": "ShinoBOT is a RAT simulator to evaluate an organization's ability to protect its networks from an advanced targeted attack. It has the basic RAT functionality.-Execute any command-Upload / Download any file-Take a screenshot-Key logging (new) It has also many components to make ShinoBOT powerful and hard to be detected, which is called ShinoBOT Suite. It contains exploit (shortcut attack, macro attack, extension spoofing), DGA, crypt, decoy file, downloader, dropper, icon spoofing, etc. And the C&C server is provided as a service, so you do not need to prepare a server. The new components allow you to evade the detection of the C&C communication, ShinoEncoder and ShinoProxy.",
-  "Github URL": "",
+  "Github URL": "https://github.com/Sh1n0g1/ShinoBOT",
   "Tracks": [],
   "Speakers": [
    "Shota Shinogi"
@@ -16422,7 +16422,7 @@
  {
   "Tool Name": "SimpleRisk",
   "Description": "As security professionals, almost every action we take comes down to making a risk-based decision. Web application vulnerabilities, malware infections, physical vulnerabilities, and much more all boils down to some combination of the likelihood of an event happening. Risk management is a relatively simple concept to grasp, but the place where many practitioners fall down is in the tool set. The lucky security professionals work for companies who can afford expensive GRC tools to aide in managing risk. The unlucky majority out there usually end up spending countless hours managing risk, via spreadsheets. It's cumbersome, time consuming, and just plain sucks. After starting a Risk Management program from scratch at a $1B/year company, Josh Sokol ran into these same barriers and where budget wouldn't let him go down the GRC route, he finally decided to do something about it. SimpleRisk is a simple and free tool to perform risk management activities. Based entirely on open source technologies and sporting a Mozilla Public License 2.0, a SimpleRisk instance can be stood up in minutes and instantly provides the security professional with the ability to submit risks, plan mitigations, facilitate management reviews, prioritize for project planning, and track regular reviews. It is highly configurable and includes dynamic reporting and the ability to tweak risk formulas on the fly. It is under active development with new features being added all the time. SimpleRisk is truly Enterprise Risk Management simplified.",
-  "Github URL": "",
+  "Github URL": "https://github.com/simplerisk/code",
   "Tracks": [],
   "Speakers": [
    "Josh Sokol"
@@ -16504,7 +16504,7 @@
  {
   "Tool Name": "ThreadFix",
   "Description": "ThreadFix is a tool designed to give security practitioners the ability to understand the security of their applications and efficiently conduct remediation. ThreadFix can help with your reporting issues. The software vulnerability management tool provides security managers and professionals a central location to store and track software. vulnerabilities. Trending reports empower users to give up-to-date security statuses of their web applications. ThreadFix also creates web application firewall virtual patches, protecting applications during remediation, applications and vulnerabilities, prioritize application risk decisions based on data, and translate application vulnerabilities to developers in the tools they are already using.",
-  "Github URL": "",
+  "Github URL": "https://github.com/denimgroup/threadfix",
   "Tracks": [],
   "Speakers": [
    "Dan Cornell"
@@ -16615,7 +16615,7 @@
  {
   "Tool Name": "Accelerating Cyber Hunting Project ASGARD",
   "Description": "Rethinking the cyber security problem as a data-centric problem led Accenture Labs Cyber Security team to use best of breed open source big-data tools and emerging technologies to accelerate detection, response, and hunting. Project ASGARD, utilizing new approaches such as graph databases and analysis, GPUs, and Spark, exploits the connected nature of cyber security data to give cyber analyst more efficient and effective tools to combat evolving cyber threats. ASGARD allows organization to store more data than ever, while still gaining 2-3 orders of magnitude more speed and performance than traditional SIEMS. In this talk you can watch us analyze data real-time, learn more about our cluster and architecture, and see how we've integrated leading big data technologies to outperform expensive appliances with a fraction of the cost. In addition, we will demonstrate how advanced data science can be used to identify threats and accelerate cyber analysis, instead of just adding more noise.",
-  "Github URL": "",
+  "Github URL": "https://github.com/accenturelabs/blackhat-arsenal-2016",
   "Tracks": [
    "Data Forensics/Incident Response"
   ],
@@ -17447,7 +17447,7 @@
  {
   "Tool Name": "Needle",
   "Description": "Assessing the security of an iOS application typically requires a plethora of tools, each developed for a specific need and all with different modes of operation and syntax. The Android ecosystem has tools like \"drozer\" that have solved this problem and aim to be a 'one stop shop' for the majority of use cases, however iOS does not have an equivalent. \"Needle\" is an open source modular framework which aims to streamline the entire process of conducting security assessments of iOS applications, and acts as a central point from which to do so. Given its modular approach, Needle is easily extensible and new modules can be added in the form of python scripts. Needle is intended to be useful not only for security professionals, but also for developers looking to secure their code. A few examples of testing areas covered by Needle include: data storage, inter-process communication, network communications, static code analysis, hooking and binary protections.​ The only requirement in order to run Needle effectively is a jailbroken device. We will be releasing the tool and describing its architecture, capabilities and roadmap. We will also demonstrate how Needle can be used to find vulnerabilities in iOS applications from both a black-box and white-box perspective (if source code is provided).",
-  "Github URL": "",
+  "Github URL": "https://github.com/ReversecLabs/needle",
   "Tracks": [],
   "Speakers": [
    "Marco Lancini"
@@ -17617,7 +17617,7 @@
  {
   "Tool Name": "Serpico",
   "Description": "SERPICO is a simple and intuitive report generation and collaboration tool; the primary function is to cut down on the amount of time it takes to write a penetration testing report. When building a report the user adds \"findings\" from the template database to the report. When there are enough findings, the user clicks 'Generate Report' to create the document of the report. New Report templates can be added through the UI making the reports easy to customize. The Report Templates themselves use a custom Markup Language that includes common variables (example, finding name, customer name, customer address) along with more complex requirements. We are excited to be back at Arsenal and releasing a new version of Serpico! There are some exciting features to show off including new data imports, a bundled version for quicker reporting, and findings trending. Serpico was built by penetration testers with a pen-testers methodology in mind. It might make you hate report writing just a little bit less.",
-  "Github URL": "",
+  "Github URL": "https://github.com/BuffaloWill/Serpico",
   "Tracks": [],
   "Speakers": [
    "Willis Vandevanter",
@@ -19996,7 +19996,7 @@
  {
   "Tool Name": "MLPdf: An Effective Machine Learning Based Approach for PDF Malware Detection",
   "Description": "Due to the popularity of portable document format (PDF) and increasing number of vulnerabilities in major PDF viewer applications, malware writers continue to use it to deliver malware via web downloads, email attachments and other methods in both targeted and non-targeted attacks. The topic on how to effectively block malicious PDF documents has received huge research interests in both cyber security industry and academia with no sign of slowing down. In this work, we propose and demonstrate a novel approach based on a multilayer perceptron (MLP) neural network model, termed MLPdf, for the detection of PDF based malware. More specifically, the MLPdf model uses a backpropagation algorithm with stochastic gradient decent search for model update. A group of high quality features are extracted from two real-world datasets which comprise around 105000 benign and malicious PDF documents. Evaluation results indicate that the proposed MLPdf approach exhibits excellent performance which significantly outperforms all evaluated eight well known commercial anti-virus scanners with a much higher true positive rate (TPR) of 95.12% achieved while maintaining a very low false positive rate of 0.08%. Of the evaluated commercial AV scanners, the best scanner only has a TPR of 84.53%, which is over 10% lower than the proposed MLPdf model. In the demonstration, we will first manually analyze a malicious PDF document , then show how it can be automatically detected by the proposed ML approach. Presentation: https://github.com/cyberML/MLPdf/blob/master/BlackHatUSA2018_MLPdf_slides.pdf Paper: https://arxiv.org/abs/1808.06991",
-  "Github URL": "",
+  "Github URL": "https://github.com/cyberML/MLPdf",
   "Tracks": [
    "Malware Defense"
   ],
@@ -20141,7 +20141,7 @@
  {
   "Tool Name": "POLAR: Accelerating the Search for Vulnerable Functions",
   "Description": "When developing exploits for complex platforms, finding function relationships between dynamically compiled binaries and its libraries, and representing them in a Graph Database, we can quickly identify exploitation points. In this presentation, I'll discuss Graphs, Binary Relationships and Vulnerable Functions.",
-  "Github URL": "",
+  "Github URL": "https://github.com/ezrac/POLAR",
   "Tracks": [
    "Exploitation and Ethical Hacking"
   ],
@@ -28866,7 +28866,7 @@
  {
   "Tool Name": "Realtic",
   "Description": "Realtic is a flexible cybersecurity tool with a graphical user interface built on top of PyQt. By combining several specialist tools into a single, integrated program, it simplifies cryptographic operations and vulnerability evaluations. The design places a high value on efficiency and simplicity, which makes it perfect for security enthusiasts and professionals who want to perform rapid scans and analysis without having to deal with multiple different command-line tools.",
-  "Github URL": "",
+  "Github URL": "https://github.com/danindu/Realtic",
   "Tracks": [
    "Cryptography"
   ],
@@ -29018,7 +29018,7 @@
  {
   "Tool Name": "ShadowHunt: Uncovering Shadow IT and Hidden Secrets",
   "Description": "ShadowHunt is a tool designed to expose one of the most dangerous blind spots in modern enterprise security: Shadow IT on GitHub. In today's decentralized, developer-driven world, employees often use personal GitHub accounts to push company code, test infrastructure, or fork internal projects—without anyone knowing. ShadowHunt identifies and maps these personal repositories back to organizational employees by analyzing public GitHub activity, commit metadata, and contributor patterns. Once linked, it scans those personal repos for leaked secrets—tokens, keys, and config files that quietly jeopardize your organization's security. Beyond Shadow IT discovery, ShadowHunt also detects secrets that evade traditional scanners by generating base64 permutations and scanning GitHub for these hidden variants. Whether you're defending your supply chain or hunting for bounty, ShadowHunt gives you visibility where it matters most—outside your perimeter.",
-  "Github URL": "",
+  "Github URL": "https://github.com/Research-Nautilus/ShadowHunt",
   "Tracks": [
    "OSINT - Open Source Intelligence"
   ],
@@ -29879,7 +29879,7 @@
  {
   "Tool Name": "Ghost in the IDE",
   "Description": "Ghost in the IDE is a command-and-control platform demonstrating supply chain attacks across the JetBrains IntelliJ, Visual Studio Code, and Eclipse plugin ecosystems simultaneously. It shows how a single plugin published to a marketplace — where review relies largely on automated static analysis — can pivot through a development organisation, exfiltrating source code, harvesting cloud credentials from the clipboard, logging keystrokes, and establishing persistent backdoors with the full privileges of developer workstations.",
-  "Github URL": "",
+  "Github URL": "https://github.com/jayaram-yalla/GHOST_IN_THE_IDE",
   "Tracks": [
    "Exploitation and Ethical Hacking"
   ],
@@ -30235,7 +30235,7 @@
  {
   "Tool Name": "Nogitsune: eBPF-Based Anti-VM Detection for Linux Malware Analysis",
   "Description": "Nogitsune is an eBPF-based anti-VM defeat toolkit for Linux malware analysis, removing the need to patch QEMU, rebuild SeaBIOS, or hold hypervisor access. It intercepts file reads and syscalls in the kernel and rewrites hardware identifiers before malware sees them, turning an exposed VirtualBox guest into a convincing physical workstation. The toolkit covers ten DMI file paths, spoofs MAC addresses across file read, ioctl, and netlink queries, hides processes including itself, and alters disk, CPU, and memory attributes at runtime on stock kernels.",
-  "Github URL": "",
+  "Github URL": "https://github.com/sumukhchitloor/nogitsune",
   "Tracks": [
    "Malware Defense"
   ],
@@ -30264,7 +30264,7 @@
  {
   "Tool Name": "Obscurize: Malware for Defense and Counter Offense",
   "Description": "Obscurize inverts the environment checks that malware performs before detonating, adapting the userland DLL injection technique of the r77 rootkit documented in Securonix's OBSCURE#BAT research. A Windows service reflectively injects agent DLLs into every new process and applies 20 Detours API hooks with no kernel driver, spoofing at the API layer via GetSystemFirmwareTable, NtQueryValueKey, and systeminfo.exe output interception. Defensive mode makes real hardware look like a virtual machine so malware self-terminates; Trap mode makes a VM look genuine so samples run their full chain.",
-  "Github URL": "",
+  "Github URL": "https://github.com/fluffybunnies-h4x/Obscurize",
   "Tracks": [
    "Malware Defense"
   ],
@@ -30509,7 +30509,7 @@
  {
   "Tool Name": "RPCExplorer",
   "Description": "RPCExplorer maps and probes the Windows RPC attack surface at scale, turning an interface UUID into something searchable and testable. It enumerates live endpoints through the RPC Endpoint Mapper, captures bindings such as ncalrpc, named pipes, and TCP, and scans on-disk DLLs for unregistered interfaces, loading everything into an interactive web UI with full-text search and filters for SYSTEM-hosted interfaces, missing security callbacks, and risky parameter types. Symbol enrichment, an optional decompiler pipeline, and direct method invocation close the loop from discovery to validation.",
-  "Github URL": "",
+  "Github URL": "https://github.com/akamai/RpcExplorer",
   "Tracks": [
    "Reverse Engineering"
   ],

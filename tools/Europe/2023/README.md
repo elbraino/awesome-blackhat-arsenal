@@ -46,7 +46,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Akto - Open Source API Security Tool</strong> — Ankush Jain</summary>
 
 **Track:** Web AppSec · Vulnerability Assessment · **Event:** Europe 2023  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/akto-api-security/akto](https://github.com/akto-api-security/akto)  
 📝 **Description:** We released Open source Akto in Feb '23 & we have 310 stars on Github. This tool is mainly focuses on solving the problems below: - Tough api inventory for both testers, compliance and developers - Testing with complex chained apis - Multi step authentication, refresh/access token etc. - Automated testing of APIs - Both OWASP Top 10 and some business logic tests Our tool Akto focuses on solving the above problems by providing: 1. Provide automated API inventory - 1.a) Automated - Akto can populate inventory automatically from traffic sources like Burp Proxy, Postman or even Chrome HAR files. 1.b) All formats - Akto also covers different formats of APIs such as JSON, GraphQL, gRPC, JSONP, forms. 2. Inspects traffic & provides alerts on suspicious apis - 2.a) Sensitive data - Akto comes with an in-built library for sensitive data patterns. Akto can tell which APIs are sharing sensitive data such as SSN, email, Phone number etc. Users can add their own patterns too. 2.b) Alerts - Users can set up daily alerts using Slack and Webhooks to get alerts about new sensitive data/APIs found 3. Automated API testing which covers OWASP Top 10 & some business logic testing 3.a) OWASP Coverage - Akto has 130+ tests to cover for OWASP Top 10 3.b) Business logic tests - Akto also supports business logic tests such as BOLA, Broken Function Level Authorization, Broken Authentication etc. 3.c) Add your own - Users can also add their own tests. This tool will be very interesting for: - Bugbounty Hunters - has a blackbox feature where complex apis can be uploaded from Burp history & can be useful for chained requests. - Pentesters & testing teams in appsec - getting accurate api collection is complex & time consuming. Provides a one stop solution for getting the inventory. Tests like BOLA and BFLA will be especially interesting for them. - Blue teamers/infra security - Getting an automated API inventory and getting alerts for any new sensitive APIs. They can also get a view of all sensitive PII data being shared across all their services and across all their APIs. They can check unauthenticated APIs, download the swagger file and use it in other security apps too.
 
 </details>
@@ -106,7 +106,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Mobile Security Framework - MobSF</strong> — Ajin Abraham</summary>
 
 **Track:** Android, iOS and Mobile Hacking · Exploitation and Ethical Hacking · **Event:** Europe 2023  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)  
 📝 **Description:** Mobile Security Framework - MobSF is an automated mobile application security testing environment designed to help security engineers, researchers, developers, and penetration testers to identify security vulnerabilities, malicious behaviors and privacy concerns in mobile applications using static and dynamic analysis. It supports all the popular mobile application binaries and source code formats built for Android and iOS devices. In addition to automated security assessment, it also offers an interactive testing environment to build and execute scenario based test/fuzz cases against the application. Visit our Arsenal station to witness: * Brand new MobSF iOS Dynamic Analyzer * Live Pentest of Android/iOS apps * Solving Mobile app CTF challenges * Reverse engineering and runtime analysis of Mobile malware * How to shift left and integrate MobSF/mobsfscan in your build pipeline
 
 </details>
@@ -114,7 +114,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>MORF - Mobile Reconnaissance Framework</strong> — Amrudesh Balakrishnan, Abhishek JM, Himanshu Das</summary>
 
 **Track:** Android, iOS and Mobile Hacking · **Event:** Europe 2023  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/amrudesh1/morf](https://github.com/amrudesh1/morf)  
 📝 **Description:** MORF - Mobile Reconnaissance Framework is a powerful, lightweight, and platform-independent offensive mobile security tool designed to help hackers and developers identify and address sensitive information within mobile applications. It is like a Swiss army knife for mobile application security, as it uses heuristics-based techniques to search through the codebase, creating a comprehensive repository of sensitive information it finds. This makes it easy to identify and address any potentially sensitive data leak. One of the prominent features of MORF is its ability to automatically detect and extract sensitive information from various sources, including source code, resource files, and native libraries. It also collects a large amount of metadata from the application, which can be used to create data science models that can predict and detect potential security threats. MORF also looks into all previous versions of the application, bringing transparency to the security posture of the application. The tool boasts a user-friendly interface and an easy-to-use reporting system that makes it simple for hackers and security professionals to review and address any identified issues. With MORF, you can know that your mobile application's security is in good hands. Overall, MORF is a Swiss army knife for offensive mobile application security, as it saves a lot of time, increases efficiency, enables a data-driven approach, allows for transparency in the security posture of the application by looking into all previous versions, and minimizes the risk of data breaches related to sensitive information, all this by using heuristics-based techniques.
 
 </details>
@@ -402,7 +402,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>CrowdSec - the network effect of cybersecurity</strong> — Laurence Jones</summary>
 
 **Track:** Data Forensics/Incident Response · Network Defense · **Event:** Europe 2023  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec)  
 📝 **Description:** Discover CrowdSec, an open-source and collaborative intrusion prevention and detection system relying on IP behavior analysis and IP reputation. CrowdSec analyzes visitor behavior & provides an adapted response to all kinds of attacks. The solution also enables users to protect each other. Each time an IP is blocked, all community members are informed, so they can also block it. Already used in 160+ countries, the solution builds a crowd-sourced CTI database to secure individuals, companies, institutions etc. The recent release of CrowdSec Security Engine 1.5 brings new features to the table: - Polling API Integration - Real-time decisions management - New Blocklist API and Premium Blocklists - Kubernetes audit acquisition - S3 audit acquisition - Auditd support - CrowdSec CTI API helpers - AWS Cloudtrail Scenarios
 
 </details>
@@ -492,7 +492,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>ICS Forensics Tools</strong> — Ori Perez, Maayan Shaul</summary>
 
 **Track:** Smart Grid/Industrial Security · Data Forensics/Incident Response · **Event:** Europe 2023  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/microsoft/ics-forensics-tools](https://github.com/microsoft/ics-forensics-tools)  
 📝 **Description:** Open Source ICS Forensics Toolkit This cutting-edge toolkit is designed for in-depth analysis of Industrial PLC metadata and project files, providing an essential resource for cybersecurity experts in the industrial control systems (ICS) sector. Our ICS Forensics Tools stand out by enabling thorough investigation of ICS environments, aiding in the detection of anomalies and compromised devices during critical incident responses or routine checks. This exciting arsenal presentation will not only introduce the new protocols but also feature live demonstrations that showcase its capabilities in real-time scenarios. Attendees will receive a concise, user-friendly forensics guide to leverage the full potential of the tool effectively. And there's more – attendees will have exclusive, immediate access to this groundbreaking tool right as the session begins. Don't miss out on this opportunity to enhance your ICS forensics capabilities with our latest open-source solution! https://github.com/microsoft/ics-forensics-tools
 
 </details>

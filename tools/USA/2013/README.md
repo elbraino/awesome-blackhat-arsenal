@@ -21,7 +21,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Dependency-Check</strong> — Jeremy Long</summary>
 
 **Track:** — · **Event:** USA 2013  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck)  
 📝 **Description:** Does your application have dependencies on 3rd party libraries? Do you know if those same libraries have published CVEs? Dependency-Check, an OWASP project, can help by providing identification and monitoring of application dependencies. The core engine can scan the libraries and will create an inventory of all the dependent libraries and whether or not there are any published CVEs. Dependency-Check's new build plugins will be demonstrated as well as how the tool can be used to perform continuous monitoring of your applications and their dependencies.
 
 </details>
@@ -45,7 +45,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>ModSecurity</strong> — Ryan Barnett</summary>
 
 **Track:** — · **Event:** USA 2013  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity)  
 📝 **Description:** ModSecurity is a cross-platform (Apache, IIS and Nginx), open source web application firewall module maintained by Trustwave SpiderLabs Research Team. It's popularity is mainly due to its powerful rules language which provides security personnel a means to quickly develop defenses for emerging attack scenarios or virtual patching for identified web application vulnerabilities. Along with its Lua API and data modification capabilities, it provides unparalleled flexibility for custom integrations and security logic. This Arsenal Demo includes many live setups where Black Hat attendees will be able to play with the ModSecurity defenses and try and evade its detections.
 
 </details>
@@ -53,7 +53,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>SimpleRisk</strong> — Josh Sokol</summary>
 
 **Track:** — · **Event:** USA 2013  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/simplerisk/code](https://github.com/simplerisk/code)  
 📝 **Description:** As security professionals, almost every action we take comes down to making a risk-based decision. Web application vulnerabilities, malware infections, physical vulnerabilities, and much more all boils down to some combination of the likelihood of an event happening and the impact of that event. Risk management is a relatively simple concept to grasp, but the place where many practitioners fall down is in the tool set. The lucky security professionals work for companies who can afford expensive GRC tools to aide in managing risk. The unlucky majority out there usually end up spending countless hours managing risk via spreadsheets. It's cumbersome, time consuming, and just plain sucks. After starting a Risk Management program from scratch at a $1B/yr company, I ran into these same barriers and where budget wouldn't let me go down the GRC route, I finally decided to do something about it. At BlackHat 2013, I would like to formally debut SimpleRisk, a simple and free tool to perform risk management activities. Based entirely on open source technologies and sporting a Mozilla Public License 2.0, a SimpleRisk instance can be stood up in minutes and instantly provides the security professional with the ability to submit risks, plan mitigations, facilitate management reviews, prioritize for project planning, and track regular reviews. It is highly configurable and includes dynamic reporting and the ability to tweak risk formulas on the fly. It is under active development with new features being added all the time and can be downloaded at http://www.simplerisk.org. SimpleRisk is truly Enterprise Risk Management simplified.
 
 </details>
@@ -61,7 +61,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>ThreadFix</strong> — Dan Cornell</summary>
 
 **Track:** — · **Event:** USA 2013  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/denimgroup/threadfix](https://github.com/denimgroup/threadfix)  
 📝 **Description:** ThreadFix is a software vulnerability aggregation and management system that reduces the time it takes to fix software vulnerabilities. It imports the results from dynamic, static, and manual testing to provide a centralized view of software security defects across development teams and applications. The system allows companies to correlate testing results and streamline software remediation efforts by simplifying feeds to software issue trackers. By auto-generating application firewall rules, this tool allows organizations to continue remediation work uninterrupted. ThreadFix empowers managers with vulnerability trending reports that show progress over time, giving them justification for their efforts.
 
 </details>
@@ -255,7 +255,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Kfuzz</strong> — Matthew Bergin</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2013  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/xshield360/Kfuzz](https://github.com/xshield360/Kfuzz)  
 📝 **Description:** Kfuzz was my take on kernel level device driver fuzzing with Python. I used Python's ctypes module to interact with the OS kernel and from there manage memory and make subsequent calls to the driver loaded into the kernel.
 
 </details>

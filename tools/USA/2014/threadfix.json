@@ -1,7 +1,7 @@
 {
   "Tool Name": "ThreadFix",
   "Description": "ThreadFix is a software vulnerability aggregation and management system that helps organizations aggregate vulnerability data, generate virtual patches, and interact with software defect tracking systems.",
-  "Github URL": "",
+  "Github URL": "https://github.com/denimgroup/threadfix",
   "Tracks": [],
   "Speakers": [
     "Dan Cornell"

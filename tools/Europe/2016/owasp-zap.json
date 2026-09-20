@@ -1,7 +1,7 @@
 {
   "Tool Name": "OWASP ZAP",
   "Description": "The Zed Attack Proxy (ZAP) is currently the most active open source web application security tool and was voted the top security tool in the last Toolswatch annual survey. While it is an ideal tool for people new to appsec, it also has many features specifically intended for advanced penetration testing.",
-  "Github URL": "",
+  "Github URL": "https://github.com/zaproxy/zaproxy",
   "Tracks": [],
   "Speakers": [
     "Simon Bennetts"

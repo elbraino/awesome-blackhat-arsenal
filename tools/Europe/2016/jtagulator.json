@@ -1,7 +1,7 @@
 {
   "Tool Name": "JTAGulator",
   "Description": "JTAGulator is an open source hardware hacking tool that assists in identifying on-chip debug interfaces from test points, vias, or component pads on a circuit board. It currently supports the detection of JTAG and asynchronous serial/UART interfaces. The tool can save a tremendous amount of time during reverse engineering, particularly for those who don't have the skill and/or equipment required for traditional processes. Black Hat Arsenal Europe 2016 will mark the release of a new firmware version and Joe will provide demonstrations of the tool's expanded functionality.",
-  "Github URL": "",
+  "Github URL": "https://github.com/grandideastudio/jtagulator",
   "Tracks": [],
   "Speakers": [
     "Joe Grand"

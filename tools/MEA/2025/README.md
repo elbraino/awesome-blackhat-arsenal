@@ -46,7 +46,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>FalconEye</strong> — Rajanish Pathak</summary>
 
 **Track:** Code Assessment · **Event:** MEA 2025  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/Everlastdg/FalconEYE](https://github.com/Everlastdg/FalconEYE)  
 📝 **Description:** FalconEye is an AI-powered security code analyzer that uses locally hosted LLMs via Ollama for semantic vulnerability detection. Unlike traditional SAST tools that rely on pattern matching, FalconEye employs multi-agent collaboration to build dynamic knowledge graphs, form hypotheses, and conduct targeted investigations across codebases. It supports Python, JavaScript, TypeScript, Go, Rust, C/C++, Java, and more. Its privacy-first design ensures all analysis stays local, and it accumulates knowledge across sessions for progressively deeper audits.
 
 </details>
@@ -140,7 +140,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Noizr</strong> — Marat Salakhutdinov</summary>
 
 **Track:** Network Defense · **Event:** MEA 2025  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/noizr/noizr](https://github.com/noizr/noizr)  
 📝 **Description:** Noizr is a Universal SOC AI Plugin that integrates with runtime threat detection tools to reduce alert fatigue. It filters false positives, prioritizes threats by severity and context, and aggregates events into a unified threat picture. Features include a flexible API interface for custom integrations and webhook support for automated response via external systems, enabling faster and more informed triage across any SOC environment.
 
 </details>

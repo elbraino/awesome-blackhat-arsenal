@@ -1,7 +1,7 @@
 {
   "Tool Name": "FalconEye",
   "Description": "FalconEye is an AI-powered security code analyzer that uses locally hosted LLMs via Ollama for semantic vulnerability detection. Unlike traditional SAST tools that rely on pattern matching, FalconEye employs multi-agent collaboration to build dynamic knowledge graphs, form hypotheses, and conduct targeted investigations across codebases. It supports Python, JavaScript, TypeScript, Go, Rust, C/C++, Java, and more. Its privacy-first design ensures all analysis stays local, and it accumulates knowledge across sessions for progressively deeper audits.",
-  "Github URL": "",
+  "Github URL": "https://github.com/Everlastdg/FalconEYE",
   "Tracks": [
     "Code Assessment"
   ],

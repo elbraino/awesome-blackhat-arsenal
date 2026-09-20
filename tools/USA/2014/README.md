@@ -20,7 +20,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Serpico</strong> — Will Vandevanter, Peter Arzamendi</summary>
 
 **Track:** — · **Event:** USA 2014  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/BuffaloWill/Serpico](https://github.com/BuffaloWill/Serpico)  
 📝 **Description:** Serpico is a report generation and collaboration tool. Serpico’s primary function is to cut down on the amount of time it takes to write a penetration testing report. When building a report the user adds "findings" from the template database to the report. When there are enough findings, the user clicks 'Generate Report' to create the docx of the report. New Report templates can be added through the UI making the reports easy to customize. The Report Templates themselves use a custom Markup Language that includes common variables (i.e. finding name, customer name, customer address, etc.) along with more complex requirements. It is meant to be simple and intuitive. Serpico is already in use by a number of consultants, but we think it is time to get the word out. Serpico was built by penetration testers with a pen-testers methodology in mind. It might make you hate report writing just a little bit less.
 
 </details>
@@ -28,7 +28,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>SimpleRisk</strong> — Josh Sokol</summary>
 
 **Track:** — · **Event:** USA 2014  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/simplerisk/code](https://github.com/simplerisk/code)  
 📝 **Description:** As security professionals, almost every action we take comes down to making a risk-based decision. Web application vulnerabilities, malware infections, physical vulnerabilities, and much more all boils down to some combination of the likelihood of an event happening and the impact of that event. Risk management is a relatively simple concept to grasp, but the place where many practitioners fall down is in the tool set. The lucky security professionals work for companies who can afford expensive GRC tools to aide in managing risk. The unlucky majority out there usually end up spending countless hours managing risk via spreadsheets. It's cumbersome, time consuming, and just plain sucks. After starting a Risk Management program from scratch at a $1B/yr company, I ran into these same barriers and where budget wouldn't let me go down the GRC route, I finally decided to do something about it. After officially debuting at Black Hat 2013, SimpleRisk, a simple and free tool to perform risk management activities, is back with many significant improvements. Based entirely on open source technologies and sporting a Mozilla Public License 2.0, a SimpleRisk instance can be stood up in minutes and instantly provides the security professional with the ability to submit risks, plan mitigations, facilitate management reviews, prioritize for project planning, and track regular reviews. It is highly configurable and includes dynamic reporting and the ability to tweak risk formulas on the fly. It is under active development with new features being added all the time and can be downloaded at http://www.simplerisk.org. SimpleRisk is truly Enterprise Risk Management simplified.
 
 </details>
@@ -36,7 +36,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>ThreadFix</strong> — Dan Cornell</summary>
 
 **Track:** — · **Event:** USA 2014  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/denimgroup/threadfix](https://github.com/denimgroup/threadfix)  
 📝 **Description:** ThreadFix is a software vulnerability aggregation and management system that helps organizations aggregate vulnerability data, generate virtual patches, and interact with software defect tracking systems.
 
 </details>
@@ -44,7 +44,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Voyeur</strong> — Juan Garrido</summary>
 
 **Track:** — · **Event:** USA 2014  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/silverhack/voyeur](https://github.com/silverhack/voyeur)  
 📝 **Description:** VOYEUR's main purpose is to generate a fast (and pretty) Active Directory report. The tool is developed entirely in PowerShell (a powerful scripting language) without dependencies (just .Net Framework 3.5 and Ofiice Excel if you want an useful and pretty report). The generated report is a perfect starting point for well-established forensic, incident response team, or security researchers who want to quickly analyze threats in Active Directory Services. The main capabilities of VOYEUR tool are:
 
 </details>
@@ -52,7 +52,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>WATOBO - The Web Application Toolbox</strong> — Andreas Schmidt</summary>
 
 **Track:** — · **Event:** USA 2014  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/siberas/watobo](https://github.com/siberas/watobo)  
 📝 **Description:** WATOBO is a security tool for testing web applications. It is intended to enable security professionals to perform efficient (semi-automated) web application security audits. Most important features are: WATOBO is written in (FX)Ruby and was initially released in May 2010 as an open source project on SourceForge (http://watobo.sourceforge.net).
 
 </details>
@@ -444,7 +444,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Zig Tools</strong> — Mike Warner</summary>
 
 **Track:** Hardware/Embedded · **Event:** USA 2014  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/iSECPartners/ZigTools](https://github.com/iSECPartners/ZigTools)  
 📝 **Description:** ZigTools is a Python framework, which was developed to reduce the complexity in writing additional functionality in communicating with the Freakduino (Low cost arduino based 802.15.4 platform). Features such as initializing the radio, changing channels, sending data and processing that data can be written in just a few lines, allowing developers to focus on writing more complex applications without worrying about the low-level communications between the radio and computer.
 
 </details>

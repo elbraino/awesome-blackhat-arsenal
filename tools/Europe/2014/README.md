@@ -31,7 +31,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Lynis</strong> — Michael Boelen</summary>
 
 **Track:** — · **Event:** Europe 2014  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/CISOfy/lynis](https://github.com/CISOfy/lynis)  
 📝 **Description:** Lynis is a free and open source security and auditing tool. It runs on Unix, Mac and Linux based systems. Lynis helps DevOps and security professionals detect vulnerabilities and configuration management weaknesses. When running the tool, an in-depth scan of the system will be performed. Therefore it is much more thorough than network based vulnerability scanners. It starts with the boot loader and goes up to installed software packages. After the analysis, it provides the discovered findings, including hints to further secure the system.
 
 </details>
@@ -39,7 +39,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>NFCulT</strong> — Matteo Beccaro</summary>
 
 **Track:** — · **Event:** Europe 2014  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/securenetwork/NFCulT](https://github.com/securenetwork/NFCulT)  
 📝 **Description:** NFCulT is an ultimate android application for exploiting and researching in NFC Mifare Ultralight security. Its first focus is against transport systems, but during the time, it has been applied to research vulnerabilities in bike sharing service, etc. It also implements the following published attacks: - Lock Attack - Time Attack - Replay Attack In this presentation, we will give a short view on the tool's new features for the release 2.0, which will be released live at Black Hat Arsenal.
 
 </details>
@@ -55,7 +55,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>reGeorg</strong> — Willem Mouton</summary>
 
 **Track:** — · **Event:** Europe 2014  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/sensepost/reGeorg](https://github.com/sensepost/reGeorg)  
 📝 **Description:** In 2008, we released reDuh (http://research.sensepost.com/tools/web/reduh), a network-tunneling tool that allowed port forwarding via a web-shell and HTTP/S to backend services. reDuh has since become part of any attackers standard toolkit, featured in several books and notoriously described as "insidious" by HBGary in their leaked e-mails. However, when doing any sort of tunneling, targeting multiple hosts and ports can be frustrating as it requires a tunnel to be setup for each unique host:port combination. Enter reGeorg; this is a rewrite of reDuh to support a full SOCKS4/5 proxy interface. This allows one tunnel to be used to make multiple connections, including port scans. Additionally, capabilities to take advantage of HTML5 websockets (where available) have been built for faster connections. In short, if you can get a webshell up, you can use reGeorg to gain access with your favorite tool (Nmap, Metasploit, etc.) to the entire internal network range your compromised server has access to. The list of currently supported web frameworks are: ASP.NET, JSP, PHP, ASP. The list of currently supported transports are: HTTP, HTTPS, HTML5 WebSockets.
 
 </details>
