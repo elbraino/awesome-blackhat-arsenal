@@ -1,7 +1,7 @@
 {
   "Tool Name": "FakeNet-NG",
   "Description": "FakeNet-NG is a next generation dynamic network analysis tool for malware analysts and penetration testers. FakeNet-NG was inspired by the original FakeNet tool developed by Andrew Honig and Michael Sikorski. FakeNet-NG implements all the old features and many new ones; plus, it is open source and designed to run on modern versions of Windows. FakeNet-NG allows you to intercept and redirect all or specific network traffic while simulating legitimate network services. Using FakeNet-NG, malware analysts can quickly identify malware's functionality and capture network signatures. Penetration testers and bug hunters will find FakeNet-NG's configurable interception engine and modular framework highly useful when testing application's specific functionality and prototyping PoCs. During the tool session attendees will learn the following practical skills:",
-  "Github URL": "",
+  "Github URL": "https://github.com/mandiant/flare-fakenet-ng",
   "Tracks": [],
   "Speakers": [
     "Peter Kacherginsky"

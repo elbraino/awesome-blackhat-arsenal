@@ -16,7 +16,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>.NET Security Guard</strong> — Philippe Arteau</summary>
 
 **Track:** — · **Event:** Europe 2016  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/dotnet-security-guard/roslyn-security-guard](https://github.com/dotnet-security-guard/roslyn-security-guard)  
 📝 **Description:** .NET Security Guard is a code analyzer using the brand new Roslyn API, a framework built to develop analyzers, refactoring tools and build tools. It allows developers to scan their C# and VB.net code for potential vulnerabilities directly from Visual Studio. The analyzers are able to find a wide range of vulnerabilities from injection flaws to cryptographic weaknesses. Example of vulnerable applications will be analyzed in a live demonstration.
 
 </details>
@@ -24,7 +24,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Aktaion</strong> — Joseph Zadeh, Rod Soto</summary>
 
 **Track:** — · **Event:** Europe 2016  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/jzadeh/aktaion](https://github.com/jzadeh/aktaion)  
 📝 **Description:** Crypto Ransomware has become a popular attack vector used by malicious actors to quickly turn infections into profits. From a defensive perspective, the detection of new ransomware variants relies heavily on signatures, point solution posture and binary level indicators of compromise (IOC). This approach is inefficient at protecting targets against the rapid changes in tactics and delivery mechanisms typical of modern ransomware campaigns. We propose a novel approach for blending multiple signals (called micro behaviors) to detect ransomware with more flexibility than using IOC matching alone. The goal of the approach is to provide expressive mechanisms for detection via contextual indicators and micro behaviors that correlate to attacker tactics, even if they evolve with time. The presenters will provide open source code that will allow users and fellow researchers to replicate the use of these techniques. We will conclude with a focus on how to tie this approach to active defense measures and existing infrastructure. This tool will be applied to PCAPS and will then mine and display relationships of Micro Behaviors particular to ransomware traffic. Built with Spark notebook https://github.com/andypetrella/spark-notebook we are leveraging Apache Spark (http://spark.apache.org/) for scalable data processing and MlLib for an analytics API (http://spark.apache.org/mllib/). Thenotebook will provide an interface for the ingestion of heterogenous data and the ability to build a combination of behavior based risk indictors combined with classic signatures. Prototype examples of different risk profiles will be demonstrated with the API via spark notebook but the libraries themselves should be usable in any Java backed code base.
 
 </details>
@@ -32,7 +32,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>AMIRA: Automated Malware Incident Response and Analysis for MacOS</strong> — Jakub (Kuba) Sendor</summary>
 
 **Track:** — · **Event:** Europe 2016  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/Yelp/amira](https://github.com/Yelp/amira)  
 📝 **Description:** Even for a big incident response team handling all of the repetitive tasks related to malware infections is a tedious task. Early on, we automated some of the collection and analysis using our own open source OSXCollector. This helped us quickly identify suspicious domains, URLs and file hashes. But our approach to the analysis still required manual steps that was consuming lots of attention from malware responders. Enter automation: Further reducing the repetitive tasks will help you deal faster with the incident discovery, forensic collection and analysis, with fewer possibilities to make a mistake. We have turned our OSXCollector toolkit into AMIRA: Automated Malware Incident Response and Analysis service. AMIRA turns the forensic information gathered by OSXCollector into an actionable response plan, suggesting the infection source as well as suspicious files and domains requiring a closer look. Furthermore, we integrated AMIRA with our incident response platform, making sure that as little interaction as necessary is required from the analyst to trigger the collection of the forensic artifacts. Thanks to that, the incident response team members can focus on what they excel at: finding the unusual patterns and discovering the novel ways that malware was trying to sneak into the corporate infrastructure.
 
 </details>
@@ -40,7 +40,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>BloodHound</strong> — Andy Robbins</summary>
 
 **Track:** — · **Event:** Europe 2016  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/SpecterOps/BloodHound-Legacy](https://github.com/SpecterOps/BloodHound-Legacy)  
 📝 **Description:** Active Directory domain privilege escalation is a critical component of most penetration tests and red team assessments, but standard methodology dictates a manual and often tedious process - gather credentials, analyze new systems we now have admin rights on, pivot, and repeat until we reach our objective. Then - and only then - we can look back and see the path we took in its entirety. But that may not be the only, nor shortest path we could have taken. By combining the concept of derivative admin (the chaining or linking of administrative rights), existing tools, and graph theory, we have developed a capability called BloodHound, which can reveal the hidden and unintended relationships in Active Directory domains. BloodHound is operationally-focused, providing an easy-to-use web interface and PowerShell ingestor for memory-resident data collection and offline analysis. BloodHound offers several advantages to both attackers and defenders. Otherwise invisible, high-level organizational relationships are exposed. Most possible escalation paths can be efficiently and swiftly identified. Simplified data aggregation accelerates blue and red team analysis. BloodHound has the power and the potential to dramatically change the way you think about and approach Active Directory domain security. At Black Hat Europe 2016, we will unveil the newest addition to BloodHound: object ACL control relationships. We will also unveil new defensive analytics and automated analysis possible only with BloodHound.
 
 </details>
@@ -48,7 +48,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>CodexGigas Malware DNA Profiling Search Engine</strong> — Luciano Martins, Javier Bassi, Rodrigo Cetera</summary>
 
 **Track:** — · **Event:** Europe 2016  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/codexgigassys/codex-backend](https://github.com/codexgigassys/codex-backend)  
 📝 **Description:** Next generation threats are becoming more sophisticated and stealthy, and incident response teams require more advanced tools to respond to such attacks. CodexGigas is a malware profiling search engine that allows malware hunters and analysts to really interrogate the internals of malware and perform searches over a large number of file characteristics. For instance, instead of relying on file-level hashes, we can compute other features such as imported functions, strings, constants, file segments, code regions, or anything that is defined in the file type specification, and that provides us with more than 150 possible searchable patterns, that can be combined. Similar to human fingerprints, every malware has its own unique digital fingerprint that differentiates it from others. As a result, malware will always attempt to hide its true self by deleting or changing this information to avoid detection by antivirus companies and malware researchers. Since malware developers go to great lengths to obfuscate their characteristics, it is often difficult for by researchers and malware analysts to identify multiple characteristics and correlation points. By analyzing malware internals, the algorithm is able to build characteristic families to which a new sample can be categorized and therefore identified for specific behavior, enabling early detection of new malware by comparing against existing malware. Come to see how CodexGigas could be used to enhance your malware hunting capabilities. Link: https://twitter.com/codexgigassys; link: https://github.com/codexgigassys/
 
 </details>
@@ -72,7 +72,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>FakeNet-NG</strong> — Peter Kacherginsky</summary>
 
 **Track:** — · **Event:** Europe 2016  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/mandiant/flare-fakenet-ng](https://github.com/mandiant/flare-fakenet-ng)  
 📝 **Description:** FakeNet-NG is a next generation dynamic network analysis tool for malware analysts and penetration testers. FakeNet-NG was inspired by the original FakeNet tool developed by Andrew Honig and Michael Sikorski. FakeNet-NG implements all the old features and many new ones; plus, it is open source and designed to run on modern versions of Windows. FakeNet-NG allows you to intercept and redirect all or specific network traffic while simulating legitimate network services. Using FakeNet-NG, malware analysts can quickly identify malware's functionality and capture network signatures. Penetration testers and bug hunters will find FakeNet-NG's configurable interception engine and modular framework highly useful when testing application's specific functionality and prototyping PoCs. During the tool session attendees will learn the following practical skills:
 
 </details>
@@ -80,7 +80,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Faraday</strong> — Juan Pablo Daniel Borgna</summary>
 
 **Track:** — · **Event:** Europe 2016  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/infobyte/faraday](https://github.com/infobyte/faraday)  
 📝 **Description:** Since collaborative pentesting is more common each day and teams become larger, sharing the information between pentesters can become a difficult task. Different tools, different formats, long outputs (in the case of having to audit a large network) can make it almost impossible. You may end up with wasted efforts, duplicated tasks, a lot of text files scrambled in your working directory. And then, you need to collect that same information from your teammates and write a report for your client, trying to be as clear as possible. The idea behind Faraday is to help you to share all the information that is generated during the pentest, without changing the way you work. You run a command, or import a report, and Faraday will normalize the results and share that with the rest of the team in real time. Faraday has more than 50 plugins available (and counting), including a lot of common tools. And if you use a tool for which Faraday doesn't have a plugin, you can create your own. During this presentation we're going release Faraday v2.0 with all the new features that we were working on for the last couple of months.
 
 </details>
@@ -88,7 +88,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>FLOSS</strong> — Moritz Raabe</summary>
 
 **Track:** — · **Event:** Europe 2016  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/mandiant/flare-floss](https://github.com/mandiant/flare-floss)  
 📝 **Description:** The FireEye Labs Obfuscated String Solver (FLOSS) is an open source tool that automatically detects, extracts, and decodes obfuscated strings in Windows Portable Executable (PE) files. Malware analysts, forensic investigators, and incident responders can use FLOSS to quickly extract sensitive strings to identify indicators of compromise (IOCs). Malware authors encode strings in their programs to hide malicious capabilities and impede reverse engineering. Even simple encoding schemes defeat the 'strings' tool and complicate static and dynamic analysis. FLOSS uses advanced static analysis techniques, such as emulation, to deobfuscate encoded strings. FLOSS is extremely easy to use and works against a large corpus of malware. It follows a similar invocation as the 'strings' tool. Users that understand how to interpret the strings found in a binary will understand FLOSS's output. FLOSS extracts higher value strings, as strings that are obfuscated typically contain the most sensitive configuration resources â€" including C2 server addresses, names of dynamically resolved imports, suspicious file paths, and other IOCs. I will describe the computer science that powers the tool, and why it works. I will also show how to use FLOSS and demonstrate the decoding of strings from a wide variety of malware families.
 
 </details>
@@ -96,7 +96,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>JTAGulator</strong> — Joe Grand</summary>
 
 **Track:** — · **Event:** Europe 2016  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/grandideastudio/jtagulator](https://github.com/grandideastudio/jtagulator)  
 📝 **Description:** JTAGulator is an open source hardware hacking tool that assists in identifying on-chip debug interfaces from test points, vias, or component pads on a circuit board. It currently supports the detection of JTAG and asynchronous serial/UART interfaces. The tool can save a tremendous amount of time during reverse engineering, particularly for those who don't have the skill and/or equipment required for traditional processes. Black Hat Arsenal Europe 2016 will mark the release of a new firmware version and Joe will provide demonstrations of the tool's expanded functionality.
 
 </details>
@@ -112,7 +112,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Lynis</strong> — Michael Boelen</summary>
 
 **Track:** — · **Event:** Europe 2016  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/CISOfy/lynis](https://github.com/CISOfy/lynis)  
 📝 **Description:** Lynis is a nifty tool to perform in-depth security tests. It checks your systems for configuration errors, software vulnerabilities, or other weaknesses. Running on the system itself, it can uncover flaws not seen by other tools (e.g. vulnerability scanners). After finishing the scan, it will present the user with a report of the findings. Suggestions are made to enhance your security posture or help you remain compliant with security standards like PCI DSS.Lynis is written in shell script and runs on systems like Linux, macOS, and UNIX-based derivatives. The tool is ideal for those who seek to perform vulnerability assessments and penetration tests, or having to apply system hardening measures.
 
 </details>
@@ -120,7 +120,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Needle</strong> — Marco Lancini</summary>
 
 **Track:** — · **Event:** Europe 2016  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/ReversecLabs/needle](https://github.com/ReversecLabs/needle)  
 📝 **Description:** Assessing the security of an iOS application typically requires a plethora of tools, each developed for a specific need and all with different modes of operation and syntax. The Android ecosystem has tools like "drozer" that have solved this problem and aim to be a "one stop shop" for the majority of use cases, however iOS does not have an equivalent. "Needle" is an open source modular framework which aims to streamline the entire process of conducting security assessments of iOS applications, and acts as a central point from which to do so. Given its modular approach, Needle is easily extensible and new modules can be added in the form of python scripts. Needle is intended to be useful not only for security professionals, but also for developers looking to secure their code. A few examples of testing areas covered by Needle include: data storage, inter-process communication, network communications, static code analysis, hooking and binary protections.â€' The only requirement in order to run Needle effectively is a jailbroken device. The tool's architecture, capabilities and roadmap will be described. A demonstration will also be performed of how Needle can be used to find vulnerabilities in iOS applications from both a black-box and white-box perspective (if source code is provided).
 
 </details>
@@ -128,7 +128,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>OWASP ZAP</strong> — Simon Bennetts</summary>
 
 **Track:** — · **Event:** Europe 2016  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/zaproxy/zaproxy](https://github.com/zaproxy/zaproxy)  
 📝 **Description:** The Zed Attack Proxy (ZAP) is currently the most active open source web application security tool and was voted the top security tool in the last Toolswatch annual survey. While it is an ideal tool for people new to appsec, it also has many features specifically intended for advanced penetration testing.
 
 </details>
@@ -136,7 +136,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Yasuo</strong> — Saurabh Harit</summary>
 
 **Track:** — · **Event:** Europe 2016  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/0xsauby/yasuo](https://github.com/0xsauby/yasuo)  
 📝 **Description:** Yasuo is a ruby framework that scans for vulnerable 3rd-party web applications. While working on a network security assessment (internal, external, redteam gigs etc.), we often come across vulnerable 3rd-party web applications or web front-ends that allow us to compromise the remote server by exploiting publicly known vulnerabilities. Some of the common & favorite applications are Apache Tomcat administrative interface, JBoss jmx-console, Hudson Jenkins and so on. Searching Exploit-db will reveal over 10,000 remotely exploitable vulnerabilities that exist in tons of web applications/front-ends and could allow an attacker to completely compromise the back-end server. These vulnerabilities range from RCE to malicious file uploads to SQL injection to RFI/LFI etc. Yasuo is built to quickly scan the network for such vulnerable applications. Currently, it supports around 150 vulnerable applications. In addition to discovering the vulnerable applications through their unique signature, it also detects if the app requires authentication. If it does, Yasuo performs a brute-force attack against them. In the end, it outputs the IP, vulnerable app url, login status and credentials, if found. Currently, many new features are being added to Yasuo, like smart brute-forcing, internal network pentest mode, new signatures etc.
 
 </details>

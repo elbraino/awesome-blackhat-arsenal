@@ -21,7 +21,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>ChipWhisperer</strong> — Colin O'Flynn</summary>
 
 **Track:** — · **Event:** USA 2015  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/newaetech/chipwhisperer](https://github.com/newaetech/chipwhisperer)  
 📝 **Description:** Side channel power analysis and glitching attacks have almost mythical powers - the ability to crack cryptographic implementations by exploiting fundamental flaws in the hardware running those otherwise secure algorithms. The ChipWhisperer project aims to teach everyone from computer science students to in-the-trenches embedded engineers how the attacks work, and how to perform them on real devices. This completely open-source project is a combination of hardware and software - the hardware can be built by a seasoned hardware hacker with surface mount experience, or a less seasoned hardware hacker can buy commercially for under $250. The project is complete with extensive documentation and tutorials to help teach the user about the general principles of side-channel analysis and glitching attacks. ChipWhisperer was previously a finalist in the 2014 Hackaday Prize, where it placed 2nd out of around 800 entries.
 
 </details>
@@ -29,7 +29,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Faraday</strong> — Federico Kirschbaum</summary>
 
 **Track:** — · **Event:** USA 2015  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/infobyte/faraday](https://github.com/infobyte/faraday)  
 📝 **Description:** Since collaborative pentesting is more common each day and teams become larger, sharing the information between pentesters can become a difficult task. Different tools, different formats, long outputs (in the case of having to audit a large network) can make it almost impossible. You may end up with wasted efforts, duplicated tasks, a lot of text files scrambled in your working directory. And then, you need to collect that same information from your teammates and write a report for your client, trying to be as clear as possible. The idea behind Faraday is to help you to share all the information that is generated during the pentest, without changing the way you work. You run a command, or import a report, and Faraday will normalize the results and share that with the rest of the team in real time. Faraday has more than 40 plugins available (and counting), including a lot of common tools. And if you use a tool for which Faraday doesn't have a plugin, you can create your own. During this presentation we're going to show you the latest version of the tool, and how it can be used to improve the effectiveness of your team during a penetration test.
 
 </details>
@@ -37,7 +37,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>OWASP Dependency-Check</strong> — Jeremy Long</summary>
 
 **Track:** — · **Event:** USA 2015  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck)  
 📝 **Description:** Does your application have dependencies on third party libraries? Do you know if those same libraries have published CVEs? OWASP dependency-check can help by providing identification and monitoring of the libraries your application uses, notifying you that vulnerabilities (CVEs) have been published for third party code your application uses. Jeremy will be demonstrating the tool and the various ways enterprises can use the tool to perform continuous monitoring of their applications' dependent libraries.
 
 </details>
@@ -45,7 +45,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>SERPICO</strong> — Willis Vandevanter, Peter Arzamendi</summary>
 
 **Track:** — · **Event:** USA 2015  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/BuffaloWill/Serpico](https://github.com/BuffaloWill/Serpico)  
 📝 **Description:** SERPICO is a simple and intuitive report generation and collaboration tool; the primary function is to cut down on the amount of time it takes to write a penetration testing report. When building a report the user adds "findings" from the template database to the report. When there are enough findings, the user clicks 'Generate Report' to create the document of the report. New Report templates can be added through the UI making the reports easy to customize. The Report Templates themselves use a custom Markup Language that includes common variables (example, finding name, customer name, customer address) along with more complex requirements. We've had a lot of growth since the last Arsenal and we are back to show off some of the exciting new features including the ability to import Nessus scans, automated presentation generation, new findings, and more. SERPICO was built by penetration testers with a pen-testers methodology in mind. It might make you hate report writing just a little bit less.
 
 </details>
@@ -53,7 +53,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>ShinoBOT</strong> — Shota Shinogi</summary>
 
 **Track:** — · **Event:** USA 2015  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/Sh1n0g1/ShinoBOT](https://github.com/Sh1n0g1/ShinoBOT)  
 📝 **Description:** ShinoBOT is a RAT simulator to evaluate an organization's ability to protect its networks from an advanced targeted attack. It has the basic RAT functionality.-Execute any command-Upload / Download any file-Take a screenshot-Key logging (new) It has also many components to make ShinoBOT powerful and hard to be detected, which is called ShinoBOT Suite. It contains exploit (shortcut attack, macro attack, extension spoofing), DGA, crypt, decoy file, downloader, dropper, icon spoofing, etc. And the C&C server is provided as a service, so you do not need to prepare a server. The new components allow you to evade the detection of the C&C communication, ShinoEncoder and ShinoProxy.
 
 </details>
@@ -61,7 +61,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>SimpleRisk</strong> — Josh Sokol</summary>
 
 **Track:** — · **Event:** USA 2015  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/simplerisk/code](https://github.com/simplerisk/code)  
 📝 **Description:** As security professionals, almost every action we take comes down to making a risk-based decision. Web application vulnerabilities, malware infections, physical vulnerabilities, and much more all boils down to some combination of the likelihood of an event happening. Risk management is a relatively simple concept to grasp, but the place where many practitioners fall down is in the tool set. The lucky security professionals work for companies who can afford expensive GRC tools to aide in managing risk. The unlucky majority out there usually end up spending countless hours managing risk, via spreadsheets. It's cumbersome, time consuming, and just plain sucks. After starting a Risk Management program from scratch at a $1B/year company, Josh Sokol ran into these same barriers and where budget wouldn't let him go down the GRC route, he finally decided to do something about it. SimpleRisk is a simple and free tool to perform risk management activities. Based entirely on open source technologies and sporting a Mozilla Public License 2.0, a SimpleRisk instance can be stood up in minutes and instantly provides the security professional with the ability to submit risks, plan mitigations, facilitate management reviews, prioritize for project planning, and track regular reviews. It is highly configurable and includes dynamic reporting and the ability to tweak risk formulas on the fly. It is under active development with new features being added all the time. SimpleRisk is truly Enterprise Risk Management simplified.
 
 </details>
@@ -69,7 +69,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>ThreadFix</strong> — Dan Cornell</summary>
 
 **Track:** — · **Event:** USA 2015  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/denimgroup/threadfix](https://github.com/denimgroup/threadfix)  
 📝 **Description:** ThreadFix is a tool designed to give security practitioners the ability to understand the security of their applications and efficiently conduct remediation. ThreadFix can help with your reporting issues. The software vulnerability management tool provides security managers and professionals a central location to store and track software. vulnerabilities. Trending reports empower users to give up-to-date security statuses of their web applications. ThreadFix also creates web application firewall virtual patches, protecting applications during remediation, applications and vulnerabilities, prioritize application risk decisions based on data, and translate application vulnerabilities to developers in the tools they are already using.
 
 </details>

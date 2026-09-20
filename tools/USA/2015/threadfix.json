@@ -1,7 +1,7 @@
 {
   "Tool Name": "ThreadFix",
   "Description": "ThreadFix is a tool designed to give security practitioners the ability to understand the security of their applications and efficiently conduct remediation. ThreadFix can help with your reporting issues. The software vulnerability management tool provides security managers and professionals a central location to store and track software. vulnerabilities. Trending reports empower users to give up-to-date security statuses of their web applications. ThreadFix also creates web application firewall virtual patches, protecting applications during remediation, applications and vulnerabilities, prioritize application risk decisions based on data, and translate application vulnerabilities to developers in the tools they are already using.",
-  "Github URL": "",
+  "Github URL": "https://github.com/denimgroup/threadfix",
   "Tracks": [],
   "Speakers": [
     "Dan Cornell"

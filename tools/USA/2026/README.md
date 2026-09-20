@@ -295,7 +295,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Ghost in the IDE</strong> — Pardhiv Reddy, Venkata jayaram yalla</summary>
 
 **Track:** Exploitation and Ethical Hacking · **Event:** USA 2026  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/jayaram-yalla/GHOST_IN_THE_IDE](https://github.com/jayaram-yalla/GHOST_IN_THE_IDE)  
 📝 **Description:** Ghost in the IDE is a command-and-control platform demonstrating supply chain attacks across the JetBrains IntelliJ, Visual Studio Code, and Eclipse plugin ecosystems simultaneously. It shows how a single plugin published to a marketplace — where review relies largely on automated static analysis — can pivot through a development organisation, exfiltrating source code, harvesting cloud credentials from the clipboard, logging keystrokes, and establishing persistent backdoors with the full privileges of developer workstations.
 
 </details>
@@ -595,7 +595,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Nogitsune: eBPF-Based Anti-VM Detection for Linux Malware Analysis</strong> — Sumukh Chitloor, Harsh Ramjibhai</summary>
 
 **Track:** Malware Defense · **Event:** USA 2026  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/sumukhchitloor/nogitsune](https://github.com/sumukhchitloor/nogitsune)  
 📝 **Description:** Nogitsune is an eBPF-based anti-VM defeat toolkit for Linux malware analysis, removing the need to patch QEMU, rebuild SeaBIOS, or hold hypervisor access. It intercepts file reads and syscalls in the kernel and rewrites hardware identifiers before malware sees them, turning an exposed VirtualBox guest into a convincing physical workstation. The toolkit covers ten DMI file paths, spoofs MAC addresses across file read, ioctl, and netlink queries, hides processes including itself, and alters disk, CPU, and memory attributes at runtime on stock kernels.
 
 </details>
@@ -603,7 +603,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Obscurize: Malware for Defense and Counter Offense</strong> — Aaron Beardslee</summary>
 
 **Track:** Malware Defense · **Event:** USA 2026  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/fluffybunnies-h4x/Obscurize](https://github.com/fluffybunnies-h4x/Obscurize)  
 📝 **Description:** Obscurize inverts the environment checks that malware performs before detonating, adapting the userland DLL injection technique of the r77 rootkit documented in Securonix's OBSCURE#BAT research. A Windows service reflectively injects agent DLLs into every new process and applies 20 Detours API hooks with no kernel driver, spoofing at the API layer via GetSystemFirmwareTable, NtQueryValueKey, and systeminfo.exe output interception. Defensive mode makes real hardware look like a virtual machine so malware self-terminates; Trap mode makes a VM look genuine so samples run their full chain.
 
 </details>
@@ -825,7 +825,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>RPCExplorer</strong> — Shahak Morag</summary>
 
 **Track:** Reverse Engineering · **Event:** USA 2026  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/akamai/RpcExplorer](https://github.com/akamai/RpcExplorer)  
 📝 **Description:** RPCExplorer maps and probes the Windows RPC attack surface at scale, turning an interface UUID into something searchable and testable. It enumerates live endpoints through the RPC Endpoint Mapper, captures bindings such as ncalrpc, named pipes, and TCP, and scans on-disk DLLs for unregistered interfaces, loading everything into an interactive web UI with full-text search and filters for SYSTEM-hosted interfaces, missing security callbacks, and risky parameter types. Symbol enrichment, an optional decompiler pipeline, and direct method invocation close the loop from discovery to validation.
 
 </details>

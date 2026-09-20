@@ -27,7 +27,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>CrackMapExec</strong> — Marcello Salvati</summary>
 
 **Track:** — · **Event:** Asia 2016  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)  
 📝 **Description:** CrackMapExec aims to be a one-stop-shop for pentesting Active Directory environments! Think smbexec on steroids, combining the latest and greatest techniques for AD ownage in a single tool! From enumerating logged on users and spidering SMB shares to executing psexec style attacks, concurrently auto-injecting Mimikatz/Shellcode/DLL's into memory using Powershell, dumping the NTDS.dit, querying and executing commands through MSSQL DB's and more! The biggest improvements over the current tools are:
 
 </details>
@@ -35,7 +35,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Faraday</strong> — Emilio Couto</summary>
 
 **Track:** — · **Event:** Asia 2016  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/infobyte/faraday](https://github.com/infobyte/faraday)  
 📝 **Description:** Since collaborative pentesting is more common each day and teams become larger, sharing the information between pentesters can become a difficult task. Different tools, different formats, long outputs (in the case of having to audit a large network) can make it almost impossible. You may end up with wasted efforts, duplicated tasks, a lot of text files scrambled in your working directory. And then, you need to collect that same information from your teammates and write a report for your client, trying to be as clear as possible. The idea behind Faraday is to help you to share all the information that is generated during the pentest, without changing the way you work. You run a command, or import a report, and Faraday will normalize the results and share that with the rest of the team in real time. Faraday has more than 50 plugins available (and counting), including a lot of common tools. And if you use a tool for which Faraday doesn't have a plugin, you can create your own. During this presentation we're going to show you the latest version of the tool, and how it can be used to improve the effectiveness of your team during a penetration test.
 
 </details>

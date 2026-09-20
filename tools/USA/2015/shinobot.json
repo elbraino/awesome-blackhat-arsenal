@@ -1,7 +1,7 @@
 {
   "Tool Name": "ShinoBOT",
   "Description": "ShinoBOT is a RAT simulator to evaluate an organization's ability to protect its networks from an advanced targeted attack. It has the basic RAT functionality.-Execute any command-Upload / Download any file-Take a screenshot-Key logging (new) It has also many components to make ShinoBOT powerful and hard to be detected, which is called ShinoBOT Suite. It contains exploit (shortcut attack, macro attack, extension spoofing), DGA, crypt, decoy file, downloader, dropper, icon spoofing, etc. And the C&C server is provided as a service, so you do not need to prepare a server. The new components allow you to evade the detection of the C&C communication, ShinoEncoder and ShinoProxy.",
-  "Github URL": "",
+  "Github URL": "https://github.com/Sh1n0g1/ShinoBOT",
   "Tracks": [],
   "Speakers": [
     "Shota Shinogi"

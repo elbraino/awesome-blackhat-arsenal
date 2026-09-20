@@ -121,7 +121,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>BugHound MCP</strong> — Krishna Naidu, eric tee, Lwin Min Oo, Kai-Wei Hoon, Valen Sai</summary>
 
 **Track:** Web AppSec · **Event:** Asia 2026  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/binderlabs/BugHound-MCP](https://github.com/binderlabs/BugHound-MCP)  
 📝 **Description:** BugHound MCP is a Model Context Protocol-based security automation framework that streamlines bug bounty hunting through natural language commands. It orchestrates specialized security tools across reconnaissance, scanning, and analysis domains, translating simple prompts into coordinated security workflows so researchers can run comprehensive assessments through conversational interactions instead of complex command chains.
 
 </details>

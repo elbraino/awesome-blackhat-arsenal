@@ -62,7 +62,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>CloudSec Navigator</strong> — Takuho MITSUNAGA, Koki Watarai, Satoshi OKADA, Ruka NEGISHI</summary>
 
 **Track:** Web AppSec · **Event:** Asia 2024  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/Uki-Wata/CloudSec-Navigator](https://github.com/Uki-Wata/CloudSec-Navigator)  
 📝 **Description:** Security incidents on cloud platforms such as AWS are occurring frequently, and many of them are caused by misconfigurations or inappropriate use of features. For the purpose of incident prevention, developers need to read a large amount of documentation, including important security guidelines and best practices. The tool uses Retrieval-Augmented Generation (RAG) and Large Language Models (LLM) vector searches to provide highly accurate, customized security advice and referenced guidelines based on the information retrieved. and best practices information. This allows developers to focus on more efficient and secure software development instead of reading large amounts of documentation.
 
 </details>

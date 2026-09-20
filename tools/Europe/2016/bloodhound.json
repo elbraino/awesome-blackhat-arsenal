@@ -1,7 +1,7 @@
 {
   "Tool Name": "BloodHound",
   "Description": "Active Directory domain privilege escalation is a critical component of most penetration tests and red team assessments, but standard methodology dictates a manual and often tedious process - gather credentials, analyze new systems we now have admin rights on, pivot, and repeat until we reach our objective. Then - and only then - we can look back and see the path we took in its entirety. But that may not be the only, nor shortest path we could have taken. By combining the concept of derivative admin (the chaining or linking of administrative rights), existing tools, and graph theory, we have developed a capability called BloodHound, which can reveal the hidden and unintended relationships in Active Directory domains. BloodHound is operationally-focused, providing an easy-to-use web interface and PowerShell ingestor for memory-resident data collection and offline analysis. BloodHound offers several advantages to both attackers and defenders. Otherwise invisible, high-level organizational relationships are exposed. Most possible escalation paths can be efficiently and swiftly identified. Simplified data aggregation accelerates blue and red team analysis. BloodHound has the power and the potential to dramatically change the way you think about and approach Active Directory domain security. At Black Hat Europe 2016, we will unveil the newest addition to BloodHound: object ACL control relationships. We will also unveil new defensive analytics and automated analysis possible only with BloodHound.",
-  "Github URL": "",
+  "Github URL": "https://github.com/SpecterOps/BloodHound-Legacy",
   "Tracks": [],
   "Speakers": [
     "Andy Robbins"

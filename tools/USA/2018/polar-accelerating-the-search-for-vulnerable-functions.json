@@ -1,7 +1,7 @@
 {
   "Tool Name": "POLAR: Accelerating the Search for Vulnerable Functions",
   "Description": "When developing exploits for complex platforms, finding function relationships between dynamically compiled binaries and its libraries, and representing them in a Graph Database, we can quickly identify exploitation points. In this presentation, I'll discuss Graphs, Binary Relationships and Vulnerable Functions.",
-  "Github URL": "",
+  "Github URL": "https://github.com/ezrac/POLAR",
   "Tracks": [
     "Exploitation and Ethical Hacking"
   ],

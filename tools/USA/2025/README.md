@@ -291,7 +291,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>ShadowHunt: Uncovering Shadow IT and Hidden Secrets</strong> — Yakir Kadkoda, Assaf Morag</summary>
 
 **Track:** OSINT - Open Source Intelligence · **Event:** USA 2025  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/Research-Nautilus/ShadowHunt](https://github.com/Research-Nautilus/ShadowHunt)  
 📝 **Description:** ShadowHunt is a tool designed to expose one of the most dangerous blind spots in modern enterprise security: Shadow IT on GitHub. In today's decentralized, developer-driven world, employees often use personal GitHub accounts to push company code, test infrastructure, or fork internal projects—without anyone knowing. ShadowHunt identifies and maps these personal repositories back to organizational employees by analyzing public GitHub activity, commit metadata, and contributor patterns. Once linked, it scans those personal repos for leaked secrets—tokens, keys, and config files that quietly jeopardize your organization's security. Beyond Shadow IT discovery, ShadowHunt also detects secrets that evade traditional scanners by generating base64 permutations and scanning GitHub for these hidden variants. Whether you're defending your supply chain or hunting for bounty, ShadowHunt gives you visibility where it matters most—outside your perimeter.
 
 </details>
@@ -697,7 +697,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Realtic</strong> — Sohan Simha Prabhakar, Samarth Bhaskar Bhat, Danindu Gammanpilage</summary>
 
 **Track:** Cryptography · **Event:** USA 2025  
-🔗 **Link:** Not Available  
+🔗 **Link:** [https://github.com/danindu/Realtic](https://github.com/danindu/Realtic)  
 📝 **Description:** Realtic is a flexible cybersecurity tool with a graphical user interface built on top of PyQt. By combining several specialist tools into a single, integrated program, it simplifies cryptographic operations and vulnerability evaluations. The design places a high value on efficiency and simplicity, which makes it perfect for security enthusiasts and professionals who want to perform rapid scans and analysis without having to deal with multiple different command-line tools.
 
 </details>
