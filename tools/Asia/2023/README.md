@@ -195,7 +195,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Purple Knight</strong> — Jacqueline Young</summary>
 
 **Track:** Vulnerability Assessment · Network Defense · **Event:** Asia 2023  
-🔗 **Link:** [https://github.com/Purple-Knight](https://github.com/Purple-Knight)  
+🔗 **Link:** Not Available  
 📝 **Description:** Business applications on-premises and in the cloud rely on Active Directory (AD) and Azure Active Directory for authentication, making it a critical piece of IT infrastructure. But securing Active Directory is difficult given its constant flux, its sheer number of settings, and the increasingly sophisticated threat landscape. This creates potential exploitable Indicators of Exposure in AD, and if you have or had a bad actor in your AD you will want to understand the Indicators of Compromise (IOCs) which is the evidence an attacker is there. In this session, we will talk about the Purple Knight freeware tool by Semperis which helps organizations understand the security posture of their hybrid Active Directory as it pertains to IOEs and IOCs.
 
 </details>

@@ -1,7 +1,7 @@
 {
   "Tool Name": "Jack",
   "Description": "Jack is a novel web based tool to assist in the identification and illustration of abusing web resources in terms of ClickJacking. Jack allows implementers to identify if certain online resources are vulnerable to ClickJacking and also allows implementers to generate a PoC to harvest submitted user credentials to illustrate the affect of the vulnerability. Jack also allows implementers to generate a local instance of the PoC site and deploy it a HTTP container such as Apache.",
-  "Github URL": "https://github.com/jack-app",
+  "Github URL": "",
   "Tracks": [
     "Web AppSec"
   ],

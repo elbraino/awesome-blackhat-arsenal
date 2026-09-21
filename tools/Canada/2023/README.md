@@ -217,7 +217,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Mitre Attack Technique Detector</strong> — Ezzeldin Tahoun</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** Canada 2023  
-🔗 **Link:** [https://github.com/mitre-attack](https://github.com/mitre-attack)  
+🔗 **Link:** Not Available  
 📝 **Description:** Using Natural Language Processing models, enrich any alert with its relevant attack techniques. The model detects the techniques using contextual, and situational awareness as well as its linguistic cyber expertise. In real time this model can save your operations endless hours of tagging incidents with their mitre techniques.
 
 </details>

@@ -156,7 +156,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Jack</strong> — Chris Le Roy</summary>
 
 **Track:** Web AppSec · **Event:** Europe 2015  
-🔗 **Link:** [https://github.com/jack-app](https://github.com/jack-app)  
+🔗 **Link:** Not Available  
 📝 **Description:** Jack is a novel web based tool to assist in the identification and illustration of abusing web resources in terms of ClickJacking. Jack allows implementers to identify if certain online resources are vulnerable to ClickJacking and also allows implementers to generate a PoC to harvest submitted user credentials to illustrate the affect of the vulnerability. Jack also allows implementers to generate a local instance of the PoC site and deploy it a HTTP container such as Apache.
 
 </details>

@@ -466,7 +466,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>TSURUGI LINUX - the sharpest weapon in your DFIR arsenal</strong> — Giovanni Rattaro, Marco Giorgi</summary>
 
 **Track:** Data Forensics/Incident Response · OSINT - Open Source Intelligence · **Event:** Europe 2023  
-🔗 **Link:** [https://github.com/project-tsurugi](https://github.com/project-tsurugi)  
+🔗 **Link:** Not Available  
 📝 **Description:** Any DFIR analyst knows that everyday in many companies, it doesn't matter the size, it's not easy to perform forensics investigations often due to lack of internal information (like mastery all IT architecture, have the logs or the right one...) and ready to use DFIR tools. As DFIR professionals we have faced these problems many times and so we decided last year to create something that can help who will need the right tool in the "wrong time" (during a security incident). And the answer is the Tsurugi Linux project that, of course, can be used also for educational purposes. A special Tsurugi Linux BLACKHAT EDITION will be shared only with the participants.
 
 </details>
