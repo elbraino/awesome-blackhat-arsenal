@@ -104,7 +104,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>HL7deep</strong> — Michael Hudson</summary>
 
 **Track:** Web AppSec · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/hl7](https://github.com/hl7)  
+🔗 **Link:** Not Available  
 📝 **Description:** Health Level Seven International (HL7), ANSI-accredited standards developing organization dedicated to providing a comprehensive framework and related standards for the exchange, integration, sharing, and retrieval of electronic health information that supports clinical practice and the management, delivery and evaluation of health services. Target - HL7deep is a tool able to exploit different vulnerabilities in popular medical management platforms used in a host of services, obtaining remote access, assisting surgeries and electronic health records (EHR).
 
 </details>

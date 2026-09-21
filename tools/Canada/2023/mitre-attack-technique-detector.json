@@ -1,7 +1,7 @@
 {
   "Tool Name": "Mitre Attack Technique Detector",
   "Description": "Using Natural Language Processing models, enrich any alert with its relevant attack techniques. The model detects the techniques using contextual, and situational awareness as well as its linguistic cyber expertise. In real time this model can save your operations endless hours of tagging incidents with their mitre techniques.",
-  "Github URL": "https://github.com/mitre-attack",
+  "Github URL": "",
   "Tracks": [
     "Data Forensics/Incident Response"
   ],

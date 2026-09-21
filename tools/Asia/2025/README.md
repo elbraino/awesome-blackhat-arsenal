@@ -28,7 +28,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Circuit Breaker CTF</strong> — Manzel Seet, Kenneth Tong</summary>
 
 **Track:** Arsenal Lab · Smart Grid/Industrial Security · **Event:** Asia 2025  
-🔗 **Link:** [https://github.com/CircuitBreakerCTF](https://github.com/CircuitBreakerCTF)  
+🔗 **Link:** [https://github.com/CircuitBreakerCTF/power-grid-research](https://github.com/CircuitBreakerCTF/power-grid-research)  
 📝 **Description:** Circuit Breaker CTF" is a testbench for power industry security research. Our project is an end-to-end toolkit – introducing vulnerability research and security techniques for power devices, from the Energy Generation, to Transmission Lines, to Consumer & Homes.
 
 </details>

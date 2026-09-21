@@ -1171,7 +1171,7 @@
  {
   "Tool Name": "NFC Scrambler",
   "Description": "NFC Scrambler is an android app that emulates a rfid card to prevent nfc skimming. Rfid cards are used nearly everywhere, either in the forms of identification cards or credit cards. RFID Skimming statistics reveal that every two seconds a new case of identity theft is reported in the United States; however, not everyone can afford a rfid blocker card or wallet. Thus this app will help them block rfid skimming for free.",
-  "Github URL": "https://github.com/nfc-tools",
+  "Github URL": "",
   "Tracks": [
    "Network Defense"
   ],
@@ -2360,7 +2360,7 @@
  {
   "Tool Name": "Tsurugi Linux Project: The Right Tool in the Wrong Time",
   "Description": "Any DFIR analyst knows that everyday in many companies, it doesn't matter the size, it's not easy to perform forensics investigations often due to lack of internal information (like mastery all IT architecture, have the logs or the right one...) and ready to use DFIR tools. As DFIR professionals we have faced these problems many times and so we decided last year to create something that can help who will need the right tool in the \"wrong time\" (during a security incident). And the answer is the Tsurugi Linux project that, of course, can be used also for educational purposes. After more than a year since the last release, a Tsurugi Linux special BLACK HAT EDITION with this major release will be shared with the participants before the public release.",
-  "Github URL": "https://github.com/project-tsurugi",
+  "Github URL": "",
   "Tracks": [
    "Data Forensics/Incident Response"
   ],
@@ -2808,7 +2808,7 @@
  {
   "Tool Name": "Purple Knight",
   "Description": "Business applications on-premises and in the cloud rely on Active Directory (AD) and Azure Active Directory for authentication, making it a critical piece of IT infrastructure. But securing Active Directory is difficult given its constant flux, its sheer number of settings, and the increasingly sophisticated threat landscape. This creates potential exploitable Indicators of Exposure in AD, and if you have or had a bad actor in your AD you will want to understand the Indicators of Compromise (IOCs) which is the evidence an attacker is there. In this session, we will talk about the Purple Knight freeware tool by Semperis which helps organizations understand the security posture of their hybrid Active Directory as it pertains to IOEs and IOCs.",
-  "Github URL": "https://github.com/Purple-Knight",
+  "Github URL": "",
   "Tracks": [
    "Vulnerability Assessment",
    "Network Defense"
@@ -4009,7 +4009,7 @@
  {
   "Tool Name": "Circuit Breaker CTF",
   "Description": "Circuit Breaker CTF\" is a testbench for power industry security research. Our project is an end-to-end toolkit – introducing vulnerability research and security techniques for power devices, from the Energy Generation, to Transmission Lines, to Consumer & Homes.",
-  "Github URL": "https://github.com/CircuitBreakerCTF",
+  "Github URL": "https://github.com/CircuitBreakerCTF/power-grid-research",
   "Tracks": [
    "Arsenal Lab",
    "Smart Grid/Industrial Security"
@@ -5701,7 +5701,7 @@
  {
   "Tool Name": "Mitre Attack Technique Detector",
   "Description": "Using Natural Language Processing models, enrich any alert with its relevant attack techniques. The model detects the techniques using contextual, and situational awareness as well as its linguistic cyber expertise. In real time this model can save your operations endless hours of tagging incidents with their mitre techniques.",
-  "Github URL": "https://github.com/mitre-attack",
+  "Github URL": "",
   "Tracks": [
    "Data Forensics/Incident Response"
   ],
@@ -7247,7 +7247,7 @@
  {
   "Tool Name": "Jack",
   "Description": "Jack is a novel web based tool to assist in the identification and illustration of abusing web resources in terms of ClickJacking. Jack allows implementers to identify if certain online resources are vulnerable to ClickJacking and also allows implementers to generate a PoC to harvest submitted user credentials to illustrate the affect of the vulnerability. Jack also allows implementers to generate a local instance of the PoC site and deploy it a HTTP container such as Apache.",
-  "Github URL": "https://github.com/jack-app",
+  "Github URL": "",
   "Tracks": [
    "Web AppSec"
   ],
@@ -10967,7 +10967,7 @@
  {
   "Tool Name": "TSURUGI LINUX: DFIR INVESTIGATIONS, MALWARE ANALYSIS AND OSINT ACTIVITIES MADE EASY",
   "Description": "Any DFIR analyst knows that every day in many companies, it doesn't matter the size, it's not easy to perform forensics investigations often due to a lack of internal information (like mastery of all IT architecture, having the logs or the right one...) and ready to use DFIR tools. As DFIR professionals we have faced these problems many times and so we decided last year to create something that can help those who will need the right tool at the \"wrong time\" (during a security incident). And the answer is the Tsurugi Linux project that, of course, can be used also for educational purposes. After more than a year since the last release, a Tsurugi Linux special BLACKHAT EDITION with this major release will be shared with the participants before the public release.",
-  "Github URL": "https://github.com/project-tsurugi",
+  "Github URL": "",
   "Tracks": [
    "Data Forensics/Incident Response",
    "OSINT - Open Source Intelligence"
@@ -11868,7 +11868,7 @@
  {
   "Tool Name": "TSURUGI LINUX - the sharpest weapon in your DFIR arsenal",
   "Description": "Any DFIR analyst knows that everyday in many companies, it doesn't matter the size, it's not easy to perform forensics investigations often due to lack of internal information (like mastery all IT architecture, have the logs or the right one...) and ready to use DFIR tools. As DFIR professionals we have faced these problems many times and so we decided last year to create something that can help who will need the right tool in the \"wrong time\" (during a security incident). And the answer is the Tsurugi Linux project that, of course, can be used also for educational purposes. A special Tsurugi Linux BLACKHAT EDITION will be shared only with the participants.",
-  "Github URL": "https://github.com/project-tsurugi",
+  "Github URL": "",
   "Tracks": [
    "Data Forensics/Incident Response",
    "OSINT - Open Source Intelligence"
@@ -12910,7 +12910,7 @@
  {
   "Tool Name": "TSURUGI Linux - the sharpest weapon in your DFIR arsenal",
   "Description": "Any DFIR analyst knows that everyday in many companies, it doesn't matter the size, it's not easy to perform forensics investigations often due to lack of internal information (like mastery all IT architecture, have the logs or the right one...) and ready to use DFIR tools. As DFIR professionals we have faced these problems many times and so we decided last year to create something that can help who will need the right tool in the \"wrong time\" (during a security incident). And the answer is the Tsurugi Linux project that, of course, can be used also for educational purposes. A special Tsurugi Linux BLACKHAT EDITION will be shared only with the participants.",
-  "Github URL": "https://github.com/project-tsurugi",
+  "Github URL": "",
   "Tracks": [
    "Data Forensics/Incident Response",
    "OSINT - Open Source Intelligence"
@@ -15767,7 +15767,7 @@
  {
   "Tool Name": "ZitMo NoM",
   "Description": "A world without malware is ideal but unlikely. Many of us would prefer *not* to install another layer of protection on our already-resource-constrained handheld mobile device. Alternatively, Android malware detection sans anti-virus installation has become a reality. Learn about how itâs possible to detect mobile malware using simple text messages with ZitMo NoM. ZeuS in the Mobile, known as ZitMo, is infamous for intercepting SMS transmissions then redirecting them to a Command and Control in order steal banking and personal information. Research with SMS transmissions directed at mobile malware has resulted in the ability to detect ZitMoâs presence without anti-virus applications installed. Turning cyber criminals' tools against them makes this even more of a rewarding endeavor. We are looking for malware researchers to contribute to the continued development of this open tool. The presentation will include the research, the infrastructure, and a demonstration of ZitMo NoM. Live malware will be used during this presentation, assuming we get it to behave.",
-  "Github URL": "https://github.com/Zitmo",
+  "Github URL": "",
   "Tracks": [
    "Android, iOS and Mobile Hacking"
   ],
@@ -17303,7 +17303,7 @@
  {
   "Tool Name": "HL7deep",
   "Description": "Health Level Seven International (HL7), ANSI-accredited standards developing organization dedicated to providing a comprehensive framework and related standards for the exchange, integration, sharing, and retrieval of electronic health information that supports clinical practice and the management, delivery and evaluation of health services. Target - HL7deep is a tool able to exploit different vulnerabilities in popular medical management platforms used in a host of services, obtaining remote access, assisting surgeries and electronic health records (EHR).",
-  "Github URL": "https://github.com/hl7",
+  "Github URL": "",
   "Tracks": [
    "Web AppSec"
   ],
@@ -21674,7 +21674,7 @@
  {
   "Tool Name": "TSURUGI Linux Open Source Project: DFIR Investigations, Malware Analysis and OSINT Activities Made Easy",
   "Description": "Any DFIR analyst knows that everyday in many companies, it doesn't matter the size, it's not easy to perform forensics investigations often due to lack of internal information (like mastery all IT architecture, have the logs or the right one...) and ready to use DFIR tools. As DFIR professionals we have faced these problems many times and so we decided last year to create something that can help who will need the right tool in the \"wrong time\" (during a security incident). And the answer is the Tsurugi Linux project that, of course, can be used also for educational purposes. A Tsurugi Linux special BLACKHAT EDITION will be released and shared with the participants.",
-  "Github URL": "https://github.com/project-tsurugi",
+  "Github URL": "",
   "Tracks": [
    "Data Forensics/Incident Response"
   ],
@@ -21895,7 +21895,7 @@
  {
   "Tool Name": "C2 Matrix: Comparison of Command and Control Frameworks",
   "Description": "Command and Control is one of the most important tactics in the MITRE ATT&CK matrix as it allows the attacker to interact with the target system and realize their objectives. Organizations leverage Cyber Threat Intelligence to understand their threat model and adversaries that have the intent, opportunity, and capability to attack. Red Team, Blue Team, and virtual Purple Teams work together to understand the adversary Tactics, Techniques, and Procedures to perform adversary emulations and improve detective and preventive controls. The C2 Matrix was created to aggregate all the Command and Control frameworks publicly available (open-source and commercial) in a single resource to assist teams in testing their own controls through adversary emulations (Red Team or Purple Team Exercises). Phase 1 lists all the Command and Control features such as the coding language used, channels (HTTP, TCP, DNS, SMB, etc.), agents, key exchange, and other operational security features and capabilities. This allows more efficient decisions making when called upon to emulate and adversary TTPs. It is the golden age of Command and Control (C2) frameworks. Learn how these C2 frameworks work and start testing against your organization to improve detective and preventive controls. The C2 Matrix currently has 41 command and control frameworks documented in a Google Sheet, web site, and questionnaire format. For Blackhat, C2 Matrix will release phase 2 of the project which involves mapping each C2 to MITRE ATT&CK and correlate with known adversaries. This will allow much quicker selection of which C2s to use for a given adversary or threat scenarios.",
-  "Github URL": "https://github.com/c2matrix",
+  "Github URL": "",
   "Tracks": [
    "Malware Offense"
   ],
@@ -22995,7 +22995,7 @@
  {
   "Tool Name": "Mushikago: IT and OT Automation Penetration Tool Using Game AI",
   "Description": "Penetration testing is an effective means of discovering vulnerabilities and inadequate settings in the overall system, and of investigating whether there are any operational security risks. However, in manual penetration testing, there are many cases where it is unclear whether the test content is really appropriate, because the diagnosis varies depending on the tester's strong and weak, interests, physical condition, and mental state on that day. Also, excellent testers are already booked by a large amount of work, and it is not always possible to request them without fail. In addition, cyber attacks on ICS (Industrial Control System) have been increasing recently, especially in 2020, when there were many cases of ransomware infections that caused damage to ICS. Furthermore, the number of reports of ICS vulnerabilities is increasing every year. In response to this situation, penetration testing for ICS has been attracting much attention. In this work, we developed Mushikago, an automatic penetration testing tool using game AI, which focuses on the verification of post-exploit among penetration tools. A post-exploit is an attack that an attacker carries out after entering the target environment. By focusing on post-exploit verification, we can understand how far an attacker can actually penetrate and what kind of information is collected. Mushikago uses the GOAP (Goal Oriented Action Planning), which is game AI commonly used in NPC (Non Player Character). To using Mushikago, we can flexibly change the content of the attack according to the environment and mimic the attacks conducted by actual APT attackers and testers. It is also possible to identify terminal information, account information, and network information without manual intervention, and visualize and report them based on MITRE ATT&CK. In addition, Mushikago supports ICS, and can be used for penetration testing across IT and OT (Operation Technology).",
-  "Github URL": "https://github.com/mushikago",
+  "Github URL": "",
   "Tracks": [
    "Exploitation and Ethical Hacking"
   ],
@@ -23373,7 +23373,7 @@
  {
   "Tool Name": "Tsurugi Linux Project the Right DFIR Tool in the Wrong Time",
   "Description": "Any DFIR analyst knows that everyday in many companies, it doesn't matter the size, it's not easy to perform forensics investigations often due to lack of internal information (like mastery all IT architecture, have the logs or the right one...) and ready to use DFIR tools. As DFIR professionals we have faced these problems many times and so we decided last year to create something that can help who will need the right tool in the \"wrong time\" (during a security incident). And the answer is the Tsurugi Linux project that, of course, can be used also for educational purposes. After more than a year since the last release, a Tsurugi Linux special BLACK HAT EDITION with this major release will be shared with the participants before the public release.",
-  "Github URL": "https://github.com/project-tsurugi",
+  "Github URL": "",
   "Tracks": [
    "Data Forensics/Incident Response"
   ],
@@ -23568,7 +23568,7 @@
  {
   "Tool Name": "Badrats: Initial Access Made Easy",
   "Description": "Remote Access Trojans (RATs) are one of the defining tradecraft for identifying an Advanced Persistent Threat. The reason being is that APTs typically leverage custom toolkits for gaining initial access, so they do not risk burning full-featured implants. Badrats takes characteristics from APT Tactics, Techniques, and Procedures (TTPs) and implements them into a custom Command and Control (C2) tool with a focus on initial access and implant flexibility. The key goal is to emulate that modern threat actors avoid loading fully-featured implants unless required, instead opting to use a smaller staged implant. Badrats implants are written in various languages, each with a similar yet limited feature set. The implants are designed to be small for antivirus evasion and provides multiple methods of loading additional tools, such as shellcode, .NET assemblies, PowerShell, and shell commands on a compromised host. One of the most advanced TTPs that Badrats supports is peer-to-peer communications over SMB to allow implants to communicate through other compromised hosts.",
-  "Github URL": "https://github.com/badrat",
+  "Github URL": "",
   "Tracks": [
    "Network Attacks",
    "Exploitation and Ethical Hacking"
@@ -24599,7 +24599,7 @@
  {
   "Tool Name": "Unleash Purple Knight: Fend Off Invaders Lurking in Your Active Directory",
   "Description": "Purple Knight is a free Active Directory (AD) and Azure AD security assessment tool developed by Semperis identity security experts that has been downloaded by 5,000+ users since its first release in spring 2021. Purple Knight runs as a standalone utility that queries the AD environment and performs a set of tests against many aspects of AD's security posture, including AD Delegation, account security, AD Infrastructure security, Group Policy security, and Kerberos security. The tool scans for indicators of exposure (IOEs) and indicators of compromise (IOCs). Each security indicator is mapped to security frameworks such as MITRE ATT&CK and the French National Agency for the Security of Information Systems (ANSII). Purple Knight produces a report that includes an overall score, scores in individual categories, and prioritized guidance from identity security experts that serves as a roadmap for improving overall security posture. The report includes an explanation of what aspects of the indicator were evaluated and the likelihood that the exposure will compromise AD. Purple Knight is continuously updated to address new security indicators based on original research and in response to emerging threats. As an example, the Purple Knight team released indicators for the Windows Print Spooler service and PetitPotam flaws within days after their discovery. New updates to be demonstrated at Arsenal include: • Newest in the 100+ indicators of exposure (IOEs) and indicators of compromise (IOCs) • New Azure Active Directory security indicators • Post-breach forensics capabilities that enable incident response teams to specify an attack window to accelerate remediation Purple Knight continuously evolves through feedback from an engaged community of users on the Purple Knight Slack channel and through individual outreach to users who communicate directly with the product teams.",
-  "Github URL": "https://github.com/Purple-Knight",
+  "Github URL": "",
   "Tracks": [
    "Vulnerability Assessment",
    "Data Forensics/Incident Response"

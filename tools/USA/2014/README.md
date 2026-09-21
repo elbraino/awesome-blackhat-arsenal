@@ -178,7 +178,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>ZitMo NoM</strong> — David Schwartzberg</summary>
 
 **Track:** Android, iOS and Mobile Hacking · **Event:** USA 2014  
-🔗 **Link:** [https://github.com/Zitmo](https://github.com/Zitmo)  
+🔗 **Link:** Not Available  
 📝 **Description:** A world without malware is ideal but unlikely. Many of us would prefer *not* to install another layer of protection on our already-resource-constrained handheld mobile device. Alternatively, Android malware detection sans anti-virus installation has become a reality. Learn about how itâs possible to detect mobile malware using simple text messages with ZitMo NoM. ZeuS in the Mobile, known as ZitMo, is infamous for intercepting SMS transmissions then redirecting them to a Command and Control in order steal banking and personal information. Research with SMS transmissions directed at mobile malware has resulted in the ability to detect ZitMoâs presence without anti-virus applications installed. Turning cyber criminals' tools against them makes this even more of a rewarding endeavor. We are looking for malware researchers to contribute to the continued development of this open tool. The presentation will include the research, the infrastructure, and a demonstration of ZitMo NoM. Live malware will be used during this presentation, assuming we get it to behave.
 
 </details>
