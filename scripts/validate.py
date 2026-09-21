@@ -20,6 +20,24 @@ from normalize import canonical_dump, slug  # noqa: E402
 
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TOOLS_DIR = os.path.join(REPO_ROOT, "tools")
+EXCEPTIONS_PATH = os.path.join(REPO_ROOT, "docs", "url-exceptions.json")
+
+
+def load_url_exceptions():
+    """Reviewed 'Github URL' values that are deliberately not a GitHub repo URL.
+
+    Format: {"<tools/... path>": {"url": "<exact url>", "reason": "<why>"}}.
+    The recorded url must match the file's current url exactly, so editing a
+    URL lapses its exception and the warning comes back.
+    """
+    if not os.path.exists(EXCEPTIONS_PATH):
+        return {}
+    with open(EXCEPTIONS_PATH, encoding="utf-8") as f:
+        return json.load(f)
+
+
+URL_EXCEPTIONS = load_url_exceptions()
+
 
 # Keep in sync with CATEGORY_MAP in AutoReadme.py (checked at runtime below).
 CANONICAL_TRACKS = {
@@ -119,6 +137,7 @@ def validate_tool(path, data, report, raw=None):
             report.warn(rel, f"'Description' is long ({n} chars); consider trimming to the first paragraph")
 
     url = data.get("Github URL")
+    excused = URL_EXCEPTIONS.get(rel, {}).get("url") == (url.strip() if isinstance(url, str) else None)
     if not isinstance(url, str):
         report.error(rel, "'Github URL' must be a string (use \"\" when unknown)")
     else:
@@ -134,12 +153,13 @@ def validate_tool(path, data, report, raw=None):
                 if url_s.endswith("/"):
                     report.error(rel, "'Github URL' has a trailing slash")
                 elif GITHUB_OWNER_RE.match(url_s):
-                    report.warn(rel, "'Github URL' points to a user/org page, not a repo")
+                    if not excused:
+                        report.warn(rel, "'Github URL' points to a user/org page, not a repo")
                 elif not GITHUB_REPO_RE.match(url_s):
                     report.error(rel, f"'Github URL' is not a valid GitHub repo URL: {url_s!r}")
                 elif re.match(r"^https://github\.com/[^/]+/[^/]+/(blob|tree|raw)/", url_s):
                     report.warn(rel, "'Github URL' points inside a repo (blob/tree); prefer the repo root")
-            else:
+            elif not excused:
                 report.warn(rel, f"'Github URL' is not on github.com: {url_s}")
 
     tracks = data.get("Tracks")
@@ -229,6 +249,20 @@ def run(targets):
         name = validate_tool(path, data, report, raw=raw)
         if name:
             names_by_dir[os.path.dirname(path)].append((name, rel))
+
+    if os.path.abspath(targets[0]) == TOOLS_DIR and len(targets) == 1:
+        for rel, entry in sorted(URL_EXCEPTIONS.items()):
+            abs_path = os.path.join(REPO_ROOT, rel)
+            if not os.path.exists(abs_path):
+                report.warn("docs/url-exceptions.json", f"stale entry: {rel} no longer exists")
+                continue
+            with open(abs_path, encoding="utf-8") as f:
+                cur = json.load(f).get("Github URL")
+            if cur != entry.get("url"):
+                report.warn(
+                    "docs/url-exceptions.json",
+                    f"stale entry: {rel} url is now {cur!r}, exception records {entry.get('url')!r}",
+                )
 
     for d, entries in names_by_dir.items():
         seen = {}

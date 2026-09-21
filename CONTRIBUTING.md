@@ -56,6 +56,23 @@ Keys in exactly this order, 2-space indent, UTF-8, trailing newline — `python3
 * `Tracks`: List of track names from the list below (e.g., `"Reverse Engineering"`). Use `[]` if none fits.
 * `Speakers`: Name(s) of the presenters (can be multiple).
 * `Github URL`: `https://` link to the tool's repository or official page; `""` if there is none.
+
+  The validator warns when this is a GitHub user/org page rather than a repo, or
+  is not on github.com at all, because that usually means the real repo was never
+  found. When the link is genuinely correct anyway — a talk covering a whole
+  toolset, or a closed-source product with only a homepage — record it in
+  `docs/url-exceptions.json` with a reason and the warning is suppressed:
+
+  ```json
+  "tools/USA/2018/some-tool.json": {
+    "url": "https://github.com/some-org",
+    "reason": "collection talk covering several tools; no single repo"
+  }
+  ```
+
+  The recorded `url` must match the file's current value exactly, so changing a
+  URL lapses its exception and the warning returns. The validator also reports
+  entries that have gone stale.
 * `Year`, `Location`: must match the folder the file is in (`Location` is one of `USA`, `Europe`, `Asia`, `Canada`, `MEA`).
 
 ### File name

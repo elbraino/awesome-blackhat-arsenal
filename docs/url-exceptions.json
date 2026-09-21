@@ -1,0 +1,234 @@
+{
+ "tools/Asia/2015/secpod-saner.json": {
+  "url": "https://www.secpod.com/",
+  "reason": "commercial product page; closed source"
+ },
+ "tools/Asia/2016/seebug.json": {
+  "url": "https://www.seebug.org/",
+  "reason": "hosted vulnerability database"
+ },
+ "tools/Asia/2016/sensepost-toolset.json": {
+  "url": "https://github.com/sensepost",
+  "reason": "collection talk covering the whole SensePost toolset; no single repo"
+ },
+ "tools/Asia/2016/virustotal.json": {
+  "url": "https://github.com/virustotal",
+  "reason": "hosted service at virustotal.com; the org holds client libraries, not the service"
+ },
+ "tools/Asia/2016/zoomeye-cyberspace-search-engine.json": {
+  "url": "https://www.zoomeye.org/",
+  "reason": "hosted cyberspace search engine"
+ },
+ "tools/Asia/2018/wipi-hunter-detects-illegal-wireless-network-activities.json": {
+  "url": "https://github.com/WiPi-Hunter",
+  "reason": "collection of the PiFinger/PiUser/PiOpen detection scripts; no single repo"
+ },
+ "tools/Asia/2019/mlsploit-a-cloud-based-framework-for-adversarial-machine-learning-research.json": {
+  "url": "https://github.com/mlsploit",
+  "reason": "MLsploit is split across rest-api, execution-backend and module repos; no single repo"
+ },
+ "tools/Asia/2024/ai-wargame-arsenal-lab.json": {
+  "url": "https://play.secdim.com/",
+  "reason": "hosted SecDim wargame platform; no public repo"
+ },
+ "tools/Asia/2025/ai-wargame.json": {
+  "url": "https://play.secdim.com/",
+  "reason": "hosted SecDim wargame platform; no public repo"
+ },
+ "tools/Asia/2025/firetail.json": {
+  "url": "https://github.com/FireTail-io",
+  "reason": "commercial API security product; closed source"
+ },
+ "tools/Asia/2026/ai-wargame.json": {
+  "url": "https://play.secdim.com/",
+  "reason": "hosted SecDim wargame platform; no public repo"
+ },
+ "tools/Asia/2026/nvwa-a-novel-method-for-automated-vulnerability-discovery-in-embedded-firmware.json": {
+  "url": "https://doi.org/10.5281/zenodo.15605329",
+  "reason": "archived research artifact with a DOI (Zenodo)"
+ },
+ "tools/Canada/2023/attack-defence-appsec-wargame.json": {
+  "url": "https://play.secdim.com/",
+  "reason": "hosted SecDim wargame platform; no public repo"
+ },
+ "tools/Canada/2023/cve-a-new-platform-for-unacknowledged-cybersecurity-vulnerabilities.json": {
+  "url": "https://www.notcve.org/",
+  "reason": "hosted vulnerability platform; no public repo"
+ },
+ "tools/Canada/2023/mad-goat-project.json": {
+  "url": "https://github.com/MAD-Goat-Project",
+  "reason": "MAD Goat is split across mad-goat-docs, -images and service repos; no single repo"
+ },
+ "tools/Canada/2024/ai-wargame.json": {
+  "url": "https://play.secdim.com/",
+  "reason": "hosted SecDim wargame platform; no public repo"
+ },
+ "tools/Europe/2014/naft-online.json": {
+  "url": "https://blog.didierstevens.com/programs/naft/",
+  "reason": "tool published on the author's site; no public repo"
+ },
+ "tools/Europe/2015/virustotal-com.json": {
+  "url": "https://github.com/virustotal",
+  "reason": "hosted service at virustotal.com; the org holds client libraries, not the service"
+ },
+ "tools/Europe/2018/attackforge-com-giving-time-back-to-pentesters-more-breaking-less-reporting.json": {
+  "url": "https://github.com/attackforge",
+  "reason": "commercial pentest management platform; the org holds only helper repos, the product is closed source"
+ },
+ "tools/Europe/2019/attackforge-com-a-pentest-management-collaboration-platform-for-everyone.json": {
+  "url": "https://github.com/attackforge",
+  "reason": "commercial pentest management platform; the org holds only helper repos, the product is closed source"
+ },
+ "tools/Europe/2020/attackforge-pentest-management-collaboration-platform.json": {
+  "url": "https://github.com/AttackForge",
+  "reason": "commercial pentest management platform; the org holds only helper repos, the product is closed source"
+ },
+ "tools/Europe/2020/new-tsurugi-linux-acquire-digital-forensic-acquisitions.json": {
+  "url": "https://tsurugi-linux.org/",
+  "reason": "official Tsurugi Linux site; the distro ships ISO images, not a code repo"
+ },
+ "tools/Europe/2021/attackforge-pentest-management-platform.json": {
+  "url": "https://github.com/attackforge",
+  "reason": "commercial pentest management platform; the org holds only helper repos, the product is closed source"
+ },
+ "tools/Europe/2021/pentest-collaboration-framework.json": {
+  "url": "https://gitlab.com/invuls/pentest-projects/pcf",
+  "reason": "hosted on GitLab, not GitHub"
+ },
+ "tools/Europe/2023/cve-a-new-platform-for-unacknowledged-cybersecurity-vulnerabilities.json": {
+  "url": "https://www.notcve.org/",
+  "reason": "hosted vulnerability platform; no public repo"
+ },
+ "tools/Europe/2024/ai-wargame.json": {
+  "url": "https://play.secdim.com/",
+  "reason": "hosted SecDim wargame platform; no public repo"
+ },
+ "tools/Europe/2025/ai-wargame.json": {
+  "url": "https://play.secdim.com/",
+  "reason": "hosted SecDim wargame platform; no public repo"
+ },
+ "tools/Europe/2025/cqure-automatic-destinations-toolkit-forensics-appid-analysis-jump-list-reverse.json": {
+  "url": "https://github.com/CQURE",
+  "reason": "commercial CQURE toolkit; the Automatic Destinations toolkit is not published as its own repo"
+ },
+ "tools/MEA/2024/ai-wargame-lab.json": {
+  "url": "https://play.secdim.com/",
+  "reason": "hosted SecDim wargame platform; no public repo"
+ },
+ "tools/USA/2013/mandiant-redline.json": {
+  "url": "https://github.com/mandiant",
+  "reason": "Redline is a closed-source Mandiant/FireEye product with no public repo"
+ },
+ "tools/USA/2014/imas-ios-mobile-application-security-libraries.json": {
+  "url": "https://github.com/project-imas",
+  "reason": "iMAS is a set of iOS security libraries split across many repos; no single repo"
+ },
+ "tools/USA/2014/immunant-compiler.json": {
+  "url": "https://github.com/immunant",
+  "reason": "speaker Per Larsen co-founded Immunant (org created two months before the talk); the 2014 multicompiler was never published as a repo"
+ },
+ "tools/USA/2015/objective-sees-os-x-security-tools.json": {
+  "url": "https://github.com/objective-see",
+  "reason": "collection talk covering several Objective-See tools (LuLu, BlockBlock, KnockKnock); no single repo"
+ },
+ "tools/USA/2015/pestudio.json": {
+  "url": "https://www.winitor.com/",
+  "reason": "pestudio vendor page; closed source"
+ },
+ "tools/USA/2015/wireedit.json": {
+  "url": "https://wireedit.com/",
+  "reason": "commercial product page; closed source"
+ },
+ "tools/USA/2015/yard-stick-one.json": {
+  "url": "https://greatscottgadgets.com/yardstickone/",
+  "reason": "vendor product page; firmware lives under the vendor's own site"
+ },
+ "tools/USA/2016/arsenal-theater-demo-siemonster.json": {
+  "url": "https://github.com/siemonster",
+  "reason": "commercial SIEM product; closed source"
+ },
+ "tools/USA/2016/arsenal-theater-demo-subgraph-os.json": {
+  "url": "https://github.com/subgraph",
+  "reason": "Subgraph OS is a Linux distribution assembled from many repos; no single repo"
+ },
+ "tools/USA/2016/koodous.json": {
+  "url": "https://github.com/koodous",
+  "reason": "hosted Android analysis service at koodous.com; the org holds only forks"
+ },
+ "tools/USA/2016/log-md.json": {
+  "url": "https://log-md.com/",
+  "reason": "commercial product page; closed source"
+ },
+ "tools/USA/2016/netdb-the-network-database-project.json": {
+  "url": "https://netdb.io/",
+  "reason": "hosted service; no public repo"
+ },
+ "tools/USA/2016/objective-see-s-os-x-security-tools.json": {
+  "url": "https://github.com/objective-see",
+  "reason": "collection talk covering several Objective-See tools (LuLu, BlockBlock, KnockKnock); no single repo"
+ },
+ "tools/USA/2016/shevirah.json": {
+  "url": "https://github.com/shevirah",
+  "reason": "commercial mobile pentest product; the org holds only forks"
+ },
+ "tools/USA/2016/siemonster.json": {
+  "url": "https://github.com/siemonster",
+  "reason": "commercial SIEM product; closed source"
+ },
+ "tools/USA/2016/subgraph-os.json": {
+  "url": "https://github.com/subgraph",
+  "reason": "Subgraph OS is a Linux distribution assembled from many repos; no single repo"
+ },
+ "tools/USA/2017/objective-see-s-macos-security-tools-arsenal-theater-demo.json": {
+  "url": "https://github.com/objective-see",
+  "reason": "collection talk covering several Objective-See tools (LuLu, BlockBlock, KnockKnock); no single repo"
+ },
+ "tools/USA/2018/firedrill-adversarial-simulation-platform-arsenal-theater-demo.json": {
+  "url": "https://www.attackiq.com/",
+  "reason": "commercial adversary-simulation platform; closed source"
+ },
+ "tools/USA/2018/objective-see-s-macos-security-tools.json": {
+  "url": "https://github.com/objective-see",
+  "reason": "collection talk covering several Objective-See tools (LuLu, BlockBlock, KnockKnock); no single repo"
+ },
+ "tools/USA/2018/wpa-sec-the-largest-online-wpa-handshake-database.json": {
+  "url": "https://wpa-sec.stanev.org/",
+  "reason": "hosted distributed WPA cracking service"
+ },
+ "tools/USA/2019/attackforge-pentest-collaboration-platform-for-everyone.json": {
+  "url": "https://github.com/attackforge",
+  "reason": "commercial pentest management platform; the org holds only helper repos, the product is closed source"
+ },
+ "tools/USA/2020/s-tip-seamless-threat-intelligence-platform.json": {
+  "url": "https://github.com/s-tip",
+  "reason": "S-TIP is split across stip-common, stip-sns, stip-txs and others; no single repo"
+ },
+ "tools/USA/2022/firetail-inline-api-security-checking.json": {
+  "url": "https://github.com/firetail-io",
+  "reason": "commercial API security product; closed source"
+ },
+ "tools/USA/2022/objective-see-s-mac-security-tools.json": {
+  "url": "https://github.com/objective-see",
+  "reason": "collection talk covering several Objective-See tools (LuLu, BlockBlock, KnockKnock); no single repo"
+ },
+ "tools/USA/2024/ai-wargame.json": {
+  "url": "https://play.secdim.com/",
+  "reason": "hosted SecDim wargame platform; no public repo"
+ },
+ "tools/USA/2025/ai-wargame.json": {
+  "url": "https://play.secdim.com/",
+  "reason": "hosted SecDim wargame platform; no public repo"
+ },
+ "tools/USA/2025/next-generation-post-exploitation-in-cobalt-strike.json": {
+  "url": "https://github.com/Cobalt-Strike",
+  "reason": "commercial post-exploitation product; the org holds community extensions, the product is closed source"
+ },
+ "tools/USA/2026/ai-attack-defence-wargame-the-insurance-company-edition.json": {
+  "url": "https://play.secdim.com/",
+  "reason": "hosted SecDim wargame platform; no public repo"
+ },
+ "tools/USA/2026/tsurugi-linux-the-sharpest-weapon-in-your-dfir-arsenal.json": {
+  "url": "https://tsurugi-linux.org/",
+  "reason": "official Tsurugi Linux site; the distro ships ISO images, not a code repo"
+ }
+}
