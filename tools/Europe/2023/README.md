@@ -344,7 +344,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>OpenSecDevOps (OSDO)</strong> — Rafael Otal Simal, Antonio Jose Juanilla Hernandez</summary>
 
 **Track:** Vulnerability Assessment · Code Assessment · **Event:** Europe 2023  
-🔗 **Link:** [https://github.com/opensecdevops](https://github.com/opensecdevops)  
+🔗 **Link:** [https://github.com/opensecdevops/osdo](https://github.com/opensecdevops/osdo)  
 📝 **Description:** Join us to easily build a fortified software development lifecycle (SDLC) using open source tools. Find out how these powerful resources can improve the security of your software applications and improve your development process. We'll explore popular open source tools like Gitlab, Harbor, defectdojo... Seamlessly integrating them into your workflow to enforce strong security policies, detect vulnerabilities, and ensure compliance with industry best practices. Through hands-on exercises and real-world examples, you'll learn how to mitigate security risks, harden your code, and adopt security best practices, resulting in secure, scalable, and resilient software applications. Don't miss this transformative opportunity to unlock the potential of open source tools in your SDLC and strengthen your organization's overall security posture. All the information will be published on opensecdevops.com for the community to use and improve on the day of the presentation, in addition to integrating the different tools, an app will be shown to facilitate said integration according to your needs.
 
 </details>
@@ -442,7 +442,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Packing-Box: Breaking Detectors & Visualizing Packing</strong> — Alexandre D'Hondt, Charles-Henry Bertrand Van Ouytsel, Axel Legay, Romain Jennes, Sébastien Martinez Balbuena</summary>
 
 **Track:** Malware Defense · Reverse Engineering · **Event:** Europe 2023  
-🔗 **Link:** [https://github.com/packing-box](https://github.com/packing-box)  
+🔗 **Link:** [https://github.com/packing-box/docker-packing-box](https://github.com/packing-box/docker-packing-box)  
 📝 **Description:** This Docker image is an experimental toolkit gathering analyzers, detectors, packers, tools and machine learning mechanics for making datasets of packed executables and training machine learning models for the static detection of packing. It aims to support PE, ELF and Mach-O executables and to study the best static features that can be used in learning-based static detectors. Furthermore, it currently additional functionalities to focus on supervised and unsupervised learning but also on adversarial learning for breaking static detectors and detection models. https://raw.githubusercontent.com/packing-box/docker-packing-box/main/docs/material/bheu23-packingbox.pdf
 
 </details>

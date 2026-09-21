@@ -399,7 +399,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Bro: Do You Bro? Beginner to Expert</strong> — Seth Hall</summary>
 
 **Track:** Data Forensics/Incident Response · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/bro](https://github.com/bro)  
+🔗 **Link:** [https://github.com/zeek/zeek](https://github.com/zeek/zeek)  
 📝 **Description:** The Bro Network Security Monitor is an open-source framework that gives total visibility over network traffic in real-time. Since most cyber attacks cross the network (and hosts themselves can be compromised), threat hunters and incident responders typically rely on network data as a vital source of truth, to reconstruct what really happened (or is happening now) in their environment. Bro is perhaps the best and most widely used tool for network traffic analysis. Join us to learn more about Bro with Seth Hall, longtime Bro developer, and see a demo where he will provide a comprehensive overview of Bro, from introduction to advanced custom scripting.
 
 </details>
@@ -527,7 +527,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>MaliceIO</strong> — Josh Maine</summary>
 
 **Track:** Malware Defense · **Event:** USA 2018  
-🔗 **Link:** [https://github.com/maliceio](https://github.com/maliceio)  
+🔗 **Link:** [https://github.com/maliceio/malice](https://github.com/maliceio/malice)  
 📝 **Description:** Malice's mission is to be a free open source version of VirusTotal that anyone can use at any scale from an independent researcher to a fortune 500 company. Source Code: https://github.com/maliceio/malice
 
 </details>

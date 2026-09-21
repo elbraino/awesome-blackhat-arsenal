@@ -199,7 +199,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>AttackForge ReportGen v2: Powerful Pentest Reporting Tool</strong> — Fil Filiposki, Stas Filshtinskiy</summary>
 
 **Track:** Exploitation and Ethical Hacking · Web AppSec · **Event:** USA 2022  
-🔗 **Link:** [https://github.com/attackforge](https://github.com/attackforge)  
+🔗 **Link:** [https://github.com/AttackForge/ReportGen](https://github.com/AttackForge/ReportGen)  
 📝 **Description:** AttackForge ReportGen is a freely available and downloadable pentest reporting tool with powerful features such as: - Rich template library in DOCX format to cover different types of pentest reports - Support for over 200 tags - covering projects, vulnerabilities, assets, attack chains, test cases, retesting, and more - Support for DOCX reports - Support for tables, images, styled text, custom fields - Easy to apply styles & changes directly in Word – no need or hassle to write code - Logic engine for complex reporting requirements and templates
 
 </details>
@@ -629,7 +629,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>FACT 4.0</strong> — Johannes vom Dorp</summary>
 
 **Track:** Hardware/Embedded · Internet Of Things · **Event:** USA 2022  
-🔗 **Link:** [https://github.com/fact-project](https://github.com/fact-project)  
+🔗 **Link:** [https://github.com/fkie-cad/FACT_core](https://github.com/fkie-cad/FACT_core)  
 📝 **Description:** Analyzing Firmware specifically to identify potential vulnerabilities is a common activity for security analysts, pentesters, researchers or engineers concerned with embedded devices such as in IoT. FACT offers an automated and usable platform to gain an immediate overview of potential vulnerabilities based on the firmware of a device and supercharges the process of finding deep vulnerabilities. For this FACT automatically breaks down a firmware into its components, analyzes all components and summarizes the results. The analysis can then be perused in the desired amount of detail using either the responsive web application or a REST API. The offered analyses include a list of included software and libraries, a matching of said software to CVE databases, identification of hard-coded credentials, private key material and weak configuration among others. FACT also applies source and binary code analysis to identify (possibly exploitable) bugs in the components and offers a large amount of meta data for further manual analysis. A focus of recent development has been to offer more information regarding interdependencies between firmware components to ease the identification of data flow inside a firmware. This allows quickly grading the risk involved with uncovered vulnerabilities or configuration flaws by finding possible attack vectors concerning given component. Finally, FACT offers multiple ways to collect and fuse analysis results, such as firmware comparison, advanced search options including regular expression on binary components and an integrated statistics module.
 
 </details>

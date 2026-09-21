@@ -26,7 +26,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>OWASP ZAP</strong> — Simon Bennetts</summary>
 
 **Track:** Web AppSec · **Event:** Europe 2017  
-🔗 **Link:** [https://github.com/owasp-zap](https://github.com/owasp-zap)  
+🔗 **Link:** [https://github.com/zaproxy/zaproxy](https://github.com/zaproxy/zaproxy)  
 📝 **Description:** The Zed Attack Proxy (ZAP) is currently the most active open source web application security tool and was voted the top security tool in the last Toolswatch annual survey. While it is an ideal tool for people new to appsec it also has many features specifically intended for advanced penetration testing. Simon will give a quick introduction to ZAP and then dive into the more advanced features as well as giving an overview of where its heading.
 
 </details>

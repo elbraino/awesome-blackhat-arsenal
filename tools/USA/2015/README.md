@@ -323,7 +323,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Dradis Framework 3.0</strong> — Daniel Martin</summary>
 
 **Track:** Vulnerability Assessment · **Event:** USA 2015  
-🔗 **Link:** [https://github.com/dradis](https://github.com/dradis)  
+🔗 **Link:** [https://github.com/dradis/dradis-ce](https://github.com/dradis/dradis-ce)  
 📝 **Description:** Dradis is an extensible, cross-platform, open source collaboration framework for InfoSec teams. It can import from over 15 popular tools, including Nessus, Qualys, and Burp. Started in 2007, the Dradis Framework project has been growing ever since. Dradis is the best tool to consolidate the output of different scanners, add your manual findings and evidence and have all the engagement information in one place. Come to see Dradis 3.0 in action. Three years after our last official release, we've got a new version of the app that is ready for you to use and enjoy packed with new features (download-and-run packages, node properties, HTTP API, PDF reports), and new tool connectors (Acunetix, NTO spider). Come and check it out before we run out of stickers!
 
 </details>
