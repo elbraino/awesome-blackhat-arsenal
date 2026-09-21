@@ -30337,7 +30337,7 @@
  {
   "Tool Name": "Pentesting made easy - Keeping sessions alive with session-chains",
   "Description": "session-chains automatically establishes and refreshes authenticated sessions for any number of accounts, addressing the short-lived sessions, multistep logins, and dynamic MFA tokens that break authenticated automation during web application tests. Testers define reusable chains modelling the application's authentication flow; the tool then maintains valid sessions in the background and exposes them to downstream tooling. It integrates with Burp Suite and its extensions as well as CLI tools such as sqlmap and nuclei.",
-  "Github URL": "",
+  "Github URL": "https://github.com/usdAG/session-chains",
   "Tracks": [
    "Web AppSec"
   ],
