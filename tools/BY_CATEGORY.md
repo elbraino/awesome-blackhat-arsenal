@@ -1086,7 +1086,7 @@ Every tool from every Black Hat Arsenal event (2098 presentations), grouped by t
 - **OWASP ZAP** — [Europe 2017](Europe/2017/README.md) · [repo](https://github.com/owasp-zap)
 - **OWASP Zed Attack Proxy (ZAP)** — [USA 2014](USA/2014/README.md) · [repo](https://github.com/zaproxy/zaproxy)
 - **PatchLeaks** — [Canada 2025](Canada/2025/README.md) · [repo](https://github.com/hatlesswizard/PatchLeaks)
-- **Pentesting made easy - Keeping sessions alive with session-chains** — [USA 2026](USA/2026/README.md)
+- **Pentesting made easy - Keeping sessions alive with session-chains** — [USA 2026](USA/2026/README.md) · [repo](https://github.com/usdAG/session-chains)
 - **PentestMuse: The Iron Man Suit of Offensive Security Automation** — [Asia 2024](Asia/2024/README.md) · [repo](https://github.com/abstractengine/pentest-muse-cli)
 - **PIIscout - a fast and customizable PII scanner** — [MEA 2024](MEA/2024/README.md) · [repo](https://github.com/0x4f53/PIIscout)
 - **PixelCAPTCHA - A Unicode Based CAPTCHA Scheme** — [USA 2015](USA/2015/README.md) · [repo](https://github.com/salesforce/pixel-captcha-project)

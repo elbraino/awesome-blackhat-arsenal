@@ -1325,7 +1325,7 @@
 - **Pentest Collaboration Framework** — [Europe 2021](Europe/2021/README.md) · [repo](https://gitlab.com/invuls/pentest-projects/pcf)
 - **Pentest Copilot V2: The Agentic Pentesting Workspace** — [USA 2026](USA/2026/README.md) · [repo](https://github.com/bugbasesecurity/pentest-copilot)
 - **Pentest Copilot: Cursor for Pentesters** — [USA 2025](USA/2025/README.md) · [repo](https://github.com/bugbasesecurity/pentest-copilot)
-- **Pentesting made easy - Keeping sessions alive with session-chains** — [USA 2026](USA/2026/README.md)
+- **Pentesting made easy - Keeping sessions alive with session-chains** — [USA 2026](USA/2026/README.md) · [repo](https://github.com/usdAG/session-chains)
 - **PentestMuse: The Iron Man Suit of Offensive Security Automation** — [Asia 2024](Asia/2024/README.md) · [repo](https://github.com/abstractengine/pentest-muse-cli)
 - **Pentoo** — [Asia 2015](Asia/2015/README.md) · [repo](https://github.com/pentoo/pentoo-overlay)
 - **Performing Live Forensics Without Killing Your Evidence** — [USA 2018](USA/2018/README.md)
