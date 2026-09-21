@@ -1988,7 +1988,7 @@
 - **Zig Tools** — [USA 2014](USA/2014/README.md) · [repo](https://github.com/iSECPartners/ZigTools)
 - **ZigDiggity: ZigBee Pentest Toolkit** — [USA 2018](USA/2018/README.md) · [repo](https://github.com/BishopFox/zigdiggity)
 - **ZitMo NoM** — [USA 2014](USA/2014/README.md)
-- **ZoomEye - CyberSpace Search Engine** — [Asia 2016](Asia/2016/README.md) · [repo](https://www.zoomeye.org/)
+- **ZoomEye - CyberSpace Search Engine** — [Asia 2016](Asia/2016/README.md) · [repo](https://www.zoomeye.ai/)
 - **Zorya: Go Binary Vulnerability Detection with Concolic Execution** — [Asia 2026](Asia/2026/README.md) · [repo](https://github.com/Ledger-Donjon/zorya)
 - **Zuthaka: A Collaborative Free Open-Source Command & Controls (C2s) Integration Framework** — [USA 2022](USA/2022/README.md) · [repo](https://github.com/pucarasec/zuthaka)
 - **Zuthaka: Collaborative C2 Development Framework** — [USA 2021](USA/2021/README.md) · [repo](https://github.com/pucarasec/zuthaka)

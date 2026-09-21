@@ -16,8 +16,8 @@
   "reason": "hosted service at virustotal.com; the org holds client libraries, not the service"
  },
  "tools/Asia/2016/zoomeye-cyberspace-search-engine.json": {
-  "url": "https://www.zoomeye.org/",
-  "reason": "hosted cyberspace search engine"
+  "url": "https://www.zoomeye.ai/",
+  "reason": "hosted cyberspace search engine; the original zoomeye.org domain is dead"
  },
  "tools/Asia/2018/wipi-hunter-detects-illegal-wireless-network-activities.json": {
   "url": "https://github.com/WiPi-Hunter",

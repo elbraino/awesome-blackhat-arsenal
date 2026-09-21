@@ -1,0 +1,6 @@
+# URLs that are correct but fail only from GitHub Actions runners.
+# Entries are regular expressions matched against the URL.
+# See docs/url-exceptions.json for why each is a non-repo URL in the first place.
+
+# Untrusted TLS cert chain from Actions runner IPs; resolves normally elsewhere.
+seebug\.org

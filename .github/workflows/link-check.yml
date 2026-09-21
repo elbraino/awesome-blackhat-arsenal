@@ -24,6 +24,7 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
+          # Hosts that fail only from Actions runners are listed in .lycheeignore.
           args: --no-progress --max-concurrency 4 --max-retries 2 --retry-wait-time 10 --timeout 30 urls.txt
           output: lychee-report.md
           fail: false
@@ -33,6 +34,6 @@ jobs:
         if: steps.lychee.outputs.exit_code != 0
         uses: peter-evans/create-issue-from-file@v5
         with:
-          title: "Broken tool links (${{ github.run_started_at }})"
+          title: "Broken tool links (run ${{ github.run_number }})"
           content-filepath: ./lychee-report.md
           labels: broken-links
