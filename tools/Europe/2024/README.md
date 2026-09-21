@@ -183,7 +183,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>distribRuted - Distributed Attack Framework (Botnet as a Service)</strong> — Melih Tas, Numan Ozdemir</summary>
 
 **Track:** Network Attacks · Exploitation and Ethical Hacking · **Event:** Europe 2024  
-🔗 **Link:** [https://github.com/distribRuted](https://github.com/distribRuted)  
+🔗 **Link:** [https://github.com/distribRuted/framework](https://github.com/distribRuted/framework)  
 📝 **Description:** Penetration testing tools often face limitations such as IP blocking, insufficient computing power, and time constraints. However, these challenges can be overcome by executing these tests across a distributed network of hundreds of devices. Organizing such a large-scale attack efficiently is complex, as the number of nodes increases, so does the difficulty in orchestration and management. distribRuted provides the necessary infrastructure and orchestration for distributed attacks. This framework allows developers to easily create and execute specific distributed attacks using standard application modules. Users can develop their attack modules or utilize pre-existing ones from the community. With distribRuted, automating, managing, and tracking a distributed attack across hundreds of nodes becomes straightforward, thereby enhancing efficiency, reducing time and costs, and eliminating a Single Point of Failure (SPoF) in penetration testing.
 
 </details>
@@ -443,7 +443,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Packing-Box: Improving Detection of Executable Packing</strong> — Alexandre D'Hondt, Charles-Henry Bertrand Van Ouytsel, Axel Legay, Alex Van Mechelen</summary>
 
 **Track:** Malware Defense · Malware Offense · **Event:** Europe 2024  
-🔗 **Link:** [https://github.com/packing-box](https://github.com/packing-box)  
+🔗 **Link:** [https://github.com/packing-box/docker-packing-box](https://github.com/packing-box/docker-packing-box)  
 📝 **Description:** This Docker image is an experimental toolkit gathering analyzers, detectors, packers, tools and machine learning machinery for making datasets of packed executables and training machine learning models for the static detection of executable packing applied to multiple formats (including PE, ELF and Mach-O) and for studying the best features that can be used in learning-based static detectors. Furthermore, it currently holds various functionalities to focus on supervised, unsupervised or even adversarial learning and is constantly being improved for extending its capabilities.
 
 </details>

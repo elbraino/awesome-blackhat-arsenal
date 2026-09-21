@@ -156,7 +156,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Dradis Framework</strong> — Daniel Martin</summary>
 
 **Track:** OSINT - Open Source Intelligence · **Event:** Asia 2025  
-🔗 **Link:** [https://github.com/dradis](https://github.com/dradis)  
+🔗 **Link:** [https://github.com/dradis/dradis-ce](https://github.com/dradis/dradis-ce)  
 📝 **Description:** Dradis Framework is an open-source collaboration and reporting platform for penetration testing teams. It centralizes findings, notes, and evidence from scanners (Nessus, Burp Suite, Nikto) alongside manual findings into a single portal, automating report generation and streamlining team communication during security assessments.
 
 </details>

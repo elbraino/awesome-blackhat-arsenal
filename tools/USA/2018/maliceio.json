@@ -1,7 +1,7 @@
 {
   "Tool Name": "MaliceIO",
   "Description": "Malice's mission is to be a free open source version of VirusTotal that anyone can use at any scale from an independent researcher to a fortune 500 company. Source Code: https://github.com/maliceio/malice",
-  "Github URL": "https://github.com/maliceio",
+  "Github URL": "https://github.com/maliceio/malice",
   "Tracks": [
     "Malware Defense"
   ],

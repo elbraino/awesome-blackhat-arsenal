@@ -170,7 +170,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>.NET Security Guard</strong> — Philippe Arteau</summary>
 
 **Track:** Code Assessment · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/dotnet-security-guard](https://github.com/dotnet-security-guard)  
+🔗 **Link:** [https://github.com/dotnet-security-guard/roslyn-security-guard](https://github.com/dotnet-security-guard/roslyn-security-guard)  
 📝 **Description:** .NET Security Guard is a code analyzer using the brand new Roslyn API, a framework built to develop analyzers, refactorings tools and build tools. It allows developers to scan their C# and VB.net code for potential vulnerabilities directly from Visual Studio. The analyzers are able to find a wide range of vulnerabilities from injection flaws to cryptographic weaknesses. Example of vulnerable applications will be analyzed in a live demonstration.
 
 </details>
@@ -686,7 +686,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>Arsenal Theater Demo: CAN Badger</strong> — Javier Vazquez Vidal, Henrik Ferdinand Noelsche</summary>
 
 **Track:** Hardware/Embedded · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/badger](https://github.com/badger)  
+🔗 **Link:** [https://github.com/Gutenshit/CANBadger](https://github.com/Gutenshit/CANBadger)  
 📝 **Description:** The car hacking topic is really hot at the moment, and many vulnerabilities affecting entire fleets are found from time to time. But is this all that there is regarding this topic? We want to introduce the CAN Badger, a tool designed to ease the way a vehicle is reversed. It is a hardware tool, not just an interface connected to a PC.Like its predecessor, the ECU Tool, the CAN Badger is able to handle the Security in ECUs in an easy way, as well as provide verbose information on what's going on in the buses. Want to learn how to approach vehicle electronics security in a practical way? Come and visit us at Arsenal!
 
 </details>
@@ -726,7 +726,7 @@ See also: [all tools by track](../../BY_CATEGORY.md) · [all tools A–Z](../../
 <details><summary><strong>CAN Badger</strong> — Javier Vazquez Vidal, Henrik Ferdinand Noelsche</summary>
 
 **Track:** Hardware/Embedded · **Event:** USA 2016  
-🔗 **Link:** [https://github.com/badger](https://github.com/badger)  
+🔗 **Link:** [https://github.com/Gutenshit/CANBadger](https://github.com/Gutenshit/CANBadger)  
 📝 **Description:** The car hacking topic is really hot at the moment, and many vulnerabilities affecting entire fleets are found from time to time. But is this all that there is regarding this topic? We want to introduce the CAN Badger, a tool designed to ease the way a vehicle is reversed. It is a hardware tool, not just an interface connected to a PC. Like its predecessor, the ECU Tool, the CAN Badger is able to handle the Security in ECUs in an easy way, as well as provide verbose information on what's going on in the buses. Want to learn how to approach vehicle electronics security in a practical way? Come and visit us at Arsenal!
 
 </details>
