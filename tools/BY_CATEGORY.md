@@ -1,6 +1,6 @@
 # All tools by track
 
-Every tool from every Black Hat Arsenal event (2098 presentations), grouped by track. Tools with several tracks appear under each. See also [all tools A–Z](BY_NAME.md).
+Every tool from every Black Hat Arsenal event (2099 presentations), grouped by track. Tools with several tracks appear under each. See also [all tools A–Z](BY_NAME.md).
 
 ## Contents
 - [Exploitation and Ethical Hacking](#exploitation-and-ethical-hacking) (328)
@@ -20,7 +20,7 @@ Every tool from every Black Hat Arsenal event (2098 presentations), grouped by t
 - [Data Forensics/Incident Response](#data-forensicsincident-response) (195)
 - [Arsenal Lab](#arsenal-lab) (88)
 - [Human Factors](#human-factors) (38)
-- [AI, ML & Data Science](#ai-ml--data-science) (64)
+- [AI, ML & Data Science](#ai-ml--data-science) (65)
 - [Hardware/Embedded](#hardwareembedded) (107)
 - [Cloud Security](#cloud-security) (60)
 - [Others](#others) (63)
@@ -2319,6 +2319,7 @@ Every tool from every Black Hat Arsenal event (2098 presentations), grouped by t
 - **unrelabel: how to destroy an ML model** — [USA 2026](USA/2026/README.md) · [repo](https://github.com/oz9un/unrelabel)
 - **Use opensource AI to map alerts & logs into techniques, clusters, and killchains** — [MEA 2024](MEA/2024/README.md)
 - **Wabhawk/Catch - AI Powered Detection** — [USA 2025](USA/2025/README.md) · [repo](https://github.com/slrbl/unsupervised-learning-attack-detection-webhawk-catch)
+- **Who is my Bodyguard? Demystifying Enterprise Security Rules with an AI Agent** — [Canada 2026](Canada/2026/README.md) · [repo](https://github.com/intuit/bodyguard)
 
 ## Hardware/Embedded
 

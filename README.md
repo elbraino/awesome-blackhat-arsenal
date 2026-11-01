@@ -1,4 +1,4 @@
-# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Tools](https://img.shields.io/badge/Tools-2098-blue)](#locations)
+# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Tools](https://img.shields.io/badge/Tools-2099-blue)](#locations)
 [![Project Logo](logo.png)](https://www.blackhat.com/html/arsenal.html)
 > 🚀 A curated list of cutting-edge cybersecurity tools showcased at the Black Hat Arsenal events — covering offensive, defensive, and research-focused security utilities.
 
@@ -9,7 +9,7 @@ Whether you're in red teaming, blue teaming, appsec, or OSINT — this list help
 - [Browse](#browse)
 - [Locations](#locations)
   - [Asia](#asia-363-tools)
-  - [Canada](#canada-98-tools)
+  - [Canada](#canada-99-tools)
   - [Europe](#europe-474-tools)
   - [MEA](#mea-37-tools)
   - [USA](#usa-1126-tools)
@@ -41,10 +41,11 @@ Whether you're in red teaming, blue teaming, appsec, or OSINT — this list help
 - [2025](tools/Asia/2025/README.md) — 51 tools
 - [2026](tools/Asia/2026/README.md) — 49 tools
 
-### Canada (98 tools)
+### Canada (99 tools)
 - [2023](tools/Canada/2023/README.md) — 30 tools
 - [2024](tools/Canada/2024/README.md) — 33 tools
 - [2025](tools/Canada/2025/README.md) — 35 tools
+- [2026](tools/Canada/2026/README.md) — 1 tools
 
 ### Europe (474 tools)
 - [2014](tools/Europe/2014/README.md) — 12 tools
@@ -81,7 +82,7 @@ Whether you're in red teaming, blue teaming, appsec, or OSINT — this list help
 - [2026](tools/USA/2026/README.md) — 101 tools
 
 ## Data
-The whole list is available as [`tools.json`](tools.json) and [`tools.csv`](tools.csv) (2098 rows: name, description, URL, tracks, speakers, year, location). Both are regenerated from the per-tool JSON files under `tools/` — treat them as read-only.
+The whole list is available as [`tools.json`](tools.json) and [`tools.csv`](tools.csv) (2099 rows: name, description, URL, tracks, speakers, year, location). Both are regenerated from the per-tool JSON files under `tools/` — treat them as read-only.
 
 ## Contributing
 We welcome community contributions to make this list better!
