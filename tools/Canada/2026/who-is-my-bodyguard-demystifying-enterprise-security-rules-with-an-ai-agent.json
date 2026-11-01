@@ -1,0 +1,14 @@
+{
+  "Tool Name": "Who is my Bodyguard? Demystifying Enterprise Security Rules with an AI Agent",
+  "Description": "Bodyguard is a local, Dockerized RAG agent that ingests security code (SQL detection rules, Python logic) and documentation (Markdown, Confluence), then answers plain-language questions about what the deployed defenses actually do. Every answer cites its source file, exposing drift between documentation and code, and it can optionally run live BigQuery queries to show real examples.",
+  "Github URL": "https://github.com/intuit/bodyguard",
+  "Tracks": [
+    "AI, ML & Data Science"
+  ],
+  "Speakers": [
+    "Jordan Garzon",
+    "Victor Arango"
+  ],
+  "Year": "2026",
+  "Location": "Canada"
+}

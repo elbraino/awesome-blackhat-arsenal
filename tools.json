@@ -6848,6 +6848,21 @@
   "Path": "tools/Canada/2025/tcp-fingerprint-firewall.json"
  },
  {
+  "Tool Name": "Who is my Bodyguard? Demystifying Enterprise Security Rules with an AI Agent",
+  "Description": "Bodyguard is a local, Dockerized RAG agent that ingests security code (SQL detection rules, Python logic) and documentation (Markdown, Confluence), then answers plain-language questions about what the deployed defenses actually do. Every answer cites its source file, exposing drift between documentation and code, and it can optionally run live BigQuery queries to show real examples.",
+  "Github URL": "https://github.com/intuit/bodyguard",
+  "Tracks": [
+   "AI, ML & Data Science"
+  ],
+  "Speakers": [
+   "Jordan Garzon",
+   "Victor Arango"
+  ],
+  "Year": "2026",
+  "Location": "Canada",
+  "Path": "tools/Canada/2026/who-is-my-bodyguard-demystifying-enterprise-security-rules-with-an-ai-agent.json"
+ },
+ {
   "Tool Name": "Bluebox-ng",
   "Description": "Bluebox-ng is a GPL VoIP/UC vulnerability scanner written using Node.js powers. My two cents is to improve security practices in these environments and to make Node.js still more awesome. During this conference, the first stable version (v0.1.0) will be presented with some bugs fixed and these cool features: - Auto VoIP/UC penetration test - Report generation - Performance enhancements",
   "Github URL": "https://github.com/damianfral/bluebox-ng-gsick",

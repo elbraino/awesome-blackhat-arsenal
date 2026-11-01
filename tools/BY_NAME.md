@@ -1,6 +1,6 @@
 # All tools A–Z
 
-1907 distinct tools across 2098 presentations; 140 were presented at more than one event. Tools are grouped by name, so a tool shown at several events is one line with every event listed. See also [all tools by track](BY_CATEGORY.md).
+1908 distinct tools across 2099 presentations; 140 were presented at more than one event. Tools are grouped by name, so a tool shown at several events is one line with every event listed. See also [all tools by track](BY_CATEGORY.md).
 
 ## Contents
 [0-9](#0-9) · [A](#a) · [B](#b) · [C](#c) · [D](#d) · [E](#e) · [F](#f) · [G](#g) · [H](#h) · [I](#i) · [J](#j) · [K](#k) · [L](#l) · [M](#m) · [N](#n) · [O](#o) · [P](#p) · [Q](#q) · [R](#r) · [S](#s) · [T](#t) · [U](#u) · [V](#v) · [W](#w) · [X](#x) · [Y](#y) · [Z](#z)
@@ -1934,6 +1934,7 @@
 - **White Phoenix - Beating Intermittent Encryption** — [Asia 2023](Asia/2023/README.md) · [repo](https://github.com/cyberark/White-Phoenix)
 - **White Phoenix: recovering files from ransomware attacks** — [Asia 2024](Asia/2024/README.md) · [repo](https://github.com/cyberark/white-phoenix)
 - **WhiteRabbit: Combining Threat Intelligence, Public Blockchain Data, and Machine Learning to go Down the "Dirty Money" Rabbit Hole** — [USA 2018](USA/2018/README.md) · [repo](https://github.com/ohdsi/whiterabbit)
+- **Who is my Bodyguard? Demystifying Enterprise Security Rules with an AI Agent** — [Canada 2026](Canada/2026/README.md) · [repo](https://github.com/intuit/bodyguard)
 - **WhoC: Peeking Under the Hood of CaaS Offerings** — [Europe 2021](Europe/2021/README.md) · [repo](https://github.com/twistlock/whoc)
 - **Wi-Fi Access Point Rootkits** — [Asia 2020](Asia/2020/README.md)
 - **WiDy: WiFi 0wnage in Under $5** — [Asia 2017](Asia/2017/README.md)
